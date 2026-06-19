@@ -1,0 +1,28 @@
+{
+  "apiVersion": "1",
+  "channel": {
+    "id": "Sila.ru",
+    "name": "Sila",
+    "rapidnasId": "elb2686",
+    "rapidnasName": "Сила"
+  },
+  "timezone": "Europe/Moscow",
+  "source": "RapidNAS XMLTV",
+  "generatedAt": "2026-06-19T11:33:45.863305+03:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-06-19",
+      "programs": [
+        {
+          "start": "2026-06-19T01:30:00+03:00",
+          "stop": "2026-06-19T02:30:00+03:00",
+          "title": "Шоу «Кулак». Сезон 2023. Турнир 22",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
+}

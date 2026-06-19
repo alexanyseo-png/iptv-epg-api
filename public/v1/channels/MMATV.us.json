@@ -1,0 +1,206 @@
+{
+  "apiVersion": "1",
+  "channel": {
+    "id": "MMATV.us",
+    "name": "MMA TV",
+    "rapidnasId": "elb90",
+    "rapidnasName": "MMA-TV"
+  },
+  "timezone": "Europe/Moscow",
+  "source": "RapidNAS XMLTV",
+  "generatedAt": "2026-06-19T11:33:45.863305+03:00",
+  "available": true,
+  "programmeCount": 25,
+  "days": [
+    {
+      "date": "2026-06-19",
+      "programs": [
+        {
+          "start": "2026-06-19T00:00:00+03:00",
+          "stop": "2026-06-19T04:00:00+03:00",
+          "title": "MMA Series. Топ бойцов легчайшего веса. О.Плотник, Д.Фабриэли, И.Чернышева.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T04:00:00+03:00",
+          "stop": "2026-06-19T08:00:00+03:00",
+          "title": "MMA Series Teams. Кузня: В.Колесник, А.Дурыманов, М.Колосов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T08:00:00+03:00",
+          "stop": "2026-06-19T11:40:00+03:00",
+          "title": "MMA Series Classic. И.Варварский.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T11:40:00+03:00",
+          "stop": "2026-06-19T12:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (153-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T12:00:00+03:00",
+          "stop": "2026-06-19T15:00:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T15:00:00+03:00",
+          "stop": "2026-06-19T18:45:00+03:00",
+          "title": "MMA Series Teams. Кузня: О.Попов, И.Фрейманов, А.Лебедев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T18:45:00+03:00",
+          "stop": "2026-06-19T19:10:00+03:00",
+          "title": "Территория ММА-ТВ.ком (153-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T19:10:00+03:00",
+          "stop": "2026-06-20T00:00:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-55: Grand arena. С.Бобрышев, С.Дьяконов, З.Гаджибабаев.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "programs": [
+        {
+          "start": "2026-06-20T00:00:00+03:00",
+          "stop": "2026-06-20T04:00:00+03:00",
+          "title": "MMA Series Teams. Кузня: О.Попов, И.Фрейманов, А.Лебедев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T04:00:00+03:00",
+          "stop": "2026-06-20T07:35:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T07:35:00+03:00",
+          "stop": "2026-06-20T08:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (153-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T08:00:00+03:00",
+          "stop": "2026-06-20T12:00:00+03:00",
+          "title": "MMA Series Classic. Б.Медведев, К.Корнилов, А.Семёнов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T12:00:00+03:00",
+          "stop": "2026-06-20T16:50:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-55: Grand arena. С.Бобрышев, С.Дьяконов, З.Гаджибабаев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T16:50:00+03:00",
+          "stop": "2026-06-20T18:45:00+03:00",
+          "title": "MMA Series Names (Г.Mишин).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T18:45:00+03:00",
+          "stop": "2026-06-20T19:00:00+03:00",
+          "title": "Имена и рекорды (MMA Серия - 94).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T19:00:00+03:00",
+          "stop": "2026-06-20T22:25:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-61. С.Дьяконов, Б.Гуськов, М.Артюхина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:25:00+03:00",
+          "stop": "2026-06-21T00:00:00+03:00",
+          "title": "MMA Series Names (B.Руденко).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "programs": [
+        {
+          "start": "2026-06-21T00:00:00+03:00",
+          "stop": "2026-06-21T04:40:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-50: Grand Arena. Я.Екимов, С.Бобрышев, А.Подмарев, З.Гаджибабаев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T04:40:00+03:00",
+          "stop": "2026-06-21T08:05:00+03:00",
+          "title": "MMA Series Classic. И.Варварский.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T08:05:00+03:00",
+          "stop": "2026-06-21T12:00:00+03:00",
+          "title": "MMA Series. Топ бойцов легчайшего веса. О.Плотник, Д.Фабриэли, И.Чернышева.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T12:00:00+03:00",
+          "stop": "2026-06-21T16:00:00+03:00",
+          "title": "MMA Series Names (С.Бобрышев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T16:00:00+03:00",
+          "stop": "2026-06-21T19:25:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-61. С.Дьяконов, Б.Гуськов, М.Артюхина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T19:25:00+03:00",
+          "stop": "2026-06-21T20:35:00+03:00",
+          "title": "MMA Series Names (И.Фигейра).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T20:35:00+03:00",
+          "stop": "2026-06-21T23:35:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: ММА Серия-85. Elite Fights. С.Бобрышев vs А.Хейбати.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T23:35:00+03:00",
+          "stop": "2026-06-22T00:35:00+03:00",
+          "title": "Клетка Виктории Ицеховской (ММА Серия-85).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
+}

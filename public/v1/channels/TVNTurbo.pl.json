@@ -1,0 +1,710 @@
+{
+  "apiVersion": "1",
+  "channel": {
+    "id": "TVNTurbo.pl",
+    "name": "TVN Turbo",
+    "rapidnasId": "elb3125",
+    "rapidnasName": "TVN Turbo HD"
+  },
+  "timezone": "Europe/Moscow",
+  "source": "RapidNAS XMLTV",
+  "generatedAt": "2026-06-19T11:33:45.863305+03:00",
+  "available": true,
+  "programmeCount": 97,
+  "days": [
+    {
+      "date": "2026-06-19",
+      "programs": [
+        {
+          "start": "2026-06-19T00:40:00+03:00",
+          "stop": "2026-06-19T01:40:00+03:00",
+          "title": "Ciężarówką przez RPA | S01E5/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T01:40:00+03:00",
+          "stop": "2026-06-19T02:25:00+03:00",
+          "title": "Naprawy nie do naprawy | S07E1/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T02:25:00+03:00",
+          "stop": "2026-06-19T03:25:00+03:00",
+          "title": "Wojny samochodowe | S16E4/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T03:25:00+03:00",
+          "stop": "2026-06-19T04:05:00+03:00",
+          "title": "Wypad z kraju | S04E6/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T04:05:00+03:00",
+          "stop": "2026-06-19T04:35:00+03:00",
+          "title": "Co Ty wiesz o broni? | E4/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T04:35:00+03:00",
+          "stop": "2026-06-19T05:05:00+03:00",
+          "title": "Będzie pan zadowolony | S02E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T05:05:00+03:00",
+          "stop": "2026-06-19T05:35:00+03:00",
+          "title": "Będzie pan zadowolony | S02E6/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T05:35:00+03:00",
+          "stop": "2026-06-19T06:35:00+03:00",
+          "title": "Wyburzacze 2 | S02E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T06:35:00+03:00",
+          "stop": "2026-06-19T07:05:00+03:00",
+          "title": "101 napraw | S02E7/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T07:05:00+03:00",
+          "stop": "2026-06-19T07:35:00+03:00",
+          "title": "Wszystko, co naj… | S02E6/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T07:35:00+03:00",
+          "stop": "2026-06-19T07:40:00+03:00",
+          "title": "Sport | E364/365",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T07:40:00+03:00",
+          "stop": "2026-06-19T08:30:00+03:00",
+          "title": "Wydobyte spod rdzy | S06E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T08:30:00+03:00",
+          "stop": "2026-06-19T09:00:00+03:00",
+          "title": "101 napraw | S09E1/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T09:00:00+03:00",
+          "stop": "2026-06-19T09:30:00+03:00",
+          "title": "101 napraw | S09E2/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T09:30:00+03:00",
+          "stop": "2026-06-19T10:15:00+03:00",
+          "title": "Megatransporty: najcięższy ładunek | E1/2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T10:15:00+03:00",
+          "stop": "2026-06-19T11:15:00+03:00",
+          "title": "Fani czterech kółek 15 | S15E3/27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T11:15:00+03:00",
+          "stop": "2026-06-19T12:15:00+03:00",
+          "title": "Złomowisko PL | S08E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T12:15:00+03:00",
+          "stop": "2026-06-19T13:15:00+03:00",
+          "title": "Złomowisko PL 9 | S09E1/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T13:15:00+03:00",
+          "stop": "2026-06-19T14:00:00+03:00",
+          "title": "Naprawy nie do naprawy | S04E5/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T14:00:00+03:00",
+          "stop": "2026-06-19T14:45:00+03:00",
+          "title": "Zawodowi handlarze | S08E7/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T14:45:00+03:00",
+          "stop": "2026-06-19T15:30:00+03:00",
+          "title": "Zawodowi handlarze | S08E8/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T15:30:00+03:00",
+          "stop": "2026-06-19T16:30:00+03:00",
+          "title": "Wojny samochodowe | S16E6/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T16:30:00+03:00",
+          "stop": "2026-06-19T17:30:00+03:00",
+          "title": "Wojny samochodowe | S16E7/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T17:30:00+03:00",
+          "stop": "2026-06-19T18:15:00+03:00",
+          "title": "Jeździć, obserwować | S03E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T18:15:00+03:00",
+          "stop": "2026-06-19T19:00:00+03:00",
+          "title": "Jeździć, obserwować | S03E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T19:00:00+03:00",
+          "stop": "2026-06-19T19:15:00+03:00",
+          "title": "Raport Turbo | E5005",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T19:15:00+03:00",
+          "stop": "2026-06-19T20:00:00+03:00",
+          "title": "Jeździć, obserwować | S06E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:00:00+03:00",
+          "stop": "2026-06-19T20:45:00+03:00",
+          "title": "Jeździć, obserwować | S06E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:45:00+03:00",
+          "stop": "2026-06-19T21:30:00+03:00",
+          "title": "Moto kombat | S02E4/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T21:30:00+03:00",
+          "stop": "2026-06-19T22:15:00+03:00",
+          "title": "Mobilni mechanicy | S10E1/4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T22:15:00+03:00",
+          "stop": "2026-06-19T23:00:00+03:00",
+          "title": "Duda kontra Szafrański | S08E5/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T23:00:00+03:00",
+          "stop": "2026-06-19T23:15:00+03:00",
+          "title": "Raport Turbo | E5005",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T23:15:00+03:00",
+          "stop": "2026-06-20T00:00:00+03:00",
+          "title": "Z drugiej ręki | S02E8/16",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "programs": [
+        {
+          "start": "2026-06-20T00:00:00+03:00",
+          "stop": "2026-06-20T00:45:00+03:00",
+          "title": "Zawodowi handlarze | S19E4/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T00:45:00+03:00",
+          "stop": "2026-06-20T01:25:00+03:00",
+          "title": "Moto Fachury | E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T01:25:00+03:00",
+          "stop": "2026-06-20T02:25:00+03:00",
+          "title": "Wojny samochodowe | S16E5/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T02:25:00+03:00",
+          "stop": "2026-06-20T03:25:00+03:00",
+          "title": "Wojny samochodowe | S16E6/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T03:25:00+03:00",
+          "stop": "2026-06-20T04:05:00+03:00",
+          "title": "Wypad z kraju | S04E7/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T04:05:00+03:00",
+          "stop": "2026-06-20T04:50:00+03:00",
+          "title": "Megatransporty | S02E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T04:50:00+03:00",
+          "stop": "2026-06-20T05:20:00+03:00",
+          "title": "Będzie pan zadowolony | S02E7/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T05:20:00+03:00",
+          "stop": "2026-06-20T06:10:00+03:00",
+          "title": "Wyburzacze | S03E1/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T06:10:00+03:00",
+          "stop": "2026-06-20T06:40:00+03:00",
+          "title": "101 napraw | S02E8/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T06:40:00+03:00",
+          "stop": "2026-06-20T07:35:00+03:00",
+          "title": "Tajemnice wraków Bałtyku | E7/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T07:35:00+03:00",
+          "stop": "2026-06-20T07:40:00+03:00",
+          "title": "Sport | E365",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T07:40:00+03:00",
+          "stop": "2026-06-20T08:40:00+03:00",
+          "title": "Fani czterech kółek 15 | S15E3/27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T08:40:00+03:00",
+          "stop": "2026-06-20T09:50:00+03:00",
+          "title": "Fani czterech kółek | S06E13/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T09:50:00+03:00",
+          "stop": "2026-06-20T10:45:00+03:00",
+          "title": "Samochód marzeń – kup i zrób | S15E2/6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T10:45:00+03:00",
+          "stop": "2026-06-20T11:30:00+03:00",
+          "title": "Naprawy nie do naprawy | S07E1/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T11:30:00+03:00",
+          "stop": "2026-06-20T12:15:00+03:00",
+          "title": "Moto kombat | S02E4/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T12:15:00+03:00",
+          "stop": "2026-06-20T13:15:00+03:00",
+          "title": "Ciężarówką przez RPA | S01E6/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T13:15:00+03:00",
+          "stop": "2026-06-20T14:00:00+03:00",
+          "title": "Moto Fachury | E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T14:00:00+03:00",
+          "stop": "2026-06-20T14:45:00+03:00",
+          "title": "Jeździć, obserwować | S05E15/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T14:45:00+03:00",
+          "stop": "2026-06-20T15:30:00+03:00",
+          "title": "Jeździć, obserwować | S06E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T15:30:00+03:00",
+          "stop": "2026-06-20T16:15:00+03:00",
+          "title": "Zawodowi handlarze | S17E3/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T16:15:00+03:00",
+          "stop": "2026-06-20T17:00:00+03:00",
+          "title": "Zawodowi handlarze | S17E4/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T17:00:00+03:00",
+          "stop": "2026-06-20T18:00:00+03:00",
+          "title": "Wojny samochodowe | S16E1/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T18:00:00+03:00",
+          "stop": "2026-06-20T19:00:00+03:00",
+          "title": "Wojny samochodowe | S16E1/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T19:00:00+03:00",
+          "stop": "2026-06-20T20:00:00+03:00",
+          "title": "Wojny samochodowe | S17E7/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T20:00:00+03:00",
+          "stop": "2026-06-20T21:00:00+03:00",
+          "title": "Nic do zgłoszenia | S05E7/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T21:00:00+03:00",
+          "stop": "2026-06-20T22:00:00+03:00",
+          "title": "Nic do zgłoszenia | S05E8/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:00:00+03:00",
+          "stop": "2026-06-20T22:55:00+03:00",
+          "title": "Samochód marzeń – kup i zrób | S15E5/6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:55:00+03:00",
+          "stop": "2026-06-20T23:55:00+03:00",
+          "title": "Samochód marzeń – kup i zrób | S15E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T23:55:00+03:00",
+          "stop": "2026-06-21T00:40:00+03:00",
+          "title": "Naprawy nie do naprawy | S04E1/8",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "programs": [
+        {
+          "start": "2026-06-21T00:40:00+03:00",
+          "stop": "2026-06-21T01:25:00+03:00",
+          "title": "Naprawy nie do naprawy | S04E2/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T01:25:00+03:00",
+          "stop": "2026-06-21T02:05:00+03:00",
+          "title": "Naprawy nie do naprawy | S04E3/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T02:05:00+03:00",
+          "stop": "2026-06-21T02:50:00+03:00",
+          "title": "Zawodowi handlarze | S07E11/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T02:50:00+03:00",
+          "stop": "2026-06-21T03:35:00+03:00",
+          "title": "Wypad z kraju | S04E8/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T03:35:00+03:00",
+          "stop": "2026-06-21T04:20:00+03:00",
+          "title": "Megatransporty | S02E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T04:20:00+03:00",
+          "stop": "2026-06-21T05:00:00+03:00",
+          "title": "Megatransporty | S02E6/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T05:00:00+03:00",
+          "stop": "2026-06-21T05:30:00+03:00",
+          "title": "Będzie pan zadowolony | S02E8/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T05:30:00+03:00",
+          "stop": "2026-06-21T06:25:00+03:00",
+          "title": "Wyburzacze | S03E2/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T06:25:00+03:00",
+          "stop": "2026-06-21T06:55:00+03:00",
+          "title": "101 napraw | S02E9/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T06:55:00+03:00",
+          "stop": "2026-06-21T07:35:00+03:00",
+          "title": "Dobra robota 3 | S03E16/24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T07:35:00+03:00",
+          "stop": "2026-06-21T07:40:00+03:00",
+          "title": "Sport | E366",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T07:40:00+03:00",
+          "stop": "2026-06-21T08:10:00+03:00",
+          "title": "Najdziwniejsze samochody świata | S01E6/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T08:10:00+03:00",
+          "stop": "2026-06-21T09:05:00+03:00",
+          "title": "Samochód marzeń – kup i zrób | S15E4/6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T09:05:00+03:00",
+          "stop": "2026-06-21T09:35:00+03:00",
+          "title": "Usterka 16 | S16E8/25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T09:35:00+03:00",
+          "stop": "2026-06-21T10:05:00+03:00",
+          "title": "Usterka 16 | S16E9/25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T10:05:00+03:00",
+          "stop": "2026-06-21T10:30:00+03:00",
+          "title": "Raport końcowy | E823",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T10:30:00+03:00",
+          "stop": "2026-06-21T11:15:00+03:00",
+          "title": "Moto Fachury | E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T11:15:00+03:00",
+          "stop": "2026-06-21T11:45:00+03:00",
+          "title": "Uwaga! Oszust: Ściema z ogłoszenia | E5/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T11:45:00+03:00",
+          "stop": "2026-06-21T12:45:00+03:00",
+          "title": "Wojny samochodowe | S21E5/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T12:45:00+03:00",
+          "stop": "2026-06-21T13:30:00+03:00",
+          "title": "Z drugiej ręki | S02E9/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T13:30:00+03:00",
+          "stop": "2026-06-21T14:15:00+03:00",
+          "title": "Jeździć, obserwować | S07E1/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T14:15:00+03:00",
+          "stop": "2026-06-21T15:00:00+03:00",
+          "title": "Moto kombat | S02E5/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T15:00:00+03:00",
+          "stop": "2026-06-21T15:45:00+03:00",
+          "title": "Zawodowi handlarze | S19E10/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T15:45:00+03:00",
+          "stop": "2026-06-21T16:30:00+03:00",
+          "title": "Zawodowi handlarze | S18E6/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T16:30:00+03:00",
+          "stop": "2026-06-21T17:15:00+03:00",
+          "title": "Naprawy nie do naprawy | S07E2/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T17:15:00+03:00",
+          "stop": "2026-06-21T18:00:00+03:00",
+          "title": "Naprawy nie do naprawy | S06E6/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T18:00:00+03:00",
+          "stop": "2026-06-21T19:00:00+03:00",
+          "title": "Ciężarówką przez Stany 4 | S04E3/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T19:00:00+03:00",
+          "stop": "2026-06-21T19:45:00+03:00",
+          "title": "Mobilni mechanicy | S10E2/4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T19:45:00+03:00",
+          "stop": "2026-06-21T20:10:00+03:00",
+          "title": "Raport końcowy | E823",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T20:10:00+03:00",
+          "stop": "2026-06-21T21:10:00+03:00",
+          "title": "Nic do zgłoszenia 3 | S03E7/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T21:10:00+03:00",
+          "stop": "2026-06-21T22:10:00+03:00",
+          "title": "Nic do zgłoszenia 3 | S03E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T22:10:00+03:00",
+          "stop": "2026-06-21T22:55:00+03:00",
+          "title": "Jeździć, obserwować | S07E1/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T22:55:00+03:00",
+          "stop": "2026-06-21T23:40:00+03:00",
+          "title": "Moto kombat | S02E5/9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T23:40:00+03:00",
+          "stop": "2026-06-22T00:10:00+03:00",
+          "title": "Uwaga! Oszust: Ściema z ogłoszenia | E5/12",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
+}

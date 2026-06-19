@@ -1,0 +1,465 @@
+{
+  "apiVersion": "1",
+  "channel": {
+    "id": "NovaSport1.cz",
+    "name": "Nova Sport 1",
+    "rapidnasId": "elb2250",
+    "rapidnasName": "Nova Sport 1"
+  },
+  "timezone": "Europe/Moscow",
+  "source": "RapidNAS XMLTV",
+  "generatedAt": "2026-06-19T11:33:45.863305+03:00",
+  "available": true,
+  "programmeCount": 62,
+  "days": [
+    {
+      "date": "2026-06-19",
+      "programs": [
+        {
+          "start": "2026-06-19T00:00:00+03:00",
+          "stop": "2026-06-19T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T00:05:00+03:00",
+          "stop": "2026-06-19T00:20:00+03:00",
+          "title": "NHL News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T00:20:00+03:00",
+          "stop": "2026-06-19T02:15:00+03:00",
+          "title": "Irsko – Itálie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T02:15:00+03:00",
+          "stop": "2026-06-19T04:00:00+03:00",
+          "title": "Parkurové skákání (21)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T04:00:00+03:00",
+          "stop": "2026-06-19T08:00:00+03:00",
+          "title": "Parkurové skákání (22)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T08:00:00+03:00",
+          "stop": "2026-06-19T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T08:05:00+03:00",
+          "stop": "2026-06-19T09:45:00+03:00",
+          "title": "Skotsko – Anglie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T09:45:00+03:00",
+          "stop": "2026-06-19T11:30:00+03:00",
+          "title": "Parkurové skákání (21)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T11:30:00+03:00",
+          "stop": "2026-06-19T13:30:00+03:00",
+          "title": "Parkurové skákání (22)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T13:30:00+03:00",
+          "stop": "2026-06-19T14:00:00+03:00",
+          "title": "Surffoiling & The New World Tour SFT",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T14:00:00+03:00",
+          "stop": "2026-06-19T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T14:05:00+03:00",
+          "stop": "2026-06-19T15:45:00+03:00",
+          "title": "Borussia Dortmund – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T15:45:00+03:00",
+          "stop": "2026-06-19T17:30:00+03:00",
+          "title": "RB Lipsko – 1. FC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T17:30:00+03:00",
+          "stop": "2026-06-19T17:50:00+03:00",
+          "title": "Run Aréna (6)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T17:50:00+03:00",
+          "stop": "2026-06-19T19:45:00+03:00",
+          "title": "Parkurové skákání (24)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T19:45:00+03:00",
+          "stop": "2026-06-19T20:00:00+03:00",
+          "title": "NHL News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:00:00+03:00",
+          "stop": "2026-06-19T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:05:00+03:00",
+          "stop": "2026-06-19T20:15:00+03:00",
+          "title": "NHL – akce měsíce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:15:00+03:00",
+          "stop": "2026-06-19T20:25:00+03:00",
+          "title": "Běhej lesy – Brdy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T20:25:00+03:00",
+          "stop": "2026-06-19T21:50:00+03:00",
+          "title": "Parkurové skákání (25)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T21:50:00+03:00",
+          "stop": "2026-06-19T22:20:00+03:00",
+          "title": "SpadePoker show 2026 (21)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T22:20:00+03:00",
+          "stop": "2026-06-19T22:25:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-19T22:25:00+03:00",
+          "stop": "2026-06-20T00:35:00+03:00",
+          "title": "Carolina Hurricanes – Vegas Golden Knights",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-20",
+      "programs": [
+        {
+          "start": "2026-06-20T00:35:00+03:00",
+          "stop": "2026-06-20T00:40:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T00:40:00+03:00",
+          "stop": "2026-06-20T02:25:00+03:00",
+          "title": "Northampton Saints – Leicester Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T02:25:00+03:00",
+          "stop": "2026-06-20T02:55:00+03:00",
+          "title": "Alpine Quest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T02:55:00+03:00",
+          "stop": "2026-06-20T04:50:00+03:00",
+          "title": "Parkurové skákání (24)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T04:50:00+03:00",
+          "stop": "2026-06-20T08:00:00+03:00",
+          "title": "Parkurové skákání (25)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T08:00:00+03:00",
+          "stop": "2026-06-20T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T08:05:00+03:00",
+          "stop": "2026-06-20T10:00:00+03:00",
+          "title": "Wales – Francie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T10:00:00+03:00",
+          "stop": "2026-06-20T11:00:00+03:00",
+          "title": "The King's poker (81)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T11:00:00+03:00",
+          "stop": "2026-06-20T12:00:00+03:00",
+          "title": "The King's poker (24)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T12:00:00+03:00",
+          "stop": "2026-06-20T12:30:00+03:00",
+          "title": "Epic Series – Cape Epic Part 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T12:30:00+03:00",
+          "stop": "2026-06-20T13:00:00+03:00",
+          "title": "JACKALOPE Block Party Ventura 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T13:00:00+03:00",
+          "stop": "2026-06-20T15:00:00+03:00",
+          "title": "Bath Rugby – Exeter Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T15:00:00+03:00",
+          "stop": "2026-06-20T16:55:00+03:00",
+          "title": "Northampton Saints – Leicester Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T16:55:00+03:00",
+          "stop": "2026-06-20T19:15:00+03:00",
+          "title": "Premiership Rugby",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T19:15:00+03:00",
+          "stop": "2026-06-20T19:35:00+03:00",
+          "title": "České taekwondo ITF (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T19:35:00+03:00",
+          "stop": "2026-06-20T22:10:00+03:00",
+          "title": "Parkurové skákání (26)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:10:00+03:00",
+          "stop": "2026-06-20T22:15:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:15:00+03:00",
+          "stop": "2026-06-20T22:30:00+03:00",
+          "title": "Run Aréna (6)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:30:00+03:00",
+          "stop": "2026-06-20T22:45:00+03:00",
+          "title": "Běhej lesy – Brdy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T22:45:00+03:00",
+          "stop": "2026-06-20T23:00:00+03:00",
+          "title": "České taekwondo ITF (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T23:00:00+03:00",
+          "stop": "2026-06-20T23:30:00+03:00",
+          "title": "SpadePoker show 2026 (21)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-20T23:30:00+03:00",
+          "stop": "2026-06-21T00:00:00+03:00",
+          "title": "Surffoiling & The New World Tour SFT",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-21",
+      "programs": [
+        {
+          "start": "2026-06-21T00:00:00+03:00",
+          "stop": "2026-06-21T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T00:05:00+03:00",
+          "stop": "2026-06-21T00:40:00+03:00",
+          "title": "Alpine Quest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T00:40:00+03:00",
+          "stop": "2026-06-21T02:15:00+03:00",
+          "title": "Skotsko – Anglie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T02:15:00+03:00",
+          "stop": "2026-06-21T02:45:00+03:00",
+          "title": "Swatch Nines – A PLATFORM FOR PROGRESSION",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T02:45:00+03:00",
+          "stop": "2026-06-21T03:45:00+03:00",
+          "title": "The King's poker (81)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T03:45:00+03:00",
+          "stop": "2026-06-21T08:00:00+03:00",
+          "title": "Parkurové skákání (26)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T08:00:00+03:00",
+          "stop": "2026-06-21T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T08:05:00+03:00",
+          "stop": "2026-06-21T10:00:00+03:00",
+          "title": "Premiership Rugby",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T10:00:00+03:00",
+          "stop": "2026-06-21T11:45:00+03:00",
+          "title": "Anglie – Irsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T11:45:00+03:00",
+          "stop": "2026-06-21T12:00:00+03:00",
+          "title": "České taekwondo ITF (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T12:00:00+03:00",
+          "stop": "2026-06-21T13:45:00+03:00",
+          "title": "VfL Bochum – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T13:45:00+03:00",
+          "stop": "2026-06-21T15:30:00+03:00",
+          "title": "SC Freiburg – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T15:30:00+03:00",
+          "stop": "2026-06-21T17:30:00+03:00",
+          "title": "Union Berlín – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T17:30:00+03:00",
+          "stop": "2026-06-21T20:00:00+03:00",
+          "title": "KSW 119: Kaczmarczyk vs. Brichta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T20:00:00+03:00",
+          "stop": "2026-06-21T22:00:00+03:00",
+          "title": "Premiership Rugby",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T22:00:00+03:00",
+          "stop": "2026-06-21T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-21T22:05:00+03:00",
+          "stop": "2026-06-22T00:00:00+03:00",
+          "title": "Anglie – Irsko",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
+}
