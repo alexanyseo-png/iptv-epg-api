@@ -60,11 +60,3 @@ jobs:
           git add public
           git commit -m "Update EPG schedules"
           git push
-
-      - name: Deploy Cloudflare Pages
-        if: steps.generated.outputs.changed == 'true'
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy public --project-name=${{ vars.CLOUDFLARE_PROJECT_NAME }} --branch=main

@@ -35,8 +35,8 @@ review them, and then copy the verified result into this project.
 ## Deployment
 
 GitHub Actions checks every six hours. A build is performed only after the last
-successful publication becomes at least 18 hours old. The generated `public/`
-directory is deployed to the dedicated Cloudflare Pages project.
+successful publication becomes at least 18 hours old. The workflow commits the
+generated `public/` directory, and the Cloudflare Pages Git integration deploys
+that commit without storing a Cloudflare API token in GitHub.
 
 See `PLAN.md` for architecture and reliability decisions.
-

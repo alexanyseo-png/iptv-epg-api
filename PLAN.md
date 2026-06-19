@@ -53,7 +53,7 @@ must be reviewed outside this service.
 
 - Source repository: one public GitHub repository.
 - Scheduler: GitHub Actions.
-- Hosting/CDN: one Cloudflare Pages Direct Upload project.
+- Hosting/CDN: one Cloudflare Pages project connected through its GitHub App.
 - Vercel is intentionally not used for the central API.
 
 ## Delivery stages
@@ -64,4 +64,3 @@ must be reviewed outside this service.
 4. Add GitHub repository secrets for unattended deployments.
 5. Connect the `Domkino.ru` site to the public API.
 6. Add the IPTV single-page category to Site Factory later.
-
