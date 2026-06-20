@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-19T08:40:53.927421+00:00",
+  "generatedAt": "2026-06-20T04:42:17.856355+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-06-19",
-      "programs": [
-        {
-          "start": "2026-06-19T00:45:00+03:00",
-          "stop": "2026-06-19T02:30:00+03:00",
-          "title": "Deportivo Alavés – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T02:30:00+03:00",
-          "stop": "2026-06-19T08:00:00+03:00",
-          "title": "UD Las Palmas – Deportivo La Coruňa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T08:00:00+03:00",
-          "stop": "2026-06-19T09:50:00+03:00",
-          "title": "Athletic Bilbao – Qarabag Agdam",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T09:50:00+03:00",
-          "stop": "2026-06-19T11:40:00+03:00",
-          "title": "Real Madrid – Juventus FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T11:40:00+03:00",
-          "stop": "2026-06-19T13:30:00+03:00",
-          "title": "Chelsea FC – AFC Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T13:30:00+03:00",
-          "stop": "2026-06-19T15:10:00+03:00",
-          "title": "Atlético Madrid – Valencia CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T15:10:00+03:00",
-          "stop": "2026-06-19T16:50:00+03:00",
-          "title": "FC Barcelona – CA Osasuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T16:50:00+03:00",
-          "stop": "2026-06-19T17:25:00+03:00",
-          "title": "Finále Ligy mistrů – film",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T17:25:00+03:00",
-          "stop": "2026-06-19T19:10:00+03:00",
-          "title": "Villarreal CF – FC Barcelona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T19:10:00+03:00",
-          "stop": "2026-06-19T21:00:00+03:00",
-          "title": "FC Kodaň – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T21:00:00+03:00",
-          "stop": "2026-06-19T22:50:00+03:00",
-          "title": "PSV Eindhoven – SSC Neapol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T22:50:00+03:00",
-          "stop": "2026-06-20T00:40:00+03:00",
-          "title": "RU Saint-Gilloise – Inter Milán",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-20",
       "programs": [
@@ -274,6 +185,32 @@
           "start": "2026-06-21T22:50:00+03:00",
           "stop": "2026-06-22T00:35:00+03:00",
           "title": "Juventus FC – Sporting CP",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "programs": [
+        {
+          "start": "2026-06-22T00:35:00+03:00",
+          "stop": "2026-06-22T02:20:00+03:00",
+          "title": "Villarreal CF – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T02:20:00+03:00",
+          "stop": "2026-06-22T02:30:00+03:00",
+          "title": "LaLiga Experience – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T02:30:00+03:00",
+          "stop": "2026-06-22T03:30:00+03:00",
+          "title": "Racing Santander – CD Mirandés",
           "description": "L",
           "category": null
         }

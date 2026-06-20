@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-19T08:40:53.927421+00:00",
+  "generatedAt": "2026-06-20T04:42:17.856355+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-06-19",
-      "programs": [
-        {
-          "start": "2026-06-19T00:00:00+03:00",
-          "stop": "2026-06-19T01:45:00+03:00",
-          "title": "Про Миру и Гошу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T01:45:00+03:00",
-          "stop": "2026-06-19T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T06:00:00+03:00",
-          "stop": "2026-06-19T07:30:00+03:00",
-          "title": "Котики, вперёд!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T07:30:00+03:00",
-          "stop": "2026-06-19T08:00:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T08:00:00+03:00",
-          "stop": "2026-06-19T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T09:00:00+03:00",
-          "stop": "2026-06-19T11:30:00+03:00",
-          "title": "Три кота.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T11:30:00+03:00",
-          "stop": "2026-06-19T12:00:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T12:00:00+03:00",
-          "stop": "2026-06-19T18:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T18:00:00+03:00",
-          "stop": "2026-06-19T22:00:00+03:00",
-          "title": "Барбоскины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T22:00:00+03:00",
-          "stop": "2026-06-19T23:00:00+03:00",
-          "title": "Ну, погоди!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T23:00:00+03:00",
-          "stop": "2026-06-19T23:05:00+03:00",
-          "title": "Принцесса и людоед.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T23:05:00+03:00",
-          "stop": "2026-06-19T23:10:00+03:00",
-          "title": "Баба Яга и Малышка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T23:10:00+03:00",
-          "stop": "2026-06-19T23:15:00+03:00",
-          "title": "Принцесса и Бандит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-19T23:15:00+03:00",
-          "stop": "2026-06-20T00:00:00+03:00",
-          "title": "Три кота.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-20",
       "programs": [
@@ -288,6 +185,39 @@
           "start": "2026-06-21T23:00:00+03:00",
           "stop": "2026-06-22T00:00:00+03:00",
           "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-22",
+      "programs": [
+        {
+          "start": "2026-06-22T00:00:00+03:00",
+          "stop": "2026-06-22T01:45:00+03:00",
+          "title": "Чуч-Мяуч.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T01:45:00+03:00",
+          "stop": "2026-06-22T02:00:00+03:00",
+          "title": "Простоквашино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T02:00:00+03:00",
+          "stop": "2026-06-22T03:45:00+03:00",
+          "title": "Чуч-Мяуч.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T03:45:00+03:00",
+          "stop": "2026-06-22T04:45:00+03:00",
+          "title": "Простоквашино.",
           "description": "L",
           "category": null
         }
