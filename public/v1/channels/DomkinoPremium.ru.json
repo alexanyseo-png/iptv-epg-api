@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-21T05:20:03.537457+00:00",
+  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-06-21",
-      "programs": [
-        {
-          "start": "2026-06-21T01:20:00+03:00",
-          "stop": "2026-06-21T01:50:00+03:00",
-          "title": "х/ф 39 няня, ставшая для нас последней",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T01:50:00+03:00",
-          "stop": "2026-06-21T03:10:00+03:00",
-          "title": "х/ф Грецкий орешек",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T03:10:00+03:00",
-          "stop": "2026-06-21T04:50:00+03:00",
-          "title": "х/ф По-мужски",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T04:50:00+03:00",
-          "stop": "2026-06-21T06:30:00+03:00",
-          "title": "х/ф Духless 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T06:30:00+03:00",
-          "stop": "2026-06-21T09:00:00+03:00",
-          "title": "х/ф Тренер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T09:00:00+03:00",
-          "stop": "2026-06-21T11:00:00+03:00",
-          "title": "т/с Черный пес. Имплант",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T11:00:00+03:00",
-          "stop": "2026-06-21T19:50:00+03:00",
-          "title": "т/с Возмездие",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T19:50:00+03:00",
-          "stop": "2026-06-21T21:55:00+03:00",
-          "title": "т/с Сумрак",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T21:55:00+03:00",
-          "stop": "2026-06-21T23:20:00+03:00",
-          "title": "х/ф Синдром",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T23:20:00+03:00",
-          "stop": "2026-06-22T01:05:00+03:00",
-          "title": "х/ф Легенда о самбо",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-22",
       "programs": [
@@ -150,6 +75,13 @@
           "start": "2026-06-22T14:00:00+03:00",
           "stop": "2026-06-22T16:40:00+03:00",
           "title": "т/с Мажор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T16:40:00+03:00",
+          "stop": "2026-06-22T19:05:00+03:00",
+          "title": "х/ф Время первых",
           "description": "L",
           "category": null
         }

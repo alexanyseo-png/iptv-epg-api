@@ -8,80 +8,99 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-21T05:20:03.537457+00:00",
+  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 12,
   "days": [
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "programs": [
         {
-          "start": "2026-06-21T01:00:00+03:00",
-          "stop": "2026-06-21T07:00:00+03:00",
+          "start": "2026-06-22T01:00:00+03:00",
+          "stop": "2026-06-22T07:00:00+03:00",
           "title": "Sounds Of Trace.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T07:00:00+03:00",
-          "stop": "2026-06-21T12:00:00+03:00",
-          "title": "Weekend Vibes.",
+          "start": "2026-06-22T07:00:00+03:00",
+          "stop": "2026-06-22T13:00:00+03:00",
+          "title": "Urban Vibes.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T12:00:00+03:00",
-          "stop": "2026-06-21T13:00:00+03:00",
-          "title": "Rewind.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T13:00:00+03:00",
-          "stop": "2026-06-21T14:45:00+03:00",
-          "title": "Hit 30.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T14:45:00+03:00",
-          "stop": "2026-06-21T15:00:00+03:00",
+          "start": "2026-06-22T13:00:00+03:00",
+          "stop": "2026-06-22T19:00:00+03:00",
           "title": "Hits Non Stop.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T15:00:00+03:00",
-          "stop": "2026-06-21T19:00:00+03:00",
-          "title": "Weekend Vibes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T19:00:00+03:00",
-          "stop": "2026-06-21T19:45:00+03:00",
+          "start": "2026-06-22T19:00:00+03:00",
+          "stop": "2026-06-22T19:45:00+03:00",
           "title": "Hit 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T19:45:00+03:00",
-          "stop": "2026-06-21T20:00:00+03:00",
+          "start": "2026-06-22T19:45:00+03:00",
+          "stop": "2026-06-22T20:00:00+03:00",
           "title": "Hits Non Stop.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T20:00:00+03:00",
-          "stop": "2026-06-21T21:00:00+03:00",
+          "start": "2026-06-22T20:00:00+03:00",
+          "stop": "2026-06-22T21:00:00+03:00",
           "title": "Focus.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T21:00:00+03:00",
-          "stop": "2026-06-21T22:00:00+03:00",
-          "title": "Weekend Vibes.",
+          "start": "2026-06-22T21:00:00+03:00",
+          "stop": "2026-06-22T21:45:00+03:00",
+          "title": "Top 10 Hip Hop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T21:45:00+03:00",
+          "stop": "2026-06-22T22:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T22:00:00+03:00",
+          "stop": "2026-06-22T23:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T23:00:00+03:00",
+          "stop": "2026-06-23T00:00:00+03:00",
+          "title": "Stream It.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "programs": [
+        {
+          "start": "2026-06-23T00:00:00+03:00",
+          "stop": "2026-06-23T01:00:00+03:00",
+          "title": "Новые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T01:00:00+03:00",
+          "stop": "2026-06-23T02:00:00+03:00",
+          "title": "Sounds Of Trace.",
           "description": "L",
           "category": null
         }

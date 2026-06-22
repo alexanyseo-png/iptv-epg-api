@@ -8,66 +8,85 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-21T05:20:03.537457+00:00",
+  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 10,
   "days": [
     {
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "programs": [
         {
-          "start": "2026-06-21T00:00:00+03:00",
-          "stop": "2026-06-21T04:40:00+03:00",
-          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-50: Grand Arena. Я.Екимов, С.Бобрышев, А.Подмарев, З.Гаджибабаев.",
+          "start": "2026-06-22T00:05:00+03:00",
+          "stop": "2026-06-22T01:40:00+03:00",
+          "title": "MMA Series Classic.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T04:40:00+03:00",
-          "stop": "2026-06-21T08:05:00+03:00",
-          "title": "MMA Series Classic. И.Варварский.",
+          "start": "2026-06-22T01:40:00+03:00",
+          "stop": "2026-06-22T04:00:00+03:00",
+          "title": "MMA Series Main Card.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T08:05:00+03:00",
-          "stop": "2026-06-21T12:00:00+03:00",
-          "title": "MMA Series. Топ бойцов легчайшего веса. О.Плотник, Д.Фабриэли, И.Чернышева.",
+          "start": "2026-06-22T04:00:00+03:00",
+          "stop": "2026-06-22T08:00:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T12:00:00+03:00",
-          "stop": "2026-06-21T16:00:00+03:00",
-          "title": "MMA Series Names (С.Бобрышев).",
+          "start": "2026-06-22T08:00:00+03:00",
+          "stop": "2026-06-22T09:25:00+03:00",
+          "title": "MMA Series Names (M.Колосов).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T16:00:00+03:00",
-          "stop": "2026-06-21T19:25:00+03:00",
-          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-61. С.Дьяконов, Б.Гуськов, М.Артюхина.",
+          "start": "2026-06-22T09:25:00+03:00",
+          "stop": "2026-06-22T11:00:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T19:25:00+03:00",
-          "stop": "2026-06-21T20:35:00+03:00",
-          "title": "MMA Series Names (И.Фигейра).",
+          "start": "2026-06-22T11:00:00+03:00",
+          "stop": "2026-06-22T15:05:00+03:00",
+          "title": "MMA Series Teams. Кузня: В.Колесник, А.Дурыманов, М.Колосов.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T20:35:00+03:00",
-          "stop": "2026-06-21T23:35:00+03:00",
-          "title": "MMA Series Gold. Лучшие турниры: ММА Серия-85. Elite Fights. С.Бобрышев vs А.Хейбати.",
+          "start": "2026-06-22T15:05:00+03:00",
+          "stop": "2026-06-22T19:55:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-55: Grand arena. С.Бобрышев, С.Дьяконов, З.Гаджибабаев.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-21T23:35:00+03:00",
-          "stop": "2026-06-22T00:35:00+03:00",
-          "title": "Клетка Виктории Ицеховской (ММА Серия-85).",
+          "start": "2026-06-22T19:55:00+03:00",
+          "stop": "2026-06-23T00:00:00+03:00",
+          "title": "MMA Series Classic. В.Ковалев, С.Бобрышев, А.Ляпунов.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "programs": [
+        {
+          "start": "2026-06-23T00:00:00+03:00",
+          "stop": "2026-06-23T01:40:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T01:40:00+03:00",
+          "stop": "2026-06-23T02:40:00+03:00",
+          "title": "MMA Series Main Card.",
           "description": "L",
           "category": null
         }

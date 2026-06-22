@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-21T05:20:03.537457+00:00",
+  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-06-21",
-      "programs": [
-        {
-          "start": "2026-06-21T01:00:00+03:00",
-          "stop": "2026-06-21T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T04:00:00+03:00",
-          "stop": "2026-06-21T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T08:00:00+03:00",
-          "stop": "2026-06-21T09:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T09:00:00+03:00",
-          "stop": "2026-06-22T01:00:00+03:00",
-          "title": "Top 200 eurodance vs. euro disco",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-22",
       "programs": [
@@ -100,6 +67,27 @@
         {
           "start": "2026-06-22T14:00:00+03:00",
           "stop": "2026-06-22T15:00:00+03:00",
+          "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T15:00:00+03:00",
+          "stop": "2026-06-22T16:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T16:00:00+03:00",
+          "stop": "2026-06-22T17:00:00+03:00",
+          "title": "Best 00's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T17:00:00+03:00",
+          "stop": "2026-06-22T18:00:00+03:00",
           "title": "Best 80's",
           "description": "L",
           "category": null

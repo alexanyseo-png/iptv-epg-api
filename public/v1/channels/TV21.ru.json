@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-21T05:20:03.537457+00:00",
+  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-06-21",
-      "programs": [
-        {
-          "start": "2026-06-21T00:50:00+03:00",
-          "stop": "2026-06-21T02:25:00+03:00",
-          "title": "Замёрзшая из Майами.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T02:25:00+03:00",
-          "stop": "2026-06-21T03:50:00+03:00",
-          "title": "Гамбит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T03:50:00+03:00",
-          "stop": "2026-06-21T05:35:00+03:00",
-          "title": "Возвращение в Бургундию.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T05:35:00+03:00",
-          "stop": "2026-06-21T07:00:00+03:00",
-          "title": "Счастливо оставаться.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T07:00:00+03:00",
-          "stop": "2026-06-21T08:35:00+03:00",
-          "title": "Добро пожаловать в семью.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T08:35:00+03:00",
-          "stop": "2026-06-21T10:15:00+03:00",
-          "title": "Семейный переполох.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T10:15:00+03:00",
-          "stop": "2026-06-21T12:20:00+03:00",
-          "title": "Маме снова 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T12:20:00+03:00",
-          "stop": "2026-06-21T14:00:00+03:00",
-          "title": "Водитель-олигарх.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T14:00:00+03:00",
-          "stop": "2026-06-21T15:35:00+03:00",
-          "title": "Механик.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T15:35:00+03:00",
-          "stop": "2026-06-21T18:25:00+03:00",
-          "title": "Балканский рубеж.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T18:25:00+03:00",
-          "stop": "2026-06-21T20:20:00+03:00",
-          "title": "Крушение.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T20:20:00+03:00",
-          "stop": "2026-06-21T22:25:00+03:00",
-          "title": "Хитмен. Последнее дело.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-21T22:25:00+03:00",
-          "stop": "2026-06-22T00:20:00+03:00",
-          "title": "Догмен.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-22",
       "programs": [
@@ -134,8 +38,83 @@
         },
         {
           "start": "2026-06-22T05:35:00+03:00",
-          "stop": "2026-06-22T06:35:00+03:00",
+          "stop": "2026-06-22T07:00:00+03:00",
           "title": "Настоящее будущее.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T07:00:00+03:00",
+          "stop": "2026-06-22T09:20:00+03:00",
+          "title": "Бронкская история.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T09:20:00+03:00",
+          "stop": "2026-06-22T11:00:00+03:00",
+          "title": "Защитник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T11:00:00+03:00",
+          "stop": "2026-06-22T13:05:00+03:00",
+          "title": "Поезд в Пусан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T13:05:00+03:00",
+          "stop": "2026-06-22T14:55:00+03:00",
+          "title": "Конченая.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T14:55:00+03:00",
+          "stop": "2026-06-22T17:05:00+03:00",
+          "title": "Удача Логана.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T17:05:00+03:00",
+          "stop": "2026-06-22T19:20:00+03:00",
+          "title": "Кто убил BlackBerry.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T19:20:00+03:00",
+          "stop": "2026-06-22T21:25:00+03:00",
+          "title": "Игра в имитацию.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T21:25:00+03:00",
+          "stop": "2026-06-22T23:50:00+03:00",
+          "title": "Апокалипсис.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-22T23:50:00+03:00",
+          "stop": "2026-06-23T01:50:00+03:00",
+          "title": "Скалолаз.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-23",
+      "programs": [
+        {
+          "start": "2026-06-23T01:50:00+03:00",
+          "stop": "2026-06-23T02:50:00+03:00",
+          "title": "Духless.",
           "description": "L",
           "category": null
         }
