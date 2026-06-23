@@ -8,80 +8,279 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 37,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:10:00+03:00",
-          "stop": "2026-06-22T02:10:00+03:00",
-          "title": "Tennis: ATP 500 Halle. Singles, Final (Tennis: ATP 500 – Terra Wortmann Open), 2026",
+          "start": "2026-06-23T01:00:00+03:00",
+          "stop": "2026-06-23T02:25:00+03:00",
+          "title": "MotoGP. Czechia GP. MotoGP Race (MotoGP: Czech Republic Grand Prix), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T02:10:00+03:00",
-          "stop": "2026-06-22T05:05:00+03:00",
+          "start": "2026-06-23T02:25:00+03:00",
+          "stop": "2026-06-23T03:25:00+03:00",
+          "title": "MXGP. Italy. Race 1 (Motocross: FIM Motocross World Championship Italy), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T03:25:00+03:00",
+          "stop": "2026-06-23T05:05:00+03:00",
+          "title": "MXGP. Italy. Race 2 (Motocross: FIM Motocross World Championship Italy), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T05:05:00+03:00",
+          "stop": "2026-06-23T07:00:00+03:00",
+          "title": "Football: Supercopa de España. 1/2 final 2. Atlético Madrid – Real Madrid (Football: Spanish Super Cup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T07:00:00+03:00",
+          "stop": "2026-06-23T09:15:00+03:00",
+          "title": "Football: Supercopa de España. Final. Barcelona – Real Madrid (Football: Spanish Super Cup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:15:00+03:00",
+          "stop": "2026-06-23T11:10:00+03:00",
+          "title": "Football: Serie A. Parma – Roma (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:10:00+03:00",
+          "stop": "2026-06-23T13:30:00+03:00",
+          "title": "Football: Spanish Promotion Playoffs. Final (LaLiga HyperMotion), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:30:00+03:00",
+          "stop": "2026-06-23T17:30:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, Round 1 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T17:30:00+03:00",
+          "stop": "2026-06-23T20:30:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, Round 1 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:30:00+03:00",
+          "stop": "2026-06-23T22:25:00+03:00",
+          "title": "Basketball: ACB league. Final G3. Barcelona – Valencia (Liga Endesa), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:25:00+03:00",
+          "stop": "2026-06-23T22:55:00+03:00",
+          "title": "Basketball: NBA on Fire (NBA on Fire), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:55:00+03:00",
+          "stop": "2026-06-24T00:50:00+03:00",
           "title": "Basketball: WNBA. Atlanta Dream – Indiana Fever (WNBA), 2026",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
         {
-          "start": "2026-06-22T05:05:00+03:00",
-          "stop": "2026-06-22T07:00:00+03:00",
-          "title": "Basketball: ACB league. Final G2. Valencia – Barcelona (Liga Endesa), 2026",
+          "start": "2026-06-24T00:50:00+03:00",
+          "stop": "2026-06-24T02:00:00+03:00",
+          "title": "Motorsports: FIM Superbike World Championship. Emilia-Romagna Round. WorldSBK Race 1 (Superbike World Championship: Misano World Circuit), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T07:00:00+03:00",
-          "stop": "2026-06-22T08:00:00+03:00",
-          "title": "Football: Bundesliga (Sportschau – Bundesliga am Sonntag)",
+          "start": "2026-06-24T02:00:00+03:00",
+          "stop": "2026-06-24T04:05:00+03:00",
+          "title": "Motorsports: FIM Superbike World Championship. Emilia-Romagna Round. WorldSBK Race 2 (Superbike World Championship: Misano World Circuit), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T08:00:00+03:00",
-          "stop": "2026-06-22T08:25:00+03:00",
-          "title": "NBA Action (NBA Action), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T08:25:00+03:00",
-          "stop": "2026-06-22T09:25:00+03:00",
-          "title": "Beach Volley: World Beach Pro Tour Futures Jurmala. Men. Final (Beach Volleyball: Beach Pro Tour – Challenge for Men in Jurmala), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T09:25:00+03:00",
-          "stop": "2026-06-22T10:35:00+03:00",
-          "title": "Beach Volley: World Beach Pro Tour Futures Jurmala. Women. Final (Beach Volleyball: Beach Pro Tour – Challenge for Women in Jurmala), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T10:35:00+03:00",
-          "stop": "2026-06-22T13:30:00+03:00",
+          "start": "2026-06-24T04:05:00+03:00",
+          "stop": "2026-06-24T07:00:00+03:00",
           "title": "Motorsport: FIM Speedway Grand Prix. Round 5 GP of Poland – Wroclaw (Speedway: Wroclaw FIM Speedway Grand Prix), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T13:30:00+03:00",
-          "stop": "2026-06-22T17:30:00+03:00",
-          "title": "Tennis: ATP 250 Mallorca. Singles, Round 1 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "start": "2026-06-24T07:00:00+03:00",
+          "stop": "2026-06-24T08:15:00+03:00",
+          "title": "MotoGP. Czechia GP. Moto3 Race (Moto3: Czech Republic Grand Prix), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T17:30:00+03:00",
-          "stop": "2026-06-22T20:30:00+03:00",
-          "title": "Tennis: ATP 250 Mallorca. Singles, Round 1 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "start": "2026-06-24T08:15:00+03:00",
+          "stop": "2026-06-24T09:35:00+03:00",
+          "title": "MotoGP. Czechia GP. Moto2 Race (Moto2: Czech Republic Grand Prix), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:35:00+03:00",
+          "stop": "2026-06-24T11:00:00+03:00",
+          "title": "MotoGP. Czechia GP. MotoGP Race (MotoGP: Czech Republic Grand Prix), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:00:00+03:00",
+          "stop": "2026-06-24T11:30:00+03:00",
+          "title": "The WRC Magazine (The WRC Magazine), 2024",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:30:00+03:00",
+          "stop": "2026-06-24T13:30:00+03:00",
+          "title": "Basketball: ACB league. Final G3. Barcelona – Valencia (Liga Endesa), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:30:00+03:00",
+          "stop": "2026-06-24T17:30:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, Round 2 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:30:00+03:00",
+          "stop": "2026-06-24T20:30:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, Round 2 (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:30:00+03:00",
+          "stop": "2026-06-24T21:00:00+03:00",
+          "title": "FIFA Stories From the Cities (FIFA Stories From The Cities), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T21:00:00+03:00",
+          "stop": "2026-06-24T22:55:00+03:00",
+          "title": "Football: Spanish Promotion Playoffs. Final (LaLiga HyperMotion), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T22:55:00+03:00",
+          "stop": "2026-06-25T00:55:00+03:00",
+          "title": "Basketball: BCL. 1/4 final. Nymburk – Rytas Vilnius (Basketbal Champions League), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:55:00+03:00",
+          "stop": "2026-06-25T03:00:00+03:00",
+          "title": "Basketball: BCL. 1/2 final 2. Rytas Vilnius – Tenerife (Basketbal Champions League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:00:00+03:00",
+          "stop": "2026-06-25T05:10:00+03:00",
+          "title": "Football: Serie A. Inter – Juventus (Calcio: Campionato Italiano Serie A), 2025",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:10:00+03:00",
+          "stop": "2026-06-25T07:00:00+03:00",
+          "title": "Football: Serie A. Como – Roma (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:00:00+03:00",
+          "stop": "2026-06-25T08:55:00+03:00",
+          "title": "Football: Serie A. Genoa – Napoli (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:55:00+03:00",
+          "stop": "2026-06-25T12:00:00+03:00",
+          "title": "Motorsport: FIM Speedway Grand Prix. Round 5 GP of Poland – Wroclaw (Speedway: Wroclaw FIM Speedway Grand Prix), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:00:00+03:00",
+          "stop": "2026-06-25T14:00:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, 1/4 final (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:00:00+03:00",
+          "stop": "2026-06-25T18:00:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, 1/4 final (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:00:00+03:00",
+          "stop": "2026-06-25T20:30:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, 1/4 final (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T20:30:00+03:00",
+          "stop": "2026-06-25T21:00:00+03:00",
+          "title": "NBA Action (NBA Action), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:00:00+03:00",
+          "stop": "2026-06-25T22:55:00+03:00",
+          "title": "Basketball: ACB league. Final G4. Barcelona – Valencia (Liga Endesa), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:55:00+03:00",
+          "stop": "2026-06-25T23:55:00+03:00",
+          "title": "Beach Volley: World Beach Pro Tour Futures Jurmala. Men. Final (Beach Volleyball: Beach Pro Tour – Challenge for Men in Jurmala), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T23:55:00+03:00",
+          "stop": "2026-06-26T01:10:00+03:00",
+          "title": "Beach Volley: World Beach Pro Tour Futures Jurmala. Women. Final (Beach Volleyball: Beach Pro Tour – Challenge for Women in Jurmala), 2026",
           "description": "L",
           "category": null
         }

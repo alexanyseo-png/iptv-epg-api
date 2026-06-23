@@ -8,101 +8,468 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 64,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:00:00+03:00",
-          "stop": "2026-06-22T01:45:00+03:00",
-          "title": "Handbal: Brest-CSM Bucuresti EHF Feminin Champions League – finala mica",
+          "start": "2026-06-23T00:30:00+03:00",
+          "stop": "2026-06-23T01:30:00+03:00",
+          "title": "Interviurile Digi Sport Invitat: Alexandru Chipciu",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T01:45:00+03:00",
-          "stop": "2026-06-22T03:30:00+03:00",
-          "title": "Handbal: Gyor-Metz EHF Feminin Champions League – finala",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T03:30:00+03:00",
-          "stop": "2026-06-22T07:00:00+03:00",
-          "title": "Moto: Marele Premiu al Cehiei Moto 3/Moto 2/Moto GP – Cursele",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T07:00:00+03:00",
-          "stop": "2026-06-22T08:00:00+03:00",
+          "start": "2026-06-23T01:30:00+03:00",
+          "stop": "2026-06-23T02:30:00+03:00",
           "title": "Bundesliga: Rezumat Etapa 17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T08:00:00+03:00",
-          "stop": "2026-06-22T09:00:00+03:00",
+          "start": "2026-06-23T02:30:00+03:00",
+          "stop": "2026-06-23T03:30:00+03:00",
           "title": "Serie A: Rezumat Etapa 17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T09:00:00+03:00",
-          "stop": "2026-06-22T09:45:00+03:00",
+          "start": "2026-06-23T03:30:00+03:00",
+          "stop": "2026-06-23T04:15:00+03:00",
           "title": "La Liga: Rezumat Etapa 17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T09:45:00+03:00",
-          "stop": "2026-06-22T10:30:00+03:00",
-          "title": "Superliga: Rezumatele Etapei Etapa 17",
+          "start": "2026-06-23T04:15:00+03:00",
+          "stop": "2026-06-23T05:15:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T10:30:00+03:00",
-          "stop": "2026-06-22T11:30:00+03:00",
-          "title": "Bundesliga: Rezumat Etapa 18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T11:30:00+03:00",
-          "stop": "2026-06-22T12:15:00+03:00",
+          "start": "2026-06-23T05:15:00+03:00",
+          "stop": "2026-06-23T06:15:00+03:00",
           "title": "Serie A: Rezumat Etapa 18",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T12:15:00+03:00",
-          "stop": "2026-06-22T13:00:00+03:00",
+          "start": "2026-06-23T06:15:00+03:00",
+          "stop": "2026-06-23T07:00:00+03:00",
           "title": "La Liga: Rezumat Etapa 18",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T13:00:00+03:00",
-          "stop": "2026-06-22T15:00:00+03:00",
+          "start": "2026-06-23T07:00:00+03:00",
+          "stop": "2026-06-23T08:00:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:00:00+03:00",
+          "stop": "2026-06-23T09:00:00+03:00",
+          "title": "Serie A: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:00:00+03:00",
+          "stop": "2026-06-23T09:45:00+03:00",
+          "title": "La Liga: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:45:00+03:00",
+          "stop": "2026-06-23T10:30:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:30:00+03:00",
+          "stop": "2026-06-23T11:30:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:30:00+03:00",
+          "stop": "2026-06-23T12:15:00+03:00",
+          "title": "Serie A: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T12:15:00+03:00",
+          "stop": "2026-06-23T13:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:00:00+03:00",
+          "stop": "2026-06-23T15:00:00+03:00",
           "title": "⋗ Tenis",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T15:00:00+03:00",
-          "stop": "2026-06-22T17:00:00+03:00",
+          "start": "2026-06-23T15:00:00+03:00",
+          "stop": "2026-06-23T16:30:00+03:00",
           "title": "⋗ Tenis",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T17:00:00+03:00",
-          "stop": "2026-06-22T19:00:00+03:00",
+          "start": "2026-06-23T16:30:00+03:00",
+          "stop": "2026-06-23T18:30:00+03:00",
           "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T18:30:00+03:00",
+          "stop": "2026-06-23T20:30:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:30:00+03:00",
+          "stop": "2026-06-23T22:30:00+03:00",
+          "title": "Handbal: Brest-CSM Bucuresti EHF Feminin Champions League – finala mica",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:30:00+03:00",
+          "stop": "2026-06-24T00:45:00+03:00",
+          "title": "Handbal: Gyor-Metz EHF Feminin Champions League – finala",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T00:45:00+03:00",
+          "stop": "2026-06-24T01:30:00+03:00",
+          "title": "Europa League: Magazin Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T01:30:00+03:00",
+          "stop": "2026-06-24T02:30:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T02:30:00+03:00",
+          "stop": "2026-06-24T03:30:00+03:00",
+          "title": "Serie A: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T03:30:00+03:00",
+          "stop": "2026-06-24T04:15:00+03:00",
+          "title": "La Liga: Rezumat Etapa 19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T04:15:00+03:00",
+          "stop": "2026-06-24T05:15:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:15:00+03:00",
+          "stop": "2026-06-24T06:15:00+03:00",
+          "title": "Serie A: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:15:00+03:00",
+          "stop": "2026-06-24T07:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:00:00+03:00",
+          "stop": "2026-06-24T08:00:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T08:00:00+03:00",
+          "stop": "2026-06-24T09:00:00+03:00",
+          "title": "Serie A: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:00:00+03:00",
+          "stop": "2026-06-24T09:45:00+03:00",
+          "title": "La Liga: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:45:00+03:00",
+          "stop": "2026-06-24T10:30:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:30:00+03:00",
+          "stop": "2026-06-24T11:30:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:30:00+03:00",
+          "stop": "2026-06-24T12:15:00+03:00",
+          "title": "Serie A: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T12:15:00+03:00",
+          "stop": "2026-06-24T13:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:00:00+03:00",
+          "stop": "2026-06-24T15:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T15:00:00+03:00",
+          "stop": "2026-06-24T16:30:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T16:30:00+03:00",
+          "stop": "2026-06-24T18:30:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T18:30:00+03:00",
+          "stop": "2026-06-24T20:30:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:30:00+03:00",
+          "stop": "2026-06-24T22:30:00+03:00",
+          "title": "Handbal: Aalborg-Magdeburg EHF Masculin Champions League – finala mica",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T22:30:00+03:00",
+          "stop": "2026-06-25T00:45:00+03:00",
+          "title": "Handbal: Barca-Fuchse Berlin EHF Masculin Champions League – finala",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:45:00+03:00",
+          "stop": "2026-06-25T01:30:00+03:00",
+          "title": "Conference League: Magazin Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T01:30:00+03:00",
+          "stop": "2026-06-25T02:30:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:30:00+03:00",
+          "stop": "2026-06-25T03:30:00+03:00",
+          "title": "Serie A: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:30:00+03:00",
+          "stop": "2026-06-25T04:15:00+03:00",
+          "title": "La Liga: Rezumat Etapa 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T04:15:00+03:00",
+          "stop": "2026-06-25T05:15:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:15:00+03:00",
+          "stop": "2026-06-25T06:15:00+03:00",
+          "title": "Serie A: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:15:00+03:00",
+          "stop": "2026-06-25T07:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:00:00+03:00",
+          "stop": "2026-06-25T08:00:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:00:00+03:00",
+          "stop": "2026-06-25T08:45:00+03:00",
+          "title": "Serie A: Rezumat Etapa 23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:45:00+03:00",
+          "stop": "2026-06-25T09:30:00+03:00",
+          "title": "La Liga: Rezumat Etapa 23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T09:30:00+03:00",
+          "stop": "2026-06-25T10:15:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:15:00+03:00",
+          "stop": "2026-06-25T11:15:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T11:15:00+03:00",
+          "stop": "2026-06-25T12:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:00:00+03:00",
+          "stop": "2026-06-25T12:30:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:30:00+03:00",
+          "stop": "2026-06-25T14:00:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:00:00+03:00",
+          "stop": "2026-06-25T14:30:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:30:00+03:00",
+          "stop": "2026-06-25T16:00:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:00:00+03:00",
+          "stop": "2026-06-25T16:30:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:30:00+03:00",
+          "stop": "2026-06-25T18:00:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:00:00+03:00",
+          "stop": "2026-06-25T18:30:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:30:00+03:00",
+          "stop": "2026-06-25T20:30:00+03:00",
+          "title": "⋗ Tenis Sferturi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T20:30:00+03:00",
+          "stop": "2026-06-25T21:30:00+03:00",
+          "title": "Interviurile Digi Sport",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:30:00+03:00",
+          "stop": "2026-06-25T22:45:00+03:00",
+          "title": "Moto: Marele Premiu al Cehiei Moto GP – Cursa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:45:00+03:00",
+          "stop": "2026-06-26T02:00:00+03:00",
+          "title": "Kickboxing: Colosseum Tournament 49 Ploiesti",
           "description": "L",
           "category": null
         }

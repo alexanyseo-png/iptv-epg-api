@@ -8,31 +8,272 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 36,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:35:00+03:00",
-          "stop": "2026-06-22T02:20:00+03:00",
-          "title": "Villarreal CF – Real Madrid",
+          "start": "2026-06-23T01:00:00+03:00",
+          "stop": "2026-06-23T02:50:00+03:00",
+          "title": "Real Madrid – Rayo Vallecano",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T02:20:00+03:00",
-          "stop": "2026-06-22T02:30:00+03:00",
-          "title": "LaLiga Experience – Atlético Madrid",
+          "start": "2026-06-23T02:50:00+03:00",
+          "stop": "2026-06-23T08:00:00+03:00",
+          "title": "Real Sociedad B – Málaga CF",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T02:30:00+03:00",
-          "stop": "2026-06-22T03:30:00+03:00",
-          "title": "Racing Santander – CD Mirandés",
+          "start": "2026-06-23T08:00:00+03:00",
+          "stop": "2026-06-23T09:20:00+03:00",
+          "title": "Tottenham Hotspur – FC Kodaň",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:20:00+03:00",
+          "stop": "2026-06-23T09:50:00+03:00",
+          "title": "UCL Final 25/26: Official Film",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:50:00+03:00",
+          "stop": "2026-06-23T11:35:00+03:00",
+          "title": "Pafos FC – Villarreal CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:35:00+03:00",
+          "stop": "2026-06-23T13:20:00+03:00",
+          "title": "Qarabag Agdam – Chelsea FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:20:00+03:00",
+          "stop": "2026-06-23T14:00:00+03:00",
+          "title": "Liga mistrů UEFA Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:00:00+03:00",
+          "stop": "2026-06-23T15:40:00+03:00",
+          "title": "FC Barcelona – RCD Mallorca",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T15:40:00+03:00",
+          "stop": "2026-06-23T17:25:00+03:00",
+          "title": "Atlético Madrid – Real Betis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T17:25:00+03:00",
+          "stop": "2026-06-23T19:10:00+03:00",
+          "title": "Real Madrid – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T19:10:00+03:00",
+          "stop": "2026-06-23T21:00:00+03:00",
+          "title": "Club Bruggy – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T21:00:00+03:00",
+          "stop": "2026-06-23T22:50:00+03:00",
+          "title": "SL Benfica – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:50:00+03:00",
+          "stop": "2026-06-24T00:40:00+03:00",
+          "title": "Liverpool FC – Real Madrid",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T00:40:00+03:00",
+          "stop": "2026-06-24T02:30:00+03:00",
+          "title": "Girona FC – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T02:30:00+03:00",
+          "stop": "2026-06-24T08:00:00+03:00",
+          "title": "Cádiz CF – Real Sociedad B",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T08:00:00+03:00",
+          "stop": "2026-06-24T09:50:00+03:00",
+          "title": "Club Bruggy – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:50:00+03:00",
+          "stop": "2026-06-24T11:40:00+03:00",
+          "title": "SL Benfica – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:40:00+03:00",
+          "stop": "2026-06-24T13:30:00+03:00",
+          "title": "Liverpool FC – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:30:00+03:00",
+          "stop": "2026-06-24T15:20:00+03:00",
+          "title": "CA Osasuna – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T15:20:00+03:00",
+          "stop": "2026-06-24T17:10:00+03:00",
+          "title": "Atlético Madrid – Espanyol Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:10:00+03:00",
+          "stop": "2026-06-24T19:00:00+03:00",
+          "title": "FC Barcelona – Villarreal CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:00:00+03:00",
+          "stop": "2026-06-24T21:00:00+03:00",
+          "title": "PSG – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T21:00:00+03:00",
+          "stop": "2026-06-24T22:50:00+03:00",
+          "title": "Manchester City – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T22:50:00+03:00",
+          "stop": "2026-06-25T00:40:00+03:00",
+          "title": "Newcastle United – Athletic Bilbao",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:40:00+03:00",
+          "stop": "2026-06-25T02:30:00+03:00",
+          "title": "Real Madrid – Getafe CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:30:00+03:00",
+          "stop": "2026-06-25T08:00:00+03:00",
+          "title": "Córdoba CF – FC Andorra",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:00:00+03:00",
+          "stop": "2026-06-25T10:00:00+03:00",
+          "title": "PSG – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:00:00+03:00",
+          "stop": "2026-06-25T11:40:00+03:00",
+          "title": "Manchester City – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T11:40:00+03:00",
+          "stop": "2026-06-25T13:25:00+03:00",
+          "title": "Newcastle United – Athletic Bilbao",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T13:25:00+03:00",
+          "stop": "2026-06-25T15:10:00+03:00",
+          "title": "Athletic Bilbao – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:10:00+03:00",
+          "stop": "2026-06-25T16:55:00+03:00",
+          "title": "Atlético Madrid – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:55:00+03:00",
+          "stop": "2026-06-25T18:45:00+03:00",
+          "title": "Atlético Madrid – Getafe CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:45:00+03:00",
+          "stop": "2026-06-25T19:15:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (36)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T19:15:00+03:00",
+          "stop": "2026-06-25T21:00:00+03:00",
+          "title": "Atlético Madrid – RU Saint-Gilloise",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:00:00+03:00",
+          "stop": "2026-06-25T22:45:00+03:00",
+          "title": "FK Bodo/Glimt – AS Monaco",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:45:00+03:00",
+          "stop": "2026-06-26T00:30:00+03:00",
+          "title": "Olympiakos Pireus – PSV Eindhoven",
           "description": "L",
           "category": null
         }

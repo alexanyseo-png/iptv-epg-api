@@ -8,66 +8,426 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 58,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:00:00+03:00",
-          "stop": "2026-06-22T01:00:00+03:00",
-          "title": "Tour de Suisse. Men's Stage 5",
+          "start": "2026-06-23T02:00:00+03:00",
+          "stop": "2026-06-23T03:00:00+03:00",
+          "title": "UFC Main Event. 318: Max Holloway v Dustin Poirier 3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T01:00:00+03:00",
-          "stop": "2026-06-22T02:00:00+03:00",
+          "start": "2026-06-23T03:00:00+03:00",
+          "stop": "2026-06-23T04:00:00+03:00",
+          "title": "UCI Continental Circuits. La Route d'Occitanie: Stage 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T04:00:00+03:00",
+          "stop": "2026-06-23T05:00:00+03:00",
+          "title": "UCI Continental Circuits. Andorra Clàssica",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T05:00:00+03:00",
+          "stop": "2026-06-23T06:00:00+03:00",
           "title": "Tour of Slovenia. Stage 5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T02:00:00+03:00",
-          "stop": "2026-06-22T02:30:00+03:00",
-          "title": "UCI World Cup Mountain Biking. Lenzerheide: Women's Cross-Country Olympic",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T02:30:00+03:00",
-          "stop": "2026-06-22T03:00:00+03:00",
-          "title": "UCI World Cup Mountain Biking. Lenzerheide: Men's Cross-Country Olympic",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T03:00:00+03:00",
-          "stop": "2026-06-22T04:00:00+03:00",
+          "start": "2026-06-23T06:00:00+03:00",
+          "stop": "2026-06-23T07:00:00+03:00",
           "title": "Volta a Catalunya. Women's Stage 3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T04:00:00+03:00",
-          "stop": "2026-06-22T04:30:00+03:00",
-          "title": "The Cycling Show. Series 26 Episode 8",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T04:30:00+03:00",
-          "stop": "2026-06-22T05:30:00+03:00",
+          "start": "2026-06-23T07:00:00+03:00",
+          "stop": "2026-06-23T08:00:00+03:00",
           "title": "International T20 Cricket. 3rd T20: Bangladesh v Australia",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T05:30:00+03:00",
-          "stop": "2026-06-22T06:30:00+03:00",
+          "start": "2026-06-23T08:00:00+03:00",
+          "stop": "2026-06-23T10:00:00+03:00",
+          "title": "Test Cricket. India v Afghanistan: One-Off Test Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:00:00+03:00",
+          "stop": "2026-06-23T11:00:00+03:00",
+          "title": "One-Day International Cricket. 1st ODI: India v Afghanistan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:00:00+03:00",
+          "stop": "2026-06-23T12:00:00+03:00",
+          "title": "One-Day International Cricket. 2nd ODI: India v Afghanistan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T12:00:00+03:00",
+          "stop": "2026-06-23T13:00:00+03:00",
           "title": "One-Day International Cricket. 3rd ODI: India v Afghanistan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:00:00+03:00",
+          "stop": "2026-06-23T14:30:00+03:00",
+          "title": "Australian Rules. Fremantle v Geelong Cats",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:30:00+03:00",
+          "stop": "2026-06-23T16:00:00+03:00",
+          "title": "Australian Rules. Gold Coast SUNS v Hawthorn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T16:00:00+03:00",
+          "stop": "2026-06-23T17:30:00+03:00",
+          "title": "Australian Rules. Adelaide Crows v Melbourne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T17:30:00+03:00",
+          "stop": "2026-06-23T19:00:00+03:00",
+          "title": "Australian Rules. GWS GIANTS v Carlton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T19:00:00+03:00",
+          "stop": "2026-06-23T20:30:00+03:00",
+          "title": "Australian Rules. Collingwood v Port Adelaide",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:30:00+03:00",
+          "stop": "2026-06-23T22:00:00+03:00",
+          "title": "Australian Rules. Richmond v North Melbourne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:00:00+03:00",
+          "stop": "2026-06-23T23:30:00+03:00",
+          "title": "Australian Rules. St Kilda v Western Bulldogs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T23:30:00+03:00",
+          "stop": "2026-06-24T01:00:00+03:00",
+          "title": "European Championship Fencing. Day 6",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T01:00:00+03:00",
+          "stop": "2026-06-24T02:00:00+03:00",
+          "title": "Global Champions Tour. Paris",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T02:00:00+03:00",
+          "stop": "2026-06-24T03:00:00+03:00",
+          "title": "World Climbing Series. Innsbruck",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T03:00:00+03:00",
+          "stop": "2026-06-24T03:30:00+03:00",
+          "title": "The Cycling Show. Series 26 Episode 9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T03:30:00+03:00",
+          "stop": "2026-06-24T04:00:00+03:00",
+          "title": "The WRC Magazine. Acropolis Rally Greece",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T04:00:00+03:00",
+          "stop": "2026-06-24T05:00:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:00:00+03:00",
+          "stop": "2026-06-24T05:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Leogang: Enduro",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:30:00+03:00",
+          "stop": "2026-06-24T06:30:00+03:00",
+          "title": "UEFA Champions League: Greatest Nights. Celtic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:30:00+03:00",
+          "stop": "2026-06-24T07:30:00+03:00",
+          "title": "UEFA Champions League: Greatest Nights. Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:30:00+03:00",
+          "stop": "2026-06-24T08:00:00+03:00",
+          "title": "UEFA Champions League: Stories of the Finals. 1993 and 2015",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T08:00:00+03:00",
+          "stop": "2026-06-24T09:00:00+03:00",
+          "title": "One-Day International Cricket. 1st ODI: Bangladesh v New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:00:00+03:00",
+          "stop": "2026-06-24T10:00:00+03:00",
+          "title": "One-Day International Cricket. 2nd ODI: Bangladesh v New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:00:00+03:00",
+          "stop": "2026-06-24T11:00:00+03:00",
+          "title": "One-Day International Cricket. 3rd ODI: Bangladesh v New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:00:00+03:00",
+          "stop": "2026-06-24T12:00:00+03:00",
+          "title": "International T20 Cricket. 1st T20: Bangladesh v New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T12:00:00+03:00",
+          "stop": "2026-06-24T13:00:00+03:00",
+          "title": "International T20 Cricket. 3rd T20: Bangladesh v New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:00:00+03:00",
+          "stop": "2026-06-24T14:30:00+03:00",
+          "title": "European Championship Fencing. Day 6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T14:30:00+03:00",
+          "stop": "2026-06-24T15:30:00+03:00",
+          "title": "Global Champions Tour. Paris",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T15:30:00+03:00",
+          "stop": "2026-06-24T16:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto3 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T16:30:00+03:00",
+          "stop": "2026-06-24T17:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:30:00+03:00",
+          "stop": "2026-06-24T18:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T18:00:00+03:00",
+          "stop": "2026-06-24T19:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:00:00+03:00",
+          "stop": "2026-06-24T20:00:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:00:00+03:00",
+          "stop": "2026-06-24T21:30:00+03:00",
+          "title": "Ultimate Pool Champions League. Group 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T21:30:00+03:00",
+          "stop": "2026-06-24T23:00:00+03:00",
+          "title": "Australian Rules. Fremantle v Geelong Cats",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T23:00:00+03:00",
+          "stop": "2026-06-25T00:30:00+03:00",
+          "title": "Australian Rules. Gold Coast SUNS v Hawthorn",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:30:00+03:00",
+          "stop": "2026-06-25T02:00:00+03:00",
+          "title": "Australian Rules. Adelaide Crows v Melbourne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:00:00+03:00",
+          "stop": "2026-06-25T03:30:00+03:00",
+          "title": "Australian Rules. GWS GIANTS v Carlton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:30:00+03:00",
+          "stop": "2026-06-25T05:00:00+03:00",
+          "title": "Australian Rules. Collingwood v Port Adelaide",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:00:00+03:00",
+          "stop": "2026-06-25T06:30:00+03:00",
+          "title": "Australian Rules. Richmond v North Melbourne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:30:00+03:00",
+          "stop": "2026-06-25T08:00:00+03:00",
+          "title": "Australian Rules. St Kilda v Western Bulldogs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:00:00+03:00",
+          "stop": "2026-06-25T09:00:00+03:00",
+          "title": "One-Day International Cricket. 1st ODI: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T09:00:00+03:00",
+          "stop": "2026-06-25T10:00:00+03:00",
+          "title": "One-Day International Cricket. 2nd ODI: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:00:00+03:00",
+          "stop": "2026-06-25T11:00:00+03:00",
+          "title": "One-Day International Cricket. 3rd ODI: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T11:00:00+03:00",
+          "stop": "2026-06-25T12:00:00+03:00",
+          "title": "International T20 Cricket. 1st T20: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:00:00+03:00",
+          "stop": "2026-06-25T13:00:00+03:00",
+          "title": "International T20 Cricket. 2nd T20: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T13:00:00+03:00",
+          "stop": "2026-06-25T14:00:00+03:00",
+          "title": "International T20 Cricket. 3rd T20: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:00:00+03:00",
+          "stop": "2026-06-25T15:00:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:00:00+03:00",
+          "stop": "2026-06-25T15:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Leogang: Enduro",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:30:00+03:00",
+          "stop": "2026-06-25T16:30:00+03:00",
+          "title": "Fishing: On the Bank. Penn Couch Open",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:30:00+03:00",
+          "stop": "2026-06-25T16:45:00+03:00",
+          "title": "No Filter Football. UEFA Champions League Final: Paris Saint-Germain v Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:45:00+03:00",
+          "stop": "2026-06-26T01:00:00+03:00",
+          "title": "⋗ Test Cricket. 1st Test, Day 1: West Indies v Sri Lanka",
           "description": "L",
           "category": null
         }

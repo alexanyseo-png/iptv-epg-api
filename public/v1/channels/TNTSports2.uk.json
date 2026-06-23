@@ -8,45 +8,622 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 86,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:30:00+03:00",
-          "stop": "2026-06-22T01:00:00+03:00",
-          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill, Race 2",
+          "start": "2026-06-23T00:00:00+03:00",
+          "stop": "2026-06-23T01:00:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T01:00:00+03:00",
-          "stop": "2026-06-22T01:30:00+03:00",
-          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill, Race 3",
+          "start": "2026-06-23T01:00:00+03:00",
+          "stop": "2026-06-23T01:30:00+03:00",
+          "title": "FIA TCR World Tour. Spain",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T01:30:00+03:00",
-          "stop": "2026-06-22T04:30:00+03:00",
-          "title": "The Ultimate Fighting Championship. UFC Fight Night: Manel Kape v Kyoji Horiguchi",
+          "start": "2026-06-23T01:30:00+03:00",
+          "stop": "2026-06-23T02:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto3 Race",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T04:30:00+03:00",
-          "stop": "2026-06-22T05:00:00+03:00",
+          "start": "2026-06-23T02:30:00+03:00",
+          "stop": "2026-06-23T03:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T03:30:00+03:00",
+          "stop": "2026-06-23T04:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T04:00:00+03:00",
+          "stop": "2026-06-23T05:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T05:00:00+03:00",
+          "stop": "2026-06-23T08:00:00+03:00",
+          "title": "⋗ Major League Baseball. Atlanta Braves at San Diego Padres",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:00:00+03:00",
+          "stop": "2026-06-23T09:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto3 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:00:00+03:00",
+          "stop": "2026-06-23T10:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:00:00+03:00",
+          "stop": "2026-06-23T10:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:30:00+03:00",
+          "stop": "2026-06-23T11:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:30:00+03:00",
+          "stop": "2026-06-23T12:30:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T12:30:00+03:00",
+          "stop": "2026-06-23T13:15:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:15:00+03:00",
+          "stop": "2026-06-23T14:00:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:00:00+03:00",
+          "stop": "2026-06-23T14:45:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:45:00+03:00",
+          "stop": "2026-06-23T15:30:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T15:30:00+03:00",
+          "stop": "2026-06-23T16:30:00+03:00",
+          "title": "International T20 Cricket. 3rd T20: Bangladesh v Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T16:30:00+03:00",
+          "stop": "2026-06-23T18:00:00+03:00",
+          "title": "PREM Rugby. Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T18:00:00+03:00",
+          "stop": "2026-06-23T19:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto3 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T19:00:00+03:00",
+          "stop": "2026-06-23T20:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:00:00+03:00",
+          "stop": "2026-06-23T20:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:30:00+03:00",
+          "stop": "2026-06-23T21:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T21:30:00+03:00",
+          "stop": "2026-06-23T22:30:00+03:00",
+          "title": "Major League Baseball. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:30:00+03:00",
+          "stop": "2026-06-23T22:45:00+03:00",
+          "title": "TNT Sports Cricket Reload. Bangladesh v Australia: 3rd T20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T22:45:00+03:00",
+          "stop": "2026-06-23T23:15:00+03:00",
+          "title": "Endurance Uncovered: Racing for Excellence. Series 26 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T23:15:00+03:00",
+          "stop": "2026-06-24T00:15:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T00:15:00+03:00",
+          "stop": "2026-06-24T00:45:00+03:00",
           "title": "The WRC Magazine. Acropolis Rally Greece",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T05:00:00+03:00",
-          "stop": "2026-06-22T06:00:00+03:00",
-          "title": "Tour de Suisse. Women's Stage 5",
+          "start": "2026-06-24T00:45:00+03:00",
+          "stop": "2026-06-24T01:00:00+03:00",
+          "title": "EUROpa League Goals Reload. Series 25 Episode 9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T01:00:00+03:00",
+          "stop": "2026-06-24T04:00:00+03:00",
+          "title": "The Ultimate Fighting Championship. UFC Fight Night: Manel Kape v Kyoji Horiguchi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T04:00:00+03:00",
+          "stop": "2026-06-24T05:00:00+03:00",
+          "title": "UFC The Ultimate Fighter. Series 34 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:00:00+03:00",
+          "stop": "2026-06-24T05:30:00+03:00",
+          "title": "UFC Greatest Fights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:30:00+03:00",
+          "stop": "2026-06-24T06:00:00+03:00",
+          "title": "UFC Greatest Fights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:00:00+03:00",
+          "stop": "2026-06-24T06:30:00+03:00",
+          "title": "UFC Greatest Fights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:30:00+03:00",
+          "stop": "2026-06-24T07:00:00+03:00",
+          "title": "UFC Greatest Fights. 195: Robbie Lawler v Carlos Condit",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:00:00+03:00",
+          "stop": "2026-06-24T07:15:00+03:00",
+          "title": "MotoGP Rewind. Czech Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:15:00+03:00",
+          "stop": "2026-06-24T07:30:00+03:00",
+          "title": "British Superbikes Rewind. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:30:00+03:00",
+          "stop": "2026-06-24T08:00:00+03:00",
+          "title": "Endurance Uncovered: Racing for Excellence. Series 26 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T08:00:00+03:00",
+          "stop": "2026-06-24T09:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto3 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:00:00+03:00",
+          "stop": "2026-06-24T10:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:00:00+03:00",
+          "stop": "2026-06-24T10:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:30:00+03:00",
+          "stop": "2026-06-24T11:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:30:00+03:00",
+          "stop": "2026-06-24T12:30:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T12:30:00+03:00",
+          "stop": "2026-06-24T13:15:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:15:00+03:00",
+          "stop": "2026-06-24T14:00:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T14:00:00+03:00",
+          "stop": "2026-06-24T14:45:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T14:45:00+03:00",
+          "stop": "2026-06-24T15:30:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T15:30:00+03:00",
+          "stop": "2026-06-24T16:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Leogang: Enduro",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T16:00:00+03:00",
+          "stop": "2026-06-24T17:00:00+03:00",
+          "title": "EUROpa and Conference League Magazine. Series 25 Episode 22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:00:00+03:00",
+          "stop": "2026-06-24T18:00:00+03:00",
+          "title": "SailGP. Canada SGP",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T18:00:00+03:00",
+          "stop": "2026-06-24T19:00:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:00:00+03:00",
+          "stop": "2026-06-24T20:00:00+03:00",
+          "title": "World Climbing Series. Innsbruck",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:00:00+03:00",
+          "stop": "2026-06-24T20:30:00+03:00",
+          "title": "TNT Sports Reload. Series 26 Episode 25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:30:00+03:00",
+          "stop": "2026-06-24T21:00:00+03:00",
+          "title": "The WRC Magazine. Acropolis Rally Greece",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T21:00:00+03:00",
+          "stop": "2026-06-24T22:00:00+03:00",
+          "title": "FIM Speedway Grand Prix. Round 5: Grand Prix of Poland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T22:00:00+03:00",
+          "stop": "2026-06-24T23:00:00+03:00",
+          "title": "MotoGP. Czech Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T23:00:00+03:00",
+          "stop": "2026-06-24T23:30:00+03:00",
+          "title": "Endurance Uncovered: Racing for Excellence. Series 26 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T23:30:00+03:00",
+          "stop": "2026-06-25T00:00:00+03:00",
+          "title": "Discovery Golf. Series 26 Episode 21",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:00:00+03:00",
+          "stop": "2026-06-25T01:30:00+03:00",
+          "title": "Ultimate Pool Champions League. Group 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T01:30:00+03:00",
+          "stop": "2026-06-25T02:30:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:30:00+03:00",
+          "stop": "2026-06-25T02:45:00+03:00",
+          "title": "The Gruppetto. Series 26 Episode 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:45:00+03:00",
+          "stop": "2026-06-25T03:45:00+03:00",
+          "title": "FIM Speedway Grand Prix. Round 5: Grand Prix of Poland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:45:00+03:00",
+          "stop": "2026-06-25T04:00:00+03:00",
+          "title": "MotoGP Rewind. Czech Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T04:00:00+03:00",
+          "stop": "2026-06-25T05:00:00+03:00",
+          "title": "British Superbikes Motorcycle Racing. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:00:00+03:00",
+          "stop": "2026-06-25T05:45:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:45:00+03:00",
+          "stop": "2026-06-25T06:30:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:30:00+03:00",
+          "stop": "2026-06-25T07:15:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MX2 Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:15:00+03:00",
+          "stop": "2026-06-25T08:00:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Italy: MXGP Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:00:00+03:00",
+          "stop": "2026-06-25T09:00:00+03:00",
+          "title": "Premier League Review. Review of the Season",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T09:00:00+03:00",
+          "stop": "2026-06-25T10:00:00+03:00",
+          "title": "Premier League Review. Goals of the Season",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:00:00+03:00",
+          "stop": "2026-06-25T11:00:00+03:00",
+          "title": "SailGP. Canada SGP",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T11:00:00+03:00",
+          "stop": "2026-06-25T12:00:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:00:00+03:00",
+          "stop": "2026-06-25T13:30:00+03:00",
+          "title": "Ultimate Pool Champions League. Group 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T13:30:00+03:00",
+          "stop": "2026-06-25T14:30:00+03:00",
+          "title": "World Climbing Series. Innsbruck",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:30:00+03:00",
+          "stop": "2026-06-25T15:00:00+03:00",
+          "title": "TNT Sports Reload. Series 26 Episode 25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:00:00+03:00",
+          "stop": "2026-06-25T16:00:00+03:00",
+          "title": "Major League Baseball. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:00:00+03:00",
+          "stop": "2026-06-25T16:30:00+03:00",
+          "title": "MLB Plays of the Week",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:30:00+03:00",
+          "stop": "2026-06-25T17:00:00+03:00",
+          "title": "The Cycling Show. Series 26 Episode 9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T17:00:00+03:00",
+          "stop": "2026-06-25T17:15:00+03:00",
+          "title": "The Gruppetto. Series 26 Episode 21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T17:15:00+03:00",
+          "stop": "2026-06-25T17:30:00+03:00",
+          "title": "British Superbikes Rewind. Round 3: Knockhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T17:30:00+03:00",
+          "stop": "2026-06-25T18:30:00+03:00",
+          "title": "MotoGP. Czech Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:30:00+03:00",
+          "stop": "2026-06-25T19:00:00+03:00",
+          "title": "The WRC Magazine. Acropolis Rally Greece",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T19:00:00+03:00",
+          "stop": "2026-06-25T21:00:00+03:00",
+          "title": "⋗ FIA World Rally Championship. Acropolis Rally Greece: SSS1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:00:00+03:00",
+          "stop": "2026-06-25T22:00:00+03:00",
+          "title": "FIA World Rally-Raid Championship Highlights. Desafio Ruta 40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:00:00+03:00",
+          "stop": "2026-06-25T23:00:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T23:00:00+03:00",
+          "stop": "2026-06-25T23:30:00+03:00",
+          "title": "Endurance Uncovered: Racing for Excellence. Series 26 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T23:30:00+03:00",
+          "stop": "2026-06-26T00:00:00+03:00",
+          "title": "The Cycling Show. Series 26 Episode 9",
           "description": "L",
           "category": null
         }

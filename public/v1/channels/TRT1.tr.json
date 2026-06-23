@@ -8,66 +8,244 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 32,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T00:15:00+03:00",
-          "stop": "2026-06-22T03:00:00+03:00",
-          "title": "Teşkilat",
+          "start": "2026-06-23T00:00:00+03:00",
+          "stop": "2026-06-23T02:15:00+03:00",
+          "title": "Fransa – Irak",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T03:00:00+03:00",
-          "stop": "2026-06-22T04:00:00+03:00",
-          "title": "Maça Yetişsin Usta",
+          "start": "2026-06-23T02:15:00+03:00",
+          "stop": "2026-06-23T05:40:00+03:00",
+          "title": "Lingo Türkiye",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T04:00:00+03:00",
-          "stop": "2026-06-22T06:00:00+03:00",
-          "title": "Yeni Zelanda – Mısır",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T06:00:00+03:00",
-          "stop": "2026-06-22T10:40:00+03:00",
+          "start": "2026-06-23T05:40:00+03:00",
+          "stop": "2026-06-23T06:00:00+03:00",
           "title": "Turgay Başyayla ile Lezzetli Tavsiye",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T10:40:00+03:00",
-          "stop": "2026-06-22T13:15:00+03:00",
+          "start": "2026-06-23T06:00:00+03:00",
+          "stop": "2026-06-23T10:40:00+03:00",
+          "title": "Ürdün – Cezayir",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:40:00+03:00",
+          "stop": "2026-06-23T13:15:00+03:00",
           "title": "Kasaba Doktoru",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T13:15:00+03:00",
-          "stop": "2026-06-22T14:00:00+03:00",
+          "start": "2026-06-23T13:15:00+03:00",
+          "stop": "2026-06-23T14:00:00+03:00",
           "title": "Seksenler",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T14:00:00+03:00",
-          "stop": "2026-06-22T17:45:00+03:00",
+          "start": "2026-06-23T14:00:00+03:00",
+          "stop": "2026-06-23T17:45:00+03:00",
           "title": "Benim Adım Melek",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T17:45:00+03:00",
-          "stop": "2026-06-22T19:00:00+03:00",
+          "start": "2026-06-23T17:45:00+03:00",
+          "stop": "2026-06-23T19:00:00+03:00",
           "title": "Lingo Türkiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T19:00:00+03:00",
+          "stop": "2026-06-23T20:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:00:00+03:00",
+          "stop": "2026-06-23T23:00:00+03:00",
+          "title": "Portekiz – Özbekistan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T23:00:00+03:00",
+          "stop": "2026-06-24T00:15:00+03:00",
+          "title": "İngiltere – Gana",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T00:15:00+03:00",
+          "stop": "2026-06-24T03:00:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T03:00:00+03:00",
+          "stop": "2026-06-24T05:00:00+03:00",
+          "title": "Benim Adım Melek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:00:00+03:00",
+          "stop": "2026-06-24T07:00:00+03:00",
+          "title": "Kolombiya – Kongo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:00:00+03:00",
+          "stop": "2026-06-24T10:40:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:40:00+03:00",
+          "stop": "2026-06-24T13:15:00+03:00",
+          "title": "Kasaba Doktoru",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T13:15:00+03:00",
+          "stop": "2026-06-24T14:00:00+03:00",
+          "title": "Seksenler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T14:00:00+03:00",
+          "stop": "2026-06-24T17:45:00+03:00",
+          "title": "Benim Adım Melek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:45:00+03:00",
+          "stop": "2026-06-24T19:00:00+03:00",
+          "title": "Lingo Türkiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:00:00+03:00",
+          "stop": "2026-06-24T22:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T22:00:00+03:00",
+          "stop": "2026-06-25T01:00:00+03:00",
+          "title": "Bosna Hersek – Katar",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T01:00:00+03:00",
+          "stop": "2026-06-25T03:00:00+03:00",
+          "title": "Fas – Haiti",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:00:00+03:00",
+          "stop": "2026-06-25T04:00:00+03:00",
+          "title": "Benim Adım Melek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T04:00:00+03:00",
+          "stop": "2026-06-25T06:00:00+03:00",
+          "title": "Çekya – Meksika",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:00:00+03:00",
+          "stop": "2026-06-25T10:40:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:40:00+03:00",
+          "stop": "2026-06-25T13:15:00+03:00",
+          "title": "Kasaba Doktoru",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T13:15:00+03:00",
+          "stop": "2026-06-25T14:00:00+03:00",
+          "title": "Seksenler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:00:00+03:00",
+          "stop": "2026-06-25T17:45:00+03:00",
+          "title": "Benim Adım Melek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T17:45:00+03:00",
+          "stop": "2026-06-25T19:00:00+03:00",
+          "title": "Lingo Türkiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T19:00:00+03:00",
+          "stop": "2026-06-25T20:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T20:00:00+03:00",
+          "stop": "2026-06-25T22:00:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:00:00+03:00",
+          "stop": "2026-06-26T03:00:00+03:00",
+          "title": "Curaçao – Fildişi Sahili",
           "description": "L",
           "category": null
         }

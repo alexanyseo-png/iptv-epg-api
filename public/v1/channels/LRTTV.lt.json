@@ -8,220 +8,776 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-22T05:32:54.868159+00:00",
+  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 108,
   "days": [
     {
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "programs": [
         {
-          "start": "2026-06-22T01:35:00+03:00",
-          "stop": "2026-06-22T03:20:00+03:00",
-          "title": "Skandalas (orig. Bombshell)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T03:20:00+03:00",
-          "stop": "2026-06-22T04:10:00+03:00",
-          "title": "Sisi E3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T04:10:00+03:00",
-          "stop": "2026-06-22T05:05:00+03:00",
-          "title": "Planeta Žemė (orig. Planet Earth) E1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T05:05:00+03:00",
-          "stop": "2026-06-22T06:00:00+03:00",
-          "title": "Omanas iš paukščio skrydžio (orig. Oman from Above)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T06:00:00+03:00",
-          "stop": "2026-06-22T06:02:00+03:00",
-          "title": "Lietuvos Respublikos himnas E1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T06:02:00+03:00",
-          "stop": "2026-06-22T06:30:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T06:30:00+03:00",
-          "stop": "2026-06-22T06:40:00+03:00",
-          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E118",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T06:40:00+03:00",
-          "stop": "2026-06-22T07:00:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T07:00:00+03:00",
-          "stop": "2026-06-22T07:07:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 7:00) E118",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T07:07:00+03:00",
-          "stop": "2026-06-22T07:30:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T07:30:00+03:00",
-          "stop": "2026-06-22T07:37:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 7:30) E118",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T07:37:00+03:00",
-          "stop": "2026-06-22T08:00:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T08:00:00+03:00",
-          "stop": "2026-06-22T08:07:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 8:00) E118",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T08:07:00+03:00",
-          "stop": "2026-06-22T08:30:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T08:30:00+03:00",
-          "stop": "2026-06-22T08:40:00+03:00",
-          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E118",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T08:40:00+03:00",
-          "stop": "2026-06-22T09:00:00+03:00",
-          "title": "Labas rytas, Lietuva E121",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T09:00:00+03:00",
-          "stop": "2026-06-22T09:45:00+03:00",
-          "title": "Linco kriminalinė policija (orig. Soko Linz) E3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T09:45:00+03:00",
-          "stop": "2026-06-22T10:35:00+03:00",
-          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T10:35:00+03:00",
-          "stop": "2026-06-22T11:25:00+03:00",
-          "title": "Advokatų kontora (orig. Die Kanzlei) E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-22T11:25:00+03:00",
-          "stop": "2026-06-22T12:15:00+03:00",
+          "start": "2026-06-23T00:10:00+03:00",
+          "stop": "2026-06-23T01:00:00+03:00",
           "title": "Daktaras Martinas (orig. Doc Martin) E6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T12:15:00+03:00",
-          "stop": "2026-06-22T12:45:00+03:00",
-          "title": "Spėk ir atspėk E11",
+          "start": "2026-06-23T01:00:00+03:00",
+          "stop": "2026-06-23T01:30:00+03:00",
+          "title": "Jei ne grybai E7",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T12:45:00+03:00",
-          "stop": "2026-06-22T13:15:00+03:00",
-          "title": "Kas ir kodėl? E31",
+          "start": "2026-06-23T01:30:00+03:00",
+          "stop": "2026-06-23T01:55:00+03:00",
+          "title": "Mano pasas meluoja (subtitruota) E5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T13:15:00+03:00",
-          "stop": "2026-06-22T14:00:00+03:00",
+          "start": "2026-06-23T01:55:00+03:00",
+          "stop": "2026-06-23T02:50:00+03:00",
+          "title": "Vakare su Audrium Giržadu E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T02:50:00+03:00",
+          "stop": "2026-06-23T03:45:00+03:00",
+          "title": "Draugiška Lietuva E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T03:45:00+03:00",
+          "stop": "2026-06-23T04:40:00+03:00",
+          "title": "Savaitė E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T04:40:00+03:00",
+          "stop": "2026-06-23T05:30:00+03:00",
           "title": "Pasaulio uostamiesčiai (orig. Waterfront Cities of the World) E4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T14:00:00+03:00",
-          "stop": "2026-06-22T14:20:00+03:00",
-          "title": "Žinios. Orai (Laba diena 14:00) E118",
+          "start": "2026-06-23T05:30:00+03:00",
+          "stop": "2026-06-23T06:00:00+03:00",
+          "title": "Kosmosas, Žemė, žmogus E5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T14:20:00+03:00",
-          "stop": "2026-06-22T15:00:00+03:00",
-          "title": "Laba diena, Lietuva E118",
+          "start": "2026-06-23T06:00:00+03:00",
+          "stop": "2026-06-23T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T15:00:00+03:00",
-          "stop": "2026-06-22T15:15:00+03:00",
-          "title": "Žinios. Orai (Laba diena 15:00) E118",
+          "start": "2026-06-23T06:02:00+03:00",
+          "stop": "2026-06-23T06:30:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T15:15:00+03:00",
-          "stop": "2026-06-22T16:00:00+03:00",
-          "title": "Laba diena, Lietuva E118",
+          "start": "2026-06-23T06:30:00+03:00",
+          "stop": "2026-06-23T06:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E119",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T16:00:00+03:00",
-          "stop": "2026-06-22T16:30:00+03:00",
-          "title": "Žinios. Orai (Laba diena 16:00) E118",
+          "start": "2026-06-23T06:40:00+03:00",
+          "stop": "2026-06-23T07:00:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T16:30:00+03:00",
-          "stop": "2026-06-22T17:30:00+03:00",
-          "title": "Laukinis slėnis (orig. Valle Salvaje) E102",
+          "start": "2026-06-23T07:00:00+03:00",
+          "stop": "2026-06-23T07:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:00) E119",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-22T17:30:00+03:00",
-          "stop": "2026-06-22T18:00:00+03:00",
-          "title": "Spėk ir atspėk E16",
+          "start": "2026-06-23T07:07:00+03:00",
+          "stop": "2026-06-23T07:30:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T07:30:00+03:00",
+          "stop": "2026-06-23T07:37:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:30) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T07:37:00+03:00",
+          "stop": "2026-06-23T08:00:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:00:00+03:00",
+          "stop": "2026-06-23T08:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 8:00) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:07:00+03:00",
+          "stop": "2026-06-23T08:30:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:30:00+03:00",
+          "stop": "2026-06-23T08:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T08:40:00+03:00",
+          "stop": "2026-06-23T09:00:00+03:00",
+          "title": "Labas rytas, Lietuva E122",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:00:00+03:00",
+          "stop": "2026-06-23T09:45:00+03:00",
+          "title": "Linco kriminalinė policija (orig. Soko Linz) E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T09:45:00+03:00",
+          "stop": "2026-06-23T10:35:00+03:00",
+          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T10:35:00+03:00",
+          "stop": "2026-06-23T11:25:00+03:00",
+          "title": "Advokatų kontora (orig. Die Kanzlei) E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T11:25:00+03:00",
+          "stop": "2026-06-23T12:15:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T12:15:00+03:00",
+          "stop": "2026-06-23T12:45:00+03:00",
+          "title": "Spėk ir atspėk E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T12:45:00+03:00",
+          "stop": "2026-06-23T13:15:00+03:00",
+          "title": "Kas ir kodėl? E32",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T13:15:00+03:00",
+          "stop": "2026-06-23T14:00:00+03:00",
+          "title": "Pasaulio uostamiesčiai (orig. Waterfront Cities of the World) E5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:00:00+03:00",
+          "stop": "2026-06-23T14:20:00+03:00",
+          "title": "Žinios. Orai (Laba diena 14:00) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T14:20:00+03:00",
+          "stop": "2026-06-23T15:00:00+03:00",
+          "title": "Laba diena, Lietuva E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T15:00:00+03:00",
+          "stop": "2026-06-23T15:15:00+03:00",
+          "title": "Žinios. Orai (Laba diena 15:00) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T15:15:00+03:00",
+          "stop": "2026-06-23T16:00:00+03:00",
+          "title": "Laba diena, Lietuva E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T16:00:00+03:00",
+          "stop": "2026-06-23T16:30:00+03:00",
+          "title": "Žinios. Orai (Laba diena 16:00) E119",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T16:30:00+03:00",
+          "stop": "2026-06-23T17:30:00+03:00",
+          "title": "Laukinis slėnis (orig. Valle Salvaje) E103",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T17:30:00+03:00",
+          "stop": "2026-06-23T18:00:00+03:00",
+          "title": "Spėk ir atspėk E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T18:00:00+03:00",
+          "stop": "2026-06-23T18:30:00+03:00",
+          "title": "Kas ir kodėl? E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T18:30:00+03:00",
+          "stop": "2026-06-23T19:30:00+03:00",
+          "title": "Svarbi valanda E106",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T19:30:00+03:00",
+          "stop": "2026-06-23T20:30:00+03:00",
+          "title": "Nevietiniai E3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:30:00+03:00",
+          "stop": "2026-06-23T20:52:00+03:00",
+          "title": "Panorama E129",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T20:52:00+03:00",
+          "stop": "2026-06-23T21:00:00+03:00",
+          "title": "Sportas. Orai (Panorama) E129",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-23T21:00:00+03:00",
+          "stop": "2026-06-24T01:35:00+03:00",
+          "title": "«Duokim garo!» Joninės Nidoje E1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-24",
+      "programs": [
+        {
+          "start": "2026-06-24T01:35:00+03:00",
+          "stop": "2026-06-24T03:15:00+03:00",
+          "title": "Nešventas avinėlis (orig. The Other Lamb)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T03:15:00+03:00",
+          "stop": "2026-06-24T04:10:00+03:00",
+          "title": "Nevietiniai E3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T04:10:00+03:00",
+          "stop": "2026-06-24T05:05:00+03:00",
+          "title": "Pasaulis lietuvių akimis E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T05:05:00+03:00",
+          "stop": "2026-06-24T06:00:00+03:00",
+          "title": "Pasaulio uostamiesčiai (orig. Waterfront Cities of the World) E5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:00:00+03:00",
+          "stop": "2026-06-24T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:02:00+03:00",
+          "stop": "2026-06-24T06:30:00+03:00",
+          "title": "Atgyjančios sodybos E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T06:30:00+03:00",
+          "stop": "2026-06-24T07:30:00+03:00",
+          "title": "Draugiška Lietuva E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T07:30:00+03:00",
+          "stop": "2026-06-24T09:00:00+03:00",
+          "title": "Jakari. Didysis nuotykis (orig. Yakari. Un destin fabuleux)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:00:00+03:00",
+          "stop": "2026-06-24T09:30:00+03:00",
+          "title": "Labas rytas, Lietuva E123",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:30:00+03:00",
+          "stop": "2026-06-24T09:35:00+03:00",
+          "title": "Žinios. Orai E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T09:35:00+03:00",
+          "stop": "2026-06-24T10:30:00+03:00",
+          "title": "Labas rytas, Lietuva E123",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:30:00+03:00",
+          "stop": "2026-06-24T10:35:00+03:00",
+          "title": "Žinios. Orai E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T10:35:00+03:00",
+          "stop": "2026-06-24T11:00:00+03:00",
+          "title": "Labas rytas, Lietuva E123",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:00:00+03:00",
+          "stop": "2026-06-24T11:50:00+03:00",
+          "title": "Gamtos kalendorius. Birželis (orig. Nature's Calendar. June)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T11:50:00+03:00",
+          "stop": "2026-06-24T12:45:00+03:00",
+          "title": "Giliai širdyje (orig. Deep In the Heart)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T12:45:00+03:00",
+          "stop": "2026-06-24T14:30:00+03:00",
+          "title": "Nuosavas šnipas (orig. My Spy)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T14:30:00+03:00",
+          "stop": "2026-06-24T16:30:00+03:00",
+          "title": "Vasarvidžio nakties sapnas (orig. A Midsummer Night’s Dream)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T16:30:00+03:00",
+          "stop": "2026-06-24T17:30:00+03:00",
+          "title": "Laukinis slėnis (orig. Valle Salvaje) E104",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T17:30:00+03:00",
+          "stop": "2026-06-24T18:00:00+03:00",
+          "title": "Spėk ir atspėk E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T18:00:00+03:00",
+          "stop": "2026-06-24T18:30:00+03:00",
+          "title": "Kas ir kodėl? E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T18:30:00+03:00",
+          "stop": "2026-06-24T19:00:00+03:00",
+          "title": "Žinios. Sportas. Orai (su vertimu į gestų k.) (18:30) E52",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:00:00+03:00",
+          "stop": "2026-06-24T19:30:00+03:00",
+          "title": "Gamtininko užrašai E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T19:30:00+03:00",
+          "stop": "2026-06-24T20:30:00+03:00",
+          "title": "Žinomos nežinomos moterys E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:30:00+03:00",
+          "stop": "2026-06-24T20:52:00+03:00",
+          "title": "Panorama E130",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T20:52:00+03:00",
+          "stop": "2026-06-24T21:00:00+03:00",
+          "title": "Sportas. Orai (Panorama) E130",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T21:00:00+03:00",
+          "stop": "2026-06-24T23:00:00+03:00",
+          "title": "Kauno dainų ir šokių šventė «Čia suteka upės» E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-24T23:00:00+03:00",
+          "stop": "2026-06-25T00:00:00+03:00",
+          "title": "Nešventas avinėlis (orig. The Other Lamb)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-25",
+      "programs": [
+        {
+          "start": "2026-06-25T00:00:00+03:00",
+          "stop": "2026-06-25T00:35:00+03:00",
+          "title": "Šėtoniškas sandėris (orig. Bedazzled)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T00:35:00+03:00",
+          "stop": "2026-06-25T01:25:00+03:00",
+          "title": "Giliai širdyje (orig. Deep In the Heart)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T01:25:00+03:00",
+          "stop": "2026-06-25T02:15:00+03:00",
+          "title": "Širdyje lietuvis (subtitruota) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T02:15:00+03:00",
+          "stop": "2026-06-25T03:10:00+03:00",
+          "title": "Žinomos nežinomos moterys E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T03:10:00+03:00",
+          "stop": "2026-06-25T05:05:00+03:00",
+          "title": "Vasarvidžio nakties sapnas (orig. A Midsummer Night’s Dream)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T05:05:00+03:00",
+          "stop": "2026-06-25T06:00:00+03:00",
+          "title": "Gero gyvenimo receptai (subtitruota) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:00:00+03:00",
+          "stop": "2026-06-25T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:02:00+03:00",
+          "stop": "2026-06-25T06:30:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:30:00+03:00",
+          "stop": "2026-06-25T06:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T06:40:00+03:00",
+          "stop": "2026-06-25T07:00:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:00:00+03:00",
+          "stop": "2026-06-25T07:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:00) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:07:00+03:00",
+          "stop": "2026-06-25T07:30:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:30:00+03:00",
+          "stop": "2026-06-25T07:37:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:30) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T07:37:00+03:00",
+          "stop": "2026-06-25T08:00:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:00:00+03:00",
+          "stop": "2026-06-25T08:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 8:00) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:07:00+03:00",
+          "stop": "2026-06-25T08:30:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:30:00+03:00",
+          "stop": "2026-06-25T08:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T08:40:00+03:00",
+          "stop": "2026-06-25T09:00:00+03:00",
+          "title": "Labas rytas, Lietuva E124",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T09:00:00+03:00",
+          "stop": "2026-06-25T09:45:00+03:00",
+          "title": "Linco kriminalinė policija (orig. Soko Linz) E5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T09:45:00+03:00",
+          "stop": "2026-06-25T10:35:00+03:00",
+          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T10:35:00+03:00",
+          "stop": "2026-06-25T11:25:00+03:00",
+          "title": "Advokatų kontora (orig. Die Kanzlei) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T11:25:00+03:00",
+          "stop": "2026-06-25T12:15:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:15:00+03:00",
+          "stop": "2026-06-25T12:45:00+03:00",
+          "title": "Spėk ir atspėk E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T12:45:00+03:00",
+          "stop": "2026-06-25T13:15:00+03:00",
+          "title": "Kas ir kodėl? E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T13:15:00+03:00",
+          "stop": "2026-06-25T14:00:00+03:00",
+          "title": "Pasaulio uostamiesčiai (orig. Waterfront Cities of the World) E6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:00:00+03:00",
+          "stop": "2026-06-25T14:20:00+03:00",
+          "title": "Žinios. Orai (Laba diena 14:00) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T14:20:00+03:00",
+          "stop": "2026-06-25T15:00:00+03:00",
+          "title": "Laba diena, Lietuva E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:00:00+03:00",
+          "stop": "2026-06-25T15:15:00+03:00",
+          "title": "Žinios. Orai (Laba diena 15:00) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T15:15:00+03:00",
+          "stop": "2026-06-25T16:00:00+03:00",
+          "title": "Laba diena, Lietuva E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:00:00+03:00",
+          "stop": "2026-06-25T16:30:00+03:00",
+          "title": "Žinios. Orai (Laba diena 16:00) E120",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T16:30:00+03:00",
+          "stop": "2026-06-25T17:30:00+03:00",
+          "title": "Laukinis slėnis (orig. Valle Salvaje) E105",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T17:30:00+03:00",
+          "stop": "2026-06-25T18:00:00+03:00",
+          "title": "Spėk ir atspėk E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:00:00+03:00",
+          "stop": "2026-06-25T18:30:00+03:00",
+          "title": "Kas ir kodėl? E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T18:30:00+03:00",
+          "stop": "2026-06-25T19:30:00+03:00",
+          "title": "Svarbi valanda E107",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T19:30:00+03:00",
+          "stop": "2026-06-25T20:30:00+03:00",
+          "title": "Duonos ir žaidimų E3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T20:30:00+03:00",
+          "stop": "2026-06-25T21:00:00+03:00",
+          "title": "Panorama E131",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:00:00+03:00",
+          "stop": "2026-06-25T21:20:00+03:00",
+          "title": "Dienos tema E84",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:20:00+03:00",
+          "stop": "2026-06-25T21:30:00+03:00",
+          "title": "Sportas. Orai (Panorama) E131",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T21:30:00+03:00",
+          "stop": "2026-06-25T22:20:00+03:00",
+          "title": "Oksenas (orig. Oxen) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T22:20:00+03:00",
+          "stop": "2026-06-25T23:15:00+03:00",
+          "title": "Fargo E5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-25T23:15:00+03:00",
+          "stop": "2026-06-26T00:10:00+03:00",
+          "title": "Gamtos kalendorius. Birželis (orig. Nature's Calendar. June)",
           "description": "L",
           "category": null
         }
