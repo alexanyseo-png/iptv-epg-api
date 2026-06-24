@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
+  "generatedAt": "2026-06-24T04:38:47.620995+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-06-23",
-      "programs": [
-        {
-          "start": "2026-06-23T00:45:00+03:00",
-          "stop": "2026-06-23T02:30:00+03:00",
-          "title": "SC Paderborn – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T02:30:00+03:00",
-          "stop": "2026-06-23T08:00:00+03:00",
-          "title": "1. FC Kaiserslautern – Holstein Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T08:00:00+03:00",
-          "stop": "2026-06-23T10:00:00+03:00",
-          "title": "Bayer Leverkusen – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T10:00:00+03:00",
-          "stop": "2026-06-23T12:00:00+03:00",
-          "title": "Bayern Mnichov – VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T12:00:00+03:00",
-          "stop": "2026-06-23T13:45:00+03:00",
-          "title": "Hertha BSC – Eintracht Braunschweig",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T13:45:00+03:00",
-          "stop": "2026-06-23T15:35:00+03:00",
-          "title": "Málaga CF – UD Almería",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T15:35:00+03:00",
-          "stop": "2026-06-23T17:25:00+03:00",
-          "title": "UD Almería – Málaga CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T17:25:00+03:00",
-          "stop": "2026-06-23T17:55:00+03:00",
-          "title": "Finále Ligy mistrů – film",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T17:55:00+03:00",
-          "stop": "2026-06-23T18:25:00+03:00",
-          "title": "Bundesliga Special (22) – Analysis II",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T18:25:00+03:00",
-          "stop": "2026-06-23T20:05:00+03:00",
-          "title": "Union Berlín – 1. FSV Mainz 05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T20:05:00+03:00",
-          "stop": "2026-06-23T21:00:00+03:00",
-          "title": "Bundesliga Special (21) – Ohlédnutí za sezonou",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T21:00:00+03:00",
-          "stop": "2026-06-23T22:50:00+03:00",
-          "title": "SC Freiburg – Hamburger SV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T22:50:00+03:00",
-          "stop": "2026-06-24T00:40:00+03:00",
-          "title": "Borussia Mönchengladbach – FC Augsburg",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-24",
       "programs": [
@@ -267,6 +171,88 @@
           "start": "2026-06-25T23:00:00+03:00",
           "stop": "2026-06-26T00:45:00+03:00",
           "title": "Werder Brémy – Eintracht Frankfurt",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "programs": [
+        {
+          "start": "2026-06-26T00:45:00+03:00",
+          "stop": "2026-06-26T02:35:00+03:00",
+          "title": "Preußen Münster – Hannover 96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T02:35:00+03:00",
+          "stop": "2026-06-26T08:00:00+03:00",
+          "title": "Fortuna Düsseldorf – Schalke 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T08:00:00+03:00",
+          "stop": "2026-06-26T09:45:00+03:00",
+          "title": "TSG Hoffenheim – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T09:45:00+03:00",
+          "stop": "2026-06-26T12:25:00+03:00",
+          "title": "RB Lipsko – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T12:25:00+03:00",
+          "stop": "2026-06-26T14:15:00+03:00",
+          "title": "SC Paderborn – SV Elversberg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T14:15:00+03:00",
+          "stop": "2026-06-26T15:55:00+03:00",
+          "title": "1. FC Norimberk – Greuther Fürth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T15:55:00+03:00",
+          "stop": "2026-06-26T17:40:00+03:00",
+          "title": "Greuther Fürth – Hertha BSC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T17:40:00+03:00",
+          "stop": "2026-06-26T19:30:00+03:00",
+          "title": "FC Augsburg – SC Freiburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T19:30:00+03:00",
+          "stop": "2026-06-26T21:15:00+03:00",
+          "title": "Borussia Dortmund – FC St. Pauli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T21:15:00+03:00",
+          "stop": "2026-06-26T22:55:00+03:00",
+          "title": "VfB Stuttgart – Union Berlín",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T22:55:00+03:00",
+          "stop": "2026-06-27T00:40:00+03:00",
+          "title": "FC St. Pauli – Hamburger SV",
           "description": "L",
           "category": null
         }

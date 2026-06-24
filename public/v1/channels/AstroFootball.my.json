@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-23T04:31:34.284086+00:00",
+  "generatedAt": "2026-06-24T04:38:47.620995+00:00",
   "available": true,
   "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-06-23",
-      "programs": [
-        {
-          "start": "2026-06-23T01:00:00+03:00",
-          "stop": "2026-06-23T03:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Fortuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T03:00:00+03:00",
-          "stop": "2026-06-23T05:00:00+03:00",
-          "title": "EFL: Middlesbrough vs Sheffield",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T05:00:00+03:00",
-          "stop": "2026-06-23T07:06:00+03:00",
-          "title": "EFL: Millwall vs Wrexham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T07:06:00+03:00",
-          "stop": "2026-06-23T09:00:00+03:00",
-          "title": "EFL: Norwich vs Middlesbrough",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T09:00:00+03:00",
-          "stop": "2026-06-23T11:00:00+03:00",
-          "title": "EFL: Newport vs Bristol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T11:00:00+03:00",
-          "stop": "2026-06-23T13:00:00+03:00",
-          "title": "EFL: Leicester vs Birmingham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T13:00:00+03:00",
-          "stop": "2026-06-23T15:00:00+03:00",
-          "title": "Dutch: Volendam vs Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T15:00:00+03:00",
-          "stop": "2026-06-23T17:00:00+03:00",
-          "title": "Dutch: PSV vs Telstar",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T17:00:00+03:00",
-          "stop": "2026-06-23T19:00:00+03:00",
-          "title": "Dutch: Sparta vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T19:00:00+03:00",
-          "stop": "2026-06-23T21:00:00+03:00",
-          "title": "EFL: Bromley vs Gillingham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T21:00:00+03:00",
-          "stop": "2026-06-23T23:00:00+03:00",
-          "title": "EFL: Ipswich vs Sheffield",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-23T23:00:00+03:00",
-          "stop": "2026-06-24T01:00:00+03:00",
-          "title": "EFL: Charlton vs Millwall",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-24",
       "programs": [
@@ -274,6 +185,95 @@
           "start": "2026-06-25T23:05:00+03:00",
           "stop": "2026-06-26T01:15:00+03:00",
           "title": "Dutch: Alkmaar vs Feyenoord",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-26",
+      "programs": [
+        {
+          "start": "2026-06-26T01:15:00+03:00",
+          "stop": "2026-06-26T03:30:00+03:00",
+          "title": "Dutch: PSV vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T03:30:00+03:00",
+          "stop": "2026-06-26T04:00:00+03:00",
+          "title": "FA Cup 2025/26: Semi Finals: Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T04:00:00+03:00",
+          "stop": "2026-06-26T06:00:00+03:00",
+          "title": "Serie A: Verona vs Sassuolo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T06:00:00+03:00",
+          "stop": "2026-06-26T08:00:00+03:00",
+          "title": "Serie A: Lazio vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T08:00:00+03:00",
+          "stop": "2026-06-26T10:00:00+03:00",
+          "title": "Serie A: Bologna vs Pisa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T10:00:00+03:00",
+          "stop": "2026-06-26T12:00:00+03:00",
+          "title": "Serie A: Parma vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T12:00:00+03:00",
+          "stop": "2026-06-26T14:00:00+03:00",
+          "title": "Serie A: Atalanta vs Como",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T14:00:00+03:00",
+          "stop": "2026-06-26T16:00:00+03:00",
+          "title": "Serie A: Udinese vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T16:00:00+03:00",
+          "stop": "2026-06-26T18:00:00+03:00",
+          "title": "Serie A: Inter vs Cremonese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T18:00:00+03:00",
+          "stop": "2026-06-26T20:00:00+03:00",
+          "title": "Serie A: Juventus vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T20:00:00+03:00",
+          "stop": "2026-06-26T22:00:00+03:00",
+          "title": "Serie A: Napoli vs Genoa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-26T22:00:00+03:00",
+          "stop": "2026-06-27T00:00:00+03:00",
+          "title": "Serie A: Fiorentina vs Roma",
           "description": "L",
           "category": null
         }
