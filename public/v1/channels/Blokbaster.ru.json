@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-24T04:38:47.620995+00:00",
+  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-06-24",
-      "programs": [
-        {
-          "start": "2026-06-24T00:00:00+03:00",
-          "stop": "2026-06-24T01:20:00+03:00",
-          "title": "Призраки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T01:20:00+03:00",
-          "stop": "2026-06-24T03:00:00+03:00",
-          "title": "Ледяной драйв.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T03:00:00+03:00",
-          "stop": "2026-06-24T04:30:00+03:00",
-          "title": "В тумане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T04:30:00+03:00",
-          "stop": "2026-06-24T05:50:00+03:00",
-          "title": "Выжить в Калахари.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T05:50:00+03:00",
-          "stop": "2026-06-24T07:05:00+03:00",
-          "title": "В плену огня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T07:05:00+03:00",
-          "stop": "2026-06-24T09:00:00+03:00",
-          "title": "Ледяной драйв.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T09:00:00+03:00",
-          "stop": "2026-06-24T10:45:00+03:00",
-          "title": "В тумане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T10:45:00+03:00",
-          "stop": "2026-06-24T12:25:00+03:00",
-          "title": "Выжить в Калахари.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T12:25:00+03:00",
-          "stop": "2026-06-24T13:55:00+03:00",
-          "title": "В плену огня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T13:55:00+03:00",
-          "stop": "2026-06-24T15:50:00+03:00",
-          "title": "Ледяной драйв.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T15:50:00+03:00",
-          "stop": "2026-06-24T17:35:00+03:00",
-          "title": "В тумане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T17:35:00+03:00",
-          "stop": "2026-06-24T19:10:00+03:00",
-          "title": "Тварь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T19:10:00+03:00",
-          "stop": "2026-06-24T21:00:00+03:00",
-          "title": "Дитя тьмы: первая жертва.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T21:00:00+03:00",
-          "stop": "2026-06-24T22:40:00+03:00",
-          "title": "Взаперти.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T22:40:00+03:00",
-          "stop": "2026-06-25T00:05:00+03:00",
-          "title": "Дом на Чёрной горе.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-25",
       "programs": [
@@ -316,6 +206,102 @@
           "start": "2026-06-26T23:20:00+03:00",
           "stop": "2026-06-27T01:25:00+03:00",
           "title": "Оккупация.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "programs": [
+        {
+          "start": "2026-06-27T01:25:00+03:00",
+          "stop": "2026-06-27T02:35:00+03:00",
+          "title": "Дикие твари.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T02:35:00+03:00",
+          "stop": "2026-06-27T03:55:00+03:00",
+          "title": "Мир будущего.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T03:55:00+03:00",
+          "stop": "2026-06-27T05:20:00+03:00",
+          "title": "Брешь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T05:20:00+03:00",
+          "stop": "2026-06-27T07:20:00+03:00",
+          "title": "Падение Луны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T07:20:00+03:00",
+          "stop": "2026-06-27T09:25:00+03:00",
+          "title": "Оккупация.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T09:25:00+03:00",
+          "stop": "2026-06-27T11:00:00+03:00",
+          "title": "Мир будущего.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T11:00:00+03:00",
+          "stop": "2026-06-27T12:45:00+03:00",
+          "title": "Брешь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T12:45:00+03:00",
+          "stop": "2026-06-27T15:05:00+03:00",
+          "title": "Падение Луны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T15:05:00+03:00",
+          "stop": "2026-06-27T17:10:00+03:00",
+          "title": "Оккупация.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T17:10:00+03:00",
+          "stop": "2026-06-27T19:20:00+03:00",
+          "title": "Славные парни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T19:20:00+03:00",
+          "stop": "2026-06-27T21:00:00+03:00",
+          "title": "Ямакаси: Свобода в движении.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T21:00:00+03:00",
+          "stop": "2026-06-27T23:05:00+03:00",
+          "title": "Рэд 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T23:05:00+03:00",
+          "stop": "2026-06-28T00:55:00+03:00",
+          "title": "Киллер по вызову.",
           "description": "L",
           "category": null
         }

@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-24T04:38:47.620995+00:00",
+  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-06-24",
-      "programs": [
-        {
-          "start": "2026-06-24T03:00:00+03:00",
-          "stop": "2026-06-24T06:50:00+03:00",
-          "title": "Я схожу с ума от любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T06:50:00+03:00",
-          "stop": "2026-06-24T10:15:00+03:00",
-          "title": "Три брата.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T10:15:00+03:00",
-          "stop": "2026-06-24T13:20:00+03:00",
-          "title": "Рай.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T13:20:00+03:00",
-          "stop": "2026-06-24T16:45:00+03:00",
-          "title": "Каран и Арджун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T16:45:00+03:00",
-          "stop": "2026-06-24T20:00:00+03:00",
-          "title": "Пушпа.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T20:00:00+03:00",
-          "stop": "2026-06-24T22:00:00+03:00",
-          "title": "Невеста и предрассудки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-24T22:00:00+03:00",
-          "stop": "2026-06-25T01:35:00+03:00",
-          "title": "Очарован тобой.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-25",
       "programs": [
@@ -190,6 +136,67 @@
           "start": "2026-06-26T23:15:00+03:00",
           "stop": "2026-06-27T02:25:00+03:00",
           "title": "Пушпа.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-27",
+      "programs": [
+        {
+          "start": "2026-06-27T02:25:00+03:00",
+          "stop": "2026-06-27T06:00:00+03:00",
+          "title": "Сафари.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T06:00:00+03:00",
+          "stop": "2026-06-27T09:00:00+03:00",
+          "title": "Рай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T09:00:00+03:00",
+          "stop": "2026-06-27T11:55:00+03:00",
+          "title": "Шанкар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T11:55:00+03:00",
+          "stop": "2026-06-27T14:30:00+03:00",
+          "title": "Любовь не сломить.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T14:30:00+03:00",
+          "stop": "2026-06-27T18:10:00+03:00",
+          "title": "Очарован тобой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T18:10:00+03:00",
+          "stop": "2026-06-27T20:00:00+03:00",
+          "title": "Принцесса специй.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T20:00:00+03:00",
+          "stop": "2026-06-27T22:00:00+03:00",
+          "title": "Невеста и предрассудки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-27T22:00:00+03:00",
+          "stop": "2026-06-28T00:35:00+03:00",
+          "title": "Жажда жизни.",
           "description": "L",
           "category": null
         }
