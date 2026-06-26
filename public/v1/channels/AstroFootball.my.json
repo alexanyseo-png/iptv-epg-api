@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
+  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "start": "2026-06-25T01:00:00+03:00",
-          "stop": "2026-06-25T03:00:00+03:00",
-          "title": "EFL: Middlesbrough vs West Brom",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T03:00:00+03:00",
-          "stop": "2026-06-25T05:00:00+03:00",
-          "title": "Dutch: Ajax vs Zwolle",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T05:00:00+03:00",
-          "stop": "2026-06-25T07:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Heerenveen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T07:00:00+03:00",
-          "stop": "2026-06-25T09:00:00+03:00",
-          "title": "Dutch: NEC vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T09:00:00+03:00",
-          "stop": "2026-06-25T11:00:00+03:00",
-          "title": "DFB: Grobaspach vs Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T11:00:00+03:00",
-          "stop": "2026-06-25T13:00:00+03:00",
-          "title": "DFB: Bielefeld vs Bremen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T13:00:00+03:00",
-          "stop": "2026-06-25T15:00:00+03:00",
-          "title": "DFB Pokal: Hemelingen vs VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T15:00:00+03:00",
-          "stop": "2026-06-25T17:00:00+03:00",
-          "title": "DFB: Sandhausen vs Leipzig",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T17:00:00+03:00",
-          "stop": "2026-06-25T19:00:00+03:00",
-          "title": "DFB: Engers vs Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T19:00:00+03:00",
-          "stop": "2026-06-25T21:00:00+03:00",
-          "title": "DFB: SV Atlas vs M'gladbach",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T21:00:00+03:00",
-          "stop": "2026-06-25T23:05:00+03:00",
-          "title": "Dutch: Fortuna vs Utrecht",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T23:05:00+03:00",
-          "stop": "2026-06-26T01:15:00+03:00",
-          "title": "Dutch: Alkmaar vs Feyenoord",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-26",
       "programs": [
@@ -281,6 +192,74 @@
           "start": "2026-06-27T23:00:00+03:00",
           "stop": "2026-06-28T01:00:00+03:00",
           "title": "Serie A: Napoli vs Lecce",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "programs": [
+        {
+          "start": "2026-06-28T01:00:00+03:00",
+          "stop": "2026-06-28T03:00:00+03:00",
+          "title": "Serie A: Cremonese vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T03:00:00+03:00",
+          "stop": "2026-06-28T05:00:00+03:00",
+          "title": "Serie A: Lazio vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T05:00:00+03:00",
+          "stop": "2026-06-28T07:00:00+03:00",
+          "title": "EFL: Blackburn vs Preston",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T07:00:00+03:00",
+          "stop": "2026-06-28T09:00:00+03:00",
+          "title": "EFL: West Brom vs Coventry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T09:00:00+03:00",
+          "stop": "2026-06-28T11:00:00+03:00",
+          "title": "EFL: Southampton vs Charlton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T11:00:00+03:00",
+          "stop": "2026-06-28T13:00:00+03:00",
+          "title": "EFL: Coventry vs Middlesbrough",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T13:00:00+03:00",
+          "stop": "2026-06-28T15:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Atalanta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T15:00:00+03:00",
+          "stop": "2026-06-28T17:00:00+03:00",
+          "title": "Serie A: Torino vs Lazio",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T17:00:00+03:00",
+          "stop": "2026-06-28T18:00:00+03:00",
+          "title": "Serie A: Roma vs Juventus",
           "description": "L",
           "category": null
         }

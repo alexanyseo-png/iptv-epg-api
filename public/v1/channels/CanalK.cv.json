@@ -8,155 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
+  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
   "available": true,
-  "programmeCount": 65,
+  "programmeCount": 67,
   "days": [
-    {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "start": "2026-06-25T00:20:00+03:00",
-          "stop": "2026-06-25T01:25:00+03:00",
-          "title": "Czarne stokrotki | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T01:25:00+03:00",
-          "stop": "2026-06-25T02:15:00+03:00",
-          "title": "Żmijowisko | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T02:15:00+03:00",
-          "stop": "2026-06-25T03:00:00+03:00",
-          "title": "Wilk 2 | S02E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T03:00:00+03:00",
-          "stop": "2026-06-25T08:00:00+03:00",
-          "title": "Zakończenie programu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T08:00:00+03:00",
-          "stop": "2026-06-25T10:05:00+03:00",
-          "title": "Piłka nożna: Ekstraklasa: Lech Poznań – KGHM Zagłębie Lubin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T10:05:00+03:00",
-          "stop": "2026-06-25T10:30:00+03:00",
-          "title": "Polska z góry: Stadiony – Wrocław | S01E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T10:30:00+03:00",
-          "stop": "2026-06-25T12:30:00+03:00",
-          "title": "Piłka nożna: Ekstraklasa: Legia Warszawa – Radomiak Radom",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T12:30:00+03:00",
-          "stop": "2026-06-25T13:15:00+03:00",
-          "title": "Złombol | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T13:15:00+03:00",
-          "stop": "2026-06-25T14:10:00+03:00",
-          "title": "Tepui – wyprawa do domu bogów",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T14:10:00+03:00",
-          "stop": "2026-06-25T14:55:00+03:00",
-          "title": "Łowcy tajemnic Bałtyku – Akademik Karpinsky | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T14:55:00+03:00",
-          "stop": "2026-06-25T15:45:00+03:00",
-          "title": "Łowcy tajemnic Bałtyku – Goya | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T15:45:00+03:00",
-          "stop": "2026-06-25T16:40:00+03:00",
-          "title": "Zakonnice | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T16:40:00+03:00",
-          "stop": "2026-06-25T17:35:00+03:00",
-          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 3 | S03E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T17:35:00+03:00",
-          "stop": "2026-06-25T18:30:00+03:00",
-          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 3 | S03E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T18:30:00+03:00",
-          "stop": "2026-06-25T19:20:00+03:00",
-          "title": "Rekruci – Egzaminy | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T19:20:00+03:00",
-          "stop": "2026-06-25T20:10:00+03:00",
-          "title": "Rekruci – Nowe początki | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T20:10:00+03:00",
-          "stop": "2026-06-25T21:10:00+03:00",
-          "title": "To nie jest zagadka kryminalna | S01E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T21:10:00+03:00",
-          "stop": "2026-06-25T22:10:00+03:00",
-          "title": "Kruk. Czorny Woron nie śpi | S02E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T22:10:00+03:00",
-          "stop": "2026-06-25T23:10:00+03:00",
-          "title": "Kruk. Czorny Woron nie śpi | S02E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T23:10:00+03:00",
-          "stop": "2026-06-26T00:00:00+03:00",
-          "title": "Czarna domena – Ryzykowne rozgrywki | E06",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-26",
       "programs": [
@@ -477,6 +332,165 @@
           "start": "2026-06-27T23:10:00+03:00",
           "stop": "2026-06-28T00:05:00+03:00",
           "title": "Belfer | S01E08",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "programs": [
+        {
+          "start": "2026-06-28T00:05:00+03:00",
+          "stop": "2026-06-28T00:55:00+03:00",
+          "title": "Blizna | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T00:55:00+03:00",
+          "stop": "2026-06-28T01:50:00+03:00",
+          "title": "Blizna | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T01:50:00+03:00",
+          "stop": "2026-06-28T03:01:00+03:00",
+          "title": "MTV Unplugged. Krzysztof Zalewski",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T03:01:00+03:00",
+          "stop": "2026-06-28T08:00:00+03:00",
+          "title": "Zakończenie programu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T08:00:00+03:00",
+          "stop": "2026-06-28T10:05:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Cracovia – Górnik Zabrze",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T10:05:00+03:00",
+          "stop": "2026-06-28T12:10:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Legia Warszawa – Pogoń Szczecin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T12:10:00+03:00",
+          "stop": "2026-06-28T12:40:00+03:00",
+          "title": "365 obiadów Mariety Mareckiej 6 | S06E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T12:40:00+03:00",
+          "stop": "2026-06-28T13:05:00+03:00",
+          "title": "ABC gotowania – kuchnia meksykańska – Tortilla | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T13:05:00+03:00",
+          "stop": "2026-06-28T13:30:00+03:00",
+          "title": "ABC gotowania – kuchnia meksykańska – Warzywa | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T13:30:00+03:00",
+          "stop": "2026-06-28T14:30:00+03:00",
+          "title": "Wielkie pomniki przyrody: Wielki Kanion | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T14:30:00+03:00",
+          "stop": "2026-06-28T15:25:00+03:00",
+          "title": "Kambodża z góry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T15:25:00+03:00",
+          "stop": "2026-06-28T16:20:00+03:00",
+          "title": "Cztery pory roku w Japonii | S01E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T16:20:00+03:00",
+          "stop": "2026-06-28T17:15:00+03:00",
+          "title": "Cztery pory roku w Japonii | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T17:15:00+03:00",
+          "stop": "2026-06-28T18:10:00+03:00",
+          "title": "Półwysep Shiretoko. Dzika Japonia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T18:10:00+03:00",
+          "stop": "2026-06-28T18:35:00+03:00",
+          "title": "Polska z góry 7 – Dolina Słupi | S07E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T18:35:00+03:00",
+          "stop": "2026-06-28T19:00:00+03:00",
+          "title": "Polska z góry 7 – Szlakami Podkarpacia | S07E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T19:00:00+03:00",
+          "stop": "2026-06-28T19:25:00+03:00",
+          "title": "Polska z góry 7 – Tajemniczy Dolny Śląsk | S07E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T19:25:00+03:00",
+          "stop": "2026-06-28T19:50:00+03:00",
+          "title": "Polska z góry 7 – Na południe od Wrocławia | S07E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T19:50:00+03:00",
+          "stop": "2026-06-28T20:15:00+03:00",
+          "title": "Polska z góry 8 – Krajna i Bory Tucholskie | S08E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T20:15:00+03:00",
+          "stop": "2026-06-28T22:15:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Wisła Płock – GKS Katowice",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T22:15:00+03:00",
+          "stop": "2026-06-28T23:10:00+03:00",
+          "title": "Klangor 2 | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T23:10:00+03:00",
+          "stop": "2026-06-29T00:10:00+03:00",
+          "title": "Klangor 2 | E02",
           "description": "L",
           "category": null
         }

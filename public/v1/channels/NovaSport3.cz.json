@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
+  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
   "available": true,
   "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "start": "2026-06-25T00:40:00+03:00",
-          "stop": "2026-06-25T02:30:00+03:00",
-          "title": "Málaga CF – UD Almería",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T02:30:00+03:00",
-          "stop": "2026-06-25T08:00:00+03:00",
-          "title": "UD Almería – Málaga CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T08:00:00+03:00",
-          "stop": "2026-06-25T09:50:00+03:00",
-          "title": "1. FSV Mainz 05 – 1. FC Heidenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T09:50:00+03:00",
-          "stop": "2026-06-25T11:40:00+03:00",
-          "title": "VfL Wolfsburg – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T11:40:00+03:00",
-          "stop": "2026-06-25T13:30:00+03:00",
-          "title": "Hannover 96 – Karlsruher SC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T13:30:00+03:00",
-          "stop": "2026-06-25T15:20:00+03:00",
-          "title": "Eintracht Braunschweig – 1. FC Kaiserslautern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T15:20:00+03:00",
-          "stop": "2026-06-25T17:10:00+03:00",
-          "title": "1. FC Magdeburg – 1. FC Norimberk",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T17:10:00+03:00",
-          "stop": "2026-06-25T19:00:00+03:00",
-          "title": "RB Lipsko – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T19:00:00+03:00",
-          "stop": "2026-06-25T21:00:00+03:00",
-          "title": "Málaga CF – UD Almería",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T21:00:00+03:00",
-          "stop": "2026-06-25T23:00:00+03:00",
-          "title": "UD Almería – Málaga CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T23:00:00+03:00",
-          "stop": "2026-06-26T00:45:00+03:00",
-          "title": "Werder Brémy – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-26",
       "programs": [
@@ -260,6 +178,88 @@
           "start": "2026-06-27T23:15:00+03:00",
           "stop": "2026-06-28T01:00:00+03:00",
           "title": "Borussia Mönchengladbach – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "programs": [
+        {
+          "start": "2026-06-28T01:00:00+03:00",
+          "stop": "2026-06-28T02:40:00+03:00",
+          "title": "1. FC Norimberk – Hannover 96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T02:40:00+03:00",
+          "stop": "2026-06-28T08:00:00+03:00",
+          "title": "VfL Bochum – Karlsruher SC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T08:00:00+03:00",
+          "stop": "2026-06-28T09:50:00+03:00",
+          "title": "1. FC Köln – VfL Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T09:50:00+03:00",
+          "stop": "2026-06-28T11:40:00+03:00",
+          "title": "Eintracht Frankfurt – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T11:40:00+03:00",
+          "stop": "2026-06-28T13:30:00+03:00",
+          "title": "1. FC Kaiserslautern – 1. FC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T13:30:00+03:00",
+          "stop": "2026-06-28T15:20:00+03:00",
+          "title": "SC Paderborn – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T15:20:00+03:00",
+          "stop": "2026-06-28T17:10:00+03:00",
+          "title": "Eintracht Braunschweig – 1. FC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T17:10:00+03:00",
+          "stop": "2026-06-28T19:05:00+03:00",
+          "title": "Hamburger SV – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T19:05:00+03:00",
+          "stop": "2026-06-28T21:00:00+03:00",
+          "title": "Borussia Dortmund – 1. FC Heidenheim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T21:00:00+03:00",
+          "stop": "2026-06-28T22:50:00+03:00",
+          "title": "TSG Hoffenheim – Union Berlín",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T22:50:00+03:00",
+          "stop": "2026-06-29T00:40:00+03:00",
+          "title": "VfB Stuttgart – SC Freiburg",
           "description": "L",
           "category": null
         }

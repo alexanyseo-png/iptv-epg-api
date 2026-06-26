@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
+  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "start": "2026-06-25T00:00:00+03:00",
-          "stop": "2026-06-25T01:50:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T01:50:00+03:00",
-          "stop": "2026-06-25T04:00:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T04:00:00+03:00",
-          "stop": "2026-06-25T05:35:00+03:00",
-          "title": "MMA Series Names (М.Артюхина).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T05:35:00+03:00",
-          "stop": "2026-06-25T07:15:00+03:00",
-          "title": "MMA Series Names (И.Чернышова).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T07:15:00+03:00",
-          "stop": "2026-06-25T12:00:00+03:00",
-          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-55: Grand arena. С.Бобрышев, С.Дьяконов, З.Гаджибабаев.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T12:00:00+03:00",
-          "stop": "2026-06-25T16:00:00+03:00",
-          "title": "MMA Series Teams. Кузня: Г.Мишин, В.Руденко, В.Сукаленко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T16:00:00+03:00",
-          "stop": "2026-06-25T20:00:00+03:00",
-          "title": "MMA Series Classic. Б.Медведев, К.Корнилов, А.Семёнов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T20:00:00+03:00",
-          "stop": "2026-06-26T00:00:00+03:00",
-          "title": "MMA Series. Топ бойцов легкого веса. С.Бурдастов, Д.Михайлиди, И.Мельников.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-26",
       "programs": [
@@ -183,6 +122,74 @@
           "start": "2026-06-27T22:30:00+03:00",
           "stop": "2026-06-28T00:00:00+03:00",
           "title": "MMA Series Names (И.Чернышова).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "programs": [
+        {
+          "start": "2026-06-28T00:00:00+03:00",
+          "stop": "2026-06-28T04:40:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-55: Grand arena. С.Бобрышев, С.Дьяконов, З.Гаджибабаев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T04:40:00+03:00",
+          "stop": "2026-06-28T08:00:00+03:00",
+          "title": "MMA Series Classic. Б.Медведев, К.Корнилов, А.Семёнов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T08:00:00+03:00",
+          "stop": "2026-06-28T12:00:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T12:00:00+03:00",
+          "stop": "2026-06-28T13:30:00+03:00",
+          "title": "MMA Series Names (M.Колосов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T13:30:00+03:00",
+          "stop": "2026-06-28T16:00:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T16:00:00+03:00",
+          "stop": "2026-06-28T19:30:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: ММА Серия - 21: Красная Поляна.О.Попов, Р.Меджидов, А.Подмарев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T19:30:00+03:00",
+          "stop": "2026-06-28T21:00:00+03:00",
+          "title": "MMA Series Names (И.Чернышова).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T21:00:00+03:00",
+          "stop": "2026-06-28T23:40:00+03:00",
+          "title": "ММА Global Seriеs–86: Минск. А.Ковалев, Л.Насименто, Д.Фабриэли, Д.Засинец.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T23:40:00+03:00",
+          "stop": "2026-06-29T00:40:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Global Series-86).",
           "description": "L",
           "category": null
         }

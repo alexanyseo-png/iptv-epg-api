@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-25T04:35:50.021894+00:00",
+  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-06-25",
-      "programs": [
-        {
-          "start": "2026-06-25T00:25:00+03:00",
-          "stop": "2026-06-25T02:05:00+03:00",
-          "title": "х/ф Жги!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T02:05:00+03:00",
-          "stop": "2026-06-25T03:20:00+03:00",
-          "title": "х/ф Блокбастер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T03:20:00+03:00",
-          "stop": "2026-06-25T05:15:00+03:00",
-          "title": "х/ф Духless 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T05:15:00+03:00",
-          "stop": "2026-06-25T06:30:00+03:00",
-          "title": "х/ф Нереальная любовь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T06:30:00+03:00",
-          "stop": "2026-06-25T08:00:00+03:00",
-          "title": "х/ф Везучий случай",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T08:00:00+03:00",
-          "stop": "2026-06-25T09:30:00+03:00",
-          "title": "х/ф Мальдивы подождут",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T09:30:00+03:00",
-          "stop": "2026-06-25T10:50:00+03:00",
-          "title": "х/ф Бармен",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T10:50:00+03:00",
-          "stop": "2026-06-25T12:20:00+03:00",
-          "title": "х/ф Семь ужинов",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T12:20:00+03:00",
-          "stop": "2026-06-25T14:00:00+03:00",
-          "title": "х/ф Папаша в бегах",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T14:00:00+03:00",
-          "stop": "2026-06-25T16:45:00+03:00",
-          "title": "т/с Мажор",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T16:45:00+03:00",
-          "stop": "2026-06-25T18:00:00+03:00",
-          "title": "х/ф Батя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T18:00:00+03:00",
-          "stop": "2026-06-25T19:45:00+03:00",
-          "title": "х/ф Нормальный только я",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T19:45:00+03:00",
-          "stop": "2026-06-25T21:30:00+03:00",
-          "title": "х/ф Домовой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T21:30:00+03:00",
-          "stop": "2026-06-25T23:15:00+03:00",
-          "title": "х/ф Пара из будущего",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-25T23:15:00+03:00",
-          "stop": "2026-06-26T00:40:00+03:00",
-          "title": "х/ф Лавстори",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-26",
       "programs": [
@@ -253,6 +143,39 @@
           "start": "2026-06-27T22:55:00+03:00",
           "stop": "2026-06-28T00:55:00+03:00",
           "title": "х/ф Мистер Нокаут",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-28",
+      "programs": [
+        {
+          "start": "2026-06-28T00:55:00+03:00",
+          "stop": "2026-06-28T02:25:00+03:00",
+          "title": "х/ф Конец прекрасной эпохи",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T02:25:00+03:00",
+          "stop": "2026-06-28T04:15:00+03:00",
+          "title": "х/ф Легенда о самбо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T04:15:00+03:00",
+          "stop": "2026-06-28T05:35:00+03:00",
+          "title": "х/ф Волшебник",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-28T05:35:00+03:00",
+          "stop": "2026-06-28T06:35:00+03:00",
+          "title": "х/ф Спасти Пушкина",
           "description": "L",
           "category": null
         }
