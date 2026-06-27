@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
+  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-06-26",
-      "programs": [
-        {
-          "start": "2026-06-26T00:15:00+03:00",
-          "stop": "2026-06-26T02:00:00+03:00",
-          "title": "Motorsport: IndyCar Series - Grand Prix of Alabama - Children's of Alabama Indy GP, Barber Motorsports Park, Alabama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T02:00:00+03:00",
-          "stop": "2026-06-26T15:00:00+03:00",
-          "title": "Infomercial.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T15:00:00+03:00",
-          "stop": "2026-06-26T20:15:00+03:00",
-          "title": "Galopprennen - Galpprennbahn Hoppengarten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T20:15:00+03:00",
-          "stop": "2026-06-26T20:45:00+03:00",
-          "title": "Icelandic Formula Off-Road - Icelandic Formula Offroad Cup, Stangarhylur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T20:45:00+03:00",
-          "stop": "2026-06-26T21:10:00+03:00",
-          "title": "All Wheel Drive Safari Challenge - Round 6, Ilfracombe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T21:10:00+03:00",
-          "stop": "2026-06-26T22:05:00+03:00",
-          "title": "Pikes Peak International Hillclimb.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T22:05:00+03:00",
-          "stop": "2026-06-27T00:25:00+03:00",
-          "title": "Australian Football: AFL - 6. Spieltag: West Coast Eagles - Essendon FC.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-27",
       "programs": [
@@ -183,6 +129,67 @@
           "start": "2026-06-28T23:20:00+03:00",
           "stop": "2026-06-29T01:00:00+03:00",
           "title": "Rugby: Super League - Wakefield Trinity - Leigh Leopards.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "start": "2026-06-29T01:00:00+03:00",
+          "stop": "2026-06-29T02:00:00+03:00",
+          "title": "NTT Indycar Series 2026 - Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T02:00:00+03:00",
+          "stop": "2026-06-29T15:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T15:00:00+03:00",
+          "stop": "2026-06-29T15:50:00+03:00",
+          "title": "Top Speed Classic - Top Speed Stories mit Christian Geistdörfer und Gaby Mair.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T15:50:00+03:00",
+          "stop": "2026-06-29T18:30:00+03:00",
+          "title": "Australian Football: AFL - 21. Spieltag: Freemantle Dockers - Carlton FC.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T18:30:00+03:00",
+          "stop": "2026-06-29T19:20:00+03:00",
+          "title": "UIM E1 World Championship 2025 - E1 Doha GP, Quatar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T19:20:00+03:00",
+          "stop": "2026-06-29T20:55:00+03:00",
+          "title": "FIM X-Trial World Championship 2026 - Grand Prix of Tarragona, Spain.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T20:55:00+03:00",
+          "stop": "2026-06-29T22:50:00+03:00",
+          "title": "Rugby: Super League - 21. Spieltag: Hull FC - Salford Red Devils.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T22:50:00+03:00",
+          "stop": "2026-06-30T02:00:00+03:00",
+          "title": "NTT IndyCar Series - Indianapolis 500, Indianapolis Motor Speedway, Indiana 2.",
           "description": "L",
           "category": null
         }

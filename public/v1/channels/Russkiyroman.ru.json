@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
+  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-06-26",
-      "programs": [
-        {
-          "start": "2026-06-26T00:50:00+03:00",
-          "stop": "2026-06-26T04:15:00+03:00",
-          "title": "Синее озеро.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T04:15:00+03:00",
-          "stop": "2026-06-26T07:40:00+03:00",
-          "title": "Красота небесная.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T07:40:00+03:00",
-          "stop": "2026-06-26T09:20:00+03:00",
-          "title": "Хороший день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T09:20:00+03:00",
-          "stop": "2026-06-26T11:00:00+03:00",
-          "title": "Мечтать не вредно.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T11:00:00+03:00",
-          "stop": "2026-06-26T14:40:00+03:00",
-          "title": "Высокие отношения.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T14:40:00+03:00",
-          "stop": "2026-06-26T17:55:00+03:00",
-          "title": "В полдень на пристани.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T17:55:00+03:00",
-          "stop": "2026-06-26T19:30:00+03:00",
-          "title": "Заложники.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T19:30:00+03:00",
-          "stop": "2026-06-26T22:45:00+03:00",
-          "title": "Срок давности.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T22:45:00+03:00",
-          "stop": "2026-06-27T00:25:00+03:00",
-          "title": "Судьба напрокат.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-27",
       "programs": [
@@ -232,6 +164,25 @@
           "start": "2026-06-28T21:45:00+03:00",
           "stop": "2026-06-29T00:55:00+03:00",
           "title": "Пианистка-2.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "start": "2026-06-29T00:55:00+03:00",
+          "stop": "2026-06-29T04:15:00+03:00",
+          "title": "Не того поля ягода.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T04:15:00+03:00",
+          "stop": "2026-06-29T05:15:00+03:00",
+          "title": "Пропасть между нами.",
           "description": "L",
           "category": null
         }

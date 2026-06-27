@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-26T04:41:29.031834+00:00",
+  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-06-26",
-      "programs": [
-        {
-          "start": "2026-06-26T00:45:00+03:00",
-          "stop": "2026-06-26T02:35:00+03:00",
-          "title": "Preußen Münster – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T02:35:00+03:00",
-          "stop": "2026-06-26T08:00:00+03:00",
-          "title": "Fortuna Düsseldorf – Schalke 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T08:00:00+03:00",
-          "stop": "2026-06-26T09:45:00+03:00",
-          "title": "TSG Hoffenheim – Bayer Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T09:45:00+03:00",
-          "stop": "2026-06-26T12:25:00+03:00",
-          "title": "RB Lipsko – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T12:25:00+03:00",
-          "stop": "2026-06-26T14:15:00+03:00",
-          "title": "SC Paderborn – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T14:15:00+03:00",
-          "stop": "2026-06-26T15:55:00+03:00",
-          "title": "1. FC Norimberk – Greuther Fürth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T15:55:00+03:00",
-          "stop": "2026-06-26T17:40:00+03:00",
-          "title": "Greuther Fürth – Hertha BSC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T17:40:00+03:00",
-          "stop": "2026-06-26T19:30:00+03:00",
-          "title": "FC Augsburg – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T19:30:00+03:00",
-          "stop": "2026-06-26T21:15:00+03:00",
-          "title": "Borussia Dortmund – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T21:15:00+03:00",
-          "stop": "2026-06-26T22:55:00+03:00",
-          "title": "VfB Stuttgart – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-26T22:55:00+03:00",
-          "stop": "2026-06-27T00:40:00+03:00",
-          "title": "FC St. Pauli – Hamburger SV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-27",
       "programs": [
@@ -260,6 +178,25 @@
           "start": "2026-06-28T22:50:00+03:00",
           "stop": "2026-06-29T00:40:00+03:00",
           "title": "VfB Stuttgart – SC Freiburg",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "start": "2026-06-29T00:40:00+03:00",
+          "stop": "2026-06-29T02:30:00+03:00",
+          "title": "1. FC Norimberk – SV Elversberg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T02:30:00+03:00",
+          "stop": "2026-06-29T03:30:00+03:00",
+          "title": "1. FC Kaiserslautern – Hannover 96",
           "description": "L",
           "category": null
         }
