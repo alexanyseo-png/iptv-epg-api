@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
+  "generatedAt": "2026-06-28T04:53:25.719465+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "start": "2026-06-27T00:25:00+03:00",
-          "stop": "2026-06-27T01:45:00+03:00",
-          "title": "NTT Indycar Series 2026 - Acura Grand Prix of Long Beach, Streets of Long Beach, California.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T01:45:00+03:00",
-          "stop": "2026-06-27T02:00:00+03:00",
-          "title": "Neue Heimat Mars. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T02:00:00+03:00",
-          "stop": "2026-06-27T14:05:00+03:00",
-          "title": "Infomercial.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T14:05:00+03:00",
-          "stop": "2026-06-27T17:05:00+03:00",
-          "title": "Australian Football: AFL - Elimination Final: GWS Giants - Hawthorn Hawks.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T17:05:00+03:00",
-          "stop": "2026-06-27T17:35:00+03:00",
-          "title": "FastZone.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T17:35:00+03:00",
-          "stop": "2026-06-27T18:50:00+03:00",
-          "title": "IndyNXT 2026 - Detroit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T18:50:00+03:00",
-          "stop": "2026-06-27T20:30:00+03:00",
-          "title": "Rugby: Super League - Huddersfield Giants - Leeds Rhinos.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T20:30:00+03:00",
-          "stop": "2026-06-27T22:30:00+03:00",
-          "title": "Rugby: National Rugby League - Cronulla Sutherland Sharks - Sydney Roosters.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T22:30:00+03:00",
-          "stop": "2026-06-28T00:25:00+03:00",
-          "title": "Rugby: Super League - 19. Spieltag: St. Helens RFC - Leigh Leopards.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-28",
       "programs": [
@@ -190,6 +122,60 @@
           "start": "2026-06-29T22:50:00+03:00",
           "stop": "2026-06-30T02:00:00+03:00",
           "title": "NTT IndyCar Series - Indianapolis 500, Indianapolis Motor Speedway, Indiana 2.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "programs": [
+        {
+          "start": "2026-06-30T02:00:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T16:45:00+03:00",
+          "title": "Rugby: National Rugby League - Melbourne Storm - Canterbuy Bulldogs.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:45:00+03:00",
+          "stop": "2026-06-30T17:45:00+03:00",
+          "title": "Geniale Zufälle. S: 1 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:45:00+03:00",
+          "stop": "2026-06-30T19:45:00+03:00",
+          "title": "Rugby: National Rugby League - 18. Spieltag: St. George Illawara Dragons - Sydney Roosters.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:45:00+03:00",
+          "stop": "2026-06-30T20:45:00+03:00",
+          "title": "PSP New Zealand Jetsprint Championship - NZ Championship 2, Featherston.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:45:00+03:00",
+          "stop": "2026-06-30T21:55:00+03:00",
+          "title": "Motorsport: Indy NXT Series - Barber 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:55:00+03:00",
+          "stop": "2026-07-01T00:30:00+03:00",
+          "title": "Australian Football: AFL - 19. Spieltag: Adelaide Crows - Gold Coast Suns.",
           "description": "L",
           "category": null
         }

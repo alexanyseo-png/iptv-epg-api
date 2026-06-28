@@ -8,104 +8,15 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
+  "generatedAt": "2026-06-28T04:53:25.719465+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "start": "2026-06-27T00:00:00+03:00",
-          "stop": "2026-06-27T02:05:00+03:00",
-          "title": "Feinde - Hostiles.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T02:05:00+03:00",
-          "stop": "2026-06-27T03:45:00+03:00",
-          "title": "Die Troublemaker.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T03:45:00+03:00",
-          "stop": "2026-06-27T05:40:00+03:00",
-          "title": "A Million Ways to Die in the West.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T05:40:00+03:00",
-          "stop": "2026-06-27T07:25:00+03:00",
-          "title": "Die Troublemaker.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T07:25:00+03:00",
-          "stop": "2026-06-27T09:30:00+03:00",
-          "title": "Aladdin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T09:30:00+03:00",
-          "stop": "2026-06-27T11:20:00+03:00",
-          "title": "Dumbo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T11:20:00+03:00",
-          "stop": "2026-06-27T13:10:00+03:00",
-          "title": "Five Nights at Freddy's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T13:10:00+03:00",
-          "stop": "2026-06-27T15:05:00+03:00",
-          "title": "Creepshow - Die unheimlich verrückte Geisterstunde.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T15:05:00+03:00",
-          "stop": "2026-06-27T16:55:00+03:00",
-          "title": "Resident Evil: Final Chapter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T16:55:00+03:00",
-          "stop": "2026-06-27T19:20:00+03:00",
-          "title": "Gone Girl - Das perfekte Opfer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T19:20:00+03:00",
-          "stop": "2026-06-27T21:15:00+03:00",
-          "title": "Die Höllenfahrt der Poseidon.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T21:15:00+03:00",
-          "stop": "2026-06-28T00:25:00+03:00",
-          "title": "Titanic.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-28",
       "programs": [
         {
-          "start": "2026-06-28T00:25:00+03:00",
+          "start": "2026-06-28T00:20:00+03:00",
           "stop": "2026-06-28T02:10:00+03:00",
           "title": "Knight and Day.",
           "description": "L",
@@ -113,13 +24,13 @@
         },
         {
           "start": "2026-06-28T02:10:00+03:00",
-          "stop": "2026-06-28T03:55:00+03:00",
+          "stop": "2026-06-28T03:50:00+03:00",
           "title": "Sleepy Hollow.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-28T03:55:00+03:00",
+          "start": "2026-06-28T03:50:00+03:00",
           "stop": "2026-06-28T05:15:00+03:00",
           "title": "Die Affäre.",
           "description": "L",
@@ -302,6 +213,116 @@
           "start": "2026-06-29T22:55:00+03:00",
           "stop": "2026-06-30T00:40:00+03:00",
           "title": "Bang Boom Bang - Ein todsicheres Ding.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-30",
+      "programs": [
+        {
+          "start": "2026-06-30T00:40:00+03:00",
+          "stop": "2026-06-30T02:20:00+03:00",
+          "title": "Asphaltgorillas.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T02:20:00+03:00",
+          "stop": "2026-06-30T04:05:00+03:00",
+          "title": "Bang Boom Bang - Ein todsicheres Ding.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:05:00+03:00",
+          "stop": "2026-06-30T05:30:00+03:00",
+          "title": "Trolls - Gemeinsam Stark.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:30:00+03:00",
+          "stop": "2026-06-30T06:55:00+03:00",
+          "title": "MacGyver. S: 4 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T06:55:00+03:00",
+          "stop": "2026-06-30T07:50:00+03:00",
+          "title": "MacGyver. S: 4 / Ep: 17.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:50:00+03:00",
+          "stop": "2026-06-30T10:15:00+03:00",
+          "title": "Die Jury.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:15:00+03:00",
+          "stop": "2026-06-30T12:10:00+03:00",
+          "title": "Gemini Man.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:10:00+03:00",
+          "stop": "2026-06-30T14:15:00+03:00",
+          "title": "Boston.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:15:00+03:00",
+          "stop": "2026-06-30T16:00:00+03:00",
+          "title": "John Wick.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:00:00+03:00",
+          "stop": "2026-06-30T17:40:00+03:00",
+          "title": "Tödliche Nähe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:40:00+03:00",
+          "stop": "2026-06-30T19:35:00+03:00",
+          "title": "The Beach.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:35:00+03:00",
+          "stop": "2026-06-30T20:25:00+03:00",
+          "title": "MacGyver. S: 4 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:25:00+03:00",
+          "stop": "2026-06-30T21:15:00+03:00",
+          "title": "MacGyver. S: 5 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:15:00+03:00",
+          "stop": "2026-06-30T22:50:00+03:00",
+          "title": "Der Feind in meinem Bett.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:50:00+03:00",
+          "stop": "2026-07-01T00:25:00+03:00",
+          "title": "Anatomie einer Entführung.",
           "description": "L",
           "category": null
         }

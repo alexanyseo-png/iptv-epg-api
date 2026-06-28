@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-27T04:18:03.000532+00:00",
+  "generatedAt": "2026-06-28T04:53:25.719465+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-06-27",
-      "programs": [
-        {
-          "start": "2026-06-27T00:00:00+03:00",
-          "stop": "2026-06-27T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T05:00:00+03:00",
-          "stop": "2026-06-27T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T07:00:00+03:00",
-          "stop": "2026-06-27T11:00:00+03:00",
-          "title": "Утро Z",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T11:00:00+03:00",
-          "stop": "2026-06-27T11:30:00+03:00",
-          "title": "Большая рыба с Гией Саралидзе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T11:30:00+03:00",
-          "stop": "2026-06-27T13:00:00+03:00",
-          "title": "День Z",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T13:00:00+03:00",
-          "stop": "2026-06-27T14:00:00+03:00",
-          "title": "Рассказы из русской истории",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T14:00:00+03:00",
-          "stop": "2026-06-27T17:00:00+03:00",
-          "title": "Подробнее с Маратом Булатовым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T17:00:00+03:00",
-          "stop": "2026-06-27T17:30:00+03:00",
-          "title": "Деньги не пахнут",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T17:30:00+03:00",
-          "stop": "2026-06-27T18:00:00+03:00",
-          "title": "Главный вопрос",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T18:00:00+03:00",
-          "stop": "2026-06-27T20:00:00+03:00",
-          "title": "Между народами с Аббасом Джумой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T20:00:00+03:00",
-          "stop": "2026-06-27T23:00:00+03:00",
-          "title": "Мардан Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-27T23:00:00+03:00",
-          "stop": "2026-06-28T05:00:00+03:00",
-          "title": "СоловьевLive лучшее",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-28",
       "programs": [
@@ -190,8 +101,41 @@
         },
         {
           "start": "2026-06-28T23:00:00+03:00",
-          "stop": "2026-06-29T00:00:00+03:00",
+          "stop": "2026-06-29T05:00:00+03:00",
           "title": "Курс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "start": "2026-06-29T05:00:00+03:00",
+          "stop": "2026-06-29T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T07:00:00+03:00",
+          "stop": "2026-06-29T11:00:00+03:00",
+          "title": "Формула смысла",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T11:00:00+03:00",
+          "stop": "2026-06-29T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T14:00:00+03:00",
+          "stop": "2026-06-29T16:00:00+03:00",
+          "title": "Тема с Алексеем Бобровским",
           "description": "L",
           "category": null
         }
