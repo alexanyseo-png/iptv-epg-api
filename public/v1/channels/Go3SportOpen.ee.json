@@ -8,8 +8,70 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-28T04:53:25.719465+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "available": true,
+  "programmeCount": 8,
+  "days": [
+    {
+      "date": "2026-06-29",
+      "programs": [
+        {
+          "start": "2026-06-29T01:15:00+03:00",
+          "stop": "2026-06-29T02:00:00+03:00",
+          "title": "Basketball: NBA on Fire (NBA on Fire), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T02:00:00+03:00",
+          "stop": "2026-06-29T05:00:00+03:00",
+          "title": "Basketball: WNBA. Golden State Valkyries – New York Liberty (WNBA), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T05:00:00+03:00",
+          "stop": "2026-06-29T07:00:00+03:00",
+          "title": "Football: Serie A. Milan – Napoli (Calcio: Campionato Italiano Serie A), 2025",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T07:00:00+03:00",
+          "stop": "2026-06-29T09:00:00+03:00",
+          "title": "Tennis: ATP 250 Mallorca. Singles, Final (Tennis: ATP 250 Mallorca Championships), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T09:00:00+03:00",
+          "stop": "2026-06-29T10:55:00+03:00",
+          "title": "Basketball: ACB league. Final G5. Valencia – Barcelona (Liga Endesa), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T10:55:00+03:00",
+          "stop": "2026-06-29T13:00:00+03:00",
+          "title": "Basketball: Friendly matches. Lithuania – Ukraine (Basketball – Men's International Friendly Match), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T13:00:00+03:00",
+          "stop": "2026-06-29T17:00:00+03:00",
+          "title": "Tennis: Wimbledon. Court 8 (Tennis: Wimbledon), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-29T17:00:00+03:00",
+          "stop": "2026-06-29T21:00:00+03:00",
+          "title": "Tennis: Wimbledon. Court 8 (Tennis: Wimbledon), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
