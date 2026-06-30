@@ -8,31 +8,524 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 72,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:50:00+03:00",
-          "stop": "2026-06-29T02:35:00+03:00",
-          "title": "See You On Venus – Meine Reise zu dir",
+          "start": "2026-06-30T00:12:00+03:00",
+          "stop": "2026-06-30T01:11:00+03:00",
+          "title": "Die Geissens – Eine schrecklich glamouröse Familie! 23 – Shania die Schlange | E15",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:35:00+03:00",
-          "stop": "2026-06-29T04:10:00+03:00",
-          "title": "Beautiful Wedding",
+          "start": "2026-06-30T01:11:00+03:00",
+          "stop": "2026-06-30T02:55:00+03:00",
+          "title": "Reeperbahn Privat! Das wahre Leben auf dem Kiez 3 – Joyce' erste Strip-Show: Die Neue im Team muss sich beweisen | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T04:10:00+03:00",
-          "stop": "2026-06-29T05:10:00+03:00",
-          "title": "Palm Springs",
+          "start": "2026-06-30T02:55:00+03:00",
+          "stop": "2026-06-30T03:58:00+03:00",
+          "title": "Love Island USA 7 – Tag 13 | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T03:58:00+03:00",
+          "stop": "2026-06-30T04:59:00+03:00",
+          "title": "Love Island USA 7 – Tag 14 | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:59:00+03:00",
+          "stop": "2026-06-30T06:10:00+03:00",
+          "title": "Love Island USA – Aftersun Woche 3 | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T06:10:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 14 – Sükrü bei Thomas aus Langquaid | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T08:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Otto bei Ramona und Mike – Teil 1 / Sükrü bei Agnes – Teil 1 | E43",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:00:00+03:00",
+          "stop": "2026-06-30T09:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Otto bei Ramona und Mike – Teil 2 / Sükrü bei Agnes – Teil 2 | E44",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:00:00+03:00",
+          "stop": "2026-06-30T10:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 8 – Otto bei Andreas aus Bodenwerder | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:00:00+03:00",
+          "stop": "2026-06-30T11:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 11 – Sükrü bei Barbara und Klaus | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T11:00:00+03:00",
+          "stop": "2026-06-30T12:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 12 – Mauro bei Inge und Wolfgang | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:00:00+03:00",
+          "stop": "2026-06-30T13:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 20 – Sükrü, Mauro und Otto bei Janine | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:55:00+03:00",
+          "stop": "2026-06-30T14:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 15 – Mauro bei Anastasios | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:55:00+03:00",
+          "stop": "2026-06-30T16:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Ungeahnte Richtung | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:00:00+03:00",
+          "stop": "2026-06-30T17:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Emotionen | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:00:00+03:00",
+          "stop": "2026-06-30T17:03:00+03:00",
+          "title": "RTLZWEI News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:03:00+03:00",
+          "stop": "2026-06-30T17:04:00+03:00",
+          "title": "RTLZWEI Wetter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:04:00+03:00",
+          "stop": "2026-06-30T17:05:00+03:00",
+          "title": "Das WM Orakel mit Paul 2.0 – Folge #01.13 | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:05:00+03:00",
+          "stop": "2026-06-30T18:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Die Qual der Wahl bei der Einrichtung | E62",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:05:00+03:00",
+          "stop": "2026-06-30T19:05:00+03:00",
+          "title": "Hartz Rot Gold 3 – Frohe Botschaften | E42",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:05:00+03:00",
+          "stop": "2026-06-30T20:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Liebe und Schmerz – zwei alte Bekannte | E63",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:05:00+03:00",
+          "stop": "2026-06-30T21:15:00+03:00",
+          "title": "Berlin – Tag & Nacht 16 – Fry wie ein Vogel | E3712",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:15:00+03:00",
+          "stop": "2026-06-30T22:15:00+03:00",
+          "title": "Hartz und herzlich 13 – In den Tiefen der Ostsee unterwegs | E65",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:15:00+03:00",
+          "stop": "2026-06-30T23:15:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 14 – Eigene Pläne | E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:15:00+03:00",
+          "stop": "2026-07-01T01:15:00+03:00",
+          "title": "Mensch Retter 4 – Die Feuerwehr als Katzenretter | E03",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T01:15:00+03:00",
+          "stop": "2026-07-01T02:05:00+03:00",
+          "title": "Hartz und herzlich 13 – In den Tiefen der Ostsee unterwegs | E65",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:05:00+03:00",
+          "stop": "2026-07-01T03:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Aus den Fugen geraten | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:00:00+03:00",
+          "stop": "2026-07-01T03:55:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Optionen | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:55:00+03:00",
+          "stop": "2026-07-01T04:45:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Ungeahnte Richtung | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:45:00+03:00",
+          "stop": "2026-07-01T06:10:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Emotionen | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T06:10:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 14 – Otto bei Elvira und Walburga | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T08:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Otto bei Ramona und Mike – Teil 3 | E45",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:00:00+03:00",
+          "stop": "2026-07-01T09:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Sükrü bei Mona | E46",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:00:00+03:00",
+          "stop": "2026-07-01T10:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 8 – Otto bei Uwe und Steffi | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:00:00+03:00",
+          "stop": "2026-07-01T11:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 11 – Otto bei Ilona | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:00:00+03:00",
+          "stop": "2026-07-01T12:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 12 – Andreas bei Irene | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:00:00+03:00",
+          "stop": "2026-07-01T12:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 14 – Marco bei Anke, Jenny und Lena | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:55:00+03:00",
+          "stop": "2026-07-01T13:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 14 – Otto bei Michael und Antje | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:55:00+03:00",
+          "stop": "2026-07-01T14:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 15 – Otto bei Michael und Lydia | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:55:00+03:00",
+          "stop": "2026-07-01T16:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Misstrauen | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:00:00+03:00",
+          "stop": "2026-07-01T17:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Die Liebe Nachbarschaft | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:00:00+03:00",
+          "stop": "2026-07-01T17:03:00+03:00",
+          "title": "RTLZWEI News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:03:00+03:00",
+          "stop": "2026-07-01T17:04:00+03:00",
+          "title": "RTLZWEI Wetter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:04:00+03:00",
+          "stop": "2026-07-01T17:05:00+03:00",
+          "title": "Das WM Orakel mit Paul 2.0 – Folge #01.14 | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:05:00+03:00",
+          "stop": "2026-07-01T18:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Liebe und Schmerz – zwei alte Bekannte | E63",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:05:00+03:00",
+          "stop": "2026-07-01T19:05:00+03:00",
+          "title": "Hartz Rot Gold 3 – Die Inobhutnahme | E43",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:05:00+03:00",
+          "stop": "2026-07-01T20:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Zwischen Kreuzfeuer und 'Schatz'-Suche | E64",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:05:00+03:00",
+          "stop": "2026-07-01T21:15:00+03:00",
+          "title": "Berlin – Tag & Nacht 16 – Schmerzhafte Erkenntnis | E3713",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T21:15:00+03:00",
+          "stop": "2026-07-01T23:15:00+03:00",
+          "title": "Bella Italia – Camping auf Deutsch 5 – Sixpack statt Plauze – Sascha und Dennis auf Diät | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T23:15:00+03:00",
+          "stop": "2026-07-02T01:20:00+03:00",
+          "title": "Joey Kelly und Familie – Roadtrip Panamericana – Glamour, Verfolgungsjagd und Tequila | E03",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T01:20:00+03:00",
+          "stop": "2026-07-02T03:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 20 – Sükrü, Mauro und Otto bei Ralf | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:00:00+03:00",
+          "stop": "2026-07-02T04:45:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 20 – Sükrü, Mauro und Otto bei Janine | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:45:00+03:00",
+          "stop": "2026-07-02T06:10:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 12 – Andreas bei Irene | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T06:10:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 14 – Mauro bei Brigitte aus Aschersleben | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T08:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Antoine bei Antoinette | E47",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:00:00+03:00",
+          "stop": "2026-07-02T09:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 6 – Otto bei Tatjana | E50",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:00:00+03:00",
+          "stop": "2026-07-02T10:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 8 – Sükrü bei Erich | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:00:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 11 – Mauro bei Markus | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T12:00:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 12 – Sükrü bei Carla | E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:00:00+03:00",
+          "stop": "2026-07-02T13:55:00+03:00",
+          "title": "Trödeltrupp On Tour – Schatzjagd durch Europa – Ein goldener Start in der Türkei | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:55:00+03:00",
+          "stop": "2026-07-02T14:55:00+03:00",
+          "title": "Der Trödeltrupp – Das Geld liegt im Keller 15 – Mauro bei Rosi | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:55:00+03:00",
+          "stop": "2026-07-02T16:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Seitensprung | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:00:00+03:00",
+          "stop": "2026-07-02T17:00:00+03:00",
+          "title": "Hartz und herzlich – Tag für Tag Benz-Baracken 11 – Neue Aufgaben | E22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:00:00+03:00",
+          "stop": "2026-07-02T17:03:00+03:00",
+          "title": "RTLZWEI News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:03:00+03:00",
+          "stop": "2026-07-02T17:04:00+03:00",
+          "title": "RTLZWEI Wetter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:04:00+03:00",
+          "stop": "2026-07-02T17:05:00+03:00",
+          "title": "Das WM Orakel mit Paul 2.0 – Folge #01.15 | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:05:00+03:00",
+          "stop": "2026-07-02T18:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Zwischen Kreuzfeuer und 'Schatz'-Suche | E64",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:05:00+03:00",
+          "stop": "2026-07-02T19:05:00+03:00",
+          "title": "Hartz Rot Gold 3 – Familiendramen | E44",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:05:00+03:00",
+          "stop": "2026-07-02T20:05:00+03:00",
+          "title": "Hartz und herzlich 12 – Schulden, Zweifel, Umzugsstress | E65",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:05:00+03:00",
+          "stop": "2026-07-02T21:15:00+03:00",
+          "title": "Berlin – Tag & Nacht 16 – Ungebetene Hilfe | E3714",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:15:00+03:00",
+          "stop": "2026-07-02T23:15:00+03:00",
+          "title": "Reeperbahn Privat! Das wahre Leben auf dem Kiez 3 – Im Dating-Fieber: Dragqueen Vanity Trash sucht die große Liebe | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:15:00+03:00",
+          "stop": "2026-07-03T01:15:00+03:00",
+          "title": "Das Messie-Team – Start in ein neues Leben 2 – Gunvor wünscht sich endlich 'einen neuen Start ins Leben! | E03",
           "description": "L",
           "category": null
         }

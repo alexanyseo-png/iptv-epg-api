@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-06-29",
-      "programs": [
-        {
-          "start": "2026-06-29T01:00:00+03:00",
-          "stop": "2026-06-29T02:00:00+03:00",
-          "title": "NTT Indycar Series 2026 - Sonsio GP, Indianapolis Motor Speedway Road Course, Indiana.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T02:00:00+03:00",
-          "stop": "2026-06-29T15:00:00+03:00",
-          "title": "Infomercial.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T15:00:00+03:00",
-          "stop": "2026-06-29T15:50:00+03:00",
-          "title": "Top Speed Classic - Top Speed Stories mit Christian Geistdörfer und Gaby Mair.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T15:50:00+03:00",
-          "stop": "2026-06-29T18:30:00+03:00",
-          "title": "Australian Football: AFL - 21. Spieltag: Freemantle Dockers - Carlton FC.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T18:30:00+03:00",
-          "stop": "2026-06-29T19:20:00+03:00",
-          "title": "UIM E1 World Championship 2025 - E1 Doha GP, Quatar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T19:20:00+03:00",
-          "stop": "2026-06-29T20:55:00+03:00",
-          "title": "FIM X-Trial World Championship 2026 - Grand Prix of Tarragona, Spain.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T20:55:00+03:00",
-          "stop": "2026-06-29T22:50:00+03:00",
-          "title": "Rugby: Super League - 21. Spieltag: Hull FC - Salford Red Devils.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T22:50:00+03:00",
-          "stop": "2026-06-30T02:00:00+03:00",
-          "title": "NTT IndyCar Series - Indianapolis 500, Indianapolis Motor Speedway, Indiana 2.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-06-30",
       "programs": [
@@ -197,6 +136,95 @@
           "start": "2026-07-01T22:05:00+03:00",
           "stop": "2026-07-02T01:00:00+03:00",
           "title": "Australian Football: Australian Football League - 9. Spieltag: St. Kilda - Carlton FC.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T02:00:00+03:00",
+          "title": "NTT Indycar Series 2026 - Acura Grand Prix of Long Beach, Streets of Long Beach, California.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:00:00+03:00",
+          "stop": "2026-07-02T15:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:00:00+03:00",
+          "stop": "2026-07-02T16:50:00+03:00",
+          "title": "Rugby: National Rugby League - 16. Spieltag: Dolphins - Newcastle Knights.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:50:00+03:00",
+          "stop": "2026-07-02T17:45:00+03:00",
+          "title": "Geniale Zufälle. S: 1 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:45:00+03:00",
+          "stop": "2026-07-02T18:35:00+03:00",
+          "title": "British Rally Championship - Cambrian Rally, Llanduno.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:35:00+03:00",
+          "stop": "2026-07-02T19:05:00+03:00",
+          "title": "Belgian Rally Championship - Rallye des Ardennes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:05:00+03:00",
+          "stop": "2026-07-02T19:35:00+03:00",
+          "title": "Rallye: Tour European Rally - Rallye de A Coruña, Spain.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:35:00+03:00",
+          "stop": "2026-07-02T20:30:00+03:00",
+          "title": "BTRDA Rallycross - Runde 1, Blyton Park.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:30:00+03:00",
+          "stop": "2026-07-02T21:00:00+03:00",
+          "title": "Belgian Rallycross Championship - Runde 4 & 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:00:00+03:00",
+          "stop": "2026-07-02T21:30:00+03:00",
+          "title": "Belcar Endurance Championship - 24 hours of Zolder, Zolder.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:30:00+03:00",
+          "stop": "2026-07-02T22:35:00+03:00",
+          "title": "Rallye: NZ Rally Championship - Round 2, South Canterbury.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:35:00+03:00",
+          "stop": "2026-07-03T01:00:00+03:00",
+          "title": "Rugby: Super League - Finale: Hull KR - Wigan Warriors.",
           "description": "L",
           "category": null
         }

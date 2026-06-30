@@ -8,59 +8,629 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 87,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:15:00+03:00",
-          "stop": "2026-06-29T01:00:00+03:00",
+          "start": "2026-06-30T00:00:00+03:00",
+          "stop": "2026-06-30T00:15:00+03:00",
+          "title": "Muzyka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T00:15:00+03:00",
+          "stop": "2026-06-30T01:00:00+03:00",
           "title": "Juwelo",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T01:00:00+03:00",
-          "stop": "2026-06-29T01:55:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Jurki | S02E17",
+          "start": "2026-06-30T01:00:00+03:00",
+          "stop": "2026-06-30T01:55:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Ciach | S02E18",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T01:55:00+03:00",
-          "stop": "2026-06-29T02:50:00+03:00",
-          "title": "Kabaretowy szał 4 – Kabaret Moralnego Niepokoju | S04E13",
+          "start": "2026-06-30T01:55:00+03:00",
+          "stop": "2026-06-30T02:50:00+03:00",
+          "title": "Kabaretowy szał 4 – Smile | S04E14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:50:00+03:00",
-          "stop": "2026-06-29T03:50:00+03:00",
-          "title": "Kabaretowy szał bis – Kabaret Moralnego Niepokoju | E23",
+          "start": "2026-06-30T02:50:00+03:00",
+          "stop": "2026-06-30T02:55:00+03:00",
+          "title": "Ślub w krzywym zwierciadle | S01E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:50:00+03:00",
-          "stop": "2026-06-29T04:50:00+03:00",
+          "start": "2026-06-30T02:55:00+03:00",
+          "stop": "2026-06-30T03:50:00+03:00",
+          "title": "Kabaretowy szał bis – Kabaret Ani Mru-Mru | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T03:50:00+03:00",
+          "stop": "2026-06-30T04:50:00+03:00",
+          "title": "Kabaretowy szał 2026 – Kabaret Jurki | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:50:00+03:00",
+          "stop": "2026-06-30T05:50:00+03:00",
           "title": "Kabaretowy szał 2026 – Kabaret Smile | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T04:50:00+03:00",
-          "stop": "2026-06-29T05:50:00+03:00",
-          "title": "Kabaretowy szał bis – Kabaret Ani Mru-Mru | E14",
+          "start": "2026-06-30T05:50:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
+          "title": "Miłe rozmowy | E07",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T05:50:00+03:00",
-          "stop": "2026-06-29T06:50:00+03:00",
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T07:25:00+03:00",
+          "title": "Remont na 5 sezon 7 – Remont na 5 S07E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:25:00+03:00",
+          "stop": "2026-06-30T07:50:00+03:00",
+          "title": "Remont na 5 sezon 7 – Remont na 5 S07E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:50:00+03:00",
+          "stop": "2026-06-30T08:15:00+03:00",
+          "title": "Remont na 5 sezon 7 – Remont na 5 S07E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:15:00+03:00",
+          "stop": "2026-06-30T08:45:00+03:00",
+          "title": "Remont na 5 sezon 7 – Remont na 5 S07E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:45:00+03:00",
+          "stop": "2026-06-30T09:10:00+03:00",
+          "title": "Remont na 5+ | S08E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:10:00+03:00",
+          "stop": "2026-06-30T09:15:00+03:00",
+          "title": "Ślub w krzywym zwierciadle | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:15:00+03:00",
+          "stop": "2026-06-30T09:30:00+03:00",
+          "title": "Coś śmiesznego – Kabaret Moralnego Niepokoju | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:30:00+03:00",
+          "stop": "2026-06-30T10:00:00+03:00",
+          "title": "Straż graniczna 4 | S04E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:00:00+03:00",
+          "stop": "2026-06-30T10:30:00+03:00",
+          "title": "Straż graniczna 4 | S04E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:30:00+03:00",
+          "stop": "2026-06-30T10:55:00+03:00",
+          "title": "Straż graniczna 4 | S04E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:55:00+03:00",
+          "stop": "2026-06-30T11:55:00+03:00",
+          "title": "Gorączka w mieście | S01E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T11:55:00+03:00",
+          "stop": "2026-06-30T12:55:00+03:00",
+          "title": "Gorączka w mieście | S01E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:55:00+03:00",
+          "stop": "2026-06-30T13:55:00+03:00",
+          "title": "Gorączka w mieście | S01E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:55:00+03:00",
+          "stop": "2026-06-30T14:00:00+03:00",
+          "title": "Ślub w krzywym zwierciadle | S01E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:00:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T16:05:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:05:00+03:00",
+          "stop": "2026-06-30T18:05:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:05:00+03:00",
+          "stop": "2026-06-30T18:35:00+03:00",
+          "title": "Straż graniczna 2 | S02E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:35:00+03:00",
+          "stop": "2026-06-30T18:45:00+03:00",
+          "title": "Uśmiechnij się 3 | S03E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:45:00+03:00",
+          "stop": "2026-06-30T19:00:00+03:00",
+          "title": "Uśmiechnij się 3 | S03E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:00:00+03:00",
+          "stop": "2026-06-30T22:00:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:00:00+03:00",
+          "stop": "2026-06-30T22:40:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:40:00+03:00",
+          "stop": "2026-06-30T23:20:00+03:00",
+          "title": "Ale cyrk | S01E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:20:00+03:00",
+          "stop": "2026-06-30T23:55:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:55:00+03:00",
+          "stop": "2026-07-01T00:00:00+03:00",
+          "title": "Ślub w krzywym zwierciadle | S01E10",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:00:00+03:00",
+          "stop": "2026-07-01T00:15:00+03:00",
+          "title": "Muzyka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T00:15:00+03:00",
+          "stop": "2026-07-01T01:00:00+03:00",
+          "title": "Juwelo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:00:00+03:00",
+          "stop": "2026-07-01T01:55:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Czesuaf | S02E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:55:00+03:00",
+          "stop": "2026-07-01T02:50:00+03:00",
+          "title": "Kabaretowy szał 4 – Młodych Panów | S04E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:50:00+03:00",
+          "stop": "2026-07-01T02:55:00+03:00",
+          "title": "Ślub w krzywym zwierciadle | S01E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:55:00+03:00",
+          "stop": "2026-07-01T03:55:00+03:00",
+          "title": "Kabaretowy szał bis – Kabaret Moralnego Niepokoju | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:55:00+03:00",
+          "stop": "2026-07-01T04:50:00+03:00",
+          "title": "Kabaretowy szał 2026 – Zdolni i Skromni | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:50:00+03:00",
+          "stop": "2026-07-01T05:50:00+03:00",
+          "title": "Kabaretowy szał 2026 – Moralngo Niepokoju | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:50:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
           "title": "Miłe rozmowy | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T07:55:00+03:00",
+          "title": "Kabaretowy szał – Smile | S01E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:55:00+03:00",
+          "stop": "2026-07-01T08:35:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S02E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:35:00+03:00",
+          "stop": "2026-07-01T09:30:00+03:00",
+          "title": "Kabaretowy szał 2026 – Ani Mru-Mru | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:30:00+03:00",
+          "stop": "2026-07-01T10:00:00+03:00",
+          "title": "Straż graniczna 4 | S04E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:00:00+03:00",
+          "stop": "2026-07-01T10:30:00+03:00",
+          "title": "Straż graniczna 4 | S04E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:30:00+03:00",
+          "stop": "2026-07-01T11:00:00+03:00",
+          "title": "Straż graniczna 5 | S05E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:00:00+03:00",
+          "stop": "2026-07-01T12:00:00+03:00",
+          "title": "Gorączka w mieście | S01E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:00:00+03:00",
+          "stop": "2026-07-01T13:00:00+03:00",
+          "title": "Gorączka w mieście | S01E30",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:00:00+03:00",
+          "stop": "2026-07-01T14:00:00+03:00",
+          "title": "Gorączka w mieście | S01E40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:00:00+03:00",
+          "stop": "2026-07-01T15:00:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:00:00+03:00",
+          "stop": "2026-07-01T16:05:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:05:00+03:00",
+          "stop": "2026-07-01T18:05:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:05:00+03:00",
+          "stop": "2026-07-01T18:40:00+03:00",
+          "title": "Straż graniczna 2 | S02E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:40:00+03:00",
+          "stop": "2026-07-01T19:00:00+03:00",
+          "title": "Droga wolna | S01E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:00:00+03:00",
+          "stop": "2026-07-01T22:00:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:00:00+03:00",
+          "stop": "2026-07-01T22:45:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:45:00+03:00",
+          "stop": "2026-07-01T23:30:00+03:00",
+          "title": "Klub Magii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T23:30:00+03:00",
+          "stop": "2026-07-02T00:15:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T00:15:00+03:00",
+          "stop": "2026-07-02T01:00:00+03:00",
+          "title": "Juwelo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T01:55:00+03:00",
+          "title": "Kabaretowy szał 2026 – Kabaret Moralnego Niepokoju | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:55:00+03:00",
+          "stop": "2026-07-02T02:50:00+03:00",
+          "title": "Kabaretowy szał – Smile | S03E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:50:00+03:00",
+          "stop": "2026-07-02T03:45:00+03:00",
+          "title": "Kabaretowy szał 4 – Czesuaf | S04E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:45:00+03:00",
+          "stop": "2026-07-02T04:40:00+03:00",
+          "title": "Kabaretowy szał 4 – Młodych Panów | S04E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:40:00+03:00",
+          "stop": "2026-07-02T05:35:00+03:00",
+          "title": "Kabaretowy szał 2026 – Ani Mru-Mru | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:35:00+03:00",
+          "stop": "2026-07-02T05:50:00+03:00",
+          "title": "Droga wolna | S01E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:50:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "Miłe rozmowy | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T07:55:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:55:00+03:00",
+          "stop": "2026-07-02T08:40:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S02E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:40:00+03:00",
+          "stop": "2026-07-02T09:30:00+03:00",
+          "title": "Kabaretowy szał 4 – Chyba | S04E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:30:00+03:00",
+          "stop": "2026-07-02T10:00:00+03:00",
+          "title": "Straż graniczna 4 | S04E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:00:00+03:00",
+          "stop": "2026-07-02T10:30:00+03:00",
+          "title": "Straż graniczna 4 | S04E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:30:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Straż graniczna 5 | S05E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T12:00:00+03:00",
+          "title": "Gorączka w mieście | S01E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:00:00+03:00",
+          "stop": "2026-07-02T13:00:00+03:00",
+          "title": "Gorączka w mieście | S01E31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:00:00+03:00",
+          "stop": "2026-07-02T14:00:00+03:00",
+          "title": "Gorączka w mieście | S01E41",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:00:00+03:00",
+          "stop": "2026-07-02T15:00:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:00:00+03:00",
+          "stop": "2026-07-02T16:05:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:05:00+03:00",
+          "stop": "2026-07-02T18:05:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:05:00+03:00",
+          "stop": "2026-07-02T18:35:00+03:00",
+          "title": "Straż graniczna 2 | S02E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:35:00+03:00",
+          "stop": "2026-07-02T19:00:00+03:00",
+          "title": "Droga wolna | S01E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:00:00+03:00",
+          "stop": "2026-07-02T22:00:00+03:00",
+          "title": "Klejnot TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:00:00+03:00",
+          "stop": "2026-07-02T22:45:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:45:00+03:00",
+          "stop": "2026-07-02T23:30:00+03:00",
+          "title": "Klub Magii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:30:00+03:00",
+          "stop": "2026-07-03T00:15:00+03:00",
+          "title": "Zagadka tygodnia",
           "description": "L",
           "category": null
         }

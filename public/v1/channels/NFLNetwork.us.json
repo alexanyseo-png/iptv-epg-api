@@ -8,94 +8,321 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 43,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:30:00+03:00",
-          "stop": "2026-06-29T03:00:00+03:00",
-          "title": "NFL Football «2014: Dallas Cowboys vs. Green Bay Packers»",
+          "start": "2026-06-30T00:00:00+03:00",
+          "stop": "2026-06-30T01:00:00+03:00",
+          "title": "NFL Weekly Slate",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:00:00+03:00",
-          "stop": "2026-06-29T03:30:00+03:00",
-          "title": "Be True",
+          "start": "2026-06-30T01:00:00+03:00",
+          "stop": "2026-06-30T02:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:30:00+03:00",
-          "stop": "2026-06-29T04:30:00+03:00",
-          "title": "A Football Life «Jerry Smith»",
+          "start": "2026-06-30T02:00:00+03:00",
+          "stop": "2026-06-30T03:15:00+03:00",
+          "title": "⋗ NFL GameDay Kickoff",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T04:30:00+03:00",
-          "stop": "2026-06-29T06:00:00+03:00",
-          "title": "Special Olympics «U.S. Games Flag Football Championship»",
+          "start": "2026-06-30T03:15:00+03:00",
+          "stop": "2026-06-30T06:15:00+03:00",
+          "title": "NFL Football",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T06:00:00+03:00",
-          "stop": "2026-06-29T09:00:00+03:00",
-          "title": "Super Bowl Classics «XLIX: New England Patriots vs. Seattle Seahawks». EP.SBXLIX",
+          "start": "2026-06-30T06:15:00+03:00",
+          "stop": "2026-06-30T07:15:00+03:00",
+          "title": "⋗ NFL GameDay Final",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T09:00:00+03:00",
-          "stop": "2026-06-29T10:00:00+03:00",
-          "title": "A Football Life «Bill Belichick, Part 1»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T10:00:00+03:00",
-          "stop": "2026-06-29T11:00:00+03:00",
-          "title": "A Football Life «Bill Belichick, Part 2»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T11:00:00+03:00",
-          "stop": "2026-06-29T12:00:00+03:00",
-          "title": "A Football Life «Bill Parcells»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T12:00:00+03:00",
-          "stop": "2026-06-29T13:00:00+03:00",
-          "title": "A Football Life «Bill Cowher». EP.807",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-29T13:00:00+03:00",
-          "stop": "2026-06-29T14:00:00+03:00",
+          "start": "2026-06-30T07:15:00+03:00",
+          "stop": "2026-06-30T08:15:00+03:00",
           "title": "NFL GameDay Final",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T14:00:00+03:00",
-          "stop": "2026-06-29T17:00:00+03:00",
+          "start": "2026-06-30T08:15:00+03:00",
+          "stop": "2026-06-30T09:15:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:15:00+03:00",
+          "stop": "2026-06-30T10:15:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:15:00+03:00",
+          "stop": "2026-06-30T13:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:00:00+03:00",
+          "stop": "2026-06-30T14:00:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:00:00+03:00",
+          "stop": "2026-06-30T17:00:00+03:00",
           "title": "⋗ Good Morning Football",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T17:00:00+03:00",
-          "stop": "2026-06-29T20:00:00+03:00",
+          "start": "2026-06-30T17:00:00+03:00",
+          "stop": "2026-06-30T20:00:00+03:00",
           "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:00:00+03:00",
+          "stop": "2026-06-30T21:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:00:00+03:00",
+          "stop": "2026-06-30T22:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:00:00+03:00",
+          "stop": "2026-07-01T01:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T01:00:00+03:00",
+          "stop": "2026-07-01T02:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:00:00+03:00",
+          "stop": "2026-07-01T03:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:00:00+03:00",
+          "stop": "2026-07-01T06:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T06:00:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:00:00+03:00",
+          "stop": "2026-07-01T11:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:00:00+03:00",
+          "stop": "2026-07-01T12:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:00:00+03:00",
+          "stop": "2026-07-01T13:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:00:00+03:00",
+          "stop": "2026-07-01T14:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:00:00+03:00",
+          "stop": "2026-07-01T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:00:00+03:00",
+          "stop": "2026-07-01T20:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:00:00+03:00",
+          "stop": "2026-07-01T21:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T21:00:00+03:00",
+          "stop": "2026-07-01T22:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:00:00+03:00",
+          "stop": "2026-07-02T01:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T02:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:00:00+03:00",
+          "stop": "2026-07-02T03:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:00:00+03:00",
+          "stop": "2026-07-02T06:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T06:00:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:00:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T12:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:00:00+03:00",
+          "stop": "2026-07-02T13:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:00:00+03:00",
+          "stop": "2026-07-02T14:00:00+03:00",
+          "title": "NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:00:00+03:00",
+          "stop": "2026-07-02T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:00:00+03:00",
+          "stop": "2026-07-02T20:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:00:00+03:00",
+          "stop": "2026-07-02T21:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:00:00+03:00",
+          "stop": "2026-07-02T22:00:00+03:00",
+          "title": "⋗ NFL Now",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:00:00+03:00",
+          "stop": "2026-07-03T00:00:00+03:00",
+          "title": "NFL Football",
           "description": "L",
           "category": null
         }

@@ -8,73 +8,972 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 136,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:10:00+03:00",
-          "stop": "2026-06-29T00:30:00+03:00",
+          "start": "2026-06-30T00:05:00+03:00",
+          "stop": "2026-06-30T00:30:00+03:00",
+          "title": "Queerpiphany 2 – Kitty Scott Claus & Lava La Rue | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T00:30:00+03:00",
+          "stop": "2026-06-30T00:50:00+03:00",
+          "title": "Ridiculousness 31 – Sterling and Lolo Wood V | E40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T00:50:00+03:00",
+          "stop": "2026-06-30T01:10:00+03:00",
+          "title": "Ridiculousness 31 – Sterling and Lolo Wood VI | E41",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T01:10:00+03:00",
+          "stop": "2026-06-30T01:35:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and B. Simone II | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T01:35:00+03:00",
+          "stop": "2026-06-30T02:25:00+03:00",
+          "title": "Unplugged – Lenny Kravitz: Unplugged | E71",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T02:25:00+03:00",
+          "stop": "2026-06-30T03:10:00+03:00",
+          "title": "Ink Master: Turf War 13 – Ink Master | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T03:10:00+03:00",
+          "stop": "2026-06-30T03:45:00+03:00",
+          "title": "Ink Master: Turf War 13 – Every Artist For Themselves | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T03:45:00+03:00",
+          "stop": "2026-06-30T04:05:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXIII | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:05:00+03:00",
+          "stop": "2026-06-30T04:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Rocsi Diaz | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:25:00+03:00",
+          "stop": "2026-06-30T04:50:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXIV | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:50:00+03:00",
+          "stop": "2026-06-30T05:10:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXV | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:10:00+03:00",
+          "stop": "2026-06-30T05:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXVI | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:25:00+03:00",
+          "stop": "2026-06-30T06:10:00+03:00",
+          "title": "Ex On The Beach 6 – The Truth Comes Out | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T06:10:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
+          "title": "Geordie Shore 19 – Trouble in Paradise | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T07:20:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXII | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:20:00+03:00",
+          "stop": "2026-06-30T07:45:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXIII | E30",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:45:00+03:00",
+          "stop": "2026-06-30T08:05:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXIV | E31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:05:00+03:00",
+          "stop": "2026-06-30T08:30:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXVII | E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:30:00+03:00",
+          "stop": "2026-06-30T08:50:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXVIII | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:50:00+03:00",
+          "stop": "2026-06-30T09:10:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Kristy Sarah | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:10:00+03:00",
+          "stop": "2026-06-30T09:35:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXX | E40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:35:00+03:00",
+          "stop": "2026-06-30T10:00:00+03:00",
+          "title": "Ridiculousness 41 – Sterling and Lolo Wood LXXXII | E42",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:00:00+03:00",
+          "stop": "2026-06-30T10:40:00+03:00",
+          "title": "Teen Mom OG 9 – Better Days Are Coming | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:40:00+03:00",
+          "stop": "2026-06-30T11:20:00+03:00",
+          "title": "Teen Mom OG 9 – Where Do We Go From Here | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T11:20:00+03:00",
+          "stop": "2026-06-30T12:05:00+03:00",
+          "title": "Teen Mom OG 9 – Half-Wounded Parent | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:05:00+03:00",
+          "stop": "2026-06-30T12:45:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – Where's My Pizza and Wine? | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:45:00+03:00",
+          "stop": "2026-06-30T13:30:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – I'm Marrying Both of Them | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:30:00+03:00",
+          "stop": "2026-06-30T14:10:00+03:00",
+          "title": "Love at First Lie – FIGHT FOR SURVIVAL! | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:10:00+03:00",
+          "stop": "2026-06-30T14:50:00+03:00",
+          "title": "Are You The One? – Global Edition 9 – Stricking Out | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:50:00+03:00",
+          "stop": "2026-06-30T15:35:00+03:00",
+          "title": "Ink Master 14 – Finale Part 1 | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:35:00+03:00",
+          "stop": "2026-06-30T15:55:00+03:00",
+          "title": "Ridiculousness 37 – Sterling and Carly Aquilino LXII | E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:55:00+03:00",
+          "stop": "2026-06-30T16:20:00+03:00",
+          "title": "Ridiculousness 37 – Sterling and Carly Aquilino LXIII | E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:20:00+03:00",
+          "stop": "2026-06-30T16:40:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXVII | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:40:00+03:00",
+          "stop": "2026-06-30T17:05:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXI | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:05:00+03:00",
+          "stop": "2026-06-30T17:25:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXII | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:25:00+03:00",
+          "stop": "2026-06-30T18:05:00+03:00",
+          "title": "Catfish: The TV Show 8 – Jesus & Alexis | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:05:00+03:00",
+          "stop": "2026-06-30T18:45:00+03:00",
+          "title": "Catfish: The TV Show 8 – William & Jamie | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:45:00+03:00",
+          "stop": "2026-06-30T19:30:00+03:00",
+          "title": "Catfish: The TV Show 6 – Dylan & Ally | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:30:00+03:00",
+          "stop": "2026-06-30T20:10:00+03:00",
+          "title": "Catfish: The TV Show 8 – Ryan & Micah | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:10:00+03:00",
+          "stop": "2026-06-30T20:55:00+03:00",
+          "title": "Catfish: The TV Show 8 – Tony & Tiana | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:55:00+03:00",
+          "stop": "2026-06-30T21:35:00+03:00",
+          "title": "Love at First Lie – THE LAST HURRAH! | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:35:00+03:00",
+          "stop": "2026-06-30T22:15:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – My Man, My Man, My Man | E30",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:15:00+03:00",
+          "stop": "2026-06-30T23:00:00+03:00",
+          "title": "Caught in the Act: Unfaithful 4 – My Dream House | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:00:00+03:00",
+          "stop": "2026-06-30T23:20:00+03:00",
+          "title": "Queerpiphany 2 – MNEK & Shon Faye | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:20:00+03:00",
+          "stop": "2026-06-30T23:45:00+03:00",
+          "title": "Served! With Jade Thirlwall – Jodie Harsh & Baga Chipz | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:45:00+03:00",
+          "stop": "2026-07-01T00:30:00+03:00",
+          "title": "The Challenge: All Stars – Semi-Charmed Lifesaver | E04",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:30:00+03:00",
+          "stop": "2026-07-01T00:50:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Maddy Smith IV | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T00:50:00+03:00",
+          "stop": "2026-07-01T01:10:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Lolo Wood IX | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:10:00+03:00",
+          "stop": "2026-07-01T01:35:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Nikki Blades IV | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:35:00+03:00",
+          "stop": "2026-07-01T02:25:00+03:00",
+          "title": "Unplugged (MTV) – Paul McCartney: Unplugged | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:25:00+03:00",
+          "stop": "2026-07-01T03:10:00+03:00",
+          "title": "Ink Master: Turf War 13 – From Toast to Toast | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:10:00+03:00",
+          "stop": "2026-07-01T03:45:00+03:00",
+          "title": "Ink Master: Turf War 13 – Last Draw | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:45:00+03:00",
+          "stop": "2026-07-01T04:05:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXVIII | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:05:00+03:00",
+          "stop": "2026-07-01T04:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XXXIX | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:25:00+03:00",
+          "stop": "2026-07-01T04:50:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Carly Aquilino XXVIII | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:50:00+03:00",
+          "stop": "2026-07-01T05:10:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Carly Aquilino XXIX | E22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:10:00+03:00",
+          "stop": "2026-07-01T05:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Nina Agdal XL | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:25:00+03:00",
+          "stop": "2026-07-01T06:10:00+03:00",
+          "title": "Ex On The Beach 6 – Jacques Comeuppance | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T06:10:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
+          "title": "Geordie Shore 19 – Beau & Bethan Back On! | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T07:20:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Karrueche Tran XX | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:20:00+03:00",
+          "stop": "2026-07-01T07:45:00+03:00",
+          "title": "Ridiculousness 42 – Greg McKeown | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:45:00+03:00",
+          "stop": "2026-07-01T08:05:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood LXXXIV | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:05:00+03:00",
+          "stop": "2026-07-01T08:30:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Nina Agdal XVII | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:30:00+03:00",
+          "stop": "2026-07-01T08:50:00+03:00",
+          "title": "Ridiculousness 42 – Brooke Schofield | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:50:00+03:00",
+          "stop": "2026-07-01T09:10:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Karrueche Tran XXIII | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:10:00+03:00",
+          "stop": "2026-07-01T09:35:00+03:00",
+          "title": "Ridiculousness 42 – Skye Townsend | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:35:00+03:00",
+          "stop": "2026-07-01T10:00:00+03:00",
+          "title": "Ridiculousness 42 – Skye Townsend II | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:00:00+03:00",
+          "stop": "2026-07-01T10:40:00+03:00",
+          "title": "Teen Mom OG 9 – The Waiting Game | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:40:00+03:00",
+          "stop": "2026-07-01T11:20:00+03:00",
+          "title": "Teen Mom OG 9 – Light the Way | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:20:00+03:00",
+          "stop": "2026-07-01T12:05:00+03:00",
+          "title": "Teen Mom OG 9 – Don't Give Up on Me | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:05:00+03:00",
+          "stop": "2026-07-01T12:45:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – Too Beautiful to Be Crying | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:45:00+03:00",
+          "stop": "2026-07-01T13:30:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – Meet My Team | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:30:00+03:00",
+          "stop": "2026-07-01T14:10:00+03:00",
+          "title": "Love at First Lie – THE LAST HURRAH! | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:10:00+03:00",
+          "stop": "2026-07-01T14:50:00+03:00",
+          "title": "Are You The One? – Global Edition 9 – Kiss And Tell | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:50:00+03:00",
+          "stop": "2026-07-01T15:35:00+03:00",
+          "title": "Ink Master 14 – Finale Part 2 | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:35:00+03:00",
+          "stop": "2026-07-01T15:55:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXV | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:55:00+03:00",
+          "stop": "2026-07-01T16:20:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXVI | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:20:00+03:00",
+          "stop": "2026-07-01T16:40:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXVII | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:40:00+03:00",
+          "stop": "2026-07-01T17:05:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXVIII | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:05:00+03:00",
+          "stop": "2026-07-01T17:25:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Angelina Pivarnick | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:25:00+03:00",
+          "stop": "2026-07-01T18:05:00+03:00",
+          "title": "Catfish: The TV Show 6 – Yasmine & Lewis | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:05:00+03:00",
+          "stop": "2026-07-01T18:45:00+03:00",
+          "title": "Catfish: The TV Show 7 – Sheklia & Talli | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:45:00+03:00",
+          "stop": "2026-07-01T19:30:00+03:00",
+          "title": "Catfish: The TV Show 7 – Mary & Adam | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:30:00+03:00",
+          "stop": "2026-07-01T20:10:00+03:00",
+          "title": "Catfish: The TV Show 5 – Paris & Tara | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:10:00+03:00",
+          "stop": "2026-07-01T20:55:00+03:00",
+          "title": "Catfish: The TV Show 7 – Mathan & Leah | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:55:00+03:00",
+          "stop": "2026-07-01T21:35:00+03:00",
+          "title": "Love at First Lie – NOWHERE TO HIDE | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T21:35:00+03:00",
+          "stop": "2026-07-01T22:15:00+03:00",
+          "title": "Caught in the Act: Unfaithful 4 – Crash Out Or Pass Out | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:15:00+03:00",
+          "stop": "2026-07-01T23:00:00+03:00",
+          "title": "Caught in the Act: Unfaithful 4 – The Belt Don't Fit | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T23:00:00+03:00",
+          "stop": "2026-07-01T23:45:00+03:00",
+          "title": "The Challenge: All Stars – Nuthin' but an OG Thang | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T23:45:00+03:00",
+          "stop": "2026-07-02T00:05:00+03:00",
+          "title": "InkMaster Redemption 3 – Redemption: Road Show | E07",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T00:05:00+03:00",
+          "stop": "2026-07-02T00:30:00+03:00",
           "title": "InkMaster Redemption 3 – Redemption: Master of Horror | E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T00:30:00+03:00",
-          "stop": "2026-06-29T00:55:00+03:00",
-          "title": "Ridiculousness 38 – JENNI 'JWOWW' FARLEY III | E37",
+          "start": "2026-07-02T00:30:00+03:00",
+          "stop": "2026-07-02T00:50:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and B. Simone III | E14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T00:55:00+03:00",
-          "stop": "2026-06-29T01:35:00+03:00",
-          "title": "Caught In The Act: Unfaithful 2 – I Just Don't Feel That Bad | E08",
+          "start": "2026-07-02T00:50:00+03:00",
+          "stop": "2026-07-02T01:10:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Brie Bella II | E16",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T01:35:00+03:00",
-          "stop": "2026-06-29T02:20:00+03:00",
-          "title": "Unplugged (MTV) – Alanis Morissette: Unplugged | E106",
+          "start": "2026-07-02T01:10:00+03:00",
+          "stop": "2026-07-02T01:35:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Carly Aquilino VIII | E20",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:20:00+03:00",
-          "stop": "2026-06-29T03:05:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Birthday Party | E13",
+          "start": "2026-07-02T01:35:00+03:00",
+          "stop": "2026-07-02T02:25:00+03:00",
+          "title": "Unplugged (MTV) : 1993 – Duran Duran : Unplugged | E65",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:05:00+03:00",
-          "stop": "2026-06-29T03:50:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Engagement Party | E14",
+          "start": "2026-07-02T02:25:00+03:00",
+          "stop": "2026-07-02T03:10:00+03:00",
+          "title": "Ink Master: Turf War 13 – There Can Only Be One | E13",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:50:00+03:00",
-          "stop": "2026-06-29T04:35:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – The Hangover | E15",
+          "start": "2026-07-02T03:10:00+03:00",
+          "stop": "2026-07-02T03:45:00+03:00",
+          "title": "Ink Master: Turf War 13 – Compose Yourself | E14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T04:35:00+03:00",
-          "stop": "2026-06-29T05:20:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Reunion Special Part 1 | E16",
+          "start": "2026-07-02T03:45:00+03:00",
+          "stop": "2026-07-02T04:05:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Carly Aquilino XXXI | E25",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T05:20:00+03:00",
-          "stop": "2026-06-29T06:20:00+03:00",
-          "title": "Ex On The Beach 6 – Harriette's Heartache | E06",
+          "start": "2026-07-02T04:05:00+03:00",
+          "stop": "2026-07-02T04:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Carly Aquilino XXXII | E26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:25:00+03:00",
+          "stop": "2026-07-02T04:50:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Karrueche Tran XXXIII | E27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:50:00+03:00",
+          "stop": "2026-07-02T05:10:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Karrueche Tran XXXIV | E28",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:10:00+03:00",
+          "stop": "2026-07-02T05:25:00+03:00",
+          "title": "Ridiculousness 35 – Sterling and Carly Aquilino XXXIII | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:25:00+03:00",
+          "stop": "2026-07-02T06:10:00+03:00",
+          "title": "Ex On The Beach 6 – Aaron Moves On | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T06:10:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "Geordie Shore 19 – Cardiff Carnage! | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T07:20:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Karrueche Tran XXIV | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:20:00+03:00",
+          "stop": "2026-07-02T07:45:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Lolo Wood XXI | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:45:00+03:00",
+          "stop": "2026-07-02T08:05:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Nina Agdal XVIII | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:05:00+03:00",
+          "stop": "2026-07-02T08:30:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Lolo Wood XXII | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:30:00+03:00",
+          "stop": "2026-07-02T08:50:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood XC | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:50:00+03:00",
+          "stop": "2026-07-02T09:10:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Karrueche Tran XXV | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:10:00+03:00",
+          "stop": "2026-07-02T09:35:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCII | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:35:00+03:00",
+          "stop": "2026-07-02T10:00:00+03:00",
+          "title": "Ridiculousness 34 – Sterling and Karrueche Tran XXVI | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:00:00+03:00",
+          "stop": "2026-07-02T10:40:00+03:00",
+          "title": "Teen Mom OG 9 – A Day Late and a Dollar Short | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:40:00+03:00",
+          "stop": "2026-07-02T11:20:00+03:00",
+          "title": "Teen Mom OG 9 – Agree to Disagree | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:20:00+03:00",
+          "stop": "2026-07-02T12:05:00+03:00",
+          "title": "Teen Mom OG 9 – Flying By the Seat of Our Pants | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:05:00+03:00",
+          "stop": "2026-07-02T12:45:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – She For the Streetz | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:45:00+03:00",
+          "stop": "2026-07-02T13:30:00+03:00",
+          "title": "Caught in the Act: Unfaithful 3 – A Big Load of Hogwash | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:30:00+03:00",
+          "stop": "2026-07-02T14:10:00+03:00",
+          "title": "Love at First Lie – NOWHERE TO HIDE | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:10:00+03:00",
+          "stop": "2026-07-02T14:50:00+03:00",
+          "title": "Are You The One? – Global Edition 9 – You Were The One | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:50:00+03:00",
+          "stop": "2026-07-02T15:35:00+03:00",
+          "title": "Ink Master 15 – The New Ink Class | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:35:00+03:00",
+          "stop": "2026-07-02T15:55:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXXII | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:55:00+03:00",
+          "stop": "2026-07-02T16:20:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXXIII | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:20:00+03:00",
+          "stop": "2026-07-02T16:40:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Carly Aquilino LXXXIV | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:40:00+03:00",
+          "stop": "2026-07-02T17:05:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Nina Agdal LVII | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:05:00+03:00",
+          "stop": "2026-07-02T17:25:00+03:00",
+          "title": "Ridiculousness 38 – Sterling and Nina Agdal LIX | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:25:00+03:00",
+          "stop": "2026-07-02T18:05:00+03:00",
+          "title": "Catfish: The TV Show 8 – Zay & Jayda | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:05:00+03:00",
+          "stop": "2026-07-02T18:45:00+03:00",
+          "title": "Catfish: The TV Show 8 – Dianela & Jose | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:45:00+03:00",
+          "stop": "2026-07-02T19:30:00+03:00",
+          "title": "Catfish: The TV Show 5 – Andrea, Alex & Andrea | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:30:00+03:00",
+          "stop": "2026-07-02T20:10:00+03:00",
+          "title": "Catfish: The TV Show 4 – Blaire & Markie | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:10:00+03:00",
+          "stop": "2026-07-02T20:55:00+03:00",
+          "title": "Catfish: The TV Show 6 – Danny & Rosa | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:55:00+03:00",
+          "stop": "2026-07-02T21:35:00+03:00",
+          "title": "Love at First Lie – THE WINNER IS… | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:35:00+03:00",
+          "stop": "2026-07-02T22:15:00+03:00",
+          "title": "Caught in the Act: Unfaithful 4 – Captain Save A Hoe | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:15:00+03:00",
+          "stop": "2026-07-02T23:00:00+03:00",
+          "title": "Caught in the Act: Unfaithful 4 – Hard At Work | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:00:00+03:00",
+          "stop": "2026-07-02T23:20:00+03:00",
+          "title": "InkMaster Redemption 3 – Redemption: Don't Butcher My Baby | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:20:00+03:00",
+          "stop": "2026-07-02T23:45:00+03:00",
+          "title": "InkMaster Redemption 3 – Redemption: Declaration of Ink-Dependence | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:45:00+03:00",
+          "stop": "2026-07-03T00:05:00+03:00",
+          "title": "Ridiculousness 32 – Sterling and Carly Aquilino X | E22",
           "description": "L",
           "category": null
         }

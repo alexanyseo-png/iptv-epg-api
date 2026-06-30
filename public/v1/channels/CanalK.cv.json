@@ -8,38 +8,461 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 63,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:10:00+03:00",
-          "stop": "2026-06-29T02:00:00+03:00",
-          "title": "Skrzyżowanie",
+          "start": "2026-06-30T00:00:00+03:00",
+          "stop": "2026-06-30T00:50:00+03:00",
+          "title": "Wartownicy | E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:00:00+03:00",
-          "stop": "2026-06-29T02:30:00+03:00",
-          "title": "Algorytm miłości | E05",
+          "start": "2026-06-30T00:50:00+03:00",
+          "stop": "2026-06-30T02:00:00+03:00",
+          "title": "Minuta ciszy | S01E06",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:30:00+03:00",
-          "stop": "2026-06-29T02:57:00+03:00",
-          "title": "Algorytm miłości | E06",
+          "start": "2026-06-30T02:00:00+03:00",
+          "stop": "2026-06-30T02:41:00+03:00",
+          "title": "Miłość, seks & pandemia | E04",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:57:00+03:00",
-          "stop": "2026-06-29T03:57:00+03:00",
+          "start": "2026-06-30T02:41:00+03:00",
+          "stop": "2026-06-30T08:00:00+03:00",
           "title": "Zakończenie programu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T08:00:00+03:00",
+          "stop": "2026-06-30T10:05:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Widzew Łódź – Radomiak Radom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:05:00+03:00",
+          "stop": "2026-06-30T12:20:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Lech Poznań – Pogoń Szczecin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T12:20:00+03:00",
+          "stop": "2026-06-30T13:10:00+03:00",
+          "title": "W rytmie wolności – The Rolling Stones | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:10:00+03:00",
+          "stop": "2026-06-30T14:05:00+03:00",
+          "title": "W rytmie wolności – ABBA | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:05:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "Miasta rytm – Gdynia | S02E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T15:30:00+03:00",
+          "title": "Zielona rewolucja Marty Dymek 5 | S05E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:30:00+03:00",
+          "stop": "2026-06-30T15:55:00+03:00",
+          "title": "Zielona rewolucja Marty Dymek 5 | S05E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:55:00+03:00",
+          "stop": "2026-06-30T16:45:00+03:00",
+          "title": "Łowcy tajemnic Bałtyku – ORP Wicher | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:45:00+03:00",
+          "stop": "2026-06-30T17:30:00+03:00",
+          "title": "Łowcy tajemnic Bałtyku – Terra | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T17:30:00+03:00",
+          "stop": "2026-06-30T18:25:00+03:00",
+          "title": "Japonia. Mroźne królestwo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:25:00+03:00",
+          "stop": "2026-06-30T19:20:00+03:00",
+          "title": "Czułe oblicze sawanny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:20:00+03:00",
+          "stop": "2026-06-30T20:20:00+03:00",
+          "title": "Wszystkie kolory świata 4 – Santorini | S04E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:20:00+03:00",
+          "stop": "2026-06-30T22:20:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Cracovia – Raków Częstochowa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:20:00+03:00",
+          "stop": "2026-06-30T23:15:00+03:00",
+          "title": "Brygada | S01E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:15:00+03:00",
+          "stop": "2026-07-01T00:25:00+03:00",
+          "title": "Brygada | S01E02",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:25:00+03:00",
+          "stop": "2026-07-01T01:20:00+03:00",
+          "title": "Blizna | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:20:00+03:00",
+          "stop": "2026-07-01T02:15:00+03:00",
+          "title": "Blizna | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:15:00+03:00",
+          "stop": "2026-07-01T03:01:00+03:00",
+          "title": "Kiedy ślub? | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:01:00+03:00",
+          "stop": "2026-07-01T08:00:00+03:00",
+          "title": "Zakończenie programu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:00:00+03:00",
+          "stop": "2026-07-01T10:05:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: GKS Katowice – Korona Kielce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:05:00+03:00",
+          "stop": "2026-07-01T12:10:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Motor Lublin – Widzew Łódź",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:10:00+03:00",
+          "stop": "2026-07-01T12:35:00+03:00",
+          "title": "Polska z góry 3 – Z biegiem Wisły. Od Czerwińska do Torunia | S03E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:35:00+03:00",
+          "stop": "2026-07-01T13:00:00+03:00",
+          "title": "Polska z góry 3 – Łódź – amerykańskie miasto | S03E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:00:00+03:00",
+          "stop": "2026-07-01T13:25:00+03:00",
+          "title": "Polska z góry 3 – Pobrzeże Koszalińskie | S03E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:25:00+03:00",
+          "stop": "2026-07-01T13:50:00+03:00",
+          "title": "Polska z góry 3 – Podlasie Wschodnie | S03E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T13:50:00+03:00",
+          "stop": "2026-07-01T14:15:00+03:00",
+          "title": "Polska z góry 3 – Małopolska – region UNESCO | S03E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:15:00+03:00",
+          "stop": "2026-07-01T14:40:00+03:00",
+          "title": "Zgrillowani 2 – Ryby | S02E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:40:00+03:00",
+          "stop": "2026-07-01T15:05:00+03:00",
+          "title": "Zgrillowani 2 – Warszawskie specjały | S02E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:05:00+03:00",
+          "stop": "2026-07-01T15:30:00+03:00",
+          "title": "Zielona rewolucja Marty Dymek 5 | S05E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:30:00+03:00",
+          "stop": "2026-07-01T15:55:00+03:00",
+          "title": "Zielona rewolucja Marty Dymek 5 | S05E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T15:55:00+03:00",
+          "stop": "2026-07-01T16:20:00+03:00",
+          "title": "Zielona rewolucja Marty Dymek 5 | S05E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:20:00+03:00",
+          "stop": "2026-07-01T17:15:00+03:00",
+          "title": "Daleka Północ odkryta na nowo | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:15:00+03:00",
+          "stop": "2026-07-01T18:10:00+03:00",
+          "title": "Daleka Północ odkryta na nowo | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:10:00+03:00",
+          "stop": "2026-07-01T19:05:00+03:00",
+          "title": "Orłosęp. W obronie ginącego gatunku",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:05:00+03:00",
+          "stop": "2026-07-01T19:40:00+03:00",
+          "title": "Wszystko, czego nie zdążyliśmy powiedzieć | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:40:00+03:00",
+          "stop": "2026-07-01T21:30:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Legia Warszawa – Lech Poznań",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T21:30:00+03:00",
+          "stop": "2026-07-01T22:25:00+03:00",
+          "title": "Planeta Singli. Osiem historii – Usłysz mnie | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:25:00+03:00",
+          "stop": "2026-07-01T23:20:00+03:00",
+          "title": "Rodziny takie jak nasza | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T23:20:00+03:00",
+          "stop": "2026-07-02T00:05:00+03:00",
+          "title": "Small World | E01",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T00:05:00+03:00",
+          "stop": "2026-07-02T01:05:00+03:00",
+          "title": "Czarne stokrotki | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:05:00+03:00",
+          "stop": "2026-07-02T02:20:00+03:00",
+          "title": "Wiarołom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:20:00+03:00",
+          "stop": "2026-07-02T03:06:00+03:00",
+          "title": "Stocznia Gdańska. Wolność w oczach świata",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:06:00+03:00",
+          "stop": "2026-07-02T08:00:00+03:00",
+          "title": "Zakończenie programu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:00:00+03:00",
+          "stop": "2026-07-02T10:05:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Widzew Łódź – Legia Warszawa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:05:00+03:00",
+          "stop": "2026-07-02T10:30:00+03:00",
+          "title": "Polska z góry: Stadiony – Łódź | S01E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:30:00+03:00",
+          "stop": "2026-07-02T12:30:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa: Piast Gliwice – Korona Kielce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:30:00+03:00",
+          "stop": "2026-07-02T13:15:00+03:00",
+          "title": "Złombol | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:15:00+03:00",
+          "stop": "2026-07-02T14:10:00+03:00",
+          "title": "Gwadelupa. Od szczytów do głębin oceanu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:10:00+03:00",
+          "stop": "2026-07-02T14:55:00+03:00",
+          "title": "Polowanie na Hitlera | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:55:00+03:00",
+          "stop": "2026-07-02T15:45:00+03:00",
+          "title": "Polowanie na Hitlera | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:45:00+03:00",
+          "stop": "2026-07-02T16:40:00+03:00",
+          "title": "Zakonnice | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:40:00+03:00",
+          "stop": "2026-07-02T17:35:00+03:00",
+          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 3 | S03E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:35:00+03:00",
+          "stop": "2026-07-02T18:30:00+03:00",
+          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 3 | S03E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T18:30:00+03:00",
+          "stop": "2026-07-02T19:20:00+03:00",
+          "title": "Chwile szczęścia | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:20:00+03:00",
+          "stop": "2026-07-02T20:15:00+03:00",
+          "title": "Chwile szczęścia | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:15:00+03:00",
+          "stop": "2026-07-02T21:10:00+03:00",
+          "title": "To nie jest zagadka kryminalna | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:10:00+03:00",
+          "stop": "2026-07-02T22:10:00+03:00",
+          "title": "Kruk. Czorny Woron nie śpi | S02E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:10:00+03:00",
+          "stop": "2026-07-02T23:10:00+03:00",
+          "title": "Kruk. Czorny Woron nie śpi | S02E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:10:00+03:00",
+          "stop": "2026-07-03T00:00:00+03:00",
+          "title": "Czarna domena – Rozmyte prawa autorskie | E07",
           "description": "L",
           "category": null
         }

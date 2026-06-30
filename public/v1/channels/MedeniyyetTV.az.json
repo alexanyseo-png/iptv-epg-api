@@ -8,45 +8,601 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 83,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T01:00:00+03:00",
-          "stop": "2026-06-29T02:00:00+03:00",
-          "title": "д/ф Şerlok Holms",
+          "start": "2026-06-30T00:30:00+03:00",
+          "stop": "2026-06-30T01:15:00+03:00",
+          "title": "Nostalji",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:00:00+03:00",
-          "stop": "2026-06-29T02:30:00+03:00",
+          "start": "2026-06-30T01:15:00+03:00",
+          "stop": "2026-06-30T02:00:00+03:00",
+          "title": "Vətənim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T02:00:00+03:00",
+          "stop": "2026-06-30T02:30:00+03:00",
+          "title": "д/с Kainatın sirləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T02:30:00+03:00",
+          "stop": "2026-06-30T04:00:00+03:00",
+          "title": "Hekayəti Xırsi- Quldurbasan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T04:00:00+03:00",
+          "stop": "2026-06-30T05:00:00+03:00",
+          "title": "Miri Yusifin konserti",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:00:00+03:00",
+          "stop": "2026-06-30T05:30:00+03:00",
+          "title": "д/с Məmləkətim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:30:00+03:00",
+          "stop": "2026-06-30T05:55:00+03:00",
+          "title": "Oxuyur Vətən",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T05:55:00+03:00",
+          "stop": "2026-06-30T06:00:00+03:00",
+          "title": "Himn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T06:00:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
+          "title": "д/с Elmi baxış",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T10:00:00+03:00",
+          "title": "Səhər çağı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:00:00+03:00",
+          "stop": "2026-06-30T10:30:00+03:00",
           "title": "Gülüş dəqiqələri",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:30:00+03:00",
-          "stop": "2026-06-29T03:00:00+03:00",
-          "title": "Zamansız musiqi",
+          "start": "2026-06-30T10:30:00+03:00",
+          "stop": "2026-06-30T11:00:00+03:00",
+          "title": "Musiqi inciləri",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:00:00+03:00",
-          "stop": "2026-06-29T03:30:00+03:00",
-          "title": "д/ф «Xalq üçün yaşayan adam» Həsən bəy Zərdabi",
+          "start": "2026-06-30T11:00:00+03:00",
+          "stop": "2026-06-30T12:00:00+03:00",
+          "title": "Türk yurdu",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:30:00+03:00",
-          "stop": "2026-06-29T04:30:00+03:00",
-          "title": "Hicran",
+          "start": "2026-06-30T12:00:00+03:00",
+          "stop": "2026-06-30T14:00:00+03:00",
+          "title": "х/ф Nindza tısbağalar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:00:00+03:00",
+          "stop": "2026-06-30T14:30:00+03:00",
+          "title": "Mənimlə rəqs et",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T14:30:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "д/ф Təbiətin damarları,çaylar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T16:00:00+03:00",
+          "title": "д/ф Bir ömrün salnaməsı (Professor, əməkdar jurnalist Allahverdi Məmmədlinin həyat və yaradıcılığı)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:00:00+03:00",
+          "stop": "2026-06-30T16:30:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:30:00+03:00",
+          "stop": "2026-06-30T18:00:00+03:00",
+          "title": "Konsert proqramı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T18:00:00+03:00",
+          "stop": "2026-06-30T20:00:00+03:00",
+          "title": "F.Əmirov «Min bir gecə» baleti",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:00:00+03:00",
+          "stop": "2026-06-30T20:35:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T20:35:00+03:00",
+          "stop": "2026-06-30T21:00:00+03:00",
+          "title": "Nağıl vaxtı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:00:00+03:00",
+          "stop": "2026-06-30T21:30:00+03:00",
+          "title": "х/ф Duz, istiot zövqə görə",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:30:00+03:00",
+          "stop": "2026-06-30T23:30:00+03:00",
+          "title": "Konsert proqramı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:30:00+03:00",
+          "stop": "2026-07-01T00:30:00+03:00",
+          "title": "д/с Elmi baxış",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:30:00+03:00",
+          "stop": "2026-07-01T01:00:00+03:00",
+          "title": "Musiqi dəqiqələri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:00:00+03:00",
+          "stop": "2026-07-01T01:40:00+03:00",
+          "title": "д/ф Bir ömrün salnaməsı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T01:40:00+03:00",
+          "stop": "2026-07-01T03:00:00+03:00",
+          "title": "F.Əmirov «Min bir gecə» baleti",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:00:00+03:00",
+          "stop": "2026-07-01T04:00:00+03:00",
+          "title": "Caz musiqisi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:00:00+03:00",
+          "stop": "2026-07-01T04:35:00+03:00",
+          "title": "Türk yurdu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:35:00+03:00",
+          "stop": "2026-07-01T05:00:00+03:00",
+          "title": "Gülüş dəqiqələri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:00:00+03:00",
+          "stop": "2026-07-01T05:30:00+03:00",
+          "title": "д/ф Təbiətin damarları,çaylar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:30:00+03:00",
+          "stop": "2026-07-01T05:55:00+03:00",
+          "title": "Şuşada musiqi günləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T05:55:00+03:00",
+          "stop": "2026-07-01T06:00:00+03:00",
+          "title": "Himn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T06:00:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
+          "title": "д/с Elmi baxış",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T07:20:00+03:00",
+          "title": "Xarı Bülbül",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:20:00+03:00",
+          "stop": "2026-07-01T08:00:00+03:00",
+          "title": "Zəhər sevdası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:00:00+03:00",
+          "stop": "2026-07-01T10:00:00+03:00",
+          "title": "Səhər çağı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:00:00+03:00",
+          "stop": "2026-07-01T10:30:00+03:00",
+          "title": "A-dan Z-yə",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:30:00+03:00",
+          "stop": "2026-07-01T11:00:00+03:00",
+          "title": "Adlibitum (Rast qrupu)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:00:00+03:00",
+          "stop": "2026-07-01T11:30:00+03:00",
+          "title": "д/ф Rənglərin səsi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:30:00+03:00",
+          "stop": "2026-07-01T11:50:00+03:00",
+          "title": "Klassik musiqi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:50:00+03:00",
+          "stop": "2026-07-01T14:00:00+03:00",
+          "title": "х/ф Nindza tısbağalar 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:00:00+03:00",
+          "stop": "2026-07-01T16:00:00+03:00",
+          "title": "Ovqat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:00:00+03:00",
+          "stop": "2026-07-01T16:25:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:25:00+03:00",
+          "stop": "2026-07-01T17:00:00+03:00",
+          "title": "Mənim vətən sevgim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:00:00+03:00",
+          "stop": "2026-07-01T17:30:00+03:00",
+          "title": "Oxuyur Vətən",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T17:30:00+03:00",
+          "stop": "2026-07-01T18:00:00+03:00",
+          "title": "д/ф Canlı tablolar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:00:00+03:00",
+          "stop": "2026-07-01T19:45:00+03:00",
+          "title": "Qəbələ Beynəlxalq Musiqi Festivalı. Q.Qarayev adına Kamera Orkestri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:45:00+03:00",
+          "stop": "2026-07-01T20:00:00+03:00",
+          "title": "Anonslar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:00:00+03:00",
+          "stop": "2026-07-01T20:35:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:35:00+03:00",
+          "stop": "2026-07-01T21:00:00+03:00",
+          "title": "Nağıl vaxtı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T21:00:00+03:00",
+          "stop": "2026-07-01T22:00:00+03:00",
+          "title": "Şəki İpək Yolu Beynəlxalq Musiqi Festivalı («Aynakol» folklor ansamblı. Qəkku qrupu)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:00:00+03:00",
+          "stop": "2026-07-02T00:00:00+03:00",
+          "title": "х/ф Müharibə başlayan sabah",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T00:00:00+03:00",
+          "stop": "2026-07-02T01:30:00+03:00",
+          "title": "Musiqi inciləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:30:00+03:00",
+          "stop": "2026-07-02T02:00:00+03:00",
+          "title": "д/ф Xəzər adaları: Kür dili və Kür daşı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:00:00+03:00",
+          "stop": "2026-07-02T02:30:00+03:00",
+          "title": "Mənim vətən sevgim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T02:30:00+03:00",
+          "stop": "2026-07-02T04:00:00+03:00",
+          "title": "Ovqat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:00:00+03:00",
+          "stop": "2026-07-02T04:30:00+03:00",
+          "title": "д/с Sirli İtaliya",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T04:30:00+03:00",
+          "stop": "2026-07-02T05:00:00+03:00",
+          "title": "д/ф Rənglərin səsi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:00:00+03:00",
+          "stop": "2026-07-02T05:30:00+03:00",
+          "title": "Oxuyur Vətən",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:30:00+03:00",
+          "stop": "2026-07-02T05:55:00+03:00",
+          "title": "д/ф Canlı tablolar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:55:00+03:00",
+          "stop": "2026-07-02T06:00:00+03:00",
+          "title": "Himn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T06:00:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "д/ф Solğun qırmızı nöqtəyə səyahət",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T07:30:00+03:00",
+          "title": "Kliplər",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:30:00+03:00",
+          "stop": "2026-07-02T08:00:00+03:00",
+          "title": "д/с Məmləkətim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T08:00:00+03:00",
+          "stop": "2026-07-02T10:00:00+03:00",
+          "title": "Səhər çağı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:00:00+03:00",
+          "stop": "2026-07-02T10:30:00+03:00",
+          "title": "д/ф Qarabağ xalçaları",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T10:30:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Oxuyur Vətən",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T11:25:00+03:00",
+          "title": "д/с Yad et məni (Tağı Şahbazi)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:25:00+03:00",
+          "stop": "2026-07-02T12:00:00+03:00",
+          "title": "Musiqi dəqiqələri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T12:00:00+03:00",
+          "stop": "2026-07-02T14:00:00+03:00",
+          "title": "м/ф Sonuncu hava maqı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:00:00+03:00",
+          "stop": "2026-07-02T14:30:00+03:00",
+          "title": "д/ф Bir gün. İsti izlərlə",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:30:00+03:00",
+          "stop": "2026-07-02T15:20:00+03:00",
+          "title": "Muğam aləmi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:20:00+03:00",
+          "stop": "2026-07-02T16:00:00+03:00",
+          "title": "Haqqın dərgahı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:00:00+03:00",
+          "stop": "2026-07-02T16:30:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:30:00+03:00",
+          "stop": "2026-07-02T17:00:00+03:00",
+          "title": "д/ф Sonuncu göl",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:00:00+03:00",
+          "stop": "2026-07-02T19:30:00+03:00",
+          "title": "Müsyo İbrahim və Quran çiçəyi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:30:00+03:00",
+          "stop": "2026-07-02T20:00:00+03:00",
+          "title": "Şuşada musiqi günləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:00:00+03:00",
+          "stop": "2026-07-02T20:35:00+03:00",
+          "title": "Mədəniyyət xəbərləri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T20:35:00+03:00",
+          "stop": "2026-07-02T21:00:00+03:00",
+          "title": "Nağıl vaxtı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:00:00+03:00",
+          "stop": "2026-07-02T22:00:00+03:00",
+          "title": "Vyana Ştraus Festivalı Orkestri. Dirijor, Peter Qut",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:00:00+03:00",
+          "stop": "2026-07-03T00:00:00+03:00",
+          "title": "х/ф Life",
           "description": "L",
           "category": null
         }

@@ -8,73 +8,286 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 38,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T01:00:00+03:00",
-          "stop": "2026-06-29T03:00:00+03:00",
-          "title": "Serie A: Torino vs Napoli",
+          "start": "2026-06-30T01:00:00+03:00",
+          "stop": "2026-06-30T03:00:00+03:00",
+          "title": "EFL: West Brom vs Leicester",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T03:00:00+03:00",
-          "stop": "2026-06-29T05:00:00+03:00",
-          "title": "Serie A: Como vs Juventus",
+          "start": "2026-06-30T03:00:00+03:00",
+          "stop": "2026-06-30T05:00:00+03:00",
+          "title": "EFL: Coventry vs Birmingham",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T05:00:00+03:00",
-          "stop": "2026-06-29T07:00:00+03:00",
-          "title": "Serie A: Roma vs Inter",
+          "start": "2026-06-30T05:00:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
+          "title": "EFL: Sheffield Weds vs QPR",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T07:00:00+03:00",
-          "stop": "2026-06-29T09:00:00+03:00",
-          "title": "Serie A: Milan vs Fiorentina",
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T09:00:00+03:00",
+          "title": "EFL: Derby vs Charlton",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T09:00:00+03:00",
-          "stop": "2026-06-29T11:00:00+03:00",
-          "title": "Serie A: Pisa vs Verona",
+          "start": "2026-06-30T09:00:00+03:00",
+          "stop": "2026-06-30T11:00:00+03:00",
+          "title": "EFL: QPR vs Oxford Utd",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T11:00:00+03:00",
-          "stop": "2026-06-29T13:00:00+03:00",
-          "title": "Serie A: Atalanta vs Lazio",
+          "start": "2026-06-30T11:00:00+03:00",
+          "stop": "2026-06-30T13:00:00+03:00",
+          "title": "EFL: Rotherham vs Bradford",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T13:00:00+03:00",
-          "stop": "2026-06-29T15:00:00+03:00",
-          "title": "Serie A: Genoa vs Parma",
+          "start": "2026-06-30T13:00:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "EFL: Wrexham vs Birmingham",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T15:00:00+03:00",
-          "stop": "2026-06-29T17:00:00+03:00",
-          "title": "Serie A: Cagliari vs Bologna",
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T17:00:00+03:00",
+          "title": "Dutch: Ajax vs Breda",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T17:00:00+03:00",
-          "stop": "2026-06-29T19:00:00+03:00",
-          "title": "Serie A: Cremonese vs Udinese",
+          "start": "2026-06-30T17:00:00+03:00",
+          "stop": "2026-06-30T19:00:00+03:00",
+          "title": "Dutch: Excelsior vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:00:00+03:00",
+          "stop": "2026-06-30T21:00:00+03:00",
+          "title": "Dutch: Groningen vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:00:00+03:00",
+          "stop": "2026-06-30T23:00:00+03:00",
+          "title": "DFB: RW Essen vs Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:00:00+03:00",
+          "stop": "2026-07-01T01:00:00+03:00",
+          "title": "DFB: Wehen vs Bayern",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T01:00:00+03:00",
+          "stop": "2026-07-01T03:00:00+03:00",
+          "title": "DFB: Engers vs Frankfurt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:00:00+03:00",
+          "stop": "2026-07-01T03:30:00+03:00",
+          "title": "EFL 2025/26 – Highlights Show 37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T03:30:00+03:00",
+          "stop": "2026-07-01T04:00:00+03:00",
+          "title": "EFL 2025/26 – Highlights Show 38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T04:00:00+03:00",
+          "stop": "2026-07-01T06:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Roma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T06:00:00+03:00",
+          "stop": "2026-07-01T08:00:00+03:00",
+          "title": "Serie A: Fiorentina vs Bologna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T08:00:00+03:00",
+          "stop": "2026-07-01T10:00:00+03:00",
+          "title": "Serie A: Cremonese vs Atalanta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T10:00:00+03:00",
+          "stop": "2026-07-01T12:00:00+03:00",
+          "title": "Serie A: Torino vs Genoa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:00:00+03:00",
+          "stop": "2026-07-01T14:00:00+03:00",
+          "title": "Serie A: Lazio vs Juventus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:00:00+03:00",
+          "stop": "2026-07-01T16:00:00+03:00",
+          "title": "Serie A: Napoli vs Inter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:00:00+03:00",
+          "stop": "2026-07-01T18:00:00+03:00",
+          "title": "Serie A: Milan vs Pisa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:00:00+03:00",
+          "stop": "2026-07-01T20:00:00+03:00",
+          "title": "Serie: Udinese vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:00:00+03:00",
+          "stop": "2026-07-01T22:00:00+03:00",
+          "title": "Serie A: Parma vs Como",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:00:00+03:00",
+          "stop": "2026-07-02T00:00:00+03:00",
+          "title": "Serie A: Verona vs Cagliari",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T00:00:00+03:00",
+          "stop": "2026-07-02T01:00:00+03:00",
+          "title": "Dutch League: End Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T03:00:00+03:00",
+          "title": "Serie A: Lecce vs Napoli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:00:00+03:00",
+          "stop": "2026-07-02T05:00:00+03:00",
+          "title": "Serie A: Atalanta vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:00:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "Serie A: Como vs Verona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T09:00:00+03:00",
+          "title": "Serie A: Juventus vs Udinese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:00:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Serie A: Roma vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T13:00:00+03:00",
+          "title": "Serie A: Bologna vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:00:00+03:00",
+          "stop": "2026-07-02T15:00:00+03:00",
+          "title": "Serie A: Genoa vs Cremonese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T15:00:00+03:00",
+          "stop": "2026-07-02T17:00:00+03:00",
+          "title": "Serie A: Inter vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:00:00+03:00",
+          "stop": "2026-07-02T19:00:00+03:00",
+          "title": "Serie A: Cagliari vs Sassuolo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:00:00+03:00",
+          "stop": "2026-07-02T21:00:00+03:00",
+          "title": "Serie A: Pisa vs Lazio",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:00:00+03:00",
+          "stop": "2026-07-02T23:15:00+03:00",
+          "title": "Dutch: Rotterdam vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:15:00+03:00",
+          "stop": "2026-07-03T01:30:00+03:00",
+          "title": "Dutch: Feyenoord vs Utrecht",
           "description": "L",
           "category": null
         }

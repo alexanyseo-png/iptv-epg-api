@@ -8,17 +8,90 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 10,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T11:00:00+03:00",
-          "stop": "2026-06-29T19:00:00+03:00",
+          "start": "2026-06-30T00:45:00+03:00",
+          "stop": "2026-06-30T11:00:00+03:00",
+          "title": "Zuckerberg: King of The Metaverse",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T11:00:00+03:00",
+          "stop": "2026-06-30T19:00:00+03:00",
           "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:00:00+03:00",
+          "stop": "2026-06-30T22:00:00+03:00",
+          "title": "Formula 1: Miamin GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T22:00:00+03:00",
+          "stop": "2026-07-01T11:00:00+03:00",
+          "title": "EUROpa League: Freiburg – Aston Villa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T11:00:00+03:00",
+          "stop": "2026-07-01T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T19:00:00+03:00",
+          "stop": "2026-07-01T22:00:00+03:00",
+          "title": "EUROpa League: Freiburg – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:00:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Formula 1: Itävallan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:00:00+03:00",
+          "stop": "2026-07-02T22:00:00+03:00",
+          "title": "Formula 1: Itävallan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:00:00+03:00",
+          "stop": "2026-07-03T11:00:00+03:00",
+          "title": "UEFA Conference League: Crystal Palace – Rayo Vallecano",
           "description": "L",
           "category": null
         }

@@ -8,24 +8,286 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 2,
+  "programmeCount": 38,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T01:00:00+03:00",
-          "stop": "2026-06-29T02:25:00+03:00",
-          "title": "х/ф Людина в зеленому кімоно",
+          "start": "2026-06-30T00:55:00+03:00",
+          "stop": "2026-06-30T02:15:00+03:00",
+          "title": "х/ф Коли стають дорослими",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-06-29T02:25:00+03:00",
-          "stop": "2026-06-29T03:25:00+03:00",
+          "start": "2026-06-30T02:15:00+03:00",
+          "stop": "2026-06-30T07:00:00+03:00",
           "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:00:00+03:00",
+          "stop": "2026-06-30T07:20:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T07:20:00+03:00",
+          "stop": "2026-06-30T09:00:00+03:00",
+          "title": "х/ф Любов – смертельна гра",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T09:00:00+03:00",
+          "stop": "2026-06-30T10:20:00+03:00",
+          "title": "х/ф Трест, що луснув, 1 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T10:20:00+03:00",
+          "stop": "2026-06-30T11:45:00+03:00",
+          "title": "х/ф Трест, що луснув, 2 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T11:45:00+03:00",
+          "stop": "2026-06-30T13:05:00+03:00",
+          "title": "х/ф Трест, що луснув, 3 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T13:05:00+03:00",
+          "stop": "2026-06-30T15:00:00+03:00",
+          "title": "х/ф Весільний переполох",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T15:00:00+03:00",
+          "stop": "2026-06-30T16:45:00+03:00",
+          "title": "х/ф Наречена з того світу",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T16:45:00+03:00",
+          "stop": "2026-06-30T19:20:00+03:00",
+          "title": "х/ф Тринадцять днів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T19:20:00+03:00",
+          "stop": "2026-06-30T21:05:00+03:00",
+          "title": "х/ф Ямакасі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T21:05:00+03:00",
+          "stop": "2026-06-30T23:05:00+03:00",
+          "title": "х/ф Без вади",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-06-30T23:05:00+03:00",
+          "stop": "2026-07-01T00:55:00+03:00",
+          "title": "х/ф Едісон",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:55:00+03:00",
+          "stop": "2026-07-01T02:40:00+03:00",
+          "title": "х/ф Життя вдалося",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T02:40:00+03:00",
+          "stop": "2026-07-01T07:00:00+03:00",
+          "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:00:00+03:00",
+          "stop": "2026-07-01T07:40:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T07:40:00+03:00",
+          "stop": "2026-07-01T09:00:00+03:00",
+          "title": "х/ф Коли стають дорослими",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:00:00+03:00",
+          "stop": "2026-07-01T09:25:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T09:25:00+03:00",
+          "stop": "2026-07-01T11:15:00+03:00",
+          "title": "х/ф Данило – князь Галицький",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T11:15:00+03:00",
+          "stop": "2026-07-01T12:50:00+03:00",
+          "title": "х/ф Поки не випав сніг…",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T12:50:00+03:00",
+          "stop": "2026-07-01T14:30:00+03:00",
+          "title": "х/ф Таксі 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T14:30:00+03:00",
+          "stop": "2026-07-01T16:20:00+03:00",
+          "title": "х/ф Едісон",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T16:20:00+03:00",
+          "stop": "2026-07-01T18:15:00+03:00",
+          "title": "х/ф Універсальний солдат",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T18:15:00+03:00",
+          "stop": "2026-07-01T20:50:00+03:00",
+          "title": "х/ф Чаплін",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T20:50:00+03:00",
+          "stop": "2026-07-01T22:55:00+03:00",
+          "title": "х/ф Вчитель року",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-01T22:55:00+03:00",
+          "stop": "2026-07-02T01:00:00+03:00",
+          "title": "х/ф Ейр Америка",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-02",
+      "programs": [
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T03:15:00+03:00",
+          "title": "х/ф Брати. Остання сповідь",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T03:15:00+03:00",
+          "stop": "2026-07-02T06:50:00+03:00",
+          "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T06:50:00+03:00",
+          "stop": "2026-07-02T07:15:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:15:00+03:00",
+          "stop": "2026-07-02T09:00:00+03:00",
+          "title": "х/ф Життя вдалося",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:00:00+03:00",
+          "stop": "2026-07-02T09:30:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T09:30:00+03:00",
+          "stop": "2026-07-02T11:25:00+03:00",
+          "title": "х/ф Чудо в краю забуття",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:25:00+03:00",
+          "stop": "2026-07-02T13:25:00+03:00",
+          "title": "х/ф Без вади",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T13:25:00+03:00",
+          "stop": "2026-07-02T16:00:00+03:00",
+          "title": "х/ф Тринадцять днів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:00:00+03:00",
+          "stop": "2026-07-02T17:40:00+03:00",
+          "title": "х/ф Чистильник",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T17:40:00+03:00",
+          "stop": "2026-07-02T19:25:00+03:00",
+          "title": "х/ф Просто друзі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:25:00+03:00",
+          "stop": "2026-07-02T22:30:00+03:00",
+          "title": "х/ф Олександр",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:30:00+03:00",
+          "stop": "2026-07-03T00:45:00+03:00",
+          "title": "х/ф Шарлотта Грей",
           "description": "L",
           "category": null
         }

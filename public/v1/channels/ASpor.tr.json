@@ -8,16 +8,28 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 2,
   "days": [
     {
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "programs": [
         {
-          "start": "2026-06-29T00:00:00+03:00",
-          "stop": "2026-06-30T00:00:00+03:00",
+          "start": "2026-06-30T00:00:00+03:00",
+          "stop": "2026-07-01T00:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-01",
+      "programs": [
+        {
+          "start": "2026-07-01T00:00:00+03:00",
+          "stop": "2026-07-01T01:00:00+03:00",
           "title": "Son Sayfa",
           "description": "L",
           "category": null

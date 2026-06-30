@@ -1,6 +1,6 @@
 {
   "apiVersion": "1",
-  "generatedAt": "2026-06-29T05:01:10.961969+00:00",
+  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
   "channelCount": 574,
   "channels": [
     {
@@ -8,42 +8,42 @@
       "name": "1+1 International",
       "url": "/v1/channels/1Plus1International.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 51
     },
     {
       "id": "1Plus1Ukraina.ua",
       "name": "1+1 Ukraina",
       "url": "/v1/channels/1Plus1Ukraina.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 52
     },
     {
       "id": "24KZ.kz",
       "name": "24KZ",
       "url": "/v1/channels/24KZ.kz.json",
       "available": true,
-      "programmeCount": 96
+      "programmeCount": 249
     },
     {
       "id": "31Kanal.kz",
       "name": "31 Kanal",
       "url": "/v1/channels/31Kanal.kz.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 70
     },
     {
       "id": "360News.ru",
       "name": "360° News",
       "url": "/v1/channels/360News.ru.json",
       "available": true,
-      "programmeCount": 65
+      "programmeCount": 168
     },
     {
       "id": "365daysTV.ru",
       "name": "365 days TV",
       "url": "/v1/channels/365daysTV.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 92
     },
     {
       "id": "3sat.de",
@@ -56,36 +56,36 @@
       "id": "4everCinema.ua",
       "name": "4ever Cinema",
       "url": "/v1/channels/4everCinema.ua.json",
-      "available": true,
-      "programmeCount": 18
+      "available": false,
+      "programmeCount": 0
     },
     {
       "id": "4everDrama.ua",
       "name": "4ever Drama",
       "url": "/v1/channels/4everDrama.ua.json",
-      "available": true,
-      "programmeCount": 18
+      "available": false,
+      "programmeCount": 0
     },
     {
       "id": "4everMusic.ua",
       "name": "4ever Music",
       "url": "/v1/channels/4everMusic.ua.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 36
     },
     {
       "id": "4everTheater.ua",
       "name": "4ever Theater",
       "url": "/v1/channels/4everTheater.ua.json",
-      "available": true,
-      "programmeCount": 18
+      "available": false,
+      "programmeCount": 0
     },
     {
       "id": "78.ru",
       "name": "78",
       "url": "/v1/channels/78.ru.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 126
     },
     {
       "id": "9Volna.ru",
@@ -99,21 +99,21 @@
       "name": "A1",
       "url": "/v1/channels/A1.ru.json",
       "available": true,
-      "programmeCount": 35
+      "programmeCount": 82
     },
     {
       "id": "A2.ru",
       "name": "A2",
       "url": "/v1/channels/A2.ru.json",
       "available": true,
-      "programmeCount": 32
+      "programmeCount": 83
     },
     {
       "id": "AbaiTV.kz",
       "name": "Abai TV",
       "url": "/v1/channels/AbaiTV.kz.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 76
     },
     {
       "id": "AdultChannel.uk",
@@ -127,105 +127,105 @@
       "name": "Al Jazeera",
       "url": "/v1/channels/AlJazeera.qa.json",
       "available": true,
-      "programmeCount": 111
+      "programmeCount": 112
     },
     {
       "id": "AmediaHit.ru",
       "name": "Amedia Hit",
       "url": "/v1/channels/AmediaHit.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 109
     },
     {
       "id": "AmediaPremium.ru",
       "name": "Amedia Premium",
       "url": "/v1/channels/AmediaPremium.ru.json",
       "available": true,
-      "programmeCount": 29
+      "programmeCount": 93
     },
     {
       "id": "AnekdotTV.ru",
       "name": "Anekdot TV",
       "url": "/v1/channels/AnekdotTV.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 390
     },
     {
       "id": "AnimeTV.br",
       "name": "Anime TV",
       "url": "/v1/channels/AnimeTV.br.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 81
     },
     {
       "id": "ARDalpha.de",
       "name": "ARD-alpha",
       "url": "/v1/channels/ARDalpha.de.json",
       "available": true,
-      "programmeCount": 138
+      "programmeCount": 139
     },
     {
       "id": "Armenia1.am",
       "name": "Armenia 1",
       "url": "/v1/channels/Armenia1.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 116
     },
     {
       "id": "Armenia2.am",
       "name": "Armenia 2",
       "url": "/v1/channels/Armenia2.am.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 63
     },
     {
       "id": "Arsenal.ru",
       "name": "Arsenal",
       "url": "/v1/channels/Arsenal.ru.json",
       "available": true,
-      "programmeCount": 40
+      "programmeCount": 102
     },
     {
       "id": "ART.gr",
       "name": "ART",
       "url": "/v1/channels/ART.gr.json",
       "available": true,
-      "programmeCount": 41
+      "programmeCount": 124
     },
     {
       "id": "ASpor.tr",
       "name": "A Spor",
       "url": "/v1/channels/ASpor.tr.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 2
     },
     {
       "id": "AstroFootball.my",
       "name": "Astro Football",
       "url": "/v1/channels/AstroFootball.my.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 38
     },
     {
       "id": "AstroPremierLeague.my",
       "name": "Astro Premier League",
       "url": "/v1/channels/AstroPremierLeague.my.json",
       "available": true,
-      "programmeCount": 11
+      "programmeCount": 45
     },
     {
       "id": "AstroPremierLeague2.my",
       "name": "Astro Premier League 2",
       "url": "/v1/channels/AstroPremierLeague2.my.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 102
     },
     {
       "id": "ATVBazmocTV.am",
       "name": "ATV Bazmoc TV",
       "url": "/v1/channels/ATVBazmocTV.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 96
     },
     {
       "id": "ATVFilmzone.am",
@@ -238,85 +238,85 @@
       "id": "ATVKinoman.am",
       "name": "ATV Kinoman",
       "url": "/v1/channels/ATVKinoman.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 34
     },
     {
       "id": "AutoPlus.ru",
       "name": "Auto Plus",
       "url": "/v1/channels/AutoPlus.ru.json",
       "available": true,
-      "programmeCount": 118
+      "programmeCount": 335
     },
     {
       "id": "BabyTime.ru",
       "name": "Baby Time",
       "url": "/v1/channels/BabyTime.ru.json",
       "available": true,
-      "programmeCount": 109
+      "programmeCount": 288
     },
     {
       "id": "Balapan.kz",
       "name": "Balapan",
       "url": "/v1/channels/Balapan.kz.json",
       "available": true,
-      "programmeCount": 52
+      "programmeCount": 156
     },
     {
       "id": "BaletOpera.ru",
       "name": "Balet Opera",
       "url": "/v1/channels/BaletOpera.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 35
     },
     {
       "id": "BalticumPlatinum.lt",
       "name": "Balticum Platinum",
       "url": "/v1/channels/BalticumPlatinum.lt.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 66
     },
     {
       "id": "Bashkortostan24.ru",
       "name": "Bashkortostan 24",
       "url": "/v1/channels/Bashkortostan24.ru.json",
       "available": true,
-      "programmeCount": 53
+      "programmeCount": 174
     },
     {
       "id": "BBCFour.uk",
       "name": "BBC Four",
       "url": "/v1/channels/BBCFour.uk.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 35
     },
     {
       "id": "BBCNews.uk",
       "name": "BBC News",
       "url": "/v1/channels/BBCNews.uk.json",
       "available": true,
-      "programmeCount": 186
+      "programmeCount": 183
     },
     {
       "id": "BBCOne.uk",
       "name": "BBC One",
       "url": "/v1/channels/BBCOne.uk.json",
       "available": true,
-      "programmeCount": 48
+      "programmeCount": 47
     },
     {
       "id": "BBCTwo.uk",
       "name": "BBC Two",
       "url": "/v1/channels/BBCTwo.uk.json",
       "available": true,
-      "programmeCount": 63
+      "programmeCount": 67
     },
     {
       "id": "BeateUhseTV.de",
       "name": "Beate-Uhse.TV",
       "url": "/v1/channels/BeateUhseTV.de.json",
       "available": true,
-      "programmeCount": 35
+      "programmeCount": 42
     },
     {
       "id": "beINSports.qa",
@@ -329,36 +329,36 @@
       "id": "Belarus1.by",
       "name": "Belarus-1",
       "url": "/v1/channels/Belarus1.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 77
     },
     {
       "id": "Belarus2.by",
       "name": "Belarus-2",
       "url": "/v1/channels/Belarus2.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 66
     },
     {
       "id": "Belarus24.by",
       "name": "Belarus-24",
       "url": "/v1/channels/Belarus24.by.json",
       "available": true,
-      "programmeCount": 60
+      "programmeCount": 153
     },
     {
       "id": "Belarus3.by",
       "name": "Belarus-3",
       "url": "/v1/channels/Belarus3.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 74
     },
     {
       "id": "Belarus5.by",
       "name": "Belarus-5",
       "url": "/v1/channels/Belarus5.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 44
     },
     {
       "id": "BelRos.ru",
@@ -372,189 +372,189 @@
       "name": "Bergblick",
       "url": "/v1/channels/Bergblick.de.json",
       "available": true,
-      "programmeCount": 93
+      "programmeCount": 91
     },
     {
       "id": "BibelTV.de",
       "name": "Bibel TV",
       "url": "/v1/channels/BibelTV.de.json",
       "available": true,
-      "programmeCount": 164
+      "programmeCount": 166
     },
     {
       "id": "BigAsia.ru",
       "name": "Big Asia",
       "url": "/v1/channels/BigAsia.ru.json",
       "available": true,
-      "programmeCount": 79
+      "programmeCount": 202
     },
     {
       "id": "BigPlanet.ru",
       "name": "Big Planet",
       "url": "/v1/channels/BigPlanet.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 92
     },
     {
       "id": "Blokbaster.ru",
       "name": "Blokbaster",
       "url": "/v1/channels/Blokbaster.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 38
     },
     {
       "id": "BlueHustler.nl",
       "name": "Blue Hustler",
       "url": "/v1/channels/BlueHustler.nl.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 86
     },
     {
       "id": "Bober.ru",
       "name": "Bober",
       "url": "/v1/channels/Bober.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 52
     },
     {
       "id": "BoksTV.ru",
       "name": "Boks TV",
       "url": "/v1/channels/BoksTV.ru.json",
       "available": true,
-      "programmeCount": 47
+      "programmeCount": 142
     },
     {
       "id": "BonGusto.de",
       "name": "BonGusto",
       "url": "/v1/channels/BonGusto.de.json",
       "available": true,
-      "programmeCount": 166
+      "programmeCount": 164
     },
     {
       "id": "BRIDGE.ru",
       "name": "BRIDGE",
       "url": "/v1/channels/BRIDGE.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 34
     },
     {
       "id": "BRIDGEClassic.ru",
       "name": "BRIDGE Classic",
       "url": "/v1/channels/BRIDGEClassic.ru.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 21
     },
     {
       "id": "BRIDGEDeluxe.ru",
       "name": "BRIDGE Deluxe",
       "url": "/v1/channels/BRIDGEDeluxe.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 72
     },
     {
       "id": "BRIDGEFresh.ru",
       "name": "BRIDGE Fresh",
       "url": "/v1/channels/BRIDGEFresh.ru.json",
       "available": true,
-      "programmeCount": 29
+      "programmeCount": 75
     },
     {
       "id": "BRIDGEHits.ru",
       "name": "BRIDGE Hits",
       "url": "/v1/channels/BRIDGEHits.ru.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 21
     },
     {
       "id": "BRIDGERock.ru",
       "name": "BRIDGE Rock",
       "url": "/v1/channels/BRIDGERock.ru.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 25
     },
     {
       "id": "BRIDGERussianHit.ru",
       "name": "BRIDGE Russian Hit",
       "url": "/v1/channels/BRIDGERussianHit.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 28
     },
     {
       "id": "BRIDGESchlager.ru",
       "name": "BRIDGE Schlager",
       "url": "/v1/channels/BRIDGESchlager.ru.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 30
     },
     {
       "id": "Canale5.it",
       "name": "Canale 5",
       "url": "/v1/channels/Canale5.it.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 4
     },
     {
       "id": "CanalK.cv",
       "name": "Canal K",
       "url": "/v1/channels/CanalK.cv.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 63
     },
     {
       "id": "CanalPlusDokument.pl",
       "name": "Canal+ Dokument",
       "url": "/v1/channels/CanalPlusDokument.pl.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 82
     },
     {
       "id": "CanalPlusDomo.pl",
       "name": "Canal+ Domo",
       "url": "/v1/channels/CanalPlusDomo.pl.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 108
     },
     {
       "id": "CanalPlusKuchnia.pl",
       "name": "Canal+ Kuchnia",
       "url": "/v1/channels/CanalPlusKuchnia.pl.json",
       "available": true,
-      "programmeCount": 11
+      "programmeCount": 134
     },
     {
       "id": "CanalPlusPremium.pl",
       "name": "Canal+ Premium",
       "url": "/v1/channels/CanalPlusPremium.pl.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 63
     },
     {
       "id": "CanalPlusSeriale.pl",
       "name": "Canal+ Seriale",
       "url": "/v1/channels/CanalPlusSeriale.pl.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 88
     },
     {
       "id": "Carousel.ru",
       "name": "Carousel",
       "url": "/v1/channels/Carousel.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 75
     },
     {
       "id": "CartoonClassics.pl",
       "name": "Cartoon Classics",
       "url": "/v1/channels/CartoonClassics.pl.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 307
     },
     {
       "id": "CaspianNews.kz",
       "name": "Caspian News",
       "url": "/v1/channels/CaspianNews.kz.json",
       "available": true,
-      "programmeCount": 44
+      "programmeCount": 224
     },
     {
       "id": "CBCSport.az",
@@ -568,84 +568,84 @@
       "name": "Central TV",
       "url": "/v1/channels/CentralTV.ru.json",
       "available": true,
-      "programmeCount": 35
+      "programmeCount": 89
     },
     {
       "id": "Channel8International.ru",
       "name": "Channel 8 International",
       "url": "/v1/channels/Channel8International.ru.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 88
     },
     {
       "id": "Channel8Krasnoyarsk.ru",
       "name": "Channel 8 Krasnoyarsk",
       "url": "/v1/channels/Channel8Krasnoyarsk.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 104
     },
     {
       "id": "ChannelOne.ru",
       "name": "Channel One",
       "url": "/v1/channels/ChannelOne.ru.json",
       "available": true,
-      "programmeCount": 23
+      "programmeCount": 94
     },
     {
       "id": "ChannelOneEurasia.kz",
       "name": "Channel One Eurasia",
       "url": "/v1/channels/ChannelOneEurasia.kz.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 67
     },
     {
       "id": "Che.ru",
       "name": "Che!",
       "url": "/v1/channels/Che.ru.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 95
     },
     {
       "id": "Chizhik.ru",
       "name": "Chizhik",
       "url": "/v1/channels/Chizhik.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 127
     },
     {
       "id": "CinePlus.ua",
       "name": "Cine+",
       "url": "/v1/channels/CinePlus.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 37
     },
     {
       "id": "CinePlusHit.ua",
       "name": "Cine+ Hit",
       "url": "/v1/channels/CinePlusHit.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 37
     },
     {
       "id": "CinePlusKids.ua",
       "name": "Cine+ Kids",
       "url": "/v1/channels/CinePlusKids.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 48
     },
     {
       "id": "CinePlusLegend.ua",
       "name": "Cine+ Legend",
       "url": "/v1/channels/CinePlusLegend.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 38
     },
     {
       "id": "ClassicMusic.ru",
       "name": "Classic Music",
       "url": "/v1/channels/ClassicMusic.ru.json",
       "available": true,
-      "programmeCount": 21
+      "programmeCount": 59
     },
     {
       "id": "ClubMTV.au",
@@ -666,7 +666,7 @@
       "name": "CNN International",
       "url": "/v1/channels/CNNInternational.us.json",
       "available": true,
-      "programmeCount": 86
+      "programmeCount": 83
     },
     {
       "id": "CNNTurk.tr",
@@ -680,35 +680,35 @@
       "name": "Crimea 24",
       "url": "/v1/channels/Crimea24.ru.json",
       "available": true,
-      "programmeCount": 87
+      "programmeCount": 248
     },
     {
       "id": "CurrentTimeTV.cz",
       "name": "Current Time TV",
       "url": "/v1/channels/CurrentTimeTV.cz.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 90
     },
     {
       "id": "DAZN1.uk",
       "name": "DAZN 1",
       "url": "/v1/channels/DAZN1.uk.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 52
     },
     {
       "id": "DAZN2.uk",
       "name": "DAZN 2",
       "url": "/v1/channels/DAZN2.uk.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 41
     },
     {
       "id": "DelfiTV.lt",
       "name": "Delfi TV",
       "url": "/v1/channels/DelfiTV.lt.json",
       "available": true,
-      "programmeCount": 27
+      "programmeCount": 104
     },
     {
       "id": "DeluxeMusic.de",
@@ -722,42 +722,42 @@
       "name": "Den Pobedy",
       "url": "/v1/channels/DenPobedy.ru.json",
       "available": true,
-      "programmeCount": 22
+      "programmeCount": 55
     },
     {
       "id": "Detskimir.ru",
       "name": "Detski mir",
       "url": "/v1/channels/Detskimir.ru.json",
       "available": true,
-      "programmeCount": 126
+      "programmeCount": 397
     },
     {
       "id": "DF1.de",
       "name": "DF1",
       "url": "/v1/channels/DF1.de.json",
       "available": true,
-      "programmeCount": 87
+      "programmeCount": 86
     },
     {
       "id": "Dialogiorybalke.ru",
       "name": "Dialogi o rybalke",
       "url": "/v1/channels/Dialogiorybalke.ru.json",
       "available": true,
-      "programmeCount": 58
+      "programmeCount": 136
     },
     {
       "id": "DiemaSport.bg",
       "name": "Diema Sport",
       "url": "/v1/channels/DiemaSport.bg.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 37
     },
     {
       "id": "DigiSport4.ro",
       "name": "Digi Sport 4",
       "url": "/v1/channels/DigiSport4.ro.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 70
     },
     {
       "id": "Dikayaokhota.ru",
@@ -778,21 +778,21 @@
       "name": "Dikij",
       "url": "/v1/channels/Dikij.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 123
     },
     {
       "id": "Doctor.ru",
       "name": "Doctor",
       "url": "/v1/channels/Doctor.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 81
     },
     {
       "id": "DocuBox.nl",
       "name": "DocuBox",
       "url": "/v1/channels/DocuBox.nl.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 117
     },
     {
       "id": "Dokusat.de",
@@ -806,70 +806,70 @@
       "name": "Domashnie Zhivotnye",
       "url": "/v1/channels/DomashnieZhivotnye.ru.json",
       "available": true,
-      "programmeCount": 83
+      "programmeCount": 89
     },
     {
       "id": "Domashniy.ru",
       "name": "Domashniy",
       "url": "/v1/channels/Domashniy.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 95
     },
     {
       "id": "Domkino.ru",
       "name": "Dom kino",
       "url": "/v1/channels/Domkino.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 34
     },
     {
       "id": "DomkinoPremium.ru",
       "name": "Dom kino Premium",
       "url": "/v1/channels/DomkinoPremium.ru.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 45
     },
     {
       "id": "Dorama.ru",
       "name": "Dorama",
       "url": "/v1/channels/Dorama.ru.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 63
     },
     {
       "id": "Drive.ru",
       "name": "Drive",
       "url": "/v1/channels/Drive.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 145
     },
     {
       "id": "ducktv.sk",
       "name": "ducktv",
       "url": "/v1/channels/ducktv.sk.json",
       "available": true,
-      "programmeCount": 67
+      "programmeCount": 1656
     },
     {
       "id": "Dushevnoe.ru",
       "name": "Dushevnoe",
       "url": "/v1/channels/Dushevnoe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 48
     },
     {
       "id": "EestiKanal.ee",
       "name": "Eesti Kanal",
       "url": "/v1/channels/EestiKanal.ee.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 78
     },
     {
       "id": "EGETV.ru",
       "name": "EGE TV",
       "url": "/v1/channels/EGETV.ru.json",
       "available": true,
-      "programmeCount": 92
+      "programmeCount": 257
     },
     {
       "id": "Ego.il",
@@ -883,28 +883,28 @@
       "name": "English Class",
       "url": "/v1/channels/EnglishClass.ru.json",
       "available": true,
-      "programmeCount": 252
+      "programmeCount": 652
     },
     {
       "id": "EnterFilm.ua",
       "name": "Enter-Film",
       "url": "/v1/channels/EnterFilm.ua.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 50
     },
     {
       "id": "EpicBharat.in",
       "name": "Epic Bharat",
       "url": "/v1/channels/EpicBharat.in.json",
       "available": true,
-      "programmeCount": 22
+      "programmeCount": 74
     },
     {
       "id": "EpicDrama.uk",
       "name": "Epic Drama",
       "url": "/v1/channels/EpicDrama.uk.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 61
     },
     {
       "id": "Epoque.ua",
@@ -917,15 +917,15 @@
       "id": "EroX.nl",
       "name": "EroX",
       "url": "/v1/channels/EroX.nl.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 50
     },
     {
       "id": "EskaTV.pl",
       "name": "Eska TV",
       "url": "/v1/channels/EskaTV.pl.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 120
     },
     {
       "id": "ETV2.ee",
@@ -939,7 +939,7 @@
       "name": "EU Music",
       "url": "/v1/channels/EUMusic.ua.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 18
     },
     {
       "id": "EuroD.tr",
@@ -953,126 +953,126 @@
       "name": "Euronews",
       "url": "/v1/channels/Euronews.pl.json",
       "available": true,
-      "programmeCount": 248
+      "programmeCount": 235
     },
     {
       "id": "EuropaPlusTV.ru",
       "name": "Europa Plus TV",
       "url": "/v1/channels/EuropaPlusTV.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 90
     },
     {
       "id": "Eurosport1.fr",
       "name": "Eurosport 1",
       "url": "/v1/channels/Eurosport1.fr.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 57
     },
     {
       "id": "Eurosport2.fr",
       "name": "Eurosport 2",
       "url": "/v1/channels/Eurosport2.fr.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 59
     },
     {
       "id": "Evrokino.ru",
       "name": "Evrokino",
       "url": "/v1/channels/Evrokino.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 45
     },
     {
       "id": "EXTASYTV.cz",
       "name": "EXTASY TV",
       "url": "/v1/channels/EXTASYTV.cz.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 36
     },
     {
       "id": "Exxxotica.ru",
       "name": "Exxxotica",
       "url": "/v1/channels/Exxxotica.ru.json",
       "available": true,
-      "programmeCount": 26
+      "programmeCount": 72
     },
     {
       "id": "FAN.ru",
       "name": "FAN",
       "url": "/v1/channels/FAN.ru.json",
       "available": true,
-      "programmeCount": 27
+      "programmeCount": 58
     },
     {
       "id": "FashionBox.nl",
       "name": "FashionBox",
       "url": "/v1/channels/FashionBox.nl.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 93
     },
     {
       "id": "FashionStyle4K.ru",
       "name": "Fashion&Style 4K",
       "url": "/v1/channels/FashionStyle4K.ru.json",
       "available": true,
-      "programmeCount": 103
+      "programmeCount": 274
     },
     {
       "id": "FastSports1.am",
       "name": "Fast Sports 1",
       "url": "/v1/channels/FastSports1.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 28
     },
     {
       "id": "FastSports2.am",
       "name": "Fast Sports 2",
       "url": "/v1/channels/FastSports2.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 30
     },
     {
       "id": "FeniksplusKino.ru",
       "name": "Feniks plus Kino",
       "url": "/v1/channels/FeniksplusKino.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 75
     },
     {
       "id": "FightBox.nl",
       "name": "FightBox",
       "url": "/v1/channels/FightBox.nl.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 35
     },
     {
       "id": "FilmBoxArthouse.nl",
       "name": "FilmBox Arthouse",
       "url": "/v1/channels/FilmBoxArthouse.nl.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 53
     },
     {
       "id": "FonMusic.ru",
       "name": "Fon Music",
       "url": "/v1/channels/FonMusic.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 74
     },
     {
       "id": "France2.fr",
       "name": "France 2",
       "url": "/v1/channels/France2.fr.json",
       "available": true,
-      "programmeCount": 123
+      "programmeCount": 119
     },
     {
       "id": "France3.fr",
       "name": "France 3",
       "url": "/v1/channels/France3.fr.json",
       "available": true,
-      "programmeCount": 161
+      "programmeCount": 154
     },
     {
       "id": "France4.fr",
@@ -1085,64 +1085,64 @@
       "id": "France5.fr",
       "name": "France 5",
       "url": "/v1/channels/France5.fr.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 211
     },
     {
       "id": "FrenchLover.ru",
       "name": "French Lover",
       "url": "/v1/channels/FrenchLover.ru.json",
       "available": true,
-      "programmeCount": 24
+      "programmeCount": 68
     },
     {
       "id": "Friday.ru",
       "name": "Friday!",
       "url": "/v1/channels/Friday.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 61
     },
     {
       "id": "Gametoon.nl",
       "name": "Gametoon",
       "url": "/v1/channels/Gametoon.nl.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 98
     },
     {
       "id": "GEOTelevision.de",
       "name": "GEO Television",
       "url": "/v1/channels/GEOTelevision.de.json",
       "available": true,
-      "programmeCount": 72
+      "programmeCount": 74
     },
     {
       "id": "GlazamiTurista.ru",
       "name": "Glazami Turista",
       "url": "/v1/channels/GlazamiTurista.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 126
     },
     {
       "id": "Go3Films.ee",
       "name": "Go3 Films",
       "url": "/v1/channels/Go3Films.ee.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 37
     },
     {
       "id": "Go3Sport2.ee",
       "name": "Go3 Sport 2",
       "url": "/v1/channels/Go3Sport2.ee.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 33
     },
     {
       "id": "Go3Sport3.ee",
       "name": "Go3 Sport 3",
       "url": "/v1/channels/Go3Sport3.ee.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 27
     },
     {
       "id": "Go3Sport4.ee",
@@ -1156,7 +1156,7 @@
       "name": "Go3 Sport Open",
       "url": "/v1/channels/Go3SportOpen.ee.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 35
     },
     {
       "id": "GolClassics.es",
@@ -1170,7 +1170,7 @@
       "name": "Goldstar TV",
       "url": "/v1/channels/GoldstarTV.de.json",
       "available": true,
-      "programmeCount": 67
+      "programmeCount": 69
     },
     {
       "id": "GoodLife.il",
@@ -1184,140 +1184,140 @@
       "name": "Groznyj",
       "url": "/v1/channels/Groznyj.ru.json",
       "available": true,
-      "programmeCount": 26
+      "programmeCount": 72
     },
     {
       "id": "GulliGirl.ru",
       "name": "Gulli Girl",
       "url": "/v1/channels/GulliGirl.ru.json",
       "available": true,
-      "programmeCount": 126
+      "programmeCount": 329
     },
     {
       "id": "GuteLauneTV.de",
       "name": "Gute Laune TV",
       "url": "/v1/channels/GuteLauneTV.de.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 30
     },
     {
       "id": "Hamburg1.de",
       "name": "Hamburg 1",
       "url": "/v1/channels/Hamburg1.de.json",
       "available": true,
-      "programmeCount": 155
+      "programmeCount": 154
     },
     {
       "id": "Heimatkanal.de",
       "name": "Heimatkanal",
       "url": "/v1/channels/Heimatkanal.de.json",
       "available": true,
-      "programmeCount": 77
+      "programmeCount": 70
     },
     {
       "id": "Hit.ru",
       "name": "Hit",
       "url": "/v1/channels/Hit.ru.json",
       "available": true,
-      "programmeCount": 26
+      "programmeCount": 74
     },
     {
       "id": "Hollywood.ru",
       "name": "Hollywood",
       "url": "/v1/channels/Hollywood.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 45
     },
     {
       "id": "HopeChannelRussia.ru",
       "name": "Hope Channel Russia",
       "url": "/v1/channels/HopeChannelRussia.ru.json",
       "available": true,
-      "programmeCount": 41
+      "programmeCount": 140
     },
     {
       "id": "HSEExtra.de",
       "name": "HSE Extra",
       "url": "/v1/channels/HSEExtra.de.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 72
     },
     {
       "id": "HustlerHD.nl",
       "name": "Hustler HD",
       "url": "/v1/channels/HustlerHD.nl.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 63
     },
     {
       "id": "HuzurTV.ru",
       "name": "Huzur TV",
       "url": "/v1/channels/HuzurTV.ru.json",
       "available": true,
-      "programmeCount": 53
+      "programmeCount": 156
     },
     {
       "id": "ICTV2.ua",
       "name": "ICTV2",
       "url": "/v1/channels/ICTV2.ua.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 53
     },
     {
       "id": "IDFashion.ua",
       "name": "ID Fashion",
       "url": "/v1/channels/IDFashion.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 615
     },
     {
       "id": "IllusionPlus.ru",
       "name": "Illusion+",
       "url": "/v1/channels/IllusionPlus.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 46
     },
     {
       "id": "India.ru",
       "name": "India",
       "url": "/v1/channels/India.ru.json",
       "available": true,
-      "programmeCount": 69
+      "programmeCount": 183
     },
     {
       "id": "IndiyskoyeKino.ru",
       "name": "Indiyskoye Kino",
       "url": "/v1/channels/IndiyskoyeKino.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 26
     },
     {
       "id": "InsaytTV.ru",
       "name": "Insayt TV",
       "url": "/v1/channels/InsaytTV.ru.json",
       "available": true,
-      "programmeCount": 57
+      "programmeCount": 132
     },
     {
       "id": "IrbisTV.kz",
       "name": "Irbis TV",
       "url": "/v1/channels/IrbisTV.kz.json",
       "available": true,
-      "programmeCount": 11
+      "programmeCount": 73
     },
     {
       "id": "Istoriya.ru",
       "name": "Istoriya",
       "url": "/v1/channels/Istoriya.ru.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 82
     },
     {
       "id": "Izvestia.ru",
       "name": "Izvestia",
       "url": "/v1/channels/Izvestia.ru.json",
       "available": true,
-      "programmeCount": 244
+      "programmeCount": 648
     },
     {
       "id": "kabeleinsClassics.de",
@@ -1331,238 +1331,238 @@
       "name": "kabel eins Doku",
       "url": "/v1/channels/kabeleinsDoku.de.json",
       "available": true,
-      "programmeCount": 97
+      "programmeCount": 95
     },
     {
       "id": "KaleidoscopeTV.ru",
       "name": "Kaleidoscope TV",
       "url": "/v1/channels/KaleidoscopeTV.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 81
     },
     {
       "id": "Kamedi.ru",
       "name": "Kamedi",
       "url": "/v1/channels/Kamedi.ru.json",
       "available": true,
-      "programmeCount": 21
+      "programmeCount": 60
     },
     {
       "id": "KapitanFantastika.ru",
       "name": "Kapitan Fantastika",
       "url": "/v1/channels/KapitanFantastika.ru.json",
       "available": true,
-      "programmeCount": 90
+      "programmeCount": 225
     },
     {
       "id": "Kavkaz24.ru",
       "name": "Kavkaz 24",
       "url": "/v1/channels/Kavkaz24.ru.json",
       "available": true,
-      "programmeCount": 62
+      "programmeCount": 175
     },
     {
       "id": "KBSWorld.kr",
       "name": "KBS World",
       "url": "/v1/channels/KBSWorld.kr.json",
       "available": true,
-      "programmeCount": 25
+      "programmeCount": 93
     },
     {
       "id": "KentronTV.am",
       "name": "Kentron TV",
       "url": "/v1/channels/KentronTV.am.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 120
     },
     {
       "id": "Khabar.kz",
       "name": "Khabar",
       "url": "/v1/channels/Khabar.kz.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 56
     },
     {
       "id": "KHL.ru",
       "name": "KHL",
       "url": "/v1/channels/KHL.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 42
     },
     {
       "id": "KHLPrime.ru",
       "name": "KHL Prime",
       "url": "/v1/channels/KHLPrime.ru.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 52
     },
     {
       "id": "KidZoneMax.ee",
       "name": "KidZone Max",
       "url": "/v1/channels/KidZoneMax.ee.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 186
     },
     {
       "id": "KidZoneMini.ee",
       "name": "KidZone Mini",
       "url": "/v1/channels/KidZoneMini.ee.json",
       "available": true,
-      "programmeCount": 57
+      "programmeCount": 257
     },
     {
       "id": "KiKA.de",
       "name": "KiKA",
       "url": "/v1/channels/KiKA.de.json",
       "available": true,
-      "programmeCount": 135
+      "programmeCount": 137
     },
     {
       "id": "Kineko.ru",
       "name": "Kineko",
       "url": "/v1/channels/Kineko.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 75
     },
     {
       "id": "Kino18Plus.ru",
       "name": "Kino 18+",
       "url": "/v1/channels/Kino18Plus.ru.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 48
     },
     {
       "id": "Kino18PlusInternational.ru",
       "name": "Kino 18+ International",
       "url": "/v1/channels/Kino18PlusInternational.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 23
     },
     {
       "id": "Kino1International.ru",
       "name": "Kino 1 International",
       "url": "/v1/channels/Kino1International.ru.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 46
     },
     {
       "id": "Kino24.ru",
       "name": "Kino 24",
       "url": "/v1/channels/Kino24.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 34
     },
     {
       "id": "KinoHit.ru",
       "name": "KinoHit",
       "url": "/v1/channels/KinoHit.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 40
     },
     {
       "id": "KinoJam1.ru",
       "name": "KinoJam 1",
       "url": "/v1/channels/KinoJam1.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 62
     },
     {
       "id": "KinoJam2.ru",
       "name": "KinoJam 2",
       "url": "/v1/channels/KinoJam2.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 48
     },
     {
       "id": "Kinokomedija.ru",
       "name": "Kinokomedija",
       "url": "/v1/channels/Kinokomedija.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 39
     },
     {
       "id": "Kinoman.ru",
       "name": "Kinoman",
       "url": "/v1/channels/Kinoman.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 42
     },
     {
       "id": "Kinomix.ru",
       "name": "Kinomix",
       "url": "/v1/channels/Kinomix.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 36
     },
     {
       "id": "Kinopremyera.ru",
       "name": "Kinopremyera",
       "url": "/v1/channels/Kinopremyera.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 41
     },
     {
       "id": "Kinosemja.ru",
       "name": "Kinosemja",
       "url": "/v1/channels/Kinosemja.ru.json",
       "available": true,
-      "programmeCount": 18
+      "programmeCount": 48
     },
     {
       "id": "Kinoseriya.ru",
       "name": "Kinoseriya",
       "url": "/v1/channels/Kinoseriya.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 75
     },
     {
       "id": "KinoSezon.ru",
       "name": "KinoSezon",
       "url": "/v1/channels/KinoSezon.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 71
     },
     {
       "id": "Kinosvidanie.ru",
       "name": "Kinosvidanie",
       "url": "/v1/channels/Kinosvidanie.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 39
     },
     {
       "id": "Kinouzhas.ru",
       "name": "Kinouzhas",
       "url": "/v1/channels/Kinouzhas.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 46
     },
     {
       "id": "KIONHIT.ru",
       "name": "KION HIT",
       "url": "/v1/channels/KIONHIT.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 78
     },
     {
       "id": "Kluch.ru",
       "name": "Kluch",
       "url": "/v1/channels/Kluch.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 77
     },
     {
       "id": "Komedia.ru",
       "name": "Komedia",
       "url": "/v1/channels/Komedia.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 50
     },
     {
       "id": "Komediynoe.ru",
       "name": "Komediynoe",
       "url": "/v1/channels/Komediynoe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 43
     },
     {
       "id": "Konniymir.ru",
@@ -1583,35 +1583,35 @@
       "name": "KTK",
       "url": "/v1/channels/KTK.kz.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 54
     },
     {
       "id": "Ktoestkto.ru",
       "name": "Kto est kto",
       "url": "/v1/channels/Ktoestkto.ru.json",
       "available": true,
-      "programmeCount": 35
+      "programmeCount": 92
     },
     {
       "id": "KukhnyaTV.ru",
       "name": "Kukhnya TV",
       "url": "/v1/channels/KukhnyaTV.ru.json",
       "available": true,
-      "programmeCount": 62
+      "programmeCount": 163
     },
     {
       "id": "KVNTV.ru",
       "name": "KVN TV",
       "url": "/v1/channels/KVNTV.ru.json",
       "available": true,
-      "programmeCount": 18
+      "programmeCount": 48
     },
     {
       "id": "Leva.ru",
       "name": "Leva",
       "url": "/v1/channels/Leva.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 224
     },
     {
       "id": "LibertyErotikaFHD.uk",
@@ -1625,28 +1625,28 @@
       "name": "Lipeckoe vremya",
       "url": "/v1/channels/Lipeckoevremya.ru.json",
       "available": true,
-      "programmeCount": 23
+      "programmeCount": 61
     },
     {
       "id": "LiveMusicChannel.ru",
       "name": "Live Music Channel",
       "url": "/v1/channels/LiveMusicChannel.ru.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 67
     },
     {
       "id": "LNK.lt",
       "name": "LNK",
       "url": "/v1/channels/LNK.lt.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 96
     },
     {
       "id": "LoveNature.ca",
       "name": "Love Nature",
       "url": "/v1/channels/LoveNature.ca.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 81
     },
     {
       "id": "LRTLituanica.lt",
@@ -1659,50 +1659,50 @@
       "id": "LRTTV.lt",
       "name": "LRT TV",
       "url": "/v1/channels/LRTTV.lt.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 126
     },
     {
       "id": "LTV1.lv",
       "name": "LTV1",
       "url": "/v1/channels/LTV1.lv.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 114
     },
     {
       "id": "LTV7.lv",
       "name": "LTV7",
       "url": "/v1/channels/LTV7.lv.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 88
     },
     {
       "id": "Luxury.ru",
       "name": "Luxury",
       "url": "/v1/channels/Luxury.ru.json",
       "available": true,
-      "programmeCount": 49
+      "programmeCount": 123
     },
     {
       "id": "Lyubimoe.ru",
       "name": "Lyubimoe",
       "url": "/v1/channels/Lyubimoe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 59
     },
     {
       "id": "Maidan.ru",
       "name": "Maidan",
       "url": "/v1/channels/Maidan.ru.json",
       "available": true,
-      "programmeCount": 79
+      "programmeCount": 194
     },
     {
       "id": "Mama.ru",
       "name": "Mama",
       "url": "/v1/channels/Mama.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 93
     },
     {
       "id": "MarcoPoloTV.de",
@@ -1716,245 +1716,245 @@
       "name": "Match!",
       "url": "/v1/channels/Match.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 49
     },
     {
       "id": "MatchArena.ru",
       "name": "Match! Arena",
       "url": "/v1/channels/MatchArena.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 50
     },
     {
       "id": "MatchBoets.ru",
       "name": "Match! Boets",
       "url": "/v1/channels/MatchBoets.ru.json",
       "available": true,
-      "programmeCount": 21
+      "programmeCount": 61
     },
     {
       "id": "MatchFutbol1.ru",
       "name": "Match! Futbol 1",
       "url": "/v1/channels/MatchFutbol1.ru.json",
       "available": true,
-      "programmeCount": 18
+      "programmeCount": 44
     },
     {
       "id": "MatchFutbol2.ru",
       "name": "Match! Futbol 2",
       "url": "/v1/channels/MatchFutbol2.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 38
     },
     {
       "id": "MatchFutbol3.ru",
       "name": "Match! Futbol 3",
       "url": "/v1/channels/MatchFutbol3.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 39
     },
     {
       "id": "MatchIgra.ru",
       "name": "Match! Igra",
       "url": "/v1/channels/MatchIgra.ru.json",
       "available": true,
-      "programmeCount": 21
+      "programmeCount": 61
     },
     {
       "id": "MatchPlaneta.ru",
       "name": "Match! Planeta",
       "url": "/v1/channels/MatchPlaneta.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 54
     },
     {
       "id": "MatchPremier.ru",
       "name": "Match! Premier",
       "url": "/v1/channels/MatchPremier.ru.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 56
     },
     {
       "id": "MatchStrana.ru",
       "name": "Match! Strana",
       "url": "/v1/channels/MatchStrana.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 78
     },
     {
       "id": "MaxSport1.bg",
       "name": "Max Sport 1",
       "url": "/v1/channels/MaxSport1.bg.json",
       "available": true,
-      "programmeCount": 11
+      "programmeCount": 37
     },
     {
       "id": "MaxSport2.bg",
       "name": "Max Sport 2",
       "url": "/v1/channels/MaxSport2.bg.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 46
     },
     {
       "id": "MaxSport3.bg",
       "name": "Max Sport 3",
       "url": "/v1/channels/MaxSport3.bg.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 42
     },
     {
       "id": "MaxSport4.bg",
       "name": "Max Sport 4",
       "url": "/v1/channels/MaxSport4.bg.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 38
     },
     {
       "id": "MedeniyyetTV.az",
       "name": "Medeniyyet TV",
       "url": "/v1/channels/MedeniyyetTV.az.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 83
     },
     {
       "id": "MEGOGOSport.ua",
       "name": "MEGOGO Sport",
       "url": "/v1/channels/MEGOGOSport.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 49
     },
     {
       "id": "Mezzo.fr",
       "name": "Mezzo",
       "url": "/v1/channels/Mezzo.fr.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 55
     },
     {
       "id": "MezzoLive.fr",
       "name": "Mezzo Live",
       "url": "/v1/channels/MezzoLive.fr.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 55
     },
     {
       "id": "Ministerstvoidey.ru",
       "name": "Ministerstvo idey",
       "url": "/v1/channels/Ministerstvoidey.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 302
     },
     {
       "id": "Mir24.ru",
       "name": "Mir 24",
       "url": "/v1/channels/Mir24.ru.json",
       "available": true,
-      "programmeCount": 98
+      "programmeCount": 272
     },
     {
       "id": "MirBasketbola.ru",
       "name": "Mir Basketbola",
       "url": "/v1/channels/MirBasketbola.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 38
     },
     {
       "id": "MirBelogorya.ru",
       "name": "Mir Belogorya",
       "url": "/v1/channels/MirBelogorya.ru.json",
       "available": true,
-      "programmeCount": 44
+      "programmeCount": 109
     },
     {
       "id": "MirSeriala.ru",
       "name": "Mir Seriala",
       "url": "/v1/channels/MirSeriala.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 81
     },
     {
       "id": "Miruvlecheniy.ru",
       "name": "Mir uvlecheniy",
       "url": "/v1/channels/Miruvlecheniy.ru.json",
       "available": true,
-      "programmeCount": 69
+      "programmeCount": 195
     },
     {
       "id": "Mirvokrug.ru",
       "name": "Mir vokrug",
       "url": "/v1/channels/Mirvokrug.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 180
     },
     {
       "id": "MMATV.us",
       "name": "MMA TV",
       "url": "/v1/channels/MMATV.us.json",
       "available": true,
-      "programmeCount": 11
+      "programmeCount": 24
     },
     {
       "id": "MoreThanSportsTV.de",
       "name": "More Than Sports TV",
       "url": "/v1/channels/MoreThanSportsTV.de.json",
       "available": true,
-      "programmeCount": 25
+      "programmeCount": 29
     },
     {
       "id": "MosfilmGoldCollection.ru",
       "name": "Mosfilm Gold Collection",
       "url": "/v1/channels/MosfilmGoldCollection.ru.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 62
     },
     {
       "id": "Moskva24.ru",
       "name": "Moskva 24",
       "url": "/v1/channels/Moskva24.ru.json",
       "available": true,
-      "programmeCount": 81
+      "programmeCount": 228
     },
     {
       "id": "MoskvaDoveriye.ru",
       "name": "Moskva. Doveriye",
       "url": "/v1/channels/MoskvaDoveriye.ru.json",
       "available": true,
-      "programmeCount": 41
+      "programmeCount": 108
     },
     {
       "id": "Motorvision.de",
       "name": "Motorvision",
       "url": "/v1/channels/Motorvision.de.json",
       "available": true,
-      "programmeCount": 115
+      "programmeCount": 127
     },
     {
       "id": "MovieClassic.ru",
       "name": "Movie Classic",
       "url": "/v1/channels/MovieClassic.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 43
     },
     {
       "id": "MoyaPlaneta.ru",
       "name": "Moya Planeta",
       "url": "/v1/channels/MoyaPlaneta.ru.json",
       "available": true,
-      "programmeCount": 37
+      "programmeCount": 118
     },
     {
       "id": "Moyastikhiya.ru",
       "name": "Moya stikhiya",
       "url": "/v1/channels/Moyastikhiya.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 125
     },
     {
       "id": "MTV.de",
       "name": "MTV",
       "url": "/v1/channels/MTV.de.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 50
     },
     {
       "id": "MTV80s.uk",
@@ -1975,273 +1975,273 @@
       "name": "MTV Global",
       "url": "/v1/channels/MTVGlobal.uk.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 136
     },
     {
       "id": "Mult.ru",
       "name": "Mult",
       "url": "/v1/channels/Mult.ru.json",
       "available": true,
-      "programmeCount": 22
+      "programmeCount": 60
     },
     {
       "id": "Multilandia.ru",
       "name": "Multilandia",
       "url": "/v1/channels/Multilandia.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 42
     },
     {
       "id": "Multimuzyka.ru",
       "name": "Mult i muzyka",
       "url": "/v1/channels/Multimuzyka.ru.json",
       "available": true,
-      "programmeCount": 37
+      "programmeCount": 101
     },
     {
       "id": "MunchenTV.de",
       "name": "Munchen TV",
       "url": "/v1/channels/MunchenTV.de.json",
       "available": true,
-      "programmeCount": 201
+      "programmeCount": 210
     },
     {
       "id": "MusicBoxClassic.cz",
       "name": "Music Box Classic",
       "url": "/v1/channels/MusicBoxClassic.cz.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 72
     },
     {
       "id": "MusicBoxDance.cz",
       "name": "Music Box Dance",
       "url": "/v1/channels/MusicBoxDance.cz.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 72
     },
     {
       "id": "MusicBoxHits.cz",
       "name": "Music Box Hits",
       "url": "/v1/channels/MusicBoxHits.cz.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 72
     },
     {
       "id": "Muzhskoekino.ru",
       "name": "Muzhskoe kino",
       "url": "/v1/channels/Muzhskoekino.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 38
     },
     {
       "id": "Muzhskoy.ru",
       "name": "Muzhskoy",
       "url": "/v1/channels/Muzhskoy.ru.json",
       "available": true,
-      "programmeCount": 57
+      "programmeCount": 161
     },
     {
       "id": "MuzzOne.kz",
       "name": "MuzzOne",
       "url": "/v1/channels/MuzzOne.kz.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 251
     },
     {
       "id": "N24Doku.de",
       "name": "N24 Doku",
       "url": "/v1/channels/N24Doku.de.json",
       "available": true,
-      "programmeCount": 81
+      "programmeCount": 80
     },
     {
       "id": "NashaSibir.ru",
       "name": "Nasha Sibir",
       "url": "/v1/channels/NashaSibir.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 578
     },
     {
       "id": "NashaTema.ru",
       "name": "Nasha Tema",
       "url": "/v1/channels/NashaTema.ru.json",
       "available": true,
-      "programmeCount": 58
+      "programmeCount": 151
     },
     {
       "id": "Nashe.ru",
       "name": "Nashe",
       "url": "/v1/channels/Nashe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 58
     },
     {
       "id": "NasheLubimoeKino.ru",
       "name": "Nashe Lubimoe Kino",
       "url": "/v1/channels/NasheLubimoeKino.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 39
     },
     {
       "id": "Nashemuzhskoe.ru",
       "name": "Nashe muzhskoe",
       "url": "/v1/channels/Nashemuzhskoe.ru.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 81
     },
     {
       "id": "NasheNovoeKino.ru",
       "name": "Nashe Novoe Kino",
       "url": "/v1/channels/NasheNovoeKino.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 35
     },
     {
       "id": "NashKinopokaz.ru",
       "name": "Nash Kinopokaz",
       "url": "/v1/channels/NashKinopokaz.ru.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 49
     },
     {
       "id": "Neizvestnayaplaneta.ru",
       "name": "Neizvestnaya planeta",
       "url": "/v1/channels/Neizvestnayaplaneta.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 123
     },
     {
       "id": "NFLNetwork.us",
       "name": "NFL Network",
       "url": "/v1/channels/NFLNetwork.us.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 43
     },
     {
       "id": "Nitro.de",
       "name": "Nitro",
       "url": "/v1/channels/Nitro.de.json",
       "available": true,
-      "programmeCount": 96
+      "programmeCount": 94
     },
     {
       "id": "NizhniyNovgorod24.ru",
       "name": "Nizhniy Novgorod 24",
       "url": "/v1/channels/NizhniyNovgorod24.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 36
     },
     {
       "id": "Nostalgia.ru",
       "name": "Nostalgia",
       "url": "/v1/channels/Nostalgia.ru.json",
       "available": true,
-      "programmeCount": 38
+      "programmeCount": 104
     },
     {
       "id": "NovaSport1.cz",
       "name": "Nova Sport 1",
       "url": "/v1/channels/NovaSport1.cz.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 68
     },
     {
       "id": "NovaSport2.cz",
       "name": "Nova Sport 2",
       "url": "/v1/channels/NovaSport2.cz.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 41
     },
     {
       "id": "NovaSport3.cz",
       "name": "Nova Sport 3",
       "url": "/v1/channels/NovaSport3.cz.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 33
     },
     {
       "id": "NovaSport4.cz",
       "name": "Nova Sport 4",
       "url": "/v1/channels/NovaSport4.cz.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 33
     },
     {
       "id": "NOWRock.uk",
       "name": "NOW Rock",
       "url": "/v1/channels/NOWRock.uk.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 39
     },
     {
       "id": "NTK.kz",
       "name": "NTK",
       "url": "/v1/channels/NTK.kz.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 65
     },
     {
       "id": "NTVBelarus.by",
       "name": "NTV-Belarus",
       "url": "/v1/channels/NTVBelarus.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 93
     },
     {
       "id": "NTVHit.ru",
       "name": "NTV-Hit",
       "url": "/v1/channels/NTVHit.ru.json",
       "available": true,
-      "programmeCount": 43
+      "programmeCount": 125
     },
     {
       "id": "NTVLaw.ru",
       "name": "NTV Law",
       "url": "/v1/channels/NTVLaw.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 89
     },
     {
       "id": "NTVMir.ru",
       "name": "NTV Mir",
       "url": "/v1/channels/NTVMir.ru.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 64
     },
     {
       "id": "NTVSeries.ru",
       "name": "NTV Series",
       "url": "/v1/channels/NTVSeries.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 81
     },
     {
       "id": "NTVStyle.ru",
       "name": "NTV Style",
       "url": "/v1/channels/NTVStyle.ru.json",
       "available": true,
-      "programmeCount": 41
+      "programmeCount": 107
     },
     {
       "id": "NVKSakha.ru",
       "name": "NVK Sakha",
       "url": "/v1/channels/NVKSakha.ru.json",
       "available": true,
-      "programmeCount": 42
+      "programmeCount": 115
     },
     {
       "id": "O.ru",
       "name": "O!",
       "url": "/v1/channels/O.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 60
     },
     {
       "id": "ObozrevatelTV.ua",
       "name": "Obozrevatel TV",
       "url": "/v1/channels/ObozrevatelTV.ua.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 83
     },
     {
       "id": "oe24TV.at",
@@ -2255,14 +2255,14 @@
       "name": "Ohotnik i rybolov",
       "url": "/v1/channels/Ohotnikirybolov.ru.json",
       "available": true,
-      "programmeCount": 58
+      "programmeCount": 154
     },
     {
       "id": "Okhotairybalka.ru",
       "name": "Okhota i rybalka",
       "url": "/v1/channels/Okhotairybalka.ru.json",
       "available": true,
-      "programmeCount": 59
+      "programmeCount": 143
     },
     {
       "id": "OKino.ru",
@@ -2276,315 +2276,315 @@
       "name": "ORF 1",
       "url": "/v1/channels/ORF1.at.json",
       "available": true,
-      "programmeCount": 118
+      "programmeCount": 122
     },
     {
       "id": "ORF2.at",
       "name": "ORF 2",
       "url": "/v1/channels/ORF2.at.json",
       "available": true,
-      "programmeCount": 159
+      "programmeCount": 157
     },
     {
       "id": "Oruzhie.ru",
       "name": "Oruzhie",
       "url": "/v1/channels/Oruzhie.ru.json",
       "available": true,
-      "programmeCount": 63
+      "programmeCount": 150
     },
     {
       "id": "OsetiyaIryston.ru",
       "name": "Osetiya-Iryston",
       "url": "/v1/channels/OsetiyaIryston.ru.json",
       "available": true,
-      "programmeCount": 45
+      "programmeCount": 123
     },
     {
       "id": "Ostrosyuzhetnoye.ru",
       "name": "Ostrosyuzhetnoye",
       "url": "/v1/channels/Ostrosyuzhetnoye.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 50
     },
     {
       "id": "Otkritiymir.ru",
       "name": "Otkritiy mir",
       "url": "/v1/channels/Otkritiymir.ru.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 114
     },
     {
       "id": "OTR.ru",
       "name": "OTR",
       "url": "/v1/channels/OTR.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 105
     },
     {
       "id": "OtyrarTV.kz",
       "name": "Otyrar TV",
       "url": "/v1/channels/OtyrarTV.kz.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 81
     },
     {
       "id": "Patriot.ru",
       "name": "Patriot",
       "url": "/v1/channels/Patriot.ru.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 41
     },
     {
       "id": "PenthouseGold.us",
       "name": "Penthouse Gold",
       "url": "/v1/channels/PenthouseGold.us.json",
       "available": true,
-      "programmeCount": 24
+      "programmeCount": 106
     },
     {
       "id": "Pershyiavtomobilnyi.ua",
       "name": "Pershyi avtomobilnyi",
       "url": "/v1/channels/Pershyiavtomobilnyi.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 35
     },
     {
       "id": "PerviyInformationniy.by",
       "name": "Perviy Informationniy",
       "url": "/v1/channels/PerviyInformationniy.by.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 267
     },
     {
       "id": "PerviyKrymskiy.ru",
       "name": "Perviy Krymskiy",
       "url": "/v1/channels/PerviyKrymskiy.ru.json",
       "available": true,
-      "programmeCount": 47
+      "programmeCount": 122
     },
     {
       "id": "PervyyKosmicheskiy.ru",
       "name": "Pervyy Kosmicheskiy",
       "url": "/v1/channels/PervyyKosmicheskiy.ru.json",
       "available": true,
-      "programmeCount": 53
+      "programmeCount": 124
     },
     {
       "id": "PervyyTulskiy.ru",
       "name": "Pervyy Tulskiy",
       "url": "/v1/channels/PervyyTulskiy.ru.json",
       "available": true,
-      "programmeCount": 43
+      "programmeCount": 132
     },
     {
       "id": "Pervyyvegetarianskiy.ru",
       "name": "Pervyy vegetarianskiy",
       "url": "/v1/channels/Pervyyvegetarianskiy.ru.json",
       "available": true,
-      "programmeCount": 68
+      "programmeCount": 159
     },
     {
       "id": "PesiKo.ru",
       "name": "Pes i Ko",
       "url": "/v1/channels/PesiKo.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 45
     },
     {
       "id": "Pingvin.ru",
       "name": "Pingvin",
       "url": "/v1/channels/Pingvin.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 395
     },
     {
       "id": "PlanB.ru",
       "name": "Plan_B",
       "url": "/v1/channels/PlanB.ru.json",
       "available": true,
-      "programmeCount": 27
+      "programmeCount": 47
     },
     {
       "id": "Pobeda.ru",
       "name": "Pobeda",
       "url": "/v1/channels/Pobeda.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 27
     },
     {
       "id": "Poehali.ru",
       "name": "Poehali!",
       "url": "/v1/channels/Poehali.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 102
     },
     {
       "id": "Polonia1.pl",
       "name": "Polonia 1",
       "url": "/v1/channels/Polonia1.pl.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 87
     },
     {
       "id": "Premialnoe.ru",
       "name": "Premialnoe",
       "url": "/v1/channels/Premialnoe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 48
     },
     {
       "id": "Priklyucheniya.ru",
       "name": "Priklyucheniya",
       "url": "/v1/channels/Priklyucheniya.ru.json",
       "available": true,
-      "programmeCount": 42
+      "programmeCount": 92
     },
     {
       "id": "PrivateTV.nl",
       "name": "Private TV",
       "url": "/v1/channels/PrivateTV.nl.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 31
     },
     {
       "id": "ProArena.ro",
       "name": "Pro Arena",
       "url": "/v1/channels/ProArena.ro.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 39
     },
     {
       "id": "ProBusiness.ru",
       "name": "Pro Business",
       "url": "/v1/channels/ProBusiness.ru.json",
       "available": true,
-      "programmeCount": 55
+      "programmeCount": 132
     },
     {
       "id": "Prodvizhenie.ru",
       "name": "Prodvizhenie",
       "url": "/v1/channels/Prodvizhenie.ru.json",
       "available": true,
-      "programmeCount": 37
+      "programmeCount": 102
     },
     {
       "id": "ProLyubov.ru",
       "name": "Pro Lyubov",
       "url": "/v1/channels/ProLyubov.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 46
     },
     {
       "id": "ProSieben.de",
       "name": "ProSieben",
       "url": "/v1/channels/ProSieben.de.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 111
     },
     {
       "id": "ProSiebenFun.de",
       "name": "ProSieben Fun",
       "url": "/v1/channels/ProSiebenFun.de.json",
       "available": true,
-      "programmeCount": 154
+      "programmeCount": 163
     },
     {
       "id": "ProSiebenMaxx.de",
       "name": "ProSieben Maxx",
       "url": "/v1/channels/ProSiebenMaxx.de.json",
       "available": true,
-      "programmeCount": 141
+      "programmeCount": 132
     },
     {
       "id": "Psikhologiya.ru",
       "name": "Psikhologiya",
       "url": "/v1/channels/Psikhologiya.ru.json",
       "available": true,
-      "programmeCount": 78
+      "programmeCount": 205
     },
     {
       "id": "Qazaqstan.kz",
       "name": "Qazaqstan",
       "url": "/v1/channels/Qazaqstan.kz.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 76
     },
     {
       "id": "QazSport.kz",
       "name": "QazSport",
       "url": "/v1/channels/QazSport.kz.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 57
     },
     {
       "id": "QLeague.kz",
       "name": "Q League",
       "url": "/v1/channels/QLeague.kz.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 33
     },
     {
       "id": "Quadro.ru",
       "name": "Quadro",
       "url": "/v1/channels/Quadro.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 32
     },
     {
       "id": "RadioShanson.ru",
       "name": "Radio Shanson",
       "url": "/v1/channels/RadioShanson.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 164
     },
     {
       "id": "RadostMoya.ru",
       "name": "Radost Moya",
       "url": "/v1/channels/RadostMoya.ru.json",
       "available": true,
-      "programmeCount": 73
+      "programmeCount": 230
     },
     {
       "id": "Ratnik.ru",
       "name": "Ratnik",
       "url": "/v1/channels/Ratnik.ru.json",
       "available": true,
-      "programmeCount": 33
+      "programmeCount": 78
     },
     {
       "id": "RealMadridTV.es",
       "name": "Real Madrid TV",
       "url": "/v1/channels/RealMadridTV.es.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 20
     },
     {
       "id": "RedlightHD.nl",
       "name": "Redlight HD",
       "url": "/v1/channels/RedlightHD.nl.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 54
     },
     {
       "id": "RedLine.ru",
       "name": "Red Line",
       "url": "/v1/channels/RedLine.ru.json",
       "available": true,
-      "programmeCount": 24
+      "programmeCount": 72
     },
     {
       "id": "RedLips.ru",
       "name": "Red Lips",
       "url": "/v1/channels/RedLips.ru.json",
       "available": true,
-      "programmeCount": 94
+      "programmeCount": 283
     },
     {
       "id": "RENTV.ru",
       "name": "REN TV",
       "url": "/v1/channels/RENTV.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 69
     },
     {
       "id": "RiC.de",
@@ -2598,35 +2598,35 @@
       "name": "Rodnoe Kino",
       "url": "/v1/channels/RodnoeKino.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 50
     },
     {
       "id": "Romance.sa",
       "name": "Romance",
       "url": "/v1/channels/Romance.sa.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 58
     },
     {
       "id": "Romantichnoe.ru",
       "name": "Romantichnoe",
       "url": "/v1/channels/Romantichnoe.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 84
     },
     {
       "id": "RTG.mx",
       "name": "RTG",
       "url": "/v1/channels/RTG.mx.json",
       "available": true,
-      "programmeCount": 55
+      "programmeCount": 144
     },
     {
       "id": "RTL2.hr",
       "name": "RTL 2",
       "url": "/v1/channels/RTL2.hr.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 72
     },
     {
       "id": "RTLup.de",
@@ -2639,253 +2639,253 @@
       "id": "RTRBelarus.by",
       "name": "RTR-Belarus",
       "url": "/v1/channels/RTRBelarus.by.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 78
     },
     {
       "id": "RTRPlaneta.ru",
       "name": "RTR-Planeta",
       "url": "/v1/channels/RTRPlaneta.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 60
     },
     {
       "id": "RTVi.ru",
       "name": "RTVi",
       "url": "/v1/channels/RTVi.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 76
     },
     {
       "id": "RugbyPassTV.uk",
       "name": "RugbyPass TV",
       "url": "/v1/channels/RugbyPassTV.uk.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 39
     },
     {
       "id": "Russia1.ru",
       "name": "Russia-1",
       "url": "/v1/channels/Russia1.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 98
     },
     {
       "id": "Russia24.ru",
       "name": "Russia-24",
       "url": "/v1/channels/Russia24.ru.json",
       "available": true,
-      "programmeCount": 78
+      "programmeCount": 241
     },
     {
       "id": "RussiaK.ru",
       "name": "Russia-K",
       "url": "/v1/channels/RussiaK.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 94
     },
     {
       "id": "RussianExtreme.ru",
       "name": "Russian Extreme",
       "url": "/v1/channels/RussianExtreme.ru.json",
       "available": true,
-      "programmeCount": 35
+      "programmeCount": 88
     },
     {
       "id": "RussianMusicBox.ru",
       "name": "Russian MusicBox",
       "url": "/v1/channels/RussianMusicBox.ru.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 72
     },
     {
       "id": "Russiannight.ru",
       "name": "Russian night",
       "url": "/v1/channels/Russiannight.ru.json",
       "available": true,
-      "programmeCount": 23
+      "programmeCount": 73
     },
     {
       "id": "RusskiyBestseller.ru",
       "name": "Russkiy Bestseller",
       "url": "/v1/channels/RusskiyBestseller.ru.json",
       "available": true,
-      "programmeCount": 23
+      "programmeCount": 63
     },
     {
       "id": "RusskiyDetektiv.ru",
       "name": "Russkiy Detektiv",
       "url": "/v1/channels/RusskiyDetektiv.ru.json",
       "available": true,
-      "programmeCount": 29
+      "programmeCount": 87
     },
     {
       "id": "RusskiyIllusion.ru",
       "name": "Russkiy Illusion",
       "url": "/v1/channels/RusskiyIllusion.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 40
     },
     {
       "id": "Russkiyroman.ru",
       "name": "Russkiy roman",
       "url": "/v1/channels/Russkiyroman.ru.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 29
     },
     {
       "id": "RusskiySever.ru",
       "name": "Russkiy Sever",
       "url": "/v1/channels/RusskiySever.ru.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 153
     },
     {
       "id": "RUTV.ru",
       "name": "RU.TV",
       "url": "/v1/channels/RUTV.ru.json",
       "available": true,
-      "programmeCount": 13
+      "programmeCount": 43
     },
     {
       "id": "Rybalka.ua",
       "name": "Rybalka",
       "url": "/v1/channels/Rybalka.ua.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 141
     },
     {
       "id": "Rybolov.ru",
       "name": "Rybolov",
       "url": "/v1/channels/Rybolov.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 142
     },
     {
       "id": "Ryzhiy.ru",
       "name": "Ryzhiy",
       "url": "/v1/channels/Ryzhiy.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 103
     },
     {
       "id": "RZDTV.ru",
       "name": "RZD TV",
       "url": "/v1/channels/RZDTV.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 72
     },
     {
       "id": "Salyam.ru",
       "name": "Salyam",
       "url": "/v1/channels/Salyam.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 120
     },
     {
       "id": "SanktPeterburg.ru",
       "name": "Sankt-Peterburg",
       "url": "/v1/channels/SanktPeterburg.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 126
     },
     {
       "id": "Saphire.ru",
       "name": "Saphire",
       "url": "/v1/channels/Saphire.ru.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 83
     },
     {
       "id": "Sarafan.ru",
       "name": "Sarafan",
       "url": "/v1/channels/Sarafan.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 96
     },
     {
       "id": "SAT1.de",
       "name": "SAT.1",
       "url": "/v1/channels/SAT1.de.json",
       "available": true,
-      "programmeCount": 66
+      "programmeCount": 67
     },
     {
       "id": "SAT1emotions.de",
       "name": "SAT.1 emotions",
       "url": "/v1/channels/SAT1emotions.de.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 102
     },
     {
       "id": "SAT1Gold.de",
       "name": "SAT.1 Gold",
       "url": "/v1/channels/SAT1Gold.de.json",
       "available": true,
-      "programmeCount": 91
+      "programmeCount": 92
     },
     {
       "id": "SerialUHD.ru",
       "name": "Serial UHD",
       "url": "/v1/channels/SerialUHD.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 111
     },
     {
       "id": "ShantMusic.ru",
       "name": "Shant Music",
       "url": "/v1/channels/ShantMusic.ru.json",
       "available": true,
-      "programmeCount": 24
+      "programmeCount": 60
     },
     {
       "id": "ShantSerial.ru",
       "name": "Shant Serial",
       "url": "/v1/channels/ShantSerial.ru.json",
       "available": true,
-      "programmeCount": 32
+      "programmeCount": 93
     },
     {
       "id": "ShantTV.am",
       "name": "Shant TV",
       "url": "/v1/channels/ShantTV.am.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 102
     },
     {
       "id": "ShayanTV.ru",
       "name": "Shayan TV",
       "url": "/v1/channels/ShayanTV.ru.json",
       "available": true,
-      "programmeCount": 71
+      "programmeCount": 210
     },
     {
       "id": "Shokiruyushchee.ru",
       "name": "Shokiruyushchee",
       "url": "/v1/channels/Shokiruyushchee.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 43
     },
     {
       "id": "ShoppingLive.ru",
       "name": "Shopping Live",
       "url": "/v1/channels/ShoppingLive.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 72
     },
     {
       "id": "ShotTV.ru",
       "name": "Shot TV",
       "url": "/v1/channels/ShotTV.ru.json",
       "available": true,
-      "programmeCount": 74
+      "programmeCount": 215
     },
     {
       "id": "SHOWKZ.kz",
       "name": "SHOW KZ",
       "url": "/v1/channels/SHOWKZ.kz.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 51
     },
     {
       "id": "ShowTurk.tr",
@@ -2899,35 +2899,35 @@
       "name": "Sibir 24",
       "url": "/v1/channels/Sibir24.ru.json",
       "available": true,
-      "programmeCount": 66
+      "programmeCount": 195
     },
     {
       "id": "Sila.ru",
       "name": "Sila",
       "url": "/v1/channels/Sila.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 55
     },
     {
       "id": "Silk.ru",
       "name": "Silk",
       "url": "/v1/channels/Silk.ru.json",
       "available": true,
-      "programmeCount": 114
+      "programmeCount": 310
     },
     {
       "id": "SilkWay.kz",
       "name": "Silk Way",
       "url": "/v1/channels/SilkWay.kz.json",
       "available": true,
-      "programmeCount": 79
+      "programmeCount": 210
     },
     {
       "id": "Skazkizayki.ru",
       "name": "Skazki zayki",
       "url": "/v1/channels/Skazkizayki.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 52
     },
     {
       "id": "SkyCinemaSpecial.de",
@@ -2948,7 +2948,7 @@
       "name": "Sky Krimi",
       "url": "/v1/channels/SkyKrimi.de.json",
       "available": true,
-      "programmeCount": 81
+      "programmeCount": 80
     },
     {
       "id": "SkySportBundesliga1.de",
@@ -2962,175 +2962,175 @@
       "name": "Sky Sport Bundesliga 2",
       "url": "/v1/channels/SkySportBundesliga2.de.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 3
     },
     {
       "id": "SkySportBundesliga3.de",
       "name": "Sky Sport Bundesliga 3",
       "url": "/v1/channels/SkySportBundesliga3.de.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 3
     },
     {
       "id": "SkySportBundesliga4.de",
       "name": "Sky Sport Bundesliga 4",
       "url": "/v1/channels/SkySportBundesliga4.de.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 3
     },
     {
       "id": "SkySportBundesliga5.de",
       "name": "Sky Sport Bundesliga 5",
       "url": "/v1/channels/SkySportBundesliga5.de.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 3
     },
     {
       "id": "SkySportBundesliga6.de",
       "name": "Sky Sport Bundesliga 6",
       "url": "/v1/channels/SkySportBundesliga6.de.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 3
     },
     {
       "id": "SkySportTopEvent.de",
       "name": "Sky Sport Top Event",
       "url": "/v1/channels/SkySportTopEvent.de.json",
       "available": true,
-      "programmeCount": 53
+      "programmeCount": 54
     },
     {
       "id": "Smartzone.ee",
       "name": "Smartzone",
       "url": "/v1/channels/Smartzone.ee.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 147
     },
     {
       "id": "SmileTV.ru",
       "name": "Smile TV",
       "url": "/v1/channels/SmileTV.ru.json",
       "available": true,
-      "programmeCount": 160
+      "programmeCount": 460
     },
     {
       "id": "Smotrim100Detskoe.ru",
       "name": "Smotrim 100% Detskoe",
       "url": "/v1/channels/Smotrim100Detskoe.ru.json",
       "available": true,
-      "programmeCount": 18
+      "programmeCount": 69
     },
     {
       "id": "Smotrim100Fakty.ru",
       "name": "Smotrim 100% Fakty",
       "url": "/v1/channels/Smotrim100Fakty.ru.json",
       "available": true,
-      "programmeCount": 33
+      "programmeCount": 140
     },
     {
       "id": "Smotrim100Klassika.ru",
       "name": "Smotrim 100% Klassika",
       "url": "/v1/channels/Smotrim100Klassika.ru.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 38
     },
     {
       "id": "Smotrim100Lyubov.ru",
       "name": "Smotrim 100% Lyubov",
       "url": "/v1/channels/Smotrim100Lyubov.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 48
     },
     {
       "id": "Smotrim100Muzhskoe.ru",
       "name": "Smotrim 100% Muzhskoe",
       "url": "/v1/channels/Smotrim100Muzhskoe.ru.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 60
     },
     {
       "id": "Smotrim100Prazdnik.ru",
       "name": "Smotrim 100% Prazdnik",
       "url": "/v1/channels/Smotrim100Prazdnik.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 63
     },
     {
       "id": "SochiLive.ru",
       "name": "Sochi Live",
       "url": "/v1/channels/SochiLive.ru.json",
       "available": true,
-      "programmeCount": 439
+      "programmeCount": 24
     },
     {
       "id": "SolovyovLive.ru",
       "name": "Solovyov Live",
       "url": "/v1/channels/SolovyovLive.ru.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 21
     },
     {
       "id": "SonnenklarTV.de",
       "name": "Sonnenklar TV",
       "url": "/v1/channels/SonnenklarTV.de.json",
       "available": true,
-      "programmeCount": 90
+      "programmeCount": 89
     },
     {
       "id": "Sovetskiemultfilmi.ru",
       "name": "Sovetskie multfilmi",
       "url": "/v1/channels/Sovetskiemultfilmi.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 268
     },
     {
       "id": "SovetskoeKino.ru",
       "name": "Sovetskoe Kino",
       "url": "/v1/channels/SovetskoeKino.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 53
     },
     {
       "id": "Soyuz.ru",
       "name": "Soyuz",
       "url": "/v1/channels/Soyuz.ru.json",
       "available": true,
-      "programmeCount": 104
+      "programmeCount": 280
     },
     {
       "id": "Spas.ru",
       "name": "Spas",
       "url": "/v1/channels/Spas.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 98
     },
     {
       "id": "SpiegelGeschichte.de",
       "name": "Spiegel Geschichte",
       "url": "/v1/channels/SpiegelGeschichte.de.json",
       "available": true,
-      "programmeCount": 91
+      "programmeCount": 84
     },
     {
       "id": "Sport1Baltic.ua",
       "name": "Sport 1 Baltic",
       "url": "/v1/channels/Sport1Baltic.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 37
     },
     {
       "id": "Sport2Baltic.ua",
       "name": "Sport 2 Baltic",
       "url": "/v1/channels/Sport2Baltic.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 37
     },
     {
       "id": "SportdigitalFUSSBALL.de",
       "name": "Sportdigital FUSSBALL",
       "url": "/v1/channels/SportdigitalFUSSBALL.de.json",
       "available": true,
-      "programmeCount": 44
+      "programmeCount": 46
     },
     {
       "id": "SportKlub3.nl",
@@ -3151,266 +3151,266 @@
       "name": "SRF 1",
       "url": "/v1/channels/SRF1.ch.json",
       "available": true,
-      "programmeCount": 112
+      "programmeCount": 111
     },
     {
       "id": "SRFzwei.ch",
       "name": "SRF zwei",
       "url": "/v1/channels/SRFzwei.ch.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 51
     },
     {
       "id": "StarFamily.ru",
       "name": "Star Family",
       "url": "/v1/channels/StarFamily.ru.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 81
     },
     {
       "id": "StarsTV.pl",
       "name": "Stars TV",
       "url": "/v1/channels/StarsTV.pl.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 54
     },
     {
       "id": "STARTAir.ru",
       "name": "START Air",
       "url": "/v1/channels/STARTAir.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 98
     },
     {
       "id": "StartTriumf.ru",
       "name": "Start Triumf",
       "url": "/v1/channels/StartTriumf.ru.json",
       "available": true,
-      "programmeCount": 26
+      "programmeCount": 72
     },
     {
       "id": "STARTWorld.ru",
       "name": "START World",
       "url": "/v1/channels/STARTWorld.ru.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 80
     },
     {
       "id": "StingrayCMusic.ca",
       "name": "Stingray CMusic",
       "url": "/v1/channels/StingrayCMusic.ca.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 33
     },
     {
       "id": "StrashnoeHD.ru",
       "name": "Strashnoe HD",
       "url": "/v1/channels/StrashnoeHD.ru.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 48
     },
     {
       "id": "STRK.ru",
       "name": "STRK",
       "url": "/v1/channels/STRK.ru.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 54
     },
     {
       "id": "STS.ru",
       "name": "STS",
       "url": "/v1/channels/STS.ru.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 66
     },
     {
       "id": "STSInternational.ru",
       "name": "STS International",
       "url": "/v1/channels/STSInternational.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 175
     },
     {
       "id": "STSkids.ru",
       "name": "STS kids",
       "url": "/v1/channels/STSkids.ru.json",
       "available": true,
-      "programmeCount": 176
+      "programmeCount": 478
     },
     {
       "id": "STSLove.ru",
       "name": "STS Love",
       "url": "/v1/channels/STSLove.ru.json",
       "available": true,
-      "programmeCount": 72
+      "programmeCount": 199
     },
     {
       "id": "Subbota.ru",
       "name": "Subbota!",
       "url": "/v1/channels/Subbota.ru.json",
       "available": true,
-      "programmeCount": 32
+      "programmeCount": 116
     },
     {
       "id": "SuspilneSport.ua",
       "name": "Suspilne. Sport",
       "url": "/v1/channels/SuspilneSport.ua.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 72
     },
     {
       "id": "Svarozhychy.ua",
       "name": "Svarozhychy",
       "url": "/v1/channels/Svarozhychy.ua.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 18
     },
     {
       "id": "SvetloeTV.by",
       "name": "Svetloe TV",
       "url": "/v1/channels/SvetloeTV.by.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 493
     },
     {
       "id": "SvoyoTV.ru",
       "name": "Svoyo TV",
       "url": "/v1/channels/SvoyoTV.ru.json",
       "available": true,
-      "programmeCount": 48
+      "programmeCount": 149
     },
     {
       "id": "tagesschau24.de",
       "name": "tagesschau24",
       "url": "/v1/channels/tagesschau24.de.json",
       "available": true,
-      "programmeCount": 80
+      "programmeCount": 79
     },
     {
       "id": "Tamyr.ru",
       "name": "Tamyr",
       "url": "/v1/channels/Tamyr.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 241
     },
     {
       "id": "Tansuj.ru",
       "name": "Tansuj!",
       "url": "/v1/channels/Tansuj.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 84
     },
     {
       "id": "Tayna.ru",
       "name": "Tayna",
       "url": "/v1/channels/Tayna.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 87
     },
     {
       "id": "TaynyGalaktiki.ru",
       "name": "Tayny Galaktiki",
       "url": "/v1/channels/TaynyGalaktiki.ru.json",
       "available": true,
-      "programmeCount": 48
+      "programmeCount": 142
     },
     {
       "id": "Teatr.ru",
       "name": "Teatr",
       "url": "/v1/channels/Teatr.ru.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 34
     },
     {
       "id": "TELE5.de",
       "name": "TELE 5",
       "url": "/v1/channels/TELE5.de.json",
       "available": true,
-      "programmeCount": 57
+      "programmeCount": 65
     },
     {
       "id": "Telecafe.ru",
       "name": "Telecafe",
       "url": "/v1/channels/Telecafe.ru.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 82
     },
     {
       "id": "Teleputeshestviya.ru",
       "name": "Teleputeshestviya",
       "url": "/v1/channels/Teleputeshestviya.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 114
     },
     {
       "id": "TerraInkognita.ru",
       "name": "Terra Inkognita",
       "url": "/v1/channels/TerraInkognita.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 115
     },
     {
       "id": "TipTop.ru",
       "name": "TipTop",
       "url": "/v1/channels/TipTop.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 53
     },
     {
       "id": "TNT4.ru",
       "name": "TNT4",
       "url": "/v1/channels/TNT4.ru.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 133
     },
     {
       "id": "TNTSports1.uk",
       "name": "TNT Sports 1",
       "url": "/v1/channels/TNTSports1.uk.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 73
     },
     {
       "id": "TNTSports2.uk",
       "name": "TNT Sports 2",
       "url": "/v1/channels/TNTSports2.uk.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 88
     },
     {
       "id": "TNTSports3.uk",
       "name": "TNT Sports 3",
       "url": "/v1/channels/TNTSports3.uk.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 72
     },
     {
       "id": "TNTSports4.uk",
       "name": "TNT Sports 4",
       "url": "/v1/channels/TNTSports4.uk.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 79
     },
     {
       "id": "TNVPlanet.ru",
       "name": "TNV-Planet",
       "url": "/v1/channels/TNVPlanet.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 102
     },
     {
       "id": "TNVTatarstan.ru",
       "name": "TNV-Tatarstan",
       "url": "/v1/channels/TNVTatarstan.ru.json",
       "available": true,
-      "programmeCount": 42
+      "programmeCount": 118
     },
     {
       "id": "Tochkaotryva.ru",
       "name": "Tochka otryva",
       "url": "/v1/channels/Tochkaotryva.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 142
     },
     {
       "id": "TochkaTV.ru",
@@ -3424,98 +3424,98 @@
       "name": "TOGGO plus",
       "url": "/v1/channels/TOGGOplus.de.json",
       "available": true,
-      "programmeCount": 204
+      "programmeCount": 201
     },
     {
       "id": "Tolyatti24.ru",
       "name": "Tolyatti 24",
       "url": "/v1/channels/Tolyatti24.ru.json",
       "available": true,
-      "programmeCount": 64
+      "programmeCount": 187
     },
     {
       "id": "Tonus.ru",
       "name": "Tonus",
       "url": "/v1/channels/Tonus.ru.json",
       "available": true,
-      "programmeCount": 53
+      "programmeCount": 138
     },
     {
       "id": "TopSecret.ru",
       "name": "Top Secret",
       "url": "/v1/channels/TopSecret.ru.json",
       "available": true,
-      "programmeCount": 38
+      "programmeCount": 95
     },
     {
       "id": "Toshkent.uz",
       "name": "Toshkent",
       "url": "/v1/channels/Toshkent.uz.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 72
     },
     {
       "id": "TraceSportStars.fr",
       "name": "Trace Sport Stars",
       "url": "/v1/channels/TraceSportStars.fr.json",
       "available": true,
-      "programmeCount": 55
+      "programmeCount": 144
     },
     {
       "id": "TraceUrban.fr",
       "name": "Trace Urban",
       "url": "/v1/channels/TraceUrban.fr.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 22
     },
     {
       "id": "TravelPlusAdventure.ru",
       "name": "Travel+Adventure",
       "url": "/v1/channels/TravelPlusAdventure.ru.json",
       "available": true,
-      "programmeCount": 41
+      "programmeCount": 113
     },
     {
       "id": "Travelxp.in",
       "name": "Travelxp",
       "url": "/v1/channels/Travelxp.in.json",
       "available": true,
-      "programmeCount": 55
+      "programmeCount": 144
     },
     {
       "id": "TRT1.tr",
       "name": "TRT 1",
       "url": "/v1/channels/TRT1.tr.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 37
     },
     {
       "id": "TRT2.tr",
       "name": "TRT 2",
       "url": "/v1/channels/TRT2.tr.json",
-      "available": true,
-      "programmeCount": 22
+      "available": false,
+      "programmeCount": 0
     },
     {
       "id": "TRTHaber.tr",
       "name": "TRT Haber",
       "url": "/v1/channels/TRTHaber.tr.json",
       "available": true,
-      "programmeCount": 20
+      "programmeCount": 2
     },
     {
       "id": "TV21.ru",
       "name": "TV 21",
       "url": "/v1/channels/TV21.ru.json",
       "available": true,
-      "programmeCount": 14
+      "programmeCount": 37
     },
     {
       "id": "TV3Mini.lv",
       "name": "TV3 Mini",
       "url": "/v1/channels/TV3Mini.lv.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 126
     },
     {
       "id": "TV5Monde.fr",
@@ -3529,154 +3529,154 @@
       "name": "TV Berlin",
       "url": "/v1/channels/TVBerlin.de.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 19
     },
     {
       "id": "TVCentr.ru",
       "name": "TV Centr",
       "url": "/v1/channels/TVCentr.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 93
     },
     {
       "id": "TVCentrInternational.ru",
       "name": "TV Centr International",
       "url": "/v1/channels/TVCentrInternational.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 84
     },
     {
       "id": "TVExtra.ru",
       "name": "TV Extra",
       "url": "/v1/channels/TVExtra.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 66
     },
     {
       "id": "TVMChannel.ru",
       "name": "TVMChannel",
       "url": "/v1/channels/TVMChannel.ru.json",
       "available": true,
-      "programmeCount": 91
+      "programmeCount": 229
     },
     {
       "id": "TVN7.pl",
       "name": "TVN 7",
       "url": "/v1/channels/TVN7.pl.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 66
     },
     {
       "id": "TVNStyle.pl",
       "name": "TVN Style",
       "url": "/v1/channels/TVNStyle.pl.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 69
     },
     {
       "id": "TVNTurbo.pl",
       "name": "TVN Turbo",
       "url": "/v1/channels/TVNTurbo.pl.json",
       "available": true,
-      "programmeCount": 9
+      "programmeCount": 106
     },
     {
       "id": "TvoeTV.ru",
       "name": "Tvoe TV",
       "url": "/v1/channels/TvoeTV.ru.json",
       "available": true,
-      "programmeCount": 5
+      "programmeCount": 60
     },
     {
       "id": "TvoyeTVYumor.ru",
       "name": "Tvoye TV Yumor",
       "url": "/v1/channels/TvoyeTVYumor.ru.json",
       "available": true,
-      "programmeCount": 12
+      "programmeCount": 78
     },
     {
       "id": "TVRain.nl",
       "name": "TV Rain",
       "url": "/v1/channels/TVRain.nl.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 133
     },
     {
       "id": "U.ru",
       "name": "U",
       "url": "/v1/channels/U.ru.json",
       "available": true,
-      "programmeCount": 27
+      "programmeCount": 68
     },
     {
       "id": "UltraHDCinema.ru",
       "name": "Ultra HD Cinema",
       "url": "/v1/channels/UltraHDCinema.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 44
     },
     {
       "id": "Unikum.ru",
       "name": "Unikum",
       "url": "/v1/channels/Unikum.ru.json",
       "available": true,
-      "programmeCount": 131
+      "programmeCount": 110
     },
     {
       "id": "UnknownRussia.ru",
       "name": "Unknown Russia",
       "url": "/v1/channels/UnknownRussia.ru.json",
       "available": true,
-      "programmeCount": 37
+      "programmeCount": 110
     },
     {
       "id": "Usadba.ru",
       "name": "Usadba",
       "url": "/v1/channels/Usadba.ru.json",
       "available": true,
-      "programmeCount": 67
+      "programmeCount": 192
     },
     {
       "id": "Uspeh.ru",
       "name": "Uspeh",
       "url": "/v1/channels/Uspeh.ru.json",
       "available": true,
-      "programmeCount": 63
+      "programmeCount": 148
     },
     {
       "id": "Vgostyakhuskazki.ru",
       "name": "V gostyakh u skazki",
       "url": "/v1/channels/Vgostyakhuskazki.ru.json",
       "available": true,
-      "programmeCount": 156
+      "programmeCount": 373
     },
     {
       "id": "VHSka.ru",
       "name": "VHS-ka",
       "url": "/v1/channels/VHSka.ru.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 43
     },
     {
       "id": "ViasatKino.ua",
       "name": "Viasat Kino",
       "url": "/v1/channels/ViasatKino.ua.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 37
     },
     {
       "id": "ViasatKinoAction.ua",
       "name": "Viasat Kino Action",
       "url": "/v1/channels/ViasatKinoAction.ua.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 41
     },
     {
       "id": "ViasatKinoComedy.ua",
       "name": "Viasat Kino Comedy",
       "url": "/v1/channels/ViasatKinoComedy.ua.json",
       "available": true,
-      "programmeCount": 3
+      "programmeCount": 37
     },
     {
       "id": "ViasatKinoMegahit.ua",
@@ -3690,56 +3690,56 @@
       "name": "viju Explore",
       "url": "/v1/channels/vijuExplore.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 90
     },
     {
       "id": "vijuHistory.ru",
       "name": "viju History",
       "url": "/v1/channels/vijuHistory.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 81
     },
     {
       "id": "vijuNature.ru",
       "name": "viju Nature",
       "url": "/v1/channels/vijuNature.ru.json",
       "available": true,
-      "programmeCount": 34
+      "programmeCount": 91
     },
     {
       "id": "vijuPlusComedy.ru",
       "name": "viju+ Comedy",
       "url": "/v1/channels/vijuPlusComedy.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 46
     },
     {
       "id": "vijuPlusMegahit.ru",
       "name": "viju+ Megahit",
       "url": "/v1/channels/vijuPlusMegahit.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 41
     },
     {
       "id": "vijuPlusPlanet.ru",
       "name": "viju+ Planet",
       "url": "/v1/channels/vijuPlusPlanet.ru.json",
       "available": true,
-      "programmeCount": 38
+      "programmeCount": 101
     },
     {
       "id": "vijuPlusPremiere.ru",
       "name": "viju+ Premiere",
       "url": "/v1/channels/vijuPlusPremiere.ru.json",
       "available": true,
-      "programmeCount": 16
+      "programmeCount": 43
     },
     {
       "id": "vijuPlusSerial.ru",
       "name": "viju+ Serial",
       "url": "/v1/channels/vijuPlusSerial.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 73
     },
     {
       "id": "vijuPlusSport.ru",
@@ -3753,91 +3753,91 @@
       "name": "viju TV1000",
       "url": "/v1/channels/vijuTV1000.ru.json",
       "available": true,
-      "programmeCount": 17
+      "programmeCount": 49
     },
     {
       "id": "vijuTV1000action.ru",
       "name": "viju TV1000 action",
       "url": "/v1/channels/vijuTV1000action.ru.json",
       "available": true,
-      "programmeCount": 15
+      "programmeCount": 43
     },
     {
       "id": "vijuTV1000russkoe.ru",
       "name": "viju TV1000 russkoe",
       "url": "/v1/channels/vijuTV1000russkoe.ru.json",
       "available": true,
-      "programmeCount": 18
+      "programmeCount": 50
     },
     {
       "id": "VIVARussia.ru",
       "name": "VIVA Russia",
       "url": "/v1/channels/VIVARussia.ru.json",
       "available": true,
-      "programmeCount": 19
+      "programmeCount": 49
     },
     {
       "id": "VividRedHD.us",
       "name": "Vivid Red HD",
       "url": "/v1/channels/VividRedHD.us.json",
       "available": true,
-      "programmeCount": 8
+      "programmeCount": 81
     },
     {
       "id": "VmesteRF.ru",
       "name": "Vmeste-RF",
       "url": "/v1/channels/VmesteRF.ru.json",
       "available": true,
-      "programmeCount": 86
+      "programmeCount": 224
     },
     {
       "id": "Vmirezhivotnykh.ru",
       "name": "V mire zhivotnykh",
       "url": "/v1/channels/Vmirezhivotnykh.ru.json",
       "available": true,
-      "programmeCount": 47
+      "programmeCount": 120
     },
     {
       "id": "Volga.ru",
       "name": "Volga",
       "url": "/v1/channels/Volga.ru.json",
       "available": true,
-      "programmeCount": 31
+      "programmeCount": 79
     },
     {
       "id": "VoprosyiOtvety.ru",
       "name": "Voprosy i Otvety",
       "url": "/v1/channels/VoprosyiOtvety.ru.json",
       "available": true,
-      "programmeCount": 39
+      "programmeCount": 98
     },
     {
       "id": "Voxup.de",
       "name": "Voxup",
       "url": "/v1/channels/Voxup.de.json",
       "available": true,
-      "programmeCount": 77
+      "programmeCount": 74
     },
     {
       "id": "Vremya.ru",
       "name": "Vremya",
       "url": "/v1/channels/Vremya.ru.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 42
     },
     {
       "id": "VSportUltraHD.se",
       "name": "V Sport Ultra HD",
       "url": "/v1/channels/VSportUltraHD.se.json",
       "available": true,
-      "programmeCount": 1
+      "programmeCount": 10
     },
     {
       "id": "WarnerTVComedy.de",
       "name": "Warner TV Comedy",
       "url": "/v1/channels/WarnerTVComedy.de.json",
       "available": true,
-      "programmeCount": 185
+      "programmeCount": 188
     },
     {
       "id": "WarnerTVFilm.de",
@@ -3851,14 +3851,14 @@
       "name": "Warner TV Serie",
       "url": "/v1/channels/WarnerTVSerie.de.json",
       "available": true,
-      "programmeCount": 94
+      "programmeCount": 96
     },
     {
       "id": "WELT.de",
       "name": "WELT",
       "url": "/v1/channels/WELT.de.json",
       "available": true,
-      "programmeCount": 217
+      "programmeCount": 221
     },
     {
       "id": "YaPervyy.ru",
@@ -3872,7 +3872,7 @@
       "name": "YASNAe TV",
       "url": "/v1/channels/YASNAeTV.by.json",
       "available": true,
-      "programmeCount": 4
+      "programmeCount": 159
     },
     {
       "id": "YesDocu.il",
@@ -3886,28 +3886,28 @@
       "name": "Yuvelirochka",
       "url": "/v1/channels/Yuvelirochka.ru.json",
       "available": true,
-      "programmeCount": 28
+      "programmeCount": 72
     },
     {
       "id": "ZagorodnayaZhizn.ru",
       "name": "Zagorodnaya Zhizn",
       "url": "/v1/channels/ZagorodnayaZhizn.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 169
     },
     {
       "id": "Zagorodnyy.ru",
       "name": "Zagorodnyy",
       "url": "/v1/channels/Zagorodnyy.ru.json",
       "available": true,
-      "programmeCount": 56
+      "programmeCount": 146
     },
     {
       "id": "Zalsuda.ru",
       "name": "Zal suda",
       "url": "/v1/channels/Zalsuda.ru.json",
       "available": true,
-      "programmeCount": 7
+      "programmeCount": 102
     },
     {
       "id": "ZChannel.tw",
@@ -3921,105 +3921,105 @@
       "name": "ZDF",
       "url": "/v1/channels/ZDF.de.json",
       "available": true,
-      "programmeCount": 79
+      "programmeCount": 83
     },
     {
       "id": "ZDFinfo.de",
       "name": "ZDFinfo",
       "url": "/v1/channels/ZDFinfo.de.json",
       "available": true,
-      "programmeCount": 98
+      "programmeCount": 101
     },
     {
       "id": "ZDFneo.de",
       "name": "ZDFneo",
       "url": "/v1/channels/ZDFneo.de.json",
       "available": true,
-      "programmeCount": 98
+      "programmeCount": 100
     },
     {
       "id": "ZdorovoeTV.ru",
       "name": "Zdorovoe TV",
       "url": "/v1/channels/ZdorovoeTV.ru.json",
       "available": true,
-      "programmeCount": 73
+      "programmeCount": 193
     },
     {
       "id": "Zhara.ru",
       "name": "Zhara",
       "url": "/v1/channels/Zhara.ru.json",
       "available": true,
-      "programmeCount": 23
+      "programmeCount": 61
     },
     {
       "id": "ZharPtitsa.ru",
       "name": "Zhar Ptitsa",
       "url": "/v1/channels/ZharPtitsa.ru.json",
       "available": true,
-      "programmeCount": 22
+      "programmeCount": 72
     },
     {
       "id": "ZhivayaPlaneta.ru",
       "name": "Zhivaya Planeta",
       "url": "/v1/channels/ZhivayaPlaneta.ru.json",
       "available": true,
-      "programmeCount": 48
+      "programmeCount": 121
     },
     {
       "id": "Zhivayapriroda.ru",
       "name": "Zhivaya priroda",
       "url": "/v1/channels/Zhivayapriroda.ru.json",
       "available": true,
-      "programmeCount": 540
+      "programmeCount": 58
     },
     {
       "id": "Zhivi.ru",
       "name": "Zhivi!",
       "url": "/v1/channels/Zhivi.ru.json",
       "available": true,
-      "programmeCount": 60
+      "programmeCount": 165
     },
     {
       "id": "ZnanieTV.ru",
       "name": "Znanie.TV",
       "url": "/v1/channels/ZnanieTV.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 78
     },
     {
       "id": "Zoopark.ru",
       "name": "Zoopark",
       "url": "/v1/channels/Zoopark.ru.json",
       "available": true,
-      "programmeCount": 64
+      "programmeCount": 164
     },
     {
       "id": "ZooTV.ru",
       "name": "Zoo TV",
       "url": "/v1/channels/ZooTV.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 120
     },
     {
       "id": "Zvezda.ru",
       "name": "Zvezda",
       "url": "/v1/channels/Zvezda.ru.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 99
     },
     {
       "id": "ZvezdaPlus.ru",
       "name": "Zvezda Plus",
       "url": "/v1/channels/ZvezdaPlus.ru.json",
       "available": true,
-      "programmeCount": 36
+      "programmeCount": 101
     },
     {
       "id": "Zvyazda.by",
       "name": "Zvyazda",
       "url": "/v1/channels/Zvyazda.by.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 99
     }
   ]
 }
