@@ -8,421 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
+  "generatedAt": "2026-07-01T04:55:24.567729+00:00",
   "available": true,
-  "programmeCount": 163,
+  "programmeCount": 156,
   "days": [
-    {
-      "date": "2026-06-30",
-      "programs": [
-        {
-          "start": "2026-06-30T00:15:00+03:00",
-          "stop": "2026-06-30T00:55:00+03:00",
-          "title": "The Tonight Show Starring Jimmy Fallon - Nick Jonas / Amy Sedaris / Violet Grohl.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T00:55:00+03:00",
-          "stop": "2026-06-30T01:15:00+03:00",
-          "title": "Bob's Burgers. S: 13 / Ep: 7.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T01:15:00+03:00",
-          "stop": "2026-06-30T01:35:00+03:00",
-          "title": "Bob's Burgers. S: 13 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T01:35:00+03:00",
-          "stop": "2026-06-30T02:00:00+03:00",
-          "title": "American Dad! S: 19 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T02:00:00+03:00",
-          "stop": "2026-06-30T02:20:00+03:00",
-          "title": "American Dad! S: 19 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T02:20:00+03:00",
-          "stop": "2026-06-30T02:40:00+03:00",
-          "title": "Tokyo Revengers. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T02:40:00+03:00",
-          "stop": "2026-06-30T03:05:00+03:00",
-          "title": "Tokyo Revengers. S: 1 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T03:05:00+03:00",
-          "stop": "2026-06-30T03:25:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 7.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T03:25:00+03:00",
-          "stop": "2026-06-30T03:45:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T03:45:00+03:00",
-          "stop": "2026-06-30T04:05:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T04:05:00+03:00",
-          "stop": "2026-06-30T04:25:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T04:25:00+03:00",
-          "stop": "2026-06-30T04:45:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T04:45:00+03:00",
-          "stop": "2026-06-30T05:05:00+03:00",
-          "title": "Community. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T05:05:00+03:00",
-          "stop": "2026-06-30T05:25:00+03:00",
-          "title": "Community. S: 1 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T05:25:00+03:00",
-          "stop": "2026-06-30T05:50:00+03:00",
-          "title": "Community. S: 1 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T05:50:00+03:00",
-          "stop": "2026-06-30T06:10:00+03:00",
-          "title": "American Dad! S: 19 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T06:10:00+03:00",
-          "stop": "2026-06-30T06:30:00+03:00",
-          "title": "American Dad! S: 19 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T06:30:00+03:00",
-          "stop": "2026-06-30T06:50:00+03:00",
-          "title": "Bob's Burgers. S: 13 / Ep: 7.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T06:50:00+03:00",
-          "stop": "2026-06-30T07:10:00+03:00",
-          "title": "Bob's Burgers. S: 13 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T07:10:00+03:00",
-          "stop": "2026-06-30T07:30:00+03:00",
-          "title": "Bob's Burgers. S: 1 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T07:30:00+03:00",
-          "stop": "2026-06-30T07:50:00+03:00",
-          "title": "Bob's Burgers. S: 1 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T07:50:00+03:00",
-          "stop": "2026-06-30T08:10:00+03:00",
-          "title": "American Dad. S: 13 / Ep: 22.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T08:10:00+03:00",
-          "stop": "2026-06-30T09:05:00+03:00",
-          "title": "talk talk talk.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T09:05:00+03:00",
-          "stop": "2026-06-30T09:25:00+03:00",
-          "title": "Switch reloaded.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T09:25:00+03:00",
-          "stop": "2026-06-30T09:50:00+03:00",
-          "title": "Switch reloaded.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T09:50:00+03:00",
-          "stop": "2026-06-30T10:15:00+03:00",
-          "title": "Switch reloaded.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T10:15:00+03:00",
-          "stop": "2026-06-30T10:35:00+03:00",
-          "title": "Switch reloaded.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T10:35:00+03:00",
-          "stop": "2026-06-30T11:20:00+03:00",
-          "title": "Saturday Night Live - Amy Schumer / Steve Lacy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T11:20:00+03:00",
-          "stop": "2026-06-30T11:40:00+03:00",
-          "title": "Bless This Mess. S: 2 / Ep: 19.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T11:40:00+03:00",
-          "stop": "2026-06-30T12:00:00+03:00",
-          "title": "Bless This Mess. S: 2 / Ep: 20.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T12:00:00+03:00",
-          "stop": "2026-06-30T12:25:00+03:00",
-          "title": "Single Parents. S: 2 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T12:25:00+03:00",
-          "stop": "2026-06-30T12:45:00+03:00",
-          "title": "Single Parents. S: 2 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T12:45:00+03:00",
-          "stop": "2026-06-30T13:05:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T13:05:00+03:00",
-          "stop": "2026-06-30T13:25:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 12 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T13:25:00+03:00",
-          "stop": "2026-06-30T13:45:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T13:45:00+03:00",
-          "stop": "2026-06-30T14:10:00+03:00",
-          "title": "Community. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T14:10:00+03:00",
-          "stop": "2026-06-30T14:30:00+03:00",
-          "title": "Community. S: 1 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T14:30:00+03:00",
-          "stop": "2026-06-30T14:50:00+03:00",
-          "title": "Community. S: 1 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T14:50:00+03:00",
-          "stop": "2026-06-30T15:15:00+03:00",
-          "title": "Bob's Burgers. S: 1 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T15:15:00+03:00",
-          "stop": "2026-06-30T15:35:00+03:00",
-          "title": "Bob's Burgers. S: 1 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T15:35:00+03:00",
-          "stop": "2026-06-30T15:55:00+03:00",
-          "title": "American Dad. S: 13 / Ep: 20.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T15:55:00+03:00",
-          "stop": "2026-06-30T16:20:00+03:00",
-          "title": "American Dad. S: 13 / Ep: 21.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T16:20:00+03:00",
-          "stop": "2026-06-30T16:40:00+03:00",
-          "title": "American Dad. S: 13 / Ep: 22.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T16:40:00+03:00",
-          "stop": "2026-06-30T17:00:00+03:00",
-          "title": "American Dad. S: 14 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T17:00:00+03:00",
-          "stop": "2026-06-30T17:20:00+03:00",
-          "title": "American Dad. S: 14 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T17:20:00+03:00",
-          "stop": "2026-06-30T17:45:00+03:00",
-          "title": "Bob's Burgers. S: 1 / Ep: 13.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T17:45:00+03:00",
-          "stop": "2026-06-30T18:05:00+03:00",
-          "title": "Bob's Burgers. S: 2 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T18:05:00+03:00",
-          "stop": "2026-06-30T18:25:00+03:00",
-          "title": "American Dad. S: 14 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T18:25:00+03:00",
-          "stop": "2026-06-30T18:45:00+03:00",
-          "title": "American Dad. S: 14 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T18:45:00+03:00",
-          "stop": "2026-06-30T19:10:00+03:00",
-          "title": "American Dad. S: 14 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T19:10:00+03:00",
-          "stop": "2026-06-30T19:30:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T19:30:00+03:00",
-          "stop": "2026-06-30T19:50:00+03:00",
-          "title": "It's Always Sunny In Philadelphia. S: 13 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T19:50:00+03:00",
-          "stop": "2026-06-30T20:10:00+03:00",
-          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T20:10:00+03:00",
-          "stop": "2026-06-30T20:30:00+03:00",
-          "title": "Community. S: 1 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T20:30:00+03:00",
-          "stop": "2026-06-30T20:50:00+03:00",
-          "title": "Community. S: 1 / Ep: 13.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T20:50:00+03:00",
-          "stop": "2026-06-30T21:15:00+03:00",
-          "title": "Community. S: 1 / Ep: 14.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T21:15:00+03:00",
-          "stop": "2026-06-30T22:50:00+03:00",
-          "title": "Im Rausch der Sterne.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T22:50:00+03:00",
-          "stop": "2026-07-01T00:25:00+03:00",
-          "title": "Chaos auf der Feuerwache.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-01",
       "programs": [
@@ -1163,6 +752,368 @@
           "start": "2026-07-02T23:45:00+03:00",
           "stop": "2026-07-03T00:30:00+03:00",
           "title": "The Head. S: 2 / Ep: 5.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "programs": [
+        {
+          "start": "2026-07-03T00:30:00+03:00",
+          "stop": "2026-07-03T01:05:00+03:00",
+          "title": "The Tonight Show Starring Jimmy Fallon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T01:05:00+03:00",
+          "stop": "2026-07-03T01:50:00+03:00",
+          "title": "Saturday Night Live - Jonathan Majors / Taylor Swift.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T01:50:00+03:00",
+          "stop": "2026-07-03T02:45:00+03:00",
+          "title": "The Good Lord Bird. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T02:45:00+03:00",
+          "stop": "2026-07-03T03:30:00+03:00",
+          "title": "The Sentinels. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T03:30:00+03:00",
+          "stop": "2026-07-03T04:20:00+03:00",
+          "title": "Tokyo Vice. S: 2 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T04:20:00+03:00",
+          "stop": "2026-07-03T05:05:00+03:00",
+          "title": "The Head. S: 2 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T05:05:00+03:00",
+          "stop": "2026-07-03T05:20:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T05:20:00+03:00",
+          "stop": "2026-07-03T05:40:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T05:40:00+03:00",
+          "stop": "2026-07-03T06:00:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T06:00:00+03:00",
+          "stop": "2026-07-03T06:20:00+03:00",
+          "title": "Community. S: 1 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T06:20:00+03:00",
+          "stop": "2026-07-03T06:40:00+03:00",
+          "title": "Community. S: 1 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T06:40:00+03:00",
+          "stop": "2026-07-03T07:00:00+03:00",
+          "title": "Community. S: 1 / Ep: 20.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T07:00:00+03:00",
+          "stop": "2026-07-03T07:20:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T07:20:00+03:00",
+          "stop": "2026-07-03T07:45:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T07:45:00+03:00",
+          "stop": "2026-07-03T08:00:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T08:00:00+03:00",
+          "stop": "2026-07-03T08:50:00+03:00",
+          "title": "talk talk talk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T08:50:00+03:00",
+          "stop": "2026-07-03T09:15:00+03:00",
+          "title": "Switch reloaded.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T09:15:00+03:00",
+          "stop": "2026-07-03T09:40:00+03:00",
+          "title": "Switch reloaded.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T09:40:00+03:00",
+          "stop": "2026-07-03T10:05:00+03:00",
+          "title": "Switch reloaded.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T10:05:00+03:00",
+          "stop": "2026-07-03T10:25:00+03:00",
+          "title": "Switch reloaded.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T10:25:00+03:00",
+          "stop": "2026-07-03T11:10:00+03:00",
+          "title": "Saturday Night Live - Jonathan Majors / Taylor Swift.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T11:10:00+03:00",
+          "stop": "2026-07-03T11:30:00+03:00",
+          "title": "Single Parents. S: 2 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T11:30:00+03:00",
+          "stop": "2026-07-03T11:50:00+03:00",
+          "title": "Single Parents. S: 2 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T11:50:00+03:00",
+          "stop": "2026-07-03T12:15:00+03:00",
+          "title": "Single Parents. S: 2 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T12:15:00+03:00",
+          "stop": "2026-07-03T12:35:00+03:00",
+          "title": "Single Parents. S: 2 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T12:35:00+03:00",
+          "stop": "2026-07-03T12:55:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T12:55:00+03:00",
+          "stop": "2026-07-03T13:20:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T13:20:00+03:00",
+          "stop": "2026-07-03T13:40:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T13:40:00+03:00",
+          "stop": "2026-07-03T14:00:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T14:00:00+03:00",
+          "stop": "2026-07-03T14:20:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 11.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T14:20:00+03:00",
+          "stop": "2026-07-03T14:45:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T14:45:00+03:00",
+          "stop": "2026-07-03T15:05:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T15:05:00+03:00",
+          "stop": "2026-07-03T15:25:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T15:25:00+03:00",
+          "stop": "2026-07-03T15:45:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T15:45:00+03:00",
+          "stop": "2026-07-03T16:10:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 13 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:10:00+03:00",
+          "stop": "2026-07-03T16:30:00+03:00",
+          "title": "Community. S: 1 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:30:00+03:00",
+          "stop": "2026-07-03T16:50:00+03:00",
+          "title": "Community. S: 1 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:50:00+03:00",
+          "stop": "2026-07-03T17:10:00+03:00",
+          "title": "Community. S: 1 / Ep: 20.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T17:10:00+03:00",
+          "stop": "2026-07-03T17:35:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 12.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T17:35:00+03:00",
+          "stop": "2026-07-03T17:55:00+03:00",
+          "title": "American Dad. S: 14 / Ep: 13.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T17:55:00+03:00",
+          "stop": "2026-07-03T18:15:00+03:00",
+          "title": "American Dad! S: 14 / Ep: 14.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T18:15:00+03:00",
+          "stop": "2026-07-03T18:35:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T18:35:00+03:00",
+          "stop": "2026-07-03T19:00:00+03:00",
+          "title": "Chaos City. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T19:00:00+03:00",
+          "stop": "2026-07-03T19:25:00+03:00",
+          "title": "It's Always Sunny in Philadelphia. S: 14 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T19:25:00+03:00",
+          "stop": "2026-07-03T19:45:00+03:00",
+          "title": "It's Always Sunny In Philadelphia. S: 14 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T19:45:00+03:00",
+          "stop": "2026-07-03T20:10:00+03:00",
+          "title": "It's Always Sunny In Philadelphia. S: 14 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T20:10:00+03:00",
+          "stop": "2026-07-03T20:30:00+03:00",
+          "title": "Community. S: 1 / Ep: 21.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T20:30:00+03:00",
+          "stop": "2026-07-03T20:50:00+03:00",
+          "title": "Community. S: 1 / Ep: 22.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T20:50:00+03:00",
+          "stop": "2026-07-03T21:15:00+03:00",
+          "title": "Community. S: 1 / Ep: 23.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T21:15:00+03:00",
+          "stop": "2026-07-03T23:00:00+03:00",
+          "title": "V/H/S/94.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T23:00:00+03:00",
+          "stop": "2026-07-04T00:30:00+03:00",
+          "title": "The Editor.",
           "description": "L",
           "category": null
         }

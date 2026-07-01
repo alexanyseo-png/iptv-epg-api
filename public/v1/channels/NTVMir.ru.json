@@ -8,162 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-06-30T04:35:36.419402+00:00",
+  "generatedAt": "2026-07-01T04:55:24.567729+00:00",
   "available": true,
-  "programmeCount": 64,
+  "programmeCount": 67,
   "days": [
-    {
-      "date": "2026-06-30",
-      "programs": [
-        {
-          "start": "2026-06-30T00:05:00+03:00",
-          "stop": "2026-06-30T00:25:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T00:25:00+03:00",
-          "stop": "2026-06-30T00:55:00+03:00",
-          "title": "Ч.T.Д.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T00:55:00+03:00",
-          "stop": "2026-06-30T04:30:00+03:00",
-          "title": "Пропавший без вести.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T04:30:00+03:00",
-          "stop": "2026-06-30T06:40:00+03:00",
-          "title": "Лесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T06:40:00+03:00",
-          "stop": "2026-06-30T08:00:00+03:00",
-          "title": "Утро. Самое лучшее.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T08:00:00+03:00",
-          "stop": "2026-06-30T08:25:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T08:25:00+03:00",
-          "stop": "2026-06-30T10:00:00+03:00",
-          "title": "Лесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T10:00:00+03:00",
-          "stop": "2026-06-30T10:40:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T10:40:00+03:00",
-          "stop": "2026-06-30T11:26:00+03:00",
-          "title": "Лесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T11:26:00+03:00",
-          "stop": "2026-06-30T12:13:00+03:00",
-          "title": "Лесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T12:13:00+03:00",
-          "stop": "2026-06-30T13:00:00+03:00",
-          "title": "Лесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T13:00:00+03:00",
-          "stop": "2026-06-30T13:25:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T13:25:00+03:00",
-          "stop": "2026-06-30T14:00:00+03:00",
-          "title": "ЧП.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T14:00:00+03:00",
-          "stop": "2026-06-30T16:00:00+03:00",
-          "title": "БиМ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T16:00:00+03:00",
-          "stop": "2026-06-30T16:50:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T16:50:00+03:00",
-          "stop": "2026-06-30T19:00:00+03:00",
-          "title": "ДНК.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T19:00:00+03:00",
-          "stop": "2026-06-30T20:00:00+03:00",
-          "title": "Сегодня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T20:00:00+03:00",
-          "stop": "2026-06-30T21:00:00+03:00",
-          "title": "Леший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T21:00:00+03:00",
-          "stop": "2026-06-30T22:00:00+03:00",
-          "title": "Леший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T22:00:00+03:00",
-          "stop": "2026-06-30T23:02:00+03:00",
-          "title": "Балабол.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-06-30T23:02:00+03:00",
-          "stop": "2026-07-01T00:05:00+03:00",
-          "title": "Балабол.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-01",
       "programs": [
@@ -470,6 +318,179 @@
           "start": "2026-07-02T23:02:00+03:00",
           "stop": "2026-07-03T00:05:00+03:00",
           "title": "Балабол.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "programs": [
+        {
+          "start": "2026-07-03T00:05:00+03:00",
+          "stop": "2026-07-03T00:20:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T00:20:00+03:00",
+          "stop": "2026-07-03T01:18:00+03:00",
+          "title": "Пропавший без вести. Второе дыхание.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T01:18:00+03:00",
+          "stop": "2026-07-03T02:17:00+03:00",
+          "title": "Пропавший без вести. Второе дыхание.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T02:17:00+03:00",
+          "stop": "2026-07-03T03:16:00+03:00",
+          "title": "Пропавший без вести. Второе дыхание.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T03:16:00+03:00",
+          "stop": "2026-07-03T04:15:00+03:00",
+          "title": "Пропавший без вести. Второе дыхание.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T04:15:00+03:00",
+          "stop": "2026-07-03T04:50:00+03:00",
+          "title": "Инфощит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T04:50:00+03:00",
+          "stop": "2026-07-03T06:40:00+03:00",
+          "title": "Лесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T06:40:00+03:00",
+          "stop": "2026-07-03T08:00:00+03:00",
+          "title": "Утро. Самое лучшее.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T08:00:00+03:00",
+          "stop": "2026-07-03T08:25:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T08:25:00+03:00",
+          "stop": "2026-07-03T10:00:00+03:00",
+          "title": "Лесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T10:00:00+03:00",
+          "stop": "2026-07-03T10:40:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T10:40:00+03:00",
+          "stop": "2026-07-03T11:26:00+03:00",
+          "title": "Лесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T11:26:00+03:00",
+          "stop": "2026-07-03T12:13:00+03:00",
+          "title": "Лесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T12:13:00+03:00",
+          "stop": "2026-07-03T13:00:00+03:00",
+          "title": "Лесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T13:00:00+03:00",
+          "stop": "2026-07-03T13:25:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T13:25:00+03:00",
+          "stop": "2026-07-03T14:00:00+03:00",
+          "title": "ЧП.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T14:00:00+03:00",
+          "stop": "2026-07-03T16:00:00+03:00",
+          "title": "БиМ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:00:00+03:00",
+          "stop": "2026-07-03T16:50:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:50:00+03:00",
+          "stop": "2026-07-03T18:00:00+03:00",
+          "title": "ДНК.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T18:00:00+03:00",
+          "stop": "2026-07-03T19:00:00+03:00",
+          "title": "Жди меня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T19:00:00+03:00",
+          "stop": "2026-07-03T20:00:00+03:00",
+          "title": "Сегодня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T20:00:00+03:00",
+          "stop": "2026-07-03T21:00:00+03:00",
+          "title": "Леший.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T21:00:00+03:00",
+          "stop": "2026-07-03T22:00:00+03:00",
+          "title": "Леший.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T22:00:00+03:00",
+          "stop": "2026-07-04T00:05:00+03:00",
+          "title": "Балабол 8.",
           "description": "L",
           "category": null
         }
