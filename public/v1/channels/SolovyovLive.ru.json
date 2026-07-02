@@ -8,92 +8,244 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-01T04:55:24.567729+00:00",
+  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-07-01",
-      "programs": [
-        {
-          "start": "2026-07-01T00:00:00+03:00",
-          "stop": "2026-07-01T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T05:00:00+03:00",
-          "stop": "2026-07-01T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T07:00:00+03:00",
-          "stop": "2026-07-01T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T11:00:00+03:00",
-          "stop": "2026-07-01T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T14:00:00+03:00",
-          "stop": "2026-07-01T15:00:00+03:00",
-          "title": "Тема с Алексеем Бобровским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T15:00:00+03:00",
-          "stop": "2026-07-01T18:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T18:00:00+03:00",
-          "stop": "2026-07-01T21:00:00+03:00",
-          "title": "Поле Куликова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T21:00:00+03:00",
-          "stop": "2026-07-01T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T22:00:00+03:00",
-          "stop": "2026-07-01T23:00:00+03:00",
-          "title": "Экономика по-русски",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T23:00:00+03:00",
-          "stop": "2026-07-02T00:00:00+03:00",
-          "title": "Псиоп",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-02",
       "programs": [
         {
           "start": "2026-07-02T00:00:00+03:00",
           "stop": "2026-07-02T01:00:00+03:00",
+          "title": "Вечер Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T01:00:00+03:00",
+          "stop": "2026-07-02T05:00:00+03:00",
           "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T05:00:00+03:00",
+          "stop": "2026-07-02T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T07:00:00+03:00",
+          "stop": "2026-07-02T11:00:00+03:00",
+          "title": "Полный контакт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T11:00:00+03:00",
+          "stop": "2026-07-02T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T14:00:00+03:00",
+          "stop": "2026-07-02T16:00:00+03:00",
+          "title": "Подробнее с Александром Топориным",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T16:00:00+03:00",
+          "stop": "2026-07-02T19:00:00+03:00",
+          "title": "Лабиринт Карнаухова",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T19:00:00+03:00",
+          "stop": "2026-07-02T21:00:00+03:00",
+          "title": "Мардан Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T21:00:00+03:00",
+          "stop": "2026-07-02T22:00:00+03:00",
+          "title": "Какая боль",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T22:00:00+03:00",
+          "stop": "2026-07-02T23:00:00+03:00",
+          "title": "Ньюсрум с Александром Валеевым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-02T23:00:00+03:00",
+          "stop": "2026-07-03T00:00:00+03:00",
+          "title": "Бог Есть!",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-03",
+      "programs": [
+        {
+          "start": "2026-07-03T00:00:00+03:00",
+          "stop": "2026-07-03T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T05:00:00+03:00",
+          "stop": "2026-07-03T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T07:00:00+03:00",
+          "stop": "2026-07-03T11:00:00+03:00",
+          "title": "Формула смысла",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T11:00:00+03:00",
+          "stop": "2026-07-03T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T14:00:00+03:00",
+          "stop": "2026-07-03T16:00:00+03:00",
+          "title": "АК-81",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T16:00:00+03:00",
+          "stop": "2026-07-03T19:00:00+03:00",
+          "title": "Лабиринт Карнаухова",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T19:00:00+03:00",
+          "stop": "2026-07-03T21:00:00+03:00",
+          "title": "Мардан Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T21:00:00+03:00",
+          "stop": "2026-07-03T22:00:00+03:00",
+          "title": "Какая боль",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T22:00:00+03:00",
+          "stop": "2026-07-03T23:00:00+03:00",
+          "title": "Ньюсрум с Александром Валеевым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-03T23:00:00+03:00",
+          "stop": "2026-07-04T05:00:00+03:00",
+          "title": "Диванный штаб",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "programs": [
+        {
+          "start": "2026-07-04T05:00:00+03:00",
+          "stop": "2026-07-04T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T07:00:00+03:00",
+          "stop": "2026-07-04T11:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T11:00:00+03:00",
+          "stop": "2026-07-04T11:30:00+03:00",
+          "title": "Большая рыба с Гией Саралидзе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T11:30:00+03:00",
+          "stop": "2026-07-04T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T13:00:00+03:00",
+          "stop": "2026-07-04T14:00:00+03:00",
+          "title": "Рассказы из русской истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T14:00:00+03:00",
+          "stop": "2026-07-04T17:00:00+03:00",
+          "title": "Подробнее с Маратом Булатовым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T17:00:00+03:00",
+          "stop": "2026-07-04T17:30:00+03:00",
+          "title": "Деньги не пахнут",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T17:30:00+03:00",
+          "stop": "2026-07-04T18:00:00+03:00",
+          "title": "Главный вопрос",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T18:00:00+03:00",
+          "stop": "2026-07-04T20:00:00+03:00",
+          "title": "Между народами с Аббасом Джумой",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T20:00:00+03:00",
+          "stop": "2026-07-04T23:00:00+03:00",
+          "title": "Мардан Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T23:00:00+03:00",
+          "stop": "2026-07-05T05:00:00+03:00",
+          "title": "СоловьевLive лучшее",
           "description": "L",
           "category": null
         }

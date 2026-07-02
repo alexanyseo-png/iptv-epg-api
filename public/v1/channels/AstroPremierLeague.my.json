@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-01T04:55:24.567729+00:00",
+  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
   "available": true,
-  "programmeCount": 45,
+  "programmeCount": 46,
   "days": [
-    {
-      "date": "2026-07-01",
-      "programs": [
-        {
-          "start": "2026-07-01T01:00:00+03:00",
-          "stop": "2026-07-01T03:10:00+03:00",
-          "title": "PL: Bournemouth vs Sunderland",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T03:10:00+03:00",
-          "stop": "2026-07-01T03:40:00+03:00",
-          "title": "Liverpool vs Tottenham 2018/19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T03:40:00+03:00",
-          "stop": "2026-07-01T04:10:00+03:00",
-          "title": "Fulham vs Chelsea 2008/09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T04:10:00+03:00",
-          "stop": "2026-07-01T06:20:00+03:00",
-          "title": "PL: Wolves vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T06:20:00+03:00",
-          "stop": "2026-07-01T08:30:00+03:00",
-          "title": "PL: West Ham vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T08:30:00+03:00",
-          "stop": "2026-07-01T10:40:00+03:00",
-          "title": "PL: Liverpool vs Fulham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T10:40:00+03:00",
-          "stop": "2026-07-01T15:00:00+03:00",
-          "title": "PL: Tottenham vs Everton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T15:00:00+03:00",
-          "stop": "2026-07-01T15:30:00+03:00",
-          "title": "Liverpool vs Tottenham 2014/15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T15:30:00+03:00",
-          "stop": "2026-07-01T16:00:00+03:00",
-          "title": "Everton vs Bournemouth 2016/17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T16:00:00+03:00",
-          "stop": "2026-07-01T17:30:00+03:00",
-          "title": "Final Whistle: Season 2025/26 Ep03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T17:30:00+03:00",
-          "stop": "2026-07-01T20:30:00+03:00",
-          "title": "PL: Chelsea vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T20:30:00+03:00",
-          "stop": "2026-07-01T22:20:00+03:00",
-          "title": "Classic Match: MUN 4-4 EVE 11/12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T22:20:00+03:00",
-          "stop": "2026-07-01T22:50:00+03:00",
-          "title": "PL Stories 2026/27: Soaring Seagulls",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T22:50:00+03:00",
-          "stop": "2026-07-02T01:00:00+03:00",
-          "title": "PL: Wolves vs Aston Villa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-02",
       "programs": [
@@ -337,6 +234,116 @@
           "start": "2026-07-03T22:50:00+03:00",
           "stop": "2026-07-04T01:00:00+03:00",
           "title": "PL: Fulham vs Tottenham",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "programs": [
+        {
+          "start": "2026-07-04T01:00:00+03:00",
+          "stop": "2026-07-04T03:10:00+03:00",
+          "title": "PL: Newcastle vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T03:10:00+03:00",
+          "stop": "2026-07-04T03:40:00+03:00",
+          "title": "Southampton vs Aston Villa 2014/15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T03:40:00+03:00",
+          "stop": "2026-07-04T04:10:00+03:00",
+          "title": "Chelsea vs Burnley 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T04:10:00+03:00",
+          "stop": "2026-07-04T06:20:00+03:00",
+          "title": "PL: Bournemouth vs. Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T06:20:00+03:00",
+          "stop": "2026-07-04T08:30:00+03:00",
+          "title": "PL: West Ham vs Wolves",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T08:30:00+03:00",
+          "stop": "2026-07-04T10:30:00+03:00",
+          "title": "Classic Match: ARS 5-2 TOT 12/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T10:30:00+03:00",
+          "stop": "2026-07-04T12:40:00+03:00",
+          "title": "PL: Fulham vs Newcastle",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T12:40:00+03:00",
+          "stop": "2026-07-04T13:10:00+03:00",
+          "title": "PL Classic: Malaysia vs Birmingham 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T13:10:00+03:00",
+          "stop": "2026-07-04T13:40:00+03:00",
+          "title": "Arsenal vs Manchester City 2000/01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T13:40:00+03:00",
+          "stop": "2026-07-04T15:50:00+03:00",
+          "title": "PL: Brighton vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T15:50:00+03:00",
+          "stop": "2026-07-04T16:20:00+03:00",
+          "title": "PL Stories 2026/27: Diogo Jota",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T16:20:00+03:00",
+          "stop": "2026-07-04T17:20:00+03:00",
+          "title": "Review Of The Season 25/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T17:20:00+03:00",
+          "stop": "2026-07-04T20:10:00+03:00",
+          "title": "PL: Man Utd vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T20:10:00+03:00",
+          "stop": "2026-07-04T22:20:00+03:00",
+          "title": "PL: Tottenham vs Brighton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T22:20:00+03:00",
+          "stop": "2026-07-05T00:30:00+03:00",
+          "title": "PL: Crystal Palace vs Leeds",
           "description": "L",
           "category": null
         }

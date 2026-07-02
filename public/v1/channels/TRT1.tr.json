@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-01T04:55:24.567729+00:00",
+  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-07-01",
-      "programs": [
-        {
-          "start": "2026-07-01T00:00:00+03:00",
-          "stop": "2026-07-01T02:30:00+03:00",
-          "title": "Fransa – İsveç",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T02:30:00+03:00",
-          "stop": "2026-07-01T03:20:00+03:00",
-          "title": "Marnalı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T03:20:00+03:00",
-          "stop": "2026-07-01T04:00:00+03:00",
-          "title": "Şehrimin Takımı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T04:00:00+03:00",
-          "stop": "2026-07-01T06:15:00+03:00",
-          "title": "Meksika – Ekvador",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T06:15:00+03:00",
-          "stop": "2026-07-01T07:15:00+03:00",
-          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T07:15:00+03:00",
-          "stop": "2026-07-01T10:00:00+03:00",
-          "title": "Hangimiz Sevmedik",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T10:00:00+03:00",
-          "stop": "2026-07-01T13:15:00+03:00",
-          "title": "Kasaba Doktoru",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T13:15:00+03:00",
-          "stop": "2026-07-01T14:45:00+03:00",
-          "title": "Seksenler",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T14:45:00+03:00",
-          "stop": "2026-07-01T17:45:00+03:00",
-          "title": "Yürek Çıkmazı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T17:45:00+03:00",
-          "stop": "2026-07-01T19:00:00+03:00",
-          "title": "Lingo Türkiye",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T19:00:00+03:00",
-          "stop": "2026-07-01T22:20:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-01T22:20:00+03:00",
-          "stop": "2026-07-02T03:00:00+03:00",
-          "title": "Dizi",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-02",
       "programs": [
@@ -190,6 +101,116 @@
           "start": "2026-07-03T20:00:00+03:00",
           "stop": "2026-07-04T00:15:00+03:00",
           "title": "Dizi",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-04",
+      "programs": [
+        {
+          "start": "2026-07-04T00:15:00+03:00",
+          "stop": "2026-07-04T01:45:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T01:45:00+03:00",
+          "stop": "2026-07-04T05:25:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T05:25:00+03:00",
+          "stop": "2026-07-04T05:30:00+03:00",
+          "title": "Lingo Türkiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T05:30:00+03:00",
+          "stop": "2026-07-04T06:15:00+03:00",
+          "title": "Yedi Numara",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T06:15:00+03:00",
+          "stop": "2026-07-04T07:00:00+03:00",
+          "title": "Hayallerinin Peşinde",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T07:00:00+03:00",
+          "stop": "2026-07-04T08:15:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T08:15:00+03:00",
+          "stop": "2026-07-04T10:00:00+03:00",
+          "title": "Hangimiz Sevmedik",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T10:00:00+03:00",
+          "stop": "2026-07-04T10:40:00+03:00",
+          "title": "Hayallerinin Peşinde",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T10:40:00+03:00",
+          "stop": "2026-07-04T12:40:00+03:00",
+          "title": "Kasaba Doktoru",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T12:40:00+03:00",
+          "stop": "2026-07-04T13:15:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T13:15:00+03:00",
+          "stop": "2026-07-04T14:45:00+03:00",
+          "title": "Seksenler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T14:45:00+03:00",
+          "stop": "2026-07-04T17:45:00+03:00",
+          "title": "Yürek Çıkmazı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T17:45:00+03:00",
+          "stop": "2026-07-04T17:50:00+03:00",
+          "title": "Lingo Türkiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T17:50:00+03:00",
+          "stop": "2026-07-04T19:00:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-04T19:00:00+03:00",
+          "stop": "2026-07-05T19:00:00+03:00",
+          "title": "Ana Haber",
           "description": "L",
           "category": null
         }
