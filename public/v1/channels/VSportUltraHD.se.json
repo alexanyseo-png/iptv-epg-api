@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T11:00:00+03:00",
-          "stop": "2026-07-02T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T19:00:00+03:00",
-          "stop": "2026-07-02T22:00:00+03:00",
-          "title": "Formula 1: Itävallan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T22:00:00+03:00",
-          "stop": "2026-07-03T11:00:00+03:00",
-          "title": "UEFA Conference League: Crystal Palace – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -92,6 +66,39 @@
           "start": "2026-07-04T23:00:00+03:00",
           "stop": "2026-07-05T11:00:00+03:00",
           "title": "Formula 1: Storbritannien GP – Kval",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T11:00:00+03:00",
+          "stop": "2026-07-05T16:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T16:55:00+03:00",
+          "stop": "2026-07-05T20:00:00+03:00",
+          "title": "Formula 1: Storbritannien GP – Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T20:00:00+03:00",
+          "stop": "2026-07-05T23:00:00+03:00",
+          "title": "Formula 1: Itävallan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T23:00:00+03:00",
+          "stop": "2026-07-06T11:00:00+03:00",
+          "title": "Formula 1: Storbritannien GP – Race",
           "description": "L",
           "category": null
         }

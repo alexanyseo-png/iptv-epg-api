@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T01:00:00+03:00",
-          "stop": "2026-07-02T04:45:00+03:00",
-          "title": "Bokss: Zuffa Boxing. Edwin De Los Santos – Jose Valenzuela. Zuffa Boxing",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T04:45:00+03:00",
-          "stop": "2026-07-02T07:00:00+03:00",
-          "title": "Basketbols: Eirolīga. Fenerbahce – Zalgiris Kaunas. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T07:00:00+03:00",
-          "stop": "2026-07-02T09:30:00+03:00",
-          "title": "MMA: ONE Championship. ONE Championship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T09:30:00+03:00",
-          "stop": "2026-07-02T10:30:00+03:00",
-          "title": "Anglijas Premjerlīga. Sezonas apskats. Premier League Magazin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T10:30:00+03:00",
-          "stop": "2026-07-02T12:30:00+03:00",
-          "title": "Basketbols. WNBA. Golden State Valkyries – New York Liberty. WNBA",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T12:30:00+03:00",
-          "stop": "2026-07-02T14:25:00+03:00",
-          "title": "Basketbols: ACB līga. Fināls. 5. spēle. Valencia – Barcelona. Liga Endesa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T14:25:00+03:00",
-          "stop": "2026-07-02T15:00:00+03:00",
-          "title": "Teniss – Vimbldona. 3. dienas apskats. Tennis: Wimbledon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T15:00:00+03:00",
-          "stop": "2026-07-02T19:00:00+03:00",
-          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T19:00:00+03:00",
-          "stop": "2026-07-02T23:00:00+03:00",
-          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T23:00:00+03:00",
-          "stop": "2026-07-03T01:00:00+03:00",
-          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -273,6 +198,95 @@
         {
           "start": "2026-07-04T23:00:00+03:00",
           "stop": "2026-07-05T01:00:00+03:00",
+          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T01:00:00+03:00",
+          "stop": "2026-07-05T03:00:00+03:00",
+          "title": "Regbijs: Nāciju čempionāts. Jaunzēlande – Francija. Rugby: Nations Championship",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T03:00:00+03:00",
+          "stop": "2026-07-05T05:05:00+03:00",
+          "title": "Regbijs: Nāciju čempionāts. Argentīna – Skotija. Rugby: Nations Championship",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T05:05:00+03:00",
+          "stop": "2026-07-05T07:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Zalgiris Kaunas – FC Barcelona. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T07:00:00+03:00",
+          "stop": "2026-07-05T08:20:00+03:00",
+          "title": "Moto2 – Nīderlandes GP. Sacīkstes. Moto2: Grand Prix of Netherlands",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T08:20:00+03:00",
+          "stop": "2026-07-05T09:50:00+03:00",
+          "title": "Motorsports. Nīderlandes «Grand Prix». Sacīkstes. MotoGP: Grand Prix of Netherlands",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T09:50:00+03:00",
+          "stop": "2026-07-05T10:20:00+03:00",
+          "title": "GP Confidential. GP Confidential",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T10:20:00+03:00",
+          "stop": "2026-07-05T12:20:00+03:00",
+          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Igaunija – Slovēnija. Basketball: FIBA World Cup European Qualifiers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T12:20:00+03:00",
+          "stop": "2026-07-05T14:20:00+03:00",
+          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Nīderlande – Latvija. Basketball: FIBA World Cup European Qualifiers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T14:20:00+03:00",
+          "stop": "2026-07-05T15:00:00+03:00",
+          "title": "Teniss – Vimbldona. 6. dienas apskats. Tennis: Wimbledon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T15:00:00+03:00",
+          "stop": "2026-07-05T19:00:00+03:00",
+          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T19:00:00+03:00",
+          "stop": "2026-07-05T23:00:00+03:00",
+          "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T23:00:00+03:00",
+          "stop": "2026-07-06T00:00:00+03:00",
           "title": "Teniss – Vimbldona. 1. korts. Tennis: Wimbledon",
           "description": "L",
           "category": null

@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T01:30:00+03:00",
-          "stop": "2026-07-02T03:40:00+03:00",
-          "title": "Видок: Охотник на призраков.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T03:40:00+03:00",
-          "stop": "2026-07-02T05:35:00+03:00",
-          "title": "Красивый, плохой, злой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T05:35:00+03:00",
-          "stop": "2026-07-02T07:35:00+03:00",
-          "title": "Линкольн для адвоката.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T07:35:00+03:00",
-          "stop": "2026-07-02T09:25:00+03:00",
-          "title": "Клиент.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T09:25:00+03:00",
-          "stop": "2026-07-02T11:05:00+03:00",
-          "title": "Короли улиц.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T11:05:00+03:00",
-          "stop": "2026-07-02T12:50:00+03:00",
-          "title": "Заложник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T12:50:00+03:00",
-          "stop": "2026-07-02T14:45:00+03:00",
-          "title": "Измеряя мир.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T14:45:00+03:00",
-          "stop": "2026-07-02T16:45:00+03:00",
-          "title": "Свет в океане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T16:45:00+03:00",
-          "stop": "2026-07-02T18:20:00+03:00",
-          "title": "Жасмин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T18:20:00+03:00",
-          "stop": "2026-07-02T20:00:00+03:00",
-          "title": "Сердце из стали.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T20:00:00+03:00",
-          "stop": "2026-07-02T21:30:00+03:00",
-          "title": "Напролом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T21:30:00+03:00",
-          "stop": "2026-07-02T22:50:00+03:00",
-          "title": "Геймер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T22:50:00+03:00",
-          "stop": "2026-07-03T00:30:00+03:00",
-          "title": "Кин.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -309,6 +213,109 @@
           "start": "2026-07-04T22:55:00+03:00",
           "stop": "2026-07-05T00:45:00+03:00",
           "title": "2067: Петля времени.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T00:45:00+03:00",
+          "stop": "2026-07-05T02:20:00+03:00",
+          "title": "Звериная ярость.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T02:20:00+03:00",
+          "stop": "2026-07-05T04:05:00+03:00",
+          "title": "Пылающее море.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T04:05:00+03:00",
+          "stop": "2026-07-05T06:15:00+03:00",
+          "title": "Дело храбрых.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T06:15:00+03:00",
+          "stop": "2026-07-05T08:15:00+03:00",
+          "title": "Измеряя мир.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T08:15:00+03:00",
+          "stop": "2026-07-05T10:15:00+03:00",
+          "title": "Свет в океане.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T10:15:00+03:00",
+          "stop": "2026-07-05T11:50:00+03:00",
+          "title": "Жасмин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T11:50:00+03:00",
+          "stop": "2026-07-05T13:35:00+03:00",
+          "title": "2067: Петля времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T13:35:00+03:00",
+          "stop": "2026-07-05T15:20:00+03:00",
+          "title": "Петля времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T15:20:00+03:00",
+          "stop": "2026-07-05T16:55:00+03:00",
+          "title": "Патруль времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T16:55:00+03:00",
+          "stop": "2026-07-05T18:15:00+03:00",
+          "title": "Телепорт.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T18:15:00+03:00",
+          "stop": "2026-07-05T20:00:00+03:00",
+          "title": "1+1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T20:00:00+03:00",
+          "stop": "2026-07-05T21:30:00+03:00",
+          "title": "Отец.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T21:30:00+03:00",
+          "stop": "2026-07-05T23:20:00+03:00",
+          "title": "Лев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T23:20:00+03:00",
+          "stop": "2026-07-06T00:20:00+03:00",
+          "title": "Измеряя мир.",
           "description": "L",
           "category": null
         }

@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T00:00:00+03:00",
-          "stop": "2026-07-02T01:00:00+03:00",
-          "title": "Dutch League: End Season Review",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T01:00:00+03:00",
-          "stop": "2026-07-02T03:00:00+03:00",
-          "title": "Serie A: Lecce vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T03:00:00+03:00",
-          "stop": "2026-07-02T05:00:00+03:00",
-          "title": "Serie A: Atalanta vs Milan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T05:00:00+03:00",
-          "stop": "2026-07-02T07:00:00+03:00",
-          "title": "Serie A: Como vs Verona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T07:00:00+03:00",
-          "stop": "2026-07-02T09:00:00+03:00",
-          "title": "Serie A: Juventus vs Udinese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T09:00:00+03:00",
-          "stop": "2026-07-02T11:00:00+03:00",
-          "title": "Serie A: Roma vs Parma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T11:00:00+03:00",
-          "stop": "2026-07-02T13:00:00+03:00",
-          "title": "Serie A: Bologna vs Torino",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T13:00:00+03:00",
-          "stop": "2026-07-02T15:00:00+03:00",
-          "title": "Serie A: Genoa vs Cremonese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T15:00:00+03:00",
-          "stop": "2026-07-02T17:00:00+03:00",
-          "title": "Serie A: Inter vs Fiorentina",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T17:00:00+03:00",
-          "stop": "2026-07-02T19:00:00+03:00",
-          "title": "Serie A: Cagliari vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T19:00:00+03:00",
-          "stop": "2026-07-02T21:00:00+03:00",
-          "title": "Serie A: Pisa vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T21:00:00+03:00",
-          "stop": "2026-07-02T23:15:00+03:00",
-          "title": "Dutch: Rotterdam vs Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T23:15:00+03:00",
-          "stop": "2026-07-03T01:30:00+03:00",
-          "title": "Dutch: Feyenoord vs Utrecht",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -288,6 +192,18 @@
           "start": "2026-07-04T22:00:00+03:00",
           "stop": "2026-07-05T00:00:00+03:00",
           "title": "Serie A: Milan vs Roma",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T00:00:00+03:00",
+          "stop": "2026-07-05T01:00:00+03:00",
+          "title": "Dutch League: Round 34: Highlights",
           "description": "L",
           "category": null
         }

@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T01:00:00+03:00",
-          "stop": "2026-07-02T02:00:00+03:00",
-          "title": "Gece Haberleri.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T02:00:00+03:00",
-          "stop": "2026-07-02T06:00:00+03:00",
-          "title": "Akıl Çemberi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T06:00:00+03:00",
-          "stop": "2026-07-02T09:00:00+03:00",
-          "title": "A'dan Z'ye.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T09:00:00+03:00",
-          "stop": "2026-07-02T12:00:00+03:00",
-          "title": "Gündem.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T12:00:00+03:00",
-          "stop": "2026-07-02T14:00:00+03:00",
-          "title": "Gün Ortası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T14:00:00+03:00",
-          "stop": "2026-07-02T16:00:00+03:00",
-          "title": "Bugün.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T16:00:00+03:00",
-          "stop": "2026-07-02T18:00:00+03:00",
-          "title": "Günlük.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T18:00:00+03:00",
-          "stop": "2026-07-02T20:45:00+03:00",
-          "title": "Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T20:45:00+03:00",
-          "stop": "2026-07-03T00:00:00+03:00",
-          "title": "Gece Görüşü.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -231,6 +163,25 @@
         {
           "start": "2026-07-04T20:45:00+03:00",
           "stop": "2026-07-05T01:00:00+03:00",
+          "title": "Ne Oluyor?",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T01:00:00+03:00",
+          "stop": "2026-07-05T02:15:00+03:00",
+          "title": "Gece Haberleri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T02:15:00+03:00",
+          "stop": "2026-07-05T03:15:00+03:00",
           "title": "Ne Oluyor?",
           "description": "L",
           "category": null

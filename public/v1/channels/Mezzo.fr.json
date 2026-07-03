@@ -8,134 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-02T04:32:30.921705+00:00",
+  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
   "available": true,
-  "programmeCount": 55,
+  "programmeCount": 58,
   "days": [
-    {
-      "date": "2026-07-02",
-      "programs": [
-        {
-          "start": "2026-07-02T00:50:00+03:00",
-          "stop": "2026-07-02T02:35:00+03:00",
-          "title": "Jazz. Stan Getz – The Last Video Recording.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T02:35:00+03:00",
-          "stop": "2026-07-02T03:20:00+03:00",
-          "title": "Jazz. Stan Getz Quartet – Berliner Jazztage.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T03:20:00+03:00",
-          "stop": "2026-07-02T03:50:00+03:00",
-          "title": "Classical. Brahms: String Quintet No. 1 in F major, op. 88 – Takacs Quartet, Nobuko Imai.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T03:50:00+03:00",
-          "stop": "2026-07-02T06:15:00+03:00",
-          "title": "Opera. 'Eugene Onegin' by Tchaikovsky at la Monnaie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T06:15:00+03:00",
-          "stop": "2026-07-02T07:55:00+03:00",
-          "title": "Classical. Magdalena Kozena, Czech Philharmonic, Giovanni Antonini: Myslivecek, Mozart, Haydn, Beethoven.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T07:55:00+03:00",
-          "stop": "2026-07-02T09:15:00+03:00",
-          "title": "Classical. Bach: Missae breves – Ensemble Pygmalion, Raphael Pichon.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T09:15:00+03:00",
-          "stop": "2026-07-02T11:00:00+03:00",
-          "title": "Classical. Helene Grimaud, Tonhalle-Orchester Zurich, Paavo Jarvi – Janacek, Gershwin, Sibelius.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T11:00:00+03:00",
-          "stop": "2026-07-02T11:50:00+03:00",
-          "title": "Documentary. Jacques Loussier: when classical meets jazz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T11:50:00+03:00",
-          "stop": "2026-07-02T14:10:00+03:00",
-          "title": "Classical. Haydn: The Seasons – Il Giardino Armonico, Giovanni Antonini.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T14:10:00+03:00",
-          "stop": "2026-07-02T14:30:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T14:30:00+03:00",
-          "stop": "2026-07-02T15:45:00+03:00",
-          "title": "Dance. Malandain: Daphnis & Chloe – Ballet du Capitole de Toulouse.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T15:45:00+03:00",
-          "stop": "2026-07-02T17:00:00+03:00",
-          "title": "Classical. Brahms: Ein deutsches Requiem – Pretty Yende, Ludovic Tezier, Aziz Shokhakimov.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T17:00:00+03:00",
-          "stop": "2026-07-02T17:50:00+03:00",
-          "title": "Classical. Brahms: The Cello sonatas – Miklos Perenyi, Zoltan Kocsis.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T17:50:00+03:00",
-          "stop": "2026-07-02T18:25:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T18:25:00+03:00",
-          "stop": "2026-07-02T21:30:00+03:00",
-          "title": "Opera. Weinberg: The Passenger – Opera national du Capitole, Toulouse.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T21:30:00+03:00",
-          "stop": "2026-07-02T22:40:00+03:00",
-          "title": "Jazz. Richard Bona – Jazzopen Stuttgart 2024.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-02T22:40:00+03:00",
-          "stop": "2026-07-03T00:10:00+03:00",
-          "title": "Jazz. Angelique Kidjo – Jazzopen Stuttgart 2024.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-03",
       "programs": [
@@ -407,6 +283,151 @@
           "start": "2026-07-04T21:30:00+03:00",
           "stop": "2026-07-05T00:10:00+03:00",
           "title": "Opera. John Adams: Nixon in China – Opera de Paris.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-05",
+      "programs": [
+        {
+          "start": "2026-07-05T00:10:00+03:00",
+          "stop": "2026-07-05T01:50:00+03:00",
+          "title": "Classical. Magdalena Kozena, Czech Philharmonic, Giovanni Antonini: Myslivecek, Mozart, Haydn, Beethoven.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T01:50:00+03:00",
+          "stop": "2026-07-05T03:10:00+03:00",
+          "title": "Classical. Bach: Missae breves – Ensemble Pygmalion, Raphael Pichon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T03:10:00+03:00",
+          "stop": "2026-07-05T03:30:00+03:00",
+          "title": "Classical. Munchner Philharmoniker, Sergiu Celibidache – Ravel: Bolero.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T03:30:00+03:00",
+          "stop": "2026-07-05T04:50:00+03:00",
+          "title": "Dance. Malandain: Daphnis & Chloe – Ballet du Capitole de Toulouse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T04:50:00+03:00",
+          "stop": "2026-07-05T06:05:00+03:00",
+          "title": "Classical. Brahms: Ein deutsches Requiem – Pretty Yende, Ludovic Tezier, Aziz Shokhakimov.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T06:05:00+03:00",
+          "stop": "2026-07-05T06:55:00+03:00",
+          "title": "Classical. Brahms: The Cello sonatas – Miklos Perenyi, Zoltan Kocsis.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T06:55:00+03:00",
+          "stop": "2026-07-05T07:20:00+03:00",
+          "title": "Classical. Munchner Philharmoniker, Sergiu Celibidache – Ravel: Rapsodie espagnole.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T07:20:00+03:00",
+          "stop": "2026-07-05T10:15:00+03:00",
+          "title": "Opera. Weinberg: The Passenger – Opera national du Capitole, Toulouse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T10:15:00+03:00",
+          "stop": "2026-07-05T11:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T11:00:00+03:00",
+          "stop": "2026-07-05T12:40:00+03:00",
+          "title": "Jazz. Stan Getz – The Last Video Recording.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T12:40:00+03:00",
+          "stop": "2026-07-05T13:25:00+03:00",
+          "title": "Jazz. Stan Getz Quartet – Berliner Jazztage.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T13:25:00+03:00",
+          "stop": "2026-07-05T13:55:00+03:00",
+          "title": "Classical. Boris Pergamenschikow, Elena Bashkirova, Maxim Vengerov – Brahms: Trio for Piano No. 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T13:55:00+03:00",
+          "stop": "2026-07-05T14:15:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T14:15:00+03:00",
+          "stop": "2026-07-05T15:40:00+03:00",
+          "title": "Classical. Modigliani Quartet – Mozart, Ravel, Beethoven.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T15:40:00+03:00",
+          "stop": "2026-07-05T16:50:00+03:00",
+          "title": "Classical. Barnabas Kelemen: Tchaikovsky, Bartok – Festival Academy Budapest.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T16:50:00+03:00",
+          "stop": "2026-07-05T18:20:00+03:00",
+          "title": "Jazz. Miles Davis Quintet at the Antibes Jazz Festival.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T18:20:00+03:00",
+          "stop": "2026-07-05T20:10:00+03:00",
+          "title": "Opera. Shostakovich: The Nose – La Monnaie in Brussels.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T20:10:00+03:00",
+          "stop": "2026-07-05T21:30:00+03:00",
+          "title": "Classical. Orchestre National du Capitole de Toulouse, Tarmo Peltokoski: Mahler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T21:30:00+03:00",
+          "stop": "2026-07-05T22:50:00+03:00",
+          "title": "Classical. Gustavo Dudamel Opening Concert – Opera de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-05T22:50:00+03:00",
+          "stop": "2026-07-05T23:50:00+03:00",
+          "title": "Classical. Simon Bolivar Symphony Orchestra, Gustavo Dudamel: Abreu, Mahler.",
           "description": "L",
           "category": null
         }
