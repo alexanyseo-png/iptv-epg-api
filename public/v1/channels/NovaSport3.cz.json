@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
+  "generatedAt": "2026-07-04T04:03:40.984227+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-07-03",
-      "programs": [
-        {
-          "start": "2026-07-03T00:40:00+03:00",
-          "stop": "2026-07-03T02:30:00+03:00",
-          "title": "Preußen Münster – VfL Bochum",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T02:30:00+03:00",
-          "stop": "2026-07-03T08:00:00+03:00",
-          "title": "SV Elversberg – Hertha BSC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T08:00:00+03:00",
-          "stop": "2026-07-03T09:50:00+03:00",
-          "title": "Eintracht Frankfurt – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T09:50:00+03:00",
-          "stop": "2026-07-03T11:40:00+03:00",
-          "title": "Bayer Leverkusen – 1. FSV Mainz 05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T11:40:00+03:00",
-          "stop": "2026-07-03T13:30:00+03:00",
-          "title": "Hannover 96 – Holstein Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T13:30:00+03:00",
-          "stop": "2026-07-03T15:20:00+03:00",
-          "title": "Greuther Fürth – 1. FC Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T15:20:00+03:00",
-          "stop": "2026-07-03T17:10:00+03:00",
-          "title": "Schalke 04 – Dynamo Drážďany",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T17:10:00+03:00",
-          "stop": "2026-07-03T19:00:00+03:00",
-          "title": "VfB Stuttgart – VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T19:00:00+03:00",
-          "stop": "2026-07-03T21:00:00+03:00",
-          "title": "Borussia Mönchengladbach – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T21:00:00+03:00",
-          "stop": "2026-07-03T22:50:00+03:00",
-          "title": "Hamburger SV – RB Lipsko",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T22:50:00+03:00",
-          "stop": "2026-07-04T00:40:00+03:00",
-          "title": "Borussia Dortmund – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-04",
       "programs": [
@@ -253,6 +171,25 @@
           "start": "2026-07-05T22:50:00+03:00",
           "stop": "2026-07-06T00:40:00+03:00",
           "title": "Borussia Mönchengladbach – FC St. Pauli",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "programs": [
+        {
+          "start": "2026-07-06T00:40:00+03:00",
+          "stop": "2026-07-06T02:30:00+03:00",
+          "title": "SV Darmstadt – Fortuna Düsseldorf",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T02:30:00+03:00",
+          "stop": "2026-07-06T03:30:00+03:00",
+          "title": "Hannover 96 – Dynamo Drážďany",
           "description": "L",
           "category": null
         }

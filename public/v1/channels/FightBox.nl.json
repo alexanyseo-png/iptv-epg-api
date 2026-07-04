@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-03T04:10:55.917649+00:00",
+  "generatedAt": "2026-07-04T04:03:40.984227+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-07-03",
-      "programs": [
-        {
-          "start": "2026-07-03T00:20:00+03:00",
-          "stop": "2026-07-03T03:35:00+03:00",
-          "title": "Смешанные единоборства. Centurion FC 18 в Рио-де-Жанейро, Бразилия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T03:35:00+03:00",
-          "stop": "2026-07-03T05:45:00+03:00",
-          "title": "Смешанные единоборства. Lux Fight League 020 в Мехико, Мексика",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T05:45:00+03:00",
-          "stop": "2026-07-03T07:00:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Токио, Япония",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T07:00:00+03:00",
-          "stop": "2026-07-03T09:50:00+03:00",
-          "title": "Кикбоксинг. WGP Kickboxing Brazil",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T09:50:00+03:00",
-          "stop": "2026-07-03T14:00:00+03:00",
-          "title": "Бокс. FOX Sports Africa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T14:00:00+03:00",
-          "stop": "2026-07-03T14:15:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2020",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T14:15:00+03:00",
-          "stop": "2026-07-03T16:00:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Токио, Япония",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T16:00:00+03:00",
-          "stop": "2026-07-03T20:05:00+03:00",
-          "title": "Смешанные единоборства. Mix Fight Gala Tournament во Франкфурте, Германия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T20:05:00+03:00",
-          "stop": "2026-07-03T22:00:00+03:00",
-          "title": "Кикбоксинг. Enfusion Talents 112 в Дордрехте, Нидерланды",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-03T22:00:00+03:00",
-          "stop": "2026-07-04T02:05:00+03:00",
-          "title": "Бокс голыми кулаками. BKB 31 в Лондоне, Великобритания",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-04",
       "programs": [
@@ -274,6 +199,18 @@
           "start": "2026-07-05T22:50:00+03:00",
           "stop": "2026-07-06T02:20:00+03:00",
           "title": "Смешанные единоборства. We Love MMA 75 в Гамбурге, Германия",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "programs": [
+        {
+          "start": "2026-07-06T02:20:00+03:00",
+          "stop": "2026-07-06T03:20:00+03:00",
+          "title": "Бокс голыми кулаками. BKB 31 в Лондоне, Великобритания",
           "description": "L",
           "category": null
         }
