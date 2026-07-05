@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-04T04:03:40.984227+00:00",
+  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-07-04",
-      "programs": [
-        {
-          "start": "2026-07-04T01:00:00+03:00",
-          "stop": "2026-07-04T03:00:00+03:00",
-          "title": "х/ф Солдат Джейн",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T03:00:00+03:00",
-          "stop": "2026-07-04T05:10:00+03:00",
-          "title": "х/ф Малышка на миллион",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T05:10:00+03:00",
-          "stop": "2026-07-04T05:40:00+03:00",
-          "title": "м/ф Смешарики",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T05:40:00+03:00",
-          "stop": "2026-07-04T06:40:00+03:00",
-          "title": "м/ф Принцесса и дракон",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T06:40:00+03:00",
-          "stop": "2026-07-04T08:00:00+03:00",
-          "title": "м/ф Три кота и море приключений",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T08:00:00+03:00",
-          "stop": "2026-07-04T11:00:00+03:00",
-          "title": "м/ф «Союзмультфильм» представляет",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T11:00:00+03:00",
-          "stop": "2026-07-04T13:00:00+03:00",
-          "title": "т/с А у нас во дворе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T13:00:00+03:00",
-          "stop": "2026-07-04T23:40:00+03:00",
-          "title": "Программа не предоставлена каналом",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T23:40:00+03:00",
-          "stop": "2026-07-05T01:30:00+03:00",
-          "title": "х/ф Жги!",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-05",
       "programs": [
@@ -239,6 +171,13 @@
           "start": "2026-07-06T09:10:00+03:00",
           "stop": "2026-07-06T13:00:00+03:00",
           "title": "т/с Балабол",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T13:00:00+03:00",
+          "stop": "2026-07-06T15:00:00+03:00",
+          "title": "т/с Дальнобойщики",
           "description": "L",
           "category": null
         }

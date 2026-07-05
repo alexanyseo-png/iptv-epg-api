@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-04T04:03:40.984227+00:00",
+  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-07-04",
-      "programs": [
-        {
-          "start": "2026-07-04T11:00:00+03:00",
-          "stop": "2026-07-04T17:55:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T17:55:00+03:00",
-          "stop": "2026-07-04T20:00:00+03:00",
-          "title": "Formula 1: Storbritannien GP – Kval",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T20:00:00+03:00",
-          "stop": "2026-07-04T23:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-04T23:00:00+03:00",
-          "stop": "2026-07-05T11:00:00+03:00",
-          "title": "Formula 1: Storbritannien GP – Kval",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-05",
       "programs": [
@@ -73,6 +40,18 @@
           "start": "2026-07-05T23:00:00+03:00",
           "stop": "2026-07-06T11:00:00+03:00",
           "title": "Formula 1: Storbritannien GP – Race",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-06",
+      "programs": [
+        {
+          "start": "2026-07-06T11:00:00+03:00",
+          "stop": "2026-07-06T19:00:00+03:00",
+          "title": "RedBull TV",
           "description": "L",
           "category": null
         }
