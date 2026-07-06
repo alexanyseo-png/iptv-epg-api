@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T02:00:00+03:00",
-          "stop": "2026-07-05T05:00:00+03:00",
-          "title": "⋗ Major League Baseball. St. Louis Cardinals at Chicago Cubs",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T05:00:00+03:00",
-          "stop": "2026-07-05T05:30:00+03:00",
-          "title": "MLB Plays of the Week",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T05:30:00+03:00",
-          "stop": "2026-07-05T07:00:00+03:00",
-          "title": "Australian Rules. Richmond v Carlton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T07:00:00+03:00",
-          "stop": "2026-07-05T08:00:00+03:00",
-          "title": "Tour de France Cycling. Stage 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T08:00:00+03:00",
-          "stop": "2026-07-05T09:30:00+03:00",
-          "title": "Wimbledon 2026. Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:30:00+03:00",
-          "stop": "2026-07-05T12:30:00+03:00",
-          "title": "⋗ Australian Rules. Port Adelaide v North Melbourne",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T12:30:00+03:00",
-          "stop": "2026-07-05T12:45:00+03:00",
-          "title": "Cycling Essential Stories. Series 26 Episode 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T12:45:00+03:00",
-          "stop": "2026-07-05T13:45:00+03:00",
-          "title": "Tour de France Cycling. Stage 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T13:45:00+03:00",
-          "stop": "2026-07-05T19:15:00+03:00",
-          "title": "⋗ Tour de France. Stage 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:15:00+03:00",
-          "stop": "2026-07-05T19:30:00+03:00",
-          "title": "TNT Sports Reload. Series 26 Episode 26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:30:00+03:00",
-          "stop": "2026-07-05T22:30:00+03:00",
-          "title": "⋗ Major League Baseball. New York Mets at Atlanta Braves",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T22:30:00+03:00",
-          "stop": "2026-07-05T23:00:00+03:00",
-          "title": "TNT Sports Reload. Series 26 Episode 26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T23:00:00+03:00",
-          "stop": "2026-07-06T00:00:00+03:00",
-          "title": "MotoGP. Dutch Grand Prix",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
@@ -141,8 +45,78 @@
         },
         {
           "start": "2026-07-06T05:30:00+03:00",
-          "stop": "2026-07-06T06:30:00+03:00",
+          "stop": "2026-07-06T06:00:00+03:00",
           "title": "British Superbikes Motorcycle Racing. Round 4: Snetterton 300, Race 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T06:00:00+03:00",
+          "stop": "2026-07-06T06:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Women's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T06:30:00+03:00",
+          "stop": "2026-07-06T07:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Men's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T07:00:00+03:00",
+          "stop": "2026-07-06T08:00:00+03:00",
+          "title": "UEC BMX Racing European Championships. Sarrians",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T08:00:00+03:00",
+          "stop": "2026-07-06T09:00:00+03:00",
+          "title": "Tour de France Cycling. Stage 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T09:00:00+03:00",
+          "stop": "2026-07-06T09:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Women's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T09:30:00+03:00",
+          "stop": "2026-07-06T10:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Men's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T10:00:00+03:00",
+          "stop": "2026-07-06T11:30:00+03:00",
+          "title": "Wimbledon 2026. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T11:30:00+03:00",
+          "stop": "2026-07-06T11:45:00+03:00",
+          "title": "Cycling Essential Stories. Series 26 Episode 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T11:45:00+03:00",
+          "stop": "2026-07-06T12:45:00+03:00",
+          "title": "Tour de France Cycling. Stage 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T12:45:00+03:00",
+          "stop": "2026-07-06T18:30:00+03:00",
+          "title": "⋗ Tour de France. Stage 3",
           "description": "L",
           "category": null
         }

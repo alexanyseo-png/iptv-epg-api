@@ -8,433 +8,57 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
-  "programmeCount": 159,
+  "programmeCount": 181,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T00:03:00+03:00",
-          "stop": "2026-07-05T01:57:00+03:00",
-          "title": "Le gala de Meudon Rire de Tout: 2e édition.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T01:57:00+03:00",
-          "stop": "2026-07-05T02:05:00+03:00",
-          "title": "L'invité.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T02:05:00+03:00",
-          "stop": "2026-07-05T02:31:00+03:00",
-          "title": "TV5MONDE, le journal Afrique.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T02:31:00+03:00",
-          "stop": "2026-07-05T02:34:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T02:34:00+03:00",
-          "stop": "2026-07-05T03:47:00+03:00",
-          "title": "Top Comedy Club.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T03:47:00+03:00",
-          "stop": "2026-07-05T04:49:00+03:00",
-          "title": "C'est archivé près de chez vous: le grand quiz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T04:49:00+03:00",
-          "stop": "2026-07-05T05:00:00+03:00",
-          "title": "Vous avez 1 nouveau message.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T05:00:00+03:00",
-          "stop": "2026-07-05T06:00:00+03:00",
-          "title": "Le 23h.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T06:00:00+03:00",
-          "stop": "2026-07-05T06:30:00+03:00",
-          "title": "Stoemp, pèkèt... et des rawettes !",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T06:30:00+03:00",
-          "stop": "2026-07-05T06:57:00+03:00",
-          "title": "Wari.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T06:57:00+03:00",
-          "stop": "2026-07-05T07:12:00+03:00",
-          "title": "100 châteaux.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T07:12:00+03:00",
-          "stop": "2026-07-05T08:02:00+03:00",
-          "title": "Silence, ça pousse !",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T08:02:00+03:00",
-          "stop": "2026-07-05T08:55:00+03:00",
-          "title": "Affaire Festina, coup de théâtre chez les Chirac.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T08:55:00+03:00",
-          "stop": "2026-07-05T09:00:00+03:00",
-          "title": "La recette de Guy Martin. S: 8 / Ep: 13.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:00:00+03:00",
-          "stop": "2026-07-05T09:21:00+03:00",
-          "title": "Le téléjournal de Radio-Canada.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:21:00+03:00",
-          "stop": "2026-07-05T09:29:00+03:00",
-          "title": "Yétili (les courts). S: 6 / Ep: 15.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:29:00+03:00",
-          "stop": "2026-07-05T09:37:00+03:00",
-          "title": "Yétili (les courts). S: 6 / Ep: 16.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:37:00+03:00",
-          "stop": "2026-07-05T09:42:00+03:00",
-          "title": "Dessine les animaux avec Koumi. S: 1 / Ep: 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:42:00+03:00",
-          "stop": "2026-07-05T09:47:00+03:00",
-          "title": "Dessine les animaux avec Koumi. S: 1 / Ep: 18.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:47:00+03:00",
-          "stop": "2026-07-05T09:50:00+03:00",
-          "title": "C'est mathématique ! Avec Iman. S: 1 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:50:00+03:00",
-          "stop": "2026-07-05T09:53:00+03:00",
-          "title": "Ta vie sans ça. S: 1 / Ep: 50.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:53:00+03:00",
-          "stop": "2026-07-05T10:16:00+03:00",
-          "title": "Belfort et Lupin. S: 1 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T10:16:00+03:00",
-          "stop": "2026-07-05T10:27:00+03:00",
-          "title": "Potobot. S: 1 / Ep: 38.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T10:27:00+03:00",
-          "stop": "2026-07-05T10:34:00+03:00",
-          "title": "Les triplés. S: 1 / Ep: 57.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T10:34:00+03:00",
-          "stop": "2026-07-05T10:59:00+03:00",
-          "title": "L'aventure du monde des mondes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T10:59:00+03:00",
-          "stop": "2026-07-05T11:06:00+03:00",
-          "title": "Foot go. S: 1 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T11:06:00+03:00",
-          "stop": "2026-07-05T11:12:00+03:00",
-          "title": "Les Marocains du ciel. S: 1 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T11:12:00+03:00",
-          "stop": "2026-07-05T11:32:00+03:00",
-          "title": "Le match dans le match - Isabelle Inchauspé.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T11:32:00+03:00",
-          "stop": "2026-07-05T11:39:00+03:00",
-          "title": "Tarmac Comedy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T11:39:00+03:00",
-          "stop": "2026-07-05T12:45:00+03:00",
-          "title": "Spéciale C dans l'air.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T12:45:00+03:00",
-          "stop": "2026-07-05T13:10:00+03:00",
-          "title": "Tendance XXI.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T13:10:00+03:00",
-          "stop": "2026-07-05T13:39:00+03:00",
-          "title": "Strip-tease. S: 3 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T13:39:00+03:00",
-          "stop": "2026-07-05T14:30:00+03:00",
-          "title": "Dîner à la ferme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T14:30:00+03:00",
-          "stop": "2026-07-05T14:59:00+03:00",
-          "title": "JT 19h30.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T14:59:00+03:00",
-          "stop": "2026-07-05T16:18:00+03:00",
-          "title": "Mes amis espagnols.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T16:18:00+03:00",
-          "stop": "2026-07-05T16:31:00+03:00",
-          "title": "100 châteaux.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T16:31:00+03:00",
-          "stop": "2026-07-05T16:45:00+03:00",
-          "title": "Tarmac Comedy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T16:45:00+03:00",
-          "stop": "2026-07-05T17:25:00+03:00",
-          "title": "Tu bluffes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T17:25:00+03:00",
-          "stop": "2026-07-05T17:57:00+03:00",
-          "title": "Questions pour un champion.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T17:57:00+03:00",
-          "stop": "2026-07-05T18:45:00+03:00",
-          "title": "Skate le monde. S: 2 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T18:45:00+03:00",
-          "stop": "2026-07-05T19:00:00+03:00",
-          "title": "Peaux noires: quel héritage? S: 1 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:00:00+03:00",
-          "stop": "2026-07-05T19:27:00+03:00",
-          "title": "64': Actu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:27:00+03:00",
-          "stop": "2026-07-05T19:30:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:30:00+03:00",
-          "stop": "2026-07-05T19:53:00+03:00",
-          "title": "64': Débat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:53:00+03:00",
-          "stop": "2026-07-05T20:02:00+03:00",
-          "title": "L'invité.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T20:02:00+03:00",
-          "stop": "2026-07-05T20:44:00+03:00",
-          "title": "Sans détours. S: 2 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T20:44:00+03:00",
-          "stop": "2026-07-05T21:00:00+03:00",
-          "title": "100 châteaux.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:00:00+03:00",
-          "stop": "2026-07-05T21:26:00+03:00",
-          "title": "Le Journal de la RTS.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:26:00+03:00",
-          "stop": "2026-07-05T21:30:00+03:00",
-          "title": "Merci Professeur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:30:00+03:00",
-          "stop": "2026-07-05T21:57:00+03:00",
-          "title": "Le Journal de France 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:57:00+03:00",
-          "stop": "2026-07-05T21:59:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:59:00+03:00",
-          "stop": "2026-07-05T23:49:00+03:00",
-          "title": "La nuit du 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T23:49:00+03:00",
-          "stop": "2026-07-06T01:21:00+03:00",
-          "title": "Olivia.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
         {
-          "start": "2026-07-06T01:21:00+03:00",
-          "stop": "2026-07-06T01:47:00+03:00",
-          "title": "TV5MONDE, le journal Afrique.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T01:47:00+03:00",
+          "start": "2026-07-06T01:23:00+03:00",
           "stop": "2026-07-06T01:50:00+03:00",
-          "title": "Météo.",
+          "title": "TV5MONDE, le journal Afrique.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-06T01:50:00+03:00",
-          "stop": "2026-07-06T02:12:00+03:00",
+          "stop": "2026-07-06T01:52:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T01:52:00+03:00",
+          "stop": "2026-07-06T02:14:00+03:00",
           "title": "En concert privé avec Vanessa Paradis.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T02:12:00+03:00",
-          "stop": "2026-07-06T03:09:00+03:00",
+          "start": "2026-07-06T02:14:00+03:00",
+          "stop": "2026-07-06T03:12:00+03:00",
           "title": "Vanessa Paradis, la soirée.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T03:09:00+03:00",
-          "stop": "2026-07-06T04:01:00+03:00",
+          "start": "2026-07-06T03:12:00+03:00",
+          "stop": "2026-07-06T04:05:00+03:00",
           "title": "Au bout de la forêt, l'espoir.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T04:01:00+03:00",
-          "stop": "2026-07-06T04:45:00+03:00",
+          "start": "2026-07-06T04:05:00+03:00",
+          "stop": "2026-07-06T04:50:00+03:00",
           "title": "La fièvre des festivals.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T04:45:00+03:00",
+          "start": "2026-07-06T04:50:00+03:00",
           "stop": "2026-07-06T05:00:00+03:00",
           "title": "Tendance XXI.",
           "description": "L",
@@ -456,13 +80,13 @@
         },
         {
           "start": "2026-07-06T06:15:00+03:00",
-          "stop": "2026-07-06T06:37:00+03:00",
+          "stop": "2026-07-06T06:36:00+03:00",
           "title": "Un si grand soleil. S: 4 / Ep: 813.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T06:37:00+03:00",
+          "start": "2026-07-06T06:36:00+03:00",
           "stop": "2026-07-06T07:00:00+03:00",
           "title": "Un si grand soleil. S: 4 / Ep: 814.",
           "description": "L",
@@ -470,41 +94,48 @@
         },
         {
           "start": "2026-07-06T07:00:00+03:00",
-          "stop": "2026-07-06T07:49:00+03:00",
+          "stop": "2026-07-06T07:48:00+03:00",
           "title": "En marge du monde. S: 2 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T07:49:00+03:00",
-          "stop": "2026-07-06T08:00:00+03:00",
+          "start": "2026-07-06T07:48:00+03:00",
+          "stop": "2026-07-06T07:56:00+03:00",
           "title": "L'invité.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-07-06T07:56:00+03:00",
+          "stop": "2026-07-06T08:00:00+03:00",
+          "title": "Stances la poésie est dans la vie: la p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-07-06T08:00:00+03:00",
-          "stop": "2026-07-06T08:25:00+03:00",
+          "stop": "2026-07-06T08:24:00+03:00",
           "title": "Le 6h info.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T08:25:00+03:00",
-          "stop": "2026-07-06T08:30:00+03:00",
+          "start": "2026-07-06T08:24:00+03:00",
+          "stop": "2026-07-06T08:28:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T08:30:00+03:00",
-          "stop": "2026-07-06T08:46:00+03:00",
+          "start": "2026-07-06T08:28:00+03:00",
+          "stop": "2026-07-06T08:45:00+03:00",
           "title": "Télématin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T08:46:00+03:00",
+          "start": "2026-07-06T08:45:00+03:00",
           "stop": "2026-07-06T09:00:00+03:00",
           "title": "Itinéraires paysans.",
           "description": "L",
@@ -512,104 +143,118 @@
         },
         {
           "start": "2026-07-06T09:00:00+03:00",
-          "stop": "2026-07-06T09:26:00+03:00",
+          "stop": "2026-07-06T09:22:00+03:00",
           "title": "Le téléjournal de Radio-Canada.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T09:26:00+03:00",
-          "stop": "2026-07-06T09:37:00+03:00",
+          "start": "2026-07-06T09:22:00+03:00",
+          "stop": "2026-07-06T09:33:00+03:00",
           "title": "Edmond et Lucy. S: 1 / Ep: 40.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T09:37:00+03:00",
-          "stop": "2026-07-06T09:49:00+03:00",
+          "start": "2026-07-06T09:33:00+03:00",
+          "stop": "2026-07-06T09:45:00+03:00",
           "title": "Tamia. S: 1 / Ep: 17.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T09:49:00+03:00",
-          "stop": "2026-07-06T09:56:00+03:00",
+          "start": "2026-07-06T09:45:00+03:00",
+          "stop": "2026-07-06T09:53:00+03:00",
           "title": "Il était une fois... ces drôles d'objets. S: 1 / Ep: 75.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T09:56:00+03:00",
-          "stop": "2026-07-06T10:01:00+03:00",
+          "start": "2026-07-06T09:53:00+03:00",
+          "stop": "2026-07-06T09:58:00+03:00",
           "title": "L'imagier animé de Koumi. S: 2 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T10:01:00+03:00",
-          "stop": "2026-07-06T10:04:00+03:00",
+          "start": "2026-07-06T09:58:00+03:00",
+          "stop": "2026-07-06T10:02:00+03:00",
           "title": "Conte-nous ! S: 5 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T10:04:00+03:00",
-          "stop": "2026-07-06T10:29:00+03:00",
+          "start": "2026-07-06T10:02:00+03:00",
+          "stop": "2026-07-06T10:27:00+03:00",
           "title": "Drazilion. S: 1 / Ep: 16.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T10:29:00+03:00",
-          "stop": "2026-07-06T10:55:00+03:00",
+          "start": "2026-07-06T10:27:00+03:00",
+          "stop": "2026-07-06T10:54:00+03:00",
           "title": "Vroum.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T10:55:00+03:00",
-          "stop": "2026-07-06T11:23:00+03:00",
+          "start": "2026-07-06T10:54:00+03:00",
+          "stop": "2026-07-06T11:21:00+03:00",
           "title": "L'échappée belge en France - La Haute-Tarentaise.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T11:23:00+03:00",
-          "stop": "2026-07-06T11:55:00+03:00",
+          "start": "2026-07-06T11:21:00+03:00",
+          "stop": "2026-07-06T11:52:00+03:00",
           "title": "Les routes du goût - La ballade d'Emma. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T11:55:00+03:00",
-          "stop": "2026-07-06T12:25:00+03:00",
+          "start": "2026-07-06T11:52:00+03:00",
+          "stop": "2026-07-06T12:18:00+03:00",
           "title": "Strip-tease.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T12:25:00+03:00",
-          "stop": "2026-07-06T12:53:00+03:00",
+          "start": "2026-07-06T12:18:00+03:00",
+          "stop": "2026-07-06T12:46:00+03:00",
           "title": "Strip-tease.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T12:53:00+03:00",
-          "stop": "2026-07-06T13:17:00+03:00",
+          "start": "2026-07-06T12:46:00+03:00",
+          "stop": "2026-07-06T12:56:00+03:00",
+          "title": "Maestro !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T12:56:00+03:00",
+          "stop": "2026-07-06T13:22:00+03:00",
           "title": "Outremer.story. S: 3 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T13:17:00+03:00",
-          "stop": "2026-07-06T13:45:00+03:00",
+          "start": "2026-07-06T13:22:00+03:00",
+          "stop": "2026-07-06T13:44:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1846.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T13:45:00+03:00",
+          "start": "2026-07-06T13:44:00+03:00",
+          "stop": "2026-07-06T13:47:00+03:00",
+          "title": "Stances la poésie est dans la vie: la p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T13:47:00+03:00",
           "stop": "2026-07-06T14:30:00+03:00",
           "title": "Tout le monde veut prendre sa place.",
           "description": "L",
@@ -617,8 +262,22 @@
         },
         {
           "start": "2026-07-06T14:30:00+03:00",
-          "stop": "2026-07-06T15:00:00+03:00",
+          "stop": "2026-07-06T14:53:00+03:00",
           "title": "JT 19h30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T14:53:00+03:00",
+          "stop": "2026-07-06T14:56:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 38.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T14:56:00+03:00",
+          "stop": "2026-07-06T15:00:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 39.",
           "description": "L",
           "category": null
         },
@@ -638,13 +297,13 @@
         },
         {
           "start": "2026-07-06T17:00:00+03:00",
-          "stop": "2026-07-06T17:12:00+03:00",
+          "stop": "2026-07-06T17:11:00+03:00",
           "title": "Woolly Woolly. S: 1 / Ep: 46.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T17:12:00+03:00",
+          "start": "2026-07-06T17:11:00+03:00",
           "stop": "2026-07-06T17:22:00+03:00",
           "title": "Le refuge d'Audrey. S: 1 / Ep: 17.",
           "description": "L",
@@ -659,15 +318,29 @@
         },
         {
           "start": "2026-07-06T17:45:00+03:00",
-          "stop": "2026-07-06T18:01:00+03:00",
+          "stop": "2026-07-06T17:57:00+03:00",
           "title": "Compostman et moi. S: 1 / Ep: 21.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T18:01:00+03:00",
-          "stop": "2026-07-06T19:00:00+03:00",
+          "start": "2026-07-06T17:57:00+03:00",
+          "stop": "2026-07-06T18:00:00+03:00",
+          "title": "Stances la poésie est dans la vie: la p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T18:00:00+03:00",
+          "stop": "2026-07-06T18:56:00+03:00",
           "title": "Le Point - Au sommaire.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T18:56:00+03:00",
+          "stop": "2026-07-06T19:00:00+03:00",
+          "title": "L'artiste et l'oeuvre - Harouna Ouedraogo.",
           "description": "L",
           "category": null
         },
@@ -687,34 +360,34 @@
         },
         {
           "start": "2026-07-06T19:30:00+03:00",
-          "stop": "2026-07-06T19:53:00+03:00",
+          "stop": "2026-07-06T19:55:00+03:00",
           "title": "64': Débat.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T19:53:00+03:00",
-          "stop": "2026-07-06T20:01:00+03:00",
+          "start": "2026-07-06T19:55:00+03:00",
+          "stop": "2026-07-06T20:04:00+03:00",
           "title": "L'invité.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T20:01:00+03:00",
-          "stop": "2026-07-06T20:23:00+03:00",
+          "start": "2026-07-06T20:04:00+03:00",
+          "stop": "2026-07-06T20:26:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1846.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T20:23:00+03:00",
-          "stop": "2026-07-06T20:45:00+03:00",
+          "start": "2026-07-06T20:26:00+03:00",
+          "stop": "2026-07-06T20:50:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1847.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T20:45:00+03:00",
+          "start": "2026-07-06T20:50:00+03:00",
           "stop": "2026-07-06T21:00:00+03:00",
           "title": "Maestro !",
           "description": "L",
@@ -743,22 +416,15 @@
         },
         {
           "start": "2026-07-06T22:00:00+03:00",
-          "stop": "2026-07-06T22:02:00+03:00",
-          "title": "Météo.",
+          "stop": "2026-07-06T22:10:00+03:00",
+          "title": "TLS Tour de France.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T22:02:00+03:00",
-          "stop": "2026-07-06T23:57:00+03:00",
+          "start": "2026-07-06T22:10:00+03:00",
+          "stop": "2026-07-07T00:06:00+03:00",
           "title": "Fort Boyard.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T23:57:00+03:00",
-          "stop": "2026-07-07T00:27:00+03:00",
-          "title": "L'actu news.",
           "description": "L",
           "category": null
         }
@@ -768,56 +434,63 @@
       "date": "2026-07-07",
       "programs": [
         {
-          "start": "2026-07-07T00:27:00+03:00",
-          "stop": "2026-07-07T00:30:00+03:00",
+          "start": "2026-07-07T00:06:00+03:00",
+          "stop": "2026-07-07T00:37:00+03:00",
+          "title": "L'actu news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T00:37:00+03:00",
+          "stop": "2026-07-07T00:40:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T00:30:00+03:00",
-          "stop": "2026-07-07T01:35:00+03:00",
+          "start": "2026-07-07T00:40:00+03:00",
+          "stop": "2026-07-07T01:45:00+03:00",
           "title": "Feu feu feu.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T01:35:00+03:00",
-          "stop": "2026-07-07T02:01:00+03:00",
+          "start": "2026-07-07T01:45:00+03:00",
+          "stop": "2026-07-07T02:13:00+03:00",
           "title": "TV5MONDE, le journal Afrique.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T02:01:00+03:00",
-          "stop": "2026-07-07T02:04:00+03:00",
+          "start": "2026-07-07T02:13:00+03:00",
+          "stop": "2026-07-07T02:16:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T02:04:00+03:00",
-          "stop": "2026-07-07T02:51:00+03:00",
+          "start": "2026-07-07T02:16:00+03:00",
+          "stop": "2026-07-07T03:03:00+03:00",
           "title": "Skate le monde. S: 2 / Ep: 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T02:51:00+03:00",
-          "stop": "2026-07-07T03:39:00+03:00",
+          "start": "2026-07-07T03:03:00+03:00",
+          "stop": "2026-07-07T03:52:00+03:00",
           "title": "Dîner à la ferme.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T03:39:00+03:00",
-          "stop": "2026-07-07T04:06:00+03:00",
-          "title": "Tendance XXI.",
+          "start": "2026-07-07T03:52:00+03:00",
+          "stop": "2026-07-07T04:05:00+03:00",
+          "title": "Zoom - Kada Boualia - Goalball.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T04:06:00+03:00",
+          "start": "2026-07-07T04:05:00+03:00",
           "stop": "2026-07-07T05:00:00+03:00",
           "title": "Affaire Festina, coup de théâtre chez les Chirac.",
           "description": "L",
@@ -825,41 +498,48 @@
         },
         {
           "start": "2026-07-07T05:00:00+03:00",
-          "stop": "2026-07-07T06:01:00+03:00",
+          "stop": "2026-07-07T06:00:00+03:00",
           "title": "Le 23h.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T06:01:00+03:00",
-          "stop": "2026-07-07T06:15:00+03:00",
+          "start": "2026-07-07T06:00:00+03:00",
+          "stop": "2026-07-07T06:14:00+03:00",
           "title": "Zoom - Élisa Martin-Borie - Para natation.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T06:15:00+03:00",
-          "stop": "2026-07-07T06:37:00+03:00",
+          "start": "2026-07-07T06:14:00+03:00",
+          "stop": "2026-07-07T06:36:00+03:00",
           "title": "Un si grand soleil. S: 4 / Ep: 815.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T06:37:00+03:00",
-          "stop": "2026-07-07T07:00:00+03:00",
+          "start": "2026-07-07T06:36:00+03:00",
+          "stop": "2026-07-07T06:58:00+03:00",
           "title": "Un si grand soleil. S: 4 / Ep: 816.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T07:00:00+03:00",
-          "stop": "2026-07-07T07:49:00+03:00",
+          "start": "2026-07-07T06:58:00+03:00",
+          "stop": "2026-07-07T07:46:00+03:00",
           "title": "Partir autrement entre amis. S: 2 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T07:49:00+03:00",
+          "start": "2026-07-07T07:46:00+03:00",
+          "stop": "2026-07-07T07:51:00+03:00",
+          "title": "Qui dit vieux ? - Le bénévolat c'est la santé !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:51:00+03:00",
           "stop": "2026-07-07T08:00:00+03:00",
           "title": "L'invité.",
           "description": "L",
@@ -867,27 +547,27 @@
         },
         {
           "start": "2026-07-07T08:00:00+03:00",
-          "stop": "2026-07-07T08:24:00+03:00",
+          "stop": "2026-07-07T08:25:00+03:00",
           "title": "Le 6h info.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T08:24:00+03:00",
-          "stop": "2026-07-07T08:30:00+03:00",
+          "start": "2026-07-07T08:25:00+03:00",
+          "stop": "2026-07-07T08:28:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T08:30:00+03:00",
-          "stop": "2026-07-07T08:46:00+03:00",
+          "start": "2026-07-07T08:28:00+03:00",
+          "stop": "2026-07-07T08:45:00+03:00",
           "title": "Télématin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T08:46:00+03:00",
+          "start": "2026-07-07T08:45:00+03:00",
           "stop": "2026-07-07T09:00:00+03:00",
           "title": "Itinéraires paysans.",
           "description": "L",
@@ -916,76 +596,83 @@
         },
         {
           "start": "2026-07-07T09:47:00+03:00",
-          "stop": "2026-07-07T09:54:00+03:00",
+          "stop": "2026-07-07T09:55:00+03:00",
           "title": "Il était une fois... ces drôles d'objets. S: 1 / Ep: 76.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T09:54:00+03:00",
-          "stop": "2026-07-07T09:59:00+03:00",
+          "start": "2026-07-07T09:55:00+03:00",
+          "stop": "2026-07-07T10:00:00+03:00",
           "title": "L'imagier animé de Koumi. S: 2 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T09:59:00+03:00",
-          "stop": "2026-07-07T10:02:00+03:00",
+          "start": "2026-07-07T10:00:00+03:00",
+          "stop": "2026-07-07T10:03:00+03:00",
           "title": "Conte-nous ! S: 5 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T10:02:00+03:00",
-          "stop": "2026-07-07T10:27:00+03:00",
+          "start": "2026-07-07T10:03:00+03:00",
+          "stop": "2026-07-07T10:29:00+03:00",
           "title": "Drazilion. S: 1 / Ep: 17.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T10:27:00+03:00",
-          "stop": "2026-07-07T10:54:00+03:00",
+          "start": "2026-07-07T10:29:00+03:00",
+          "stop": "2026-07-07T10:57:00+03:00",
           "title": "Chiens et chats sans collier.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T10:54:00+03:00",
-          "stop": "2026-07-07T11:21:00+03:00",
+          "start": "2026-07-07T10:57:00+03:00",
+          "stop": "2026-07-07T11:24:00+03:00",
           "title": "Pistes vertes.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T11:21:00+03:00",
-          "stop": "2026-07-07T11:47:00+03:00",
+          "start": "2026-07-07T11:24:00+03:00",
+          "stop": "2026-07-07T11:50:00+03:00",
           "title": "C'est succulent !",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T11:47:00+03:00",
-          "stop": "2026-07-07T12:53:00+03:00",
+          "start": "2026-07-07T11:50:00+03:00",
+          "stop": "2026-07-07T12:57:00+03:00",
           "title": "Spéciale C dans l'air.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T12:53:00+03:00",
-          "stop": "2026-07-07T13:19:00+03:00",
+          "start": "2026-07-07T12:57:00+03:00",
+          "stop": "2026-07-07T13:23:00+03:00",
           "title": "Outremer.story. S: 3 / Ep: 7.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T13:19:00+03:00",
-          "stop": "2026-07-07T13:45:00+03:00",
+          "start": "2026-07-07T13:23:00+03:00",
+          "stop": "2026-07-07T13:46:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1847.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T13:45:00+03:00",
+          "start": "2026-07-07T13:46:00+03:00",
+          "stop": "2026-07-07T13:48:00+03:00",
+          "title": "Stances la poésie est dans la vie: la p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T13:48:00+03:00",
           "stop": "2026-07-07T14:30:00+03:00",
           "title": "Tout le monde veut prendre sa place.",
           "description": "L",
@@ -993,34 +680,62 @@
         },
         {
           "start": "2026-07-07T14:30:00+03:00",
-          "stop": "2026-07-07T15:03:00+03:00",
+          "stop": "2026-07-07T14:53:00+03:00",
           "title": "JT 19h30.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T15:03:00+03:00",
-          "stop": "2026-07-07T16:28:00+03:00",
+          "start": "2026-07-07T14:53:00+03:00",
+          "stop": "2026-07-07T14:56:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 40.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T14:56:00+03:00",
+          "stop": "2026-07-07T14:59:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 41.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T14:59:00+03:00",
+          "stop": "2026-07-07T16:23:00+03:00",
           "title": "La permission.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T16:28:00+03:00",
-          "stop": "2026-07-07T17:00:00+03:00",
+          "start": "2026-07-07T16:23:00+03:00",
+          "stop": "2026-07-07T16:27:00+03:00",
+          "title": "Tarmac Comedy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T16:27:00+03:00",
+          "stop": "2026-07-07T16:32:00+03:00",
+          "title": "Tarmac Comedy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T16:32:00+03:00",
+          "stop": "2026-07-07T16:59:00+03:00",
           "title": "Génération F - Jules Be Kuti (Paris) / Badi (Bruxelles).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T17:00:00+03:00",
-          "stop": "2026-07-07T17:12:00+03:00",
+          "start": "2026-07-07T16:59:00+03:00",
+          "stop": "2026-07-07T17:10:00+03:00",
           "title": "Woolly Woolly. S: 1 / Ep: 47.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T17:12:00+03:00",
+          "start": "2026-07-07T17:10:00+03:00",
           "stop": "2026-07-07T17:21:00+03:00",
           "title": "Le refuge d'Audrey. S: 1 / Ep: 18.",
           "description": "L",
@@ -1028,34 +743,48 @@
         },
         {
           "start": "2026-07-07T17:21:00+03:00",
-          "stop": "2026-07-07T17:45:00+03:00",
+          "stop": "2026-07-07T17:44:00+03:00",
           "title": "Comme des têtes pas de poule. S: 2 / Ep: 7.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T17:45:00+03:00",
-          "stop": "2026-07-07T18:00:00+03:00",
+          "start": "2026-07-07T17:44:00+03:00",
+          "stop": "2026-07-07T17:56:00+03:00",
           "title": "Compostman et moi. S: 1 / Ep: 17.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T18:00:00+03:00",
-          "stop": "2026-07-07T19:00:00+03:00",
+          "start": "2026-07-07T17:56:00+03:00",
+          "stop": "2026-07-07T17:59:00+03:00",
+          "title": "Cap sur les oasis. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T17:59:00+03:00",
+          "stop": "2026-07-07T18:47:00+03:00",
           "title": "Partir autrement entre amis. S: 2 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-07-07T18:47:00+03:00",
+          "stop": "2026-07-07T19:00:00+03:00",
+          "title": "Créatures microscopiques.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-07-07T19:00:00+03:00",
-          "stop": "2026-07-07T19:27:00+03:00",
+          "stop": "2026-07-07T19:26:00+03:00",
           "title": "64': Actu.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T19:27:00+03:00",
+          "start": "2026-07-07T19:26:00+03:00",
           "stop": "2026-07-07T19:30:00+03:00",
           "title": "Météo.",
           "description": "L",
@@ -1063,34 +792,34 @@
         },
         {
           "start": "2026-07-07T19:30:00+03:00",
-          "stop": "2026-07-07T19:53:00+03:00",
+          "stop": "2026-07-07T19:54:00+03:00",
           "title": "64': Débat.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T19:53:00+03:00",
-          "stop": "2026-07-07T20:01:00+03:00",
+          "start": "2026-07-07T19:54:00+03:00",
+          "stop": "2026-07-07T20:04:00+03:00",
           "title": "L'invité.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T20:01:00+03:00",
-          "stop": "2026-07-07T20:23:00+03:00",
+          "start": "2026-07-07T20:04:00+03:00",
+          "stop": "2026-07-07T20:26:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1847.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T20:23:00+03:00",
-          "stop": "2026-07-07T20:48:00+03:00",
+          "start": "2026-07-07T20:26:00+03:00",
+          "stop": "2026-07-07T20:49:00+03:00",
           "title": "Un si grand soleil. S: 8 / Ep: 1848.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T20:48:00+03:00",
+          "start": "2026-07-07T20:49:00+03:00",
           "stop": "2026-07-07T21:00:00+03:00",
           "title": "Maestro !",
           "description": "L",
@@ -1119,21 +848,446 @@
         },
         {
           "start": "2026-07-07T22:00:00+03:00",
-          "stop": "2026-07-07T22:03:00+03:00",
-          "title": "Météo.",
+          "stop": "2026-07-07T22:09:00+03:00",
+          "title": "TLS Tour de France.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T22:03:00+03:00",
-          "stop": "2026-07-07T23:38:00+03:00",
+          "start": "2026-07-07T22:09:00+03:00",
+          "stop": "2026-07-07T23:43:00+03:00",
           "title": "Les siffleurs. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-07T23:38:00+03:00",
-          "stop": "2026-07-08T00:08:00+03:00",
+          "start": "2026-07-07T23:43:00+03:00",
+          "stop": "2026-07-08T00:14:00+03:00",
+          "title": "L'actu news.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "programs": [
+        {
+          "start": "2026-07-08T00:14:00+03:00",
+          "stop": "2026-07-08T00:16:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T00:16:00+03:00",
+          "stop": "2026-07-08T01:04:00+03:00",
+          "title": "L'abîme. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T01:04:00+03:00",
+          "stop": "2026-07-08T01:57:00+03:00",
+          "title": "L'abîme. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T01:57:00+03:00",
+          "stop": "2026-07-08T02:23:00+03:00",
+          "title": "TV5MONDE, le journal Afrique.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T02:23:00+03:00",
+          "stop": "2026-07-08T02:26:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T02:26:00+03:00",
+          "stop": "2026-07-08T03:57:00+03:00",
+          "title": "Après le silence.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T03:57:00+03:00",
+          "stop": "2026-07-08T04:07:00+03:00",
+          "title": "Maestro !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T04:07:00+03:00",
+          "stop": "2026-07-08T05:00:00+03:00",
+          "title": "Au bout de la forêt, l'espoir.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:00:00+03:00",
+          "stop": "2026-07-08T06:00:00+03:00",
+          "title": "Le 23h.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T06:00:00+03:00",
+          "stop": "2026-07-08T06:14:00+03:00",
+          "title": "Zoom - Amine Souabni - Foot fauteuil.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T06:14:00+03:00",
+          "stop": "2026-07-08T06:36:00+03:00",
+          "title": "Un si grand soleil. S: 4 / Ep: 817.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T06:36:00+03:00",
+          "stop": "2026-07-08T07:00:00+03:00",
+          "title": "Un si grand soleil. S: 4 / Ep: 818.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:00:00+03:00",
+          "stop": "2026-07-08T07:46:00+03:00",
+          "title": "180 jours - Les retrouvailles.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:46:00+03:00",
+          "stop": "2026-07-08T07:51:00+03:00",
+          "title": "Qui dit vieux ? - Rester dans la danse ...",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:51:00+03:00",
+          "stop": "2026-07-08T08:00:00+03:00",
+          "title": "L'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T08:00:00+03:00",
+          "stop": "2026-07-08T08:24:00+03:00",
+          "title": "Le 6h info.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T08:24:00+03:00",
+          "stop": "2026-07-08T08:28:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T08:28:00+03:00",
+          "stop": "2026-07-08T08:45:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T08:45:00+03:00",
+          "stop": "2026-07-08T09:00:00+03:00",
+          "title": "Itinéraires paysans - Denis Lesgourgues, Isabelle Collom, Patrick Collom.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:00:00+03:00",
+          "stop": "2026-07-08T09:26:00+03:00",
+          "title": "Le téléjournal de Radio-Canada.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:26:00+03:00",
+          "stop": "2026-07-08T09:37:00+03:00",
+          "title": "Edmond et Lucy. S: 1 / Ep: 47.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:37:00+03:00",
+          "stop": "2026-07-08T09:50:00+03:00",
+          "title": "Tamia. S: 1 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:50:00+03:00",
+          "stop": "2026-07-08T09:57:00+03:00",
+          "title": "Il était une fois... ces drôles d'objets. S: 1 / Ep: 77.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:57:00+03:00",
+          "stop": "2026-07-08T10:02:00+03:00",
+          "title": "L'imagier animé de Koumi. S: 2 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:02:00+03:00",
+          "stop": "2026-07-08T10:07:00+03:00",
+          "title": "Conte-nous ! S: 5 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:07:00+03:00",
+          "stop": "2026-07-08T10:33:00+03:00",
+          "title": "Drazilion. S: 1 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:33:00+03:00",
+          "stop": "2026-07-08T10:55:00+03:00",
+          "title": "Une brique dans le ventre.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:55:00+03:00",
+          "stop": "2026-07-08T11:00:00+03:00",
+          "title": "Qui dit vieux ? - Rester dans la danse ...",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T11:00:00+03:00",
+          "stop": "2026-07-08T11:26:00+03:00",
+          "title": "Chroniques d'en haut.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T11:26:00+03:00",
+          "stop": "2026-07-08T11:48:00+03:00",
+          "title": "La cuisine d'Isabelle et Ricardo. S: 2 / Ep: 21.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T11:48:00+03:00",
+          "stop": "2026-07-08T12:54:00+03:00",
+          "title": "Spéciale C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T12:54:00+03:00",
+          "stop": "2026-07-08T13:20:00+03:00",
+          "title": "Outremer.story. S: 3 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T13:20:00+03:00",
+          "stop": "2026-07-08T13:44:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1848.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T13:44:00+03:00",
+          "stop": "2026-07-08T13:46:00+03:00",
+          "title": "Stances.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T13:46:00+03:00",
+          "stop": "2026-07-08T14:30:00+03:00",
+          "title": "Tout le monde veut prendre sa place.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:30:00+03:00",
+          "stop": "2026-07-08T14:53:00+03:00",
+          "title": "JT 19h30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:53:00+03:00",
+          "stop": "2026-07-08T14:57:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 42.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:57:00+03:00",
+          "stop": "2026-07-08T15:00:00+03:00",
+          "title": "Vestiaires. S: 10 / Ep: 43.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T15:00:00+03:00",
+          "stop": "2026-07-08T16:34:00+03:00",
+          "title": "Olivia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T16:34:00+03:00",
+          "stop": "2026-07-08T17:00:00+03:00",
+          "title": "Partir un jour.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:00:00+03:00",
+          "stop": "2026-07-08T17:11:00+03:00",
+          "title": "Woolly Woolly. S: 1 / Ep: 48.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:11:00+03:00",
+          "stop": "2026-07-08T17:22:00+03:00",
+          "title": "Le refuge d'Audrey. S: 1 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:22:00+03:00",
+          "stop": "2026-07-08T17:45:00+03:00",
+          "title": "Comme des têtes pas de poule. S: 2 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:45:00+03:00",
+          "stop": "2026-07-08T17:57:00+03:00",
+          "title": "Compostman et moi. S: 1 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:57:00+03:00",
+          "stop": "2026-07-08T18:01:00+03:00",
+          "title": "Cap sur les oasis. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T18:01:00+03:00",
+          "stop": "2026-07-08T18:47:00+03:00",
+          "title": "180 jours - À \" boutte \" des cells.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T18:47:00+03:00",
+          "stop": "2026-07-08T19:00:00+03:00",
+          "title": "Zoom - David Quichante - Le chant du moteur.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T19:00:00+03:00",
+          "stop": "2026-07-08T19:27:00+03:00",
+          "title": "64': Actu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T19:27:00+03:00",
+          "stop": "2026-07-08T19:30:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T19:30:00+03:00",
+          "stop": "2026-07-08T20:00:00+03:00",
+          "title": "64': Débat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:00:00+03:00",
+          "stop": "2026-07-08T20:09:00+03:00",
+          "title": "L'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:09:00+03:00",
+          "stop": "2026-07-08T20:31:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1848.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:31:00+03:00",
+          "stop": "2026-07-08T20:54:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1849.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:54:00+03:00",
+          "stop": "2026-07-08T21:00:00+03:00",
+          "title": "Ce qui nous porte. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T21:00:00+03:00",
+          "stop": "2026-07-08T21:26:00+03:00",
+          "title": "Le Journal de la RTS.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T21:26:00+03:00",
+          "stop": "2026-07-08T21:30:00+03:00",
+          "title": "Merci Professeur.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T21:30:00+03:00",
+          "stop": "2026-07-08T22:00:00+03:00",
+          "title": "Le Journal de France 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:00:00+03:00",
+          "stop": "2026-07-08T22:10:00+03:00",
+          "title": "TLS Tour de France.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:10:00+03:00",
+          "stop": "2026-07-08T23:41:00+03:00",
+          "title": "Le voyage de Fanny.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T23:41:00+03:00",
+          "stop": "2026-07-09T00:09:00+03:00",
           "title": "L'actu news.",
           "description": "L",
           "category": null

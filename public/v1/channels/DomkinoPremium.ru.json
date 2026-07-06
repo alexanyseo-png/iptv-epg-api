@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T00:30:00+03:00",
-          "stop": "2026-07-05T01:55:00+03:00",
-          "title": "х/ф Подарок с характером",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T01:55:00+03:00",
-          "stop": "2026-07-05T03:15:00+03:00",
-          "title": "х/ф Дикие предки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T03:15:00+03:00",
-          "stop": "2026-07-05T04:25:00+03:00",
-          "title": "х/ф Битва пап",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T04:25:00+03:00",
-          "stop": "2026-07-05T04:55:00+03:00",
-          "title": "м/ф Оранжевая корова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T04:55:00+03:00",
-          "stop": "2026-07-05T06:10:00+03:00",
-          "title": "х/ф Затмение",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T06:10:00+03:00",
-          "stop": "2026-07-05T08:25:00+03:00",
-          "title": "х/ф Викинг",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T08:25:00+03:00",
-          "stop": "2026-07-05T10:05:00+03:00",
-          "title": "х/ф Ночные стражи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T10:05:00+03:00",
-          "stop": "2026-07-05T12:00:00+03:00",
-          "title": "х/ф Смертельные иллюзии",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T12:00:00+03:00",
-          "stop": "2026-07-05T23:00:00+03:00",
-          "title": "т/с Ангел мести",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T23:00:00+03:00",
-          "stop": "2026-07-06T00:15:00+03:00",
-          "title": "х/ф Коллектор",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
@@ -150,6 +75,13 @@
           "start": "2026-07-06T14:00:00+03:00",
           "stop": "2026-07-06T16:35:00+03:00",
           "title": "т/с Мажор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T16:35:00+03:00",
+          "stop": "2026-07-06T18:10:00+03:00",
+          "title": "х/ф Пара на пару",
           "description": "L",
           "category": null
         }

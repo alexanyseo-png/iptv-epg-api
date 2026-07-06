@@ -8,46 +8,34 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 4,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T11:00:00+03:00",
-          "stop": "2026-07-05T16:55:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T16:55:00+03:00",
-          "stop": "2026-07-05T20:00:00+03:00",
-          "title": "Formula 1: Storbritannien GP – Race",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T20:00:00+03:00",
-          "stop": "2026-07-05T23:00:00+03:00",
-          "title": "Formula 1: Itävallan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T23:00:00+03:00",
-          "stop": "2026-07-06T11:00:00+03:00",
-          "title": "Formula 1: Storbritannien GP – Race",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
+        {
+          "start": "2026-07-06T00:30:00+03:00",
+          "stop": "2026-07-06T00:45:00+03:00",
+          "title": "Katastrofitutkinta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T00:45:00+03:00",
+          "stop": "2026-07-06T02:10:00+03:00",
+          "title": "Doc: Huijarideittailija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T02:10:00+03:00",
+          "stop": "2026-07-06T11:00:00+03:00",
+          "title": "Mafia – luottamuksellisesti",
+          "description": "L",
+          "category": null
+        },
         {
           "start": "2026-07-06T11:00:00+03:00",
           "stop": "2026-07-06T19:00:00+03:00",

@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T00:40:00+03:00",
-          "stop": "2026-07-05T02:30:00+03:00",
-          "title": "Leicester City – Blackburn Rovers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T02:30:00+03:00",
-          "stop": "2026-07-05T08:00:00+03:00",
-          "title": "Watford FC – Bristol City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T08:00:00+03:00",
-          "stop": "2026-07-05T09:50:00+03:00",
-          "title": "Qarabag Agdam – AFC Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T09:50:00+03:00",
-          "stop": "2026-07-05T11:40:00+03:00",
-          "title": "Villarreal CF – FC Kodaň",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T11:40:00+03:00",
-          "stop": "2026-07-05T13:30:00+03:00",
-          "title": "Athletic Bilbao – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T13:30:00+03:00",
-          "stop": "2026-07-05T15:20:00+03:00",
-          "title": "Sheffield Wednesday – Sheffield United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T15:20:00+03:00",
-          "stop": "2026-07-05T17:15:00+03:00",
-          "title": "Birmingham City – Derby County",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T17:15:00+03:00",
-          "stop": "2026-07-05T19:10:00+03:00",
-          "title": "Wrexham FC – Sheffield United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T19:10:00+03:00",
-          "stop": "2026-07-05T21:00:00+03:00",
-          "title": "SL Benfica – SSC Neapol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T21:00:00+03:00",
-          "stop": "2026-07-05T22:50:00+03:00",
-          "title": "Kairat Almaty – Olympiakos Pireus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-05T22:50:00+03:00",
-          "stop": "2026-07-06T00:40:00+03:00",
-          "title": "FC Barcelona – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
@@ -106,8 +24,50 @@
         },
         {
           "start": "2026-07-06T02:30:00+03:00",
-          "stop": "2026-07-06T03:30:00+03:00",
+          "stop": "2026-07-06T08:00:00+03:00",
           "title": "Blackburn Rovers – Wrexham FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T08:00:00+03:00",
+          "stop": "2026-07-06T09:50:00+03:00",
+          "title": "SL Benfica – SSC Neapol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T09:50:00+03:00",
+          "stop": "2026-07-06T11:40:00+03:00",
+          "title": "Kairat Almaty – Olympiakos Pireus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T11:40:00+03:00",
+          "stop": "2026-07-06T13:30:00+03:00",
+          "title": "FC Barcelona – Eintracht Frankfurt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T13:30:00+03:00",
+          "stop": "2026-07-06T15:20:00+03:00",
+          "title": "Sheffield United – Leicester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T15:20:00+03:00",
+          "stop": "2026-07-06T17:10:00+03:00",
+          "title": "Wrexham FC – Preston North End",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T17:10:00+03:00",
+          "stop": "2026-07-06T19:00:00+03:00",
+          "title": "Birmingham City – Southampton FC",
           "description": "L",
           "category": null
         }

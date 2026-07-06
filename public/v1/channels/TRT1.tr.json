@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-05T04:31:36.457697+00:00",
+  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-07-05",
-      "programs": [
-        {
-          "start": "2026-07-05T19:00:00+03:00",
-          "stop": "2026-07-06T00:15:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-06",
       "programs": [
@@ -80,6 +68,13 @@
           "start": "2026-07-06T14:00:00+03:00",
           "stop": "2026-07-06T17:30:00+03:00",
           "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-06T17:30:00+03:00",
+          "stop": "2026-07-06T19:00:00+03:00",
+          "title": "Kod Adı Kırlangıç",
           "description": "L",
           "category": null
         }
