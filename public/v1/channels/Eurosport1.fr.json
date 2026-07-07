@@ -8,73 +8,370 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
+  "generatedAt": "2026-07-07T04:18:04.363751+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 50,
   "days": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "programs": [
         {
-          "start": "2026-07-06T01:00:00+03:00",
-          "stop": "2026-07-06T02:30:00+03:00",
-          "title": "Snooker: Home Nations Series Northern Ireland Open Session 2 Final",
+          "start": "2026-07-07T01:00:00+03:00",
+          "stop": "2026-07-07T02:30:00+03:00",
+          "title": "Снукер: Чемпионат Великобритании Session 2 Final",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T02:30:00+03:00",
-          "stop": "2026-07-06T04:00:00+03:00",
-          "title": "Велоспорт «Тур де Франс» 2 этап Мужчины",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T04:00:00+03:00",
-          "stop": "2026-07-06T05:30:00+03:00",
-          "title": "Мотогонка: World Championship «8 часов Сузуки»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T05:30:00+03:00",
-          "stop": "2026-07-06T07:30:00+03:00",
-          "title": "Велоспорт «Тур де Франс» 2 этап Мужчины",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T07:30:00+03:00",
-          "stop": "2026-07-06T09:30:00+03:00",
-          "title": "Snooker: Home Nations Series Northern Ireland Open Session 2 Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T09:30:00+03:00",
-          "stop": "2026-07-06T10:00:00+03:00",
-          "title": "Скалолазание: World Series Krakow Лазание на скорость Финал Мужчины и женщины",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T10:00:00+03:00",
-          "stop": "2026-07-06T12:00:00+03:00",
-          "title": "Конкур: Global Champions Tour Монако",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T12:00:00+03:00",
-          "stop": "2026-07-06T13:00:00+03:00",
-          "title": "Велоспорт «Тур де Франс» 2 этап Мужчины",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-06T13:00:00+03:00",
-          "stop": "2026-07-06T18:30:00+03:00",
+          "start": "2026-07-07T02:30:00+03:00",
+          "stop": "2026-07-07T04:00:00+03:00",
           "title": "«Тур де Франс», Третий этап, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T04:00:00+03:00",
+          "stop": "2026-07-07T05:30:00+03:00",
+          "title": "Мотогонки на выносливость: Чемпионат мира «24 часа Ле-Мана»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T05:30:00+03:00",
+          "stop": "2026-07-07T07:30:00+03:00",
+          "title": "«Тур де Франс», Третий этап, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:30:00+03:00",
+          "stop": "2026-07-07T09:30:00+03:00",
+          "title": "Снукер: Чемпионат Великобритании Session 2 Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T09:30:00+03:00",
+          "stop": "2026-07-07T11:00:00+03:00",
+          "title": "«Тур де Франс», Третий этап, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T11:00:00+03:00",
+          "stop": "2026-07-07T12:00:00+03:00",
+          "title": "Скалолазание: World Series Innsbruck Боулдеринг Финал Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T12:00:00+03:00",
+          "stop": "2026-07-07T13:00:00+03:00",
+          "title": "Лазание на трудность: World Series Innsbruck Финал Мужчины и женщины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T13:00:00+03:00",
+          "stop": "2026-07-07T13:45:00+03:00",
+          "title": "«Тур де Франс», Третий этап, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T13:45:00+03:00",
+          "stop": "2026-07-07T14:00:00+03:00",
+          "title": "Велоспорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T14:00:00+03:00",
+          "stop": "2026-07-07T19:00:00+03:00",
+          "title": "⋗ Велоспорт «Тур де Франс» Четвертый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T19:00:00+03:00",
+          "stop": "2026-07-07T19:45:00+03:00",
+          "title": "Маунтинбайк: World Cup ELITE Кросс-кантри шорт-трек Ла-Туиль Женщины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T19:45:00+03:00",
+          "stop": "2026-07-07T20:30:00+03:00",
+          "title": "Маунтинбайк: World Cup ELITE Кросс-кантри шорт-трек Ла-Туиль Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T20:30:00+03:00",
+          "stop": "2026-07-07T21:00:00+03:00",
+          "title": "Мотокросс: World Championship Южная Африка MX2 Вторая гонка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T21:00:00+03:00",
+          "stop": "2026-07-07T21:30:00+03:00",
+          "title": "Мотокросс: World Championship Южная Африка MXGP Вторая гонка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T21:30:00+03:00",
+          "stop": "2026-07-07T22:00:00+03:00",
+          "title": "д/ф Секрет выносливости: Гонка за совершенством",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T22:00:00+03:00",
+          "stop": "2026-07-07T23:00:00+03:00",
+          "title": "Формула Е: World Championship Шанхай. Обзор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T23:00:00+03:00",
+          "stop": "2026-07-08T01:00:00+03:00",
+          "title": "Велоспорт. Тур де Франс. 4 этап",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "programs": [
+        {
+          "start": "2026-07-08T01:00:00+03:00",
+          "stop": "2026-07-08T02:30:00+03:00",
+          "title": "Снукер: Home Nations Series Scottish Open Session 2 Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T02:30:00+03:00",
+          "stop": "2026-07-08T04:00:00+03:00",
+          "title": "Велоспорт. Тур де Франс. 4 этап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T04:00:00+03:00",
+          "stop": "2026-07-08T05:30:00+03:00",
+          "title": "Endurance moto racing: World Championship Race Endurance 8 Hours of Spa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:30:00+03:00",
+          "stop": "2026-07-08T07:30:00+03:00",
+          "title": "Велоспорт. Тур де Франс. 4 этап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:30:00+03:00",
+          "stop": "2026-07-08T09:30:00+03:00",
+          "title": "Снукер: Home Nations Series Scottish Open Session 2 Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:30:00+03:00",
+          "stop": "2026-07-08T10:45:00+03:00",
+          "title": "Велоспорт. Тур де Франс. 4 этап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:45:00+03:00",
+          "stop": "2026-07-08T11:00:00+03:00",
+          "title": "Велоспорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T11:00:00+03:00",
+          "stop": "2026-07-08T12:00:00+03:00",
+          "title": "Скалолазание: World Cup Prague Boulder Финал Женщины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T12:00:00+03:00",
+          "stop": "2026-07-08T13:00:00+03:00",
+          "title": "Лазание на трудность: World Series Prague Финал Мужчины и женщины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T13:00:00+03:00",
+          "stop": "2026-07-08T14:00:00+03:00",
+          "title": "Маунтинбайк: World Cup ELITE Кросс-кантри шорт-трек Ла-Туиль Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:00:00+03:00",
+          "stop": "2026-07-08T14:45:00+03:00",
+          "title": "Велоспорт. Тур де Франс. 4 этап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:45:00+03:00",
+          "stop": "2026-07-08T19:15:00+03:00",
+          "title": "⋗ Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T19:15:00+03:00",
+          "stop": "2026-07-08T19:45:00+03:00",
+          "title": "Rice Bikes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T19:45:00+03:00",
+          "stop": "2026-07-08T20:45:00+03:00",
+          "title": "Формула Е: World Championship Шанхай. Обзор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:45:00+03:00",
+          "stop": "2026-07-08T22:00:00+03:00",
+          "title": "Снукер: Home Nations Series Scottish Open Session 2 Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:00:00+03:00",
+          "stop": "2026-07-08T22:30:00+03:00",
+          "title": "Трейлраннинг: World Series Quebec Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:30:00+03:00",
+          "stop": "2026-07-08T23:00:00+03:00",
+          "title": "Лазание на трудность: World Series Prague Финал Мужчины и женщины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T23:00:00+03:00",
+          "stop": "2026-07-09T01:00:00+03:00",
+          "title": "Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "programs": [
+        {
+          "start": "2026-07-09T01:00:00+03:00",
+          "stop": "2026-07-09T02:30:00+03:00",
+          "title": "Снукер: London Masters Kyren Wilson – John Higgins Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T02:30:00+03:00",
+          "stop": "2026-07-09T04:00:00+03:00",
+          "title": "Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T04:00:00+03:00",
+          "stop": "2026-07-09T05:30:00+03:00",
+          "title": "Мотогонки на выносливость. World Championship 6 Hours Of Imola",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T05:30:00+03:00",
+          "stop": "2026-07-09T07:30:00+03:00",
+          "title": "Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T07:30:00+03:00",
+          "stop": "2026-07-09T09:30:00+03:00",
+          "title": "Снукер: London Masters Kyren Wilson – John Higgins Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T09:30:00+03:00",
+          "stop": "2026-07-09T10:00:00+03:00",
+          "title": "Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T10:00:00+03:00",
+          "stop": "2026-07-09T11:00:00+03:00",
+          "title": "Олимпийские игры. «Зал славы: Пекин-2008»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T11:00:00+03:00",
+          "stop": "2026-07-09T12:00:00+03:00",
+          "title": "Зал славы (Лондон 2012)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T12:00:00+03:00",
+          "stop": "2026-07-09T13:15:00+03:00",
+          "title": "Велоспорт «Тур де Франс» Пятый этап Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T13:15:00+03:00",
+          "stop": "2026-07-09T19:15:00+03:00",
+          "title": "⋗ Велоспорт. Тур де Франс. Шестой этап. Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T19:15:00+03:00",
+          "stop": "2026-07-09T19:45:00+03:00",
+          "title": "Трейлраннинг: World Series Quebec Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T19:45:00+03:00",
+          "stop": "2026-07-09T21:15:00+03:00",
+          "title": "Мотогонки на выносливость. World Championship 6 Hours Of Imola",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T21:15:00+03:00",
+          "stop": "2026-07-09T23:00:00+03:00",
+          "title": "Снукер: London Masters Kyren Wilson – John Higgins Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T23:00:00+03:00",
+          "stop": "2026-07-10T00:45:00+03:00",
+          "title": "Велоспорт. Тур де Франс. Шестой этап. Мужчины",
           "description": "L",
           "category": null
         }

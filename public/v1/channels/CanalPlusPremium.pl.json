@@ -8,122 +8,447 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
+  "generatedAt": "2026-07-07T04:18:04.363751+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 61,
   "days": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "programs": [
         {
-          "start": "2026-07-06T00:25:00+03:00",
-          "stop": "2026-07-06T02:15:00+03:00",
-          "title": "Kill Bill: Vol. 1",
+          "start": "2026-07-07T00:25:00+03:00",
+          "stop": "2026-07-07T02:25:00+03:00",
+          "title": "21 gramów",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T02:15:00+03:00",
-          "stop": "2026-07-06T03:50:00+03:00",
-          "title": "Zapiski śmiertelnika",
+          "start": "2026-07-07T02:25:00+03:00",
+          "stop": "2026-07-07T04:25:00+03:00",
+          "title": "Ludzie",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T03:50:00+03:00",
-          "stop": "2026-07-06T05:25:00+03:00",
-          "title": "Utrata równowagi",
+          "start": "2026-07-07T04:25:00+03:00",
+          "stop": "2026-07-07T06:00:00+03:00",
+          "title": "W stronę słońca",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T05:25:00+03:00",
-          "stop": "2026-07-06T06:45:00+03:00",
-          "title": "Wiraż",
+          "start": "2026-07-07T06:00:00+03:00",
+          "stop": "2026-07-07T06:55:00+03:00",
+          "title": "Miasta rytm – Szczecin | S02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T06:45:00+03:00",
-          "stop": "2026-07-06T07:00:00+03:00",
+          "start": "2026-07-07T06:55:00+03:00",
+          "stop": "2026-07-07T07:00:00+03:00",
+          "title": "Making of CANAL+",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:00:00+03:00",
+          "stop": "2026-07-07T07:05:00+03:00",
+          "title": "Łapu Capu | E160",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:05:00+03:00",
+          "stop": "2026-07-07T07:35:00+03:00",
+          "title": "13 posterunek 2 | S02E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:35:00+03:00",
+          "stop": "2026-07-07T08:10:00+03:00",
+          "title": "13 posterunek 2 | S02E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T08:10:00+03:00",
+          "stop": "2026-07-07T09:45:00+03:00",
+          "title": "Prawda czy fałsz. Psychologia trumpizmu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T09:45:00+03:00",
+          "stop": "2026-07-07T11:05:00+03:00",
+          "title": "MTV Unplugged: Maryla Rodowicz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T11:05:00+03:00",
+          "stop": "2026-07-07T12:20:00+03:00",
+          "title": "Elfy rozrabiają",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T12:20:00+03:00",
+          "stop": "2026-07-07T13:50:00+03:00",
+          "title": "Masz ci los!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T13:50:00+03:00",
+          "stop": "2026-07-07T14:45:00+03:00",
+          "title": "To nie jest zagadka kryminalna | S01E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T14:45:00+03:00",
+          "stop": "2026-07-07T16:30:00+03:00",
+          "title": "Maria Callas. Nieznane lata",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T16:30:00+03:00",
+          "stop": "2026-07-07T17:00:00+03:00",
+          "title": "Hollywood Buzz | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T17:00:00+03:00",
+          "stop": "2026-07-07T19:10:00+03:00",
+          "title": "Saga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T19:10:00+03:00",
+          "stop": "2026-07-07T19:15:00+03:00",
+          "title": "Łapu Capu | E161",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T19:15:00+03:00",
+          "stop": "2026-07-07T21:00:00+03:00",
+          "title": "Listy do Julii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T21:00:00+03:00",
+          "stop": "2026-07-07T22:50:00+03:00",
+          "title": "Zima pod znakiem wrony",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T22:50:00+03:00",
+          "stop": "2026-07-07T23:55:00+03:00",
+          "title": "Triumf i upadek. Historia Michaela Jacksona | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T23:55:00+03:00",
+          "stop": "2026-07-08T01:35:00+03:00",
+          "title": "Wyrwa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "programs": [
+        {
+          "start": "2026-07-08T01:35:00+03:00",
+          "stop": "2026-07-08T03:25:00+03:00",
+          "title": "Potępiony",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T03:25:00+03:00",
+          "stop": "2026-07-08T05:00:00+03:00",
+          "title": "Dwie siostry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:00:00+03:00",
+          "stop": "2026-07-08T06:40:00+03:00",
+          "title": "Benek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T06:40:00+03:00",
+          "stop": "2026-07-08T07:00:00+03:00",
+          "title": "Czarna woda",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:00:00+03:00",
+          "stop": "2026-07-08T07:05:00+03:00",
+          "title": "Łapu Capu | E161",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:05:00+03:00",
+          "stop": "2026-07-08T07:35:00+03:00",
+          "title": "13 posterunek 2 | S02E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:35:00+03:00",
+          "stop": "2026-07-08T08:10:00+03:00",
+          "title": "13 posterunek 2 | S02E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T08:10:00+03:00",
+          "stop": "2026-07-08T09:30:00+03:00",
+          "title": "Kwiat ośmiu gór",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:30:00+03:00",
+          "stop": "2026-07-08T10:45:00+03:00",
+          "title": "Długi weekend",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T10:45:00+03:00",
+          "stop": "2026-07-08T12:15:00+03:00",
+          "title": "Peacock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T12:15:00+03:00",
+          "stop": "2026-07-08T13:55:00+03:00",
+          "title": "Nadzieja",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T13:55:00+03:00",
+          "stop": "2026-07-08T14:55:00+03:00",
+          "title": "To nie jest zagadka kryminalna | S01E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:55:00+03:00",
+          "stop": "2026-07-08T16:25:00+03:00",
+          "title": "Zapaleńcy. Historia polskiego filmu animowanego",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T16:25:00+03:00",
+          "stop": "2026-07-08T16:50:00+03:00",
+          "title": "Call me lala",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T16:50:00+03:00",
+          "stop": "2026-07-08T18:50:00+03:00",
+          "title": "Saga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T18:50:00+03:00",
+          "stop": "2026-07-08T19:05:00+03:00",
           "title": "Premierowa jazda – Łukasz Sychowicz | S05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T07:00:00+03:00",
-          "stop": "2026-07-06T07:15:00+03:00",
-          "title": "Łapu Capu | E159",
+          "start": "2026-07-08T19:05:00+03:00",
+          "stop": "2026-07-08T19:10:00+03:00",
+          "title": "Łapu Capu | E162",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T07:15:00+03:00",
-          "stop": "2026-07-06T07:50:00+03:00",
-          "title": "13 posterunek 2 | S02E11",
+          "start": "2026-07-08T19:10:00+03:00",
+          "stop": "2026-07-08T21:00:00+03:00",
+          "title": "Mamma Mia! Here We Go Again",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T07:50:00+03:00",
-          "stop": "2026-07-06T08:15:00+03:00",
-          "title": "13 posterunek 2 | S02E12",
+          "start": "2026-07-08T21:00:00+03:00",
+          "stop": "2026-07-08T21:45:00+03:00",
+          "title": "Kontyngent | E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T08:15:00+03:00",
-          "stop": "2026-07-06T09:40:00+03:00",
-          "title": "Naturalna dzikość serca",
+          "start": "2026-07-08T21:45:00+03:00",
+          "stop": "2026-07-08T23:45:00+03:00",
+          "title": "Smashing Machine",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T09:40:00+03:00",
-          "stop": "2026-07-06T11:05:00+03:00",
-          "title": "Fuks",
+          "start": "2026-07-08T23:45:00+03:00",
+          "stop": "2026-07-09T01:20:00+03:00",
+          "title": "Protector",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "programs": [
+        {
+          "start": "2026-07-09T01:20:00+03:00",
+          "stop": "2026-07-09T03:25:00+03:00",
+          "title": "Franz Kafka",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T11:05:00+03:00",
-          "stop": "2026-07-06T12:50:00+03:00",
-          "title": "Lilly i kangurek",
+          "start": "2026-07-09T03:25:00+03:00",
+          "stop": "2026-07-09T04:55:00+03:00",
+          "title": "Innego końca nie będzie",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T12:50:00+03:00",
-          "stop": "2026-07-06T13:50:00+03:00",
-          "title": "Miss mokrego podkoszulka",
+          "start": "2026-07-09T04:55:00+03:00",
+          "stop": "2026-07-09T06:50:00+03:00",
+          "title": "Kiler-ów 2-óch",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T13:50:00+03:00",
-          "stop": "2026-07-06T14:50:00+03:00",
-          "title": "To nie jest zagadka kryminalna | S01E1/6",
+          "start": "2026-07-09T06:50:00+03:00",
+          "stop": "2026-07-09T07:00:00+03:00",
+          "title": "Making of CANAL+",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T14:50:00+03:00",
-          "stop": "2026-07-06T16:25:00+03:00",
-          "title": "Larger than Life: Złota era boysbandów",
+          "start": "2026-07-09T07:00:00+03:00",
+          "stop": "2026-07-09T07:05:00+03:00",
+          "title": "Łapu Capu | E162",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T16:25:00+03:00",
-          "stop": "2026-07-06T16:55:00+03:00",
-          "title": "Balony",
+          "start": "2026-07-09T07:05:00+03:00",
+          "stop": "2026-07-09T07:35:00+03:00",
+          "title": "13 posterunek 2 | S02E17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T16:55:00+03:00",
-          "stop": "2026-07-06T18:55:00+03:00",
-          "title": "Zmierzch",
+          "start": "2026-07-09T07:35:00+03:00",
+          "stop": "2026-07-09T08:05:00+03:00",
+          "title": "13 posterunek 2 | S02E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T08:05:00+03:00",
+          "stop": "2026-07-09T09:50:00+03:00",
+          "title": "Milli Vanilli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T09:50:00+03:00",
+          "stop": "2026-07-09T10:55:00+03:00",
+          "title": "Moje pieczone kurczaki",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T10:55:00+03:00",
+          "stop": "2026-07-09T12:50:00+03:00",
+          "title": "Jutro będzie nasze",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T12:50:00+03:00",
+          "stop": "2026-07-09T14:10:00+03:00",
+          "title": "Wszyscy święci",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T14:10:00+03:00",
+          "stop": "2026-07-09T15:10:00+03:00",
+          "title": "To nie jest zagadka kryminalna | S01E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T15:10:00+03:00",
+          "stop": "2026-07-09T16:45:00+03:00",
+          "title": "Ocean, nasz dom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T16:45:00+03:00",
+          "stop": "2026-07-09T18:40:00+03:00",
+          "title": "Saga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T18:40:00+03:00",
+          "stop": "2026-07-09T19:10:00+03:00",
+          "title": "Hollywood Buzz | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T19:10:00+03:00",
+          "stop": "2026-07-09T19:15:00+03:00",
+          "title": "Łapu Capu | E163",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T19:15:00+03:00",
+          "stop": "2026-07-09T21:00:00+03:00",
+          "title": "Niania w Nowym Jorku",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T21:00:00+03:00",
+          "stop": "2026-07-09T22:35:00+03:00",
+          "title": "Aftermath. Most w ogniu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T22:35:00+03:00",
+          "stop": "2026-07-10T00:20:00+03:00",
+          "title": "Powrót do Silent Hill",
           "description": "L",
           "category": null
         }

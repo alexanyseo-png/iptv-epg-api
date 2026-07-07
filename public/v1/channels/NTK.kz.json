@@ -8,31 +8,475 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-06T04:41:24.897774+00:00",
+  "generatedAt": "2026-07-07T04:18:04.363751+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 65,
   "days": [
     {
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "programs": [
         {
-          "start": "2026-07-06T00:30:00+03:00",
-          "stop": "2026-07-06T01:50:00+03:00",
-          "title": "Талантым тағдырым.",
+          "start": "2026-07-07T00:20:00+03:00",
+          "stop": "2026-07-07T01:40:00+03:00",
+          "title": "Қызық Live.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T01:50:00+03:00",
-          "stop": "2026-07-06T02:10:00+03:00",
+          "start": "2026-07-07T01:40:00+03:00",
+          "stop": "2026-07-07T02:00:00+03:00",
+          "title": "Ұ- Night Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T02:00:00+03:00",
+          "stop": "2026-07-07T02:20:00+03:00",
           "title": "Insta TV.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-06T02:10:00+03:00",
-          "stop": "2026-07-06T03:10:00+03:00",
+          "start": "2026-07-07T02:20:00+03:00",
+          "stop": "2026-07-07T04:55:00+03:00",
           "title": "Екі езу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T04:55:00+03:00",
+          "stop": "2026-07-07T05:00:00+03:00",
+          "title": "Гимн РК.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T05:00:00+03:00",
+          "stop": "2026-07-07T05:15:00+03:00",
+          "title": "Разминка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T05:15:00+03:00",
+          "stop": "2026-07-07T05:40:00+03:00",
+          "title": "Достық 99.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T05:40:00+03:00",
+          "stop": "2026-07-07T06:30:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T06:30:00+03:00",
+          "stop": "2026-07-07T07:00:00+03:00",
+          "title": "Insta Like.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T07:00:00+03:00",
+          "stop": "2026-07-07T08:10:00+03:00",
+          "title": "Щенячий патруль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T08:10:00+03:00",
+          "stop": "2026-07-07T09:40:00+03:00",
+          "title": "Щенячий патруль в кино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T09:40:00+03:00",
+          "stop": "2026-07-07T12:20:00+03:00",
+          "title": "Бамблби.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T12:20:00+03:00",
+          "stop": "2026-07-07T12:45:00+03:00",
+          "title": "Шоу \"Уральских пельменей\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T12:45:00+03:00",
+          "stop": "2026-07-07T15:20:00+03:00",
+          "title": "Патруль. Последний приказ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T15:20:00+03:00",
+          "stop": "2026-07-07T17:30:00+03:00",
+          "title": "Выживший.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T17:30:00+03:00",
+          "stop": "2026-07-07T18:20:00+03:00",
+          "title": "S.W.A.T.: Спецназ города ангелов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T18:20:00+03:00",
+          "stop": "2026-07-07T20:20:00+03:00",
+          "title": "Детоксикация.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T20:20:00+03:00",
+          "stop": "2026-07-07T21:40:00+03:00",
+          "title": "ЖБ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T21:40:00+03:00",
+          "stop": "2026-07-07T22:40:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T22:40:00+03:00",
+          "stop": "2026-07-07T23:20:00+03:00",
+          "title": "Жаңа казахи.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-07T23:20:00+03:00",
+          "stop": "2026-07-08T00:00:00+03:00",
+          "title": "Қызық Live.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-08",
+      "programs": [
+        {
+          "start": "2026-07-08T00:00:00+03:00",
+          "stop": "2026-07-08T01:20:00+03:00",
+          "title": "Ұ- Night Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T01:20:00+03:00",
+          "stop": "2026-07-08T02:00:00+03:00",
+          "title": "Insta TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T02:00:00+03:00",
+          "stop": "2026-07-08T04:55:00+03:00",
+          "title": "Екі езу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T04:55:00+03:00",
+          "stop": "2026-07-08T05:00:00+03:00",
+          "title": "Гимн РК.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:00:00+03:00",
+          "stop": "2026-07-08T05:15:00+03:00",
+          "title": "Разминка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:15:00+03:00",
+          "stop": "2026-07-08T05:40:00+03:00",
+          "title": "Достық 99.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T05:40:00+03:00",
+          "stop": "2026-07-08T06:30:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T06:30:00+03:00",
+          "stop": "2026-07-08T07:00:00+03:00",
+          "title": "Insta Like.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:00:00+03:00",
+          "stop": "2026-07-08T07:40:00+03:00",
+          "title": "Щенячий патруль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T07:40:00+03:00",
+          "stop": "2026-07-08T09:30:00+03:00",
+          "title": "Жұмбақ Қыз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T09:30:00+03:00",
+          "stop": "2026-07-08T11:30:00+03:00",
+          "title": "Маугли дикой планеты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T11:30:00+03:00",
+          "stop": "2026-07-08T12:50:00+03:00",
+          "title": "Запретный Китай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T12:50:00+03:00",
+          "stop": "2026-07-08T14:00:00+03:00",
+          "title": "S.W.A.T.: Спецназ города ангелов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:00:00+03:00",
+          "stop": "2026-07-08T14:50:00+03:00",
+          "title": "Шоу \"Уральских пельменей\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T14:50:00+03:00",
+          "stop": "2026-07-08T15:30:00+03:00",
+          "title": "Однажды в России.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T15:30:00+03:00",
+          "stop": "2026-07-08T17:30:00+03:00",
+          "title": "Детоксикация.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T17:30:00+03:00",
+          "stop": "2026-07-08T18:30:00+03:00",
+          "title": "S.W.A.T.: Спецназ города ангелов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T18:30:00+03:00",
+          "stop": "2026-07-08T20:30:00+03:00",
+          "title": "Дочь болотного царя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T20:30:00+03:00",
+          "stop": "2026-07-08T22:00:00+03:00",
+          "title": "ЖБ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:00:00+03:00",
+          "stop": "2026-07-08T22:50:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T22:50:00+03:00",
+          "stop": "2026-07-08T23:30:00+03:00",
+          "title": "Жаңа казахи.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-08T23:30:00+03:00",
+          "stop": "2026-07-09T00:10:00+03:00",
+          "title": "Қызық Live.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-09",
+      "programs": [
+        {
+          "start": "2026-07-09T00:10:00+03:00",
+          "stop": "2026-07-09T01:30:00+03:00",
+          "title": "Ұ- Night Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T01:30:00+03:00",
+          "stop": "2026-07-09T02:00:00+03:00",
+          "title": "Insta TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T02:00:00+03:00",
+          "stop": "2026-07-09T04:55:00+03:00",
+          "title": "Екі езу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T04:55:00+03:00",
+          "stop": "2026-07-09T05:00:00+03:00",
+          "title": "Гимн РК.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T05:00:00+03:00",
+          "stop": "2026-07-09T05:15:00+03:00",
+          "title": "Разминка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T05:15:00+03:00",
+          "stop": "2026-07-09T05:40:00+03:00",
+          "title": "Достық 99.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T05:40:00+03:00",
+          "stop": "2026-07-09T06:30:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T06:30:00+03:00",
+          "stop": "2026-07-09T07:00:00+03:00",
+          "title": "Insta Like.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T07:00:00+03:00",
+          "stop": "2026-07-09T07:50:00+03:00",
+          "title": "Щенячий патруль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T07:50:00+03:00",
+          "stop": "2026-07-09T09:30:00+03:00",
+          "title": "Маугли дикой планеты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T09:30:00+03:00",
+          "stop": "2026-07-09T11:30:00+03:00",
+          "title": "Затерянный мир.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T11:30:00+03:00",
+          "stop": "2026-07-09T12:50:00+03:00",
+          "title": "Запретный Китай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T12:50:00+03:00",
+          "stop": "2026-07-09T14:00:00+03:00",
+          "title": "S.W.A.T.: Спецназ города ангелов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T14:00:00+03:00",
+          "stop": "2026-07-09T14:50:00+03:00",
+          "title": "Шоу \"Уральских пельменей\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T14:50:00+03:00",
+          "stop": "2026-07-09T15:30:00+03:00",
+          "title": "Однажды в России.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T15:30:00+03:00",
+          "stop": "2026-07-09T17:30:00+03:00",
+          "title": "Дочь болотного царя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T17:30:00+03:00",
+          "stop": "2026-07-09T18:30:00+03:00",
+          "title": "S.W.A.T.: Спецназ города ангелов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T18:30:00+03:00",
+          "stop": "2026-07-09T20:40:00+03:00",
+          "title": "Меркурий в опасности.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T20:40:00+03:00",
+          "stop": "2026-07-09T22:00:00+03:00",
+          "title": "ЖБ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T22:00:00+03:00",
+          "stop": "2026-07-09T22:50:00+03:00",
+          "title": "Жестокий Стамбул.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T22:50:00+03:00",
+          "stop": "2026-07-09T23:30:00+03:00",
+          "title": "Жаңа казахи.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-09T23:30:00+03:00",
+          "stop": "2026-07-10T00:10:00+03:00",
+          "title": "Қызық Live.",
           "description": "L",
           "category": null
         }
