@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-07T04:18:04.363751+00:00",
+  "generatedAt": "2026-07-08T03:47:11.450132+00:00",
   "available": true,
   "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-07-07",
-      "programs": [
-        {
-          "start": "2026-07-07T01:00:00+03:00",
-          "stop": "2026-07-07T07:00:00+03:00",
-          "title": "Moonlight Melodies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T07:00:00+03:00",
-          "stop": "2026-07-07T11:00:00+03:00",
-          "title": "Dawn Chorus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T11:00:00+03:00",
-          "stop": "2026-07-07T12:00:00+03:00",
-          "title": "Simply Strings",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T12:00:00+03:00",
-          "stop": "2026-07-07T13:00:00+03:00",
-          "title": "Classical Chillout",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T13:00:00+03:00",
-          "stop": "2026-07-07T14:00:00+03:00",
-          "title": "Hall of Fame",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T14:00:00+03:00",
-          "stop": "2026-07-07T18:00:00+03:00",
-          "title": "Afternoon Overture",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T18:00:00+03:00",
-          "stop": "2026-07-07T19:00:00+03:00",
-          "title": "Pure Piano",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T19:00:00+03:00",
-          "stop": "2026-07-07T20:00:00+03:00",
-          "title": "Simply Strings",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T20:00:00+03:00",
-          "stop": "2026-07-07T21:00:00+03:00",
-          "title": "At the Movies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T21:00:00+03:00",
-          "stop": "2026-07-07T22:00:00+03:00",
-          "title": "Hall of Fame",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T22:00:00+03:00",
-          "stop": "2026-07-08T01:00:00+03:00",
-          "title": "Evening Encore",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-08",
       "programs": [
@@ -252,6 +170,88 @@
         {
           "start": "2026-07-09T22:00:00+03:00",
           "stop": "2026-07-10T01:00:00+03:00",
+          "title": "Evening Encore",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "programs": [
+        {
+          "start": "2026-07-10T01:00:00+03:00",
+          "stop": "2026-07-10T07:00:00+03:00",
+          "title": "Moonlight Melodies",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T07:00:00+03:00",
+          "stop": "2026-07-10T11:00:00+03:00",
+          "title": "Dawn Chorus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T11:00:00+03:00",
+          "stop": "2026-07-10T12:00:00+03:00",
+          "title": "Pure Piano",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T12:00:00+03:00",
+          "stop": "2026-07-10T13:00:00+03:00",
+          "title": "Tenors & Divas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T13:00:00+03:00",
+          "stop": "2026-07-10T14:00:00+03:00",
+          "title": "Hall of Fame",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T14:00:00+03:00",
+          "stop": "2026-07-10T18:00:00+03:00",
+          "title": "Afternoon Overture",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T18:00:00+03:00",
+          "stop": "2026-07-10T19:00:00+03:00",
+          "title": "Simply Strings",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T19:00:00+03:00",
+          "stop": "2026-07-10T20:00:00+03:00",
+          "title": "Classical Chillout",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T20:00:00+03:00",
+          "stop": "2026-07-10T21:00:00+03:00",
+          "title": "At the Movies",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T21:00:00+03:00",
+          "stop": "2026-07-10T22:00:00+03:00",
+          "title": "Hall of Fame",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T22:00:00+03:00",
+          "stop": "2026-07-11T01:00:00+03:00",
           "title": "Evening Encore",
           "description": "L",
           "category": null

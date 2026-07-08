@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-07T04:18:04.363751+00:00",
+  "generatedAt": "2026-07-08T03:47:11.450132+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-07-07",
-      "programs": [
-        {
-          "start": "2026-07-07T00:00:00+03:00",
-          "stop": "2026-07-07T01:45:00+03:00",
-          "title": "Крутиксы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T01:45:00+03:00",
-          "stop": "2026-07-07T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T06:00:00+03:00",
-          "stop": "2026-07-07T08:00:00+03:00",
-          "title": "Бодо Бородо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T08:00:00+03:00",
-          "stop": "2026-07-07T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T09:00:00+03:00",
-          "stop": "2026-07-07T09:30:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T09:30:00+03:00",
-          "stop": "2026-07-07T12:30:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T12:30:00+03:00",
-          "stop": "2026-07-07T15:30:00+03:00",
-          "title": "Три кота.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T15:30:00+03:00",
-          "stop": "2026-07-07T16:30:00+03:00",
-          "title": "Барбоскины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T16:30:00+03:00",
-          "stop": "2026-07-07T18:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T18:00:00+03:00",
-          "stop": "2026-07-07T19:00:00+03:00",
-          "title": "Нэйт опять опаздывает.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T19:00:00+03:00",
-          "stop": "2026-07-07T21:30:00+03:00",
-          "title": "Приключения Пети и Волка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-07T21:30:00+03:00",
-          "stop": "2026-07-08T00:00:00+03:00",
-          "title": "Три кота.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-08",
       "programs": [
@@ -280,6 +191,88 @@
         {
           "start": "2026-07-09T21:30:00+03:00",
           "stop": "2026-07-10T00:00:00+03:00",
+          "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-10",
+      "programs": [
+        {
+          "start": "2026-07-10T00:00:00+03:00",
+          "stop": "2026-07-10T01:45:00+03:00",
+          "title": "Монсики.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T01:45:00+03:00",
+          "stop": "2026-07-10T06:00:00+03:00",
+          "title": "Простоквашино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T06:00:00+03:00",
+          "stop": "2026-07-10T08:05:00+03:00",
+          "title": "Бодо Бородо.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T08:05:00+03:00",
+          "stop": "2026-07-10T09:00:00+03:00",
+          "title": "Лунтик и его друзья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T09:00:00+03:00",
+          "stop": "2026-07-10T09:30:00+03:00",
+          "title": "Чебурашка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T09:30:00+03:00",
+          "stop": "2026-07-10T18:00:00+03:00",
+          "title": "Простоквашино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T18:00:00+03:00",
+          "stop": "2026-07-10T22:00:00+03:00",
+          "title": "Барбоскины.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T22:00:00+03:00",
+          "stop": "2026-07-10T23:00:00+03:00",
+          "title": "Ну, погоди!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T23:00:00+03:00",
+          "stop": "2026-07-10T23:05:00+03:00",
+          "title": "Хомяк-молчун.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T23:05:00+03:00",
+          "stop": "2026-07-10T23:10:00+03:00",
+          "title": "Так не бывает.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-10T23:10:00+03:00",
+          "stop": "2026-07-11T00:00:00+03:00",
           "title": "Три кота.",
           "description": "L",
           "category": null
