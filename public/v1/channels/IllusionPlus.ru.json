@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-08T03:47:11.450132+00:00",
+  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
   "available": true,
-  "programmeCount": 44,
+  "programmeCount": 41,
   "days": [
-    {
-      "date": "2026-07-08",
-      "programs": [
-        {
-          "start": "2026-07-08T00:15:00+03:00",
-          "stop": "2026-07-08T01:45:00+03:00",
-          "title": "История семьи Блум.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T01:45:00+03:00",
-          "stop": "2026-07-08T03:15:00+03:00",
-          "title": "Сапожник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T03:15:00+03:00",
-          "stop": "2026-07-08T04:25:00+03:00",
-          "title": "Жених напрокат.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T04:25:00+03:00",
-          "stop": "2026-07-08T05:50:00+03:00",
-          "title": "Девять ярдов 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T05:50:00+03:00",
-          "stop": "2026-07-08T07:10:00+03:00",
-          "title": "Робопёс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T07:10:00+03:00",
-          "stop": "2026-07-08T08:35:00+03:00",
-          "title": "Болельщицы со стажем.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T08:35:00+03:00",
-          "stop": "2026-07-08T10:25:00+03:00",
-          "title": "Спенсер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T10:25:00+03:00",
-          "stop": "2026-07-08T12:50:00+03:00",
-          "title": "Цель номер один.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T12:50:00+03:00",
-          "stop": "2026-07-08T14:10:00+03:00",
-          "title": "Крокодил Данди в Голливуде.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T14:10:00+03:00",
-          "stop": "2026-07-08T15:55:00+03:00",
-          "title": "План побега.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T15:55:00+03:00",
-          "stop": "2026-07-08T17:10:00+03:00",
-          "title": "Пошумим!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T17:10:00+03:00",
-          "stop": "2026-07-08T18:40:00+03:00",
-          "title": "Сапожник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T18:40:00+03:00",
-          "stop": "2026-07-08T20:30:00+03:00",
-          "title": "Мой парень - принц.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T20:30:00+03:00",
-          "stop": "2026-07-08T22:20:00+03:00",
-          "title": "Иллюзия обмана.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T22:20:00+03:00",
-          "stop": "2026-07-09T00:10:00+03:00",
-          "title": "Джойка.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-09",
       "programs": [
@@ -330,6 +220,95 @@
           "start": "2026-07-10T23:50:00+03:00",
           "stop": "2026-07-11T02:20:00+03:00",
           "title": "Цель номер один.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "programs": [
+        {
+          "start": "2026-07-11T02:20:00+03:00",
+          "stop": "2026-07-11T04:25:00+03:00",
+          "title": "Дело храбрых.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T04:25:00+03:00",
+          "stop": "2026-07-11T06:15:00+03:00",
+          "title": "Спенсер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T06:15:00+03:00",
+          "stop": "2026-07-11T08:15:00+03:00",
+          "title": "Иллюзия обмана.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T08:15:00+03:00",
+          "stop": "2026-07-11T10:00:00+03:00",
+          "title": "Джойка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T10:00:00+03:00",
+          "stop": "2026-07-11T11:15:00+03:00",
+          "title": "Шеф под прикрытием.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T11:15:00+03:00",
+          "stop": "2026-07-11T13:20:00+03:00",
+          "title": "Дивергент.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T13:20:00+03:00",
+          "stop": "2026-07-11T14:50:00+03:00",
+          "title": "Сапожник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T14:50:00+03:00",
+          "stop": "2026-07-11T16:45:00+03:00",
+          "title": "Мой парень - принц.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T16:45:00+03:00",
+          "stop": "2026-07-11T18:50:00+03:00",
+          "title": "Иллюзия обмана 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T18:50:00+03:00",
+          "stop": "2026-07-11T20:30:00+03:00",
+          "title": "Мушкетёры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T20:30:00+03:00",
+          "stop": "2026-07-11T22:05:00+03:00",
+          "title": "Паранойя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T22:05:00+03:00",
+          "stop": "2026-07-12T00:00:00+03:00",
+          "title": "Код 355.",
           "description": "L",
           "category": null
         }

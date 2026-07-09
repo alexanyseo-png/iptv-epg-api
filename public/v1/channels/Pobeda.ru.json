@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-08T03:47:11.450132+00:00",
+  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-07-08",
-      "programs": [
-        {
-          "start": "2026-07-08T01:10:00+03:00",
-          "stop": "2026-07-08T03:40:00+03:00",
-          "title": "х/ф Тренер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T03:40:00+03:00",
-          "stop": "2026-07-08T04:40:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T04:40:00+03:00",
-          "stop": "2026-07-08T06:10:00+03:00",
-          "title": "х/ф Кадиш",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T06:10:00+03:00",
-          "stop": "2026-07-08T07:30:00+03:00",
-          "title": "х/ф Возвращение с фронта",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T07:30:00+03:00",
-          "stop": "2026-07-08T18:00:00+03:00",
-          "title": "т/с Апостол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-08T18:00:00+03:00",
-          "stop": "2026-07-09T01:15:00+03:00",
-          "title": "т/с Черные волки",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-09",
       "programs": [
@@ -169,6 +122,60 @@
           "start": "2026-07-10T20:20:00+03:00",
           "stop": "2026-07-11T00:10:00+03:00",
           "title": "х/ф Сильнее огня",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-11",
+      "programs": [
+        {
+          "start": "2026-07-11T00:10:00+03:00",
+          "stop": "2026-07-11T01:55:00+03:00",
+          "title": "х/ф Чемпионы: Быстрее. Выше. Сильнее",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T01:55:00+03:00",
+          "stop": "2026-07-11T03:30:00+03:00",
+          "title": "х/ф Чемпионы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T03:30:00+03:00",
+          "stop": "2026-07-11T05:15:00+03:00",
+          "title": "х/ф Стрельцов",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T05:15:00+03:00",
+          "stop": "2026-07-11T06:50:00+03:00",
+          "title": "х/ф Папа",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T06:50:00+03:00",
+          "stop": "2026-07-11T09:00:00+03:00",
+          "title": "х/ф Смотри на меня!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T09:00:00+03:00",
+          "stop": "2026-07-11T20:00:00+03:00",
+          "title": "т/с Долгий путь домой",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T20:00:00+03:00",
+          "stop": "2026-07-12T00:35:00+03:00",
+          "title": "т/с Долгий путь домой",
           "description": "L",
           "category": null
         }
