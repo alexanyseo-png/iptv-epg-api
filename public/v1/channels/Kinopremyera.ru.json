@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
+  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
   "available": true,
-  "programmeCount": 45,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-07-09",
-      "programs": [
-        {
-          "start": "2026-07-09T01:30:00+03:00",
-          "stop": "2026-07-09T04:05:00+03:00",
-          "title": "Легенда.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T04:05:00+03:00",
-          "stop": "2026-07-09T05:25:00+03:00",
-          "title": "Багровая отмель.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T05:25:00+03:00",
-          "stop": "2026-07-09T06:55:00+03:00",
-          "title": "Заложница.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T06:55:00+03:00",
-          "stop": "2026-07-09T08:05:00+03:00",
-          "title": "Глазами пса.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T08:05:00+03:00",
-          "stop": "2026-07-09T09:30:00+03:00",
-          "title": "Тайна моей сестры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T09:30:00+03:00",
-          "stop": "2026-07-09T11:15:00+03:00",
-          "title": "Возвращение в Сайлент Хилл.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T11:15:00+03:00",
-          "stop": "2026-07-09T12:55:00+03:00",
-          "title": "Туда.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T12:55:00+03:00",
-          "stop": "2026-07-09T14:30:00+03:00",
-          "title": "Мой папа - медведь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T14:30:00+03:00",
-          "stop": "2026-07-09T16:00:00+03:00",
-          "title": "Пара на пару.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T16:00:00+03:00",
-          "stop": "2026-07-09T17:45:00+03:00",
-          "title": "Вопль.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T17:45:00+03:00",
-          "stop": "2026-07-09T19:00:00+03:00",
-          "title": "Глазами пса.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T19:00:00+03:00",
-          "stop": "2026-07-09T20:30:00+03:00",
-          "title": "Добрый доктор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T20:30:00+03:00",
-          "stop": "2026-07-09T22:00:00+03:00",
-          "title": "Ждун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T22:00:00+03:00",
-          "stop": "2026-07-09T23:20:00+03:00",
-          "title": "Маленький шеф.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T23:20:00+03:00",
-          "stop": "2026-07-10T00:50:00+03:00",
-          "title": "Идеальная афера.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-10",
       "programs": [
@@ -337,6 +227,109 @@
           "start": "2026-07-11T23:20:00+03:00",
           "stop": "2026-07-12T01:00:00+03:00",
           "title": "Воображаемый друг.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "programs": [
+        {
+          "start": "2026-07-12T01:00:00+03:00",
+          "stop": "2026-07-12T03:20:00+03:00",
+          "title": "Астрал: Долг крови.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T03:20:00+03:00",
+          "stop": "2026-07-12T05:30:00+03:00",
+          "title": "Легенда.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T05:30:00+03:00",
+          "stop": "2026-07-12T07:20:00+03:00",
+          "title": "Игра джентльменов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T07:20:00+03:00",
+          "stop": "2026-07-12T08:50:00+03:00",
+          "title": "Добрый доктор.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T08:50:00+03:00",
+          "stop": "2026-07-12T10:25:00+03:00",
+          "title": "Идеальная афера.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T10:25:00+03:00",
+          "stop": "2026-07-12T12:00:00+03:00",
+          "title": "Ждун.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T12:00:00+03:00",
+          "stop": "2026-07-12T13:45:00+03:00",
+          "title": "Мир в огне.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T13:45:00+03:00",
+          "stop": "2026-07-12T15:20:00+03:00",
+          "title": "Каруза.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T15:20:00+03:00",
+          "stop": "2026-07-12T17:05:00+03:00",
+          "title": "Воображаемый друг.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T17:05:00+03:00",
+          "stop": "2026-07-12T19:00:00+03:00",
+          "title": "Материалистка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T19:00:00+03:00",
+          "stop": "2026-07-12T20:40:00+03:00",
+          "title": "Туда.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T20:40:00+03:00",
+          "stop": "2026-07-12T22:10:00+03:00",
+          "title": "Киллер на всю голову.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T22:10:00+03:00",
+          "stop": "2026-07-12T23:25:00+03:00",
+          "title": "Глазами пса.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T23:25:00+03:00",
+          "stop": "2026-07-13T00:25:00+03:00",
+          "title": "Тайна моей сестры.",
           "description": "L",
           "category": null
         }

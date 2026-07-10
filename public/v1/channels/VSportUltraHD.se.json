@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
+  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-07-09",
-      "programs": [
-        {
-          "start": "2026-07-09T11:00:00+03:00",
-          "stop": "2026-07-09T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T19:00:00+03:00",
-          "stop": "2026-07-09T22:00:00+03:00",
-          "title": "Formula 1: Britannian GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T22:00:00+03:00",
-          "stop": "2026-07-10T11:00:00+03:00",
-          "title": "Valioliiga: Liverpool – Manchester City",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-10",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-07-11T22:00:00+03:00",
           "stop": "2026-07-12T11:00:00+03:00",
           "title": "Valioliiga: Everton – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "programs": [
+        {
+          "start": "2026-07-12T11:00:00+03:00",
+          "stop": "2026-07-12T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T19:00:00+03:00",
+          "stop": "2026-07-12T22:00:00+03:00",
+          "title": "Valioliiga: Everton – Manchester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T22:00:00+03:00",
+          "stop": "2026-07-13T11:00:00+03:00",
+          "title": "Formula 1: Monacon GP – Osakilpailu",
           "description": "L",
           "category": null
         }

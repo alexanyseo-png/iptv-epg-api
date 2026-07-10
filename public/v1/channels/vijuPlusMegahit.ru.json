@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
+  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-07-09",
-      "programs": [
-        {
-          "start": "2026-07-09T00:00:00+03:00",
-          "stop": "2026-07-09T01:25:00+03:00",
-          "title": "Телепорт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T01:25:00+03:00",
-          "stop": "2026-07-09T03:25:00+03:00",
-          "title": "2067: Петля времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T03:25:00+03:00",
-          "stop": "2026-07-09T05:20:00+03:00",
-          "title": "Петля времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T05:20:00+03:00",
-          "stop": "2026-07-09T07:00:00+03:00",
-          "title": "Патруль времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T07:00:00+03:00",
-          "stop": "2026-07-09T08:35:00+03:00",
-          "title": "Отец.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T08:35:00+03:00",
-          "stop": "2026-07-09T10:25:00+03:00",
-          "title": "Лев.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T10:25:00+03:00",
-          "stop": "2026-07-09T12:10:00+03:00",
-          "title": "1+1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T12:10:00+03:00",
-          "stop": "2026-07-09T13:55:00+03:00",
-          "title": "Лёд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T13:55:00+03:00",
-          "stop": "2026-07-09T16:00:00+03:00",
-          "title": "Лёд 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T16:00:00+03:00",
-          "stop": "2026-07-09T18:00:00+03:00",
-          "title": "Лёд 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T18:00:00+03:00",
-          "stop": "2026-07-09T20:00:00+03:00",
-          "title": "Гордость и предубеждение.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T20:00:00+03:00",
-          "stop": "2026-07-09T21:45:00+03:00",
-          "title": "Красавица и чудовище.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T21:45:00+03:00",
-          "stop": "2026-07-09T23:20:00+03:00",
-          "title": "Три тысячи лет желаний.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T23:20:00+03:00",
-          "stop": "2026-07-10T01:20:00+03:00",
-          "title": "Выживут только любовники.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-10",
       "programs": [
@@ -309,6 +206,102 @@
           "start": "2026-07-11T23:45:00+03:00",
           "stop": "2026-07-12T01:30:00+03:00",
           "title": "Ип Ман.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "programs": [
+        {
+          "start": "2026-07-12T01:30:00+03:00",
+          "stop": "2026-07-12T03:15:00+03:00",
+          "title": "Ип Ман-2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T03:15:00+03:00",
+          "stop": "2026-07-12T04:40:00+03:00",
+          "title": "Ип Ман: Мастер кунг-фу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T04:40:00+03:00",
+          "stop": "2026-07-12T06:10:00+03:00",
+          "title": "Брюс Ли: Рождение дракона.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T06:10:00+03:00",
+          "stop": "2026-07-12T08:05:00+03:00",
+          "title": "Лёд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T08:05:00+03:00",
+          "stop": "2026-07-12T10:10:00+03:00",
+          "title": "Лёд 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T10:10:00+03:00",
+          "stop": "2026-07-12T12:15:00+03:00",
+          "title": "Лёд 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T12:15:00+03:00",
+          "stop": "2026-07-12T14:10:00+03:00",
+          "title": "Леон.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T14:10:00+03:00",
+          "stop": "2026-07-12T16:30:00+03:00",
+          "title": "Гнев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T16:30:00+03:00",
+          "stop": "2026-07-12T18:15:00+03:00",
+          "title": "22 пули: Бессмертный.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T18:15:00+03:00",
+          "stop": "2026-07-12T20:00:00+03:00",
+          "title": "Водопад ангела.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T20:00:00+03:00",
+          "stop": "2026-07-12T21:40:00+03:00",
+          "title": "Ветреная река.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T21:40:00+03:00",
+          "stop": "2026-07-12T23:15:00+03:00",
+          "title": "Мерзлая земля.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T23:15:00+03:00",
+          "stop": "2026-07-13T00:15:00+03:00",
+          "title": "Игра Ганнибала.",
           "description": "L",
           "category": null
         }

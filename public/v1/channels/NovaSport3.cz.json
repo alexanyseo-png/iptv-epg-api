@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-09T04:15:09.517251+00:00",
+  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
   "available": true,
   "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-07-09",
-      "programs": [
-        {
-          "start": "2026-07-09T00:40:00+03:00",
-          "stop": "2026-07-09T02:30:00+03:00",
-          "title": "SC Paderborn – Eintracht Braunschweig",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T02:30:00+03:00",
-          "stop": "2026-07-09T08:00:00+03:00",
-          "title": "Karlsruher SC – Dynamo Drážďany",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T08:00:00+03:00",
-          "stop": "2026-07-09T09:50:00+03:00",
-          "title": "Hamburger SV – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T09:50:00+03:00",
-          "stop": "2026-07-09T11:40:00+03:00",
-          "title": "Eintracht Frankfurt – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T11:40:00+03:00",
-          "stop": "2026-07-09T13:30:00+03:00",
-          "title": "Greuther Fürth – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T13:30:00+03:00",
-          "stop": "2026-07-09T15:20:00+03:00",
-          "title": "Arminia Bielefeld – SC Paderborn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T15:20:00+03:00",
-          "stop": "2026-07-09T17:10:00+03:00",
-          "title": "1. FC Kaiserslautern – Karlsruher SC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T17:10:00+03:00",
-          "stop": "2026-07-09T19:00:00+03:00",
-          "title": "1. FC Heidenheim – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T19:00:00+03:00",
-          "stop": "2026-07-09T21:00:00+03:00",
-          "title": "Bayer Leverkusen – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T21:00:00+03:00",
-          "stop": "2026-07-09T22:50:00+03:00",
-          "title": "Bayern Mnichov – VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-09T22:50:00+03:00",
-          "stop": "2026-07-10T00:40:00+03:00",
-          "title": "Union Berlín – 1. FSV Mainz 05",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-10",
       "programs": [
@@ -253,6 +171,88 @@
           "start": "2026-07-11T22:50:00+03:00",
           "stop": "2026-07-12T00:40:00+03:00",
           "title": "TSG Hoffenheim – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-12",
+      "programs": [
+        {
+          "start": "2026-07-12T00:40:00+03:00",
+          "stop": "2026-07-12T02:30:00+03:00",
+          "title": "Hannover 96 – SV Elversberg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T02:30:00+03:00",
+          "stop": "2026-07-12T08:00:00+03:00",
+          "title": "1. FC Magdeburg – VfL Bochum",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T08:00:00+03:00",
+          "stop": "2026-07-12T10:40:00+03:00",
+          "title": "RB Lipsko – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T10:40:00+03:00",
+          "stop": "2026-07-12T12:30:00+03:00",
+          "title": "FC Augsburg – SC Freiburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T12:30:00+03:00",
+          "stop": "2026-07-12T14:35:00+03:00",
+          "title": "Dynamo Drážďany – Hertha BSC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T14:35:00+03:00",
+          "stop": "2026-07-12T16:20:00+03:00",
+          "title": "Arminia Bielefeld – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T16:20:00+03:00",
+          "stop": "2026-07-12T18:00:00+03:00",
+          "title": "Schalke 04 – Karlsruher SC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T18:00:00+03:00",
+          "stop": "2026-07-12T19:45:00+03:00",
+          "title": "Borussia Dortmund – FC St. Pauli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T19:45:00+03:00",
+          "stop": "2026-07-12T21:30:00+03:00",
+          "title": "VfB Stuttgart – Union Berlín",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T21:30:00+03:00",
+          "stop": "2026-07-12T23:15:00+03:00",
+          "title": "FC St. Pauli – Hamburger SV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-12T23:15:00+03:00",
+          "stop": "2026-07-13T00:55:00+03:00",
+          "title": "Bayern Mnichov – FC Augsburg",
           "description": "L",
           "category": null
         }
