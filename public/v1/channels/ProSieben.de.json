@@ -8,307 +8,64 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
+  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
   "available": true,
-  "programmeCount": 95,
+  "programmeCount": 74,
   "days": [
-    {
-      "date": "2026-07-10",
-      "programs": [
-        {
-          "start": "2026-07-10T02:00:00+03:00",
-          "stop": "2026-07-10T03:55:00+03:00",
-          "title": "Darüber staunt die Welt – Tierische Freaks",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T03:55:00+03:00",
-          "stop": "2026-07-10T04:00:00+03:00",
-          "title": "ProSieben :newstime",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T04:00:00+03:00",
-          "stop": "2026-07-10T04:50:00+03:00",
-          "title": "Galileo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T04:50:00+03:00",
-          "stop": "2026-07-10T05:50:00+03:00",
-          "title": "Galileo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T05:50:00+03:00",
-          "stop": "2026-07-10T06:10:00+03:00",
-          "title": "B Positive – Dagobah, ein Zimmer und ein Schornsteinfeger",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T06:10:00+03:00",
-          "stop": "2026-07-10T06:30:00+03:00",
-          "title": "B Positive – Boss, BH und Herzanfall",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T06:30:00+03:00",
-          "stop": "2026-07-10T06:50:00+03:00",
-          "title": "Call Me Kat 2 – Nenn mich Sneaker-Freak | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T06:50:00+03:00",
-          "stop": "2026-07-10T07:10:00+03:00",
-          "title": "Call Me Kat 2 – Nenn mich unverantwortlich | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T07:10:00+03:00",
-          "stop": "2026-07-10T08:05:00+03:00",
-          "title": "taff – Schlagerreise",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T08:05:00+03:00",
-          "stop": "2026-07-10T09:10:00+03:00",
-          "title": "Galileo – Joybuy – kann der neue Logistik-Gigant Amazon vom Thron stoßen?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T09:10:00+03:00",
-          "stop": "2026-07-10T09:35:00+03:00",
-          "title": "Die Simpsons – Verrückt nach Mary",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T09:35:00+03:00",
-          "stop": "2026-07-10T10:05:00+03:00",
-          "title": "How I Met Your Mother 4 – Der Absprung | E24",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T10:05:00+03:00",
-          "stop": "2026-07-10T10:30:00+03:00",
-          "title": "The Middle 5 – Der Kuss | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T10:30:00+03:00",
-          "stop": "2026-07-10T10:55:00+03:00",
-          "title": "Young Sheldon 6 – Teenagerfrust und Elternverdruss | E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T10:55:00+03:00",
-          "stop": "2026-07-10T11:25:00+03:00",
-          "title": "Two and A Half Men 4 – Wo ist der blöde Hund? | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T11:25:00+03:00",
-          "stop": "2026-07-10T11:55:00+03:00",
-          "title": "Two and A Half Men 4 – Ein guter Schläfer | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T11:55:00+03:00",
-          "stop": "2026-07-10T12:20:00+03:00",
-          "title": "Two and A Half Men 4 – Ödipus | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T12:20:00+03:00",
-          "stop": "2026-07-10T12:50:00+03:00",
-          "title": "The Big Bang Theory 2 – Die Streichelmaschine | E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T12:50:00+03:00",
-          "stop": "2026-07-10T13:15:00+03:00",
-          "title": "The Big Bang Theory 2 – Die Kissen-Katastrophe | E16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T13:15:00+03:00",
-          "stop": "2026-07-10T13:45:00+03:00",
-          "title": "The Big Bang Theory 2 – Das Placebo-Bier | E17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T13:45:00+03:00",
-          "stop": "2026-07-10T14:15:00+03:00",
-          "title": "How I Met Your Mother 5 – Zuckerbrot und Peitsche | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T14:15:00+03:00",
-          "stop": "2026-07-10T14:40:00+03:00",
-          "title": "The Middle 5 – Der Weihnachtsbaum | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T14:40:00+03:00",
-          "stop": "2026-07-10T15:05:00+03:00",
-          "title": "Young Sheldon 6 – Ginger und Suzie | E16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T15:05:00+03:00",
-          "stop": "2026-07-10T15:35:00+03:00",
-          "title": "Two and A Half Men 4 – Wie Haare an feuchter Seife | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T15:35:00+03:00",
-          "stop": "2026-07-10T16:05:00+03:00",
-          "title": "Two and A Half Men 4 – Lasst die Hunde los! | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T16:05:00+03:00",
-          "stop": "2026-07-10T16:35:00+03:00",
-          "title": "Two and A Half Men 4 – Der alte Alan | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T16:35:00+03:00",
-          "stop": "2026-07-10T17:00:00+03:00",
-          "title": "The Big Bang Theory 2 – Business im Wohnzimmer | E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T17:00:00+03:00",
-          "stop": "2026-07-10T17:30:00+03:00",
-          "title": "The Big Bang Theory 2 – Der Kampf der Bienenköniginnen | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T17:30:00+03:00",
-          "stop": "2026-07-10T18:00:00+03:00",
-          "title": "The Big Bang Theory 2 – Der Wolowitz-Koeffizient | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T18:00:00+03:00",
-          "stop": "2026-07-10T19:00:00+03:00",
-          "title": "taff – Schlagerreise",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T19:00:00+03:00",
-          "stop": "2026-07-10T19:10:00+03:00",
-          "title": "ProSieben :newstime",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T19:10:00+03:00",
-          "stop": "2026-07-10T19:40:00+03:00",
-          "title": "Die Simpsons – Der glamouröse Godfrey",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T19:40:00+03:00",
-          "stop": "2026-07-10T20:05:00+03:00",
-          "title": "Die Simpsons – Blauauge sei wachsam",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T20:05:00+03:00",
-          "stop": "2026-07-10T21:15:00+03:00",
-          "title": "Galileo – K-Pop, K-Beauty, K-Food: Warum ist Südkorea plötzlich überall?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T21:15:00+03:00",
-          "stop": "2026-07-10T23:40:00+03:00",
-          "title": "Gemini Man",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T23:40:00+03:00",
-          "stop": "2026-07-11T02:45:00+03:00",
-          "title": "Transformers 5: The Last Knight",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-11",
       "programs": [
         {
-          "start": "2026-07-11T02:45:00+03:00",
-          "stop": "2026-07-11T04:40:00+03:00",
+          "start": "2026-07-11T02:30:00+03:00",
+          "stop": "2026-07-11T04:25:00+03:00",
           "title": "Gemini Man",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T04:40:00+03:00",
-          "stop": "2026-07-11T04:45:00+03:00",
+          "start": "2026-07-11T04:25:00+03:00",
+          "stop": "2026-07-11T04:30:00+03:00",
           "title": "ProSieben :newstime",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T04:45:00+03:00",
-          "stop": "2026-07-11T05:50:00+03:00",
+          "start": "2026-07-11T04:30:00+03:00",
+          "stop": "2026-07-11T05:20:00+03:00",
           "title": "Galileo",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T05:50:00+03:00",
-          "stop": "2026-07-11T06:10:00+03:00",
+          "start": "2026-07-11T05:20:00+03:00",
+          "stop": "2026-07-11T05:45:00+03:00",
+          "title": "Kaminfeuer mit Joko & Klaas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T05:45:00+03:00",
+          "stop": "2026-07-11T06:05:00+03:00",
+          "title": "Die Simpsons – Eine Glatze macht noch keinen Kirk",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T06:05:00+03:00",
+          "stop": "2026-07-11T06:25:00+03:00",
           "title": "Die Simpsons – Bühne frei für Marge",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T06:10:00+03:00",
-          "stop": "2026-07-11T06:30:00+03:00",
+          "start": "2026-07-11T06:25:00+03:00",
+          "stop": "2026-07-11T06:45:00+03:00",
           "title": "Die Simpsons – Der vermisste Halbbruder",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T06:30:00+03:00",
+          "start": "2026-07-11T06:45:00+03:00",
           "stop": "2026-07-11T07:25:00+03:00",
           "title": "taff – Schlagerreise",
           "description": "L",
@@ -316,146 +73,153 @@
         },
         {
           "start": "2026-07-11T07:25:00+03:00",
-          "stop": "2026-07-11T08:30:00+03:00",
+          "stop": "2026-07-11T07:40:00+03:00",
           "title": "Galileo – K-Pop, K-Beauty, K-Food: Warum ist Südkorea plötzlich überall?",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T08:30:00+03:00",
-          "stop": "2026-07-11T09:00:00+03:00",
+          "start": "2026-07-11T07:40:00+03:00",
+          "stop": "2026-07-11T08:45:00+03:00",
+          "title": "Galileo – K-Pop, K-Beauty, K-Food: Warum ist Südkorea plötzlich überall?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-11T08:45:00+03:00",
+          "stop": "2026-07-11T09:15:00+03:00",
           "title": "Galileo Kids: Auf der Suche nach dem blauen Kristall",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T09:00:00+03:00",
-          "stop": "2026-07-11T09:25:00+03:00",
+          "start": "2026-07-11T09:15:00+03:00",
+          "stop": "2026-07-11T09:40:00+03:00",
           "title": "2 Broke Girls 4 – Der schöne Ire | E19",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T09:25:00+03:00",
-          "stop": "2026-07-11T09:55:00+03:00",
+          "start": "2026-07-11T09:40:00+03:00",
+          "stop": "2026-07-11T10:05:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Operation Wachtelkönig | E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T09:55:00+03:00",
-          "stop": "2026-07-11T10:20:00+03:00",
+          "start": "2026-07-11T10:05:00+03:00",
+          "stop": "2026-07-11T10:35:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Die blaue Grippe | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T10:20:00+03:00",
-          "stop": "2026-07-11T10:50:00+03:00",
+          "start": "2026-07-11T10:35:00+03:00",
+          "stop": "2026-07-11T11:00:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Der Todesschrei der Läuse | E04",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T10:50:00+03:00",
-          "stop": "2026-07-11T11:20:00+03:00",
+          "start": "2026-07-11T11:00:00+03:00",
+          "stop": "2026-07-11T11:30:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Tiger und Tuks | E05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T11:20:00+03:00",
-          "stop": "2026-07-11T11:45:00+03:00",
+          "start": "2026-07-11T11:30:00+03:00",
+          "stop": "2026-07-11T12:00:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Reingelegt | E06",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T11:45:00+03:00",
-          "stop": "2026-07-11T12:17:00+03:00",
+          "start": "2026-07-11T12:00:00+03:00",
+          "stop": "2026-07-11T12:28:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Die Mutter der Mutterteige | E07",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T12:17:00+03:00",
-          "stop": "2026-07-11T12:20:00+03:00",
+          "start": "2026-07-11T12:28:00+03:00",
+          "stop": "2026-07-11T12:30:00+03:00",
           "title": "Religion in 90 Sekunden",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T12:20:00+03:00",
-          "stop": "2026-07-11T12:45:00+03:00",
+          "start": "2026-07-11T12:30:00+03:00",
+          "stop": "2026-07-11T12:55:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Auf ein Neues | E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T12:45:00+03:00",
-          "stop": "2026-07-11T13:15:00+03:00",
+          "start": "2026-07-11T12:55:00+03:00",
+          "stop": "2026-07-11T13:25:00+03:00",
           "title": "Brooklyn Nine-Nine 8 – Der letzte Coup | E09",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T13:15:00+03:00",
-          "stop": "2026-07-11T13:45:00+03:00",
+          "start": "2026-07-11T13:25:00+03:00",
+          "stop": "2026-07-11T13:50:00+03:00",
           "title": "Die Goldbergs 4 – Swayze oder Fleischklößchen? | E15",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T13:45:00+03:00",
-          "stop": "2026-07-11T14:15:00+03:00",
+          "start": "2026-07-11T13:50:00+03:00",
+          "stop": "2026-07-11T14:20:00+03:00",
           "title": "Die Goldbergs 4 – Karate Kid | E16",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T14:15:00+03:00",
-          "stop": "2026-07-11T14:40:00+03:00",
+          "start": "2026-07-11T14:20:00+03:00",
+          "stop": "2026-07-11T14:50:00+03:00",
           "title": "2 Broke Girls 4 – Das kindische Problem | E20",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T14:40:00+03:00",
-          "stop": "2026-07-11T15:10:00+03:00",
+          "start": "2026-07-11T14:50:00+03:00",
+          "stop": "2026-07-11T15:15:00+03:00",
           "title": "2 Broke Girls 4 – Der düpierte Deportierte | E21",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T15:10:00+03:00",
-          "stop": "2026-07-11T15:40:00+03:00",
+          "start": "2026-07-11T15:15:00+03:00",
+          "stop": "2026-07-11T15:45:00+03:00",
           "title": "2 Broke Girls 4 – My Big Fat Polish Wedding | E22",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T15:40:00+03:00",
-          "stop": "2026-07-11T16:05:00+03:00",
+          "start": "2026-07-11T15:45:00+03:00",
+          "stop": "2026-07-11T16:10:00+03:00",
           "title": "2 Broke Girls 5 – Die Abrissbirne | E01",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T16:05:00+03:00",
-          "stop": "2026-07-11T16:35:00+03:00",
+          "start": "2026-07-11T16:10:00+03:00",
+          "stop": "2026-07-11T16:40:00+03:00",
           "title": "Die Simpsons – Ein gotteslästerliches Leben",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T16:35:00+03:00",
-          "stop": "2026-07-11T17:05:00+03:00",
+          "start": "2026-07-11T16:40:00+03:00",
+          "stop": "2026-07-11T17:10:00+03:00",
           "title": "Die Simpsons – Lisa, die Schönheitskönigin",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T17:05:00+03:00",
+          "start": "2026-07-11T17:10:00+03:00",
           "stop": "2026-07-11T17:40:00+03:00",
           "title": "Die Simpsons – Bösartige Spiele",
           "description": "L",
@@ -484,13 +248,13 @@
         },
         {
           "start": "2026-07-11T19:10:00+03:00",
-          "stop": "2026-07-11T19:20:00+03:00",
+          "stop": "2026-07-11T19:25:00+03:00",
           "title": "ProSieben :newstime",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T19:20:00+03:00",
+          "start": "2026-07-11T19:25:00+03:00",
           "stop": "2026-07-11T19:50:00+03:00",
           "title": "Die Simpsons – Burns Begins",
           "description": "L",
@@ -519,7 +283,7 @@
         },
         {
           "start": "2026-07-11T21:15:00+03:00",
-          "stop": "2026-07-12T01:05:00+03:00",
+          "stop": "2026-07-12T01:00:00+03:00",
           "title": "Das Duell um die Welt – Team Joko gegen Team Klaas",
           "description": "L",
           "category": null
@@ -530,14 +294,14 @@
       "date": "2026-07-12",
       "programs": [
         {
-          "start": "2026-07-12T01:05:00+03:00",
-          "stop": "2026-07-12T04:50:00+03:00",
+          "start": "2026-07-12T01:00:00+03:00",
+          "stop": "2026-07-12T04:35:00+03:00",
           "title": "Das Duell um die Welt – Team Joko gegen Team Klaas",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T04:50:00+03:00",
+          "start": "2026-07-12T04:35:00+03:00",
           "stop": "2026-07-12T05:50:00+03:00",
           "title": "Balls – für Geld mache ich alles",
           "description": "L",
@@ -687,6 +451,95 @@
           "start": "2026-07-12T23:40:00+03:00",
           "stop": "2026-07-13T02:55:00+03:00",
           "title": "Once Upon a Time in… Hollywood",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "programs": [
+        {
+          "start": "2026-07-13T02:55:00+03:00",
+          "stop": "2026-07-13T04:45:00+03:00",
+          "title": "Gesetz der Rache",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T04:45:00+03:00",
+          "stop": "2026-07-13T05:45:00+03:00",
+          "title": "Unglaublich! Spektakuläre Momente vor laufender Kamera – Furchtloser Bär am Steuer",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T05:45:00+03:00",
+          "stop": "2026-07-13T06:05:00+03:00",
+          "title": "B Positive – Boss, BH und Herzanfall",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:05:00+03:00",
+          "stop": "2026-07-13T06:25:00+03:00",
+          "title": "B Positive – Osteoporose, eine Schwester und ein Date",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:25:00+03:00",
+          "stop": "2026-07-13T06:45:00+03:00",
+          "title": "Call Me Kat 2 – Nenn mich unverantwortlich | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:45:00+03:00",
+          "stop": "2026-07-13T07:05:00+03:00",
+          "title": "Call Me Kat 2 – Nenn mich Katzilla | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T07:05:00+03:00",
+          "stop": "2026-07-13T08:05:00+03:00",
+          "title": "Galileo Stories – Schaffe ich das auch? Jobs, die wir bewundern",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T08:05:00+03:00",
+          "stop": "2026-07-13T09:10:00+03:00",
+          "title": "Galileo X-Plorer: Riesengroß und winzig klein",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T09:10:00+03:00",
+          "stop": "2026-07-13T09:35:00+03:00",
+          "title": "Die Simpsons – Der glamouröse Godfrey",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T09:35:00+03:00",
+          "stop": "2026-07-13T10:05:00+03:00",
+          "title": "How I Met Your Mother 5 – Zuckerbrot und Peitsche | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T10:05:00+03:00",
+          "stop": "2026-07-13T10:35:00+03:00",
+          "title": "The Middle 5 – Der Weihnachtsbaum | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T10:35:00+03:00",
+          "stop": "2026-07-13T11:00:00+03:00",
+          "title": "Young Sheldon 6 – Ginger und Suzie | E16",
           "description": "L",
           "category": null
         }

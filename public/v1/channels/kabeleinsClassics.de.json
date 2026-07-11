@@ -8,125 +8,15 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
+  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
   "available": true,
   "programmeCount": 44,
   "days": [
     {
-      "date": "2026-07-10",
-      "programs": [
-        {
-          "start": "2026-07-10T00:35:00+03:00",
-          "stop": "2026-07-10T02:10:00+03:00",
-          "title": "Die Fliege.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T02:10:00+03:00",
-          "stop": "2026-07-10T03:50:00+03:00",
-          "title": "Predators.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T03:50:00+03:00",
-          "stop": "2026-07-10T05:30:00+03:00",
-          "title": "Prey.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T05:30:00+03:00",
-          "stop": "2026-07-10T07:25:00+03:00",
-          "title": "Die Fliege.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T07:25:00+03:00",
-          "stop": "2026-07-10T08:15:00+03:00",
-          "title": "MacGyver. S: 5 / Ep: 14.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T08:15:00+03:00",
-          "stop": "2026-07-10T09:40:00+03:00",
-          "title": "Lucky Luke.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T09:40:00+03:00",
-          "stop": "2026-07-10T11:20:00+03:00",
-          "title": "Begrabt die Wölfe in der Schlucht.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T11:20:00+03:00",
-          "stop": "2026-07-10T13:50:00+03:00",
-          "title": "Westwärts zieht der Wind.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T13:50:00+03:00",
-          "stop": "2026-07-10T15:50:00+03:00",
-          "title": "The Electric Horseman.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T15:50:00+03:00",
-          "stop": "2026-07-10T17:40:00+03:00",
-          "title": "Inferno am Fluss.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T17:40:00+03:00",
-          "stop": "2026-07-10T19:35:00+03:00",
-          "title": "A Million Ways to Die in the West.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T19:35:00+03:00",
-          "stop": "2026-07-10T20:25:00+03:00",
-          "title": "MacGyver. S: 5 / Ep: 16.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T20:25:00+03:00",
-          "stop": "2026-07-10T21:15:00+03:00",
-          "title": "MacGyver. S: 5 / Ep: 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T21:15:00+03:00",
-          "stop": "2026-07-10T23:10:00+03:00",
-          "title": "Mein Name ist Nobody.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T23:10:00+03:00",
-          "stop": "2026-07-11T01:00:00+03:00",
-          "title": "Nobody ist der Größte.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
       "date": "2026-07-11",
       "programs": [
         {
-          "start": "2026-07-11T01:00:00+03:00",
+          "start": "2026-07-11T01:05:00+03:00",
           "stop": "2026-07-11T02:55:00+03:00",
           "title": "Mein Name ist Nobody.",
           "description": "L",
@@ -134,20 +24,20 @@
         },
         {
           "start": "2026-07-11T02:55:00+03:00",
-          "stop": "2026-07-11T04:45:00+03:00",
+          "stop": "2026-07-11T04:55:00+03:00",
           "title": "Nobody ist der Größte.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T04:45:00+03:00",
-          "stop": "2026-07-11T06:40:00+03:00",
+          "start": "2026-07-11T04:55:00+03:00",
+          "stop": "2026-07-11T06:50:00+03:00",
           "title": "The Electric Horseman.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-11T06:40:00+03:00",
+          "start": "2026-07-11T06:50:00+03:00",
           "stop": "2026-07-11T07:30:00+03:00",
           "title": "MacGyver. S: 5 / Ep: 17.",
           "description": "L",
@@ -330,6 +220,116 @@
           "start": "2026-07-12T23:10:00+03:00",
           "stop": "2026-07-13T01:05:00+03:00",
           "title": "Pretty Woman.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "programs": [
+        {
+          "start": "2026-07-13T01:05:00+03:00",
+          "stop": "2026-07-13T02:35:00+03:00",
+          "title": "All in a Night's Work.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T02:35:00+03:00",
+          "stop": "2026-07-13T04:20:00+03:00",
+          "title": "Ein Fisch namens Wanda.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T04:20:00+03:00",
+          "stop": "2026-07-13T06:10:00+03:00",
+          "title": "Höhenkoller.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:10:00+03:00",
+          "stop": "2026-07-13T06:55:00+03:00",
+          "title": "MacGyver. S: 5 / Ep: 16.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:55:00+03:00",
+          "stop": "2026-07-13T08:25:00+03:00",
+          "title": "Sonic the Hedgehog.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T08:25:00+03:00",
+          "stop": "2026-07-13T10:20:00+03:00",
+          "title": "Wunder.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T10:20:00+03:00",
+          "stop": "2026-07-13T11:50:00+03:00",
+          "title": "Sleeper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T11:50:00+03:00",
+          "stop": "2026-07-13T13:45:00+03:00",
+          "title": "Long Shot - Unwahrscheinlich, aber nicht unmöglich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:45:00+03:00",
+          "stop": "2026-07-13T15:35:00+03:00",
+          "title": "Chicago.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T15:35:00+03:00",
+          "stop": "2026-07-13T17:20:00+03:00",
+          "title": "Big Eyes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T17:20:00+03:00",
+          "stop": "2026-07-13T19:35:00+03:00",
+          "title": "Das Leben der Anderen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T19:35:00+03:00",
+          "stop": "2026-07-13T20:25:00+03:00",
+          "title": "MacGyver. S: 5 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T20:25:00+03:00",
+          "stop": "2026-07-13T21:15:00+03:00",
+          "title": "MacGyver. S: 5 / Ep: 19.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T21:15:00+03:00",
+          "stop": "2026-07-13T23:10:00+03:00",
+          "title": "Das Leben ist eine Baustelle.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T23:10:00+03:00",
+          "stop": "2026-07-14T00:45:00+03:00",
+          "title": "Die dunkle Seite des Mondes.",
           "description": "L",
           "category": null
         }

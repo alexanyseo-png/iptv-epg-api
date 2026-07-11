@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
+  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-07-10",
-      "programs": [
-        {
-          "start": "2026-07-10T00:00:00+03:00",
-          "stop": "2026-07-10T06:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T06:00:00+03:00",
-          "stop": "2026-07-10T10:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T10:00:00+03:00",
-          "stop": "2026-07-10T10:30:00+03:00",
-          "title": "Горячая десятка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T10:30:00+03:00",
-          "stop": "2026-07-10T12:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T12:00:00+03:00",
-          "stop": "2026-07-10T12:30:00+03:00",
-          "title": "Лайм Тайм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T12:30:00+03:00",
-          "stop": "2026-07-10T18:30:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T18:30:00+03:00",
-          "stop": "2026-07-11T00:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-11",
       "programs": [
@@ -168,6 +114,18 @@
         {
           "start": "2026-07-12T21:30:00+03:00",
           "stop": "2026-07-13T03:30:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "programs": [
+        {
+          "start": "2026-07-13T03:30:00+03:00",
+          "stop": "2026-07-13T04:30:00+03:00",
           "title": "Горячие хиты!",
           "description": "L",
           "category": null

@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-10T04:16:53.022019+00:00",
+  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
   "available": true,
-  "programmeCount": 29,
+  "programmeCount": 21,
   "days": [
-    {
-      "date": "2026-07-10",
-      "programs": [
-        {
-          "start": "2026-07-10T00:00:00+03:00",
-          "stop": "2026-07-10T01:45:00+03:00",
-          "title": "Монсики.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T01:45:00+03:00",
-          "stop": "2026-07-10T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T06:00:00+03:00",
-          "stop": "2026-07-10T08:05:00+03:00",
-          "title": "Бодо Бородо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T08:05:00+03:00",
-          "stop": "2026-07-10T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T09:00:00+03:00",
-          "stop": "2026-07-10T09:30:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T09:30:00+03:00",
-          "stop": "2026-07-10T18:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T18:00:00+03:00",
-          "stop": "2026-07-10T22:00:00+03:00",
-          "title": "Барбоскины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T22:00:00+03:00",
-          "stop": "2026-07-10T23:00:00+03:00",
-          "title": "Ну, погоди!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T23:00:00+03:00",
-          "stop": "2026-07-10T23:05:00+03:00",
-          "title": "Хомяк-молчун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T23:05:00+03:00",
-          "stop": "2026-07-10T23:10:00+03:00",
-          "title": "Так не бывает.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-10T23:10:00+03:00",
-          "stop": "2026-07-11T00:00:00+03:00",
-          "title": "Три кота.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-11",
       "programs": [
@@ -225,6 +143,32 @@
           "start": "2026-07-12T23:00:00+03:00",
           "stop": "2026-07-13T00:00:00+03:00",
           "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-13",
+      "programs": [
+        {
+          "start": "2026-07-13T00:00:00+03:00",
+          "stop": "2026-07-13T01:00:00+03:00",
+          "title": "Монсики.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T01:00:00+03:00",
+          "stop": "2026-07-13T01:45:00+03:00",
+          "title": "Тайны медовой долины.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T01:45:00+03:00",
+          "stop": "2026-07-13T02:45:00+03:00",
+          "title": "Простоквашино.",
           "description": "L",
           "category": null
         }
