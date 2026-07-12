@@ -8,183 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
+  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
   "available": true,
-  "programmeCount": 61,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-07-11",
-      "programs": [
-        {
-          "start": "2026-07-11T00:00:00+03:00",
-          "stop": "2026-07-11T00:55:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T00:55:00+03:00",
-          "stop": "2026-07-11T01:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T01:00:00+03:00",
-          "stop": "2026-07-11T04:00:00+03:00",
-          "title": "Gün Sonu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T04:00:00+03:00",
-          "stop": "2026-07-11T04:55:00+03:00",
-          "title": "Haber 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T04:55:00+03:00",
-          "stop": "2026-07-11T05:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T05:00:00+03:00",
-          "stop": "2026-07-11T06:00:00+03:00",
-          "title": "Haber 05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T06:00:00+03:00",
-          "stop": "2026-07-11T07:00:00+03:00",
-          "title": "Haber 06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T07:00:00+03:00",
-          "stop": "2026-07-11T09:55:00+03:00",
-          "title": "Günaydın Hafta Sonu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T09:55:00+03:00",
-          "stop": "2026-07-11T10:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T10:00:00+03:00",
-          "stop": "2026-07-11T11:00:00+03:00",
-          "title": "Haber 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T11:00:00+03:00",
-          "stop": "2026-07-11T12:00:00+03:00",
-          "title": "Haber 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T12:00:00+03:00",
-          "stop": "2026-07-11T13:00:00+03:00",
-          "title": "Haber 12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T13:00:00+03:00",
-          "stop": "2026-07-11T13:55:00+03:00",
-          "title": "Haber 13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T13:55:00+03:00",
-          "stop": "2026-07-11T14:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T14:00:00+03:00",
-          "stop": "2026-07-11T15:00:00+03:00",
-          "title": "Haber 14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T15:00:00+03:00",
-          "stop": "2026-07-11T16:00:00+03:00",
-          "title": "Haber 15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T16:00:00+03:00",
-          "stop": "2026-07-11T17:00:00+03:00",
-          "title": "Haber 16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T17:00:00+03:00",
-          "stop": "2026-07-11T17:55:00+03:00",
-          "title": "Haber 17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T17:55:00+03:00",
-          "stop": "2026-07-11T18:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T18:00:00+03:00",
-          "stop": "2026-07-11T19:00:00+03:00",
-          "title": "Haber 18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T19:00:00+03:00",
-          "stop": "2026-07-11T20:00:00+03:00",
-          "title": "Haber 19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T20:00:00+03:00",
-          "stop": "2026-07-11T21:00:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T21:00:00+03:00",
-          "stop": "2026-07-11T22:00:00+03:00",
-          "title": "Ömür Dediğin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T22:00:00+03:00",
-          "stop": "2026-07-12T00:00:00+03:00",
-          "title": "Odak Gündem",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-12",
       "programs": [
@@ -449,6 +276,48 @@
           "start": "2026-07-13T10:00:00+03:00",
           "stop": "2026-07-13T11:00:00+03:00",
           "title": "Haber 10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T11:00:00+03:00",
+          "stop": "2026-07-13T12:00:00+03:00",
+          "title": "Haber 11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T12:00:00+03:00",
+          "stop": "2026-07-13T13:00:00+03:00",
+          "title": "Haber 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:00:00+03:00",
+          "stop": "2026-07-13T13:55:00+03:00",
+          "title": "Haber 13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:55:00+03:00",
+          "stop": "2026-07-13T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T14:00:00+03:00",
+          "stop": "2026-07-13T14:30:00+03:00",
+          "title": "Haber 14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T14:30:00+03:00",
+          "stop": "2026-07-13T15:00:00+03:00",
+          "title": "Kültür Sanat Saati",
           "description": "L",
           "category": null
         }

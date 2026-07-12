@@ -8,183 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
+  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
   "available": true,
-  "programmeCount": 62,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-07-11",
-      "programs": [
-        {
-          "start": "2026-07-11T00:30:00+03:00",
-          "stop": "2026-07-11T01:25:00+03:00",
-          "title": "Kelgukoerad | E131",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T01:25:00+03:00",
-          "stop": "2026-07-11T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T07:00:00+03:00",
-          "stop": "2026-07-11T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T07:02:00+03:00",
-          "stop": "2026-07-11T07:25:00+03:00",
-          "title": "Teeveejahutaja | E26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T07:25:00+03:00",
-          "stop": "2026-07-11T07:55:00+03:00",
-          "title": "Ivo Linna Ameerika lugu | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T07:55:00+03:00",
-          "stop": "2026-07-11T08:25:00+03:00",
-          "title": "Ivo Linna Ameerika lugu | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T08:25:00+03:00",
-          "stop": "2026-07-11T08:50:00+03:00",
-          "title": "Ivo Linna Ameerika lugu | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T08:50:00+03:00",
-          "stop": "2026-07-11T09:20:00+03:00",
-          "title": "Ivo Linna Ameerika lugu | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T09:20:00+03:00",
-          "stop": "2026-07-11T10:05:00+03:00",
-          "title": "Süvahavva | E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T10:05:00+03:00",
-          "stop": "2026-07-11T10:55:00+03:00",
-          "title": "Süvahavva | E16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T10:55:00+03:00",
-          "stop": "2026-07-11T11:45:00+03:00",
-          "title": "Süvahavva | E17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T11:45:00+03:00",
-          "stop": "2026-07-11T12:35:00+03:00",
-          "title": "Süvahavva | E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T12:35:00+03:00",
-          "stop": "2026-07-11T13:25:00+03:00",
-          "title": "Süvahavva | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T13:25:00+03:00",
-          "stop": "2026-07-11T13:55:00+03:00",
-          "title": "Elu on seiklus | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T13:55:00+03:00",
-          "stop": "2026-07-11T14:25:00+03:00",
-          "title": "Elu on seiklus | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T14:25:00+03:00",
-          "stop": "2026-07-11T15:45:00+03:00",
-          "title": "Suur komöödiaõhtu | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T15:45:00+03:00",
-          "stop": "2026-07-11T17:00:00+03:00",
-          "title": "Suur komöödiaõhtu | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T17:00:00+03:00",
-          "stop": "2026-07-11T18:25:00+03:00",
-          "title": "Suur komöödiaõhtu | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T18:25:00+03:00",
-          "stop": "2026-07-11T18:50:00+03:00",
-          "title": "Üks päev: Kaisa Oja | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T18:50:00+03:00",
-          "stop": "2026-07-11T19:55:00+03:00",
-          "title": "Elulõim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T19:55:00+03:00",
-          "stop": "2026-07-11T20:55:00+03:00",
-          "title": "Ühe suve akvarellid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T20:55:00+03:00",
-          "stop": "2026-07-11T22:35:00+03:00",
-          "title": "Baskiniga Pirital",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T22:35:00+03:00",
-          "stop": "2026-07-11T23:50:00+03:00",
-          "title": "Eesti muusika videod",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T23:50:00+03:00",
-          "stop": "2026-07-12T00:20:00+03:00",
-          "title": "Eesti nokitseb | E02",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-12",
       "programs": [
@@ -456,6 +283,34 @@
           "start": "2026-07-13T10:55:00+03:00",
           "stop": "2026-07-13T11:20:00+03:00",
           "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T11:20:00+03:00",
+          "stop": "2026-07-13T12:05:00+03:00",
+          "title": "Saare sosinad | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T12:05:00+03:00",
+          "stop": "2026-07-13T13:05:00+03:00",
+          "title": "Kelgukoerad | E131",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:05:00+03:00",
+          "stop": "2026-07-13T14:25:00+03:00",
+          "title": "Suur komöödiaõhtu | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T14:25:00+03:00",
+          "stop": "2026-07-13T15:45:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E30",
           "description": "L",
           "category": null
         }

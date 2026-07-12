@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-11T03:44:37.624550+00:00",
+  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-07-11",
-      "programs": [
-        {
-          "start": "2026-07-11T01:00:00+03:00",
-          "stop": "2026-07-11T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T04:00:00+03:00",
-          "stop": "2026-07-11T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T08:00:00+03:00",
-          "stop": "2026-07-11T09:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T09:00:00+03:00",
-          "stop": "2026-07-11T17:00:00+03:00",
-          "title": "Top 100 Euro Disco Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-11T17:00:00+03:00",
-          "stop": "2026-07-12T01:00:00+03:00",
-          "title": "Top 100 Eurodance Hits",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-12",
       "programs": [
@@ -148,6 +108,20 @@
           "start": "2026-07-13T09:00:00+03:00",
           "stop": "2026-07-13T11:00:00+03:00",
           "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T11:00:00+03:00",
+          "stop": "2026-07-13T12:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T12:00:00+03:00",
+          "stop": "2026-07-14T01:00:00+03:00",
+          "title": "Top 150 Cover Hits",
           "description": "L",
           "category": null
         }
