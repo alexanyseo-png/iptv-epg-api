@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
+  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-07-12",
-      "programs": [
-        {
-          "start": "2026-07-12T00:35:00+03:00",
-          "stop": "2026-07-12T02:10:00+03:00",
-          "title": "х/ф Родные",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T02:10:00+03:00",
-          "stop": "2026-07-12T04:40:00+03:00",
-          "title": "х/ф Чемпион мира",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T04:40:00+03:00",
-          "stop": "2026-07-12T06:05:00+03:00",
-          "title": "х/ф Жили-были",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T06:05:00+03:00",
-          "stop": "2026-07-12T07:35:00+03:00",
-          "title": "х/ф Как я стал русским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T07:35:00+03:00",
-          "stop": "2026-07-12T09:00:00+03:00",
-          "title": "х/ф Калачи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T09:00:00+03:00",
-          "stop": "2026-07-12T20:00:00+03:00",
-          "title": "т/с Участок",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T20:00:00+03:00",
-          "stop": "2026-07-12T20:55:00+03:00",
-          "title": "т/с Участок",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T20:55:00+03:00",
-          "stop": "2026-07-12T22:40:00+03:00",
-          "title": "х/ф Особенности национальной охоты",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T22:40:00+03:00",
-          "stop": "2026-07-13T00:10:00+03:00",
-          "title": "х/ф Особенности национальной рыбалки",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-13",
       "programs": [
@@ -129,6 +61,13 @@
           "start": "2026-07-13T13:50:00+03:00",
           "stop": "2026-07-13T17:40:00+03:00",
           "title": "х/ф Сто дней свободы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T17:40:00+03:00",
+          "stop": "2026-07-13T21:20:00+03:00",
+          "title": "х/ф Снег и пепел",
           "description": "L",
           "category": null
         }

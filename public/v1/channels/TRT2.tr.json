@@ -8,52 +8,171 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
+  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 23,
   "days": [
     {
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "programs": [
         {
-          "start": "2026-07-12T00:45:00+03:00",
-          "stop": "2026-07-12T01:00:00+03:00",
-          "title": "Müzelerin Yıldızları",
+          "start": "2026-07-13T00:15:00+03:00",
+          "stop": "2026-07-13T02:15:00+03:00",
+          "title": "Korkunç Mücadele",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T01:00:00+03:00",
-          "stop": "2026-07-12T02:45:00+03:00",
-          "title": "Nereye Gidiyorsun Aida?",
+          "start": "2026-07-13T02:15:00+03:00",
+          "stop": "2026-07-13T04:00:00+03:00",
+          "title": "Meryem",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T02:45:00+03:00",
-          "stop": "2026-07-12T03:30:00+03:00",
-          "title": "Aramızda Müzik Var",
+          "start": "2026-07-13T04:00:00+03:00",
+          "stop": "2026-07-13T04:58:00+03:00",
+          "title": "12 Punto Özel Yayını 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T03:30:00+03:00",
-          "stop": "2026-07-12T04:00:00+03:00",
+          "start": "2026-07-13T04:58:00+03:00",
+          "stop": "2026-07-13T05:00:00+03:00",
+          "title": "İstiklal Marşı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T05:00:00+03:00",
+          "stop": "2026-07-13T06:30:00+03:00",
+          "title": "Van Gogh: Buğday Tarlaları ve Bulutlu Gökyüzü",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T06:30:00+03:00",
+          "stop": "2026-07-13T07:30:00+03:00",
+          "title": "Hülya Koçyiğit ile Film Gibi Hayatlar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T07:30:00+03:00",
+          "stop": "2026-07-13T08:00:00+03:00",
+          "title": "Müzikli Portreler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T08:00:00+03:00",
+          "stop": "2026-07-13T08:30:00+03:00",
+          "title": "Sanatkâr Gönüller",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T08:30:00+03:00",
+          "stop": "2026-07-13T09:00:00+03:00",
+          "title": "Sessizce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T09:00:00+03:00",
+          "stop": "2026-07-13T09:30:00+03:00",
+          "title": "Kadim Tasarımlar Ülkesi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T09:30:00+03:00",
+          "stop": "2026-07-13T10:00:00+03:00",
+          "title": "Edebi Sofralar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T10:00:00+03:00",
+          "stop": "2026-07-13T10:30:00+03:00",
+          "title": "Geometrik Desenler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T10:30:00+03:00",
+          "stop": "2026-07-13T12:00:00+03:00",
+          "title": "Van Gogh: Buğday Tarlaları ve Bulutlu Gökyüzü",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T12:00:00+03:00",
+          "stop": "2026-07-13T13:00:00+03:00",
+          "title": "12 Punto Özel Yayını 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:00:00+03:00",
+          "stop": "2026-07-13T13:30:00+03:00",
+          "title": "Hayat Sanat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:30:00+03:00",
+          "stop": "2026-07-13T13:45:00+03:00",
+          "title": "Yeryüzleri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T13:45:00+03:00",
+          "stop": "2026-07-13T14:00:00+03:00",
+          "title": "Fotoğraflar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T14:00:00+03:00",
+          "stop": "2026-07-13T14:30:00+03:00",
+          "title": "Düğüm",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T14:30:00+03:00",
+          "stop": "2026-07-13T15:00:00+03:00",
           "title": "Tarihin Renkleri",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T04:00:00+03:00",
-          "stop": "2026-07-12T04:30:00+03:00",
-          "title": "İşaretler",
+          "start": "2026-07-13T15:00:00+03:00",
+          "stop": "2026-07-13T16:45:00+03:00",
+          "title": "Meryem",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-12T04:30:00+03:00",
-          "stop": "2026-07-12T05:30:00+03:00",
-          "title": "İpek'çe Sohbetler",
+          "start": "2026-07-13T16:45:00+03:00",
+          "stop": "2026-07-13T17:00:00+03:00",
+          "title": "Sanat Terimleri",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T17:00:00+03:00",
+          "stop": "2026-07-13T17:30:00+03:00",
+          "title": "Antik Miras",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T17:30:00+03:00",
+          "stop": "2026-07-13T18:00:00+03:00",
+          "title": "Sanatçının Şehri",
           "description": "L",
           "category": null
         }

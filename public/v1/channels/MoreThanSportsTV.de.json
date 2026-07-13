@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
+  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-07-12",
-      "programs": [
-        {
-          "start": "2026-07-12T02:00:00+03:00",
-          "stop": "2026-07-12T12:30:00+03:00",
-          "title": "Infomercial.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T12:30:00+03:00",
-          "stop": "2026-07-12T16:40:00+03:00",
-          "title": "Pferdesport - Galopprennbahn Mühlheim.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T16:40:00+03:00",
-          "stop": "2026-07-12T17:45:00+03:00",
-          "title": "Motorsport: Indy NXT Series - Mid-Ohio 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T17:45:00+03:00",
-          "stop": "2026-07-12T18:50:00+03:00",
-          "title": "Motorsport: Indy NXT Series - Mid-Ohio 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T18:50:00+03:00",
-          "stop": "2026-07-12T21:25:00+03:00",
-          "title": "Australian Football: AFL - AFL Premiership, 11. Spieltag: West Coast Eagles - Essendon FC.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T21:25:00+03:00",
-          "stop": "2026-07-12T23:30:00+03:00",
-          "title": "Rugby: National Rugby League - 15. Spieltag: North Queensland Cowboys - Dolphins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T23:30:00+03:00",
-          "stop": "2026-07-13T01:05:00+03:00",
-          "title": "Rugby: Super League - Leeds Rhinos - Warrington Wolves.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-13",
       "programs": [
@@ -211,6 +157,95 @@
           "start": "2026-07-14T22:15:00+03:00",
           "stop": "2026-07-15T00:10:00+03:00",
           "title": "Rugby: National Rugby League - NRL Premiership, 15. Spieltag: Wests Tigers - Gold Coast Titans.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "start": "2026-07-15T00:10:00+03:00",
+          "stop": "2026-07-15T01:10:00+03:00",
+          "title": "NTT Indycar Series 2026 - Bommarito Automotive Group 500, WW Technology Raceway, Illinois.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:10:00+03:00",
+          "stop": "2026-07-15T01:30:00+03:00",
+          "title": "Suppressed Science - Geheimnisse der Wissenschaft. S: 1 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:30:00+03:00",
+          "stop": "2026-07-15T02:00:00+03:00",
+          "title": "Wissenschaft mit Wow-Effekt. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T02:00:00+03:00",
+          "stop": "2026-07-15T15:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:00:00+03:00",
+          "stop": "2026-07-15T16:30:00+03:00",
+          "title": "Rugby: Super League - Betfred Super League (14. Spieltag): Wakefield Trinity - Wigan Warriors.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:30:00+03:00",
+          "stop": "2026-07-15T17:25:00+03:00",
+          "title": "Motorsport: Indy NXT Series - Gateway.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T17:25:00+03:00",
+          "stop": "2026-07-15T19:15:00+03:00",
+          "title": "Rugby: National Rugby League - 15. Spieltag: Newcastle Knights - Sydney Roosters.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:15:00+03:00",
+          "stop": "2026-07-15T19:45:00+03:00",
+          "title": "Going Pro 2026.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:45:00+03:00",
+          "stop": "2026-07-15T20:15:00+03:00",
+          "title": "Going Pro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:15:00+03:00",
+          "stop": "2026-07-15T20:50:00+03:00",
+          "title": "FastZone.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:50:00+03:00",
+          "stop": "2026-07-15T21:45:00+03:00",
+          "title": "Isle of Man Tourist Trophy 2026 - Supersport Race 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:45:00+03:00",
+          "stop": "2026-07-16T00:25:00+03:00",
+          "title": "Australian Football: AFL - AFL Premiership, 13. Spieltag: Sydney Swans - St. Kilda.",
           "description": "L",
           "category": null
         }

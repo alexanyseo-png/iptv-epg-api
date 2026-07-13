@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-12T04:00:15.223491+00:00",
+  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-07-12",
-      "programs": [
-        {
-          "start": "2026-07-12T00:40:00+03:00",
-          "stop": "2026-07-12T02:10:00+03:00",
-          "title": "Sheffield United – Sheffield Wednesday",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T02:10:00+03:00",
-          "stop": "2026-07-12T08:00:00+03:00",
-          "title": "Southampton FC – Queens Park Rangers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T08:00:00+03:00",
-          "stop": "2026-07-12T09:50:00+03:00",
-          "title": "SK Slavia Praha – FC Barcelona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T09:50:00+03:00",
-          "stop": "2026-07-12T11:40:00+03:00",
-          "title": "Inter Milán – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T11:40:00+03:00",
-          "stop": "2026-07-12T13:30:00+03:00",
-          "title": "Olympiakos Pireus – Bayer Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T13:30:00+03:00",
-          "stop": "2026-07-12T15:20:00+03:00",
-          "title": "Stoke City – Oxford United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T15:20:00+03:00",
-          "stop": "2026-07-12T17:10:00+03:00",
-          "title": "Bristol City – Watford FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T17:10:00+03:00",
-          "stop": "2026-07-12T19:00:00+03:00",
-          "title": "Leicester City – Norwich City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T19:00:00+03:00",
-          "stop": "2026-07-12T21:00:00+03:00",
-          "title": "Galatasaray SK – Atlético Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T21:00:00+03:00",
-          "stop": "2026-07-12T22:50:00+03:00",
-          "title": "Juventus FC – SL Benfica",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-12T22:50:00+03:00",
-          "stop": "2026-07-13T00:40:00+03:00",
-          "title": "Olympique Marseille – Liverpool FC",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-13",
       "programs": [
@@ -136,6 +54,20 @@
           "start": "2026-07-13T13:30:00+03:00",
           "stop": "2026-07-13T15:20:00+03:00",
           "title": "Coventry City – Preston North End",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T15:20:00+03:00",
+          "stop": "2026-07-13T17:10:00+03:00",
+          "title": "Birmingham City – West Bromwich Albion",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-13T17:10:00+03:00",
+          "stop": "2026-07-13T19:10:00+03:00",
+          "title": "Wrexham FC – Swansea City",
           "description": "L",
           "category": null
         }
