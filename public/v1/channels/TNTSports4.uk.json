@@ -8,164 +8,594 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
+  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
   "available": true,
-  "programmeCount": 22,
+  "programmeCount": 82,
   "days": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "start": "2026-07-13T00:00:00+03:00",
-          "stop": "2026-07-13T01:00:00+03:00",
+          "start": "2026-07-14T01:00:00+03:00",
+          "stop": "2026-07-14T02:30:00+03:00",
+          "title": "Wimbledon 2026. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T02:30:00+03:00",
+          "stop": "2026-07-14T03:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T03:00:00+03:00",
+          "stop": "2026-07-14T03:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Downhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T03:30:00+03:00",
+          "stop": "2026-07-14T04:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T04:00:00+03:00",
+          "stop": "2026-07-14T04:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T04:30:00+03:00",
+          "stop": "2026-07-14T05:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Downhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T05:00:00+03:00",
+          "stop": "2026-07-14T05:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T05:30:00+03:00",
+          "stop": "2026-07-14T06:00:00+03:00",
+          "title": "UEFA Champions League Classics. 2000/01 Quarter-Final: Leeds United v Deportivo La Coruna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T06:00:00+03:00",
+          "stop": "2026-07-14T06:30:00+03:00",
+          "title": "UEFA Champions League Classics. 2001/02: Feyenoord v Newcastle United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T06:30:00+03:00",
+          "stop": "2026-07-14T07:00:00+03:00",
+          "title": "UEFA Champions League Classics. 2003/04 Quarter-Final: Deportivo La Coruna v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T07:00:00+03:00",
+          "stop": "2026-07-14T07:30:00+03:00",
+          "title": "UEFA Champions League Classics. 2004/05: Manchester United v Fenerbahce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T07:30:00+03:00",
+          "stop": "2026-07-14T08:00:00+03:00",
+          "title": "UEFA Champions League Classics. 2008/09 Semi-Final: Arsenal v Manchester United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T08:00:00+03:00",
+          "stop": "2026-07-14T09:00:00+03:00",
+          "title": "PREM Rugby. Northampton Saints v Newcastle Red Bulls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T09:00:00+03:00",
+          "stop": "2026-07-14T10:00:00+03:00",
+          "title": "PREM Rugby. Leicester Tigers v Bristol Bears",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T10:00:00+03:00",
+          "stop": "2026-07-14T11:00:00+03:00",
+          "title": "PREM Rugby. Newcastle Red Bulls v Exeter Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T11:00:00+03:00",
+          "stop": "2026-07-14T12:00:00+03:00",
+          "title": "PREM Rugby. Gloucester v Leicester Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T12:00:00+03:00",
+          "stop": "2026-07-14T13:00:00+03:00",
+          "title": "PREM Rugby. Bristol Bears v Harlequins",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T13:00:00+03:00",
+          "stop": "2026-07-14T14:00:00+03:00",
+          "title": "PREM Rugby. Saracens v Northampton Saints",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T14:00:00+03:00",
+          "stop": "2026-07-14T15:00:00+03:00",
+          "title": "PREM Rugby. Sale Sharks v Bath",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T15:00:00+03:00",
+          "stop": "2026-07-14T16:00:00+03:00",
+          "title": "PREM Rugby. Bristol Bears v Gloucester",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T16:00:00+03:00",
+          "stop": "2026-07-14T17:00:00+03:00",
+          "title": "PREM Rugby. Leicester Tigers v Newcastle Red Bulls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T17:00:00+03:00",
+          "stop": "2026-07-14T18:00:00+03:00",
+          "title": "PREM Rugby. Exeter Chiefs v Northampton Saints",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T18:00:00+03:00",
+          "stop": "2026-07-14T19:00:00+03:00",
+          "title": "PREM Rugby. Bath v Harlequins",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T19:00:00+03:00",
+          "stop": "2026-07-14T20:00:00+03:00",
+          "title": "MotoGP. German Grand Prix: Moto3 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:00:00+03:00",
+          "stop": "2026-07-14T21:00:00+03:00",
+          "title": "MotoGP. German Grand Prix: Moto2 Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T21:00:00+03:00",
+          "stop": "2026-07-14T21:30:00+03:00",
+          "title": "MotoGP. German Grand Prix: MotoGP Sprint",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T21:30:00+03:00",
+          "stop": "2026-07-14T22:30:00+03:00",
           "title": "MotoGP. German Grand Prix: MotoGP Race",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T01:00:00+03:00",
-          "stop": "2026-07-13T01:30:00+03:00",
-          "title": "The WRC Magazine. Rally Estonia",
+          "start": "2026-07-14T22:30:00+03:00",
+          "stop": "2026-07-14T23:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Enduro",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T01:30:00+03:00",
-          "stop": "2026-07-13T02:30:00+03:00",
-          "title": "FIA Formula E. Shanghai ePrix: Race 1",
+          "start": "2026-07-14T23:00:00+03:00",
+          "stop": "2026-07-14T23:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Short Track",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T02:30:00+03:00",
-          "stop": "2026-07-13T03:30:00+03:00",
-          "title": "FIA Formula E. Shanghai ePrix: Race 2",
+          "start": "2026-07-14T23:30:00+03:00",
+          "stop": "2026-07-15T00:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Downhill",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "start": "2026-07-15T00:00:00+03:00",
+          "stop": "2026-07-15T00:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Olympic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T03:30:00+03:00",
-          "stop": "2026-07-13T04:30:00+03:00",
-          "title": "British Superbikes Motorcycle Racing. Round 4: Snetterton 300",
+          "start": "2026-07-15T00:30:00+03:00",
+          "stop": "2026-07-15T01:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Short Track",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T04:30:00+03:00",
-          "stop": "2026-07-13T05:00:00+03:00",
-          "title": "The WRC Magazine. Rally Estonia",
+          "start": "2026-07-15T01:00:00+03:00",
+          "stop": "2026-07-15T01:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Downhill",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T05:00:00+03:00",
-          "stop": "2026-07-13T05:30:00+03:00",
-          "title": "FIM Superbike World Championship Motorcycle Racing. UK Round: Superbike Superpole Race",
+          "start": "2026-07-15T01:30:00+03:00",
+          "stop": "2026-07-15T02:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Olympic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T05:30:00+03:00",
-          "stop": "2026-07-13T06:00:00+03:00",
-          "title": "FIM Superbike World Championship Motorcycle Racing. UK Round: Superbike Race 2",
+          "start": "2026-07-15T02:00:00+03:00",
+          "stop": "2026-07-15T03:00:00+03:00",
+          "title": "Fishing: On the Bank. Orvis Saltwater Festival",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T06:00:00+03:00",
-          "stop": "2026-07-13T06:30:00+03:00",
-          "title": "UEFA Champions League: Stories of the Finals. 2011 and 2004",
+          "start": "2026-07-15T03:00:00+03:00",
+          "stop": "2026-07-15T04:00:00+03:00",
+          "title": "FIM Superbike World Championship Motorcycle Racing. UK Round",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T06:30:00+03:00",
-          "stop": "2026-07-13T07:00:00+03:00",
-          "title": "UEFA Champions League: Stories of the Finals. 1995 and 2001",
+          "start": "2026-07-15T04:00:00+03:00",
+          "stop": "2026-07-15T05:00:00+03:00",
+          "title": "Tour de France Cycling. Stage 10",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T07:00:00+03:00",
-          "stop": "2026-07-13T07:30:00+03:00",
-          "title": "UEFA Champions League: Stories of the Finals. 2006 and 1998",
+          "start": "2026-07-15T05:00:00+03:00",
+          "stop": "2026-07-15T05:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Enduro",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T07:30:00+03:00",
-          "stop": "2026-07-13T08:00:00+03:00",
-          "title": "UEFA Champions League: Stories of the Finals. 2009 and 2000",
+          "start": "2026-07-15T05:30:00+03:00",
+          "stop": "2026-07-15T06:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Downhill",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T08:00:00+03:00",
-          "stop": "2026-07-13T09:00:00+03:00",
-          "title": "PREM Rugby. Bath v Exeter Chiefs",
+          "start": "2026-07-15T06:00:00+03:00",
+          "stop": "2026-07-15T06:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Olympic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T09:00:00+03:00",
-          "stop": "2026-07-13T10:00:00+03:00",
-          "title": "PREM Rugby. Northampton Saints v Harlequins",
+          "start": "2026-07-15T06:30:00+03:00",
+          "stop": "2026-07-15T07:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Short Track",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T10:00:00+03:00",
-          "stop": "2026-07-13T11:00:00+03:00",
-          "title": "PREM Rugby. Leicester Tigers v Saracens",
+          "start": "2026-07-15T07:00:00+03:00",
+          "stop": "2026-07-15T07:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Downhill",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T11:00:00+03:00",
-          "stop": "2026-07-13T12:00:00+03:00",
-          "title": "PREM Rugby. Gloucester v Bath",
+          "start": "2026-07-15T07:30:00+03:00",
+          "stop": "2026-07-15T08:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Olympic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T12:00:00+03:00",
-          "stop": "2026-07-13T13:00:00+03:00",
-          "title": "PREM Rugby. Harlequins v Leicester Tigers",
+          "start": "2026-07-15T08:00:00+03:00",
+          "stop": "2026-07-15T09:00:00+03:00",
+          "title": "PREM Rugby. Sale Sharks v Saracens",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T13:00:00+03:00",
-          "stop": "2026-07-13T14:00:00+03:00",
-          "title": "PREM Rugby. Sale Sharks v Northampton Saints",
+          "start": "2026-07-15T09:00:00+03:00",
+          "stop": "2026-07-15T10:00:00+03:00",
+          "title": "PREM Rugby. Newcastle Red Bulls v Bristol Bears",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T14:00:00+03:00",
-          "stop": "2026-07-13T15:00:00+03:00",
-          "title": "PREM Rugby. Exeter Chiefs v Bristol Bears",
+          "start": "2026-07-15T10:00:00+03:00",
+          "stop": "2026-07-15T11:00:00+03:00",
+          "title": "PREM Rugby. Harlequins v Sale Sharks",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T15:00:00+03:00",
-          "stop": "2026-07-13T16:00:00+03:00",
-          "title": "PREM Rugby. Saracens v Newcastle Red Bulls",
+          "start": "2026-07-15T11:00:00+03:00",
+          "stop": "2026-07-15T12:00:00+03:00",
+          "title": "PREM Rugby. Saracens v Leicester Tigers",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T16:00:00+03:00",
-          "stop": "2026-07-13T17:00:00+03:00",
-          "title": "PREM Rugby. Bath v Saracens",
+          "start": "2026-07-15T12:00:00+03:00",
+          "stop": "2026-07-15T13:00:00+03:00",
+          "title": "PREM Rugby. Northampton Saints v Bath",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T17:00:00+03:00",
-          "stop": "2026-07-13T18:00:00+03:00",
-          "title": "PREM Rugby. Exeter Chiefs v Sale Sharks",
+          "start": "2026-07-15T13:00:00+03:00",
+          "stop": "2026-07-15T14:00:00+03:00",
+          "title": "PREM Rugby. Gloucester v Exeter Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:00:00+03:00",
+          "stop": "2026-07-15T15:00:00+03:00",
+          "title": "PREM Rugby. Gloucester v Sale Sharks",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:00:00+03:00",
+          "stop": "2026-07-15T16:00:00+03:00",
+          "title": "PREM Rugby. Leicester Tigers v Northampton Saints",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:00:00+03:00",
+          "stop": "2026-07-15T17:00:00+03:00",
+          "title": "PREM Rugby. Bristol Bears v Saracens",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T17:00:00+03:00",
+          "stop": "2026-07-15T18:00:00+03:00",
+          "title": "PREM Rugby. Exeter Chiefs v Bath",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T18:00:00+03:00",
+          "stop": "2026-07-15T19:00:00+03:00",
+          "title": "PREM Rugby. Newcastle Red Bulls v Harlequins",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:00:00+03:00",
+          "stop": "2026-07-15T20:00:00+03:00",
+          "title": "NWSL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:00:00+03:00",
+          "stop": "2026-07-15T21:00:00+03:00",
+          "title": "NWSL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:00:00+03:00",
+          "stop": "2026-07-15T21:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. La Thuile: Enduro",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:30:00+03:00",
+          "stop": "2026-07-15T22:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:00:00+03:00",
+          "stop": "2026-07-15T22:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Downhill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:30:00+03:00",
+          "stop": "2026-07-15T23:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Women's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T23:00:00+03:00",
+          "stop": "2026-07-15T23:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T23:30:00+03:00",
+          "stop": "2026-07-16T00:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Downhill",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "start": "2026-07-16T00:00:00+03:00",
+          "stop": "2026-07-16T00:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Pal Arinsal: Men's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T00:30:00+03:00",
+          "stop": "2026-07-16T03:30:00+03:00",
+          "title": "The Ultimate Fighting Championship. UFC 329: Conor McGregor v Max Holloway 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T03:30:00+03:00",
+          "stop": "2026-07-16T05:15:00+03:00",
+          "title": "UFC Reloaded. Fight Night: James Te Huna v Nate Marquardt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T05:15:00+03:00",
+          "stop": "2026-07-16T07:00:00+03:00",
+          "title": "UFC Reloaded. Fight Night: Rafael dos Anjos v Eddie Alvarez",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:00:00+03:00",
+          "stop": "2026-07-16T07:30:00+03:00",
+          "title": "UFC Fight Flashback. 268: Kamaru Usman v Colby Covington II",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:30:00+03:00",
+          "stop": "2026-07-16T08:00:00+03:00",
+          "title": "Formula E Flashback. Series 1 Episode 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:00:00+03:00",
+          "stop": "2026-07-16T09:00:00+03:00",
+          "title": "PREM Rugby. Northampton Saints v Bristol Bears",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T09:00:00+03:00",
+          "stop": "2026-07-16T10:00:00+03:00",
+          "title": "PREM Rugby. Bath v Newcastle Red Bulls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T10:00:00+03:00",
+          "stop": "2026-07-16T11:00:00+03:00",
+          "title": "PREM Rugby. Harlequins v Exeter Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T11:00:00+03:00",
+          "stop": "2026-07-16T12:00:00+03:00",
+          "title": "PREM Rugby. Saracens v Gloucester",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T12:00:00+03:00",
+          "stop": "2026-07-16T13:00:00+03:00",
+          "title": "PREM Rugby. Sale Sharks v Leicester Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T13:00:00+03:00",
+          "stop": "2026-07-16T14:00:00+03:00",
+          "title": "PREM Rugby. Bristol Bears v Bath",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:00:00+03:00",
+          "stop": "2026-07-16T15:00:00+03:00",
+          "title": "PREM Rugby. Saracens v Harlequins",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T15:00:00+03:00",
+          "stop": "2026-07-16T16:00:00+03:00",
+          "title": "PREM Rugby. Northampton Saints v Gloucester",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:00:00+03:00",
+          "stop": "2026-07-16T17:00:00+03:00",
+          "title": "PREM Rugby. Newcastle Red Bulls v Sale Sharks",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T17:00:00+03:00",
+          "stop": "2026-07-16T18:00:00+03:00",
+          "title": "PREM Rugby. Leicester Tigers v Exeter Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T18:00:00+03:00",
+          "stop": "2026-07-16T19:00:00+03:00",
+          "title": "MotoGP. German Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T19:00:00+03:00",
+          "stop": "2026-07-16T20:00:00+03:00",
+          "title": "FIM Speedway Grand Prix. Round 6: Grand Prix of Sweden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:00:00+03:00",
+          "stop": "2026-07-16T22:00:00+03:00",
+          "title": "Major League Baseball. Home Run Derby",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:00:00+03:00",
+          "stop": "2026-07-17T01:00:00+03:00",
+          "title": "Major League Baseball. All-Star Game: American League All-Stars at National League All-Stars",
           "description": "L",
           "category": null
         }

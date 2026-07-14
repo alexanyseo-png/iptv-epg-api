@@ -8,122 +8,475 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
+  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 65,
   "days": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "start": "2026-07-13T02:05:00+03:00",
-          "stop": "2026-07-13T04:40:00+03:00",
-          "title": "Gniew oceanu",
+          "start": "2026-07-14T00:00:00+03:00",
+          "stop": "2026-07-14T02:35:00+03:00",
+          "title": "Stażyści",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T04:40:00+03:00",
-          "stop": "2026-07-13T05:20:00+03:00",
-          "title": "Fachowcy | S01E13/20",
+          "start": "2026-07-14T02:35:00+03:00",
+          "stop": "2026-07-14T04:45:00+03:00",
+          "title": "Legendy ringu",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T05:20:00+03:00",
-          "stop": "2026-07-13T06:25:00+03:00",
-          "title": "Usterka 11 | S11E9/31",
+          "start": "2026-07-14T04:45:00+03:00",
+          "stop": "2026-07-14T05:25:00+03:00",
+          "title": "Fachowcy | S01E14/20",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T06:25:00+03:00",
-          "stop": "2026-07-13T06:55:00+03:00",
-          "title": "Ten moment | E56",
+          "start": "2026-07-14T05:25:00+03:00",
+          "stop": "2026-07-14T06:25:00+03:00",
+          "title": "Usterka 11 | S11E10/31",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T06:55:00+03:00",
-          "stop": "2026-07-13T07:50:00+03:00",
-          "title": "Szkoła | S11E791",
+          "start": "2026-07-14T06:25:00+03:00",
+          "stop": "2026-07-14T06:55:00+03:00",
+          "title": "Ten moment | E57",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T07:50:00+03:00",
-          "stop": "2026-07-13T08:45:00+03:00",
-          "title": "Szkoła | S11E792",
+          "start": "2026-07-14T06:55:00+03:00",
+          "stop": "2026-07-14T07:50:00+03:00",
+          "title": "Szkoła | S11E794",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T08:45:00+03:00",
-          "stop": "2026-07-13T09:45:00+03:00",
-          "title": "Szkoła | S11E793",
+          "start": "2026-07-14T07:50:00+03:00",
+          "stop": "2026-07-14T08:45:00+03:00",
+          "title": "Szkoła | S11E795",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T09:45:00+03:00",
-          "stop": "2026-07-13T10:50:00+03:00",
-          "title": "Ukryta prawda | S20E1339",
+          "start": "2026-07-14T08:45:00+03:00",
+          "stop": "2026-07-14T09:45:00+03:00",
+          "title": "Szkoła | S11E796",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T10:50:00+03:00",
-          "stop": "2026-07-13T11:50:00+03:00",
-          "title": "Ukryta prawda | S21E1447",
+          "start": "2026-07-14T09:45:00+03:00",
+          "stop": "2026-07-14T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1340",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T11:50:00+03:00",
-          "stop": "2026-07-13T12:50:00+03:00",
-          "title": "Ukryta prawda | S21E1448",
+          "start": "2026-07-14T10:50:00+03:00",
+          "stop": "2026-07-14T11:50:00+03:00",
+          "title": "Ukryta prawda | S21E1449",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T12:50:00+03:00",
-          "stop": "2026-07-13T13:30:00+03:00",
-          "title": "W-11 – Wydział Śledczy – Romantyczna przesyłka | E1102",
+          "start": "2026-07-14T11:50:00+03:00",
+          "stop": "2026-07-14T12:50:00+03:00",
+          "title": "Ukryta prawda | S21E1450",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T13:30:00+03:00",
-          "stop": "2026-07-13T14:10:00+03:00",
-          "title": "W-11 – Wydział Śledczy | E1103",
+          "start": "2026-07-14T12:50:00+03:00",
+          "stop": "2026-07-14T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1105",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T14:10:00+03:00",
-          "stop": "2026-07-13T14:55:00+03:00",
-          "title": "W-11 – Wydział Śledczy | E1104",
+          "start": "2026-07-14T13:30:00+03:00",
+          "stop": "2026-07-14T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Oszustka | E1106",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T14:55:00+03:00",
-          "stop": "2026-07-13T16:00:00+03:00",
-          "title": "Kryminalni | S01E6/13",
+          "start": "2026-07-14T14:10:00+03:00",
+          "stop": "2026-07-14T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1107",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T16:00:00+03:00",
-          "stop": "2026-07-13T17:00:00+03:00",
-          "title": "Szpital | S11E784",
+          "start": "2026-07-14T14:55:00+03:00",
+          "stop": "2026-07-14T16:00:00+03:00",
+          "title": "Kryminalni – Strażacy | S01E7/13",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T17:00:00+03:00",
-          "stop": "2026-07-13T18:00:00+03:00",
-          "title": "Szpital | S11E785",
+          "start": "2026-07-14T16:00:00+03:00",
+          "stop": "2026-07-14T17:00:00+03:00",
+          "title": "Szpital | S11E786",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T17:00:00+03:00",
+          "stop": "2026-07-14T18:00:00+03:00",
+          "title": "Szpital | S11E787",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T18:00:00+03:00",
+          "stop": "2026-07-14T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Umrzyj dwa razy | E508",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T19:00:00+03:00",
+          "stop": "2026-07-14T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E20/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:00:00+03:00",
+          "stop": "2026-07-14T21:00:00+03:00",
+          "title": "Ukryta prawda | S23E1531",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T21:00:00+03:00",
+          "stop": "2026-07-15T00:00:00+03:00",
+          "title": "Batman: Początek",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "start": "2026-07-15T00:00:00+03:00",
+          "stop": "2026-07-15T02:25:00+03:00",
+          "title": "Człowiek demolka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T02:25:00+03:00",
+          "stop": "2026-07-15T04:40:00+03:00",
+          "title": "Żołnierz przyszłości",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T04:40:00+03:00",
+          "stop": "2026-07-15T05:35:00+03:00",
+          "title": "Zgłoś remont 11 | S11E6/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T05:35:00+03:00",
+          "stop": "2026-07-15T06:25:00+03:00",
+          "title": "Dorota was urządzi! | S02E11/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T06:25:00+03:00",
+          "stop": "2026-07-15T06:55:00+03:00",
+          "title": "Ten moment | E58",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T06:55:00+03:00",
+          "stop": "2026-07-15T07:50:00+03:00",
+          "title": "Szkoła | S11E797",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T07:50:00+03:00",
+          "stop": "2026-07-15T08:45:00+03:00",
+          "title": "Szkoła | S12E798",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:45:00+03:00",
+          "stop": "2026-07-15T09:45:00+03:00",
+          "title": "Szkoła | S12E799",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T09:45:00+03:00",
+          "stop": "2026-07-15T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1341",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T10:50:00+03:00",
+          "stop": "2026-07-15T11:50:00+03:00",
+          "title": "Ukryta prawda | S21E1451",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T11:50:00+03:00",
+          "stop": "2026-07-15T12:50:00+03:00",
+          "title": "Ukryta prawda | S21E1452",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T12:50:00+03:00",
+          "stop": "2026-07-15T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1108",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T13:30:00+03:00",
+          "stop": "2026-07-15T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1109",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:10:00+03:00",
+          "stop": "2026-07-15T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1110",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:55:00+03:00",
+          "stop": "2026-07-15T16:00:00+03:00",
+          "title": "Kryminalni – Śmierć za śmierć | S01E8/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:00:00+03:00",
+          "stop": "2026-07-15T17:00:00+03:00",
+          "title": "Szpital | S11E788",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T17:00:00+03:00",
+          "stop": "2026-07-15T18:00:00+03:00",
+          "title": "Szpital | S11E789",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T18:00:00+03:00",
+          "stop": "2026-07-15T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Fałszywy trener | E509",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:00:00+03:00",
+          "stop": "2026-07-15T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E21/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:00:00+03:00",
+          "stop": "2026-07-15T21:00:00+03:00",
+          "title": "Ukryta prawda | S23E1532",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:00:00+03:00",
+          "stop": "2026-07-15T23:35:00+03:00",
+          "title": "Przyjaciel domu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T23:35:00+03:00",
+          "stop": "2026-07-16T01:50:00+03:00",
+          "title": "W morzu ognia",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "start": "2026-07-16T01:50:00+03:00",
+          "stop": "2026-07-16T03:50:00+03:00",
+          "title": "Dom nad jeziorem",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T03:50:00+03:00",
+          "stop": "2026-07-16T04:50:00+03:00",
+          "title": "Żyjąc z potworem 9 | S09E4/20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T04:50:00+03:00",
+          "stop": "2026-07-16T05:30:00+03:00",
+          "title": "Fachowcy | S01E15/20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T05:30:00+03:00",
+          "stop": "2026-07-16T06:25:00+03:00",
+          "title": "Usterka 11 | S11E11/31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T06:25:00+03:00",
+          "stop": "2026-07-16T06:55:00+03:00",
+          "title": "Ten moment | E59",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T06:55:00+03:00",
+          "stop": "2026-07-16T07:50:00+03:00",
+          "title": "Szkoła | S12E800",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:50:00+03:00",
+          "stop": "2026-07-16T08:45:00+03:00",
+          "title": "Szkoła | S12E801",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:45:00+03:00",
+          "stop": "2026-07-16T09:45:00+03:00",
+          "title": "Szkoła | S12E802",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T09:45:00+03:00",
+          "stop": "2026-07-16T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1342",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T10:50:00+03:00",
+          "stop": "2026-07-16T11:50:00+03:00",
+          "title": "Ukryta prawda | S21E1453",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T11:50:00+03:00",
+          "stop": "2026-07-16T12:50:00+03:00",
+          "title": "Ukryta prawda | S21E1454",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T12:50:00+03:00",
+          "stop": "2026-07-16T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1111",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T13:30:00+03:00",
+          "stop": "2026-07-16T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1112",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:10:00+03:00",
+          "stop": "2026-07-16T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1113",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:55:00+03:00",
+          "stop": "2026-07-16T16:00:00+03:00",
+          "title": "Kryminalni – Gdzie jest Maciek? | S01E9/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:00:00+03:00",
+          "stop": "2026-07-16T17:00:00+03:00",
+          "title": "Szpital | S11E790",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T17:00:00+03:00",
+          "stop": "2026-07-16T18:00:00+03:00",
+          "title": "Szpital | S11E791",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T18:00:00+03:00",
+          "stop": "2026-07-16T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Wycieczka | E510",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T19:00:00+03:00",
+          "stop": "2026-07-16T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E22/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:00:00+03:00",
+          "stop": "2026-07-16T21:00:00+03:00",
+          "title": "Ukryta prawda | S23E1533",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T21:00:00+03:00",
+          "stop": "2026-07-16T23:10:00+03:00",
+          "title": "Kryptonim Polska",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T23:10:00+03:00",
+          "stop": "2026-07-17T02:00:00+03:00",
+          "title": "Batman: Początek",
           "description": "L",
           "category": null
         }

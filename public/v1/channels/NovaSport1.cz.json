@@ -8,122 +8,468 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
+  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 64,
   "days": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "start": "2026-07-13T00:15:00+03:00",
-          "stop": "2026-07-13T00:20:00+03:00",
+          "start": "2026-07-14T00:00:00+03:00",
+          "stop": "2026-07-14T00:05:00+03:00",
           "title": "Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T00:20:00+03:00",
-          "stop": "2026-07-13T01:20:00+03:00",
-          "title": "The King's poker (82)",
+          "start": "2026-07-14T00:05:00+03:00",
+          "stop": "2026-07-14T01:50:00+03:00",
+          "title": "JAR – Skotsko",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T01:20:00+03:00",
-          "stop": "2026-07-13T02:15:00+03:00",
-          "title": "The King's poker (27)",
+          "start": "2026-07-14T01:50:00+03:00",
+          "stop": "2026-07-14T02:00:00+03:00",
+          "title": "Penaltový král – Němčany",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T02:15:00+03:00",
-          "stop": "2026-07-13T02:45:00+03:00",
-          "title": "SpadePoker show 2026 (24)",
+          "start": "2026-07-14T02:00:00+03:00",
+          "stop": "2026-07-14T03:30:00+03:00",
+          "title": "Rhein-Neckar Löwen – Handball Sport Verein Hamburg",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T02:45:00+03:00",
-          "stop": "2026-07-13T04:10:00+03:00",
-          "title": "TBV Lemgo Lippe – THW Kiel",
+          "start": "2026-07-14T03:30:00+03:00",
+          "stop": "2026-07-14T05:00:00+03:00",
+          "title": "SC Magdeburg – THW Kiel",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T04:10:00+03:00",
-          "stop": "2026-07-13T05:35:00+03:00",
-          "title": "VfL Gummersbach – SC Magdeburg",
+          "start": "2026-07-14T05:00:00+03:00",
+          "stop": "2026-07-14T08:00:00+03:00",
+          "title": "THW Kiel – HC Erlangen",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T05:35:00+03:00",
-          "stop": "2026-07-13T08:00:00+03:00",
-          "title": "THW Kiel – TSV Hannover-Burgdorf",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-13T08:00:00+03:00",
-          "stop": "2026-07-13T08:05:00+03:00",
+          "start": "2026-07-14T08:00:00+03:00",
+          "stop": "2026-07-14T08:05:00+03:00",
           "title": "Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T08:05:00+03:00",
-          "stop": "2026-07-13T09:45:00+03:00",
+          "start": "2026-07-14T08:05:00+03:00",
+          "stop": "2026-07-14T09:45:00+03:00",
           "title": "Rugby U20 Championship 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T09:45:00+03:00",
-          "stop": "2026-07-13T11:30:00+03:00",
+          "start": "2026-07-14T09:45:00+03:00",
+          "stop": "2026-07-14T11:30:00+03:00",
           "title": "Rugby U20 Championship 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T11:30:00+03:00",
-          "stop": "2026-07-13T13:30:00+03:00",
-          "title": "Liverpool FC – Barnsley FC",
+          "start": "2026-07-14T11:30:00+03:00",
+          "stop": "2026-07-14T13:30:00+03:00",
+          "title": "Fidži – Anglie",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T13:30:00+03:00",
-          "stop": "2026-07-13T14:00:00+03:00",
-          "title": "SpadePoker show 2026 (24)",
+          "start": "2026-07-14T13:30:00+03:00",
+          "stop": "2026-07-14T14:00:00+03:00",
+          "title": "JACKALOPE 2026 – Virginia Beach",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T14:00:00+03:00",
-          "stop": "2026-07-13T14:05:00+03:00",
+          "start": "2026-07-14T14:00:00+03:00",
+          "stop": "2026-07-14T14:05:00+03:00",
           "title": "Polední Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T14:05:00+03:00",
-          "stop": "2026-07-13T16:00:00+03:00",
+          "start": "2026-07-14T14:05:00+03:00",
+          "stop": "2026-07-14T16:00:00+03:00",
+          "title": "Argentina – Wales",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T16:00:00+03:00",
+          "stop": "2026-07-14T17:45:00+03:00",
+          "title": "Racing Strasbourg – FC Nantes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T17:45:00+03:00",
+          "stop": "2026-07-14T18:15:00+03:00",
+          "title": "SFT E-Foil World Cup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T18:15:00+03:00",
+          "stop": "2026-07-14T20:00:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:00:00+03:00",
+          "stop": "2026-07-14T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:05:00+03:00",
+          "stop": "2026-07-14T22:00:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T22:00:00+03:00",
+          "stop": "2026-07-14T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T22:05:00+03:00",
+          "stop": "2026-07-14T23:45:00+03:00",
           "title": "Nový Zéland – Itálie",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T16:00:00+03:00",
-          "stop": "2026-07-13T16:55:00+03:00",
+          "start": "2026-07-14T23:45:00+03:00",
+          "stop": "2026-07-15T00:00:00+03:00",
+          "title": "New Zealand Ambassador´s XV 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "start": "2026-07-15T00:00:00+03:00",
+          "stop": "2026-07-15T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T00:05:00+03:00",
+          "stop": "2026-07-15T02:00:00+03:00",
+          "title": "Japonsko – Irsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T02:00:00+03:00",
+          "stop": "2026-07-15T03:30:00+03:00",
+          "title": "ThSV Eisenach – SC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T03:30:00+03:00",
+          "stop": "2026-07-15T05:00:00+03:00",
+          "title": "VfL Gummersbach – SG Flensburg-Handewitt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T05:00:00+03:00",
+          "stop": "2026-07-15T08:00:00+03:00",
+          "title": "SC Magdeburg – TBV Lemgo Lippe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:00:00+03:00",
+          "stop": "2026-07-15T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:05:00+03:00",
+          "stop": "2026-07-15T09:45:00+03:00",
+          "title": "Hull City – Chelsea FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T09:45:00+03:00",
+          "stop": "2026-07-15T11:30:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T11:30:00+03:00",
+          "stop": "2026-07-15T13:10:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T13:10:00+03:00",
+          "stop": "2026-07-15T13:30:00+03:00",
+          "title": "New Zealand Ambassador´s XV 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T13:30:00+03:00",
+          "stop": "2026-07-15T14:00:00+03:00",
+          "title": "Golden Roof Challenge",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:00:00+03:00",
+          "stop": "2026-07-15T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:05:00+03:00",
+          "stop": "2026-07-15T14:35:00+03:00",
+          "title": "SpadePoker show 2026 (24)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:35:00+03:00",
+          "stop": "2026-07-15T15:30:00+03:00",
           "title": "The King's poker (82)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T16:55:00+03:00",
-          "stop": "2026-07-13T19:00:00+03:00",
+          "start": "2026-07-15T15:30:00+03:00",
+          "stop": "2026-07-15T16:30:00+03:00",
+          "title": "The King's poker (27)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:30:00+03:00",
+          "stop": "2026-07-15T18:15:00+03:00",
+          "title": "RC Lens – Stade Brestois",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T18:15:00+03:00",
+          "stop": "2026-07-15T20:00:00+03:00",
           "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:00:00+03:00",
+          "stop": "2026-07-15T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:05:00+03:00",
+          "stop": "2026-07-15T22:00:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:00:00+03:00",
+          "stop": "2026-07-15T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:05:00+03:00",
+          "stop": "2026-07-16T00:00:00+03:00",
+          "title": "Austrálie – Francie",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "start": "2026-07-16T00:00:00+03:00",
+          "stop": "2026-07-16T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T00:05:00+03:00",
+          "stop": "2026-07-16T02:00:00+03:00",
+          "title": "Argentina – Wales",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T02:00:00+03:00",
+          "stop": "2026-07-16T03:25:00+03:00",
+          "title": "GWD Minden – Rhein-Neckar Löwen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T03:25:00+03:00",
+          "stop": "2026-07-16T05:00:00+03:00",
+          "title": "THW Kiel – SC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T05:00:00+03:00",
+          "stop": "2026-07-16T08:00:00+03:00",
+          "title": "ThSV Eisenach – Bergischer HC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:00:00+03:00",
+          "stop": "2026-07-16T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:05:00+03:00",
+          "stop": "2026-07-16T09:45:00+03:00",
+          "title": "Wrexham FC – Ipswich Town",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T09:45:00+03:00",
+          "stop": "2026-07-16T11:30:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T11:30:00+03:00",
+          "stop": "2026-07-16T13:30:00+03:00",
+          "title": "Rugby U20 Championship 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T13:30:00+03:00",
+          "stop": "2026-07-16T14:00:00+03:00",
+          "title": "SFT E-Foil World Cup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:00:00+03:00",
+          "stop": "2026-07-16T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:05:00+03:00",
+          "stop": "2026-07-16T16:00:00+03:00",
+          "title": "FC Lorient – Lille OSC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:00:00+03:00",
+          "stop": "2026-07-16T17:45:00+03:00",
+          "title": "FC Nantes – AJ Auxerre",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T17:45:00+03:00",
+          "stop": "2026-07-16T18:15:00+03:00",
+          "title": "Magazín Muaythai (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T18:15:00+03:00",
+          "stop": "2026-07-16T20:00:00+03:00",
+          "title": "Nový Zéland – Itálie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:00:00+03:00",
+          "stop": "2026-07-16T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:05:00+03:00",
+          "stop": "2026-07-16T21:45:00+03:00",
+          "title": "JAR – Skotsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T21:45:00+03:00",
+          "stop": "2026-07-16T22:00:00+03:00",
+          "title": "Penaltový král – Jasenná",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:00:00+03:00",
+          "stop": "2026-07-16T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:05:00+03:00",
+          "stop": "2026-07-16T22:35:00+03:00",
+          "title": "The King's poker (69)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:35:00+03:00",
+          "stop": "2026-07-16T23:30:00+03:00",
+          "title": "The King's poker (28)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T23:30:00+03:00",
+          "stop": "2026-07-17T00:00:00+03:00",
+          "title": "SpadePoker show 2026 (24)",
           "description": "L",
           "category": null
         }

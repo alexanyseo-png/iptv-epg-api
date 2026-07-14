@@ -8,45 +8,566 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-13T04:02:08.405829+00:00",
+  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 78,
   "days": [
     {
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "programs": [
         {
-          "start": "2026-07-13T00:00:00+03:00",
-          "stop": "2026-07-13T02:50:00+03:00",
-          "title": "Film: Oppenheimer.",
+          "start": "2026-07-14T00:00:00+03:00",
+          "stop": "2026-07-14T00:30:00+03:00",
+          "title": "Mortimer & Whitehouse: Gone Fishing.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T02:50:00+03:00",
-          "stop": "2026-07-13T03:45:00+03:00",
-          "title": "Today at Wimbledon. \"Day 14\".",
+          "start": "2026-07-14T00:30:00+03:00",
+          "stop": "2026-07-14T01:03:00+03:00",
+          "title": "Newsnight, followed by Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T03:45:00+03:00",
-          "stop": "2026-07-13T04:45:00+03:00",
-          "title": "Golf: Scottish Open Highlights. \"Final-Round\".",
+          "start": "2026-07-14T01:03:00+03:00",
+          "stop": "2026-07-14T01:05:00+03:00",
+          "title": "BBC Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T04:45:00+03:00",
-          "stop": "2026-07-13T05:45:00+03:00",
-          "title": "Signed: Kevin Bridges: In Search of the Beautiful Game.",
+          "start": "2026-07-14T01:05:00+03:00",
+          "stop": "2026-07-14T02:55:00+03:00",
+          "title": "Film: Safe Haven.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-13T05:45:00+03:00",
-          "stop": "2026-07-13T06:45:00+03:00",
+          "start": "2026-07-14T02:55:00+03:00",
+          "stop": "2026-07-14T03:50:00+03:00",
+          "title": "Countryfile. \"Anita Rani's East Coast Road Trip: Northey Island\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T03:50:00+03:00",
+          "stop": "2026-07-14T04:50:00+03:00",
+          "title": "Signed: Millionaire Superyacht: Why Ships Sink.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T04:50:00+03:00",
+          "stop": "2026-07-14T05:20:00+03:00",
+          "title": "Do You Know Your Place? \"Kirkby Lonsdale\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T05:20:00+03:00",
+          "stop": "2026-07-14T08:30:00+03:00",
           "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T08:30:00+03:00",
+          "stop": "2026-07-14T09:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T09:15:00+03:00",
+          "stop": "2026-07-14T10:00:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T10:00:00+03:00",
+          "stop": "2026-07-14T10:30:00+03:00",
+          "title": "Farm 999.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T10:30:00+03:00",
+          "stop": "2026-07-14T11:00:00+03:00",
+          "title": "Lost and Found in the Lakes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T11:00:00+03:00",
+          "stop": "2026-07-14T14:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T14:15:00+03:00",
+          "stop": "2026-07-14T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T15:00:00+03:00",
+          "stop": "2026-07-14T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 2: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T15:30:00+03:00",
+          "stop": "2026-07-14T16:00:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T16:00:00+03:00",
+          "stop": "2026-07-14T16:30:00+03:00",
+          "title": "Lightning.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T16:30:00+03:00",
+          "stop": "2026-07-14T17:15:00+03:00",
+          "title": "The Farmers' Country Showdown. \"Royal Cheshire County Show\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T17:15:00+03:00",
+          "stop": "2026-07-14T18:15:00+03:00",
+          "title": "The Hidden World of Hospitality with Tom Kerridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T18:15:00+03:00",
+          "stop": "2026-07-14T19:15:00+03:00",
+          "title": "Yellowstone: Wildest Winter to Blazing Summer. Ep.2 \"The Toughest Spring\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T19:15:00+03:00",
+          "stop": "2026-07-14T20:00:00+03:00",
+          "title": "Flog It! \"Compilation Mount Edgcumbe 57\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:00:00+03:00",
+          "stop": "2026-07-14T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 14: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T20:30:00+03:00",
+          "stop": "2026-07-14T21:00:00+03:00",
+          "title": "Just One Thing. \"Dance\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T21:00:00+03:00",
+          "stop": "2026-07-14T22:00:00+03:00",
+          "title": "Rick Stein's Food Stories.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T22:00:00+03:00",
+          "stop": "2026-07-14T23:00:00+03:00",
+          "title": "Digging for Britain.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T23:00:00+03:00",
+          "stop": "2026-07-14T23:45:00+03:00",
+          "title": "QI XL. \"Television\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-14T23:45:00+03:00",
+          "stop": "2026-07-15T00:30:00+03:00",
+          "title": "Live at the Apollo. \"Jen Brister, Esther Manito and Adam Rowe\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-15",
+      "programs": [
+        {
+          "start": "2026-07-15T00:30:00+03:00",
+          "stop": "2026-07-15T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:03:00+03:00",
+          "stop": "2026-07-15T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:05:00+03:00",
+          "stop": "2026-07-15T01:50:00+03:00",
+          "title": "Cricket: England v India ODI Highlights.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:50:00+03:00",
+          "stop": "2026-07-15T03:40:00+03:00",
+          "title": "Film: on the Basis Of Sex.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T03:40:00+03:00",
+          "stop": "2026-07-15T04:10:00+03:00",
+          "title": "Natalie Cassidy: Caring Together.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T04:10:00+03:00",
+          "stop": "2026-07-15T04:40:00+03:00",
+          "title": "Signed: Exposed: The High Street Crime Crisis – on the Front Line.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T04:40:00+03:00",
+          "stop": "2026-07-15T05:05:00+03:00",
+          "title": "Signed: The Road to Hope with Fergal Keane.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T05:05:00+03:00",
+          "stop": "2026-07-15T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:30:00+03:00",
+          "stop": "2026-07-15T09:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T09:15:00+03:00",
+          "stop": "2026-07-15T10:00:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T10:00:00+03:00",
+          "stop": "2026-07-15T10:30:00+03:00",
+          "title": "Great Japanese Railway Journeys.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T10:30:00+03:00",
+          "stop": "2026-07-15T11:00:00+03:00",
+          "title": "Great Central Asian Railway Journeys.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T11:00:00+03:00",
+          "stop": "2026-07-15T13:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T13:15:00+03:00",
+          "stop": "2026-07-15T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:00:00+03:00",
+          "stop": "2026-07-15T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 2: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:30:00+03:00",
+          "stop": "2026-07-15T16:00:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:00:00+03:00",
+          "stop": "2026-07-15T16:30:00+03:00",
+          "title": "Lightning.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:30:00+03:00",
+          "stop": "2026-07-15T17:15:00+03:00",
+          "title": "The Farmers' Country Showdown. \"Stroud Farmers' Market\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T17:15:00+03:00",
+          "stop": "2026-07-15T18:15:00+03:00",
+          "title": "The Hidden World of Hospitality with Tom Kerridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T18:15:00+03:00",
+          "stop": "2026-07-15T19:15:00+03:00",
+          "title": "Yellowstone: Wildest Winter to Blazing Summer. Ep.3 \"The Blazing Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:15:00+03:00",
+          "stop": "2026-07-15T20:00:00+03:00",
+          "title": "Flog It! \"Edinburgh 19\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:00:00+03:00",
+          "stop": "2026-07-15T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 14: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:30:00+03:00",
+          "stop": "2026-07-15T21:00:00+03:00",
+          "title": "Just One Thing. \"Gardening\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:00:00+03:00",
+          "stop": "2026-07-15T22:00:00+03:00",
+          "title": "Celebrity Antiques Road Trip. \"Harry Clark v Paul Gorton\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:00:00+03:00",
+          "stop": "2026-07-15T23:00:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T23:00:00+03:00",
+          "stop": "2026-07-16T00:00:00+03:00",
+          "title": "Greece with Simon Reeve. \"Peloponnese Peninsula to the Mountains\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "start": "2026-07-16T00:00:00+03:00",
+          "stop": "2026-07-16T00:30:00+03:00",
+          "title": "Inside No. 9. \"Last Night of the Proms\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T00:30:00+03:00",
+          "stop": "2026-07-16T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T01:03:00+03:00",
+          "stop": "2026-07-16T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T01:05:00+03:00",
+          "stop": "2026-07-16T02:05:00+03:00",
+          "title": "The Tech Billionaire Takeover.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T02:05:00+03:00",
+          "stop": "2026-07-16T02:55:00+03:00",
+          "title": "Amityville: An Origin Story.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T02:55:00+03:00",
+          "stop": "2026-07-16T03:25:00+03:00",
+          "title": "Do You Know Your Place? \"Bangor\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T03:25:00+03:00",
+          "stop": "2026-07-16T04:05:00+03:00",
+          "title": "Scamanda.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T04:05:00+03:00",
+          "stop": "2026-07-16T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:30:00+03:00",
+          "stop": "2026-07-16T09:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T09:15:00+03:00",
+          "stop": "2026-07-16T10:00:00+03:00",
+          "title": "Bargain Hunt. \"Bargain Hunt Takes Flight\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T10:00:00+03:00",
+          "stop": "2026-07-16T11:00:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T11:00:00+03:00",
+          "stop": "2026-07-16T14:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:15:00+03:00",
+          "stop": "2026-07-16T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T15:00:00+03:00",
+          "stop": "2026-07-16T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 2: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T15:30:00+03:00",
+          "stop": "2026-07-16T16:00:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:00:00+03:00",
+          "stop": "2026-07-16T16:30:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:30:00+03:00",
+          "stop": "2026-07-16T17:15:00+03:00",
+          "title": "The Farmers' Country Showdown. \"Ashbourne Show\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T17:15:00+03:00",
+          "stop": "2026-07-16T18:15:00+03:00",
+          "title": "The Hidden World of Hospitality with Tom Kerridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T18:15:00+03:00",
+          "stop": "2026-07-16T19:15:00+03:00",
+          "title": "Land of the Lost Wolves.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T19:15:00+03:00",
+          "stop": "2026-07-16T20:00:00+03:00",
+          "title": "Flog It! \"Norfolk 18\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:00:00+03:00",
+          "stop": "2026-07-16T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 14: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:30:00+03:00",
+          "stop": "2026-07-16T21:00:00+03:00",
+          "title": "Just One Thing. \"Drink Tea\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T21:00:00+03:00",
+          "stop": "2026-07-16T22:00:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:00:00+03:00",
+          "stop": "2026-07-16T23:00:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T23:00:00+03:00",
+          "stop": "2026-07-17T00:30:00+03:00",
+          "title": "Golf: The Open Highlights. \"Opening Round\".",
           "description": "L",
           "category": null
         }
