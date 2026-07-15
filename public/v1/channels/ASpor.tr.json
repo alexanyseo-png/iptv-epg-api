@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
+  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 47,
   "days": [
-    {
-      "date": "2026-07-14",
-      "programs": [
-        {
-          "start": "2026-07-14T00:00:00+03:00",
-          "stop": "2026-07-15T00:00:00+03:00",
-          "title": "Son Sayfa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-15",
       "programs": [
@@ -132,78 +120,43 @@
       "programs": [
         {
           "start": "2026-07-16T00:00:00+03:00",
-          "stop": "2026-07-16T00:30:00+03:00",
-          "title": "Без названия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T00:30:00+03:00",
-          "stop": "2026-07-16T01:00:00+03:00",
-          "title": "Dünya Kupasında Bugün",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T01:00:00+03:00",
           "stop": "2026-07-16T02:00:00+03:00",
-          "title": "Son Sayfa",
+          "title": "Futbol Meydanı",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-16T02:00:00+03:00",
-          "stop": "2026-07-16T02:30:00+03:00",
-          "title": "Dev Maçlar",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T02:30:00+03:00",
           "stop": "2026-07-16T03:00:00+03:00",
-          "title": "Arşiv Odası",
+          "title": "91",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-16T03:00:00+03:00",
-          "stop": "2026-07-16T05:00:00+03:00",
-          "title": "Transfer Raporu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T05:00:00+03:00",
-          "stop": "2026-07-16T06:00:00+03:00",
-          "title": "Bir Zamanlar Futbol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T06:00:00+03:00",
-          "stop": "2026-07-16T07:00:00+03:00",
-          "title": "Son Sayfa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T07:00:00+03:00",
-          "stop": "2026-07-16T08:00:00+03:00",
+          "stop": "2026-07-16T04:00:00+03:00",
           "title": "Avrupa'dan Futbol",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-16T08:00:00+03:00",
-          "stop": "2026-07-16T10:30:00+03:00",
-          "title": "Sabah Sporu",
+          "start": "2026-07-16T04:00:00+03:00",
+          "stop": "2026-07-16T05:00:00+03:00",
+          "title": "Futbol Meydanı",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-16T10:30:00+03:00",
+          "start": "2026-07-16T05:00:00+03:00",
+          "stop": "2026-07-16T08:00:00+03:00",
+          "title": "Ziraat Türkiye Kupası Özetler",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:00:00+03:00",
           "stop": "2026-07-16T11:00:00+03:00",
-          "title": "Dünya Kupasında Bugün",
+          "title": "Sabah Sporu",
           "description": "L",
           "category": null
         },
@@ -230,20 +183,6 @@
         },
         {
           "start": "2026-07-16T18:00:00+03:00",
-          "stop": "2026-07-16T18:30:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T18:30:00+03:00",
-          "stop": "2026-07-16T19:00:00+03:00",
-          "title": "Dünya Kupasında Bugün",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T19:00:00+03:00",
           "stop": "2026-07-16T20:00:00+03:00",
           "title": "Ana Haber",
           "description": "L",
@@ -252,20 +191,165 @@
         {
           "start": "2026-07-16T20:00:00+03:00",
           "stop": "2026-07-16T21:00:00+03:00",
-          "title": "Dev Maçlar",
+          "title": "Avrupa'dan Futbol",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-16T21:00:00+03:00",
           "stop": "2026-07-16T23:00:00+03:00",
-          "title": "Transfer Raporu",
+          "title": "Futbol: Süper Lig",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-16T23:00:00+03:00",
           "stop": "2026-07-17T00:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "start": "2026-07-17T00:00:00+03:00",
+          "stop": "2026-07-17T00:30:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T00:30:00+03:00",
+          "stop": "2026-07-17T01:00:00+03:00",
+          "title": "Dünya Kupasında Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T01:00:00+03:00",
+          "stop": "2026-07-17T02:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T02:00:00+03:00",
+          "stop": "2026-07-17T02:30:00+03:00",
+          "title": "Dev Maçlar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T02:30:00+03:00",
+          "stop": "2026-07-17T03:00:00+03:00",
+          "title": "Arşiv Odası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T03:00:00+03:00",
+          "stop": "2026-07-17T05:00:00+03:00",
+          "title": "Transfer Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T05:00:00+03:00",
+          "stop": "2026-07-17T06:00:00+03:00",
+          "title": "Bir Zamanlar Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T06:00:00+03:00",
+          "stop": "2026-07-17T07:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:00:00+03:00",
+          "stop": "2026-07-17T08:00:00+03:00",
+          "title": "Milli Takım Dünya Kupası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:00:00+03:00",
+          "stop": "2026-07-17T10:30:00+03:00",
+          "title": "Sabah Sporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T10:30:00+03:00",
+          "stop": "2026-07-17T11:00:00+03:00",
+          "title": "Dünya Kupasında Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T11:00:00+03:00",
+          "stop": "2026-07-17T14:00:00+03:00",
+          "title": "Spor Ajansı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T14:00:00+03:00",
+          "stop": "2026-07-17T15:00:00+03:00",
+          "title": "Gün Ortası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T15:00:00+03:00",
+          "stop": "2026-07-17T18:00:00+03:00",
+          "title": "Spor Gündemi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T18:00:00+03:00",
+          "stop": "2026-07-17T18:30:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T18:30:00+03:00",
+          "stop": "2026-07-17T19:00:00+03:00",
+          "title": "Dünya Kupasında Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T19:00:00+03:00",
+          "stop": "2026-07-17T20:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T20:00:00+03:00",
+          "stop": "2026-07-17T21:00:00+03:00",
+          "title": "Futbol: FIFA Dünya Kupası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T21:00:00+03:00",
+          "stop": "2026-07-17T23:00:00+03:00",
+          "title": "Transfer Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T23:00:00+03:00",
+          "stop": "2026-07-18T00:00:00+03:00",
           "title": "Son Sayfa",
           "description": "L",
           "category": null

@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
+  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-07-14",
-      "programs": [
-        {
-          "start": "2026-07-14T05:00:00+03:00",
-          "stop": "2026-07-14T06:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T06:00:00+03:00",
-          "stop": "2026-07-14T07:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T07:00:00+03:00",
-          "stop": "2026-07-14T10:20:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T10:20:00+03:00",
-          "stop": "2026-07-14T11:00:00+03:00",
-          "title": "Дотянись до звезд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T11:00:00+03:00",
-          "stop": "2026-07-14T13:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T13:00:00+03:00",
-          "stop": "2026-07-14T15:00:00+03:00",
-          "title": "Статус: в сети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T15:00:00+03:00",
-          "stop": "2026-07-14T16:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T16:00:00+03:00",
-          "stop": "2026-07-14T17:00:00+03:00",
-          "title": "Тема.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T17:00:00+03:00",
-          "stop": "2026-07-14T18:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T18:00:00+03:00",
-          "stop": "2026-07-14T20:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T20:00:00+03:00",
-          "stop": "2026-07-14T21:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T21:00:00+03:00",
-          "stop": "2026-07-14T22:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T22:00:00+03:00",
-          "stop": "2026-07-15T05:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-15",
       "programs": [
@@ -294,6 +198,109 @@
         {
           "start": "2026-07-16T23:00:00+03:00",
           "stop": "2026-07-17T05:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "start": "2026-07-17T05:00:00+03:00",
+          "stop": "2026-07-17T06:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T06:00:00+03:00",
+          "stop": "2026-07-17T07:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:00:00+03:00",
+          "stop": "2026-07-17T11:20:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T11:20:00+03:00",
+          "stop": "2026-07-17T11:25:00+03:00",
+          "title": "Сияй по-звёздному.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T11:25:00+03:00",
+          "stop": "2026-07-17T13:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T13:00:00+03:00",
+          "stop": "2026-07-17T15:00:00+03:00",
+          "title": "Статус: в сети.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T15:00:00+03:00",
+          "stop": "2026-07-17T16:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T16:00:00+03:00",
+          "stop": "2026-07-17T17:00:00+03:00",
+          "title": "Тема.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T17:00:00+03:00",
+          "stop": "2026-07-17T18:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T18:00:00+03:00",
+          "stop": "2026-07-17T18:20:00+03:00",
+          "title": "Новости. Итоги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T18:20:00+03:00",
+          "stop": "2026-07-17T20:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T20:00:00+03:00",
+          "stop": "2026-07-17T21:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T21:00:00+03:00",
+          "stop": "2026-07-17T22:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T22:00:00+03:00",
+          "stop": "2026-07-18T05:00:00+03:00",
           "title": "Хит за хитом.",
           "description": "L",
           "category": null

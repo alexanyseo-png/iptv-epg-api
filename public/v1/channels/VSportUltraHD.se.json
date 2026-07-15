@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
+  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-07-14",
-      "programs": [
-        {
-          "start": "2026-07-14T11:00:00+03:00",
-          "stop": "2026-07-14T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T19:00:00+03:00",
-          "stop": "2026-07-14T22:00:00+03:00",
-          "title": "Formula 1: Barcelonan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-14T22:00:00+03:00",
-          "stop": "2026-07-15T11:00:00+03:00",
-          "title": "Bundesliiga: Bayern München – Dortmund",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-15",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-07-16T22:00:00+03:00",
           "stop": "2026-07-17T11:00:00+03:00",
           "title": "Bundesliiga: Dortmund – Bayern München",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "start": "2026-07-17T11:00:00+03:00",
+          "stop": "2026-07-17T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T19:00:00+03:00",
+          "stop": "2026-07-17T22:00:00+03:00",
+          "title": "Bundesliiga: Dortmund – Bayern München",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T22:00:00+03:00",
+          "stop": "2026-07-18T11:00:00+03:00",
+          "title": "Formula 1: Britannian GP – Osakilpailu",
           "description": "L",
           "category": null
         }

@@ -8,45 +8,713 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-14T03:37:08.096150+00:00",
+  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 99,
   "days": [
     {
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "programs": [
         {
-          "start": "2026-07-14T01:43:00+03:00",
-          "stop": "2026-07-14T02:26:00+03:00",
+          "start": "2026-07-15T00:17:00+03:00",
+          "stop": "2026-07-15T01:18:00+03:00",
+          "title": "Mio figlio.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T01:18:00+03:00",
+          "stop": "2026-07-15T02:00:00+03:00",
           "title": "TG5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-14T02:26:00+03:00",
-          "stop": "2026-07-14T04:11:00+03:00",
-          "title": "Solo per amore: Destini incrociati. S.1,Ep.1/10 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "start": "2026-07-15T02:00:00+03:00",
+          "stop": "2026-07-15T03:03:00+03:00",
+          "title": "La foresta degli scomparsi. S.1,Ep.1/4 \"*** Titel der Episode noch nicht bekannt ***\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-14T04:11:00+03:00",
-          "stop": "2026-07-14T04:52:00+03:00",
-          "title": "New Amsterdam. S.2,Ep.13/18 \"Burocrazia\".",
+          "start": "2026-07-15T03:03:00+03:00",
+          "stop": "2026-07-15T03:56:00+03:00",
+          "title": "La foresta degli scomparsi. S.1,Ep.2/4 \"*** Titel der Episode noch nicht bekannt ***\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-14T04:52:00+03:00",
-          "stop": "2026-07-14T05:32:00+03:00",
-          "title": "New Amsterdam. S.2,Ep.14/18 \"Sabbath\".",
+          "start": "2026-07-15T03:56:00+03:00",
+          "stop": "2026-07-15T04:35:00+03:00",
+          "title": "Solo per amore: Destini incrociati. S.1,Ep.2/10 \"*** Titel der Episode noch nicht bekannt ***\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-14T05:32:00+03:00",
-          "stop": "2026-07-14T06:32:00+03:00",
-          "title": "R.I.S. Roma Delitti imperfetti. S.6,Ep.7/20 \"Vendicatrice\".",
+          "start": "2026-07-15T04:35:00+03:00",
+          "stop": "2026-07-15T05:21:00+03:00",
+          "title": "New Amsterdam. S.2,Ep.15/18 \"Carta bianca\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T05:21:00+03:00",
+          "stop": "2026-07-15T06:10:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. S.6,Ep.8/20 \"Chi ha ucciso Babbo Natale?\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T06:10:00+03:00",
+          "stop": "2026-07-15T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"I primi e gli ultimi\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T07:00:00+03:00",
+          "stop": "2026-07-15T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T07:15:00+03:00",
+          "stop": "2026-07-15T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T07:30:00+03:00",
+          "stop": "2026-07-15T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T07:45:00+03:00",
+          "stop": "2026-07-15T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:00:00+03:00",
+          "stop": "2026-07-15T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:15:00+03:00",
+          "stop": "2026-07-15T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:30:00+03:00",
+          "stop": "2026-07-15T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:45:00+03:00",
+          "stop": "2026-07-15T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:53:00+03:00",
+          "stop": "2026-07-15T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T08:59:00+03:00",
+          "stop": "2026-07-15T09:44:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T09:44:00+03:00",
+          "stop": "2026-07-15T11:51:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T11:51:00+03:00",
+          "stop": "2026-07-15T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T12:00:00+03:00",
+          "stop": "2026-07-15T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T13:58:00+03:00",
+          "stop": "2026-07-15T14:34:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T14:34:00+03:00",
+          "stop": "2026-07-15T15:06:00+03:00",
+          "title": "Beautiful. Ep.101 \"Folge 101\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:06:00+03:00",
+          "stop": "2026-07-15T15:45:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.4,Ep.371 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T15:45:00+03:00",
+          "stop": "2026-07-15T16:16:00+03:00",
+          "title": "Bir Ada Masali. S.1,Ep.15 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T16:16:00+03:00",
+          "stop": "2026-07-15T17:45:00+03:00",
+          "title": "Bir Ada Masali. Ep.16 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T17:45:00+03:00",
+          "stop": "2026-07-15T18:45:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.35 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T18:45:00+03:00",
+          "stop": "2026-07-15T19:42:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.36 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T19:42:00+03:00",
+          "stop": "2026-07-15T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T20:54:00+03:00",
+          "stop": "2026-07-15T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:01:00+03:00",
+          "stop": "2026-07-15T21:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T21:40:00+03:00",
+          "stop": "2026-07-15T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-15T22:20:00+03:00",
+          "stop": "2026-07-16T00:16:00+03:00",
+          "title": "Ricomincio da me.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-16",
+      "programs": [
+        {
+          "start": "2026-07-16T00:16:00+03:00",
+          "stop": "2026-07-16T01:02:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T01:02:00+03:00",
+          "stop": "2026-07-16T02:12:00+03:00",
+          "title": "La foresta degli scomparsi. S.1,Ep.3/4 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T02:12:00+03:00",
+          "stop": "2026-07-16T03:30:00+03:00",
+          "title": "La foresta degli scomparsi. S.1,Ep.4/4 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T03:30:00+03:00",
+          "stop": "2026-07-16T04:34:00+03:00",
+          "title": "Solo per amore: Destini incrociati. S.1,Ep.3/10 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T04:34:00+03:00",
+          "stop": "2026-07-16T06:08:00+03:00",
+          "title": "New Amsterdam. S.2,Ep.16/18 \"Punti di vista\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T06:08:00+03:00",
+          "stop": "2026-07-16T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"Delitto di donna velata\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:00:00+03:00",
+          "stop": "2026-07-16T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:15:00+03:00",
+          "stop": "2026-07-16T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:30:00+03:00",
+          "stop": "2026-07-16T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T07:45:00+03:00",
+          "stop": "2026-07-16T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:00:00+03:00",
+          "stop": "2026-07-16T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:15:00+03:00",
+          "stop": "2026-07-16T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:30:00+03:00",
+          "stop": "2026-07-16T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:45:00+03:00",
+          "stop": "2026-07-16T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:53:00+03:00",
+          "stop": "2026-07-16T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T08:59:00+03:00",
+          "stop": "2026-07-16T09:45:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T09:45:00+03:00",
+          "stop": "2026-07-16T11:51:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T11:51:00+03:00",
+          "stop": "2026-07-16T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T12:00:00+03:00",
+          "stop": "2026-07-16T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T13:58:00+03:00",
+          "stop": "2026-07-16T14:35:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T14:35:00+03:00",
+          "stop": "2026-07-16T15:14:00+03:00",
+          "title": "Beautiful. Ep.101 \"Folge 101\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T15:14:00+03:00",
+          "stop": "2026-07-16T15:45:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.3,Ep.274 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T15:45:00+03:00",
+          "stop": "2026-07-16T16:14:00+03:00",
+          "title": "Bir Ada Masali. Ep.16 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:14:00+03:00",
+          "stop": "2026-07-16T16:45:00+03:00",
+          "title": "Bir Ada Masali. Ep.17 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T16:45:00+03:00",
+          "stop": "2026-07-16T17:45:00+03:00",
+          "title": "Far Away. S.1,Ep.42 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T17:45:00+03:00",
+          "stop": "2026-07-16T18:45:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.37 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T18:45:00+03:00",
+          "stop": "2026-07-16T19:45:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.38 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T19:45:00+03:00",
+          "stop": "2026-07-16T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T20:54:00+03:00",
+          "stop": "2026-07-16T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T21:01:00+03:00",
+          "stop": "2026-07-16T21:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T21:40:00+03:00",
+          "stop": "2026-07-16T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-16T22:20:00+03:00",
+          "stop": "2026-07-17T01:39:00+03:00",
+          "title": "Tim Battiti Live.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-17",
+      "programs": [
+        {
+          "start": "2026-07-17T01:39:00+03:00",
+          "stop": "2026-07-17T02:24:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T02:24:00+03:00",
+          "stop": "2026-07-17T03:29:00+03:00",
+          "title": "Solo per amore: Destini incrociati. S.1,Ep.4/10 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T03:29:00+03:00",
+          "stop": "2026-07-17T05:03:00+03:00",
+          "title": "I segreti di Borgo Larici. S.1,Ep.6/6 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T05:03:00+03:00",
+          "stop": "2026-07-17T06:09:00+03:00",
+          "title": "New Amsterdam. S.2,Ep.17/18 \"Il decollo\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T06:09:00+03:00",
+          "stop": "2026-07-17T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"Primo sangue\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:00:00+03:00",
+          "stop": "2026-07-17T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:15:00+03:00",
+          "stop": "2026-07-17T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:30:00+03:00",
+          "stop": "2026-07-17T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T07:45:00+03:00",
+          "stop": "2026-07-17T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:00:00+03:00",
+          "stop": "2026-07-17T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:15:00+03:00",
+          "stop": "2026-07-17T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:30:00+03:00",
+          "stop": "2026-07-17T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:45:00+03:00",
+          "stop": "2026-07-17T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:53:00+03:00",
+          "stop": "2026-07-17T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T08:59:00+03:00",
+          "stop": "2026-07-17T09:44:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T09:44:00+03:00",
+          "stop": "2026-07-17T11:52:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T11:52:00+03:00",
+          "stop": "2026-07-17T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T12:00:00+03:00",
+          "stop": "2026-07-17T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T13:58:00+03:00",
+          "stop": "2026-07-17T14:39:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T14:39:00+03:00",
+          "stop": "2026-07-17T15:16:00+03:00",
+          "title": "Beautiful. Ep.102.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T15:16:00+03:00",
+          "stop": "2026-07-17T15:43:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.4,Ep.373 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T15:43:00+03:00",
+          "stop": "2026-07-17T16:47:00+03:00",
+          "title": "Bir Ada Masali. Ep.18 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T16:47:00+03:00",
+          "stop": "2026-07-17T17:32:00+03:00",
+          "title": "Bir Ada Masali. Ep.19 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T17:32:00+03:00",
+          "stop": "2026-07-17T18:28:00+03:00",
+          "title": "Far Away. S.1,Ep.43 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T18:28:00+03:00",
+          "stop": "2026-07-17T19:26:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.39 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T19:26:00+03:00",
+          "stop": "2026-07-17T20:22:00+03:00",
+          "title": "Tutto per la mia famiglia. S.1,Ep.40 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T20:22:00+03:00",
+          "stop": "2026-07-17T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T20:54:00+03:00",
+          "stop": "2026-07-17T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T21:01:00+03:00",
+          "stop": "2026-07-17T21:39:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T21:39:00+03:00",
+          "stop": "2026-07-17T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T22:20:00+03:00",
+          "stop": "2026-07-17T22:21:00+03:00",
+          "title": "Riassunto: L'Erede.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T22:21:00+03:00",
+          "stop": "2026-07-17T22:58:00+03:00",
+          "title": "L'erede. S.1,Ep.6 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T22:58:00+03:00",
+          "stop": "2026-07-17T23:57:00+03:00",
+          "title": "L'erede. S.1,Ep.20 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-17T23:57:00+03:00",
+          "stop": "2026-07-18T00:55:00+03:00",
+          "title": "L'erede. S.1,Ep.21 \"*** Titel der Episode noch nicht bekannt ***\".",
           "description": "L",
           "category": null
         }
