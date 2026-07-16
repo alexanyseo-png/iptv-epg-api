@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
+  "generatedAt": "2026-07-16T03:40:32.163841+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "start": "2026-07-15T01:00:00+03:00",
-          "stop": "2026-07-15T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T04:00:00+03:00",
-          "stop": "2026-07-15T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T08:00:00+03:00",
-          "stop": "2026-07-15T09:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T09:00:00+03:00",
-          "stop": "2026-07-15T11:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T11:00:00+03:00",
-          "stop": "2026-07-15T12:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T12:00:00+03:00",
-          "stop": "2026-07-15T13:00:00+03:00",
-          "title": "Best 00's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T13:00:00+03:00",
-          "stop": "2026-07-15T14:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T14:00:00+03:00",
-          "stop": "2026-07-16T01:00:00+03:00",
-          "title": "Największe hity lat osiemdziesiątych | E01",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-16",
       "programs": [
@@ -190,6 +129,39 @@
           "start": "2026-07-17T14:00:00+03:00",
           "stop": "2026-07-18T01:00:00+03:00",
           "title": "Największe hity lat dwutysięcznych | E01",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "start": "2026-07-18T01:00:00+03:00",
+          "stop": "2026-07-18T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T04:00:00+03:00",
+          "stop": "2026-07-18T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T08:00:00+03:00",
+          "stop": "2026-07-18T09:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T09:00:00+03:00",
+          "stop": "2026-07-19T01:00:00+03:00",
+          "title": "Top 200 Party 80's vs. Party 90's",
           "description": "L",
           "category": null
         }

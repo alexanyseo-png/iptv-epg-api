@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
+  "generatedAt": "2026-07-16T03:40:32.163841+00:00",
   "available": true,
   "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "start": "2026-07-15T01:00:00+03:00",
-          "stop": "2026-07-15T03:00:00+03:00",
-          "title": "EFL: Chesterfield vs Notts County",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T03:00:00+03:00",
-          "stop": "2026-07-15T05:00:00+03:00",
-          "title": "Serie A: Parma vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T05:00:00+03:00",
-          "stop": "2026-07-15T07:00:00+03:00",
-          "title": "Serie A: Atalanta vs Cagliari",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T07:00:00+03:00",
-          "stop": "2026-07-15T09:00:00+03:00",
-          "title": "Serie A: Milan vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T09:00:00+03:00",
-          "stop": "2026-07-15T11:00:00+03:00",
-          "title": "Serie A: Udinese vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T11:00:00+03:00",
-          "stop": "2026-07-15T13:00:00+03:00",
-          "title": "Serie A: Genoa vs Inter",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T13:00:00+03:00",
-          "stop": "2026-07-15T15:00:00+03:00",
-          "title": "Serie A: Bologna vs Juventus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T15:00:00+03:00",
-          "stop": "2026-07-15T17:00:00+03:00",
-          "title": "Serie A: Roma vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T17:00:00+03:00",
-          "stop": "2026-07-15T19:00:00+03:00",
-          "title": "Serie A: Torino vs Cremonese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T19:00:00+03:00",
-          "stop": "2026-07-15T21:00:00+03:00",
-          "title": "Serie A: Lecce vs Pisa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T21:00:00+03:00",
-          "stop": "2026-07-15T23:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Verona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T23:00:00+03:00",
-          "stop": "2026-07-16T01:00:00+03:00",
-          "title": "EFL: Coventry vs Ipswich",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-16",
       "programs": [
@@ -302,6 +213,95 @@
           "start": "2026-07-17T23:00:00+03:00",
           "stop": "2026-07-18T01:00:00+03:00",
           "title": "EFL: Norwich vs Stoke City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "start": "2026-07-18T01:00:00+03:00",
+          "stop": "2026-07-18T03:00:00+03:00",
+          "title": "Dutch: Feyenoord vs Zwolle",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T03:00:00+03:00",
+          "stop": "2026-07-18T05:00:00+03:00",
+          "title": "Dutch: Heerenveen vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T05:00:00+03:00",
+          "stop": "2026-07-18T07:00:00+03:00",
+          "title": "Dutch: Fortuna Sittard vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T07:00:00+03:00",
+          "stop": "2026-07-18T09:00:00+03:00",
+          "title": "Serie A: Roma vs Lazio",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T09:00:00+03:00",
+          "stop": "2026-07-18T11:00:00+03:00",
+          "title": "Serie A: Cagliari vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T11:00:00+03:00",
+          "stop": "2026-07-18T13:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T13:00:00+03:00",
+          "stop": "2026-07-18T15:00:00+03:00",
+          "title": "Serie A: Genoa vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T15:00:00+03:00",
+          "stop": "2026-07-18T17:00:00+03:00",
+          "title": "EFL: Leicester vs West Brom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T17:00:00+03:00",
+          "stop": "2026-07-18T19:00:00+03:00",
+          "title": "FA Cup: Man City vs Exeter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T19:00:00+03:00",
+          "stop": "2026-07-18T21:00:00+03:00",
+          "title": "FA Cup: Portsmouth vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T21:00:00+03:00",
+          "stop": "2026-07-18T23:00:00+03:00",
+          "title": "FA Cup: Charlton vs Chelsea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T23:00:00+03:00",
+          "stop": "2026-07-19T01:00:00+03:00",
+          "title": "FA Cup: Wolves vs Shrewsbury",
           "description": "L",
           "category": null
         }

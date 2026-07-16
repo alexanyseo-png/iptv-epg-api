@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
+  "generatedAt": "2026-07-16T03:40:32.163841+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 46,
   "days": [
-    {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "start": "2026-07-15T00:00:00+03:00",
-          "stop": "2026-07-15T01:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T01:00:00+03:00",
-          "stop": "2026-07-15T04:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T04:00:00+03:00",
-          "stop": "2026-07-15T06:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T06:00:00+03:00",
-          "stop": "2026-07-15T09:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T09:00:00+03:00",
-          "stop": "2026-07-15T11:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T11:00:00+03:00",
-          "stop": "2026-07-15T12:00:00+03:00",
-          "title": "You Decide.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T12:00:00+03:00",
-          "stop": "2026-07-15T13:00:00+03:00",
-          "title": "Los 90`s.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T13:00:00+03:00",
-          "stop": "2026-07-15T14:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T14:00:00+03:00",
-          "stop": "2026-07-15T15:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T15:00:00+03:00",
-          "stop": "2026-07-15T17:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T17:00:00+03:00",
-          "stop": "2026-07-15T18:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T18:00:00+03:00",
-          "stop": "2026-07-15T19:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T19:00:00+03:00",
-          "stop": "2026-07-15T20:00:00+03:00",
-          "title": "Los 90`s.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T20:00:00+03:00",
-          "stop": "2026-07-15T21:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T21:00:00+03:00",
-          "stop": "2026-07-15T22:00:00+03:00",
-          "title": "You Decide.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T22:00:00+03:00",
-          "stop": "2026-07-16T00:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-16",
       "programs": [
@@ -365,6 +248,102 @@
           "start": "2026-07-17T22:00:00+03:00",
           "stop": "2026-07-18T00:00:00+03:00",
           "title": "Planet VIVA.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "start": "2026-07-18T00:00:00+03:00",
+          "stop": "2026-07-18T00:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T00:30:00+03:00",
+          "stop": "2026-07-18T09:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T09:00:00+03:00",
+          "stop": "2026-07-18T09:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T09:30:00+03:00",
+          "stop": "2026-07-18T11:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T11:00:00+03:00",
+          "stop": "2026-07-18T12:00:00+03:00",
+          "title": "You Decide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T12:00:00+03:00",
+          "stop": "2026-07-18T15:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T15:00:00+03:00",
+          "stop": "2026-07-18T15:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T15:30:00+03:00",
+          "stop": "2026-07-18T20:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T20:00:00+03:00",
+          "stop": "2026-07-18T20:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T20:30:00+03:00",
+          "stop": "2026-07-18T21:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T21:00:00+03:00",
+          "stop": "2026-07-18T22:00:00+03:00",
+          "title": "You Decide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T22:00:00+03:00",
+          "stop": "2026-07-18T22:45:00+03:00",
+          "title": "Club Rotation.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T22:45:00+03:00",
+          "stop": "2026-07-19T00:00:00+03:00",
+          "title": "Non stop.",
           "description": "L",
           "category": null
         }

@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-15T03:38:09.520277+00:00",
+  "generatedAt": "2026-07-16T03:40:32.163841+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-07-15",
-      "programs": [
-        {
-          "start": "2026-07-15T11:00:00+03:00",
-          "stop": "2026-07-15T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T19:00:00+03:00",
-          "stop": "2026-07-15T22:00:00+03:00",
-          "title": "Bundesliiga: Bayern München – Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-15T22:00:00+03:00",
-          "stop": "2026-07-16T11:00:00+03:00",
-          "title": "Formula 1: Itävallan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-16",
       "programs": [
@@ -85,6 +59,39 @@
           "start": "2026-07-17T22:00:00+03:00",
           "stop": "2026-07-18T11:00:00+03:00",
           "title": "Formula 1: Britannian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-18",
+      "programs": [
+        {
+          "start": "2026-07-18T11:00:00+03:00",
+          "stop": "2026-07-18T16:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T16:55:00+03:00",
+          "stop": "2026-07-18T19:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Aika-ajo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T19:00:00+03:00",
+          "stop": "2026-07-18T22:00:00+03:00",
+          "title": "Formula 1: Britannian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-18T22:00:00+03:00",
+          "stop": "2026-07-19T11:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Aika-ajo",
           "description": "L",
           "category": null
         }
