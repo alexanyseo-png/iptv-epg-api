@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-16T03:40:32.163841+00:00",
+  "generatedAt": "2026-07-17T03:40:34.856761+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-07-16",
-      "programs": [
-        {
-          "start": "2026-07-16T01:00:00+03:00",
-          "stop": "2026-07-16T03:50:00+03:00",
-          "title": "PL: Liverpool vs West Ham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T03:50:00+03:00",
-          "stop": "2026-07-16T07:10:00+03:00",
-          "title": "PL: Man Utd vs Chelsea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T07:10:00+03:00",
-          "stop": "2026-07-16T10:20:00+03:00",
-          "title": "PL: Man City vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T10:20:00+03:00",
-          "stop": "2026-07-16T13:20:00+03:00",
-          "title": "PL: Chelsea vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T13:20:00+03:00",
-          "stop": "2026-07-16T15:30:00+03:00",
-          "title": "PL: West Ham vs Leeds",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T15:30:00+03:00",
-          "stop": "2026-07-16T16:00:00+03:00",
-          "title": "PL Stories: Norwich, The Nearly Men",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T16:00:00+03:00",
-          "stop": "2026-07-16T16:30:00+03:00",
-          "title": "Newcastle United vs Arsenal 2010/11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T16:30:00+03:00",
-          "stop": "2026-07-16T19:50:00+03:00",
-          "title": "PL: Man Utd vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T19:50:00+03:00",
-          "stop": "2026-07-16T22:20:00+03:00",
-          "title": "PL: Crystal Palace vs Arsenal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-16T22:20:00+03:00",
-          "stop": "2026-07-17T01:10:00+03:00",
-          "title": "PL: Man Utd vs Crystal Palace",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-17",
       "programs": [
@@ -274,6 +199,88 @@
           "start": "2026-07-18T22:10:00+03:00",
           "stop": "2026-07-19T01:00:00+03:00",
           "title": "PL: Man Utd vs Tottenham",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-19",
+      "programs": [
+        {
+          "start": "2026-07-19T01:00:00+03:00",
+          "stop": "2026-07-19T03:10:00+03:00",
+          "title": "PL: Bournemouth vs. Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T03:10:00+03:00",
+          "stop": "2026-07-19T03:40:00+03:00",
+          "title": "Tottenham Hotspur vs Chelsea 2014/15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T03:40:00+03:00",
+          "stop": "2026-07-19T04:10:00+03:00",
+          "title": "Arsenal vs Burnley 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T04:10:00+03:00",
+          "stop": "2026-07-19T07:10:00+03:00",
+          "title": "PL: Liverpool vs. Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T07:10:00+03:00",
+          "stop": "2026-07-19T10:00:00+03:00",
+          "title": "PL: Newcastle vs Chelsea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T10:00:00+03:00",
+          "stop": "2026-07-19T12:50:00+03:00",
+          "title": "PL: Chelsea vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T12:50:00+03:00",
+          "stop": "2026-07-19T14:50:00+03:00",
+          "title": "Review Of The Season 25/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T14:50:00+03:00",
+          "stop": "2026-07-19T18:10:00+03:00",
+          "title": "PL: Man City vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T18:10:00+03:00",
+          "stop": "2026-07-19T21:30:00+03:00",
+          "title": "PL: Nottm Forest vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T21:30:00+03:00",
+          "stop": "2026-07-19T22:10:00+03:00",
+          "title": "PL Stories: Norwich, The Nearly Men",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T22:10:00+03:00",
+          "stop": "2026-07-20T01:00:00+03:00",
+          "title": "PL: Tottenham vs Arsenal",
           "description": "L",
           "category": null
         }
