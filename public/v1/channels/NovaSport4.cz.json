@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-17T03:40:34.856761+00:00",
+  "generatedAt": "2026-07-18T03:34:41.501733+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-07-17",
-      "programs": [
-        {
-          "start": "2026-07-17T00:40:00+03:00",
-          "stop": "2026-07-17T02:30:00+03:00",
-          "title": "Leicester City – Hull City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T02:30:00+03:00",
-          "stop": "2026-07-17T08:00:00+03:00",
-          "title": "Charlton Athletic – Ipswich Town",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T08:00:00+03:00",
-          "stop": "2026-07-17T09:50:00+03:00",
-          "title": "SSC Neapol – Chelsea FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T09:50:00+03:00",
-          "stop": "2026-07-17T11:40:00+03:00",
-          "title": "PSG – Newcastle United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T11:40:00+03:00",
-          "stop": "2026-07-17T13:20:00+03:00",
-          "title": "Borussia Dortmund – Inter Milán",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T13:20:00+03:00",
-          "stop": "2026-07-17T15:40:00+03:00",
-          "title": "Coventry City – Wrexham FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T15:40:00+03:00",
-          "stop": "2026-07-17T17:30:00+03:00",
-          "title": "Southampton FC – Blackburn Rovers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T17:30:00+03:00",
-          "stop": "2026-07-17T19:10:00+03:00",
-          "title": "Southampton FC – Ipswich Town",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T19:10:00+03:00",
-          "stop": "2026-07-17T21:00:00+03:00",
-          "title": "Atlético Madrid – FK Bodo/Glimt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T21:00:00+03:00",
-          "stop": "2026-07-17T22:50:00+03:00",
-          "title": "SL Benfica – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-17T22:50:00+03:00",
-          "stop": "2026-07-18T00:40:00+03:00",
-          "title": "FC Barcelona – FC Kodaň",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-18",
       "programs": [
@@ -253,6 +171,25 @@
           "start": "2026-07-19T22:50:00+03:00",
           "stop": "2026-07-20T00:40:00+03:00",
           "title": "Club Bruggy – Atlético Madrid",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "programs": [
+        {
+          "start": "2026-07-20T00:40:00+03:00",
+          "stop": "2026-07-20T02:30:00+03:00",
+          "title": "Cardiff City – Peterborough United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T02:30:00+03:00",
+          "stop": "2026-07-20T03:30:00+03:00",
+          "title": "Bradford City – Wycombe Wanderers",
           "description": "L",
           "category": null
         }
