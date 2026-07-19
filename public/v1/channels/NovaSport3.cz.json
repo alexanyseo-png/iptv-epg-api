@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-18T03:34:41.501733+00:00",
+  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-07-18",
-      "programs": [
-        {
-          "start": "2026-07-18T00:35:00+03:00",
-          "stop": "2026-07-18T02:20:00+03:00",
-          "title": "Fortuna Düsseldorf – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T02:20:00+03:00",
-          "stop": "2026-07-18T08:00:00+03:00",
-          "title": "Schalke 04 – Eintracht Braunschweig",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T08:00:00+03:00",
-          "stop": "2026-07-18T09:40:00+03:00",
-          "title": "SC Freiburg – Borussia Mönchengladbach",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T09:40:00+03:00",
-          "stop": "2026-07-18T11:35:00+03:00",
-          "title": "1. FC Heidenheim – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T11:35:00+03:00",
-          "stop": "2026-07-18T13:30:00+03:00",
-          "title": "2. Bundesliga – Konferenční přenos",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T13:30:00+03:00",
-          "stop": "2026-07-18T15:20:00+03:00",
-          "title": "Hannover 96 – 1. FC Norimberk",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T15:20:00+03:00",
-          "stop": "2026-07-18T17:10:00+03:00",
-          "title": "Rot-Weiß Essen – Greuther Fürth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T17:10:00+03:00",
-          "stop": "2026-07-18T19:10:00+03:00",
-          "title": "FC Augsburg – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:10:00+03:00",
-          "stop": "2026-07-18T21:05:00+03:00",
-          "title": "TSG Hoffenheim – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T21:05:00+03:00",
-          "stop": "2026-07-18T22:00:00+03:00",
-          "title": "Bundesliga Special (21) – Ohlédnutí za sezonou",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T22:00:00+03:00",
-          "stop": "2026-07-19T00:05:00+03:00",
-          "title": "Argentina – Anglie",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-19",
       "programs": [
@@ -195,8 +113,36 @@
         },
         {
           "start": "2026-07-20T02:20:00+03:00",
-          "stop": "2026-07-20T03:20:00+03:00",
+          "stop": "2026-07-20T08:00:00+03:00",
           "title": "Arminia Bielefeld – Dynamo Drážďany",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T08:00:00+03:00",
+          "stop": "2026-07-20T09:50:00+03:00",
+          "title": "FC St. Pauli – Eintracht Frankfurt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T09:50:00+03:00",
+          "stop": "2026-07-20T11:40:00+03:00",
+          "title": "Union Berlín – Werder Brémy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T11:40:00+03:00",
+          "stop": "2026-07-20T13:30:00+03:00",
+          "title": "1. FC Kaiserslautern – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T13:30:00+03:00",
+          "stop": "2026-07-20T15:20:00+03:00",
+          "title": "VfL Bochum – Preußen Münster",
           "description": "L",
           "category": null
         }

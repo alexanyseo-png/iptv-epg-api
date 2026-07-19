@@ -8,288 +8,31 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-18T03:34:41.501733+00:00",
+  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
   "available": true,
-  "programmeCount": 67,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-07-18",
-      "programs": [
-        {
-          "start": "2026-07-18T00:10:00+03:00",
-          "stop": "2026-07-18T00:40:00+03:00",
-          "title": "Die Odyssee – Das große Kino Making Of",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T00:40:00+03:00",
-          "stop": "2026-07-18T03:05:00+03:00",
-          "title": "Papillon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T03:05:00+03:00",
-          "stop": "2026-07-18T03:10:00+03:00",
-          "title": "ProSieben :newstime",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T03:10:00+03:00",
-          "stop": "2026-07-18T06:00:00+03:00",
-          "title": "Once Upon a Time in… Hollywood",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T06:00:00+03:00",
-          "stop": "2026-07-18T06:20:00+03:00",
-          "title": "Die Simpsons – Die Legende von Carl",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T06:20:00+03:00",
-          "stop": "2026-07-18T06:45:00+03:00",
-          "title": "Die Simpsons – Marge muss jobben",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T06:45:00+03:00",
-          "stop": "2026-07-18T07:05:00+03:00",
-          "title": "Die Simpsons – Laura, die neue Nachbarin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T07:05:00+03:00",
-          "stop": "2026-07-18T08:00:00+03:00",
-          "title": "taff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T08:00:00+03:00",
-          "stop": "2026-07-18T09:00:00+03:00",
-          "title": "Galileo – Instahotspot Walhai – Was macht der Hype mit den Tieren?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T09:00:00+03:00",
-          "stop": "2026-07-18T09:30:00+03:00",
-          "title": "Brooklyn Nine-Nine 8 – Der letzte Coup | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T09:30:00+03:00",
-          "stop": "2026-07-18T10:00:00+03:00",
-          "title": "Night Court – Abbys wundersames Strafgericht",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T10:00:00+03:00",
-          "stop": "2026-07-18T10:25:00+03:00",
-          "title": "Night Court – Nachteulen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T10:25:00+03:00",
-          "stop": "2026-07-18T10:55:00+03:00",
-          "title": "Night Court – Ein ganz normaler Dienstag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T10:55:00+03:00",
-          "stop": "2026-07-18T11:25:00+03:00",
-          "title": "Night Court – Dan und die Frauen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T11:25:00+03:00",
-          "stop": "2026-07-18T11:50:00+03:00",
-          "title": "Night Court – Der große Gestank",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T11:50:00+03:00",
-          "stop": "2026-07-18T12:21:00+03:00",
-          "title": "Night Court – Justice Buddies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T12:21:00+03:00",
-          "stop": "2026-07-18T12:25:00+03:00",
-          "title": "Religion in 90 Sekunden",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T12:25:00+03:00",
-          "stop": "2026-07-18T12:50:00+03:00",
-          "title": "Die Goldbergs 4 – Die Reisekasse | E17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T12:50:00+03:00",
-          "stop": "2026-07-18T13:20:00+03:00",
-          "title": "Die Goldbergs 4 – Barrys Berufung | E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T13:20:00+03:00",
-          "stop": "2026-07-18T13:45:00+03:00",
-          "title": "2 Broke Girls 4 – Der düpierte Deportierte | E21",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T13:45:00+03:00",
-          "stop": "2026-07-18T14:15:00+03:00",
-          "title": "2 Broke Girls 4 – My Big Fat Polish Wedding | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T14:15:00+03:00",
-          "stop": "2026-07-18T14:45:00+03:00",
-          "title": "2 Broke Girls 5 – Die Abrissbirne | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T14:45:00+03:00",
-          "stop": "2026-07-18T15:10:00+03:00",
-          "title": "Family Guy 21 – Oscar Guy | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T15:10:00+03:00",
-          "stop": "2026-07-18T15:40:00+03:00",
-          "title": "Family Guy 21 – Bock auf Blockbuster | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T15:40:00+03:00",
-          "stop": "2026-07-18T16:10:00+03:00",
-          "title": "Die Simpsons – Oh, Kanada",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T16:10:00+03:00",
-          "stop": "2026-07-18T16:40:00+03:00",
-          "title": "Die Simpsons – Einmal als Schneekönig!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T16:40:00+03:00",
-          "stop": "2026-07-18T17:10:00+03:00",
-          "title": "Die Simpsons – Am Anfang war das Wort",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T17:10:00+03:00",
-          "stop": "2026-07-18T17:40:00+03:00",
-          "title": "Die Simpsons – Oh Schmerz, das Herz!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T17:40:00+03:00",
-          "stop": "2026-07-18T18:10:00+03:00",
-          "title": "Die Simpsons – Homer kommt in Fahrt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T18:10:00+03:00",
-          "stop": "2026-07-18T18:40:00+03:00",
-          "title": "Die Simpsons – Selma will ein Baby",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T18:40:00+03:00",
-          "stop": "2026-07-18T19:10:00+03:00",
-          "title": "Die Simpsons – Großer Bruder – Kleiner Bruder",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:10:00+03:00",
-          "stop": "2026-07-18T19:20:00+03:00",
-          "title": "ProSieben :newstime",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:20:00+03:00",
-          "stop": "2026-07-18T19:50:00+03:00",
-          "title": "Die Simpsons – White Christmas Blues",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:50:00+03:00",
-          "stop": "2026-07-18T20:15:00+03:00",
-          "title": "Die Simpsons – Cinema Piratiso",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T20:15:00+03:00",
-          "stop": "2026-07-18T20:45:00+03:00",
-          "title": "Die Simpsons – Manga Love Story",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T20:45:00+03:00",
-          "stop": "2026-07-18T21:15:00+03:00",
-          "title": "Die Simpsons – Enter the Matrix",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T21:15:00+03:00",
-          "stop": "2026-07-19T01:10:00+03:00",
-          "title": "Das Duell um die Welt – Team Joko gegen Team Klaas",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-19",
       "programs": [
         {
           "start": "2026-07-19T01:10:00+03:00",
-          "stop": "2026-07-19T04:35:00+03:00",
+          "stop": "2026-07-19T04:20:00+03:00",
           "title": "Das Duell um die Welt – Team Joko gegen Team Klaas",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-19T04:35:00+03:00",
-          "stop": "2026-07-19T05:40:00+03:00",
+          "start": "2026-07-19T04:20:00+03:00",
+          "stop": "2026-07-19T05:15:00+03:00",
           "title": "Balls – für Geld mache ich alles",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-19T05:15:00+03:00",
+          "stop": "2026-07-19T05:40:00+03:00",
+          "title": "Kaminfeuer mit Joko & Klaas",
           "description": "L",
           "category": null
         },
@@ -491,6 +234,69 @@
           "start": "2026-07-20T10:30:00+03:00",
           "stop": "2026-07-20T11:00:00+03:00",
           "title": "The Middle 5 – Die Windspiele | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T11:00:00+03:00",
+          "stop": "2026-07-20T11:25:00+03:00",
+          "title": "Young Sheldon 6 – Sauerkraut und frische Windeln | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T11:25:00+03:00",
+          "stop": "2026-07-20T11:55:00+03:00",
+          "title": "2 Broke Girls 5 – Eher ungewöhnlich da unten | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T11:55:00+03:00",
+          "stop": "2026-07-20T12:20:00+03:00",
+          "title": "Two and A Half Men 4 – Die frenetische Detektivin | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T12:20:00+03:00",
+          "stop": "2026-07-20T12:50:00+03:00",
+          "title": "Two and A Half Men 4 – Judiths Haus der Verdammten | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T12:50:00+03:00",
+          "stop": "2026-07-20T13:15:00+03:00",
+          "title": "The Big Bang Theory 3 – Football für Nerds | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T13:15:00+03:00",
+          "stop": "2026-07-20T13:40:00+03:00",
+          "title": "The Big Bang Theory 3 – Der Gitarrist auf der Couch | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T13:40:00+03:00",
+          "stop": "2026-07-20T14:10:00+03:00",
+          "title": "How I Met Your Mother 5 – Der Durchhänger | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T14:10:00+03:00",
+          "stop": "2026-07-20T14:40:00+03:00",
+          "title": "The Middle 5 – Der Optimist | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T14:40:00+03:00",
+          "stop": "2026-07-20T15:10:00+03:00",
+          "title": "The Middle 5 – Die Sprechzeiten | E21",
           "description": "L",
           "category": null
         }

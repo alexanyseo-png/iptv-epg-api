@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-18T03:34:41.501733+00:00",
+  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-07-18",
-      "programs": [
-        {
-          "start": "2026-07-18T00:40:00+03:00",
-          "stop": "2026-07-18T02:30:00+03:00",
-          "title": "Wrexham FC – Middlesbrough FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T02:30:00+03:00",
-          "stop": "2026-07-18T08:00:00+03:00",
-          "title": "Hull City – Millwall FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T08:00:00+03:00",
-          "stop": "2026-07-18T09:50:00+03:00",
-          "title": "Atlético Madrid – FK Bodo/Glimt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T09:50:00+03:00",
-          "stop": "2026-07-18T11:40:00+03:00",
-          "title": "SL Benfica – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T11:40:00+03:00",
-          "stop": "2026-07-18T13:20:00+03:00",
-          "title": "FC Barcelona – FC Kodaň",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T13:20:00+03:00",
-          "stop": "2026-07-18T15:00:00+03:00",
-          "title": "Middlesbrough FC – Southampton FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T15:00:00+03:00",
-          "stop": "2026-07-18T16:55:00+03:00",
-          "title": "Millwall FC – Hull City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T16:55:00+03:00",
-          "stop": "2026-07-18T19:25:00+03:00",
-          "title": "Rugby U20 Championship 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:25:00+03:00",
-          "stop": "2026-07-18T21:35:00+03:00",
-          "title": "Rugby U20 Championship 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T21:35:00+03:00",
-          "stop": "2026-07-18T23:25:00+03:00",
-          "title": "Galatasaray SK – Juventus FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T23:25:00+03:00",
-          "stop": "2026-07-19T01:15:00+03:00",
-          "title": "AS Monaco – PSG",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-19",
       "programs": [
@@ -188,8 +106,36 @@
         },
         {
           "start": "2026-07-20T02:30:00+03:00",
-          "stop": "2026-07-20T03:30:00+03:00",
+          "stop": "2026-07-20T08:00:00+03:00",
           "title": "Bradford City – Wycombe Wanderers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T08:00:00+03:00",
+          "stop": "2026-07-20T09:50:00+03:00",
+          "title": "SL Benfica – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T09:50:00+03:00",
+          "stop": "2026-07-20T11:40:00+03:00",
+          "title": "Qarabag Agdam – Newcastle United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T11:40:00+03:00",
+          "stop": "2026-07-20T13:30:00+03:00",
+          "title": "Club Bruggy – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T13:30:00+03:00",
+          "stop": "2026-07-20T15:20:00+03:00",
+          "title": "Port Vale – Cardiff City",
           "description": "L",
           "category": null
         }

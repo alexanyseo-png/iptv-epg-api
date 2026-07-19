@@ -8,46 +8,20 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-18T03:34:41.501733+00:00",
+  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-07-18",
-      "programs": [
-        {
-          "start": "2026-07-18T11:00:00+03:00",
-          "stop": "2026-07-18T16:55:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T16:55:00+03:00",
-          "stop": "2026-07-18T19:00:00+03:00",
-          "title": "Formula 1: Belgian GP – Aika-ajo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T19:00:00+03:00",
-          "stop": "2026-07-18T22:00:00+03:00",
-          "title": "Formula 1: Britannian GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-18T22:00:00+03:00",
-          "stop": "2026-07-19T11:00:00+03:00",
-          "title": "Formula 1: Belgian GP – Aika-ajo",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-19",
       "programs": [
+        {
+          "start": "2026-07-19T01:20:00+03:00",
+          "stop": "2026-07-19T11:00:00+03:00",
+          "title": "Keroksen haudatut salaisuudet",
+          "description": "L",
+          "category": null
+        },
         {
           "start": "2026-07-19T11:00:00+03:00",
           "stop": "2026-07-19T15:55:00+03:00",
@@ -73,6 +47,18 @@
           "start": "2026-07-19T22:00:00+03:00",
           "stop": "2026-07-20T11:00:00+03:00",
           "title": "Formula 1: Belgian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-20",
+      "programs": [
+        {
+          "start": "2026-07-20T11:00:00+03:00",
+          "stop": "2026-07-20T19:00:00+03:00",
+          "title": "RedBull TV",
           "description": "L",
           "category": null
         }
