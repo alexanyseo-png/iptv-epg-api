@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
+  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-07-19",
-      "programs": [
-        {
-          "start": "2026-07-19T01:00:00+03:00",
-          "stop": "2026-07-19T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T04:00:00+03:00",
-          "stop": "2026-07-19T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T08:00:00+03:00",
-          "stop": "2026-07-19T09:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T09:00:00+03:00",
-          "stop": "2026-07-19T11:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T11:00:00+03:00",
-          "stop": "2026-07-19T12:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T12:00:00+03:00",
-          "stop": "2026-07-19T13:00:00+03:00",
-          "title": "Best 00's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T13:00:00+03:00",
-          "stop": "2026-07-19T14:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T14:00:00+03:00",
-          "stop": "2026-07-20T01:00:00+03:00",
-          "title": "Top 100 rock lat dziewięćdziesiątych",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-20",
       "programs": [
@@ -128,6 +67,27 @@
         {
           "start": "2026-07-20T14:00:00+03:00",
           "stop": "2026-07-20T15:00:00+03:00",
+          "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T15:00:00+03:00",
+          "stop": "2026-07-20T16:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T16:00:00+03:00",
+          "stop": "2026-07-20T17:00:00+03:00",
+          "title": "Best 00's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T17:00:00+03:00",
+          "stop": "2026-07-20T18:00:00+03:00",
           "title": "Best 80's",
           "description": "L",
           "category": null

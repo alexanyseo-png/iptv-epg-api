@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
+  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
   "available": true,
-  "programmeCount": 20,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-07-19",
-      "programs": [
-        {
-          "start": "2026-07-19T00:00:00+03:00",
-          "stop": "2026-07-19T02:00:00+03:00",
-          "title": "Бестселлер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T02:00:00+03:00",
-          "stop": "2026-07-19T04:00:00+03:00",
-          "title": "Падение Лондона",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T04:00:00+03:00",
-          "stop": "2026-07-19T06:00:00+03:00",
-          "title": "Шпионская свадьба",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T06:00:00+03:00",
-          "stop": "2026-07-19T07:30:00+03:00",
-          "title": "Ледниковый период 4: Континентальный дрейф",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T07:30:00+03:00",
-          "stop": "2026-07-19T09:15:00+03:00",
-          "title": "Волк и лев",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T09:15:00+03:00",
-          "stop": "2026-07-19T12:00:00+03:00",
-          "title": "Моя панда",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T12:00:00+03:00",
-          "stop": "2026-07-19T14:00:00+03:00",
-          "title": "Гринч – похититель Рождества",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T14:00:00+03:00",
-          "stop": "2026-07-19T15:30:00+03:00",
-          "title": "Трио в перьях 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T15:30:00+03:00",
-          "stop": "2026-07-19T18:00:00+03:00",
-          "title": "Люди в чёрном: Интернэшнл",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T18:00:00+03:00",
-          "stop": "2026-07-19T20:00:00+03:00",
-          "title": "Мария",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T20:00:00+03:00",
-          "stop": "2026-07-19T22:00:00+03:00",
-          "title": "Гарфилд в кино",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T22:00:00+03:00",
-          "stop": "2026-07-20T00:00:00+03:00",
-          "title": "Охотники за привидениями: Ледяная империя",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-20",
       "programs": [
@@ -157,6 +68,20 @@
           "start": "2026-07-20T13:00:00+03:00",
           "stop": "2026-07-20T15:00:00+03:00",
           "title": "Супергномы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T15:00:00+03:00",
+          "stop": "2026-07-20T17:00:00+03:00",
+          "title": "Джейсон Борн",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T17:00:00+03:00",
+          "stop": "2026-07-20T19:00:00+03:00",
+          "title": "Рио",
           "description": "L",
           "category": null
         }

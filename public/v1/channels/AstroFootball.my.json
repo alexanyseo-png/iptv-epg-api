@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-19T03:57:10.792626+00:00",
+  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-07-19",
-      "programs": [
-        {
-          "start": "2026-07-19T01:00:00+03:00",
-          "stop": "2026-07-19T03:00:00+03:00",
-          "title": "Tournoi: China v DR Congo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T03:00:00+03:00",
-          "stop": "2026-07-19T05:07:00+03:00",
-          "title": "Tournoi: Saudi Arabia v Colombia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T05:07:00+03:00",
-          "stop": "2026-07-19T07:05:00+03:00",
-          "title": "Tournoi: China v Saudi Arabia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T07:05:00+03:00",
-          "stop": "2026-07-19T09:00:00+03:00",
-          "title": "Tournoi: DR Congo v Tunisia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T09:00:00+03:00",
-          "stop": "2026-07-19T11:00:00+03:00",
-          "title": "Tournoi: Japan v Ivory Coast",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T11:00:00+03:00",
-          "stop": "2026-07-19T11:35:00+03:00",
-          "title": "Carabao Cup Finals: Hls",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T11:35:00+03:00",
-          "stop": "2026-07-19T13:45:00+03:00",
-          "title": "⋗ AFF Women's Cup: SF 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T13:45:00+03:00",
-          "stop": "2026-07-19T14:00:00+03:00",
-          "title": "Dutch League Playoffs: SF Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T14:00:00+03:00",
-          "stop": "2026-07-19T15:00:00+03:00",
-          "title": "Emirates FA Cup: Finals Review",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T15:00:00+03:00",
-          "stop": "2026-07-19T15:35:00+03:00",
-          "title": "Emirates FA Cup: Round 4 Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T15:35:00+03:00",
-          "stop": "2026-07-19T17:45:00+03:00",
-          "title": "⋗ AFF Women's Cup: SF2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T17:45:00+03:00",
-          "stop": "2026-07-19T18:00:00+03:00",
-          "title": "Dutch League Playoffs: Final Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T18:00:00+03:00",
-          "stop": "2026-07-19T19:00:00+03:00",
-          "title": "Dutch League: End Season Review",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T19:00:00+03:00",
-          "stop": "2026-07-19T21:00:00+03:00",
-          "title": "FA Cup: Man Utd vs Brighton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T21:00:00+03:00",
-          "stop": "2026-07-19T23:00:00+03:00",
-          "title": "FA Cup: Liverpool vs Barnsley",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-19T23:00:00+03:00",
-          "stop": "2026-07-20T01:00:00+03:00",
-          "title": "FA Cup: Tottenham vs Aston Villa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-20",
       "programs": [
@@ -185,6 +68,13 @@
           "start": "2026-07-20T14:00:00+03:00",
           "stop": "2026-07-20T16:00:00+03:00",
           "title": "Serie A: Parma vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-20T16:00:00+03:00",
+          "stop": "2026-07-20T18:00:00+03:00",
+          "title": "Serie A: Torino vs Cagliari",
           "description": "L",
           "category": null
         }
