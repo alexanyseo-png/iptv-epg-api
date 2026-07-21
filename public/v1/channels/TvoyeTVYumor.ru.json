@@ -8,171 +8,622 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
+  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 86,
   "days": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "programs": [
         {
-          "start": "2026-07-20T00:20:00+03:00",
-          "stop": "2026-07-20T01:07:00+03:00",
-          "title": "Comedy Club",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T01:07:00+03:00",
-          "stop": "2026-07-20T01:27:00+03:00",
-          "title": "Наша Russia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T01:27:00+03:00",
-          "stop": "2026-07-20T01:50:00+03:00",
-          "title": "Галустян +",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T01:50:00+03:00",
-          "stop": "2026-07-20T02:36:00+03:00",
-          "title": "Женский стендап",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T02:36:00+03:00",
-          "stop": "2026-07-20T03:49:00+03:00",
+          "start": "2026-07-21T00:14:00+03:00",
+          "stop": "2026-07-21T01:25:00+03:00",
           "title": "Уральские пельмени",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T03:49:00+03:00",
-          "stop": "2026-07-20T04:32:00+03:00",
-          "title": "Однажды в России",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T04:32:00+03:00",
-          "stop": "2026-07-20T05:46:00+03:00",
-          "title": "Суперлига",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T05:46:00+03:00",
-          "stop": "2026-07-20T06:06:00+03:00",
-          "title": "ХБ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T06:06:00+03:00",
-          "stop": "2026-07-20T06:29:00+03:00",
-          "title": "Наша Russia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T06:29:00+03:00",
-          "stop": "2026-07-20T07:18:00+03:00",
-          "title": "Comedy Woman",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T07:18:00+03:00",
-          "stop": "2026-07-20T08:39:00+03:00",
-          "title": "Что было дальше?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T08:39:00+03:00",
-          "stop": "2026-07-20T10:02:00+03:00",
-          "title": "Классика кино. Оскар",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T10:02:00+03:00",
-          "stop": "2026-07-20T10:49:00+03:00",
+          "start": "2026-07-21T01:25:00+03:00",
+          "stop": "2026-07-21T01:49:00+03:00",
           "title": "Comedy Club",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T10:49:00+03:00",
-          "stop": "2026-07-20T11:33:00+03:00",
+          "start": "2026-07-21T01:49:00+03:00",
+          "stop": "2026-07-21T02:35:00+03:00",
           "title": "Comedy Woman",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T11:33:00+03:00",
-          "stop": "2026-07-20T12:18:00+03:00",
+          "start": "2026-07-21T02:35:00+03:00",
+          "stop": "2026-07-21T03:21:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T03:21:00+03:00",
+          "stop": "2026-07-21T04:33:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T04:33:00+03:00",
+          "stop": "2026-07-21T04:53:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T04:53:00+03:00",
+          "stop": "2026-07-21T05:40:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T05:40:00+03:00",
+          "stop": "2026-07-21T06:20:00+03:00",
+          "title": "Однажды в России",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T06:20:00+03:00",
+          "stop": "2026-07-21T07:32:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T07:32:00+03:00",
+          "stop": "2026-07-21T08:44:00+03:00",
+          "title": "Суперлига",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T08:44:00+03:00",
+          "stop": "2026-07-21T09:30:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T09:30:00+03:00",
+          "stop": "2026-07-21T09:47:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T09:47:00+03:00",
+          "stop": "2026-07-21T11:13:00+03:00",
+          "title": "Классика кино. Человек-оркестр",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T11:13:00+03:00",
+          "stop": "2026-07-21T11:36:00+03:00",
+          "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T11:36:00+03:00",
+          "stop": "2026-07-21T12:24:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T12:24:00+03:00",
+          "stop": "2026-07-21T15:01:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T15:01:00+03:00",
+          "stop": "2026-07-21T16:13:00+03:00",
+          "title": "Живите в радости",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T16:13:00+03:00",
+          "stop": "2026-07-21T16:32:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T16:32:00+03:00",
+          "stop": "2026-07-21T16:54:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T16:54:00+03:00",
+          "stop": "2026-07-21T17:37:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T17:37:00+03:00",
+          "stop": "2026-07-21T18:23:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T18:23:00+03:00",
+          "stop": "2026-07-21T19:09:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T19:09:00+03:00",
+          "stop": "2026-07-21T20:08:00+03:00",
           "title": "Концерты",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T12:18:00+03:00",
-          "stop": "2026-07-20T12:38:00+03:00",
+          "start": "2026-07-21T20:08:00+03:00",
+          "stop": "2026-07-21T20:50:00+03:00",
+          "title": "Концерты",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T20:50:00+03:00",
+          "stop": "2026-07-21T21:12:00+03:00",
           "title": "Наша Russia",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T12:38:00+03:00",
-          "stop": "2026-07-20T13:27:00+03:00",
-          "title": "Женский стендап",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T13:27:00+03:00",
-          "stop": "2026-07-20T14:11:00+03:00",
-          "title": "Однажды в России",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T14:11:00+03:00",
-          "stop": "2026-07-20T15:23:00+03:00",
+          "start": "2026-07-21T21:12:00+03:00",
+          "stop": "2026-07-21T22:22:00+03:00",
           "title": "Уральские пельмени",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T15:23:00+03:00",
-          "stop": "2026-07-20T16:36:00+03:00",
+          "start": "2026-07-21T22:22:00+03:00",
+          "stop": "2026-07-21T23:03:00+03:00",
+          "title": "Однажды в России",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T23:03:00+03:00",
+          "stop": "2026-07-22T00:13:00+03:00",
           "title": "Суперлига",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "programs": [
         {
-          "start": "2026-07-20T16:36:00+03:00",
-          "stop": "2026-07-20T16:59:00+03:00",
-          "title": "ХБ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T16:59:00+03:00",
-          "stop": "2026-07-20T17:42:00+03:00",
+          "start": "2026-07-22T00:13:00+03:00",
+          "stop": "2026-07-22T00:57:00+03:00",
           "title": "Comedy Club",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T17:42:00+03:00",
-          "stop": "2026-07-20T18:05:00+03:00",
+          "start": "2026-07-22T00:57:00+03:00",
+          "stop": "2026-07-22T01:21:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T01:21:00+03:00",
+          "stop": "2026-07-22T02:08:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T02:08:00+03:00",
+          "stop": "2026-07-22T02:32:00+03:00",
           "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T02:32:00+03:00",
+          "stop": "2026-07-22T03:19:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T03:19:00+03:00",
+          "stop": "2026-07-22T04:31:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T04:31:00+03:00",
+          "stop": "2026-07-22T06:12:00+03:00",
+          "title": "Шоу Звезды",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T06:12:00+03:00",
+          "stop": "2026-07-22T07:51:00+03:00",
+          "title": "Советское кино. Невероятные приключения итальянцев в России",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T07:51:00+03:00",
+          "stop": "2026-07-22T08:32:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T08:32:00+03:00",
+          "stop": "2026-07-22T08:57:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T08:57:00+03:00",
+          "stop": "2026-07-22T09:27:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T09:27:00+03:00",
+          "stop": "2026-07-22T10:13:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T10:13:00+03:00",
+          "stop": "2026-07-22T10:57:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T10:57:00+03:00",
+          "stop": "2026-07-22T12:09:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T12:09:00+03:00",
+          "stop": "2026-07-22T12:29:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T12:29:00+03:00",
+          "stop": "2026-07-22T13:15:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T13:15:00+03:00",
+          "stop": "2026-07-22T14:26:00+03:00",
+          "title": "Суперлига",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T14:26:00+03:00",
+          "stop": "2026-07-22T15:13:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:13:00+03:00",
+          "stop": "2026-07-22T15:36:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:36:00+03:00",
+          "stop": "2026-07-22T15:59:00+03:00",
+          "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:59:00+03:00",
+          "stop": "2026-07-22T16:45:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T16:45:00+03:00",
+          "stop": "2026-07-22T17:31:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T17:31:00+03:00",
+          "stop": "2026-07-22T18:43:00+03:00",
+          "title": "За двумя зайцами",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T18:43:00+03:00",
+          "stop": "2026-07-22T20:05:00+03:00",
+          "title": "Шоу Звезды",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T20:05:00+03:00",
+          "stop": "2026-07-22T20:47:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T20:47:00+03:00",
+          "stop": "2026-07-22T21:58:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T21:58:00+03:00",
+          "stop": "2026-07-22T23:13:00+03:00",
+          "title": "Советское кино. Моя морячка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T23:13:00+03:00",
+          "stop": "2026-07-22T23:37:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T23:37:00+03:00",
+          "stop": "2026-07-23T00:00:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "programs": [
+        {
+          "start": "2026-07-23T00:00:00+03:00",
+          "stop": "2026-07-23T00:44:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T00:44:00+03:00",
+          "stop": "2026-07-23T01:31:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T01:31:00+03:00",
+          "stop": "2026-07-23T02:15:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T02:15:00+03:00",
+          "stop": "2026-07-23T03:05:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T03:05:00+03:00",
+          "stop": "2026-07-23T04:17:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T04:17:00+03:00",
+          "stop": "2026-07-23T04:38:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T04:38:00+03:00",
+          "stop": "2026-07-23T05:25:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T05:25:00+03:00",
+          "stop": "2026-07-23T06:11:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T06:11:00+03:00",
+          "stop": "2026-07-23T07:24:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T07:24:00+03:00",
+          "stop": "2026-07-23T08:36:00+03:00",
+          "title": "Суперлига",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T08:36:00+03:00",
+          "stop": "2026-07-23T09:19:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T09:19:00+03:00",
+          "stop": "2026-07-23T09:41:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T09:41:00+03:00",
+          "stop": "2026-07-23T10:05:00+03:00",
+          "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T10:05:00+03:00",
+          "stop": "2026-07-23T10:25:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T10:25:00+03:00",
+          "stop": "2026-07-23T11:12:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T11:12:00+03:00",
+          "stop": "2026-07-23T12:25:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T12:25:00+03:00",
+          "stop": "2026-07-23T14:27:00+03:00",
+          "title": "Классика кино. В джазе только девушки",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T14:27:00+03:00",
+          "stop": "2026-07-23T14:50:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T14:50:00+03:00",
+          "stop": "2026-07-23T15:36:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T15:36:00+03:00",
+          "stop": "2026-07-23T16:52:00+03:00",
+          "title": "Шоу Звезды",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T16:52:00+03:00",
+          "stop": "2026-07-23T17:38:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T17:38:00+03:00",
+          "stop": "2026-07-23T18:23:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T18:23:00+03:00",
+          "stop": "2026-07-23T19:10:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T19:10:00+03:00",
+          "stop": "2026-07-23T20:21:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T20:21:00+03:00",
+          "stop": "2026-07-23T21:08:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T21:08:00+03:00",
+          "stop": "2026-07-23T22:20:00+03:00",
+          "title": "Суперлига",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T22:20:00+03:00",
+          "stop": "2026-07-23T22:58:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T22:58:00+03:00",
+          "stop": "2026-07-23T23:19:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T23:19:00+03:00",
+          "stop": "2026-07-24T00:07:00+03:00",
+          "title": "Comedy Club",
           "description": "L",
           "category": null
         }

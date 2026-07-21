@@ -8,73 +8,307 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
+  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 41,
   "days": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "programs": [
         {
-          "start": "2026-07-20T01:00:00+03:00",
-          "stop": "2026-07-20T03:00:00+03:00",
-          "title": "Serie A: Cremonese vs Napoli",
+          "start": "2026-07-21T01:00:00+03:00",
+          "stop": "2026-07-21T03:01:00+03:00",
+          "title": "EFL: Coventry vs Leicester",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T03:00:00+03:00",
-          "stop": "2026-07-20T05:00:00+03:00",
-          "title": "Serie A: Atalanta vs Inter",
+          "start": "2026-07-21T03:01:00+03:00",
+          "stop": "2026-07-21T05:00:00+03:00",
+          "title": "EFL: West Brom vs Middlesbrough",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T05:00:00+03:00",
-          "stop": "2026-07-20T07:00:00+03:00",
-          "title": "AFF Women's Cup: SF 1",
+          "start": "2026-07-21T05:00:00+03:00",
+          "stop": "2026-07-21T07:00:00+03:00",
+          "title": "EFL: Swindon vs Newport",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T07:00:00+03:00",
-          "stop": "2026-07-20T09:00:00+03:00",
-          "title": "Serie A: Bologna vs Sassuolo",
+          "start": "2026-07-21T07:00:00+03:00",
+          "stop": "2026-07-21T09:00:00+03:00",
+          "title": "EFL: Oxford Utd vs Bristol",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T09:00:00+03:00",
-          "stop": "2026-07-20T11:00:00+03:00",
-          "title": "AFF Women's Cup: SF2",
+          "start": "2026-07-21T09:00:00+03:00",
+          "stop": "2026-07-21T11:00:00+03:00",
+          "title": "EFL: Swansea vs Birmingham",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T11:00:00+03:00",
-          "stop": "2026-07-20T12:00:00+03:00",
-          "title": "Serie A 2025/26: End Season Review",
+          "start": "2026-07-21T11:00:00+03:00",
+          "stop": "2026-07-21T13:15:00+03:00",
+          "title": "Dutch: PSV vs Heracles Almelo",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T12:00:00+03:00",
-          "stop": "2026-07-20T14:00:00+03:00",
-          "title": "Serie A: Milan vs Verona",
+          "start": "2026-07-21T13:15:00+03:00",
+          "stop": "2026-07-21T15:20:00+03:00",
+          "title": "Dutch: Ajax vs Feyenoord",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T14:00:00+03:00",
-          "stop": "2026-07-20T16:00:00+03:00",
-          "title": "Serie A: Parma vs Fiorentina",
+          "start": "2026-07-21T15:20:00+03:00",
+          "stop": "2026-07-21T17:30:00+03:00",
+          "title": "Dutch: Telstar vs NEC",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T16:00:00+03:00",
-          "stop": "2026-07-20T18:00:00+03:00",
-          "title": "Serie A: Torino vs Cagliari",
+          "start": "2026-07-21T17:30:00+03:00",
+          "stop": "2026-07-21T18:00:00+03:00",
+          "title": "EFL 2025/26 – Highlights Show 31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T18:00:00+03:00",
+          "stop": "2026-07-21T20:00:00+03:00",
+          "title": "EFL: Wrexham vs Leicester",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T20:00:00+03:00",
+          "stop": "2026-07-21T22:00:00+03:00",
+          "title": "EFL: Stoke vs Middlesbrough",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T22:00:00+03:00",
+          "stop": "2026-07-22T00:00:00+03:00",
+          "title": "EFL: Lincoln vs Burton",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "programs": [
+        {
+          "start": "2026-07-22T00:00:00+03:00",
+          "stop": "2026-07-22T01:00:00+03:00",
+          "title": "Emirates FA Cup: Finals Preview",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T01:00:00+03:00",
+          "stop": "2026-07-22T03:00:00+03:00",
+          "title": "Serie A: Como vs Udinese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T03:00:00+03:00",
+          "stop": "2026-07-22T05:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T05:00:00+03:00",
+          "stop": "2026-07-22T07:00:00+03:00",
+          "title": "Serie A: Juventus vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T07:00:00+03:00",
+          "stop": "2026-07-22T09:00:00+03:00",
+          "title": "Serie A: Atalanta vs Roma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T09:00:00+03:00",
+          "stop": "2026-07-22T11:00:00+03:00",
+          "title": "Serie A: Fiorentina vs Cremonese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T11:00:00+03:00",
+          "stop": "2026-07-22T11:35:00+03:00",
+          "title": "Carabao Cup Finals: Hls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T11:35:00+03:00",
+          "stop": "2026-07-22T13:45:00+03:00",
+          "title": "⋗ AFF Women's Cup: 3rd & 4th Place",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T13:45:00+03:00",
+          "stop": "2026-07-22T14:00:00+03:00",
+          "title": "This Is Our Time: Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T14:00:00+03:00",
+          "stop": "2026-07-22T15:00:00+03:00",
+          "title": "Emirates FA Cup 2025/26: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:00:00+03:00",
+          "stop": "2026-07-22T15:35:00+03:00",
+          "title": "Emirates FA Cup: Finals Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:35:00+03:00",
+          "stop": "2026-07-22T18:00:00+03:00",
+          "title": "⋗ AFF Women's Cup: Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T18:00:00+03:00",
+          "stop": "2026-07-22T19:00:00+03:00",
+          "title": "Emirates FA Cup 2025/26: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T19:00:00+03:00",
+          "stop": "2026-07-22T21:00:00+03:00",
+          "title": "Serie A: Inter vs Bologna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T21:00:00+03:00",
+          "stop": "2026-07-22T23:00:00+03:00",
+          "title": "Serie A: Cagliari vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T23:00:00+03:00",
+          "stop": "2026-07-23T01:00:00+03:00",
+          "title": "Serie A: Genoa vs Pisa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "programs": [
+        {
+          "start": "2026-07-23T01:00:00+03:00",
+          "stop": "2026-07-23T03:00:00+03:00",
+          "title": "Serie A: Verona vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T03:00:00+03:00",
+          "stop": "2026-07-23T05:00:00+03:00",
+          "title": "Dutch: NEC vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T05:00:00+03:00",
+          "stop": "2026-07-23T07:30:00+03:00",
+          "title": "AFF Women's Cup: 3rd & 4th Place",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T07:30:00+03:00",
+          "stop": "2026-07-23T08:00:00+03:00",
+          "title": "FA Cup 2025/26: Semi Finals: Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T08:00:00+03:00",
+          "stop": "2026-07-23T10:15:00+03:00",
+          "title": "Dutch: Utrecht vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T10:15:00+03:00",
+          "stop": "2026-07-23T12:30:00+03:00",
+          "title": "Dutch: Feyenoord vs Twente",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T12:30:00+03:00",
+          "stop": "2026-07-23T13:00:00+03:00",
+          "title": "Serie A: Full Impact: Round 38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T13:00:00+03:00",
+          "stop": "2026-07-23T15:00:00+03:00",
+          "title": "EFL: Derby vs West Brom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T15:00:00+03:00",
+          "stop": "2026-07-23T17:00:00+03:00",
+          "title": "EFL: Millwall vs Charlton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T17:00:00+03:00",
+          "stop": "2026-07-23T19:00:00+03:00",
+          "title": "EFL: Hull City vs Swansea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T19:00:00+03:00",
+          "stop": "2026-07-23T21:00:00+03:00",
+          "title": "EFL: Doncaster vs Leyton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T21:00:00+03:00",
+          "stop": "2026-07-23T23:00:00+03:00",
+          "title": "EFL: Norwich vs Coventry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T23:00:00+03:00",
+          "stop": "2026-07-24T01:00:00+03:00",
+          "title": "EFL: Bristol vs Derby",
           "description": "L",
           "category": null
         }

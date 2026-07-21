@@ -8,94 +8,321 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
+  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 43,
   "days": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "programs": [
         {
-          "start": "2026-07-20T01:00:00+03:00",
-          "stop": "2026-07-20T03:10:00+03:00",
-          "title": "PL: Arsenal vs Burnley",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T03:10:00+03:00",
-          "stop": "2026-07-20T05:50:00+03:00",
-          "title": "PL: Man Utd vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T05:50:00+03:00",
-          "stop": "2026-07-20T06:20:00+03:00",
-          "title": "PL Classic: Malaysia vs Chelsea 2003",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T06:20:00+03:00",
-          "stop": "2026-07-20T06:50:00+03:00",
-          "title": "PL Classic: Malaysia vs Birmingham 2003",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T06:50:00+03:00",
-          "stop": "2026-07-20T09:00:00+03:00",
-          "title": "PL: Newcastle vs West Ham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T09:00:00+03:00",
-          "stop": "2026-07-20T10:50:00+03:00",
-          "title": "Review Of The Season 25/26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T10:50:00+03:00",
-          "stop": "2026-07-20T11:50:00+03:00",
-          "title": "Goals of The Season 2025/26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T11:50:00+03:00",
-          "stop": "2026-07-20T14:00:00+03:00",
-          "title": "PL: West Ham vs Leeds",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-20T14:00:00+03:00",
-          "stop": "2026-07-20T14:30:00+03:00",
+          "start": "2026-07-21T01:00:00+03:00",
+          "stop": "2026-07-21T01:30:00+03:00",
           "title": "Chelsea vs Manchester City 2013/14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T14:30:00+03:00",
-          "stop": "2026-07-20T15:00:00+03:00",
+          "start": "2026-07-21T01:30:00+03:00",
+          "stop": "2026-07-21T02:00:00+03:00",
           "title": "Manchester United vs Wimbledon 1998/99",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T15:00:00+03:00",
-          "stop": "2026-07-20T16:30:00+03:00",
-          "title": "Final Whistle: Season 2025/26 Ep05",
+          "start": "2026-07-21T02:00:00+03:00",
+          "stop": "2026-07-21T04:10:00+03:00",
+          "title": "PL: Burnley vs Wolves",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T16:30:00+03:00",
-          "stop": "2026-07-20T19:00:00+03:00",
-          "title": "PL: Liverpool vs Brentford",
+          "start": "2026-07-21T04:10:00+03:00",
+          "stop": "2026-07-21T06:20:00+03:00",
+          "title": "PL: Bournemouth vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T06:20:00+03:00",
+          "stop": "2026-07-21T08:30:00+03:00",
+          "title": "PL: Man Utd vs Nottm Forest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T08:30:00+03:00",
+          "stop": "2026-07-21T09:30:00+03:00",
+          "title": "Goals of The Season 2025/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T09:30:00+03:00",
+          "stop": "2026-07-21T12:20:00+03:00",
+          "title": "PL: Liverpool vs Chelsea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T12:20:00+03:00",
+          "stop": "2026-07-21T12:50:00+03:00",
+          "title": "PL Classic: Thailand vs Everton 2005",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T12:50:00+03:00",
+          "stop": "2026-07-21T14:50:00+03:00",
+          "title": "Final Whistle: Season 2025/26 Ep06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T14:50:00+03:00",
+          "stop": "2026-07-21T15:20:00+03:00",
+          "title": "Chelsea vs Manchester City 2009/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T15:20:00+03:00",
+          "stop": "2026-07-21T15:50:00+03:00",
+          "title": "Arsenal vs Charlton 2001/02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T15:50:00+03:00",
+          "stop": "2026-07-21T18:30:00+03:00",
+          "title": "PL: Man City vs Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T18:30:00+03:00",
+          "stop": "2026-07-21T21:50:00+03:00",
+          "title": "PL: Man City vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T21:50:00+03:00",
+          "stop": "2026-07-21T22:50:00+03:00",
+          "title": "PL Moments Ep.9: Gary Cahill",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T22:50:00+03:00",
+          "stop": "2026-07-22T01:00:00+03:00",
+          "title": "PL: Burnley vs Aston Villa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "programs": [
+        {
+          "start": "2026-07-22T01:00:00+03:00",
+          "stop": "2026-07-22T01:30:00+03:00",
+          "title": "Chelsea vs Manchester City 2009/10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T01:30:00+03:00",
+          "stop": "2026-07-22T02:00:00+03:00",
+          "title": "Arsenal vs Charlton 2001/02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T02:00:00+03:00",
+          "stop": "2026-07-22T04:50:00+03:00",
+          "title": "PL: Chelsea vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T04:50:00+03:00",
+          "stop": "2026-07-22T08:10:00+03:00",
+          "title": "PL: Aston Villa vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T08:10:00+03:00",
+          "stop": "2026-07-22T09:10:00+03:00",
+          "title": "The Art of… The Centre Back With Joleon Lescott",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T09:10:00+03:00",
+          "stop": "2026-07-22T11:20:00+03:00",
+          "title": "PL: Man City vs Brentford",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T11:20:00+03:00",
+          "stop": "2026-07-22T11:50:00+03:00",
+          "title": "PL Stories: Norwich, The Nearly Men",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T11:50:00+03:00",
+          "stop": "2026-07-22T12:50:00+03:00",
+          "title": "Goals of The Season 2025/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T12:50:00+03:00",
+          "stop": "2026-07-22T13:20:00+03:00",
+          "title": "Manchester City vs Liverpool 2015/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T13:20:00+03:00",
+          "stop": "2026-07-22T15:00:00+03:00",
+          "title": "Final Whistle: Season 2025/26 Ep07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:00:00+03:00",
+          "stop": "2026-07-22T15:30:00+03:00",
+          "title": "Everton vs Manchester United 2010/11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T15:30:00+03:00",
+          "stop": "2026-07-22T18:00:00+03:00",
+          "title": "PL: Crystal Palace vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T18:00:00+03:00",
+          "stop": "2026-07-22T23:00:00+03:00",
+          "title": "⋗ EWC 2026: EA Sports FC: Day 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T23:00:00+03:00",
+          "stop": "2026-07-23T01:00:00+03:00",
+          "title": "Classic Match: ARS 4-4 TOT 08/09",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "programs": [
+        {
+          "start": "2026-07-23T01:00:00+03:00",
+          "stop": "2026-07-23T01:30:00+03:00",
+          "title": "Manchester City vs Liverpool 2015/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T01:30:00+03:00",
+          "stop": "2026-07-23T02:00:00+03:00",
+          "title": "Everton vs Manchester United 2010/11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T02:00:00+03:00",
+          "stop": "2026-07-23T04:10:00+03:00",
+          "title": "PL: Leeds vs Brighton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T04:10:00+03:00",
+          "stop": "2026-07-23T07:20:00+03:00",
+          "title": "PL: Chelsea vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T07:20:00+03:00",
+          "stop": "2026-07-23T09:30:00+03:00",
+          "title": "PL: Sunderland vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T09:30:00+03:00",
+          "stop": "2026-07-23T11:40:00+03:00",
+          "title": "PL: Crystal Palace vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T11:40:00+03:00",
+          "stop": "2026-07-23T12:10:00+03:00",
+          "title": "Manchester City vs Liverpool 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T12:10:00+03:00",
+          "stop": "2026-07-23T14:20:00+03:00",
+          "title": "PL: Nottm Forest vs Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T14:20:00+03:00",
+          "stop": "2026-07-23T14:50:00+03:00",
+          "title": "PL Classic: Malaysia vs Chelsea 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T14:50:00+03:00",
+          "stop": "2026-07-23T15:20:00+03:00",
+          "title": "PL Classic: Malaysia vs Birmingham 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T15:20:00+03:00",
+          "stop": "2026-07-23T15:50:00+03:00",
+          "title": "PL Stories 2026/27: A Family United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T15:50:00+03:00",
+          "stop": "2026-07-23T18:00:00+03:00",
+          "title": "PL: Brighton vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T18:00:00+03:00",
+          "stop": "2026-07-23T23:00:00+03:00",
+          "title": "⋗ EWC 2026: EA Sports FC: Day 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T23:00:00+03:00",
+          "stop": "2026-07-24T01:00:00+03:00",
+          "title": "Classic Match: MUN 4-4 EVE 11/12",
           "description": "L",
           "category": null
         }

@@ -8,24 +8,83 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-20T04:06:45.567611+00:00",
+  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
   "available": true,
-  "programmeCount": 2,
+  "programmeCount": 9,
   "days": [
     {
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "programs": [
         {
-          "start": "2026-07-20T02:10:00+03:00",
-          "stop": "2026-07-20T11:00:00+03:00",
-          "title": "Elämää Aasian suurimman vankilan sisällä",
+          "start": "2026-07-21T11:00:00+03:00",
+          "stop": "2026-07-21T19:00:00+03:00",
+          "title": "RedBull TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-20T11:00:00+03:00",
-          "stop": "2026-07-20T19:00:00+03:00",
+          "start": "2026-07-21T19:00:00+03:00",
+          "stop": "2026-07-21T22:00:00+03:00",
+          "title": "Formula 1: Itävallan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-21T22:00:00+03:00",
+          "stop": "2026-07-22T11:00:00+03:00",
+          "title": "EUROpa League: Freiburg – Aston Villa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "programs": [
+        {
+          "start": "2026-07-22T11:00:00+03:00",
+          "stop": "2026-07-22T19:00:00+03:00",
           "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T19:00:00+03:00",
+          "stop": "2026-07-22T22:00:00+03:00",
+          "title": "EUROpa League: Freiburg – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-22T22:00:00+03:00",
+          "stop": "2026-07-23T11:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "programs": [
+        {
+          "start": "2026-07-23T11:00:00+03:00",
+          "stop": "2026-07-23T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T19:00:00+03:00",
+          "stop": "2026-07-23T22:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T22:00:00+03:00",
+          "stop": "2026-07-24T11:00:00+03:00",
+          "title": "UEFA Conference League: Crystal Palace – Rayo Vallecano",
           "description": "L",
           "category": null
         }
