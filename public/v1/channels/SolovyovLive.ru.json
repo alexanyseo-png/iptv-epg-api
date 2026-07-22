@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
+  "generatedAt": "2026-07-22T03:49:17.086035+00:00",
   "available": true,
   "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-07-21",
-      "programs": [
-        {
-          "start": "2026-07-21T00:00:00+03:00",
-          "stop": "2026-07-21T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T05:00:00+03:00",
-          "stop": "2026-07-21T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T07:00:00+03:00",
-          "stop": "2026-07-21T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T11:00:00+03:00",
-          "stop": "2026-07-21T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T14:00:00+03:00",
-          "stop": "2026-07-21T16:00:00+03:00",
-          "title": "Подробнее с Александром Топориным",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T16:00:00+03:00",
-          "stop": "2026-07-21T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T19:00:00+03:00",
-          "stop": "2026-07-21T21:00:00+03:00",
-          "title": "Михеев Говорит",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T21:00:00+03:00",
-          "stop": "2026-07-21T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T22:00:00+03:00",
-          "stop": "2026-07-21T23:00:00+03:00",
-          "title": "Триста! Тридцать! Три!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-21T23:00:00+03:00",
-          "stop": "2026-07-22T00:00:00+03:00",
-          "title": "Федоров LIVE",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-22",
       "programs": [
@@ -232,6 +157,81 @@
           "start": "2026-07-23T23:00:00+03:00",
           "stop": "2026-07-24T00:00:00+03:00",
           "title": "Фейк-контроль",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "programs": [
+        {
+          "start": "2026-07-24T00:00:00+03:00",
+          "stop": "2026-07-24T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T05:00:00+03:00",
+          "stop": "2026-07-24T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T07:00:00+03:00",
+          "stop": "2026-07-24T11:00:00+03:00",
+          "title": "Формула смысла",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T11:00:00+03:00",
+          "stop": "2026-07-24T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T14:00:00+03:00",
+          "stop": "2026-07-24T17:00:00+03:00",
+          "title": "Азаренок. Напрямую",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T17:00:00+03:00",
+          "stop": "2026-07-24T19:00:00+03:00",
+          "title": "Лабиринт Карнаухова",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T19:00:00+03:00",
+          "stop": "2026-07-24T21:00:00+03:00",
+          "title": "Мардан",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T21:00:00+03:00",
+          "stop": "2026-07-24T22:00:00+03:00",
+          "title": "Newsroom с Александром Валеевым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T22:00:00+03:00",
+          "stop": "2026-07-24T23:00:00+03:00",
+          "title": "Вечер Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T23:00:00+03:00",
+          "stop": "2026-07-25T00:00:00+03:00",
+          "title": "Курс",
           "description": "L",
           "category": null
         }

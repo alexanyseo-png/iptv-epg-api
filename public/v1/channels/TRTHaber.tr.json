@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-21T03:48:15.417507+00:00",
+  "generatedAt": "2026-07-22T03:49:17.086035+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 71,
   "days": [
-    {
-      "date": "2026-07-21",
-      "programs": [
-        {
-          "start": "2026-07-21T00:00:00+03:00",
-          "stop": "2026-07-22T00:00:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-22",
       "programs": [
@@ -364,6 +352,172 @@
         {
           "start": "2026-07-23T23:00:00+03:00",
           "stop": "2026-07-24T00:00:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-24",
+      "programs": [
+        {
+          "start": "2026-07-24T00:00:00+03:00",
+          "stop": "2026-07-24T00:55:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T00:55:00+03:00",
+          "stop": "2026-07-24T01:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T01:00:00+03:00",
+          "stop": "2026-07-24T04:00:00+03:00",
+          "title": "Gün Sonu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T04:00:00+03:00",
+          "stop": "2026-07-24T04:55:00+03:00",
+          "title": "Haber 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T04:55:00+03:00",
+          "stop": "2026-07-24T05:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T05:00:00+03:00",
+          "stop": "2026-07-24T06:00:00+03:00",
+          "title": "Haber 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T06:00:00+03:00",
+          "stop": "2026-07-24T07:00:00+03:00",
+          "title": "Haber 06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T07:00:00+03:00",
+          "stop": "2026-07-24T09:55:00+03:00",
+          "title": "Dün Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T09:55:00+03:00",
+          "stop": "2026-07-24T10:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T10:00:00+03:00",
+          "stop": "2026-07-24T13:00:00+03:00",
+          "title": "Satır Başı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T13:00:00+03:00",
+          "stop": "2026-07-24T13:50:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T13:50:00+03:00",
+          "stop": "2026-07-24T13:55:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T13:55:00+03:00",
+          "stop": "2026-07-24T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T14:00:00+03:00",
+          "stop": "2026-07-24T15:00:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T15:00:00+03:00",
+          "stop": "2026-07-24T17:00:00+03:00",
+          "title": "Haber Ajandası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T17:00:00+03:00",
+          "stop": "2026-07-24T17:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T17:55:00+03:00",
+          "stop": "2026-07-24T18:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T18:00:00+03:00",
+          "stop": "2026-07-24T18:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T18:55:00+03:00",
+          "stop": "2026-07-24T19:00:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T19:00:00+03:00",
+          "stop": "2026-07-24T20:00:00+03:00",
+          "title": "Sıcak Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T20:00:00+03:00",
+          "stop": "2026-07-24T20:45:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T20:45:00+03:00",
+          "stop": "2026-07-24T23:00:00+03:00",
+          "title": "Birinci Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-24T23:00:00+03:00",
+          "stop": "2026-07-25T00:00:00+03:00",
           "title": "Gece Bakışı",
           "description": "L",
           "category": null
