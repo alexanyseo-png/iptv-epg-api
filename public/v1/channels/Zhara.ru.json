@@ -8,155 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-22T03:49:17.086035+00:00",
+  "generatedAt": "2026-07-23T03:47:15.078193+00:00",
   "available": true,
-  "programmeCount": 73,
+  "programmeCount": 78,
   "days": [
-    {
-      "date": "2026-07-22",
-      "programs": [
-        {
-          "start": "2026-07-22T00:00:00+03:00",
-          "stop": "2026-07-22T01:36:00+03:00",
-          "title": "Ночной микс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T01:36:00+03:00",
-          "stop": "2026-07-22T03:00:00+03:00",
-          "title": "Мегамикс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T03:00:00+03:00",
-          "stop": "2026-07-22T04:30:00+03:00",
-          "title": "Мегамикс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T04:30:00+03:00",
-          "stop": "2026-07-22T06:30:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T06:30:00+03:00",
-          "stop": "2026-07-22T08:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T08:00:00+03:00",
-          "stop": "2026-07-22T08:10:00+03:00",
-          "title": "Жара новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T08:10:00+03:00",
-          "stop": "2026-07-22T09:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T09:00:00+03:00",
-          "stop": "2026-07-22T09:10:00+03:00",
-          "title": "Сквозь время.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T09:10:00+03:00",
-          "stop": "2026-07-22T10:20:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T10:20:00+03:00",
-          "stop": "2026-07-22T12:35:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T12:35:00+03:00",
-          "stop": "2026-07-22T13:08:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T13:08:00+03:00",
-          "stop": "2026-07-22T14:30:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T14:30:00+03:00",
-          "stop": "2026-07-22T15:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T15:00:00+03:00",
-          "stop": "2026-07-22T15:10:00+03:00",
-          "title": "Жара новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T15:10:00+03:00",
-          "stop": "2026-07-22T17:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T17:00:00+03:00",
-          "stop": "2026-07-22T18:40:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T18:40:00+03:00",
-          "stop": "2026-07-22T19:00:00+03:00",
-          "title": "Один на один.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T19:00:00+03:00",
-          "stop": "2026-07-22T20:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T20:00:00+03:00",
-          "stop": "2026-07-22T22:00:00+03:00",
-          "title": "Личная сцена.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T22:00:00+03:00",
-          "stop": "2026-07-23T00:00:00+03:00",
-          "title": "Музыкальный блок.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-23",
       "programs": [
@@ -532,6 +387,186 @@
         {
           "start": "2026-07-24T23:10:00+03:00",
           "stop": "2026-07-25T00:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "programs": [
+        {
+          "start": "2026-07-25T00:00:00+03:00",
+          "stop": "2026-07-25T01:00:00+03:00",
+          "title": "Ночной микс.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T01:00:00+03:00",
+          "stop": "2026-07-25T03:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T03:00:00+03:00",
+          "stop": "2026-07-25T04:00:00+03:00",
+          "title": "Мегамикс.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T04:00:00+03:00",
+          "stop": "2026-07-25T04:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T04:10:00+03:00",
+          "stop": "2026-07-25T08:10:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T08:10:00+03:00",
+          "stop": "2026-07-25T09:15:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T09:15:00+03:00",
+          "stop": "2026-07-25T10:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T10:00:00+03:00",
+          "stop": "2026-07-25T10:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T10:10:00+03:00",
+          "stop": "2026-07-25T11:20:00+03:00",
+          "title": "Сквозь время.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T11:20:00+03:00",
+          "stop": "2026-07-25T12:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T12:00:00+03:00",
+          "stop": "2026-07-25T12:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T12:10:00+03:00",
+          "stop": "2026-07-25T14:00:00+03:00",
+          "title": "Личная сцена.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T14:00:00+03:00",
+          "stop": "2026-07-25T14:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T14:10:00+03:00",
+          "stop": "2026-07-25T15:10:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T15:10:00+03:00",
+          "stop": "2026-07-25T16:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T16:00:00+03:00",
+          "stop": "2026-07-25T16:20:00+03:00",
+          "title": "Один на один.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T16:20:00+03:00",
+          "stop": "2026-07-25T17:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T17:00:00+03:00",
+          "stop": "2026-07-25T17:30:00+03:00",
+          "title": "До звезды.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T17:30:00+03:00",
+          "stop": "2026-07-25T17:40:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T17:40:00+03:00",
+          "stop": "2026-07-25T21:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T21:00:00+03:00",
+          "stop": "2026-07-25T21:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T21:10:00+03:00",
+          "stop": "2026-07-25T22:15:00+03:00",
+          "title": "Личная сцена.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T22:15:00+03:00",
+          "stop": "2026-07-25T23:00:00+03:00",
+          "title": "Музыкальный блок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T23:00:00+03:00",
+          "stop": "2026-07-25T23:10:00+03:00",
+          "title": "ДНЕВНИКИ DREAM FEST.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T23:10:00+03:00",
+          "stop": "2026-07-26T00:00:00+03:00",
           "title": "Музыкальный блок.",
           "description": "L",
           "category": null

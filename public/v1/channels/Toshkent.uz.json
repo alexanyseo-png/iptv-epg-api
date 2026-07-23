@@ -8,218 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-22T03:49:17.086035+00:00",
+  "generatedAt": "2026-07-23T03:47:15.078193+00:00",
   "available": true,
-  "programmeCount": 95,
+  "programmeCount": 87,
   "days": [
-    {
-      "date": "2026-07-22",
-      "programs": [
-        {
-          "start": "2026-07-22T00:30:00+03:00",
-          "stop": "2026-07-22T01:30:00+03:00",
-          "title": "Boburnoma.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T01:30:00+03:00",
-          "stop": "2026-07-22T02:30:00+03:00",
-          "title": "Kumush.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T02:30:00+03:00",
-          "stop": "2026-07-22T04:00:00+03:00",
-          "title": "Xorij Film.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T04:00:00+03:00",
-          "stop": "2026-07-22T04:05:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T04:05:00+03:00",
-          "stop": "2026-07-22T05:20:00+03:00",
-          "title": "Владыка морей.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T05:20:00+03:00",
-          "stop": "2026-07-22T07:00:00+03:00",
-          "title": "Человек-амфибия.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T07:00:00+03:00",
-          "stop": "2026-07-22T07:20:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T07:20:00+03:00",
-          "stop": "2026-07-22T09:00:00+03:00",
-          "title": "Мой друг джинн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T09:00:00+03:00",
-          "stop": "2026-07-22T09:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T09:30:00+03:00",
-          "stop": "2026-07-22T10:00:00+03:00",
-          "title": "Сказки Андерсена.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T10:00:00+03:00",
-          "stop": "2026-07-22T10:30:00+03:00",
-          "title": "Джейк и пираты Нетландии.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T10:30:00+03:00",
-          "stop": "2026-07-22T12:10:00+03:00",
-          "title": "Salom,Toshkent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T12:10:00+03:00",
-          "stop": "2026-07-22T13:00:00+03:00",
-          "title": "Kumush.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T13:00:00+03:00",
-          "stop": "2026-07-22T13:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T13:30:00+03:00",
-          "stop": "2026-07-22T14:20:00+03:00",
-          "title": "Nadomat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T14:20:00+03:00",
-          "stop": "2026-07-22T15:00:00+03:00",
-          "title": "Toshkent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T15:00:00+03:00",
-          "stop": "2026-07-22T16:00:00+03:00",
-          "title": "Владыка морей.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T16:00:00+03:00",
-          "stop": "2026-07-22T16:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T16:30:00+03:00",
-          "stop": "2026-07-22T17:00:00+03:00",
-          "title": "Farovonlik sari.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T17:00:00+03:00",
-          "stop": "2026-07-22T17:35:00+03:00",
-          "title": "Backstage.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T17:35:00+03:00",
-          "stop": "2026-07-22T18:00:00+03:00",
-          "title": "Тошкентда истеъдодлар ижроси.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T18:00:00+03:00",
-          "stop": "2026-07-22T18:30:00+03:00",
-          "title": "Siz nima deysiz?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T18:30:00+03:00",
-          "stop": "2026-07-22T19:00:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T19:00:00+03:00",
-          "stop": "2026-07-22T20:00:00+03:00",
-          "title": "Ҳикматлп дунё.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T20:00:00+03:00",
-          "stop": "2026-07-22T22:00:00+03:00",
-          "title": "Xorij Film.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T22:00:00+03:00",
-          "stop": "2026-07-22T22:05:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T22:05:00+03:00",
-          "stop": "2026-07-22T22:30:00+03:00",
-          "title": "Tungi toshkent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T22:30:00+03:00",
-          "stop": "2026-07-22T23:00:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-22T23:00:00+03:00",
-          "stop": "2026-07-23T00:40:00+03:00",
-          "title": "Мой друг джинн.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-23",
       "programs": [
@@ -239,36 +31,22 @@
         },
         {
           "start": "2026-07-23T02:20:00+03:00",
-          "stop": "2026-07-23T04:00:00+03:00",
+          "stop": "2026-07-23T05:00:00+03:00",
           "title": "Дневники няни.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-23T04:00:00+03:00",
-          "stop": "2026-07-23T04:05:00+03:00",
-          "title": "Гимн.",
+          "start": "2026-07-23T05:00:00+03:00",
+          "stop": "2026-07-23T06:20:00+03:00",
+          "title": "Миллионер поневоле.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-23T04:05:00+03:00",
-          "stop": "2026-07-23T05:20:00+03:00",
-          "title": "Владыка морей.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T05:20:00+03:00",
-          "stop": "2026-07-23T06:30:00+03:00",
-          "title": "И на камнях растут деревья. 1-я серия.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T06:30:00+03:00",
+          "start": "2026-07-23T06:20:00+03:00",
           "stop": "2026-07-23T07:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
+          "title": "Qo'shnilar.",
           "description": "L",
           "category": null
         },
@@ -281,8 +59,15 @@
         },
         {
           "start": "2026-07-23T07:30:00+03:00",
+          "stop": "2026-07-23T08:40:00+03:00",
+          "title": "Дуэль под чинарой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-23T08:40:00+03:00",
           "stop": "2026-07-23T09:00:00+03:00",
-          "title": "Художественный фильм.",
+          "title": "Yaxshi kayfiyat.",
           "description": "L",
           "category": null
         },
@@ -337,13 +122,13 @@
         },
         {
           "start": "2026-07-23T14:20:00+03:00",
-          "stop": "2026-07-23T14:50:00+03:00",
-          "title": "Toshkent Qizlari.",
+          "stop": "2026-07-23T15:00:00+03:00",
+          "title": "Sanamjon.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-23T14:50:00+03:00",
+          "start": "2026-07-23T15:00:00+03:00",
           "stop": "2026-07-23T16:00:00+03:00",
           "title": "Владыка морей.",
           "description": "L",
@@ -359,28 +144,28 @@
         {
           "start": "2026-07-23T16:30:00+03:00",
           "stop": "2026-07-23T17:00:00+03:00",
-          "title": "Ustoz va shogird.",
+          "title": "Меню.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-23T17:00:00+03:00",
           "stop": "2026-07-23T17:35:00+03:00",
-          "title": "Odamlar orasida.",
+          "title": "Nadomat.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-23T17:35:00+03:00",
           "stop": "2026-07-23T18:00:00+03:00",
-          "title": "Тошкентда истеъдодлар ижроси.",
+          "title": "Toshkentda iste'dodlar ijrosi.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-23T18:00:00+03:00",
           "stop": "2026-07-23T18:30:00+03:00",
-          "title": "Siz nima deysiz?",
+          "title": "Тошкентда подкаст.",
           "description": "L",
           "category": null
         },
@@ -400,15 +185,8 @@
         },
         {
           "start": "2026-07-23T19:30:00+03:00",
-          "stop": "2026-07-23T20:10:00+03:00",
-          "title": "Sakkizinchi mo‘jiza.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T20:10:00+03:00",
           "stop": "2026-07-23T22:00:00+03:00",
-          "title": "Джунгли зовут! В поисках Марсупилами.",
+          "title": "Mo'jiza.",
           "description": "L",
           "category": null
         },
@@ -574,7 +352,7 @@
         {
           "start": "2026-07-24T14:00:00+03:00",
           "stop": "2026-07-24T14:30:00+03:00",
-          "title": "Qani, ketdik!",
+          "title": "Qani ketdik.",
           "description": "L",
           "category": null
         },
@@ -623,7 +401,7 @@
         {
           "start": "2026-07-24T17:35:00+03:00",
           "stop": "2026-07-24T18:00:00+03:00",
-          "title": "Тошкентда истеъдодлар ижроси.",
+          "title": "Toshkentda iste'dodlar ijrosi.",
           "description": "L",
           "category": null
         },
@@ -651,7 +429,7 @@
         {
           "start": "2026-07-24T19:30:00+03:00",
           "stop": "2026-07-24T20:10:00+03:00",
-          "title": "Qo'shnilar.",
+          "title": "Qo‘shnilar.",
           "description": "L",
           "category": null
         },
@@ -687,6 +465,172 @@
           "start": "2026-07-24T23:00:00+03:00",
           "stop": "2026-07-25T00:40:00+03:00",
           "title": "Aydinlar.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-25",
+      "programs": [
+        {
+          "start": "2026-07-25T00:40:00+03:00",
+          "stop": "2026-07-25T01:30:00+03:00",
+          "title": "Boburnoma.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T01:30:00+03:00",
+          "stop": "2026-07-25T02:20:00+03:00",
+          "title": "Kumush.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T02:20:00+03:00",
+          "stop": "2026-07-25T04:00:00+03:00",
+          "title": "Xorij Film.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T04:00:00+03:00",
+          "stop": "2026-07-25T04:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T04:05:00+03:00",
+          "stop": "2026-07-25T05:20:00+03:00",
+          "title": "Владыка морей.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T05:20:00+03:00",
+          "stop": "2026-07-25T07:00:00+03:00",
+          "title": "Дневники принцессы-2: Как стать королевой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T07:00:00+03:00",
+          "stop": "2026-07-25T07:20:00+03:00",
+          "title": "Poytaxt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T07:20:00+03:00",
+          "stop": "2026-07-25T09:10:00+03:00",
+          "title": "Armonli dunyo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T09:10:00+03:00",
+          "stop": "2026-07-25T10:00:00+03:00",
+          "title": "Chapani choyxona.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T10:00:00+03:00",
+          "stop": "2026-07-25T11:00:00+03:00",
+          "title": "Хикматли дунё.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T11:00:00+03:00",
+          "stop": "2026-07-25T11:30:00+03:00",
+          "title": "Sanamjon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T11:30:00+03:00",
+          "stop": "2026-07-25T15:00:00+03:00",
+          "title": "Kumush.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T15:00:00+03:00",
+          "stop": "2026-07-25T16:00:00+03:00",
+          "title": "Mahallaning Piru-Badavlati.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T16:00:00+03:00",
+          "stop": "2026-07-25T16:30:00+03:00",
+          "title": "Гость столицы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T16:30:00+03:00",
+          "stop": "2026-07-25T17:00:00+03:00",
+          "title": "Qalpoq.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T17:00:00+03:00",
+          "stop": "2026-07-25T17:30:00+03:00",
+          "title": "Jamuljam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T17:30:00+03:00",
+          "stop": "2026-07-25T19:00:00+03:00",
+          "title": "Toshkent oqshomi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T19:00:00+03:00",
+          "stop": "2026-07-25T20:00:00+03:00",
+          "title": "Uch Dugona, Uch Begona.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T20:00:00+03:00",
+          "stop": "2026-07-25T22:00:00+03:00",
+          "title": "Toshkentda iste'dodlar ijrosi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T22:00:00+03:00",
+          "stop": "2026-07-25T22:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T22:05:00+03:00",
+          "stop": "2026-07-25T22:30:00+03:00",
+          "title": "Tungi toshkent.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T22:30:00+03:00",
+          "stop": "2026-07-25T23:00:00+03:00",
+          "title": "Yaxshi kayfiyat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-25T23:00:00+03:00",
+          "stop": "2026-07-26T04:00:00+03:00",
+          "title": "Владыка морей.",
           "description": "L",
           "category": null
         }

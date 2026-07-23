@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-22T03:49:17.086035+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-07-23T03:47:15.078193+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-07-25",
+      "programs": [
+        {
+          "start": "2026-07-25T18:00:00+03:00",
+          "stop": "2026-07-25T19:00:00+03:00",
+          "title": "⋗ UFC. Magomed Ankalaev vs Bogdan Guskov (ENG)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
