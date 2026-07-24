@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-23T03:47:15.078193+00:00",
+  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-07-23",
-      "programs": [
-        {
-          "start": "2026-07-23T11:00:00+03:00",
-          "stop": "2026-07-23T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T19:00:00+03:00",
-          "stop": "2026-07-23T22:00:00+03:00",
-          "title": "Formula 1: Belgian GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T22:00:00+03:00",
-          "stop": "2026-07-24T11:00:00+03:00",
-          "title": "UEFA Conference League: Crystal Palace – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-24",
       "programs": [
@@ -92,6 +66,39 @@
           "start": "2026-07-25T22:00:00+03:00",
           "stop": "2026-07-26T11:00:00+03:00",
           "title": "Formula 1: Unkarin GP – Aika-ajo",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "programs": [
+        {
+          "start": "2026-07-26T11:00:00+03:00",
+          "stop": "2026-07-26T15:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T15:55:00+03:00",
+          "stop": "2026-07-26T19:00:00+03:00",
+          "title": "Formula 1: Unkarin GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T19:00:00+03:00",
+          "stop": "2026-07-26T22:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T22:00:00+03:00",
+          "stop": "2026-07-26T23:00:00+03:00",
+          "title": "Formula 1: Unkarin GP – Osakilpailu",
           "description": "L",
           "category": null
         }

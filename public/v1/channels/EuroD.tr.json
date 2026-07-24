@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-23T03:47:15.078193+00:00",
+  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-07-23",
-      "programs": [
-        {
-          "start": "2026-07-23T05:10:00+03:00",
-          "stop": "2026-07-23T07:00:00+03:00",
-          "title": "Kuzey Güney.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T07:00:00+03:00",
-          "stop": "2026-07-23T09:30:00+03:00",
-          "title": "Yabancı Damat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T09:30:00+03:00",
-          "stop": "2026-07-23T12:00:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T12:00:00+03:00",
-          "stop": "2026-07-23T13:00:00+03:00",
-          "title": "▶️ Kanal D Haber Gün Arası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T13:00:00+03:00",
-          "stop": "2026-07-23T14:00:00+03:00",
-          "title": "▶️ Magazin D Yaz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T14:00:00+03:00",
-          "stop": "2026-07-23T16:30:00+03:00",
-          "title": "Uzak Şehir.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T16:30:00+03:00",
-          "stop": "2026-07-23T18:15:00+03:00",
-          "title": "Aşk-ı Memnu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T18:15:00+03:00",
-          "stop": "2026-07-23T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-23T19:00:00+03:00",
-          "stop": "2026-07-24T05:10:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-24",
       "programs": [
@@ -204,6 +136,67 @@
           "start": "2026-07-25T19:00:00+03:00",
           "stop": "2026-07-26T05:10:00+03:00",
           "title": "Kanal D Haber Hafta Sonu.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-26",
+      "programs": [
+        {
+          "start": "2026-07-26T05:10:00+03:00",
+          "stop": "2026-07-26T07:00:00+03:00",
+          "title": "Kuzey Güney.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T07:00:00+03:00",
+          "stop": "2026-07-26T08:30:00+03:00",
+          "title": "Yabancı Damat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T08:30:00+03:00",
+          "stop": "2026-07-26T10:00:00+03:00",
+          "title": "Konuştukça.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T10:00:00+03:00",
+          "stop": "2026-07-26T12:40:00+03:00",
+          "title": "▶️ Magazin D Pazar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T12:40:00+03:00",
+          "stop": "2026-07-26T18:15:00+03:00",
+          "title": "Pazar Gezmesi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T18:15:00+03:00",
+          "stop": "2026-07-26T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T19:00:00+03:00",
+          "stop": "2026-07-26T20:00:00+03:00",
+          "title": "Kanal D Haber Hafta Sonu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-26T20:00:00+03:00",
+          "stop": "2026-07-27T04:55:00+03:00",
+          "title": "Daha 17.",
           "description": "L",
           "category": null
         }
