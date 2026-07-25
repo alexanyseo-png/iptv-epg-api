@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
+  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "start": "2026-07-24T00:00:00+03:00",
-          "stop": "2026-07-24T01:45:00+03:00",
-          "title": "Про Миру и Гошу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T01:45:00+03:00",
-          "stop": "2026-07-24T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T06:00:00+03:00",
-          "stop": "2026-07-24T08:00:00+03:00",
-          "title": "Бодо Бородо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T08:00:00+03:00",
-          "stop": "2026-07-24T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T09:00:00+03:00",
-          "stop": "2026-07-24T09:30:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T09:30:00+03:00",
-          "stop": "2026-07-24T12:30:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T12:30:00+03:00",
-          "stop": "2026-07-24T15:30:00+03:00",
-          "title": "Приключения Пети и Волка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T15:30:00+03:00",
-          "stop": "2026-07-24T23:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T23:00:00+03:00",
-          "stop": "2026-07-24T23:05:00+03:00",
-          "title": "Джо Билл.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T23:05:00+03:00",
-          "stop": "2026-07-24T23:10:00+03:00",
-          "title": "Доброе сердце.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T23:10:00+03:00",
-          "stop": "2026-07-24T23:15:00+03:00",
-          "title": "Весёлая карусель (Советчики).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T23:15:00+03:00",
-          "stop": "2026-07-25T00:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-25",
       "programs": [
@@ -232,6 +143,25 @@
           "start": "2026-07-26T23:00:00+03:00",
           "stop": "2026-07-27T00:00:00+03:00",
           "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "start": "2026-07-27T00:00:00+03:00",
+          "stop": "2026-07-27T01:45:00+03:00",
+          "title": "Чуч-Мяуч.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T01:45:00+03:00",
+          "stop": "2026-07-27T02:45:00+03:00",
+          "title": "Простоквашино.",
           "description": "L",
           "category": null
         }

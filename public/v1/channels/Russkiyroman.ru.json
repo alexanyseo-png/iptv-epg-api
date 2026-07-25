@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
+  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 21,
   "days": [
-    {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "start": "2026-07-24T00:30:00+03:00",
-          "stop": "2026-07-24T03:15:00+03:00",
-          "title": "Яблоневый сад.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T03:15:00+03:00",
-          "stop": "2026-07-24T04:35:00+03:00",
-          "title": "Время собирать.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T04:35:00+03:00",
-          "stop": "2026-07-24T07:50:00+03:00",
-          "title": "Трава под снегом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T07:50:00+03:00",
-          "stop": "2026-07-24T09:25:00+03:00",
-          "title": "Чужое лицо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T09:25:00+03:00",
-          "stop": "2026-07-24T11:05:00+03:00",
-          "title": "Жизнь после жизни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T11:05:00+03:00",
-          "stop": "2026-07-24T14:25:00+03:00",
-          "title": "Хозяйка большого города.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T14:25:00+03:00",
-          "stop": "2026-07-24T17:45:00+03:00",
-          "title": "Счастье можно дарить.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T17:45:00+03:00",
-          "stop": "2026-07-24T19:30:00+03:00",
-          "title": "Терапия любовью.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T19:30:00+03:00",
-          "stop": "2026-07-24T22:45:00+03:00",
-          "title": "Горная болезнь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T22:45:00+03:00",
-          "stop": "2026-07-25T00:20:00+03:00",
-          "title": "Игрушка.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-25",
       "programs": [
@@ -211,6 +136,39 @@
           "start": "2026-07-26T21:30:00+03:00",
           "stop": "2026-07-27T00:50:00+03:00",
           "title": "Моё сердце с тобой.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "start": "2026-07-27T00:50:00+03:00",
+          "stop": "2026-07-27T02:05:00+03:00",
+          "title": "Батя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T02:05:00+03:00",
+          "stop": "2026-07-27T03:30:00+03:00",
+          "title": "Садовник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T03:30:00+03:00",
+          "stop": "2026-07-27T04:45:00+03:00",
+          "title": "Сирота казанская.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T04:45:00+03:00",
+          "stop": "2026-07-27T05:45:00+03:00",
+          "title": "Счастье можно дарить.",
           "description": "L",
           "category": null
         }

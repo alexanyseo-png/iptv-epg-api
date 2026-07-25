@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
+  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "start": "2026-07-24T00:00:00+03:00",
-          "stop": "2026-07-24T01:45:00+03:00",
-          "title": "Купи меня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T01:45:00+03:00",
-          "stop": "2026-07-24T03:10:00+03:00",
-          "title": "Дождливый день в Нью-Йорке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T03:10:00+03:00",
-          "stop": "2026-07-24T05:10:00+03:00",
-          "title": "Легенда о пианисте.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T05:10:00+03:00",
-          "stop": "2026-07-24T07:00:00+03:00",
-          "title": "Лев.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T07:00:00+03:00",
-          "stop": "2026-07-24T08:45:00+03:00",
-          "title": "Игрушка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T08:45:00+03:00",
-          "stop": "2026-07-24T10:20:00+03:00",
-          "title": "Такси.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T10:20:00+03:00",
-          "stop": "2026-07-24T11:55:00+03:00",
-          "title": "Такси 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T11:55:00+03:00",
-          "stop": "2026-07-24T13:25:00+03:00",
-          "title": "Такси 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T13:25:00+03:00",
-          "stop": "2026-07-24T15:00:00+03:00",
-          "title": "Такси 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T15:00:00+03:00",
-          "stop": "2026-07-24T16:50:00+03:00",
-          "title": "Такси 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T16:50:00+03:00",
-          "stop": "2026-07-24T18:50:00+03:00",
-          "title": "1+1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T18:50:00+03:00",
-          "stop": "2026-07-24T20:50:00+03:00",
-          "title": "Астерикс и Обеликс против Цезаря.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T20:50:00+03:00",
-          "stop": "2026-07-24T22:50:00+03:00",
-          "title": "Астерикс и Обеликс: Миссия Клеопатра.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T22:50:00+03:00",
-          "stop": "2026-07-25T01:00:00+03:00",
-          "title": "Астерикс на Олимпийских играх.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-25",
       "programs": [
@@ -191,7 +88,7 @@
         {
           "start": "2026-07-25T19:25:00+03:00",
           "stop": "2026-07-25T21:45:00+03:00",
-          "title": "Зелёная книга.",
+          "title": "Зеленая книга.",
           "description": "L",
           "category": null
         },
@@ -295,6 +192,32 @@
           "start": "2026-07-26T23:40:00+03:00",
           "stop": "2026-07-27T01:30:00+03:00",
           "title": "Иллюзионист.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "start": "2026-07-27T01:30:00+03:00",
+          "stop": "2026-07-27T03:20:00+03:00",
+          "title": "Пороховой коктейль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T03:20:00+03:00",
+          "stop": "2026-07-27T05:10:00+03:00",
+          "title": "Мементо.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T05:10:00+03:00",
+          "stop": "2026-07-27T06:10:00+03:00",
+          "title": "Капитан Фантастик.",
           "description": "L",
           "category": null
         }

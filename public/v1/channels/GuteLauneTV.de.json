@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
+  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "start": "2026-07-24T00:00:00+03:00",
-          "stop": "2026-07-24T02:00:00+03:00",
-          "title": "Schlager fürs Herz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T02:00:00+03:00",
-          "stop": "2026-07-24T05:00:00+03:00",
-          "title": "Melodien für Sie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T05:00:00+03:00",
-          "stop": "2026-07-24T06:00:00+03:00",
-          "title": "Schlager-Express.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T06:00:00+03:00",
-          "stop": "2026-07-24T11:00:00+03:00",
-          "title": "Ohrwürmer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T11:00:00+03:00",
-          "stop": "2026-07-24T14:00:00+03:00",
-          "title": "Schlager aktuell!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T14:00:00+03:00",
-          "stop": "2026-07-24T17:00:00+03:00",
-          "title": "Melodien für Sie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T17:00:00+03:00",
-          "stop": "2026-07-24T20:00:00+03:00",
-          "title": "Schmankerl der Volksmusik.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T20:00:00+03:00",
-          "stop": "2026-07-24T22:00:00+03:00",
-          "title": "Schlager aktuell!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T22:00:00+03:00",
-          "stop": "2026-07-24T23:00:00+03:00",
-          "title": "Schlager-Express.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T23:00:00+03:00",
-          "stop": "2026-07-25T00:00:00+03:00",
-          "title": "Zwischentöne.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-25",
       "programs": [
@@ -253,6 +178,32 @@
           "start": "2026-07-26T23:00:00+03:00",
           "stop": "2026-07-27T00:00:00+03:00",
           "title": "Zwischentöne.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "start": "2026-07-27T00:00:00+03:00",
+          "stop": "2026-07-27T02:00:00+03:00",
+          "title": "Schlager fürs Herz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T02:00:00+03:00",
+          "stop": "2026-07-27T05:00:00+03:00",
+          "title": "Melodien für Sie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T05:00:00+03:00",
+          "stop": "2026-07-27T06:00:00+03:00",
+          "title": "Schlager-Express.",
           "description": "L",
           "category": null
         }

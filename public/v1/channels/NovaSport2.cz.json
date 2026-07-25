@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-24T03:45:56.696593+00:00",
+  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-07-24",
-      "programs": [
-        {
-          "start": "2026-07-24T01:00:00+03:00",
-          "stop": "2026-07-24T04:00:00+03:00",
-          "title": "KSW 120: Haratyk vs. Leśko",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T04:00:00+03:00",
-          "stop": "2026-07-24T04:30:00+03:00",
-          "title": "The Gralloch",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T04:30:00+03:00",
-          "stop": "2026-07-24T08:00:00+03:00",
-          "title": "Red Star FC – Le Mans FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T08:00:00+03:00",
-          "stop": "2026-07-24T10:30:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T10:30:00+03:00",
-          "stop": "2026-07-24T12:15:00+03:00",
-          "title": "Rytas Vilnius – Promitheas Patras Vikos Cola",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T12:15:00+03:00",
-          "stop": "2026-07-24T14:00:00+03:00",
-          "title": "Cholet Basket – Hapoel Netanel Holon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T14:00:00+03:00",
-          "stop": "2026-07-24T16:00:00+03:00",
-          "title": "JAR – Wales",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T16:00:00+03:00",
-          "stop": "2026-07-24T19:00:00+03:00",
-          "title": "KSW 120: Haratyk vs. Leśko",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T19:00:00+03:00",
-          "stop": "2026-07-24T19:30:00+03:00",
-          "title": "Magazín Muaythai (2)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T19:30:00+03:00",
-          "stop": "2026-07-24T22:00:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-24T22:00:00+03:00",
-          "stop": "2026-07-25T01:00:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-25",
       "programs": [
@@ -281,6 +199,53 @@
           "start": "2026-07-26T22:00:00+03:00",
           "stop": "2026-07-27T00:00:00+03:00",
           "title": "World Matchplay Darts 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-27",
+      "programs": [
+        {
+          "start": "2026-07-27T00:00:00+03:00",
+          "stop": "2026-07-27T02:30:00+03:00",
+          "title": "Women's World Matchplay Darts 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T02:30:00+03:00",
+          "stop": "2026-07-27T03:00:00+03:00",
+          "title": "Golden Roof Challenge",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T03:00:00+03:00",
+          "stop": "2026-07-27T04:45:00+03:00",
+          "title": "ES Troyes – USL Dunkerque",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T04:45:00+03:00",
+          "stop": "2026-07-27T08:00:00+03:00",
+          "title": "Montpellier HSC – ES Troyes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T08:00:00+03:00",
+          "stop": "2026-07-27T09:30:00+03:00",
+          "title": "World Matchplay Darts 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T09:30:00+03:00",
+          "stop": "2026-07-27T12:00:00+03:00",
+          "title": "Women's World Matchplay Darts 2026",
           "description": "L",
           "category": null
         }
