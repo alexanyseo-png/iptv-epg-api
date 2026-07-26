@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
+  "generatedAt": "2026-07-26T03:57:23.894753+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-07-25",
-      "programs": [
-        {
-          "start": "2026-07-25T00:00:00+03:00",
-          "stop": "2026-07-26T00:00:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-26",
       "programs": [
@@ -302,6 +290,41 @@
           "start": "2026-07-27T10:00:00+03:00",
           "stop": "2026-07-27T11:00:00+03:00",
           "title": "Haber 10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T11:00:00+03:00",
+          "stop": "2026-07-27T12:00:00+03:00",
+          "title": "Haber 11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T12:00:00+03:00",
+          "stop": "2026-07-27T13:00:00+03:00",
+          "title": "Haber 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T13:00:00+03:00",
+          "stop": "2026-07-27T13:55:00+03:00",
+          "title": "Haber 13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T13:55:00+03:00",
+          "stop": "2026-07-27T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T14:00:00+03:00",
+          "stop": "2026-07-27T15:00:00+03:00",
+          "title": "Haber 14",
           "description": "L",
           "category": null
         }

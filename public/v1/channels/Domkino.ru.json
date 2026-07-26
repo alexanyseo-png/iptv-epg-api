@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-25T03:40:37.567351+00:00",
+  "generatedAt": "2026-07-26T03:57:23.894753+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-07-25",
-      "programs": [
-        {
-          "start": "2026-07-25T00:00:00+03:00",
-          "stop": "2026-07-25T01:30:00+03:00",
-          "title": "т/с Последний мент",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T01:30:00+03:00",
-          "stop": "2026-07-25T03:15:00+03:00",
-          "title": "х/ф Духless 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T03:15:00+03:00",
-          "stop": "2026-07-25T05:10:00+03:00",
-          "title": "х/ф Вратарь Галактики",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T05:10:00+03:00",
-          "stop": "2026-07-25T06:10:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T06:10:00+03:00",
-          "stop": "2026-07-25T07:40:00+03:00",
-          "title": "м/ф Большое путешествие. Вокруг света",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T07:40:00+03:00",
-          "stop": "2026-07-25T09:20:00+03:00",
-          "title": "м/ф Три богатыря и Пуп Земли",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T09:20:00+03:00",
-          "stop": "2026-07-25T11:00:00+03:00",
-          "title": "х/ф На солнце, вдоль рядов кукурузы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T11:00:00+03:00",
-          "stop": "2026-07-25T15:00:00+03:00",
-          "title": "т/с Грозовые ворота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T15:00:00+03:00",
-          "stop": "2026-07-25T22:10:00+03:00",
-          "title": "т/с Спецназ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-25T22:10:00+03:00",
-          "stop": "2026-07-26T00:25:00+03:00",
-          "title": "х/ф Экипаж",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-26",
       "programs": [
@@ -232,6 +157,20 @@
           "start": "2026-07-27T09:20:00+03:00",
           "stop": "2026-07-27T12:20:00+03:00",
           "title": "т/с Участок",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T12:20:00+03:00",
+          "stop": "2026-07-27T14:10:00+03:00",
+          "title": "т/с Дальнобойщики",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T14:10:00+03:00",
+          "stop": "2026-07-27T21:30:00+03:00",
+          "title": "т/с Ментовские войны",
           "description": "L",
           "category": null
         }
