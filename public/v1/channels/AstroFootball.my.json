@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-26T03:57:23.894753+00:00",
+  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-07-26",
-      "programs": [
-        {
-          "start": "2026-07-26T01:00:00+03:00",
-          "stop": "2026-07-26T03:00:00+03:00",
-          "title": "Dutch: Ajax vs GA Eagles",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T03:00:00+03:00",
-          "stop": "2026-07-26T05:00:00+03:00",
-          "title": "Dutch: Fortuna vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T05:00:00+03:00",
-          "stop": "2026-07-26T07:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Sparta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T07:00:00+03:00",
-          "stop": "2026-07-26T09:00:00+03:00",
-          "title": "Serie A: Como vs Bologna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T09:00:00+03:00",
-          "stop": "2026-07-26T11:00:00+03:00",
-          "title": "Serie A: Udinese vs Pisa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T11:00:00+03:00",
-          "stop": "2026-07-26T13:00:00+03:00",
-          "title": "Serie A: Roma vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T13:00:00+03:00",
-          "stop": "2026-07-26T15:00:00+03:00",
-          "title": "Serie A: Atalanta vs Torino",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T15:00:00+03:00",
-          "stop": "2026-07-26T17:00:00+03:00",
-          "title": "Serie A: Verona vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T17:00:00+03:00",
-          "stop": "2026-07-26T19:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Milan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T19:00:00+03:00",
-          "stop": "2026-07-26T21:00:00+03:00",
-          "title": "Serie A: Juventus vs Cremonese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T21:00:00+03:00",
-          "stop": "2026-07-26T23:00:00+03:00",
-          "title": "Serie A: Inter vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T23:00:00+03:00",
-          "stop": "2026-07-27T01:00:00+03:00",
-          "title": "Serie A: Lecce vs Parma",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-27",
       "programs": [
@@ -150,6 +61,20 @@
           "start": "2026-07-27T13:00:00+03:00",
           "stop": "2026-07-27T15:00:00+03:00",
           "title": "Serie A: Bologna vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T15:00:00+03:00",
+          "stop": "2026-07-27T17:00:00+03:00",
+          "title": "Serie A: Parma vs Genoa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T17:00:00+03:00",
+          "stop": "2026-07-27T19:00:00+03:00",
+          "title": "Serie A: Pisa vs Atalanta",
           "description": "L",
           "category": null
         }

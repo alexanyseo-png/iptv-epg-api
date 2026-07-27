@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-26T03:57:23.894753+00:00",
+  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-07-26",
-      "programs": [
-        {
-          "start": "2026-07-26T01:00:00+03:00",
-          "stop": "2026-07-26T05:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T05:00:00+03:00",
-          "stop": "2026-07-26T09:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T09:00:00+03:00",
-          "stop": "2026-07-26T13:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T13:00:00+03:00",
-          "stop": "2026-07-26T17:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T17:00:00+03:00",
-          "stop": "2026-07-26T21:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T21:00:00+03:00",
-          "stop": "2026-07-27T01:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-27",
       "programs": [
@@ -86,6 +39,13 @@
         {
           "start": "2026-07-27T13:00:00+03:00",
           "stop": "2026-07-27T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T17:00:00+03:00",
+          "stop": "2026-07-27T21:00:00+03:00",
           "title": "Real Madrid TV",
           "description": "L",
           "category": null

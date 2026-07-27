@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-26T03:57:23.894753+00:00",
+  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-07-26",
-      "programs": [
-        {
-          "start": "2026-07-26T00:40:00+03:00",
-          "stop": "2026-07-26T02:25:00+03:00",
-          "title": "VfL Bochum – SV Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T02:25:00+03:00",
-          "stop": "2026-07-26T08:00:00+03:00",
-          "title": "1. FC Norimberk – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T08:00:00+03:00",
-          "stop": "2026-07-26T09:50:00+03:00",
-          "title": "Hamburger SV – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T09:50:00+03:00",
-          "stop": "2026-07-26T11:40:00+03:00",
-          "title": "VfB Stuttgart – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T11:40:00+03:00",
-          "stop": "2026-07-26T13:30:00+03:00",
-          "title": "Arminia Bielefeld – Holstein Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T13:30:00+03:00",
-          "stop": "2026-07-26T15:20:00+03:00",
-          "title": "Schalke 04 – 1. FC Kaiserslautern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T15:20:00+03:00",
-          "stop": "2026-07-26T17:10:00+03:00",
-          "title": "Karlsruher SC – Hertha BSC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T17:10:00+03:00",
-          "stop": "2026-07-26T19:10:00+03:00",
-          "title": "Borussia Dortmund – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T19:10:00+03:00",
-          "stop": "2026-07-26T21:00:00+03:00",
-          "title": "Bayer Leverkusen – FC Augsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T21:00:00+03:00",
-          "stop": "2026-07-26T22:50:00+03:00",
-          "title": "1. FC Köln – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-26T22:50:00+03:00",
-          "stop": "2026-07-27T00:40:00+03:00",
-          "title": "FC St. Pauli – 1. FSV Mainz 05",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-27",
       "programs": [
@@ -136,6 +54,20 @@
           "start": "2026-07-27T13:20:00+03:00",
           "stop": "2026-07-27T15:05:00+03:00",
           "title": "SC Paderborn – 1. FC Kaiserslautern",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T15:05:00+03:00",
+          "stop": "2026-07-27T16:50:00+03:00",
+          "title": "VfL Bochum – Fortuna Düsseldorf",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-27T16:50:00+03:00",
+          "stop": "2026-07-27T18:30:00+03:00",
+          "title": "Bayer Leverkusen – RB Lipsko",
           "description": "L",
           "category": null
         }
