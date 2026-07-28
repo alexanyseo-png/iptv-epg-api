@@ -8,17 +8,83 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
+  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 9,
   "days": [
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "programs": [
         {
-          "start": "2026-07-27T11:00:00+03:00",
-          "stop": "2026-07-27T19:00:00+03:00",
+          "start": "2026-07-28T11:00:00+03:00",
+          "stop": "2026-07-28T19:00:00+03:00",
           "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T19:00:00+03:00",
+          "stop": "2026-07-28T22:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T22:00:00+03:00",
+          "stop": "2026-07-29T11:00:00+03:00",
+          "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "programs": [
+        {
+          "start": "2026-07-29T11:00:00+03:00",
+          "stop": "2026-07-29T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T19:00:00+03:00",
+          "stop": "2026-07-29T22:00:00+03:00",
+          "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T22:00:00+03:00",
+          "stop": "2026-07-30T11:00:00+03:00",
+          "title": "Formula 1: Unkarin GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "programs": [
+        {
+          "start": "2026-07-30T11:00:00+03:00",
+          "stop": "2026-07-30T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T19:00:00+03:00",
+          "stop": "2026-07-30T22:00:00+03:00",
+          "title": "Formula 1: Unkarin GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T22:00:00+03:00",
+          "stop": "2026-07-31T11:00:00+03:00",
+          "title": "Ei lähetystä",
           "description": "L",
           "category": null
         }

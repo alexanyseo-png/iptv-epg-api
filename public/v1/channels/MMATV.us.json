@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
+  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-07-27",
-      "programs": [
-        {
-          "start": "2026-07-27T00:05:00+03:00",
-          "stop": "2026-07-27T01:45:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T01:45:00+03:00",
-          "stop": "2026-07-27T04:00:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T04:00:00+03:00",
-          "stop": "2026-07-27T07:40:00+03:00",
-          "title": "MMA Series. Топ бойцов полулёгкого веса. Н.Бархатов, И.Фигейра, И.Сырбу-Соловьёв.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T07:40:00+03:00",
-          "stop": "2026-07-27T08:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (157-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T08:00:00+03:00",
-          "stop": "2026-07-27T12:05:00+03:00",
-          "title": "MMA Series Names (А. Сантос).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T12:05:00+03:00",
-          "stop": "2026-07-27T16:00:00+03:00",
-          "title": "MMA Series. Вечер нокаутов: Б.Гуськов, В.Колесник, В.Скотников.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T16:00:00+03:00",
-          "stop": "2026-07-27T19:45:00+03:00",
-          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T19:45:00+03:00",
-          "stop": "2026-07-27T20:15:00+03:00",
-          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T20:15:00+03:00",
-          "stop": "2026-07-27T21:45:00+03:00",
-          "title": "MMA Series Phygital. Е.Мякинкин, М.Викторов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T21:45:00+03:00",
-          "stop": "2026-07-27T23:45:00+03:00",
-          "title": "MMA Series Names (М.Викторов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T23:45:00+03:00",
-          "stop": "2026-07-28T00:05:00+03:00",
-          "title": "Территория ММА-ТВ.ком (157-я серия).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-28",
       "programs": [
@@ -106,8 +24,263 @@
         },
         {
           "start": "2026-07-28T01:35:00+03:00",
-          "stop": "2026-07-28T02:35:00+03:00",
+          "stop": "2026-07-28T03:40:00+03:00",
           "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T03:40:00+03:00",
+          "stop": "2026-07-28T04:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T04:00:00+03:00",
+          "stop": "2026-07-28T07:40:00+03:00",
+          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T07:40:00+03:00",
+          "stop": "2026-07-28T08:05:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T08:05:00+03:00",
+          "stop": "2026-07-28T12:00:00+03:00",
+          "title": "MMA Series. Вечер нокаутов: Б.Гуськов, В.Колесник, В.Скотников.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T12:00:00+03:00",
+          "stop": "2026-07-28T13:30:00+03:00",
+          "title": "MMA Series Phygital. Е.Мякинкин, М.Викторов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T13:30:00+03:00",
+          "stop": "2026-07-28T15:40:00+03:00",
+          "title": "MMA Series Names (М.Викторов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T15:40:00+03:00",
+          "stop": "2026-07-28T16:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T16:00:00+03:00",
+          "stop": "2026-07-28T19:35:00+03:00",
+          "title": "MMA Series. Топ бойцов полулёгкого веса. Н.Бархатов, И.Фигейра, И.Сырбу-Соловьёв.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T19:35:00+03:00",
+          "stop": "2026-07-28T20:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T20:00:00+03:00",
+          "stop": "2026-07-28T21:25:00+03:00",
+          "title": "MMA Series Names (М. Саидов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T21:25:00+03:00",
+          "stop": "2026-07-29T00:00:00+03:00",
+          "title": "MMA Series Names (Е.Мякинкин, Ш.Исмаилов).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "programs": [
+        {
+          "start": "2026-07-29T00:00:00+03:00",
+          "stop": "2026-07-29T01:40:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T01:40:00+03:00",
+          "stop": "2026-07-29T04:05:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T04:05:00+03:00",
+          "stop": "2026-07-29T05:35:00+03:00",
+          "title": "MMA Series Phygital. Е.Мякинкин, М.Викторов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T05:35:00+03:00",
+          "stop": "2026-07-29T07:40:00+03:00",
+          "title": "MMA Series Names (М.Викторов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T07:40:00+03:00",
+          "stop": "2026-07-29T08:05:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:05:00+03:00",
+          "stop": "2026-07-29T11:35:00+03:00",
+          "title": "MMA Series. Топ бойцов полулёгкого веса. Н.Бархатов, И.Фигейра, И.Сырбу-Соловьёв.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T11:35:00+03:00",
+          "stop": "2026-07-29T12:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T12:00:00+03:00",
+          "stop": "2026-07-29T13:25:00+03:00",
+          "title": "MMA Series Names (М. Саидов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T13:25:00+03:00",
+          "stop": "2026-07-29T16:00:00+03:00",
+          "title": "MMA Series Names (Е.Мякинкин, Ш.Исмаилов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T16:00:00+03:00",
+          "stop": "2026-07-29T20:05:00+03:00",
+          "title": "MMA Series Names (А. Сантос).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T20:05:00+03:00",
+          "stop": "2026-07-29T23:40:00+03:00",
+          "title": "MMA Series. Вечер нокаутов: И.Харитонов, Я.Екимов, Д.Гонсалвес.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T23:40:00+03:00",
+          "stop": "2026-07-30T00:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "programs": [
+        {
+          "start": "2026-07-30T00:00:00+03:00",
+          "stop": "2026-07-30T01:35:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T01:35:00+03:00",
+          "stop": "2026-07-30T03:35:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T03:35:00+03:00",
+          "stop": "2026-07-30T04:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T04:00:00+03:00",
+          "stop": "2026-07-30T05:20:00+03:00",
+          "title": "MMA Series Names (М. Саидов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T05:20:00+03:00",
+          "stop": "2026-07-30T07:50:00+03:00",
+          "title": "MMA Series Names (Е.Мякинкин, Ш.Исмаилов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T07:50:00+03:00",
+          "stop": "2026-07-30T11:35:00+03:00",
+          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T11:35:00+03:00",
+          "stop": "2026-07-30T12:05:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T12:05:00+03:00",
+          "stop": "2026-07-30T15:40:00+03:00",
+          "title": "MMA Series. Вечер нокаутов: И.Харитонов, Я.Екимов, Д.Гонсалвес.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:40:00+03:00",
+          "stop": "2026-07-30T16:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (157-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T16:00:00+03:00",
+          "stop": "2026-07-30T18:15:00+03:00",
+          "title": "MMA Series Phygital. Р.Меджидов, И.Варварский, В.Клюев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T18:15:00+03:00",
+          "stop": "2026-07-30T20:00:00+03:00",
+          "title": "ММА Series Classic. М.Вологдин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T20:00:00+03:00",
+          "stop": "2026-07-31T00:00:00+03:00",
+          "title": "MMA Series. Топ бойцов полусреднего веса. С.Бобрышев, В.Руденко, Д.Засинец.",
           "description": "L",
           "category": null
         }

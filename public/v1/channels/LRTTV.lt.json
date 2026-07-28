@@ -8,227 +8,916 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-27T04:04:33.859312+00:00",
+  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 128,
   "days": [
     {
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "programs": [
         {
-          "start": "2026-07-27T00:00:00+03:00",
-          "stop": "2026-07-27T01:45:00+03:00",
-          "title": "Mačetė (orig. Machete)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T01:45:00+03:00",
-          "stop": "2026-07-27T03:15:00+03:00",
-          "title": "Įsimylėję gyvenimą (orig. Une vie démente)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T03:15:00+03:00",
-          "stop": "2026-07-27T04:15:00+03:00",
-          "title": "Ridlio kelias (orig. Ridley Road) E2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T04:15:00+03:00",
-          "stop": "2026-07-27T05:25:00+03:00",
-          "title": "Vilnius Jazz 2025 E8",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T05:25:00+03:00",
-          "stop": "2026-07-27T06:00:00+03:00",
-          "title": "60 pavojingiausių gyvūnų (orig. Deadly 60) E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T06:00:00+03:00",
-          "stop": "2026-07-27T06:02:00+03:00",
-          "title": "Lietuvos Respublikos himnas E1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T06:02:00+03:00",
-          "stop": "2026-07-27T06:30:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T06:30:00+03:00",
-          "stop": "2026-07-27T06:40:00+03:00",
-          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E141",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T06:40:00+03:00",
-          "stop": "2026-07-27T07:00:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T07:00:00+03:00",
-          "stop": "2026-07-27T07:07:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 7:00) E141",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T07:07:00+03:00",
-          "stop": "2026-07-27T07:30:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T07:30:00+03:00",
-          "stop": "2026-07-27T07:37:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 7:30) E141",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T07:37:00+03:00",
-          "stop": "2026-07-27T08:00:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T08:00:00+03:00",
-          "stop": "2026-07-27T08:07:00+03:00",
-          "title": "Žinios. Orai (Labas rytas 8:00) E141",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T08:07:00+03:00",
-          "stop": "2026-07-27T08:30:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T08:30:00+03:00",
-          "stop": "2026-07-27T08:40:00+03:00",
-          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E141",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T08:40:00+03:00",
-          "stop": "2026-07-27T09:00:00+03:00",
-          "title": "Labas rytas, Lietuva E145",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T09:00:00+03:00",
-          "stop": "2026-07-27T09:45:00+03:00",
-          "title": "Linco kriminalinė policija (orig. Soko Linz) E13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T09:45:00+03:00",
-          "stop": "2026-07-27T10:35:00+03:00",
-          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T10:35:00+03:00",
-          "stop": "2026-07-27T11:25:00+03:00",
-          "title": "Farai senjorai (orig. Rentnercops) E8",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-27T11:25:00+03:00",
-          "stop": "2026-07-27T12:15:00+03:00",
+          "start": "2026-07-28T00:15:00+03:00",
+          "stop": "2026-07-28T01:00:00+03:00",
           "title": "Daktaras Martinas (orig. Doc Martin) E5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T12:15:00+03:00",
-          "stop": "2026-07-27T12:45:00+03:00",
-          "title": "Spėk ir atspėk E36",
+          "start": "2026-07-28T01:00:00+03:00",
+          "stop": "2026-07-28T01:30:00+03:00",
+          "title": "Jei ne grybai E12",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T12:45:00+03:00",
-          "stop": "2026-07-27T13:15:00+03:00",
-          "title": "Kas ir kodėl? E56",
+          "start": "2026-07-28T01:30:00+03:00",
+          "stop": "2026-07-28T02:00:00+03:00",
+          "title": "Mano pasas meluoja (subtitruota) E10",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T13:15:00+03:00",
-          "stop": "2026-07-27T14:00:00+03:00",
+          "start": "2026-07-28T02:00:00+03:00",
+          "stop": "2026-07-28T02:55:00+03:00",
+          "title": "Vakare su Audrium Giržadu E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T02:55:00+03:00",
+          "stop": "2026-07-28T03:50:00+03:00",
+          "title": "Draugiška Lietuva E5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T03:50:00+03:00",
+          "stop": "2026-07-28T04:45:00+03:00",
+          "title": "Savaitė E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T04:45:00+03:00",
+          "stop": "2026-07-28T05:30:00+03:00",
           "title": "Anthony Bourdainas. Nepažįstami kraštai (orig. Anthony Bourdain. Parts Unknown) E6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T14:00:00+03:00",
-          "stop": "2026-07-27T14:20:00+03:00",
-          "title": "Žinios. Orai (Laba diena 14:00) E141",
+          "start": "2026-07-28T05:30:00+03:00",
+          "stop": "2026-07-28T06:00:00+03:00",
+          "title": "Kalbos ribos E6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T14:20:00+03:00",
-          "stop": "2026-07-27T15:00:00+03:00",
-          "title": "Laba diena, Lietuva E141",
+          "start": "2026-07-28T06:00:00+03:00",
+          "stop": "2026-07-28T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T15:00:00+03:00",
-          "stop": "2026-07-27T15:15:00+03:00",
-          "title": "Žinios. Orai (Laba diena 15:00) E141",
+          "start": "2026-07-28T06:02:00+03:00",
+          "stop": "2026-07-28T06:30:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T15:15:00+03:00",
-          "stop": "2026-07-27T16:00:00+03:00",
-          "title": "Laba diena, Lietuva E141",
+          "start": "2026-07-28T06:30:00+03:00",
+          "stop": "2026-07-28T06:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E142",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T16:00:00+03:00",
-          "stop": "2026-07-27T16:30:00+03:00",
-          "title": "Žinios. Orai (Laba diena 16:00) E141",
+          "start": "2026-07-28T06:40:00+03:00",
+          "stop": "2026-07-28T07:00:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T16:30:00+03:00",
-          "stop": "2026-07-27T17:30:00+03:00",
-          "title": "Pažadas (orig. La promesa) E6",
+          "start": "2026-07-28T07:00:00+03:00",
+          "stop": "2026-07-28T07:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:00) E142",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-27T17:30:00+03:00",
-          "stop": "2026-07-27T18:00:00+03:00",
-          "title": "Spėk ir atspėk E41",
+          "start": "2026-07-28T07:07:00+03:00",
+          "stop": "2026-07-28T07:30:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T07:30:00+03:00",
+          "stop": "2026-07-28T07:37:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:30) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T07:37:00+03:00",
+          "stop": "2026-07-28T08:00:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T08:00:00+03:00",
+          "stop": "2026-07-28T08:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 8:00) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T08:07:00+03:00",
+          "stop": "2026-07-28T08:30:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T08:30:00+03:00",
+          "stop": "2026-07-28T08:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T08:40:00+03:00",
+          "stop": "2026-07-28T09:00:00+03:00",
+          "title": "Labas rytas, Lietuva E146",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T09:00:00+03:00",
+          "stop": "2026-07-28T09:45:00+03:00",
+          "title": "Linco kriminalinė policija (orig. Soko Linz) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T09:45:00+03:00",
+          "stop": "2026-07-28T10:35:00+03:00",
+          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T10:35:00+03:00",
+          "stop": "2026-07-28T11:25:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T11:25:00+03:00",
+          "stop": "2026-07-28T12:15:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T12:15:00+03:00",
+          "stop": "2026-07-28T12:45:00+03:00",
+          "title": "Spėk ir atspėk E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T12:45:00+03:00",
+          "stop": "2026-07-28T13:15:00+03:00",
+          "title": "Kas ir kodėl? E57",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T13:15:00+03:00",
+          "stop": "2026-07-28T14:00:00+03:00",
+          "title": "Anthony Bourdainas. Nepažįstami kraštai (orig. Anthony Bourdain. Parts Unknown) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T14:00:00+03:00",
+          "stop": "2026-07-28T14:20:00+03:00",
+          "title": "Žinios. Orai (Laba diena 14:00) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T14:20:00+03:00",
+          "stop": "2026-07-28T15:00:00+03:00",
+          "title": "Laba diena, Lietuva E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T15:00:00+03:00",
+          "stop": "2026-07-28T15:15:00+03:00",
+          "title": "Žinios. Orai (Laba diena 15:00) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T15:15:00+03:00",
+          "stop": "2026-07-28T16:00:00+03:00",
+          "title": "Laba diena, Lietuva E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T16:00:00+03:00",
+          "stop": "2026-07-28T16:30:00+03:00",
+          "title": "Žinios. Orai (Laba diena 16:00) E142",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T16:30:00+03:00",
+          "stop": "2026-07-28T17:30:00+03:00",
+          "title": "Pažadas (orig. La promesa) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T17:30:00+03:00",
+          "stop": "2026-07-28T18:00:00+03:00",
+          "title": "Spėk ir atspėk E42",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T18:00:00+03:00",
+          "stop": "2026-07-28T18:30:00+03:00",
+          "title": "Kas ir kodėl? E62",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T18:30:00+03:00",
+          "stop": "2026-07-28T19:30:00+03:00",
+          "title": "Svarbi valanda E126",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T19:30:00+03:00",
+          "stop": "2026-07-28T20:30:00+03:00",
+          "title": "Pionieriai E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T20:30:00+03:00",
+          "stop": "2026-07-28T21:00:00+03:00",
+          "title": "Panorama E160",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T21:00:00+03:00",
+          "stop": "2026-07-28T21:20:00+03:00",
+          "title": "Dienos tema E101",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T21:20:00+03:00",
+          "stop": "2026-07-28T21:30:00+03:00",
+          "title": "Sportas. Orai (Panorama) E160",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T21:30:00+03:00",
+          "stop": "2026-07-28T22:30:00+03:00",
+          "title": "Sindromas E (orig. Syndrome E) E6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T22:30:00+03:00",
+          "stop": "2026-07-28T23:20:00+03:00",
+          "title": "Fargo E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-28T23:20:00+03:00",
+          "stop": "2026-07-29T00:10:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E8",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-29",
+      "programs": [
+        {
+          "start": "2026-07-29T00:10:00+03:00",
+          "stop": "2026-07-29T01:00:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T01:00:00+03:00",
+          "stop": "2026-07-29T01:30:00+03:00",
+          "title": "Šviesos spinduliai E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T01:30:00+03:00",
+          "stop": "2026-07-29T02:00:00+03:00",
+          "title": "Išaušus dienai X E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T02:00:00+03:00",
+          "stop": "2026-07-29T02:55:00+03:00",
+          "title": "Vakare su Audrium Giržadu E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T02:55:00+03:00",
+          "stop": "2026-07-29T03:50:00+03:00",
+          "title": "Pionieriai E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T03:50:00+03:00",
+          "stop": "2026-07-29T04:45:00+03:00",
+          "title": "Pasaulis lietuvių akimis E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T04:45:00+03:00",
+          "stop": "2026-07-29T05:30:00+03:00",
+          "title": "Anthony Bourdainas. Nepažįstami kraštai (orig. Anthony Bourdain. Parts Unknown) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T05:30:00+03:00",
+          "stop": "2026-07-29T06:00:00+03:00",
+          "title": "Kalbos ribos E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T06:00:00+03:00",
+          "stop": "2026-07-29T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T06:02:00+03:00",
+          "stop": "2026-07-29T06:30:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T06:30:00+03:00",
+          "stop": "2026-07-29T06:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T06:40:00+03:00",
+          "stop": "2026-07-29T07:00:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T07:00:00+03:00",
+          "stop": "2026-07-29T07:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:00) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T07:07:00+03:00",
+          "stop": "2026-07-29T07:30:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T07:30:00+03:00",
+          "stop": "2026-07-29T07:37:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:30) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T07:37:00+03:00",
+          "stop": "2026-07-29T08:00:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:00:00+03:00",
+          "stop": "2026-07-29T08:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 8:00) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:07:00+03:00",
+          "stop": "2026-07-29T08:30:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:30:00+03:00",
+          "stop": "2026-07-29T08:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:40:00+03:00",
+          "stop": "2026-07-29T09:00:00+03:00",
+          "title": "Labas rytas, Lietuva E147",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T09:00:00+03:00",
+          "stop": "2026-07-29T09:45:00+03:00",
+          "title": "Linco kriminalinė policija (orig. Soko Linz) E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T09:45:00+03:00",
+          "stop": "2026-07-29T10:35:00+03:00",
+          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T10:35:00+03:00",
+          "stop": "2026-07-29T11:25:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T11:25:00+03:00",
+          "stop": "2026-07-29T12:15:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T12:15:00+03:00",
+          "stop": "2026-07-29T12:45:00+03:00",
+          "title": "Spėk ir atspėk E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T12:45:00+03:00",
+          "stop": "2026-07-29T13:15:00+03:00",
+          "title": "Kas ir kodėl? E58",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T13:15:00+03:00",
+          "stop": "2026-07-29T14:00:00+03:00",
+          "title": "Anthony Bourdainas. Nepažįstami kraštai (orig. Anthony Bourdain. Parts Unknown) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T14:00:00+03:00",
+          "stop": "2026-07-29T14:20:00+03:00",
+          "title": "Žinios. Orai (Laba diena 14:00) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T14:20:00+03:00",
+          "stop": "2026-07-29T15:00:00+03:00",
+          "title": "Laba diena, Lietuva E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T15:00:00+03:00",
+          "stop": "2026-07-29T15:15:00+03:00",
+          "title": "Žinios. Orai (Laba diena 15:00) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T15:15:00+03:00",
+          "stop": "2026-07-29T16:00:00+03:00",
+          "title": "Laba diena, Lietuva E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T16:00:00+03:00",
+          "stop": "2026-07-29T16:30:00+03:00",
+          "title": "Žinios. Orai (Laba diena 16:00) E143",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T16:30:00+03:00",
+          "stop": "2026-07-29T17:30:00+03:00",
+          "title": "Pažadas (orig. La promesa) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T17:30:00+03:00",
+          "stop": "2026-07-29T18:00:00+03:00",
+          "title": "Spėk ir atspėk E43",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T18:00:00+03:00",
+          "stop": "2026-07-29T18:30:00+03:00",
+          "title": "Kas ir kodėl? E63",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T18:30:00+03:00",
+          "stop": "2026-07-29T19:30:00+03:00",
+          "title": "Svarbi valanda E127",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T19:30:00+03:00",
+          "stop": "2026-07-29T20:30:00+03:00",
+          "title": "Žinomos nežinomos moterys E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T20:30:00+03:00",
+          "stop": "2026-07-29T21:00:00+03:00",
+          "title": "Panorama E161",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T21:00:00+03:00",
+          "stop": "2026-07-29T21:20:00+03:00",
+          "title": "Dienos tema E102",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T21:20:00+03:00",
+          "stop": "2026-07-29T21:30:00+03:00",
+          "title": "Sportas. Orai (Panorama) E161",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T21:30:00+03:00",
+          "stop": "2026-07-29T22:30:00+03:00",
+          "title": "Paryžiaus policija 1905 (orig. Paris Police 1905) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T22:30:00+03:00",
+          "stop": "2026-07-29T23:20:00+03:00",
+          "title": "Fargo E3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T23:20:00+03:00",
+          "stop": "2026-07-30T00:10:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E9",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "programs": [
+        {
+          "start": "2026-07-30T00:10:00+03:00",
+          "stop": "2026-07-30T01:00:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T01:00:00+03:00",
+          "stop": "2026-07-30T02:00:00+03:00",
+          "title": "Širdyje lietuvis (subtitruota) E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T02:00:00+03:00",
+          "stop": "2026-07-30T02:55:00+03:00",
+          "title": "Vakare su Audrium Giržadu E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T02:55:00+03:00",
+          "stop": "2026-07-30T03:50:00+03:00",
+          "title": "Žinomos nežinomos moterys E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T03:50:00+03:00",
+          "stop": "2026-07-30T04:45:00+03:00",
+          "title": "Gero gyvenimo receptai (subtitruota) E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T04:45:00+03:00",
+          "stop": "2026-07-30T05:30:00+03:00",
+          "title": "Anthony Bourdainas. Nepažįstami kraštai (orig. Anthony Bourdain. Parts Unknown) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T05:30:00+03:00",
+          "stop": "2026-07-30T06:00:00+03:00",
+          "title": "Kalbos ribos E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T06:00:00+03:00",
+          "stop": "2026-07-30T06:02:00+03:00",
+          "title": "Lietuvos Respublikos himnas E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T06:02:00+03:00",
+          "stop": "2026-07-30T06:30:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T06:30:00+03:00",
+          "stop": "2026-07-30T06:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 6:30) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T06:40:00+03:00",
+          "stop": "2026-07-30T07:00:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T07:00:00+03:00",
+          "stop": "2026-07-30T07:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:00) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T07:07:00+03:00",
+          "stop": "2026-07-30T07:30:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T07:30:00+03:00",
+          "stop": "2026-07-30T07:37:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 7:30) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T07:37:00+03:00",
+          "stop": "2026-07-30T08:00:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T08:00:00+03:00",
+          "stop": "2026-07-30T08:07:00+03:00",
+          "title": "Žinios. Orai (Labas rytas 8:00) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T08:07:00+03:00",
+          "stop": "2026-07-30T08:30:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T08:30:00+03:00",
+          "stop": "2026-07-30T08:40:00+03:00",
+          "title": "Žinios. Sportas. Orai (Labas rytas 8:30) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T08:40:00+03:00",
+          "stop": "2026-07-30T09:00:00+03:00",
+          "title": "Labas rytas, Lietuva E148",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T09:00:00+03:00",
+          "stop": "2026-07-30T09:45:00+03:00",
+          "title": "Linco kriminalinė policija (orig. Soko Linz) E3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T09:45:00+03:00",
+          "stop": "2026-07-30T10:35:00+03:00",
+          "title": "Komisarės Šnel bylos (orig. Schnell ermittelt) E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T10:35:00+03:00",
+          "stop": "2026-07-30T11:25:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T11:25:00+03:00",
+          "stop": "2026-07-30T12:15:00+03:00",
+          "title": "Daktaras Martinas (orig. Doc Martin) E8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T12:15:00+03:00",
+          "stop": "2026-07-30T12:45:00+03:00",
+          "title": "Spėk ir atspėk E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T12:45:00+03:00",
+          "stop": "2026-07-30T13:15:00+03:00",
+          "title": "Kas ir kodėl? E59",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T13:15:00+03:00",
+          "stop": "2026-07-30T14:00:00+03:00",
+          "title": "Pasaulio uostamiesčiai (orig. Waterfront Cities of the World) E1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T14:00:00+03:00",
+          "stop": "2026-07-30T14:20:00+03:00",
+          "title": "Žinios. Orai (Laba diena 14:00) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T14:20:00+03:00",
+          "stop": "2026-07-30T15:00:00+03:00",
+          "title": "Laba diena, Lietuva E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:00:00+03:00",
+          "stop": "2026-07-30T15:15:00+03:00",
+          "title": "Žinios. Orai (Laba diena 15:00) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:15:00+03:00",
+          "stop": "2026-07-30T16:00:00+03:00",
+          "title": "Laba diena, Lietuva E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T16:00:00+03:00",
+          "stop": "2026-07-30T16:30:00+03:00",
+          "title": "Žinios. Orai (Laba diena 16:00) E144",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T16:30:00+03:00",
+          "stop": "2026-07-30T17:30:00+03:00",
+          "title": "Pažadas (orig. La promesa) E9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T17:30:00+03:00",
+          "stop": "2026-07-30T18:00:00+03:00",
+          "title": "Spėk ir atspėk E44",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T18:00:00+03:00",
+          "stop": "2026-07-30T18:30:00+03:00",
+          "title": "Kas ir kodėl? E64",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T18:30:00+03:00",
+          "stop": "2026-07-30T19:30:00+03:00",
+          "title": "Svarbi valanda E128",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T19:30:00+03:00",
+          "stop": "2026-07-30T20:30:00+03:00",
+          "title": "Duonos ir žaidimų E7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T20:30:00+03:00",
+          "stop": "2026-07-30T21:00:00+03:00",
+          "title": "Panorama E162",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T21:00:00+03:00",
+          "stop": "2026-07-30T21:20:00+03:00",
+          "title": "Dienos tema E103",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T21:20:00+03:00",
+          "stop": "2026-07-30T21:30:00+03:00",
+          "title": "Sportas. Orai (Panorama) E162",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T21:30:00+03:00",
+          "stop": "2026-07-30T22:30:00+03:00",
+          "title": "Paryžiaus policija 1905 (orig. Paris Police 1905) E2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T22:30:00+03:00",
+          "stop": "2026-07-30T23:20:00+03:00",
+          "title": "Fargo E4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T23:20:00+03:00",
+          "stop": "2026-07-31T00:10:00+03:00",
+          "title": "Farai senjorai (orig. Rentnercops) E10",
           "description": "L",
           "category": null
         }
