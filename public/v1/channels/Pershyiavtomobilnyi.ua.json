@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
+  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-07-28",
-      "programs": [
-        {
-          "start": "2026-07-28T07:00:00+03:00",
-          "stop": "2026-07-28T09:00:00+03:00",
-          "title": "Авто року 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T09:00:00+03:00",
-          "stop": "2026-07-28T11:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T11:00:00+03:00",
-          "stop": "2026-07-28T12:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T12:00:00+03:00",
-          "stop": "2026-07-28T13:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T13:00:00+03:00",
-          "stop": "2026-07-28T16:00:00+03:00",
-          "title": "Автоподія",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T16:00:00+03:00",
-          "stop": "2026-07-28T17:00:00+03:00",
-          "title": "Як працюють машини",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T17:00:00+03:00",
-          "stop": "2026-07-28T18:00:00+03:00",
-          "title": "Адреналін Драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T18:00:00+03:00",
-          "stop": "2026-07-28T19:00:00+03:00",
-          "title": "Автоподія",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T19:00:00+03:00",
-          "stop": "2026-07-28T20:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T20:00:00+03:00",
-          "stop": "2026-07-28T21:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T21:00:00+03:00",
-          "stop": "2026-07-28T23:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T23:00:00+03:00",
-          "stop": "2026-07-29T07:00:00+03:00",
-          "title": "Історії автомобілів",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-29",
       "programs": [
@@ -281,6 +192,88 @@
           "start": "2026-07-30T23:00:00+03:00",
           "stop": "2026-07-31T07:00:00+03:00",
           "title": "Історії автомобілів",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "programs": [
+        {
+          "start": "2026-07-31T07:00:00+03:00",
+          "stop": "2026-07-31T09:00:00+03:00",
+          "title": "Автоподія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T09:00:00+03:00",
+          "stop": "2026-07-31T11:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T11:00:00+03:00",
+          "stop": "2026-07-31T12:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T12:00:00+03:00",
+          "stop": "2026-07-31T13:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T13:00:00+03:00",
+          "stop": "2026-07-31T14:00:00+03:00",
+          "title": "ByCar батл",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T14:00:00+03:00",
+          "stop": "2026-07-31T17:00:00+03:00",
+          "title": "Авто року 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T17:00:00+03:00",
+          "stop": "2026-07-31T19:00:00+03:00",
+          "title": "Автоподія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T19:00:00+03:00",
+          "stop": "2026-07-31T20:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T20:00:00+03:00",
+          "stop": "2026-07-31T21:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T21:00:00+03:00",
+          "stop": "2026-07-31T23:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T23:00:00+03:00",
+          "stop": "2026-08-01T08:30:00+03:00",
+          "title": "Як працюють машини",
           "description": "L",
           "category": null
         }

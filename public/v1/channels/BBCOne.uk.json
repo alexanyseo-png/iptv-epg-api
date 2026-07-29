@@ -8,8 +8,584 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "available": true,
+  "programmeCount": 80,
+  "days": [
+    {
+      "date": "2026-07-29",
+      "programs": [
+        {
+          "start": "2026-07-29T00:00:00+03:00",
+          "stop": "2026-07-29T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T00:30:00+03:00",
+          "stop": "2026-07-29T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T00:40:00+03:00",
+          "stop": "2026-07-29T02:30:00+03:00",
+          "title": "Film: Blinded By the Light.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T02:30:00+03:00",
+          "stop": "2026-07-29T02:35:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T02:35:00+03:00",
+          "stop": "2026-07-29T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T08:00:00+03:00",
+          "stop": "2026-07-29T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T11:30:00+03:00",
+          "stop": "2026-07-29T12:15:00+03:00",
+          "title": "Animal Park. \"Summer 2025\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T12:15:00+03:00",
+          "stop": "2026-07-29T12:45:00+03:00",
+          "title": "Trace, Track, Get My Car Back.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T12:45:00+03:00",
+          "stop": "2026-07-29T13:15:00+03:00",
+          "title": "Expert Witness.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T13:15:00+03:00",
+          "stop": "2026-07-29T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T14:15:00+03:00",
+          "stop": "2026-07-29T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Kingston 30\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T15:00:00+03:00",
+          "stop": "2026-07-29T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T15:35:00+03:00",
+          "stop": "2026-07-29T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T15:45:00+03:00",
+          "stop": "2026-07-29T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T16:00:00+03:00",
+          "stop": "2026-07-29T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T16:45:00+03:00",
+          "stop": "2026-07-29T17:45:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T17:45:00+03:00",
+          "stop": "2026-07-29T18:30:00+03:00",
+          "title": "The Bidding Room.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T18:30:00+03:00",
+          "stop": "2026-07-29T19:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T19:15:00+03:00",
+          "stop": "2026-07-29T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T20:00:00+03:00",
+          "stop": "2026-07-29T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T20:30:00+03:00",
+          "stop": "2026-07-29T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T21:00:00+03:00",
+          "stop": "2026-07-29T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T21:30:00+03:00",
+          "stop": "2026-07-29T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T22:00:00+03:00",
+          "stop": "2026-07-29T23:00:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-29T23:00:00+03:00",
+          "stop": "2026-07-30T00:00:00+03:00",
+          "title": "Murder 24/7.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "programs": [
+        {
+          "start": "2026-07-30T00:00:00+03:00",
+          "stop": "2026-07-30T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T00:30:00+03:00",
+          "stop": "2026-07-30T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T00:40:00+03:00",
+          "stop": "2026-07-30T02:15:00+03:00",
+          "title": "Film: Eye In the Sky (2015).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T02:15:00+03:00",
+          "stop": "2026-07-30T03:00:00+03:00",
+          "title": "The Hit List.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T03:00:00+03:00",
+          "stop": "2026-07-30T03:05:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T03:05:00+03:00",
+          "stop": "2026-07-30T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T08:00:00+03:00",
+          "stop": "2026-07-30T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T11:30:00+03:00",
+          "stop": "2026-07-30T12:15:00+03:00",
+          "title": "Animal Park. \"Summer 2025\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T12:15:00+03:00",
+          "stop": "2026-07-30T12:45:00+03:00",
+          "title": "Trace, Track, Get My Car Back.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T12:45:00+03:00",
+          "stop": "2026-07-30T13:15:00+03:00",
+          "title": "Expert Witness.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T13:15:00+03:00",
+          "stop": "2026-07-30T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T14:15:00+03:00",
+          "stop": "2026-07-30T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Sandown 14\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:00:00+03:00",
+          "stop": "2026-07-30T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:35:00+03:00",
+          "stop": "2026-07-30T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T15:45:00+03:00",
+          "stop": "2026-07-30T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T16:00:00+03:00",
+          "stop": "2026-07-30T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T16:45:00+03:00",
+          "stop": "2026-07-30T17:45:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T17:45:00+03:00",
+          "stop": "2026-07-30T18:30:00+03:00",
+          "title": "The Bidding Room.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T18:30:00+03:00",
+          "stop": "2026-07-30T19:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T19:15:00+03:00",
+          "stop": "2026-07-30T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T20:00:00+03:00",
+          "stop": "2026-07-30T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T20:30:00+03:00",
+          "stop": "2026-07-30T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T21:00:00+03:00",
+          "stop": "2026-07-30T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T21:30:00+03:00",
+          "stop": "2026-07-30T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T22:00:00+03:00",
+          "stop": "2026-07-30T23:00:00+03:00",
+          "title": "Fake or Fortune? \"The Last Gift\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-30T23:00:00+03:00",
+          "stop": "2026-07-31T00:00:00+03:00",
+          "title": "Who Do You Think You Are?",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "programs": [
+        {
+          "start": "2026-07-31T00:00:00+03:00",
+          "stop": "2026-07-31T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T00:30:00+03:00",
+          "stop": "2026-07-31T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T00:40:00+03:00",
+          "stop": "2026-07-31T01:40:00+03:00",
+          "title": "Murder 24/7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T01:40:00+03:00",
+          "stop": "2026-07-31T02:25:00+03:00",
+          "title": "Murder 24/7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T02:25:00+03:00",
+          "stop": "2026-07-31T02:35:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T02:35:00+03:00",
+          "stop": "2026-07-31T03:20:00+03:00",
+          "title": "Alan Carr's Picture Slam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T03:20:00+03:00",
+          "stop": "2026-07-31T03:25:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T03:25:00+03:00",
+          "stop": "2026-07-31T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T08:00:00+03:00",
+          "stop": "2026-07-31T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T11:30:00+03:00",
+          "stop": "2026-07-31T12:15:00+03:00",
+          "title": "Animal Park. \"Summer 2025\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T12:15:00+03:00",
+          "stop": "2026-07-31T12:45:00+03:00",
+          "title": "Trace, Track, Get My Car Back.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T12:45:00+03:00",
+          "stop": "2026-07-31T13:15:00+03:00",
+          "title": "Expert Witness.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T13:15:00+03:00",
+          "stop": "2026-07-31T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T14:15:00+03:00",
+          "stop": "2026-07-31T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Malvern 30\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:00:00+03:00",
+          "stop": "2026-07-31T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:35:00+03:00",
+          "stop": "2026-07-31T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:45:00+03:00",
+          "stop": "2026-07-31T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T16:00:00+03:00",
+          "stop": "2026-07-31T16:45:00+03:00",
+          "title": "The Hairdresser Mysteries. \"Gym\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T16:45:00+03:00",
+          "stop": "2026-07-31T17:45:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T17:45:00+03:00",
+          "stop": "2026-07-31T18:30:00+03:00",
+          "title": "The Bidding Room.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T18:30:00+03:00",
+          "stop": "2026-07-31T19:15:00+03:00",
+          "title": "The Travelling Auctioneers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T19:15:00+03:00",
+          "stop": "2026-07-31T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T20:00:00+03:00",
+          "stop": "2026-07-31T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T20:30:00+03:00",
+          "stop": "2026-07-31T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T21:00:00+03:00",
+          "stop": "2026-07-31T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T21:30:00+03:00",
+          "stop": "2026-07-31T22:00:00+03:00",
+          "title": "Our Lives: The Last Miner in the Band.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T22:00:00+03:00",
+          "stop": "2026-07-31T23:00:00+03:00",
+          "title": "Granite Harbour.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T23:00:00+03:00",
+          "stop": "2026-07-31T23:30:00+03:00",
+          "title": "Would I Lie to You?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T23:30:00+03:00",
+          "stop": "2026-08-01T00:00:00+03:00",
+          "title": "Ann Droid.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
+  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-07-28",
-      "programs": [
-        {
-          "start": "2026-07-28T02:00:00+03:00",
-          "stop": "2026-07-28T03:00:00+03:00",
-          "title": "⋗ The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T03:00:00+03:00",
-          "stop": "2026-07-28T06:00:00+03:00",
-          "title": "NFL Football «2025 NFC Wild Card: San Francisco 49ers vs. Philadelphia Eagles»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T06:00:00+03:00",
-          "stop": "2026-07-28T07:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T07:00:00+03:00",
-          "stop": "2026-07-28T10:00:00+03:00",
-          "title": "NFL Football «2025 NFC Wild Card: Los Angeles Rams vs. Carolina Panthers»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T10:00:00+03:00",
-          "stop": "2026-07-28T12:30:00+03:00",
-          "title": "NFL Football «2025 AFC Wild Card: Los Angeles Chargers vs. New England Patriots»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T12:30:00+03:00",
-          "stop": "2026-07-28T13:00:00+03:00",
-          "title": "NFL Mic'd Up «Best QB Moments»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T13:00:00+03:00",
-          "stop": "2026-07-28T14:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T14:00:00+03:00",
-          "stop": "2026-07-28T15:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T15:00:00+03:00",
-          "stop": "2026-07-28T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T17:00:00+03:00",
-          "stop": "2026-07-28T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T19:00:00+03:00",
-          "stop": "2026-07-28T21:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T21:00:00+03:00",
-          "stop": "2026-07-28T23:30:00+03:00",
-          "title": "NFL Football «2025 NFC Wild Card: San Francisco 49ers vs. Philadelphia Eagles»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T23:30:00+03:00",
-          "stop": "2026-07-29T02:00:00+03:00",
-          "title": "NFL Football «2025 NFC Wild Card: Los Angeles Rams vs. Carolina Panthers»",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-29",
       "programs": [
@@ -281,6 +185,95 @@
           "start": "2026-07-30T23:30:00+03:00",
           "stop": "2026-07-31T02:00:00+03:00",
           "title": "NFL Football «2025 NFC Divisional: Los Angeles Rams vs. Chicago Bears»",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "programs": [
+        {
+          "start": "2026-07-31T02:00:00+03:00",
+          "stop": "2026-07-31T03:00:00+03:00",
+          "title": "⋗ The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T03:00:00+03:00",
+          "stop": "2026-07-31T06:00:00+03:00",
+          "title": "NFL Football «2025 NFC Championship: Los Angeles Rams vs. Seattle Seahawks»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T06:00:00+03:00",
+          "stop": "2026-07-31T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T07:00:00+03:00",
+          "stop": "2026-07-31T10:00:00+03:00",
+          "title": "NFL Football «2025 AFC Championship: New England Patriots vs. Denver Broncos»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T10:00:00+03:00",
+          "stop": "2026-07-31T13:00:00+03:00",
+          "title": "NFL Football «2025 NFC Championship: Los Angeles Rams vs. Seattle Seahawks»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T13:00:00+03:00",
+          "stop": "2026-07-31T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T14:00:00+03:00",
+          "stop": "2026-07-31T15:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:00:00+03:00",
+          "stop": "2026-07-31T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T17:00:00+03:00",
+          "stop": "2026-07-31T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T19:00:00+03:00",
+          "stop": "2026-07-31T21:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T21:00:00+03:00",
+          "stop": "2026-07-31T23:30:00+03:00",
+          "title": "NFL Football «2025 AFC Championship: New England Patriots vs. Denver Broncos»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T23:30:00+03:00",
+          "stop": "2026-08-01T02:00:00+03:00",
+          "title": "NFL Football «2025 NFC Championship: Los Angeles Rams vs. Seattle Seahawks»",
           "description": "L",
           "category": null
         }

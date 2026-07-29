@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-28T03:38:59.280546+00:00",
+  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-07-28",
-      "programs": [
-        {
-          "start": "2026-07-28T01:00:00+03:00",
-          "stop": "2026-07-28T03:00:00+03:00",
-          "title": "Serie A: Cagliari vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T03:00:00+03:00",
-          "stop": "2026-07-28T05:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Parma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T05:00:00+03:00",
-          "stop": "2026-07-28T07:00:00+03:00",
-          "title": "Serie A: Genoa vs Roma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T07:00:00+03:00",
-          "stop": "2026-07-28T09:00:00+03:00",
-          "title": "Serie A: Juventus vs Pisa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T09:00:00+03:00",
-          "stop": "2026-07-28T11:00:00+03:00",
-          "title": "Serie A: Lecce vs Genoa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T11:00:00+03:00",
-          "stop": "2026-07-28T13:00:00+03:00",
-          "title": "EFL: Stoke City vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T13:00:00+03:00",
-          "stop": "2026-07-28T15:00:00+03:00",
-          "title": "EFL: Coventry vs Preston",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T15:00:00+03:00",
-          "stop": "2026-07-28T17:00:00+03:00",
-          "title": "EFL: Wrexham vs Swansea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T17:00:00+03:00",
-          "stop": "2026-07-28T19:00:00+03:00",
-          "title": "EFL: Coventry vs Southampton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T19:00:00+03:00",
-          "stop": "2026-07-28T21:00:00+03:00",
-          "title": "Dutch: PSV vs NEC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T21:00:00+03:00",
-          "stop": "2026-07-28T23:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Excelsior",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-28T23:00:00+03:00",
-          "stop": "2026-07-29T01:00:00+03:00",
-          "title": "Dutch: Ajax vs Rotterdam",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-29",
       "programs": [
@@ -274,6 +185,102 @@
           "start": "2026-07-30T23:00:00+03:00",
           "stop": "2026-07-31T01:00:00+03:00",
           "title": "Serie A: Verona vs Napoli",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-07-31",
+      "programs": [
+        {
+          "start": "2026-07-31T01:00:00+03:00",
+          "stop": "2026-07-31T03:00:00+03:00",
+          "title": "EFL: Derby vs Swansea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T03:00:00+03:00",
+          "stop": "2026-07-31T05:00:00+03:00",
+          "title": "EFL: Charlton vs QPR",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T05:00:00+03:00",
+          "stop": "2026-07-31T07:00:00+03:00",
+          "title": "Serie A: Como vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T07:00:00+03:00",
+          "stop": "2026-07-31T09:00:00+03:00",
+          "title": "Serie A: Parma vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T09:00:00+03:00",
+          "stop": "2026-07-31T11:00:00+03:00",
+          "title": "Serie A: Pisa vs Bologna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T11:00:00+03:00",
+          "stop": "2026-07-31T13:00:00+03:00",
+          "title": "Serie A: Udinese vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T13:00:00+03:00",
+          "stop": "2026-07-31T15:00:00+03:00",
+          "title": "Serie A: Bologna vs Inter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:00:00+03:00",
+          "stop": "2026-07-31T15:30:00+03:00",
+          "title": "Serie A: Full Impact: Round 36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T15:30:00+03:00",
+          "stop": "2026-07-31T16:00:00+03:00",
+          "title": "EFL 2025/26 – Highlights Show 39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T16:00:00+03:00",
+          "stop": "2026-07-31T18:00:00+03:00",
+          "title": "Dutch: PSV vs Alkmaar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T18:00:00+03:00",
+          "stop": "2026-07-31T20:00:00+03:00",
+          "title": "Dutch: Breda vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T20:00:00+03:00",
+          "stop": "2026-07-31T22:00:00+03:00",
+          "title": "DFB: Bayern vs Leipzig",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-07-31T22:00:00+03:00",
+          "stop": "2026-08-01T00:00:00+03:00",
+          "title": "DFB: Holstein Kiel vs Stuttgart",
           "description": "L",
           "category": null
         }
