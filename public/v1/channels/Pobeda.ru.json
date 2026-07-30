@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T00:10:00+03:00",
-          "stop": "2026-07-29T01:35:00+03:00",
-          "title": "х/ф Чаклун и Румба",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T01:35:00+03:00",
-          "stop": "2026-07-29T03:00:00+03:00",
-          "title": "х/ф Весури",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T03:00:00+03:00",
-          "stop": "2026-07-29T04:30:00+03:00",
-          "title": "х/ф Небесный тихоход",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T04:30:00+03:00",
-          "stop": "2026-07-29T05:25:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:25:00+03:00",
-          "stop": "2026-07-29T07:30:00+03:00",
-          "title": "х/ф Экипаж",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T07:30:00+03:00",
-          "stop": "2026-07-29T14:30:00+03:00",
-          "title": "т/с Лютый",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T14:30:00+03:00",
-          "stop": "2026-07-29T18:30:00+03:00",
-          "title": "т/с Лютый 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T18:30:00+03:00",
-          "stop": "2026-07-29T22:20:00+03:00",
-          "title": "т/с Призрак",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T22:20:00+03:00",
-          "stop": "2026-07-30T00:35:00+03:00",
-          "title": "х/ф Командир",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -197,6 +129,67 @@
           "start": "2026-07-31T22:35:00+03:00",
           "stop": "2026-08-01T01:05:00+03:00",
           "title": "х/ф Чемпион мира",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T01:05:00+03:00",
+          "stop": "2026-08-01T03:00:00+03:00",
+          "title": "х/ф Лев Яшин. Вратарь моей мечты",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T03:00:00+03:00",
+          "stop": "2026-08-01T05:10:00+03:00",
+          "title": "х/ф Благословите женщину",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T05:10:00+03:00",
+          "stop": "2026-08-01T06:55:00+03:00",
+          "title": "х/ф Осенью 41-го",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T06:55:00+03:00",
+          "stop": "2026-08-01T08:50:00+03:00",
+          "title": "х/ф А зори здесь тихие",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T08:50:00+03:00",
+          "stop": "2026-08-01T10:20:00+03:00",
+          "title": "х/ф Аты-баты, шли солдаты",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T10:20:00+03:00",
+          "stop": "2026-08-01T12:00:00+03:00",
+          "title": "х/ф В бой идут одни «cтарики»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T12:00:00+03:00",
+          "stop": "2026-08-01T23:40:00+03:00",
+          "title": "т/с Мурка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T23:40:00+03:00",
+          "stop": "2026-08-02T01:40:00+03:00",
+          "title": "х/ф Водитель для Веры",
           "description": "L",
           "category": null
         }

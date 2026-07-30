@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T00:00:00+03:00",
-          "stop": "2026-07-29T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:00:00+03:00",
-          "stop": "2026-07-29T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T07:00:00+03:00",
-          "stop": "2026-07-29T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T11:00:00+03:00",
-          "stop": "2026-07-29T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T14:00:00+03:00",
-          "stop": "2026-07-29T15:00:00+03:00",
-          "title": "Тема с Алексеем Бобровским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T15:00:00+03:00",
-          "stop": "2026-07-29T18:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T18:00:00+03:00",
-          "stop": "2026-07-29T21:00:00+03:00",
-          "title": "Поле Куликова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T21:00:00+03:00",
-          "stop": "2026-07-29T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T22:00:00+03:00",
-          "stop": "2026-07-29T23:00:00+03:00",
-          "title": "Экономика по-русски",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T23:00:00+03:00",
-          "stop": "2026-07-30T00:00:00+03:00",
-          "title": "Псиоп",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -114,7 +39,7 @@
         {
           "start": "2026-07-30T11:00:00+03:00",
           "stop": "2026-07-30T14:00:00+03:00",
-          "title": "Гаспарян",
+          "title": "Подробнее с Иваном Каменевым",
           "description": "L",
           "category": null
         },
@@ -135,28 +60,28 @@
         {
           "start": "2026-07-30T19:00:00+03:00",
           "stop": "2026-07-30T21:00:00+03:00",
-          "title": "Мардан",
+          "title": "Мардан Live",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-30T21:00:00+03:00",
           "stop": "2026-07-30T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
+          "title": "Newsroom",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-30T22:00:00+03:00",
           "stop": "2026-07-30T23:00:00+03:00",
-          "title": "На войне как на войне",
+          "title": "Бог Есть!",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-30T23:00:00+03:00",
           "stop": "2026-07-31T00:00:00+03:00",
-          "title": "Фейк-контроль",
+          "title": "Вечер Z",
           "description": "L",
           "category": null
         }
@@ -182,26 +107,26 @@
         {
           "start": "2026-07-31T07:00:00+03:00",
           "stop": "2026-07-31T11:00:00+03:00",
-          "title": "Формула смысла",
+          "title": "Тема с Алексеем Бобровским",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-31T11:00:00+03:00",
           "stop": "2026-07-31T14:00:00+03:00",
-          "title": "Гаспарян",
+          "title": "Подробнее с Иваном Каменевым",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-31T14:00:00+03:00",
-          "stop": "2026-07-31T17:00:00+03:00",
-          "title": "Азаренок. Напрямую",
+          "stop": "2026-07-31T16:00:00+03:00",
+          "title": "АК-81",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-07-31T17:00:00+03:00",
+          "start": "2026-07-31T16:00:00+03:00",
           "stop": "2026-07-31T19:00:00+03:00",
           "title": "Лабиринт Карнаухова",
           "description": "L",
@@ -210,21 +135,21 @@
         {
           "start": "2026-07-31T19:00:00+03:00",
           "stop": "2026-07-31T21:00:00+03:00",
-          "title": "Мардан",
+          "title": "Мардан Live",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-31T21:00:00+03:00",
           "stop": "2026-07-31T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
+          "title": "Newsroom",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-07-31T22:00:00+03:00",
           "stop": "2026-07-31T23:00:00+03:00",
-          "title": "Вечер Z",
+          "title": "Диванный штаб",
           "description": "L",
           "category": null
         },
@@ -232,6 +157,95 @@
           "start": "2026-07-31T23:00:00+03:00",
           "stop": "2026-08-01T00:00:00+03:00",
           "title": "Курс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T00:00:00+03:00",
+          "stop": "2026-08-01T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T05:00:00+03:00",
+          "stop": "2026-08-01T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T07:00:00+03:00",
+          "stop": "2026-08-01T11:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T11:00:00+03:00",
+          "stop": "2026-08-01T11:30:00+03:00",
+          "title": "Большая рыба с Гией Саралидзе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T11:30:00+03:00",
+          "stop": "2026-08-01T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T13:00:00+03:00",
+          "stop": "2026-08-01T14:15:00+03:00",
+          "title": "Рассказы из русской истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T14:15:00+03:00",
+          "stop": "2026-08-01T17:00:00+03:00",
+          "title": "Подробнее с Маратом Булатовым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T17:00:00+03:00",
+          "stop": "2026-08-01T17:30:00+03:00",
+          "title": "Опасный бизнес",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T17:30:00+03:00",
+          "stop": "2026-08-01T18:00:00+03:00",
+          "title": "Главный вопрос",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T18:00:00+03:00",
+          "stop": "2026-08-01T20:00:00+03:00",
+          "title": "Между народами с Аббасом Джумой",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T20:00:00+03:00",
+          "stop": "2026-08-01T23:00:00+03:00",
+          "title": "Мардан Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T23:00:00+03:00",
+          "stop": "2026-08-02T05:00:00+03:00",
+          "title": "СоловьевLive лучшее",
           "description": "L",
           "category": null
         }

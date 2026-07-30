@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T19:00:00+03:00",
+          "stop": "2026-08-01T20:00:00+03:00",
+          "title": "⋗ UFC. Uroš Medić vs Daniel Rodriguez (ENG)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

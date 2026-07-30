@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T01:00:00+03:00",
-          "stop": "2026-07-29T03:00:00+03:00",
-          "title": "Serie A: Cremonese vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T03:00:00+03:00",
-          "stop": "2026-07-29T05:00:00+03:00",
-          "title": "Serie A: Milan vs Cagliari",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:00:00+03:00",
-          "stop": "2026-07-29T07:00:00+03:00",
-          "title": "Serie A: Torino vs Juventus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T07:00:00+03:00",
-          "stop": "2026-07-29T09:00:00+03:00",
-          "title": "EFL: Grimsby vs Salford",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T09:00:00+03:00",
-          "stop": "2026-07-29T11:00:00+03:00",
-          "title": "Serie A: Torino vs Parma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T11:00:00+03:00",
-          "stop": "2026-07-29T13:00:00+03:00",
-          "title": "Serie A: Inter vs Atalanta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T13:00:00+03:00",
-          "stop": "2026-07-29T15:00:00+03:00",
-          "title": "Serie A: Verona vs Genoa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T15:00:00+03:00",
-          "stop": "2026-07-29T17:00:00+03:00",
-          "title": "Serie A: Pisa vs Cagliari",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T17:00:00+03:00",
-          "stop": "2026-07-29T19:00:00+03:00",
-          "title": "Serie A: Sassuolo vs Bologna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T19:00:00+03:00",
-          "stop": "2026-07-29T21:00:00+03:00",
-          "title": "Serie A: Como vs Roma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T21:00:00+03:00",
-          "stop": "2026-07-29T23:00:00+03:00",
-          "title": "Serie A: Udinese vs Juventus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T23:00:00+03:00",
-          "stop": "2026-07-30T01:00:00+03:00",
-          "title": "Serie A: Napoli vs Lecce",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -281,6 +192,109 @@
           "start": "2026-07-31T22:00:00+03:00",
           "stop": "2026-08-01T00:00:00+03:00",
           "title": "DFB: Holstein Kiel vs Stuttgart",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T00:00:00+03:00",
+          "stop": "2026-08-01T02:00:00+03:00",
+          "title": "DFB: Leverkusen vs FC St. Paul",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T02:00:00+03:00",
+          "stop": "2026-08-01T04:00:00+03:00",
+          "title": "Dutch: Heracles Almelo vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T04:00:00+03:00",
+          "stop": "2026-08-01T06:00:00+03:00",
+          "title": "Dutch: Zwolle vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T06:00:00+03:00",
+          "stop": "2026-08-01T08:00:00+03:00",
+          "title": "Dutch: Twente vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T08:00:00+03:00",
+          "stop": "2026-08-01T10:00:00+03:00",
+          "title": "EFL: Swansea vs Sheffield Wed",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T10:00:00+03:00",
+          "stop": "2026-08-01T12:00:00+03:00",
+          "title": "EFL: Charlton vs QPR",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T12:00:00+03:00",
+          "stop": "2026-08-01T14:00:00+03:00",
+          "title": "EFL: Derby vs Ipswich",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T14:00:00+03:00",
+          "stop": "2026-08-01T14:30:00+03:00",
+          "title": "Serie A: Full Impact: Round 38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T14:30:00+03:00",
+          "stop": "2026-08-01T15:00:00+03:00",
+          "title": "EFL 2025/26 – Highlights Show 39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T15:00:00+03:00",
+          "stop": "2026-08-01T17:00:00+03:00",
+          "title": "Serie A: Fiorentina vs Pisa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T17:00:00+03:00",
+          "stop": "2026-08-01T19:00:00+03:00",
+          "title": "Serie A: Roma vs Cremonese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T19:00:00+03:00",
+          "stop": "2026-08-01T21:00:00+03:00",
+          "title": "Serie A: Cagliari vs Lazio",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T21:00:00+03:00",
+          "stop": "2026-08-01T23:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Verona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T23:00:00+03:00",
+          "stop": "2026-08-02T01:00:00+03:00",
+          "title": "Dutch: Heracles Almelo vs PSV",
           "description": "L",
           "category": null
         }

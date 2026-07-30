@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T00:35:00+03:00",
-          "stop": "2026-07-29T02:15:00+03:00",
-          "title": "Капитан Голливуд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T02:15:00+03:00",
-          "stop": "2026-07-29T03:55:00+03:00",
-          "title": "Три дня до весны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T03:55:00+03:00",
-          "stop": "2026-07-29T05:25:00+03:00",
-          "title": "(НЕ)идеальный мужчина.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:25:00+03:00",
-          "stop": "2026-07-29T06:50:00+03:00",
-          "title": "Робо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T06:50:00+03:00",
-          "stop": "2026-07-29T08:50:00+03:00",
-          "title": "Петрополис.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T08:50:00+03:00",
-          "stop": "2026-07-29T11:05:00+03:00",
-          "title": "Вратарь Галактики.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T11:05:00+03:00",
-          "stop": "2026-07-29T13:10:00+03:00",
-          "title": "Призрак.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T13:10:00+03:00",
-          "stop": "2026-07-29T15:05:00+03:00",
-          "title": "Один день лета.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T15:05:00+03:00",
-          "stop": "2026-07-29T17:15:00+03:00",
-          "title": "Точка невозврата.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T17:15:00+03:00",
-          "stop": "2026-07-29T19:05:00+03:00",
-          "title": "Грешник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T19:05:00+03:00",
-          "stop": "2026-07-29T21:00:00+03:00",
-          "title": "Мой вчерашний день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T21:00:00+03:00",
-          "stop": "2026-07-29T22:35:00+03:00",
-          "title": "Иваново счастье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T22:35:00+03:00",
-          "stop": "2026-07-30T00:20:00+03:00",
-          "title": "Иваново счастье.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -295,6 +199,32 @@
           "start": "2026-07-31T22:35:00+03:00",
           "stop": "2026-08-01T00:45:00+03:00",
           "title": "Смотри на меня!",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T00:45:00+03:00",
+          "stop": "2026-08-01T02:35:00+03:00",
+          "title": "Вратарь Галактики.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T02:35:00+03:00",
+          "stop": "2026-08-01T04:25:00+03:00",
+          "title": "Призрак.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T04:25:00+03:00",
+          "stop": "2026-08-01T05:25:00+03:00",
+          "title": "Один день лета.",
           "description": "L",
           "category": null
         }

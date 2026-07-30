@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T01:10:00+03:00",
-          "stop": "2026-07-29T03:15:00+03:00",
-          "title": "Glass.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T03:15:00+03:00",
-          "stop": "2026-07-29T05:05:00+03:00",
-          "title": "Lethal Weapon 2 - Brennpunkt L.A.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:05:00+03:00",
-          "stop": "2026-07-29T06:45:00+03:00",
-          "title": "Let's Be Cops - Die Party Bullen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T06:45:00+03:00",
-          "stop": "2026-07-29T07:00:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T07:00:00+03:00",
-          "stop": "2026-07-29T08:30:00+03:00",
-          "title": "Fallen. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T08:30:00+03:00",
-          "stop": "2026-07-29T10:10:00+03:00",
-          "title": "A Quiet Place 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T10:10:00+03:00",
-          "stop": "2026-07-29T12:10:00+03:00",
-          "title": "Cowboys & Aliens.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T12:10:00+03:00",
-          "stop": "2026-07-29T14:05:00+03:00",
-          "title": "The Recruit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T14:05:00+03:00",
-          "stop": "2026-07-29T16:45:00+03:00",
-          "title": "The Insider.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T16:45:00+03:00",
-          "stop": "2026-07-29T18:50:00+03:00",
-          "title": "Collateral.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T18:50:00+03:00",
-          "stop": "2026-07-29T21:15:00+03:00",
-          "title": "Das Comeback.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T21:15:00+03:00",
-          "stop": "2026-07-29T23:25:00+03:00",
-          "title": "Stirb langsam 4.0.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T23:25:00+03:00",
-          "stop": "2026-07-30T01:15:00+03:00",
-          "title": "Unbreakable - Unzerbrechlich.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -288,6 +192,95 @@
           "start": "2026-07-31T23:25:00+03:00",
           "stop": "2026-08-01T01:50:00+03:00",
           "title": "A.I. - Künstliche Intelligenz.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T01:50:00+03:00",
+          "stop": "2026-08-01T03:45:00+03:00",
+          "title": "Cowboys & Aliens.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T03:45:00+03:00",
+          "stop": "2026-08-01T05:25:00+03:00",
+          "title": "Die Zeitmaschine.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T05:25:00+03:00",
+          "stop": "2026-08-01T07:00:00+03:00",
+          "title": "Neues Abenteuer mit Flipper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T07:00:00+03:00",
+          "stop": "2026-08-01T08:45:00+03:00",
+          "title": "Ich bin Nummer Vier.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T08:45:00+03:00",
+          "stop": "2026-08-01T10:40:00+03:00",
+          "title": "Jeremiah Johnson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T10:40:00+03:00",
+          "stop": "2026-08-01T12:30:00+03:00",
+          "title": "Medicine Man - Die letzten Tage von Eden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T12:30:00+03:00",
+          "stop": "2026-08-01T14:40:00+03:00",
+          "title": "Monte Cristo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T14:40:00+03:00",
+          "stop": "2026-08-01T16:55:00+03:00",
+          "title": "Jack Reacher.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T16:55:00+03:00",
+          "stop": "2026-08-01T19:20:00+03:00",
+          "title": "A.I. - Künstliche Intelligenz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T19:20:00+03:00",
+          "stop": "2026-08-01T21:15:00+03:00",
+          "title": "The Sixth Sense.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T21:15:00+03:00",
+          "stop": "2026-08-01T23:15:00+03:00",
+          "title": "Gran Torino.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T23:15:00+03:00",
+          "stop": "2026-08-02T01:25:00+03:00",
+          "title": "Space Cowboys.",
           "description": "L",
           "category": null
         }

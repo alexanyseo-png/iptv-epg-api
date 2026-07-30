@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-29T03:42:48.226140+00:00",
+  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-07-29",
-      "programs": [
-        {
-          "start": "2026-07-29T00:00:00+03:00",
-          "stop": "2026-07-29T01:40:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T01:40:00+03:00",
-          "stop": "2026-07-29T04:05:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T04:05:00+03:00",
-          "stop": "2026-07-29T05:35:00+03:00",
-          "title": "MMA Series Phygital. Е.Мякинкин, М.Викторов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T05:35:00+03:00",
-          "stop": "2026-07-29T07:40:00+03:00",
-          "title": "MMA Series Names (М.Викторов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T07:40:00+03:00",
-          "stop": "2026-07-29T08:05:00+03:00",
-          "title": "Территория ММА-ТВ.ком (157-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T08:05:00+03:00",
-          "stop": "2026-07-29T11:35:00+03:00",
-          "title": "MMA Series. Топ бойцов полулёгкого веса. Н.Бархатов, И.Фигейра, И.Сырбу-Соловьёв.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T11:35:00+03:00",
-          "stop": "2026-07-29T12:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (157-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T12:00:00+03:00",
-          "stop": "2026-07-29T13:25:00+03:00",
-          "title": "MMA Series Names (М. Саидов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T13:25:00+03:00",
-          "stop": "2026-07-29T16:00:00+03:00",
-          "title": "MMA Series Names (Е.Мякинкин, Ш.Исмаилов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T16:00:00+03:00",
-          "stop": "2026-07-29T20:05:00+03:00",
-          "title": "MMA Series Names (А. Сантос).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T20:05:00+03:00",
-          "stop": "2026-07-29T23:40:00+03:00",
-          "title": "MMA Series. Вечер нокаутов: И.Харитонов, Я.Екимов, Д.Гонсалвес.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-29T23:40:00+03:00",
-          "stop": "2026-07-30T00:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (157-я серия).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-30",
       "programs": [
@@ -260,6 +171,88 @@
           "start": "2026-07-31T23:55:00+03:00",
           "stop": "2026-08-01T00:20:00+03:00",
           "title": "Клетка Виктории Ицеховской (MMA Серия - 94).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-01",
+      "programs": [
+        {
+          "start": "2026-08-01T00:20:00+03:00",
+          "stop": "2026-08-01T04:15:00+03:00",
+          "title": "MMA Series Names (А. Сантос).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T04:15:00+03:00",
+          "stop": "2026-08-01T08:00:00+03:00",
+          "title": "MMA Series. Топ бойцов полусреднего веса. С.Бобрышев, В.Руденко, Д.Засинец.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T08:00:00+03:00",
+          "stop": "2026-08-01T09:30:00+03:00",
+          "title": "MMA Series Phygital. Е.Мякинкин, М.Викторов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T09:30:00+03:00",
+          "stop": "2026-08-01T11:30:00+03:00",
+          "title": "MMA Series Names (М.Викторов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T11:30:00+03:00",
+          "stop": "2026-08-01T15:35:00+03:00",
+          "title": "ММА Серия - 94. Н.Бархатов - Д.Михайлиди.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T15:35:00+03:00",
+          "stop": "2026-08-01T16:00:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Серия - 94).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T16:00:00+03:00",
+          "stop": "2026-08-01T18:35:00+03:00",
+          "title": "MMA Series Names (Е.Мякинкин, Ш.Исмаилов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T18:35:00+03:00",
+          "stop": "2026-08-01T19:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (158-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T19:00:00+03:00",
+          "stop": "2026-08-01T22:05:00+03:00",
+          "title": "WKG & M-1 2025. Турнир из Чжаосу, Китай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T22:05:00+03:00",
+          "stop": "2026-08-01T23:40:00+03:00",
+          "title": "MMA Series Names (М. Саидов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-01T23:40:00+03:00",
+          "stop": "2026-08-02T00:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (158-я серия).",
           "description": "L",
           "category": null
         }
