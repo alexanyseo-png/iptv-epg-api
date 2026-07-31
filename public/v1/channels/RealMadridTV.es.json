@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-30T03:31:39.873866+00:00",
+  "generatedAt": "2026-07-31T03:52:20.737068+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-07-30",
-      "programs": [
-        {
-          "start": "2026-07-30T00:10:00+03:00",
-          "stop": "2026-07-30T01:55:00+03:00",
-          "title": "Yo soy la venganza",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T01:55:00+03:00",
-          "stop": "2026-07-30T05:00:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T05:00:00+03:00",
-          "stop": "2026-07-30T09:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T09:00:00+03:00",
-          "stop": "2026-07-30T13:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T13:00:00+03:00",
-          "stop": "2026-07-30T17:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T17:00:00+03:00",
-          "stop": "2026-07-30T21:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-30T21:00:00+03:00",
-          "stop": "2026-07-31T01:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-07-31",
       "programs": [
@@ -154,6 +100,53 @@
         {
           "start": "2026-08-01T21:00:00+03:00",
           "stop": "2026-08-02T01:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-02",
+      "programs": [
+        {
+          "start": "2026-08-02T01:00:00+03:00",
+          "stop": "2026-08-02T05:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T05:00:00+03:00",
+          "stop": "2026-08-02T09:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T09:00:00+03:00",
+          "stop": "2026-08-02T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T13:00:00+03:00",
+          "stop": "2026-08-02T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T17:00:00+03:00",
+          "stop": "2026-08-02T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T21:00:00+03:00",
+          "stop": "2026-08-03T01:00:00+03:00",
           "title": "Real Madrid TV",
           "description": "L",
           "category": null
