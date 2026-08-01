@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-31T03:52:20.737068+00:00",
+  "generatedAt": "2026-08-01T03:52:38.768605+00:00",
   "available": true,
-  "programmeCount": 44,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-07-31",
-      "programs": [
-        {
-          "start": "2026-07-31T00:30:00+03:00",
-          "stop": "2026-07-31T00:45:00+03:00",
-          "title": "Běhej lesy – Klínovec",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T00:45:00+03:00",
-          "stop": "2026-07-31T03:15:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T03:15:00+03:00",
-          "stop": "2026-07-31T04:45:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T04:45:00+03:00",
-          "stop": "2026-07-31T08:00:00+03:00",
-          "title": "Stade Reims – AS Nancy-Lorraine",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T08:00:00+03:00",
-          "stop": "2026-07-31T09:45:00+03:00",
-          "title": "Mersin Sports Club – Unicaja",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T09:45:00+03:00",
-          "stop": "2026-07-31T11:30:00+03:00",
-          "title": "Galatasaray MCT Technic – Pallacanestro Trieste",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T11:30:00+03:00",
-          "stop": "2026-07-31T13:30:00+03:00",
-          "title": "Le Mans Sarthe Basket – Dreamland Gran Canaria",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T13:30:00+03:00",
-          "stop": "2026-07-31T14:00:00+03:00",
-          "title": "JACKALOPE 2026 – Virginia Beach",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T14:00:00+03:00",
-          "stop": "2026-07-31T15:45:00+03:00",
-          "title": "Nový Zéland – Itálie",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T15:45:00+03:00",
-          "stop": "2026-07-31T19:15:00+03:00",
-          "title": "Championship League Snooker 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T19:15:00+03:00",
-          "stop": "2026-07-31T19:30:00+03:00",
-          "title": "Běhej lesy – Klínovec",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T19:30:00+03:00",
-          "stop": "2026-07-31T22:00:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T22:00:00+03:00",
-          "stop": "2026-07-31T23:30:00+03:00",
-          "title": "World Matchplay Darts 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T23:30:00+03:00",
-          "stop": "2026-08-01T01:45:00+03:00",
-          "title": "World Darts Championship 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-01",
       "programs": [
@@ -330,6 +227,32 @@
           "start": "2026-08-02T23:30:00+03:00",
           "stop": "2026-08-03T01:15:00+03:00",
           "title": "Tottenham Hotspur – Doncaster Rovers",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "programs": [
+        {
+          "start": "2026-08-03T01:15:00+03:00",
+          "stop": "2026-08-03T03:00:00+03:00",
+          "title": "Port Vale – Arsenal FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:00:00+03:00",
+          "stop": "2026-08-03T05:00:00+03:00",
+          "title": "FC Rouen – Stade Lavallois",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T05:00:00+03:00",
+          "stop": "2026-08-03T06:00:00+03:00",
+          "title": "Stade Lavallois – FC Rouen",
           "description": "L",
           "category": null
         }

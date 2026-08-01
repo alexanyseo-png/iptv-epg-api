@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-31T03:52:20.737068+00:00",
+  "generatedAt": "2026-08-01T03:52:38.768605+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-07-31",
-      "programs": [
-        {
-          "start": "2026-07-31T01:15:00+03:00",
-          "stop": "2026-07-31T04:10:00+03:00",
-          "title": "т/с Исаев (Пароль не нужен: ч. 3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T04:10:00+03:00",
-          "stop": "2026-07-31T05:45:00+03:00",
-          "title": "х/ф Иваново детство",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T05:45:00+03:00",
-          "stop": "2026-07-31T07:05:00+03:00",
-          "title": "х/ф Грозный век",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T07:05:00+03:00",
-          "stop": "2026-07-31T08:45:00+03:00",
-          "title": "х/ф Без срока давности",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T08:45:00+03:00",
-          "stop": "2026-07-31T18:05:00+03:00",
-          "title": "т/с Крик совы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T18:05:00+03:00",
-          "stop": "2026-07-31T20:30:00+03:00",
-          "title": "х/ф Подвиг Одессы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T20:30:00+03:00",
-          "stop": "2026-07-31T22:00:00+03:00",
-          "title": "х/ф Дорога на Берлин",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T22:00:00+03:00",
-          "stop": "2026-08-01T00:15:00+03:00",
-          "title": "х/ф Хитровка. Знак четырех",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-01",
       "programs": [
@@ -288,6 +227,32 @@
           "start": "2026-08-02T23:05:00+03:00",
           "stop": "2026-08-03T00:35:00+03:00",
           "title": "х/ф Прорыв",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "programs": [
+        {
+          "start": "2026-08-03T00:35:00+03:00",
+          "stop": "2026-08-03T03:00:00+03:00",
+          "title": "х/ф Балканский рубеж",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:00:00+03:00",
+          "stop": "2026-08-03T04:30:00+03:00",
+          "title": "х/ф Своя война. Шторм в пустыне",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:30:00+03:00",
+          "stop": "2026-08-03T05:30:00+03:00",
+          "title": "х/ф Товарищ генерал",
           "description": "L",
           "category": null
         }

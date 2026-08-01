@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-07-31T03:52:20.737068+00:00",
+  "generatedAt": "2026-08-01T03:52:38.768605+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-07-31",
-      "programs": [
-        {
-          "start": "2026-07-31T00:00:00+03:00",
-          "stop": "2026-07-31T01:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T01:00:00+03:00",
-          "stop": "2026-07-31T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T04:00:00+03:00",
-          "stop": "2026-07-31T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T08:00:00+03:00",
-          "stop": "2026-07-31T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T09:00:00+03:00",
-          "stop": "2026-07-31T10:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T10:00:00+03:00",
-          "stop": "2026-07-31T12:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-07-31T12:00:00+03:00",
-          "stop": "2026-08-01T08:00:00+03:00",
-          "title": "Top 300 Dobre, bo polskie | E02",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-01",
       "programs": [
@@ -239,6 +185,46 @@
           "start": "2026-08-02T19:00:00+03:00",
           "stop": "2026-08-03T01:00:00+03:00",
           "title": "Rock 80's vs. Rock 90's",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-03",
+      "programs": [
+        {
+          "start": "2026-08-03T01:00:00+03:00",
+          "stop": "2026-08-03T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:00:00+03:00",
+          "stop": "2026-08-03T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T08:00:00+03:00",
+          "stop": "2026-08-03T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:00:00+03:00",
+          "stop": "2026-08-03T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T10:00:00+03:00",
+          "stop": "2026-08-03T12:00:00+03:00",
+          "title": "Best 80's",
           "description": "L",
           "category": null
         }
