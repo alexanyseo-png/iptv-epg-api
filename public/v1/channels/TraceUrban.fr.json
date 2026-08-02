@@ -8,8 +8,84 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-01T03:52:38.768605+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-02T03:55:09.402838+00:00",
+  "available": true,
+  "programmeCount": 10,
+  "days": [
+    {
+      "date": "2026-08-02",
+      "programs": [
+        {
+          "start": "2026-08-02T01:00:00+03:00",
+          "stop": "2026-08-02T07:00:00+03:00",
+          "title": "Sounds Of Trace.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T07:00:00+03:00",
+          "stop": "2026-08-02T12:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T12:00:00+03:00",
+          "stop": "2026-08-02T13:00:00+03:00",
+          "title": "Rewind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T13:00:00+03:00",
+          "stop": "2026-08-02T14:45:00+03:00",
+          "title": "Hit 30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T14:45:00+03:00",
+          "stop": "2026-08-02T15:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T15:00:00+03:00",
+          "stop": "2026-08-02T19:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T19:00:00+03:00",
+          "stop": "2026-08-02T19:45:00+03:00",
+          "title": "Hit 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T19:45:00+03:00",
+          "stop": "2026-08-02T20:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T20:00:00+03:00",
+          "stop": "2026-08-02T21:00:00+03:00",
+          "title": "Focus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-02T21:00:00+03:00",
+          "stop": "2026-08-02T22:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
