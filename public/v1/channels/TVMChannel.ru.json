@@ -8,225 +8,659 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-02T03:55:09.402838+00:00",
+  "generatedAt": "2026-08-03T03:56:39.985539+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 92,
   "days": [
     {
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "programs": [
         {
-          "start": "2026-08-02T00:35:00+03:00",
-          "stop": "2026-08-02T00:39:00+03:00",
+          "start": "2026-08-03T00:11:00+03:00",
+          "stop": "2026-08-03T00:16:00+03:00",
           "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T00:39:00+03:00",
-          "stop": "2026-08-02T01:04:00+03:00",
+          "start": "2026-08-03T00:16:00+03:00",
+          "stop": "2026-08-03T00:33:00+03:00",
           "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T01:04:00+03:00",
-          "stop": "2026-08-02T01:08:00+03:00",
-          "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
+          "start": "2026-08-03T00:33:00+03:00",
+          "stop": "2026-08-03T00:38:00+03:00",
+          "title": "Mediastar (2025. Остров-град Свияжск).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T01:08:00+03:00",
-          "stop": "2026-08-02T01:36:00+03:00",
+          "start": "2026-08-03T00:38:00+03:00",
+          "stop": "2026-08-03T00:55:00+03:00",
           "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T01:36:00+03:00",
-          "stop": "2026-08-02T04:27:00+03:00",
+          "start": "2026-08-03T00:55:00+03:00",
+          "stop": "2026-08-03T00:59:00+03:00",
+          "title": "Mediastar (2025. Северная Осетия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T00:59:00+03:00",
+          "stop": "2026-08-03T01:18:00+03:00",
           "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T04:27:00+03:00",
-          "stop": "2026-08-02T06:06:00+03:00",
+          "start": "2026-08-03T01:18:00+03:00",
+          "stop": "2026-08-03T01:22:00+03:00",
+          "title": "Mediastar (2025. Чегемские водопады).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T01:22:00+03:00",
+          "stop": "2026-08-03T01:40:00+03:00",
           "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T06:06:00+03:00",
-          "stop": "2026-08-02T07:53:00+03:00",
-          "title": "Документальный фильм.",
+          "start": "2026-08-03T01:40:00+03:00",
+          "stop": "2026-08-03T01:45:00+03:00",
+          "title": "Mediastar (2025. Черекское ущелье).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T07:53:00+03:00",
-          "stop": "2026-08-02T07:57:00+03:00",
-          "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
+          "start": "2026-08-03T01:45:00+03:00",
+          "stop": "2026-08-03T02:02:00+03:00",
+          "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T07:57:00+03:00",
-          "stop": "2026-08-02T08:00:00+03:00",
-          "title": "Chebanov. Только любовь.",
+          "start": "2026-08-03T02:02:00+03:00",
+          "stop": "2026-08-03T02:07:00+03:00",
+          "title": "Mediastar (2025. Эльбрус и Приэльбрусье).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:00:00+03:00",
-          "stop": "2026-08-02T08:03:00+03:00",
-          "title": "By Индия Xcho МОТ. Шадэ.",
+          "start": "2026-08-03T02:07:00+03:00",
+          "stop": "2026-08-03T02:12:00+03:00",
+          "title": "Thomas Anders. Stay With Me.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:03:00+03:00",
-          "stop": "2026-08-02T08:06:00+03:00",
+          "start": "2026-08-03T02:12:00+03:00",
+          "stop": "2026-08-03T02:16:00+03:00",
+          "title": "Whitney Houston Step by Step.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:16:00+03:00",
+          "stop": "2026-08-03T02:20:00+03:00",
+          "title": "Sam Brown. Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:20:00+03:00",
+          "stop": "2026-08-03T02:23:00+03:00",
+          "title": "Кайли Миноуг.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:23:00+03:00",
+          "stop": "2026-08-03T02:27:00+03:00",
+          "title": "Незнакомцы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:27:00+03:00",
+          "stop": "2026-08-03T02:31:00+03:00",
+          "title": "Italove. Strangers In The Night (Lazybox Remix).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:31:00+03:00",
+          "stop": "2026-08-03T02:35:00+03:00",
+          "title": "Norman Doray Street Sounds.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:35:00+03:00",
+          "stop": "2026-08-03T02:38:00+03:00",
+          "title": "Bruce Springsteen. Streets of Philadelphia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:38:00+03:00",
+          "stop": "2026-08-03T02:42:00+03:00",
+          "title": "Ariana Grande & Justin Bieber - Stuck With U.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:42:00+03:00",
+          "stop": "2026-08-03T02:46:00+03:00",
+          "title": "Chris Norman, Suzi Quatro. Stumblin' In.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:46:00+03:00",
+          "stop": "2026-08-03T02:50:00+03:00",
+          "title": "Lady Gaga. Stupid Love.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:50:00+03:00",
+          "stop": "2026-08-03T02:53:00+03:00",
+          "title": "Dardust Sublime.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:53:00+03:00",
+          "stop": "2026-08-03T02:56:00+03:00",
+          "title": "Kaarl. Sunday Night.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T02:56:00+03:00",
+          "stop": "2026-08-03T03:00:00+03:00",
+          "title": "Mo-Do Super Gut.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:00:00+03:00",
+          "stop": "2026-08-03T03:03:00+03:00",
+          "title": "Sandra. Such A Shame (Cool Club Version).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:03:00+03:00",
+          "stop": "2026-08-03T03:07:00+03:00",
+          "title": "Justin Timberlake. Supplies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:07:00+03:00",
+          "stop": "2026-08-03T03:10:00+03:00",
+          "title": "Sam Feldt x Lucas & Steve feat Wulf. Summer on You.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:10:00+03:00",
+          "stop": "2026-08-03T03:13:00+03:00",
+          "title": "Tavi. Castro Survive.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:13:00+03:00",
+          "stop": "2026-08-03T03:18:00+03:00",
+          "title": "Orly Ben Garti Sweet Harmony (B&G Remix).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:18:00+03:00",
+          "stop": "2026-08-03T03:23:00+03:00",
+          "title": "Bolier. Sweet Love.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:23:00+03:00",
+          "stop": "2026-08-03T03:26:00+03:00",
+          "title": "Saymyname ft. Crichy Crich. Swerve.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:26:00+03:00",
+          "stop": "2026-08-03T03:32:00+03:00",
+          "title": "Fair Control. Symphony of Love.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:32:00+03:00",
+          "stop": "2026-08-03T03:35:00+03:00",
+          "title": "A-HA. Take On Me.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:35:00+03:00",
+          "stop": "2026-08-03T03:45:00+03:00",
+          "title": "Lady Gaga. Telephone ft. Beyoncé.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:45:00+03:00",
+          "stop": "2026-08-03T03:49:00+03:00",
+          "title": "Wilkinson, Sub Focus. Take It Up.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:49:00+03:00",
+          "stop": "2026-08-03T03:54:00+03:00",
+          "title": "Or Koskas. Take your way.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:54:00+03:00",
+          "stop": "2026-08-03T03:58:00+03:00",
+          "title": "Barbra Streisand, Celine Dion. Tell Him.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T03:58:00+03:00",
+          "stop": "2026-08-03T04:03:00+03:00",
+          "title": "Berlin. Take My Breath Away (OST \"Top Gun\").",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:03:00+03:00",
+          "stop": "2026-08-03T04:06:00+03:00",
+          "title": "Taylor Dayne.Tell It to My Heart.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:06:00+03:00",
+          "stop": "2026-08-03T04:10:00+03:00",
+          "title": "Shoffy feat. Lincoln Jesser. Takes My Body Higher.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:10:00+03:00",
+          "stop": "2026-08-03T04:13:00+03:00",
+          "title": "Vanotek feat. Eneli. Tell Me Who.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:13:00+03:00",
+          "stop": "2026-08-03T04:16:00+03:00",
+          "title": "Nora En Pure. Tears In Your Eyes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:16:00+03:00",
+          "stop": "2026-08-03T04:20:00+03:00",
+          "title": "Nora En Pure. Tell My Heart ft. Dani Senior.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:20:00+03:00",
+          "stop": "2026-08-03T04:24:00+03:00",
+          "title": "Sixtyfour. The Legend.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T04:24:00+03:00",
+          "stop": "2026-08-03T05:13:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T05:13:00+03:00",
+          "stop": "2026-08-03T06:00:00+03:00",
+          "title": "Сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T06:00:00+03:00",
+          "stop": "2026-08-03T07:09:00+03:00",
+          "title": "Многосерийный художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T07:09:00+03:00",
+          "stop": "2026-08-03T08:25:00+03:00",
+          "title": "Художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T08:25:00+03:00",
+          "stop": "2026-08-03T09:18:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:18:00+03:00",
+          "stop": "2026-08-03T09:22:00+03:00",
+          "title": "Mediastar (2025. Остров-град Свияжск).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:22:00+03:00",
+          "stop": "2026-08-03T09:24:00+03:00",
           "title": "TASSO. MOJO.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:06:00+03:00",
-          "stop": "2026-08-02T08:09:00+03:00",
+          "start": "2026-08-03T09:24:00+03:00",
+          "stop": "2026-08-03T09:27:00+03:00",
           "title": "Дмитрий Маликов. Заберу тебя в июль.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:09:00+03:00",
-          "stop": "2026-08-02T08:14:00+03:00",
+          "start": "2026-08-03T09:27:00+03:00",
+          "stop": "2026-08-03T09:33:00+03:00",
           "title": "Покров Этно. Звёзды.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:14:00+03:00",
-          "stop": "2026-08-02T08:18:00+03:00",
-          "title": "Dabro. Море, привет.",
+          "start": "2026-08-03T09:33:00+03:00",
+          "stop": "2026-08-03T09:36:00+03:00",
+          "title": "DAVA. Колыбельная.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:18:00+03:00",
-          "stop": "2026-08-02T08:21:00+03:00",
-          "title": "Джиган, NILETTO. Не умею грустить.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T08:21:00+03:00",
-          "stop": "2026-08-02T08:24:00+03:00",
+          "start": "2026-08-03T09:36:00+03:00",
+          "stop": "2026-08-03T09:39:00+03:00",
           "title": "Zvonkiy. Невероятно.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:24:00+03:00",
-          "stop": "2026-08-02T08:27:00+03:00",
-          "title": "Анна Немченко. По городам.",
+          "start": "2026-08-03T09:39:00+03:00",
+          "stop": "2026-08-03T09:43:00+03:00",
+          "title": "Наталья Подольская, Регина Тодоренко. Подруга.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T08:27:00+03:00",
-          "stop": "2026-08-02T10:11:00+03:00",
+          "start": "2026-08-03T09:43:00+03:00",
+          "stop": "2026-08-03T09:45:00+03:00",
+          "title": "FILATOV & KARAS. Среди Счастливых Людей.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:45:00+03:00",
+          "stop": "2026-08-03T09:49:00+03:00",
+          "title": "Инь-Ян. Человек.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:49:00+03:00",
+          "stop": "2026-08-03T09:53:00+03:00",
+          "title": "By Индия Xcho МОТ. Шадэ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:53:00+03:00",
+          "stop": "2026-08-03T11:57:00+03:00",
           "title": "Художественный фильм.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T10:11:00+03:00",
-          "stop": "2026-08-02T12:18:00+03:00",
-          "title": "Художественный фильм.",
+          "start": "2026-08-03T11:57:00+03:00",
+          "stop": "2026-08-03T12:01:00+03:00",
+          "title": "Mediastar (2025. Северная Осетия).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T12:18:00+03:00",
-          "stop": "2026-08-02T13:53:00+03:00",
-          "title": "Художественный фильм.",
+          "start": "2026-08-03T12:01:00+03:00",
+          "stop": "2026-08-03T12:34:00+03:00",
+          "title": "До 17 и старше (333-я серия).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T13:53:00+03:00",
-          "stop": "2026-08-02T15:33:00+03:00",
-          "title": "Художественный фильм.",
+          "start": "2026-08-03T12:34:00+03:00",
+          "stop": "2026-08-03T12:38:00+03:00",
+          "title": "Mediastar (2025. Чегемские водопады).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T15:33:00+03:00",
-          "stop": "2026-08-02T17:52:00+03:00",
-          "title": "Художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T17:52:00+03:00",
-          "stop": "2026-08-02T19:23:00+03:00",
-          "title": "Подкаст Perpetuum Music (Анжелика Агурбаш).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T19:23:00+03:00",
-          "stop": "2026-08-02T19:56:00+03:00",
-          "title": "До 17 и старше (332-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T19:56:00+03:00",
-          "stop": "2026-08-02T20:00:00+03:00",
-          "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T20:00:00+03:00",
-          "stop": "2026-08-02T20:28:00+03:00",
+          "start": "2026-08-03T12:38:00+03:00",
+          "stop": "2026-08-03T12:56:00+03:00",
           "title": "Документальный сериал.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T20:28:00+03:00",
-          "stop": "2026-08-02T20:33:00+03:00",
-          "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
+          "start": "2026-08-03T12:56:00+03:00",
+          "stop": "2026-08-03T13:05:00+03:00",
+          "title": "Mediastar (2025. Черекское ущелье).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T20:33:00+03:00",
-          "stop": "2026-08-02T22:13:00+03:00",
+          "start": "2026-08-03T13:05:00+03:00",
+          "stop": "2026-08-03T13:27:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T13:27:00+03:00",
+          "stop": "2026-08-03T13:56:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T13:56:00+03:00",
+          "stop": "2026-08-03T14:00:00+03:00",
+          "title": "Mediastar (2025. Эльбрус и Приэльбрусье).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T14:00:00+03:00",
+          "stop": "2026-08-03T15:12:00+03:00",
           "title": "Художественный фильм.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-02T22:13:00+03:00",
-          "stop": "2026-08-03T00:11:00+03:00",
-          "title": "Tina Turner. Live In Amsterdam. Wildest Dreams Tour.",
+          "start": "2026-08-03T15:12:00+03:00",
+          "stop": "2026-08-03T16:34:00+03:00",
+          "title": "Художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T16:34:00+03:00",
+          "stop": "2026-08-03T16:38:00+03:00",
+          "title": "Mediastar (2025. Остров-град Свияжск).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T16:38:00+03:00",
+          "stop": "2026-08-03T16:56:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T16:56:00+03:00",
+          "stop": "2026-08-03T17:05:00+03:00",
+          "title": "Mediastar (2025. Северная Осетия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T17:05:00+03:00",
+          "stop": "2026-08-03T17:27:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T17:27:00+03:00",
+          "stop": "2026-08-03T17:56:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T17:56:00+03:00",
+          "stop": "2026-08-03T18:00:00+03:00",
+          "title": "Mediastar (2025. Чегемские водопады).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T18:00:00+03:00",
+          "stop": "2026-08-03T18:03:00+03:00",
+          "title": "Great Traveler (Милфорд Саунд — восьмое чудо света).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T18:03:00+03:00",
+          "stop": "2026-08-03T18:08:00+03:00",
+          "title": "Mediastar (2025. Черекское ущелье).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T18:08:00+03:00",
+          "stop": "2026-08-03T18:20:00+03:00",
+          "title": "ArtPicturesReel (Максим Демченко).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T18:20:00+03:00",
+          "stop": "2026-08-03T18:25:00+03:00",
+          "title": "Кинопоэзия (Д. Самойлов. Перебирая наши даты...).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T18:25:00+03:00",
+          "stop": "2026-08-03T19:18:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T19:18:00+03:00",
+          "stop": "2026-08-03T19:22:00+03:00",
+          "title": "Mediastar (2025. Эльбрус и Приэльбрусье).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T19:22:00+03:00",
+          "stop": "2026-08-03T19:27:00+03:00",
+          "title": "Покров Этно. Звёзды.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T19:27:00+03:00",
+          "stop": "2026-08-03T19:30:00+03:00",
+          "title": "DAVA. Колыбельная.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T19:30:00+03:00",
+          "stop": "2026-08-03T19:39:00+03:00",
+          "title": "Инь-Ян. Человек.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T19:39:00+03:00",
+          "stop": "2026-08-03T20:26:00+03:00",
+          "title": "Сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T20:26:00+03:00",
+          "stop": "2026-08-03T21:56:00+03:00",
+          "title": "Художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T21:56:00+03:00",
+          "stop": "2026-08-03T22:55:00+03:00",
+          "title": "Volkova. Live Melodic House & Progressive House DJ Mix. Historic Centre of Riga, Latvia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T22:55:00+03:00",
+          "stop": "2026-08-03T23:00:00+03:00",
+          "title": "Mediastar (2025. Остров-град Свияжск).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T23:00:00+03:00",
+          "stop": "2026-08-04T02:00:00+03:00",
+          "title": "Сериал.",
           "description": "L",
           "category": null
         }
       ]
     },
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "programs": [
         {
-          "start": "2026-08-03T00:11:00+03:00",
-          "stop": "2026-08-03T01:11:00+03:00",
-          "title": "Mediastar (2026. Адам и Дали Гуцериевы в Версале).",
+          "start": "2026-08-04T02:00:00+03:00",
+          "stop": "2026-08-04T03:00:00+03:00",
+          "title": "Художественный фильм.",
           "description": "L",
           "category": null
         }

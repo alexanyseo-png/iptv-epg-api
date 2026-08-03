@@ -8,225 +8,129 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-02T03:55:09.402838+00:00",
+  "generatedAt": "2026-08-03T03:56:39.985539+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-08-02",
-      "programs": [
-        {
-          "start": "2026-08-02T00:15:00+03:00",
-          "stop": "2026-08-02T00:45:00+03:00",
-          "title": "Eestlane ja venelane | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T00:45:00+03:00",
-          "stop": "2026-08-02T01:10:00+03:00",
-          "title": "Eestlane ja venelane | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T01:10:00+03:00",
-          "stop": "2026-08-02T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T07:00:00+03:00",
-          "stop": "2026-08-02T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T07:02:00+03:00",
-          "stop": "2026-08-02T07:35:00+03:00",
-          "title": "Õhtu tantsuga | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T07:35:00+03:00",
-          "stop": "2026-08-02T08:05:00+03:00",
-          "title": "Õhtu tantsuga: Kirsipuu & Kasesalu & Rockin' Guys, solist Airi Ojamets | E23",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T08:05:00+03:00",
-          "stop": "2026-08-02T08:40:00+03:00",
-          "title": "Õhtu tantsuga | E24",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T08:40:00+03:00",
-          "stop": "2026-08-02T09:15:00+03:00",
-          "title": "Õhtu tantsuga | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T09:15:00+03:00",
-          "stop": "2026-08-02T09:45:00+03:00",
-          "title": "Õhtu tantsuga: Karavan | E26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T09:45:00+03:00",
-          "stop": "2026-08-02T10:35:00+03:00",
-          "title": "Pilvede all | E127",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T10:35:00+03:00",
-          "stop": "2026-08-02T11:30:00+03:00",
-          "title": "Pilvede all | E128",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T11:30:00+03:00",
-          "stop": "2026-08-02T12:20:00+03:00",
-          "title": "Pilvede all | E129",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T12:20:00+03:00",
-          "stop": "2026-08-02T13:15:00+03:00",
-          "title": "Pilvede all | E130",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T13:15:00+03:00",
-          "stop": "2026-08-02T14:10:00+03:00",
-          "title": "Pilvede all | E131",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T14:10:00+03:00",
-          "stop": "2026-08-02T14:35:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T14:35:00+03:00",
-          "stop": "2026-08-02T15:10:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T15:10:00+03:00",
-          "stop": "2026-08-02T15:35:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E21",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T15:35:00+03:00",
-          "stop": "2026-08-02T16:10:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T16:10:00+03:00",
-          "stop": "2026-08-02T16:40:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T16:40:00+03:00",
-          "stop": "2026-08-02T17:05:00+03:00",
-          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T17:05:00+03:00",
-          "stop": "2026-08-02T17:25:00+03:00",
-          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E21",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T17:25:00+03:00",
-          "stop": "2026-08-02T17:50:00+03:00",
-          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T17:50:00+03:00",
-          "stop": "2026-08-02T18:10:00+03:00",
-          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E23",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T18:10:00+03:00",
-          "stop": "2026-08-02T18:35:00+03:00",
-          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E24",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T18:35:00+03:00",
-          "stop": "2026-08-02T19:10:00+03:00",
-          "title": "Eesti rockmuusikat: Rock Hotel | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T19:10:00+03:00",
-          "stop": "2026-08-02T20:35:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E41",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T20:35:00+03:00",
-          "stop": "2026-08-02T22:05:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E42",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T22:05:00+03:00",
-          "stop": "2026-08-02T23:30:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E43",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-02T23:30:00+03:00",
-          "stop": "2026-08-03T00:55:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E44",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-03",
       "programs": [
         {
           "start": "2026-08-03T00:55:00+03:00",
-          "stop": "2026-08-03T01:55:00+03:00",
+          "stop": "2026-08-03T07:00:00+03:00",
           "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T07:00:00+03:00",
+          "stop": "2026-08-03T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T07:02:00+03:00",
+          "stop": "2026-08-03T07:55:00+03:00",
+          "title": "11 000 aastat hiljem: Raha tegemine | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T07:55:00+03:00",
+          "stop": "2026-08-03T08:50:00+03:00",
+          "title": "Pilvede all | E131",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T08:50:00+03:00",
+          "stop": "2026-08-03T09:35:00+03:00",
+          "title": "Meie suvi iraanlastega | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T09:35:00+03:00",
+          "stop": "2026-08-03T10:00:00+03:00",
+          "title": "Eestlane ja venelane | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T10:00:00+03:00",
+          "stop": "2026-08-03T10:30:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T10:30:00+03:00",
+          "stop": "2026-08-03T10:55:00+03:00",
+          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T10:55:00+03:00",
+          "stop": "2026-08-03T11:45:00+03:00",
+          "title": "Saare sosinad | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T11:45:00+03:00",
+          "stop": "2026-08-03T12:35:00+03:00",
+          "title": "Kelgukoerad | E146",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T12:35:00+03:00",
+          "stop": "2026-08-03T13:55:00+03:00",
+          "title": "Suur komöödiaõhtu | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T13:55:00+03:00",
+          "stop": "2026-08-03T15:10:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E45",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T15:10:00+03:00",
+          "stop": "2026-08-03T16:00:00+03:00",
+          "title": "11 000 aastat hiljem: Väiksem võim | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T16:00:00+03:00",
+          "stop": "2026-08-03T16:55:00+03:00",
+          "title": "Pilvede all | E132",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T16:55:00+03:00",
+          "stop": "2026-08-03T17:25:00+03:00",
+          "title": "Televisiooni lapsed | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T17:25:00+03:00",
+          "stop": "2026-08-03T17:50:00+03:00",
+          "title": "Lemmikute lemmik | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-03T17:50:00+03:00",
+          "stop": "2026-08-03T18:20:00+03:00",
+          "title": "Üksildane Uitaja ja Don Quijote Tallinnas | E25",
           "description": "L",
           "category": null
         }
