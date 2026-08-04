@@ -8,122 +8,440 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-03T03:56:39.985539+00:00",
+  "generatedAt": "2026-08-04T03:40:04.249820+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 60,
   "days": [
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "programs": [
         {
-          "start": "2026-08-03T00:15:00+03:00",
-          "stop": "2026-08-03T01:50:00+03:00",
-          "title": "Wściekłe psy",
+          "start": "2026-08-04T01:10:00+03:00",
+          "stop": "2026-08-04T02:55:00+03:00",
+          "title": "Ex Machina",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T01:50:00+03:00",
-          "stop": "2026-08-03T03:30:00+03:00",
-          "title": "Klucz do koszmaru",
+          "start": "2026-08-04T02:55:00+03:00",
+          "stop": "2026-08-04T05:00:00+03:00",
+          "title": "Dziewczyna z igłą",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T03:30:00+03:00",
-          "stop": "2026-08-03T05:20:00+03:00",
-          "title": "Imago",
+          "start": "2026-08-04T05:00:00+03:00",
+          "stop": "2026-08-04T07:00:00+03:00",
+          "title": "Kiler-ów 2-óch",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T05:20:00+03:00",
-          "stop": "2026-08-03T06:55:00+03:00",
-          "title": "W stronę słońca",
+          "start": "2026-08-04T07:00:00+03:00",
+          "stop": "2026-08-04T07:05:00+03:00",
+          "title": "Łapu Capu | E184",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T06:55:00+03:00",
-          "stop": "2026-08-03T07:00:00+03:00",
+          "start": "2026-08-04T07:05:00+03:00",
+          "stop": "2026-08-04T07:35:00+03:00",
+          "title": "The Office PL 2 – Powrót Gosi | S02E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T07:35:00+03:00",
+          "stop": "2026-08-04T08:10:00+03:00",
+          "title": "The Office PL 2 – Piknik | S02E12-ost",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T08:10:00+03:00",
+          "stop": "2026-08-04T09:40:00+03:00",
+          "title": "Masz ci los!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T09:40:00+03:00",
+          "stop": "2026-08-04T11:00:00+03:00",
+          "title": "Hannah Arendt: Myślenie jest niebezpieczne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T11:00:00+03:00",
+          "stop": "2026-08-04T11:05:00+03:00",
+          "title": "Łapu Capu | E184",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T11:05:00+03:00",
+          "stop": "2026-08-04T12:25:00+03:00",
+          "title": "Ida",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T12:25:00+03:00",
+          "stop": "2026-08-04T14:35:00+03:00",
+          "title": "Saga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T14:35:00+03:00",
+          "stop": "2026-08-04T16:45:00+03:00",
+          "title": "Chopin, Chopin!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T16:45:00+03:00",
+          "stop": "2026-08-04T17:40:00+03:00",
+          "title": "Czy AI zabija internet?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T17:40:00+03:00",
+          "stop": "2026-08-04T19:20:00+03:00",
+          "title": "Kawałek po kawałku",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T19:20:00+03:00",
+          "stop": "2026-08-04T19:25:00+03:00",
+          "title": "Łapu Capu | E185",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T19:25:00+03:00",
+          "stop": "2026-08-04T21:00:00+03:00",
+          "title": "Thelma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T21:00:00+03:00",
+          "stop": "2026-08-04T22:40:00+03:00",
+          "title": "Cudowne życie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T22:40:00+03:00",
+          "stop": "2026-08-05T00:15:00+03:00",
+          "title": "Co ukrywa Elon Musk?",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "programs": [
+        {
+          "start": "2026-08-05T00:15:00+03:00",
+          "stop": "2026-08-05T02:00:00+03:00",
+          "title": "Herosi wojny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T02:00:00+03:00",
+          "stop": "2026-08-05T03:35:00+03:00",
+          "title": "Rytuał",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T03:35:00+03:00",
+          "stop": "2026-08-05T05:20:00+03:00",
+          "title": "Skarbek",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T05:20:00+03:00",
+          "stop": "2026-08-05T06:50:00+03:00",
+          "title": "Zapaleńcy. Historia polskiego filmu animowanego",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T06:50:00+03:00",
+          "stop": "2026-08-05T07:00:00+03:00",
           "title": "Making of CANAL+",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T07:00:00+03:00",
-          "stop": "2026-08-03T07:15:00+03:00",
-          "title": "Łapu Capu | E183",
+          "start": "2026-08-05T07:00:00+03:00",
+          "stop": "2026-08-05T07:05:00+03:00",
+          "title": "Łapu Capu | E185",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T07:15:00+03:00",
-          "stop": "2026-08-03T07:45:00+03:00",
-          "title": "The Office PL 2 – Pożegnania | S02E09",
+          "start": "2026-08-05T07:05:00+03:00",
+          "stop": "2026-08-05T07:35:00+03:00",
+          "title": "The Office PL 3 – Big News | S03E1/12",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T07:45:00+03:00",
-          "stop": "2026-08-03T08:15:00+03:00",
-          "title": "The Office PL 2 – Halloween | S02E10",
+          "start": "2026-08-05T07:35:00+03:00",
+          "stop": "2026-08-05T08:05:00+03:00",
+          "title": "The Office PL 3 – Test IQ | S03E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T08:15:00+03:00",
-          "stop": "2026-08-03T10:00:00+03:00",
-          "title": "Kiler",
+          "start": "2026-08-05T08:05:00+03:00",
+          "stop": "2026-08-05T09:30:00+03:00",
+          "title": "Fuks",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T10:00:00+03:00",
-          "stop": "2026-08-03T10:15:00+03:00",
-          "title": "Łapu Capu | E183",
+          "start": "2026-08-05T09:30:00+03:00",
+          "stop": "2026-08-05T11:35:00+03:00",
+          "title": "Yintah",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T10:15:00+03:00",
-          "stop": "2026-08-03T11:40:00+03:00",
-          "title": "Naturalna dzikość serca",
+          "start": "2026-08-05T11:35:00+03:00",
+          "stop": "2026-08-05T12:40:00+03:00",
+          "title": "Moje pieczone kurczaki",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T11:40:00+03:00",
-          "stop": "2026-08-03T12:40:00+03:00",
-          "title": "W kogo ja się wrodziłem?",
+          "start": "2026-08-05T12:40:00+03:00",
+          "stop": "2026-08-05T14:40:00+03:00",
+          "title": "Saga",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T12:40:00+03:00",
-          "stop": "2026-08-03T14:40:00+03:00",
-          "title": "Zmierzch",
+          "start": "2026-08-05T14:40:00+03:00",
+          "stop": "2026-08-05T14:45:00+03:00",
+          "title": "Łapu Capu | E185",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T14:40:00+03:00",
-          "stop": "2026-08-03T16:05:00+03:00",
-          "title": "Zgred",
+          "start": "2026-08-05T14:45:00+03:00",
+          "stop": "2026-08-05T16:05:00+03:00",
+          "title": "Wszyscy święci",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T16:05:00+03:00",
-          "stop": "2026-08-03T16:55:00+03:00",
-          "title": "Ekstremalne opady: niszczycielski żywioł",
+          "start": "2026-08-05T16:05:00+03:00",
+          "stop": "2026-08-05T17:15:00+03:00",
+          "title": "Dahomej",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T16:55:00+03:00",
-          "stop": "2026-08-03T19:10:00+03:00",
-          "title": "The Holiday",
+          "start": "2026-08-05T17:15:00+03:00",
+          "stop": "2026-08-05T17:35:00+03:00",
+          "title": "Czarna woda",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T17:35:00+03:00",
+          "stop": "2026-08-05T19:15:00+03:00",
+          "title": "Kiedy nadchodzi jesień",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T19:15:00+03:00",
+          "stop": "2026-08-05T19:20:00+03:00",
+          "title": "Łapu Capu | E186",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T19:20:00+03:00",
+          "stop": "2026-08-05T21:00:00+03:00",
+          "title": "Dalej jazda! 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T21:00:00+03:00",
+          "stop": "2026-08-05T21:50:00+03:00",
+          "title": "Kontyngent | E6-ost",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T21:50:00+03:00",
+          "stop": "2026-08-06T00:00:00+03:00",
+          "title": "Christy",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "programs": [
+        {
+          "start": "2026-08-06T00:00:00+03:00",
+          "stop": "2026-08-06T00:50:00+03:00",
+          "title": "The Walking Dead: Dead City 3 | S03E1/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T00:50:00+03:00",
+          "stop": "2026-08-06T02:30:00+03:00",
+          "title": "Dźwięk śmierci",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T02:30:00+03:00",
+          "stop": "2026-08-06T04:05:00+03:00",
+          "title": "Utrata równowagi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T04:05:00+03:00",
+          "stop": "2026-08-06T05:40:00+03:00",
+          "title": "Dwie siostry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T05:40:00+03:00",
+          "stop": "2026-08-06T07:00:00+03:00",
+          "title": "Lili",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:00:00+03:00",
+          "stop": "2026-08-06T07:05:00+03:00",
+          "title": "Łapu Capu | E186",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:05:00+03:00",
+          "stop": "2026-08-06T07:35:00+03:00",
+          "title": "The Office PL 3 – Asystent | S03E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:35:00+03:00",
+          "stop": "2026-08-06T08:05:00+03:00",
+          "title": "The Office PL 3 – Ono | S03E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T08:05:00+03:00",
+          "stop": "2026-08-06T09:25:00+03:00",
+          "title": "Królowa chmur",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T09:25:00+03:00",
+          "stop": "2026-08-06T11:00:00+03:00",
+          "title": "Hollywoodgate",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T11:00:00+03:00",
+          "stop": "2026-08-06T11:55:00+03:00",
+          "title": "Miss mokrego podkoszulka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T11:55:00+03:00",
+          "stop": "2026-08-06T13:50:00+03:00",
+          "title": "Saga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T13:50:00+03:00",
+          "stop": "2026-08-06T14:05:00+03:00",
+          "title": "Premierowa jazda | S05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T14:05:00+03:00",
+          "stop": "2026-08-06T15:25:00+03:00",
+          "title": "MTV Unplugged: Maryla Rodowicz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T15:25:00+03:00",
+          "stop": "2026-08-06T16:50:00+03:00",
+          "title": "Girl Climber. Wspinaczka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T16:50:00+03:00",
+          "stop": "2026-08-06T17:15:00+03:00",
+          "title": "Hollywood Buzz | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T17:15:00+03:00",
+          "stop": "2026-08-06T19:00:00+03:00",
+          "title": "Niania w Nowym Jorku",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T19:00:00+03:00",
+          "stop": "2026-08-06T19:05:00+03:00",
+          "title": "Łapu Capu | E187",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T19:05:00+03:00",
+          "stop": "2026-08-06T21:00:00+03:00",
+          "title": "Ultimatum Bourne'a",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T21:00:00+03:00",
+          "stop": "2026-08-06T23:00:00+03:00",
+          "title": "Ballerina. Z uniwersum Johna Wicka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T23:00:00+03:00",
+          "stop": "2026-08-07T00:55:00+03:00",
+          "title": "Spalę was wszystkich",
           "description": "L",
           "category": null
         }

@@ -8,94 +8,468 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-03T03:56:39.985539+00:00",
+  "generatedAt": "2026-08-04T03:40:04.249820+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 64,
   "days": [
     {
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "programs": [
         {
-          "start": "2026-08-03T01:15:00+03:00",
-          "stop": "2026-08-03T02:15:00+03:00",
-          "title": "Tour de France Femmes. Stage 2",
+          "start": "2026-08-04T00:00:00+03:00",
+          "stop": "2026-08-04T00:30:00+03:00",
+          "title": "UFC Fight Flashback. Jon Jones v Daniel Cormier",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T02:15:00+03:00",
-          "stop": "2026-08-03T05:15:00+03:00",
+          "start": "2026-08-04T00:30:00+03:00",
+          "stop": "2026-08-04T01:00:00+03:00",
+          "title": "UFC Fight Flashback. 275: Glover Teixeira v Ji?í Procházka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T01:00:00+03:00",
+          "stop": "2026-08-04T01:30:00+03:00",
+          "title": "UFC Fight Flashback. UFC 205: Tyron Woodley v Stephen Thompson",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T01:30:00+03:00",
+          "stop": "2026-08-04T02:00:00+03:00",
+          "title": "UFC Fight Flashback. UFC 278: Kamaru Usman v Leon Edwards",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T02:00:00+03:00",
+          "stop": "2026-08-04T05:00:00+03:00",
           "title": "The Ultimate Fighting Championship. UFC Fight Night: Uros Medic v Daniel Rodriguez",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T05:15:00+03:00",
-          "stop": "2026-08-03T06:15:00+03:00",
+          "start": "2026-08-04T05:00:00+03:00",
+          "stop": "2026-08-04T06:00:00+03:00",
           "title": "UFC The Ultimate Fighter. Series 34 Episode 8",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T06:15:00+03:00",
-          "stop": "2026-08-03T06:30:00+03:00",
-          "title": "TNT Sports Reload. Series 26 Episode 30",
+          "start": "2026-08-04T06:00:00+03:00",
+          "stop": "2026-08-04T06:30:00+03:00",
+          "title": "UFC Fight Flashback. UFC 207: Cody Garbrandt v Dominick Cruz",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T06:30:00+03:00",
-          "stop": "2026-08-03T08:00:00+03:00",
-          "title": "Ultimate Pool Champions League. Group 7",
+          "start": "2026-08-04T06:30:00+03:00",
+          "stop": "2026-08-04T07:00:00+03:00",
+          "title": "UFC Fight Flashback. UFC 270: Brandon Moreno v Deiveson Figueiredo III",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T08:00:00+03:00",
-          "stop": "2026-08-03T09:30:00+03:00",
+          "start": "2026-08-04T07:00:00+03:00",
+          "stop": "2026-08-04T07:30:00+03:00",
+          "title": "UFC Fight Flashback. UFC 195: Robbie Lawler v Carlos Condit",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T07:30:00+03:00",
+          "stop": "2026-08-04T08:00:00+03:00",
+          "title": "Formula E Flashback. Series 1 Episode 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T08:00:00+03:00",
+          "stop": "2026-08-04T08:30:00+03:00",
+          "title": "UEFA Champions League Classics. 2012/13: Celtic v Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T08:30:00+03:00",
+          "stop": "2026-08-04T09:00:00+03:00",
+          "title": "UEFA Champions League Classics. 2012/13: Manchester United v Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T09:00:00+03:00",
+          "stop": "2026-08-04T10:00:00+03:00",
+          "title": "Prem Classics. 2010/11 Season",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T10:00:00+03:00",
+          "stop": "2026-08-04T11:00:00+03:00",
+          "title": "Prem Classics. 2011/12 Season",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T11:00:00+03:00",
+          "stop": "2026-08-04T12:00:00+03:00",
+          "title": "Prem Classics. 2012/13: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T12:00:00+03:00",
+          "stop": "2026-08-04T13:00:00+03:00",
+          "title": "Prem Classics. 2013/14: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T13:00:00+03:00",
+          "stop": "2026-08-04T15:00:00+03:00",
+          "title": "Shanghai Masters Snooker. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T15:00:00+03:00",
+          "stop": "2026-08-04T16:00:00+03:00",
+          "title": "Major League Baseball. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T16:00:00+03:00",
+          "stop": "2026-08-04T17:00:00+03:00",
+          "title": "NWSL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-04T17:00:00+03:00",
+          "stop": "2026-08-04T18:30:00+03:00",
           "title": "Australian Rules. Collingwood v Geelong Cats",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T09:30:00+03:00",
-          "stop": "2026-08-03T11:00:00+03:00",
+          "start": "2026-08-04T18:30:00+03:00",
+          "stop": "2026-08-04T20:00:00+03:00",
           "title": "Australian Rules. Fremantle v Western Bulldogs",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T11:00:00+03:00",
-          "stop": "2026-08-03T12:30:00+03:00",
+          "start": "2026-08-04T20:00:00+03:00",
+          "stop": "2026-08-04T21:30:00+03:00",
           "title": "Australian Rules. St Kilda v Sydney Swans",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T12:30:00+03:00",
-          "stop": "2026-08-03T14:00:00+03:00",
+          "start": "2026-08-04T21:30:00+03:00",
+          "stop": "2026-08-04T23:00:00+03:00",
           "title": "Australian Rules. Hawthorn v North Melbourne",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T14:00:00+03:00",
-          "stop": "2026-08-03T15:30:00+03:00",
+          "start": "2026-08-04T23:00:00+03:00",
+          "stop": "2026-08-05T00:30:00+03:00",
           "title": "Australian Rules. Port Adelaide v GWS GIANTS",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-05",
+      "programs": [
+        {
+          "start": "2026-08-05T00:30:00+03:00",
+          "stop": "2026-08-05T02:30:00+03:00",
+          "title": "World Series of Poker. Card Casino: Final Table",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T15:30:00+03:00",
-          "stop": "2026-08-03T17:00:00+03:00",
+          "start": "2026-08-05T02:30:00+03:00",
+          "stop": "2026-08-05T03:30:00+03:00",
+          "title": "NWSL. Washington Spirit v San Diego Wave FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T03:30:00+03:00",
+          "stop": "2026-08-05T04:30:00+03:00",
+          "title": "UFC The Ultimate Fighter. Series 34 Episode 9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T04:30:00+03:00",
+          "stop": "2026-08-05T05:00:00+03:00",
+          "title": "UFC Fight Flashback. UFC 213: Robert Whittaker v Yoel Romero",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T05:00:00+03:00",
+          "stop": "2026-08-05T05:45:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Flanders: MX2 Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T05:45:00+03:00",
+          "stop": "2026-08-05T06:30:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Flanders: MXGP Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T06:30:00+03:00",
+          "stop": "2026-08-05T07:15:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Flanders: MX2 Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T07:15:00+03:00",
+          "stop": "2026-08-05T08:00:00+03:00",
+          "title": "FIM World Championship Motocross Racing. Grand Prix of Flanders: MXGP Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T08:00:00+03:00",
+          "stop": "2026-08-05T09:00:00+03:00",
+          "title": "Prem Classics. 2016/17: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T09:00:00+03:00",
+          "stop": "2026-08-05T10:00:00+03:00",
+          "title": "Prem Classics. 2017/18: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T10:00:00+03:00",
+          "stop": "2026-08-05T11:00:00+03:00",
+          "title": "Prem Classics. 2018/19: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T11:00:00+03:00",
+          "stop": "2026-08-05T12:00:00+03:00",
+          "title": "Prem Classics. 2019/20 Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T12:00:00+03:00",
+          "stop": "2026-08-05T13:00:00+03:00",
+          "title": "WRC Review. Rally Finland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T13:00:00+03:00",
+          "stop": "2026-08-05T14:00:00+03:00",
+          "title": "NWSL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T14:00:00+03:00",
+          "stop": "2026-08-05T15:00:00+03:00",
+          "title": "NWSL. Washington Spirit v San Diego Wave FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T15:00:00+03:00",
+          "stop": "2026-08-05T16:00:00+03:00",
+          "title": "Major League Baseball. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T16:00:00+03:00",
+          "stop": "2026-08-05T17:00:00+03:00",
+          "title": "Fishing: On the Bank. Crouch Open",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T17:00:00+03:00",
+          "stop": "2026-08-05T18:30:00+03:00",
+          "title": "PREM Rugby. Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T18:30:00+03:00",
+          "stop": "2026-08-05T19:30:00+03:00",
+          "title": "SailGP. Great Britain SGP",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T19:30:00+03:00",
+          "stop": "2026-08-05T20:00:00+03:00",
+          "title": "Golden Trail World Series. Salomon Pitz Alpine Glacier Trail",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T20:00:00+03:00",
+          "stop": "2026-08-05T21:30:00+03:00",
           "title": "Australian Rules. Carlton v Brisbane Lions",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-03T17:00:00+03:00",
-          "stop": "2026-08-03T18:30:00+03:00",
+          "start": "2026-08-05T21:30:00+03:00",
+          "stop": "2026-08-05T23:00:00+03:00",
           "title": "Australian Rules. Richmond v West Coast Eagles",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-05T23:00:00+03:00",
+          "stop": "2026-08-06T00:30:00+03:00",
+          "title": "Australian Rules. Gold Coast SUNS v Melbourne",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "programs": [
+        {
+          "start": "2026-08-06T00:30:00+03:00",
+          "stop": "2026-08-06T02:00:00+03:00",
+          "title": "Australian Rules. Essendon v Adelaide Crows",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T02:00:00+03:00",
+          "stop": "2026-08-06T03:00:00+03:00",
+          "title": "UFC The Ultimate Fighter. Series 34 Episode 9",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T03:00:00+03:00",
+          "stop": "2026-08-06T06:00:00+03:00",
+          "title": "The Ultimate Fighting Championship. UFC Fight Night: Uros Medic v Daniel Rodriguez",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T06:00:00+03:00",
+          "stop": "2026-08-06T06:30:00+03:00",
+          "title": "UFC Fight Flashback. UFC 218: Max Holloway v Jose Aldo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T06:30:00+03:00",
+          "stop": "2026-08-06T07:00:00+03:00",
+          "title": "UFC Fight Flashback. 268: Kamaru Usman v Colby Covington II",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:00:00+03:00",
+          "stop": "2026-08-06T07:30:00+03:00",
+          "title": "UFC Fight Flashback. UFC 213: Cody Garbrandt v T.J. Dillashaw",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:30:00+03:00",
+          "stop": "2026-08-06T08:00:00+03:00",
+          "title": "Golden Trail World Series. Salomon Pitz Alpine Glacier Trail",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T08:00:00+03:00",
+          "stop": "2026-08-06T09:00:00+03:00",
+          "title": "Prem Classics. 2020/21: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T09:00:00+03:00",
+          "stop": "2026-08-06T10:00:00+03:00",
+          "title": "Prem Classics. 2021/22: Season Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T10:00:00+03:00",
+          "stop": "2026-08-06T10:30:00+03:00",
+          "title": "What I Wore. Mikel John Obi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T10:30:00+03:00",
+          "stop": "2026-08-06T12:00:00+03:00",
+          "title": "Ultimate Pool Champions League. Group 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T12:00:00+03:00",
+          "stop": "2026-08-06T14:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Women's Round of 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T14:00:00+03:00",
+          "stop": "2026-08-06T16:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Men's Round of 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T16:00:00+03:00",
+          "stop": "2026-08-06T18:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Women's Round of 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T18:00:00+03:00",
+          "stop": "2026-08-06T20:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Men's Round of 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T20:00:00+03:00",
+          "stop": "2026-08-06T22:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Women's Round of 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T22:00:00+03:00",
+          "stop": "2026-08-07T00:00:00+03:00",
+          "title": "⋗ Premier Padel. London P1: Men's Round of 16",
           "description": "L",
           "category": null
         }

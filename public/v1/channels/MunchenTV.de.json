@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-03T03:56:39.985539+00:00",
+  "generatedAt": "2026-08-04T03:40:04.249820+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-08-03",
-      "programs": [
-        {
-          "start": "2026-08-03T00:00:00+03:00",
-          "stop": "2026-08-03T01:00:00+03:00",
-          "title": "Lejeune.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-03T01:00:00+03:00",
-          "stop": "2026-08-03T07:00:00+03:00",
-          "title": "münchen.tv.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-03T07:00:00+03:00",
-          "stop": "2026-08-03T13:00:00+03:00",
-          "title": "münchen.tv.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-03T13:00:00+03:00",
-          "stop": "2026-08-03T19:00:00+03:00",
-          "title": "münchen.tv.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-03T19:00:00+03:00",
-          "stop": "2026-08-04T01:00:00+03:00",
-          "title": "münchen.tv.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-04",
       "programs": [
@@ -112,6 +72,39 @@
         {
           "start": "2026-08-05T19:00:00+03:00",
           "stop": "2026-08-06T01:00:00+03:00",
+          "title": "münchen.tv.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-06",
+      "programs": [
+        {
+          "start": "2026-08-06T01:00:00+03:00",
+          "stop": "2026-08-06T07:00:00+03:00",
+          "title": "münchen.tv.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T07:00:00+03:00",
+          "stop": "2026-08-06T13:00:00+03:00",
+          "title": "münchen.tv.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T13:00:00+03:00",
+          "stop": "2026-08-06T19:00:00+03:00",
+          "title": "münchen.tv.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-06T19:00:00+03:00",
+          "stop": "2026-08-07T01:00:00+03:00",
           "title": "münchen.tv.",
           "description": "L",
           "category": null
