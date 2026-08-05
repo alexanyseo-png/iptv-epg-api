@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-04T03:40:04.249820+00:00",
+  "generatedAt": "2026-08-05T03:35:08.798030+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-08-04",
-      "programs": [
-        {
-          "start": "2026-08-04T11:00:00+03:00",
-          "stop": "2026-08-04T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-04T19:00:00+03:00",
-          "stop": "2026-08-04T22:00:00+03:00",
-          "title": "Formula 1: Itävallan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-04T22:00:00+03:00",
-          "stop": "2026-08-05T11:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-05",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-08-06T22:00:00+03:00",
           "stop": "2026-08-07T11:00:00+03:00",
           "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "programs": [
+        {
+          "start": "2026-08-07T11:00:00+03:00",
+          "stop": "2026-08-07T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T19:00:00+03:00",
+          "stop": "2026-08-07T22:00:00+03:00",
+          "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T22:00:00+03:00",
+          "stop": "2026-08-08T11:00:00+03:00",
+          "title": "Formula 1: Belgian GP – Osakilpailu",
           "description": "L",
           "category": null
         }

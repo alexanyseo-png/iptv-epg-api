@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-04T03:40:04.249820+00:00",
+  "generatedAt": "2026-08-05T03:35:08.798030+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-08-04",
-      "programs": [
-        {
-          "start": "2026-08-04T19:55:00+03:00",
-          "stop": "2026-08-04T22:20:00+03:00",
-          "title": "İddiaların Aksine",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-04T22:20:00+03:00",
-          "stop": "2026-08-05T00:15:00+03:00",
-          "title": "Dizi",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-05",
       "programs": [
@@ -210,6 +191,18 @@
         {
           "start": "2026-08-06T20:00:00+03:00",
           "stop": "2026-08-07T20:00:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-07",
+      "programs": [
+        {
+          "start": "2026-08-07T20:00:00+03:00",
+          "stop": "2026-08-08T00:15:00+03:00",
           "title": "Dizi",
           "description": "L",
           "category": null
