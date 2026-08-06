@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-05T03:35:08.798030+00:00",
+  "generatedAt": "2026-08-06T03:41:30.243910+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-08-05",
-      "programs": [
-        {
-          "start": "2026-08-05T07:00:00+03:00",
-          "stop": "2026-08-06T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-06",
       "programs": [
@@ -42,6 +30,39 @@
         {
           "start": "2026-08-07T07:00:00+03:00",
           "stop": "2026-08-08T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "programs": [
+        {
+          "start": "2026-08-08T07:00:00+03:00",
+          "stop": "2026-08-08T13:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-08T13:10:00+03:00",
+          "stop": "2026-08-08T13:30:00+03:00",
+          "title": "Es folgt: LIVE 2. Liga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-08T13:30:00+03:00",
+          "stop": "2026-08-08T16:00:00+03:00",
+          "title": "Live 2. BL: 1. FC Magdeburg – Eintracht Braunschweig, 1. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-08T16:00:00+03:00",
+          "stop": "2026-08-09T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

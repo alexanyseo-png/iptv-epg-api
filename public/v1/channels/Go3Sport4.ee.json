@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-05T03:35:08.798030+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-06T03:41:30.243910+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-08-08",
+      "programs": [
+        {
+          "start": "2026-08-08T21:30:00+03:00",
+          "stop": "2026-08-08T22:30:00+03:00",
+          "title": "⋗ WNBA 2026. Chicago Sky – Indiana Fever",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
