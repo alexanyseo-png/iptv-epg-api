@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 50,
   "days": [
     {
       "date": "2026-08-07",
@@ -73,8 +73,15 @@
         },
         {
           "start": "2026-08-07T10:00:00+03:00",
+          "stop": "2026-08-07T10:55:00+03:00",
+          "title": "Teen Mom OG: Es ist nicht okay",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T10:55:00+03:00",
           "stop": "2026-08-07T12:45:00+03:00",
-          "title": "Teen Mom OG: Es ist nicht okay, Am seidenen Faden и 1 др",
+          "title": "Teen Mom OG: Am seidenen Faden, Zeit für ein Gespräch",
           "description": "L",
           "category": null
         },
@@ -286,8 +293,85 @@
         },
         {
           "start": "2026-08-09T04:40:00+03:00",
-          "stop": "2026-08-09T05:40:00+03:00",
-          "title": "Фильм Are You the One?: Die Wahrheit hat ihren Preis",
+          "stop": "2026-08-09T05:20:00+03:00",
+          "title": "Are You the One?: Die Wahrheit hat ihren Preis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T05:20:00+03:00",
+          "stop": "2026-08-09T06:05:00+03:00",
+          "title": "Фильм Just Tattoo Of Us: Geschwisterrivalitäten",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T06:05:00+03:00",
+          "stop": "2026-08-09T11:00:00+03:00",
+          "title": "Ridiculousness: Sterling und Nina Agdal V, и 9 др",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T11:00:00+03:00",
+          "stop": "2026-08-09T12:00:00+03:00",
+          "title": "Ink Master: Redemption: Große Abrechnungen, Geist geht vor",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T12:00:00+03:00",
+          "stop": "2026-08-09T15:35:00+03:00",
+          "title": "Ink Master – Tattoo Champion USA: Finale, Eröffnungsschüsse и 2 др",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T15:35:00+03:00",
+          "stop": "2026-08-09T17:25:00+03:00",
+          "title": "Help! I'm In A Secret Relationship: Jake & Rebekka, Xan & Mandela",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T17:25:00+03:00",
+          "stop": "2026-08-09T20:00:00+03:00",
+          "title": "Catfish: The TV Series: William & Carmella, Shi & Mira и 1 др",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T20:00:00+03:00",
+          "stop": "2026-08-09T21:00:00+03:00",
+          "title": "Unfaithful: Caught in the Act: Ich heirate beide",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T21:00:00+03:00",
+          "stop": "2026-08-09T21:15:00+03:00",
+          "title": "Ridiculousness: Sterling und Lolo Wood LXXI",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T21:15:00+03:00",
+          "stop": "2026-08-09T22:00:00+03:00",
+          "title": "т/с SpongeBob Schwammkopf: Quallenfischer; Plankton, Freunde und Nachbarn; Prüfungsangst",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T22:00:00+03:00",
+          "stop": "2026-08-09T23:00:00+03:00",
+          "title": "т/с South Park: Tanz der Mutanten, Wer killt Opa?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T23:00:00+03:00",
+          "stop": "2026-08-10T00:30:00+03:00",
+          "title": "Jersey Shore Family Vacation: BDS Eventplanung",
           "description": "L",
           "category": null
         }

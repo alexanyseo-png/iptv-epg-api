@@ -8,8 +8,166 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "available": true,
+  "programmeCount": 21,
+  "days": [
+    {
+      "date": "2026-08-07",
+      "programs": [
+        {
+          "start": "2026-08-07T05:00:00+03:00",
+          "stop": "2026-08-07T05:55:00+03:00",
+          "title": "Haber 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T05:55:00+03:00",
+          "stop": "2026-08-07T06:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T06:00:00+03:00",
+          "stop": "2026-08-07T07:00:00+03:00",
+          "title": "Haber 06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T07:00:00+03:00",
+          "stop": "2026-08-07T09:55:00+03:00",
+          "title": "TRT HABER'de Dün Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T09:55:00+03:00",
+          "stop": "2026-08-07T10:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T10:00:00+03:00",
+          "stop": "2026-08-07T13:00:00+03:00",
+          "title": "Satır Başı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T13:00:00+03:00",
+          "stop": "2026-08-07T13:50:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T13:50:00+03:00",
+          "stop": "2026-08-07T13:55:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T13:55:00+03:00",
+          "stop": "2026-08-07T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T14:00:00+03:00",
+          "stop": "2026-08-07T15:00:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T15:00:00+03:00",
+          "stop": "2026-08-07T15:30:00+03:00",
+          "title": "Haber Ajandası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T15:30:00+03:00",
+          "stop": "2026-08-07T16:00:00+03:00",
+          "title": "Eğitim Editörü",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T16:00:00+03:00",
+          "stop": "2026-08-07T17:00:00+03:00",
+          "title": "Haber Ajandası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T17:00:00+03:00",
+          "stop": "2026-08-07T18:00:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T18:00:00+03:00",
+          "stop": "2026-08-07T18:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T18:55:00+03:00",
+          "stop": "2026-08-07T19:00:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T19:00:00+03:00",
+          "stop": "2026-08-07T20:00:00+03:00",
+          "title": "Sıcak Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T20:00:00+03:00",
+          "stop": "2026-08-07T20:45:00+03:00",
+          "title": "Ana Haber 20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T20:45:00+03:00",
+          "stop": "2026-08-07T23:00:00+03:00",
+          "title": "Birinci Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T23:00:00+03:00",
+          "stop": "2026-08-08T00:00:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-08",
+      "programs": [
+        {
+          "start": "2026-08-08T00:00:00+03:00",
+          "stop": "2026-08-10T00:00:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

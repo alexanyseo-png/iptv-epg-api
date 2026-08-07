@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 71,
+  "programmeCount": 72,
   "days": [
     {
       "date": "2026-08-07",
@@ -461,8 +461,15 @@
         },
         {
           "start": "2026-08-09T12:20:00+03:00",
-          "stop": "2026-08-09T15:00:00+03:00",
+          "stop": "2026-08-09T12:45:00+03:00",
           "title": "Новости. Центральный регион",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T12:45:00+03:00",
+          "stop": "2026-08-09T15:00:00+03:00",
+          "title": "т/с Морячка",
           "description": "L",
           "category": null
         },

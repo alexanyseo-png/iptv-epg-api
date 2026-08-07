@@ -8,8 +8,70 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "available": true,
+  "programmeCount": 8,
+  "days": [
+    {
+      "date": "2026-08-07",
+      "programs": [
+        {
+          "start": "2026-08-07T10:49:00+03:00",
+          "stop": "2026-08-07T12:41:00+03:00",
+          "title": "х/ф Манон від джерела",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T12:41:00+03:00",
+          "stop": "2026-08-07T14:24:00+03:00",
+          "title": "х/ф Жіночі таємниці",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T14:24:00+03:00",
+          "stop": "2026-08-07T15:57:00+03:00",
+          "title": "х/ф Іван Васильович змінює професію",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T15:57:00+03:00",
+          "stop": "2026-08-07T17:55:00+03:00",
+          "title": "х/ф На яскравому сонці",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T17:55:00+03:00",
+          "stop": "2026-08-07T19:19:00+03:00",
+          "title": "х/ф Битва статей",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T19:19:00+03:00",
+          "stop": "2026-08-07T21:11:00+03:00",
+          "title": "х/ф Олівер Твіст",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T21:11:00+03:00",
+          "stop": "2026-08-07T22:37:00+03:00",
+          "title": "х/ф Дні радіо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T22:37:00+03:00",
+          "stop": "2026-08-07T23:37:00+03:00",
+          "title": "х/ф Забуті",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

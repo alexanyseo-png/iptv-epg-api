@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 42,
   "days": [
     {
       "date": "2026-08-07",
@@ -156,7 +156,7 @@
         {
           "start": "2026-08-08T13:00:00+03:00",
           "stop": "2026-08-08T13:30:00+03:00",
-          "title": "Carabao Cup Finals: Hls",
+          "title": "EFL 2025/26 – Highlights Show 39",
           "description": "L",
           "category": null
         },
@@ -170,7 +170,7 @@
         {
           "start": "2026-08-08T13:50:00+03:00",
           "stop": "2026-08-08T16:00:00+03:00",
-          "title": "⋗ Friendly: Inter vs Juventus",
+          "title": "⋗ Friendly: Juventus vs Inter",
           "description": "L",
           "category": null
         },
@@ -190,22 +190,22 @@
         },
         {
           "start": "2026-08-08T20:00:00+03:00",
-          "stop": "2026-08-08T22:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Excelsior",
+          "stop": "2026-08-08T20:30:00+03:00",
+          "title": "Emirates FA Cup: Finals Highlights",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-08T22:00:00+03:00",
-          "stop": "2026-08-08T23:00:00+03:00",
-          "title": "Serie A 2025/26: End Season Review",
+          "start": "2026-08-08T20:30:00+03:00",
+          "stop": "2026-08-08T20:50:00+03:00",
+          "title": "Dutch League Playoffs: Final Highlights",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-08T23:00:00+03:00",
-          "stop": "2026-08-09T01:00:00+03:00",
-          "title": "EFL: Portsmouth vs Leicester",
+          "start": "2026-08-08T20:50:00+03:00",
+          "stop": "2026-08-09T00:00:00+03:00",
+          "title": "⋗ Friuli Venezia Giulia Cup",
           "description": "L",
           "category": null
         }
@@ -214,6 +214,13 @@
     {
       "date": "2026-08-09",
       "programs": [
+        {
+          "start": "2026-08-09T00:00:00+03:00",
+          "stop": "2026-08-09T01:00:00+03:00",
+          "title": "Emirates FA Cup 2025/26: Season Review",
+          "description": "L",
+          "category": null
+        },
         {
           "start": "2026-08-09T01:00:00+03:00",
           "stop": "2026-08-09T02:50:00+03:00",
@@ -237,15 +244,15 @@
         },
         {
           "start": "2026-08-09T06:00:00+03:00",
-          "stop": "2026-08-09T08:00:00+03:00",
-          "title": "AFF Women's Cup: TLS vs IDN",
+          "stop": "2026-08-09T09:00:00+03:00",
+          "title": "Friuli Venezia Giulia Cup",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-09T08:00:00+03:00",
+          "start": "2026-08-09T09:00:00+03:00",
           "stop": "2026-08-09T10:00:00+03:00",
-          "title": "AFF Women's Cup: LAO vs MAS",
+          "title": "Serie A 2025/26: End Season Review",
           "description": "L",
           "category": null
         },
@@ -265,13 +272,6 @@
         },
         {
           "start": "2026-08-09T14:00:00+03:00",
-          "stop": "2026-08-09T14:30:00+03:00",
-          "title": "EFL 2025/26 – Highlights Show 38",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T14:30:00+03:00",
           "stop": "2026-08-09T15:00:00+03:00",
           "title": "⋗ Preshow",
           "description": "L",
@@ -300,8 +300,22 @@
         },
         {
           "start": "2026-08-09T18:00:00+03:00",
-          "stop": "2026-08-09T19:00:00+03:00",
+          "stop": "2026-08-09T20:00:00+03:00",
           "title": "EFL: Hull City vs Birmingham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T20:00:00+03:00",
+          "stop": "2026-08-09T22:00:00+03:00",
+          "title": "EFL: Ipswich vs Middlesbrough",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T22:00:00+03:00",
+          "stop": "2026-08-10T00:00:00+03:00",
+          "title": "Serie A: Napoli vs Lazio",
           "description": "L",
           "category": null
         }

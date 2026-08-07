@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 36,
   "days": [
     {
       "date": "2026-08-07",
@@ -265,8 +265,15 @@
       "programs": [
         {
           "start": "2026-08-09T00:35:00+03:00",
-          "stop": "2026-08-10T02:55:00+03:00",
+          "stop": "2026-08-09T03:55:00+03:00",
           "title": "«Золушка» 1994 Балет",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T03:55:00+03:00",
+          "stop": "2026-08-10T02:55:00+03:00",
+          "title": "«Мелодии Юрия Саульского» 1978",
           "description": "L",
           "category": null
         }

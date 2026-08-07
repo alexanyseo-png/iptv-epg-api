@@ -8,8 +8,63 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "available": true,
+  "programmeCount": 7,
+  "days": [
+    {
+      "date": "2026-08-07",
+      "programs": [
+        {
+          "start": "2026-08-07T11:46:00+03:00",
+          "stop": "2026-08-07T13:22:00+03:00",
+          "title": "х/ф Обличчя Фу Манчу",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T13:22:00+03:00",
+          "stop": "2026-08-07T15:31:00+03:00",
+          "title": "х/ф Ім'я троянди (1986)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T15:31:00+03:00",
+          "stop": "2026-08-07T17:40:00+03:00",
+          "title": "х/ф Донні Дарко",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T17:40:00+03:00",
+          "stop": "2026-08-07T19:19:00+03:00",
+          "title": "х/ф Обладунки Бога",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T19:19:00+03:00",
+          "stop": "2026-08-07T20:54:00+03:00",
+          "title": "х/ф Німий свідок",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T20:54:00+03:00",
+          "stop": "2026-08-07T22:27:00+03:00",
+          "title": "х/ф Закон є закон",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-07T22:27:00+03:00",
+          "stop": "2026-08-07T23:27:00+03:00",
+          "title": "х/ф Енні Голл (1977)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

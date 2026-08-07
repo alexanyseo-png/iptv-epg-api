@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 57,
+  "programmeCount": 58,
   "days": [
     {
       "date": "2026-08-07",
@@ -321,36 +321,43 @@
       "programs": [
         {
           "start": "2026-08-09T01:15:00+03:00",
-          "stop": "2026-08-09T02:45:00+03:00",
+          "stop": "2026-08-09T03:15:00+03:00",
+          "title": "China Open Snooker. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T03:15:00+03:00",
+          "stop": "2026-08-09T04:45:00+03:00",
           "title": "Australian Rules. Melbourne v Fremantle",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-09T02:45:00+03:00",
-          "stop": "2026-08-09T04:15:00+03:00",
-          "title": "Australian Rules. Sydney Swans v Port Adelaide",
+          "start": "2026-08-09T04:45:00+03:00",
+          "stop": "2026-08-09T05:00:00+03:00",
+          "title": "TNT Sports Reload. Series 26 Episode 31",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-09T04:15:00+03:00",
-          "stop": "2026-08-09T05:45:00+03:00",
-          "title": "Australian Rules. Adelaide Crows v Richmond",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T05:45:00+03:00",
+          "start": "2026-08-09T05:00:00+03:00",
           "stop": "2026-08-09T06:00:00+03:00",
-          "title": "TNT Sports Films. Playing For Our Future: Rugby",
+          "title": "Tour de Pologne. Men's Stage 6",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-09T06:00:00+03:00",
+          "stop": "2026-08-09T07:00:00+03:00",
+          "title": "Tour de France Femmes. Stage 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T07:00:00+03:00",
           "stop": "2026-08-09T08:00:00+03:00",
-          "title": "China Open Snooker. Highlights",
+          "title": "UCI Continental Circuits. Volta a Portugal: Stage 4",
           "description": "L",
           "category": null
         },

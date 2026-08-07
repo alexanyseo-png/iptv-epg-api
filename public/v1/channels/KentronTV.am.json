@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T00:16:43.094506+00:00",
+  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
   "available": true,
-  "programmeCount": 114,
+  "programmeCount": 117,
   "days": [
     {
       "date": "2026-08-07",
@@ -818,8 +818,29 @@
         },
         {
           "start": "2026-08-09T21:00:00+03:00",
-          "stop": "2026-08-09T22:00:00+03:00",
+          "stop": "2026-08-09T23:00:00+03:00",
           "title": "Худ. фильм",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T23:00:00+03:00",
+          "stop": "2026-08-09T23:05:00+03:00",
+          "title": "Օրհներգ",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T23:05:00+03:00",
+          "stop": "2026-08-09T23:30:00+03:00",
+          "title": "Худ. фильм",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-09T23:30:00+03:00",
+          "stop": "2026-08-10T00:40:00+03:00",
+          "title": "Հայկական ժառանգություն",
           "description": "L",
           "category": null
         }
