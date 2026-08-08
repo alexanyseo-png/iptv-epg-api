@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "generatedAt": "2026-08-08T19:00:04.399340+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-08-07",
-      "programs": [
-        {
-          "start": "2026-08-07T00:55:00+03:00",
-          "stop": "2026-08-07T02:50:00+03:00",
-          "title": "Futbols: Scottish Premiership. Football: Scottish Premiership",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T02:50:00+03:00",
-          "stop": "2026-08-07T03:45:00+03:00",
-          "title": "Anglijas Premjerlīga. Sezonas apskats. Premier League Magazin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T03:45:00+03:00",
-          "stop": "2026-08-07T05:05:00+03:00",
-          "title": "Full Impact. Sezonas apskats. Full Impact Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T05:10:00+03:00",
-          "stop": "2026-08-07T07:00:00+03:00",
-          "title": "Futbols: Nīderlandes Superkauss. PSV – AZ. Football: Johan Cruijff Schaal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T07:00:00+03:00",
-          "stop": "2026-08-07T07:30:00+03:00",
-          "title": "GP Confidential. GP Confidential",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T07:30:00+03:00",
-          "stop": "2026-08-07T10:15:00+03:00",
-          "title": "Motosports: FIM spīdveja Polijas «Grand Prix» – Lodza. 7. posms. Polija. Lodza. FIM Speedway Grand Prix World Championships – Poland",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T10:15:00+03:00",
-          "stop": "2026-08-07T11:15:00+03:00",
-          "title": "MXGP Flandrija. 1. brauciens. Motocross: FIM Motocross World Championship in Flanders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T11:15:00+03:00",
-          "stop": "2026-08-07T12:20:00+03:00",
-          "title": "MXGP Flandrija. 2. brauciens. Motocross: FIM Motocross World Championship in Flanders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T12:20:00+03:00",
-          "stop": "2026-08-07T14:35:00+03:00",
-          "title": "Teniss: ATP 250 Mifel Open. Vienspēles. Fināls. Tennis : ATP 250 – Los Cabos Open",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T14:35:00+03:00",
-          "stop": "2026-08-07T16:30:00+03:00",
-          "title": "Futbols: Scottish Premiership. Aberdeen – Hearts. Football: Scottish Premiership",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T16:30:00+03:00",
-          "stop": "2026-08-07T18:20:00+03:00",
-          "title": "Futbols: Scottish Premiership. Celtic – Dundee. Football: Scottish Premiership",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T18:20:00+03:00",
-          "stop": "2026-08-07T18:50:00+03:00",
-          "title": "Teniss: Žurnāls. ATP Tour This Week. ATP Tour: This Week",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T18:50:00+03:00",
-          "stop": "2026-08-07T22:00:00+03:00",
-          "title": "Spīdvejs. FIM Latvijas Grand Prix Rīgā. 1/2 fināls 2. FIM Speedway GP of Latvia: Riga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T22:00:00+03:00",
-          "stop": "2026-08-08T00:50:00+03:00",
-          "title": "MMA: ONE Championship. ONE Championship",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-08",
       "programs": [
@@ -288,6 +185,74 @@
           "start": "2026-08-09T23:00:00+03:00",
           "stop": "2026-08-10T00:25:00+03:00",
           "title": "Lielbritānijas GP sacīkstes. Moto2. Sacīkstes. Moto2: British motorcycle Grand Prix",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "programs": [
+        {
+          "start": "2026-08-10T00:25:00+03:00",
+          "stop": "2026-08-10T01:55:00+03:00",
+          "title": "MotoGP: Lielbritānijas GP. Sacīkstes. British motorcycle Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T01:55:00+03:00",
+          "stop": "2026-08-10T04:05:00+03:00",
+          "title": "Lielbritānijas GP sacīkstes. Moto3. Sacīkstes. Moto3: British motorcycle Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T04:05:00+03:00",
+          "stop": "2026-08-10T07:00:00+03:00",
+          "title": "Spīdvejs. FIM Latvijas Grand Prix Rīgā. 1/2 fināls 2. FIM Speedway GP of Latvia: Riga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T07:00:00+03:00",
+          "stop": "2026-08-10T08:55:00+03:00",
+          "title": "Futbols – Holandes līga. PSV – Fortuna. Football: Eredivisie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T08:55:00+03:00",
+          "stop": "2026-08-10T10:50:00+03:00",
+          "title": "Futbols – Holandes līga. Sparta – Feyenoord. Football: Eredivisie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T10:50:00+03:00",
+          "stop": "2026-08-10T12:20:00+03:00",
+          "title": "WRC Somija. 20. ātrumposms. FIA World Rally Championship: Rally Finland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T12:20:00+03:00",
+          "stop": "2026-08-10T13:25:00+03:00",
+          "title": "MXGP Flandrija. MX2. 1. brauciens. Motocross: FIM Motocross World Championship in Flanders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T13:25:00+03:00",
+          "stop": "2026-08-10T14:30:00+03:00",
+          "title": "MXGP Flandrija. MX2. 2. brauciens. Motocross: FIM Motocross World Championship in Flanders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T14:30:00+03:00",
+          "stop": "2026-08-10T16:25:00+03:00",
+          "title": "Basketbols. WNBA. New York Liberty – Las Vegas Aces. WNBA",
           "description": "L",
           "category": null
         }

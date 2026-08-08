@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "generatedAt": "2026-08-08T19:00:04.399340+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-08-07",
-      "programs": [
-        {
-          "start": "2026-08-07T00:15:00+03:00",
-          "stop": "2026-08-07T01:15:00+03:00",
-          "title": "Christopher Reeve: Keeping Hope in Motion.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T01:15:00+03:00",
-          "stop": "2026-08-07T02:15:00+03:00",
-          "title": "Parkinson. \"Mel Smith, Kenneth Griffith and Christopher Reeve\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T02:15:00+03:00",
-          "stop": "2026-08-07T03:10:00+03:00",
-          "title": "Ian Rankin's Hidden Edinburgh.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T03:10:00+03:00",
-          "stop": "2026-08-07T03:40:00+03:00",
-          "title": "Pubs, Ponds and Power: The Story of the Village. \"Cromford\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T03:40:00+03:00",
-          "stop": "2026-08-07T04:40:00+03:00",
-          "title": "Ian Rankin's Hidden Edinburgh.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T04:40:00+03:00",
-          "stop": "2026-08-07T05:15:00+03:00",
-          "title": "Great British Railway Journeys.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T05:15:00+03:00",
-          "stop": "2026-08-07T21:00:00+03:00",
-          "title": "Close.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T21:00:00+03:00",
-          "stop": "2026-08-07T22:20:00+03:00",
-          "title": "BBC Proms. \"Also Sprach Zarathustra\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T22:20:00+03:00",
-          "stop": "2026-08-07T22:45:00+03:00",
-          "title": "Top of the Pops. \"10/03/2000\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T22:45:00+03:00",
-          "stop": "2026-08-07T23:15:00+03:00",
-          "title": "Top of the Pops. \"09/08/1984\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T23:15:00+03:00",
-          "stop": "2026-08-07T23:45:00+03:00",
-          "title": "Top of the Pops. \"04/08/1988\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T23:45:00+03:00",
-          "stop": "2026-08-08T00:45:00+03:00",
-          "title": "Tony Bennett at the London Palladium: BBC Sessions.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-08",
       "programs": [
@@ -274,6 +185,53 @@
           "start": "2026-08-09T23:40:00+03:00",
           "stop": "2026-08-10T00:00:00+03:00",
           "title": "TBA.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "programs": [
+        {
+          "start": "2026-08-10T00:00:00+03:00",
+          "stop": "2026-08-10T00:15:00+03:00",
+          "title": "TBA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T00:15:00+03:00",
+          "stop": "2026-08-10T02:05:00+03:00",
+          "title": "TBA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T02:05:00+03:00",
+          "stop": "2026-08-10T03:00:00+03:00",
+          "title": "TBA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T03:00:00+03:00",
+          "stop": "2026-08-10T04:00:00+03:00",
+          "title": "TBA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T04:00:00+03:00",
+          "stop": "2026-08-10T05:40:00+03:00",
+          "title": "NYO at the Proms.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T05:40:00+03:00",
+          "stop": "2026-08-10T06:40:00+03:00",
+          "title": "Close.",
           "description": "L",
           "category": null
         }

@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-07T19:17:26.020518+00:00",
+  "generatedAt": "2026-08-08T19:00:04.399340+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 19,
   "days": [
-    {
-      "date": "2026-08-07",
-      "programs": [
-        {
-          "start": "2026-08-07T00:40:00+03:00",
-          "stop": "2026-08-07T03:55:00+03:00",
-          "title": "Подъём с глубины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T03:55:00+03:00",
-          "stop": "2026-08-07T07:30:00+03:00",
-          "title": "Я подарю тебе рассвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T07:30:00+03:00",
-          "stop": "2026-08-07T09:10:00+03:00",
-          "title": "Цена измены.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T09:10:00+03:00",
-          "stop": "2026-08-07T10:50:00+03:00",
-          "title": "Ваша остановка, Мадам!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T10:50:00+03:00",
-          "stop": "2026-08-07T14:20:00+03:00",
-          "title": "Без права на ошибку.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T14:20:00+03:00",
-          "stop": "2026-08-07T17:50:00+03:00",
-          "title": "Папа напрокат.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T17:50:00+03:00",
-          "stop": "2026-08-07T19:30:00+03:00",
-          "title": "Не говорите мне о нём.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T19:30:00+03:00",
-          "stop": "2026-08-07T22:45:00+03:00",
-          "title": "Детдомовка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-07T22:45:00+03:00",
-          "stop": "2026-08-08T00:30:00+03:00",
-          "title": "Ожерелье.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-08",
       "programs": [
@@ -204,6 +136,25 @@
           "start": "2026-08-09T21:30:00+03:00",
           "stop": "2026-08-10T00:50:00+03:00",
           "title": "Ледяное сердце Северины.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "programs": [
+        {
+          "start": "2026-08-10T00:50:00+03:00",
+          "stop": "2026-08-10T04:25:00+03:00",
+          "title": "Штамп в паспорте.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T04:25:00+03:00",
+          "stop": "2026-08-10T05:25:00+03:00",
+          "title": "Папа напрокат.",
           "description": "L",
           "category": null
         }
