@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-08T19:00:04.399340+00:00",
+  "generatedAt": "2026-08-09T13:16:54.630934+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-08-08",
-      "programs": [
-        {
-          "start": "2026-08-08T00:00:00+03:00",
-          "stop": "2026-08-08T03:35:00+03:00",
-          "title": "MMA Series. Вечер нокаутов: И.Харитонов, Я.Екимов, Д.Гонсалвес.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T03:35:00+03:00",
-          "stop": "2026-08-08T04:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (158-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T04:00:00+03:00",
-          "stop": "2026-08-08T08:00:00+03:00",
-          "title": "MMA Series. Топ бойцов полусреднего веса (Д.Гонсалвес, В.Руденко, О.Дадонов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T08:00:00+03:00",
-          "stop": "2026-08-08T09:35:00+03:00",
-          "title": "MMA Series Names (В. Уокер).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T09:35:00+03:00",
-          "stop": "2026-08-08T12:00:00+03:00",
-          "title": "MMA Series Names (З. Гаджибабаев).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T12:00:00+03:00",
-          "stop": "2026-08-08T15:00:00+03:00",
-          "title": "WKG & M-1 2025. Турнир из Чжаосу, Китай.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T15:00:00+03:00",
-          "stop": "2026-08-08T16:00:00+03:00",
-          "title": "MMA Series Names (Ж.Сабиров).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T16:00:00+03:00",
-          "stop": "2026-08-08T18:35:00+03:00",
-          "title": "MMA Series Phygital. О.Попов, В.Сукаленко, Д.Жуков.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T18:35:00+03:00",
-          "stop": "2026-08-08T19:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (159-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T19:00:00+03:00",
-          "stop": "2026-08-08T23:30:00+03:00",
-          "title": "WKG 2026 ММА Fighting in Aksu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-08T23:30:00+03:00",
-          "stop": "2026-08-09T00:00:00+03:00",
-          "title": "MMA Series Names (Г.Омаргаджиев).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-09",
       "programs": [
@@ -183,8 +101,116 @@
         },
         {
           "start": "2026-08-09T23:40:00+03:00",
-          "stop": "2026-08-10T00:40:00+03:00",
+          "stop": "2026-08-10T00:00:00+03:00",
           "title": "Территория ММА-ТВ.ком (159-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "programs": [
+        {
+          "start": "2026-08-10T00:00:00+03:00",
+          "stop": "2026-08-10T01:35:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T01:35:00+03:00",
+          "stop": "2026-08-10T04:00:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T04:00:00+03:00",
+          "stop": "2026-08-10T07:35:00+03:00",
+          "title": "MMA Series. Топ бойцов полусреднего веса (Д.Гонсалвес, В.Руденко, О.Дадонов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T07:35:00+03:00",
+          "stop": "2026-08-10T08:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (159-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T08:00:00+03:00",
+          "stop": "2026-08-10T09:35:00+03:00",
+          "title": "MMA Series Names (В. Уокер).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T09:35:00+03:00",
+          "stop": "2026-08-10T12:00:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T12:00:00+03:00",
+          "stop": "2026-08-10T16:00:00+03:00",
+          "title": "MMA Series. Виктори Party. С.Дьяконов, В.Руденко, С.Бобрышев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T16:00:00+03:00",
+          "stop": "2026-08-10T19:00:00+03:00",
+          "title": "WKG & M-1 2025. Турнир из Чжаосу, Китай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T19:00:00+03:00",
+          "stop": "2026-08-10T20:00:00+03:00",
+          "title": "MMA Series Names (Ж.Сабиров).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T20:00:00+03:00",
+          "stop": "2026-08-10T22:50:00+03:00",
+          "title": "MMA Series Phygital. А.Василенко, Е.Табаровский, Ю.Чернышев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T22:50:00+03:00",
+          "stop": "2026-08-10T23:35:00+03:00",
+          "title": "ММА Series Names. Д.Михайлиди.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T23:35:00+03:00",
+          "stop": "2026-08-11T00:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (159-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-11",
+      "programs": [
+        {
+          "start": "2026-08-11T00:00:00+03:00",
+          "stop": "2026-08-11T01:45:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T01:45:00+03:00",
+          "stop": "2026-08-11T02:45:00+03:00",
+          "title": "MMA Series Main Card.",
           "description": "L",
           "category": null
         }
