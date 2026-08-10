@@ -8,386 +8,185 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-09T13:16:54.630934+00:00",
+  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
   "available": true,
-  "programmeCount": 53,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-08-09",
-      "programs": [
-        {
-          "start": "2026-08-09T00:35:00+03:00",
-          "stop": "2026-08-09T01:25:00+03:00",
-          "title": "Superbeast: Shark Supremacy (S1 E6). Dokumentika, apie gamtą. Anglija. S1, Ep6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T01:25:00+03:00",
-          "stop": "2026-08-09T02:20:00+03:00",
-          "title": "Superbeast: Raw Power (S1 E1). Dokumentika, apie gamtą. Anglija, 2025. S1, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T02:20:00+03:00",
-          "stop": "2026-08-09T03:15:00+03:00",
-          "title": "Superbeast: Super Speed (S1 E2). Dokumentika, apie gamtą. Anglija, 2025. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T03:15:00+03:00",
-          "stop": "2026-08-09T04:10:00+03:00",
-          "title": "Gladiators: Jungle River (S1 E3). Dokumentika, apie gamtą. JAV, 2023. S1, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T04:10:00+03:00",
-          "stop": "2026-08-09T05:05:00+03:00",
-          "title": "Gladiators: Tidelands (S1 E4). Dokumentika, apie gamtą. JAV, 2023. S1, Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T05:05:00+03:00",
-          "stop": "2026-08-09T06:00:00+03:00",
-          "title": "Carpathian Predators: Realm of the Wolf (S1 E2). Dokumentika, apie gamtą. Anglija, 2020. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T06:00:00+03:00",
-          "stop": "2026-08-09T06:25:00+03:00",
-          "title": "Mysteries of Evolution: The Human Effect on Evolution (S1 E2). Dokumentika, apie gamtą. Kanada, 2015. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T06:25:00+03:00",
-          "stop": "2026-08-09T07:20:00+03:00",
-          "title": "Reef Wrecks: Reef Wrecks of Bonaire (S1 E1). Dokumentika, apie gamtą. JAV, 2016. S1, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T07:20:00+03:00",
-          "stop": "2026-08-09T08:15:00+03:00",
-          "title": "Pavianai. Gaujos taisyklės. Dokumentika, apie gamtą. Saudo Arabija, 2020. S1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T08:15:00+03:00",
-          "stop": "2026-08-09T09:10:00+03:00",
-          "title": "Evolution Earth (S1 E1). Dokumentika, apie gamtą. JAV, 2023. S1, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T09:10:00+03:00",
-          "stop": "2026-08-09T10:05:00+03:00",
-          "title": "Evolution Earth: Islands (S1 E2). Dokumentika, apie gamtą. JAV, 2023. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T10:05:00+03:00",
-          "stop": "2026-08-09T11:00:00+03:00",
-          "title": "Evolution Earth: Heat (S1 E3). Dokumentika, apie gamtą. JAV, 2023. S1, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T11:00:00+03:00",
-          "stop": "2026-08-09T11:50:00+03:00",
-          "title": "Evolution Earth: Ice (S1 E4). Dokumentika, apie gamtą. JAV, 2023. S1, Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T11:50:00+03:00",
-          "stop": "2026-08-09T12:40:00+03:00",
-          "title": "Evolution Earth: Grasslands (S1 E5). Dokumentika, apie gamtą. JAV, 2023. S1, Ep5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T12:40:00+03:00",
-          "stop": "2026-08-09T13:35:00+03:00",
-          "title": "Wild Tales From the Farm: Change in the Air (S1 E3). Dokumentika, apie gamtą. Anglija, 2020. S1, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T13:35:00+03:00",
-          "stop": "2026-08-09T14:30:00+03:00",
-          "title": "Wild Tales From the Farm: Hunkering Down (S1 E4). Dokumentika, apie gamtą. Anglija, 2020. S1, Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T14:30:00+03:00",
-          "stop": "2026-08-09T15:25:00+03:00",
-          "title": "Shadowlands: Bound By Blood (S1 E1). Dokumentika, apie gamtą. Naujoji Zelandija, 2021. S1, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T15:25:00+03:00",
-          "stop": "2026-08-09T16:20:00+03:00",
-          "title": "Shadowlands: Survival (S1 E2). Dokumentika, apie gamtą. Naujoji Zelandija, 2021. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T16:20:00+03:00",
-          "stop": "2026-08-09T17:15:00+03:00",
-          "title": "Shadowlands: Growing Independent (S1 E3). Dokumentika, apie gamtą. Naujoji Zelandija, 2021. S1, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T17:15:00+03:00",
-          "stop": "2026-08-09T17:40:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Deadly Intruders (S1 E1). Dokumentika, apie gamtą. Australija, 2025. S1, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T17:40:00+03:00",
-          "stop": "2026-08-09T18:10:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Snake Face Off (S1 E2). Dokumentika, apie gamtą. Australija, 2025. S1, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T18:10:00+03:00",
-          "stop": "2026-08-09T18:35:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Reptile Runabout (S1 E3). Dokumentika, apie gamtą. Australija, 2025. S1, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T18:35:00+03:00",
-          "stop": "2026-08-09T19:05:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Hot and Bothered (S1 E4). Dokumentika, apie gamtą. Australija, 2025. S1, Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T19:05:00+03:00",
-          "stop": "2026-08-09T19:30:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Chasing Scales (S1 E5). Dokumentika, apie gamtą. Australija, 2025. S1, Ep5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T19:30:00+03:00",
-          "stop": "2026-08-09T20:00:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Home Invasion (S1 E6). Dokumentika, apie gamtą. Australija, 2025. S1, Ep6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T20:00:00+03:00",
-          "stop": "2026-08-09T20:25:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Three's a Crowd (S2 E1). Dokumentika, apie gamtą. Australija, 2025. S2, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T20:25:00+03:00",
-          "stop": "2026-08-09T20:55:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Double Trouble (S2 E2). Dokumentika, apie gamtą. Australija, 2025. S2, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T20:55:00+03:00",
-          "stop": "2026-08-09T21:50:00+03:00",
-          "title": "Wildlife ER: Start of Trauma Season (S2 E1). Dokumentika, apie gamtą. Australija, 2023. S2, Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T21:50:00+03:00",
-          "stop": "2026-08-09T22:45:00+03:00",
-          "title": "Wildlife ER: Operation Pelican (S2 E2). Dokumentika, apie gamtą. Australija, 2023. S2, Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T22:45:00+03:00",
-          "stop": "2026-08-09T23:40:00+03:00",
-          "title": "Wildlife ER: Gutsy Koala (S2 E3). Dokumentika, apie gamtą. Australija, 2023. S2, Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T23:40:00+03:00",
-          "stop": "2026-08-10T00:05:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Deadly Intruders (S1 E1). Dokumentika, apie gamtą. Australija, 2025. S1, Ep1",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-10",
       "programs": [
         {
-          "start": "2026-08-10T00:05:00+03:00",
-          "stop": "2026-08-10T00:35:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Snake Face Off (S1 E2). Dokumentika, apie gamtą. Australija, 2025. S1, Ep2",
+          "start": "2026-08-10T00:40:00+03:00",
+          "stop": "2026-08-10T01:05:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Deadly Intruders). S1,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T00:35:00+03:00",
-          "stop": "2026-08-10T01:00:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Reptile Runabout (S1 E3). Dokumentika, apie gamtą. Australija, 2025. S1, Ep3",
+          "start": "2026-08-10T01:05:00+03:00",
+          "stop": "2026-08-10T01:35:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Snake Face Off). S1,Ep2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T01:00:00+03:00",
-          "stop": "2026-08-10T01:25:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Hot and Bothered (S1 E4). Dokumentika, apie gamtą. Australija, 2025. S1, Ep4",
+          "start": "2026-08-10T01:35:00+03:00",
+          "stop": "2026-08-10T02:00:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Reptile Runabout). S1,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T01:25:00+03:00",
-          "stop": "2026-08-10T01:50:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Chasing Scales (S1 E5). Dokumentika, apie gamtą. Australija, 2025. S1, Ep5",
+          "start": "2026-08-10T02:00:00+03:00",
+          "stop": "2026-08-10T02:25:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Hot and Bothered). S1,Ep4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T01:50:00+03:00",
-          "stop": "2026-08-10T02:20:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Home Invasion (S1 E6). Dokumentika, apie gamtą. Australija, 2025. S1, Ep6",
+          "start": "2026-08-10T02:25:00+03:00",
+          "stop": "2026-08-10T02:50:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Chasing Scales). S1,Ep5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T02:20:00+03:00",
-          "stop": "2026-08-10T02:45:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Three's a Crowd (S2 E1). Dokumentika, apie gamtą. Australija, 2025. S2, Ep1",
+          "start": "2026-08-10T02:50:00+03:00",
+          "stop": "2026-08-10T03:20:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Home Invasion). S1,Ep6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T02:45:00+03:00",
-          "stop": "2026-08-10T03:15:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Double Trouble (S2 E2). Dokumentika, apie gamtą. Australija, 2025. S2, Ep2",
+          "start": "2026-08-10T03:20:00+03:00",
+          "stop": "2026-08-10T03:45:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Three's a Crowd). S2,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T03:15:00+03:00",
-          "stop": "2026-08-10T04:10:00+03:00",
-          "title": "Wildlife ER: Start of Trauma Season (S2 E1). Dokumentika, apie gamtą. Australija, 2023. S2, Ep1",
+          "start": "2026-08-10T03:45:00+03:00",
+          "stop": "2026-08-10T04:15:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Double Trouble). S2,Ep2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T04:10:00+03:00",
-          "stop": "2026-08-10T05:05:00+03:00",
-          "title": "Wildlife ER: Operation Pelican (S2 E2). Dokumentika, apie gamtą. Australija, 2023. S2, Ep2",
+          "start": "2026-08-10T04:15:00+03:00",
+          "stop": "2026-08-10T05:10:00+03:00",
+          "title": "Скорая Помощь Дикой Природы (Start of Trauma Season). S2,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T05:05:00+03:00",
-          "stop": "2026-08-10T06:00:00+03:00",
-          "title": "Wildlife ER: Gutsy Koala (S2 E3). Dokumentika, apie gamtą. Australija, 2023. S2, Ep3",
+          "start": "2026-08-10T05:10:00+03:00",
+          "stop": "2026-08-10T06:05:00+03:00",
+          "title": "Скорая Помощь Дикой Природы (Operation Pelican). S2,Ep2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T06:00:00+03:00",
-          "stop": "2026-08-10T06:25:00+03:00",
-          "title": "Mysteries of Evolution: Interior (S1 E3). Dokumentika, apie gamtą. Kanada, 2016. S1, Ep3",
+          "start": "2026-08-10T06:05:00+03:00",
+          "stop": "2026-08-10T07:00:00+03:00",
+          "title": "Скорая Помощь Дикой Природы (The Gutsy Koala). S2,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T06:25:00+03:00",
-          "stop": "2026-08-10T07:20:00+03:00",
-          "title": "My Best Friend's An Animal: Rocco, Harold and Cindy (S2 E3). Dokumentika, apie gamtą. Anglija, 2025. S2, Ep3",
+          "start": "2026-08-10T07:00:00+03:00",
+          "stop": "2026-08-10T07:25:00+03:00",
+          "title": "Тайны Эволюции (Interior). S1,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T07:20:00+03:00",
-          "stop": "2026-08-10T08:15:00+03:00",
-          "title": "My Best Friend's An Animal: Milton, Cash and Bentley (S2 E4). Dokumentika, apie gamtą. Anglija, 2025. S2, Ep4",
+          "start": "2026-08-10T07:25:00+03:00",
+          "stop": "2026-08-10T08:20:00+03:00",
+          "title": "Мой лучший друг – животное (Rocco, Harold And Cindy). S2,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T08:15:00+03:00",
-          "stop": "2026-08-10T09:10:00+03:00",
-          "title": "Superbeast: Raw Power (S1 E1). Dokumentika, apie gamtą. Anglija, 2025. S1, Ep1",
+          "start": "2026-08-10T08:20:00+03:00",
+          "stop": "2026-08-10T09:15:00+03:00",
+          "title": "Мой лучший друг – животное (Milton, Cash And Bentley). S2,Ep4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T09:10:00+03:00",
-          "stop": "2026-08-10T10:05:00+03:00",
-          "title": "Africa's Hunters: Buffalo Showdown (S3 E6). Dokumentika, apie gamtą. JAV, 2018. S3, Ep6",
+          "start": "2026-08-10T09:15:00+03:00",
+          "stop": "2026-08-10T10:10:00+03:00",
+          "title": "Superbeast (Raw Power). S1,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T10:05:00+03:00",
-          "stop": "2026-08-10T11:00:00+03:00",
-          "title": "Neįtikėtina dramblių kelionė. Dokumentika, apie gamtą. Anglija, 2020",
+          "start": "2026-08-10T10:10:00+03:00",
+          "stop": "2026-08-10T11:05:00+03:00",
+          "title": "Африканские охотники (Buffalo Showdown). S3,Ep6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T11:00:00+03:00",
-          "stop": "2026-08-10T11:50:00+03:00",
-          "title": "Pride Rules: Einstein Must Go! (S1 E1). Dokumentika, apie gamtą. Saudo Arabija, 2025. S1, Ep1",
+          "start": "2026-08-10T11:05:00+03:00",
+          "stop": "2026-08-10T12:00:00+03:00",
+          "title": "Потрясающие истории слонов",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T11:50:00+03:00",
-          "stop": "2026-08-10T12:40:00+03:00",
-          "title": "Kingdom of the Tide. Dokumentika, apie gamtą. Kanada, 2020. S1",
+          "start": "2026-08-10T12:00:00+03:00",
+          "stop": "2026-08-10T12:50:00+03:00",
+          "title": "Законы Прайда (Einstein Must Go). S1,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T12:40:00+03:00",
-          "stop": "2026-08-10T13:35:00+03:00",
-          "title": "My Best Friend's An Animal: Rocco, Harold and Cindy (S2 E3). Dokumentika, apie gamtą. Anglija, 2025. S2, Ep3",
+          "start": "2026-08-10T12:50:00+03:00",
+          "stop": "2026-08-10T13:40:00+03:00",
+          "title": "Королевство приливов",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T13:35:00+03:00",
-          "stop": "2026-08-10T14:30:00+03:00",
-          "title": "My Best Friend's An Animal: Milton, Cash and Bentley (S2 E4). Dokumentika, apie gamtą. Anglija, 2025. S2, Ep4",
+          "start": "2026-08-10T13:40:00+03:00",
+          "stop": "2026-08-10T14:35:00+03:00",
+          "title": "Мой лучший друг – животное (Rocco, Harold And Cindy). S2,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T14:30:00+03:00",
-          "stop": "2026-08-10T14:55:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Chasing Scales (S1 E5). Dokumentika, apie gamtą. Australija, 2025. S1, Ep5",
+          "start": "2026-08-10T14:35:00+03:00",
+          "stop": "2026-08-10T15:30:00+03:00",
+          "title": "Мой лучший друг – животное (Milton, Cash And Bentley). S2,Ep4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T14:55:00+03:00",
-          "stop": "2026-08-10T15:25:00+03:00",
-          "title": "Aussie Snake Wranglers: Deadly Pursuit: Home Invasion (S1 E6). Dokumentika, apie gamtą. Australija, 2025. S1, Ep6",
+          "start": "2026-08-10T15:30:00+03:00",
+          "stop": "2026-08-10T15:55:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Chasing Scales). S1,Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T15:55:00+03:00",
+          "stop": "2026-08-10T16:25:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Home Invasion). S1,Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T16:25:00+03:00",
+          "stop": "2026-08-10T17:20:00+03:00",
+          "title": "Африканские охотники (Buffalo Showdown). S3,Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T17:20:00+03:00",
+          "stop": "2026-08-10T18:15:00+03:00",
+          "title": "Потрясающие истории слонов",
           "description": "L",
           "category": null
         }

@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-09T13:16:54.630934+00:00",
+  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
   "available": true,
-  "programmeCount": 47,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-08-09",
-      "programs": [
-        {
-          "start": "2026-08-09T00:05:00+03:00",
-          "stop": "2026-08-09T00:45:00+03:00",
-          "title": "The Kelly Clarkson Show – Trevor Noah / Taylor Tomlinson / Josh Mankiewicz / Brittany Snow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T00:45:00+03:00",
-          "stop": "2026-08-09T02:25:00+03:00",
-          "title": "The Floor",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T02:25:00+03:00",
-          "stop": "2026-08-09T03:05:00+03:00",
-          "title": "The Kelly Clarkson Show – Keith Urban / Cristin Milioti",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T03:05:00+03:00",
-          "stop": "2026-08-09T03:45:00+03:00",
-          "title": "The Kelly Clarkson Show – Michael Bublé / Roy Wood jr. / Cooper Koch / Jade Iovine",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T03:45:00+03:00",
-          "stop": "2026-08-09T04:25:00+03:00",
-          "title": "The Kelly Clarkson Show – Kristen Bell / Adam Brody / Leanne Morgan / Andrew Zimmern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T04:25:00+03:00",
-          "stop": "2026-08-09T05:05:00+03:00",
-          "title": "The Kelly Clarkson Show – Zachary Quinto / Ms. Pat / Will Reeve / Matthew Reeve",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T05:05:00+03:00",
-          "stop": "2026-08-09T05:45:00+03:00",
-          "title": "The Kelly Clarkson Show – Trevor Noah / Taylor Tomlinson / Josh Mankiewicz / Brittany Snow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T05:45:00+03:00",
-          "stop": "2026-08-09T06:05:00+03:00",
-          "title": "Die dreisten drei – Die Comedy WG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T06:05:00+03:00",
-          "stop": "2026-08-09T06:40:00+03:00",
-          "title": "Knallerfrauen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T06:40:00+03:00",
-          "stop": "2026-08-09T07:35:00+03:00",
-          "title": "Die Kanzlei | S06E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T07:35:00+03:00",
-          "stop": "2026-08-09T08:25:00+03:00",
-          "title": "Die Kanzlei | S07E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T08:25:00+03:00",
-          "stop": "2026-08-09T09:15:00+03:00",
-          "title": "HIP: Ermittlerin mit Mords-IQ | S01E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T09:15:00+03:00",
-          "stop": "2026-08-09T10:10:00+03:00",
-          "title": "HIP: Ermittlerin mit Mords-IQ | S02E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T10:10:00+03:00",
-          "stop": "2026-08-09T11:05:00+03:00",
-          "title": "Rapa | S03E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T11:05:00+03:00",
-          "stop": "2026-08-09T12:00:00+03:00",
-          "title": "Rapa | S04E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T12:00:00+03:00",
-          "stop": "2026-08-09T12:45:00+03:00",
-          "title": "Revival | S04E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T12:45:00+03:00",
-          "stop": "2026-08-09T13:45:00+03:00",
-          "title": "Biarritz – Mord am Meer | S01E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T13:45:00+03:00",
-          "stop": "2026-08-09T14:45:00+03:00",
-          "title": "Biarritz – Mord am Meer | S02E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T14:45:00+03:00",
-          "stop": "2026-08-09T15:45:00+03:00",
-          "title": "Homeland | S01E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T15:45:00+03:00",
-          "stop": "2026-08-09T16:30:00+03:00",
-          "title": "Homeland | S02E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T16:30:00+03:00",
-          "stop": "2026-08-09T18:20:00+03:00",
-          "title": "Ladies in Black",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T18:20:00+03:00",
-          "stop": "2026-08-09T19:00:00+03:00",
-          "title": "Killing Eve | S07E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T19:00:00+03:00",
-          "stop": "2026-08-09T19:45:00+03:00",
-          "title": "Killing Eve | S08E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T19:45:00+03:00",
-          "stop": "2026-08-09T20:30:00+03:00",
-          "title": "Navy CIS: Origins | S09E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T20:30:00+03:00",
-          "stop": "2026-08-09T21:15:00+03:00",
-          "title": "Navy CIS: Origins | S10E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T21:15:00+03:00",
-          "stop": "2026-08-09T22:45:00+03:00",
-          "title": "Entdecke die Mandy in dir",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T22:45:00+03:00",
-          "stop": "2026-08-10T00:10:00+03:00",
-          "title": "Auch Lügen will gelernt sein",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-10",
       "programs": [
@@ -346,6 +152,34 @@
           "start": "2026-08-10T14:50:00+03:00",
           "stop": "2026-08-10T15:40:00+03:00",
           "title": "In aller Freundschaft – Die jungen Ärzte | S15E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T15:40:00+03:00",
+          "stop": "2026-08-10T16:15:00+03:00",
+          "title": "Die Spreewaldklinik | S43E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T16:15:00+03:00",
+          "stop": "2026-08-10T16:50:00+03:00",
+          "title": "Die Spreewaldklinik | S44E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T16:50:00+03:00",
+          "stop": "2026-08-10T17:30:00+03:00",
+          "title": "Die Landarztpraxis | S43E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T17:30:00+03:00",
+          "stop": "2026-08-10T18:05:00+03:00",
+          "title": "Die Landarztpraxis | S44E04",
           "description": "L",
           "category": null
         }

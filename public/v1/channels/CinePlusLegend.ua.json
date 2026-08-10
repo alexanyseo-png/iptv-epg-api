@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-09T13:16:54.630934+00:00",
+  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-08-09",
-      "programs": [
-        {
-          "start": "2026-08-09T01:05:00+03:00",
-          "stop": "2026-08-09T03:20:00+03:00",
-          "title": "х/ф Дике кохання",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T03:20:00+03:00",
-          "stop": "2026-08-09T07:00:00+03:00",
-          "title": "Нічне промо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T07:00:00+03:00",
-          "stop": "2026-08-09T07:25:00+03:00",
-          "title": "Legend Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T07:25:00+03:00",
-          "stop": "2026-08-09T09:00:00+03:00",
-          "title": "х/ф Серед тисячі доріг",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T09:00:00+03:00",
-          "stop": "2026-08-09T10:30:00+03:00",
-          "title": "х/ф Шкура білого ведмедя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T10:30:00+03:00",
-          "stop": "2026-08-09T12:15:00+03:00",
-          "title": "х/ф Фатальна пісня, 1 і 2 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T12:15:00+03:00",
-          "stop": "2026-08-09T14:00:00+03:00",
-          "title": "х/ф Фатальна пісня, 3 і 4 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T14:00:00+03:00",
-          "stop": "2026-08-09T16:20:00+03:00",
-          "title": "х/ф Сабріна",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T16:20:00+03:00",
-          "stop": "2026-08-09T18:15:00+03:00",
-          "title": "х/ф Весільний переполох",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T18:15:00+03:00",
-          "stop": "2026-08-09T20:00:00+03:00",
-          "title": "х/ф Таксі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T20:00:00+03:00",
-          "stop": "2026-08-09T21:40:00+03:00",
-          "title": "х/ф Таксі 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T21:40:00+03:00",
-          "stop": "2026-08-09T23:20:00+03:00",
-          "title": "х/ф Таксі 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T23:20:00+03:00",
-          "stop": "2026-08-10T01:05:00+03:00",
-          "title": "х/ф Таксі 4",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-10",
       "programs": [
@@ -120,8 +24,57 @@
         },
         {
           "start": "2026-08-10T02:35:00+03:00",
-          "stop": "2026-08-10T03:35:00+03:00",
+          "stop": "2026-08-10T06:50:00+03:00",
           "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T06:50:00+03:00",
+          "stop": "2026-08-10T07:10:00+03:00",
+          "title": "Legend Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T07:10:00+03:00",
+          "stop": "2026-08-10T09:00:00+03:00",
+          "title": "х/ф Данило – князь Галицький",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T09:00:00+03:00",
+          "stop": "2026-08-10T10:45:00+03:00",
+          "title": "х/ф Спокуса Дон-Жуана",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T10:45:00+03:00",
+          "stop": "2026-08-10T12:45:00+03:00",
+          "title": "х/ф Нескорений",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T12:45:00+03:00",
+          "stop": "2026-08-10T14:35:00+03:00",
+          "title": "х/ф Едісон",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T14:35:00+03:00",
+          "stop": "2026-08-10T17:40:00+03:00",
+          "title": "х/ф Олександр",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-10T17:40:00+03:00",
+          "stop": "2026-08-10T19:35:00+03:00",
+          "title": "х/ф Універсальний солдат",
           "description": "L",
           "category": null
         }

@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-09T13:16:54.630934+00:00",
+  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-08-09",
-      "programs": [
-        {
-          "start": "2026-08-09T01:00:00+03:00",
-          "stop": "2026-08-09T02:50:00+03:00",
-          "title": "Geostorm.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T02:50:00+03:00",
-          "stop": "2026-08-09T04:45:00+03:00",
-          "title": "Des Königs Admiral.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T04:45:00+03:00",
-          "stop": "2026-08-09T05:05:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T05:05:00+03:00",
-          "stop": "2026-08-09T07:00:00+03:00",
-          "title": "Der Tag des Falken.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T07:00:00+03:00",
-          "stop": "2026-08-09T08:15:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T08:15:00+03:00",
-          "stop": "2026-08-09T10:15:00+03:00",
-          "title": "Süßer Vogel Jugend.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T10:15:00+03:00",
-          "stop": "2026-08-09T12:00:00+03:00",
-          "title": "Die Spur des Falken.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T12:00:00+03:00",
-          "stop": "2026-08-09T13:55:00+03:00",
-          "title": "Tote schlafen fest.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T13:55:00+03:00",
-          "stop": "2026-08-09T14:35:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T14:35:00+03:00",
-          "stop": "2026-08-09T17:00:00+03:00",
-          "title": "Im Auftrag des Teufels.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T17:00:00+03:00",
-          "stop": "2026-08-09T18:50:00+03:00",
-          "title": "Außer Kontrolle.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T18:50:00+03:00",
-          "stop": "2026-08-09T21:15:00+03:00",
-          "title": "Transformers.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T21:15:00+03:00",
-          "stop": "2026-08-09T23:45:00+03:00",
-          "title": "Transformers - Die Rache.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-09T23:45:00+03:00",
-          "stop": "2026-08-10T02:15:00+03:00",
-          "title": "The Dark Knight.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-10",
       "programs": [
@@ -309,6 +206,102 @@
           "start": "2026-08-11T23:20:00+03:00",
           "stop": "2026-08-12T01:20:00+03:00",
           "title": "Con Air.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "programs": [
+        {
+          "start": "2026-08-12T01:20:00+03:00",
+          "stop": "2026-08-12T03:05:00+03:00",
+          "title": "The Specialist.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T03:05:00+03:00",
+          "stop": "2026-08-12T05:15:00+03:00",
+          "title": "The Verdict - Die Wahrheit und nichts als die Wahrheit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T05:15:00+03:00",
+          "stop": "2026-08-12T07:00:00+03:00",
+          "title": "Der große Schweiger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T07:00:00+03:00",
+          "stop": "2026-08-12T08:40:00+03:00",
+          "title": "Die Spur des Falken.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T08:40:00+03:00",
+          "stop": "2026-08-12T09:05:00+03:00",
+          "title": "Hinter den Kulissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T09:05:00+03:00",
+          "stop": "2026-08-12T10:50:00+03:00",
+          "title": "Kevin - Allein zu Haus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T10:50:00+03:00",
+          "stop": "2026-08-12T12:45:00+03:00",
+          "title": "Kevin - Allein in New York.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T12:45:00+03:00",
+          "stop": "2026-08-12T14:50:00+03:00",
+          "title": "Complicità e sospetti - Breaking and Entering.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T14:50:00+03:00",
+          "stop": "2026-08-12T17:25:00+03:00",
+          "title": "Boogie Nights.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T17:25:00+03:00",
+          "stop": "2026-08-12T19:10:00+03:00",
+          "title": "Demolition - Lieben und Leben.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T19:10:00+03:00",
+          "stop": "2026-08-12T21:15:00+03:00",
+          "title": "The Best Exotic Marigold Hotel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T21:15:00+03:00",
+          "stop": "2026-08-12T23:20:00+03:00",
+          "title": "Best Exotic Marigold Hotel 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T23:20:00+03:00",
+          "stop": "2026-08-13T01:05:00+03:00",
+          "title": "Shopaholic - Die Schnäppchenjägerin.",
           "description": "L",
           "category": null
         }
