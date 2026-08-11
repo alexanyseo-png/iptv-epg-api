@@ -8,136 +8,580 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
+  "generatedAt": "2026-08-11T02:29:12.639875+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 80,
   "days": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "programs": [
         {
-          "start": "2026-08-10T00:45:00+03:00",
-          "stop": "2026-08-10T07:00:00+03:00",
+          "start": "2026-08-11T00:00:00+03:00",
+          "stop": "2026-08-11T00:55:00+03:00",
+          "title": "Kelgukoerad | E152",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T00:55:00+03:00",
+          "stop": "2026-08-11T07:00:00+03:00",
           "title": "Elmar TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T07:00:00+03:00",
-          "stop": "2026-08-10T07:02:00+03:00",
+          "start": "2026-08-11T07:00:00+03:00",
+          "stop": "2026-08-11T07:02:00+03:00",
           "title": "Eesti Vabariigi hümn",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T07:02:00+03:00",
-          "stop": "2026-08-10T07:35:00+03:00",
-          "title": "Iga päev on esmaspäev",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T07:35:00+03:00",
-          "stop": "2026-08-10T08:25:00+03:00",
-          "title": "Pilvede all | E136",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T08:25:00+03:00",
-          "stop": "2026-08-10T08:55:00+03:00",
-          "title": "Lemmikute lemmik | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T08:55:00+03:00",
-          "stop": "2026-08-10T09:20:00+03:00",
-          "title": "Tätte ja Matvere imeline ilmareis | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T09:20:00+03:00",
-          "stop": "2026-08-10T09:50:00+03:00",
-          "title": "Eestlane ja venelane | E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T09:50:00+03:00",
-          "stop": "2026-08-10T10:15:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T10:15:00+03:00",
-          "stop": "2026-08-10T10:40:00+03:00",
-          "title": "Majad täis mälestusi: Tallinna 1. Keskkool | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T10:40:00+03:00",
-          "stop": "2026-08-10T11:35:00+03:00",
-          "title": "Saare sosinad | E28",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T11:35:00+03:00",
-          "stop": "2026-08-10T12:30:00+03:00",
-          "title": "Kelgukoerad | E151",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T12:30:00+03:00",
-          "stop": "2026-08-10T13:55:00+03:00",
-          "title": "Большой комедийный вечер | E23",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T13:55:00+03:00",
-          "stop": "2026-08-10T15:10:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E50",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T15:10:00+03:00",
-          "stop": "2026-08-10T15:40:00+03:00",
+          "start": "2026-08-11T07:02:00+03:00",
+          "stop": "2026-08-11T07:30:00+03:00",
           "title": "Maarjamägi | E27",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T15:40:00+03:00",
-          "stop": "2026-08-10T16:35:00+03:00",
+          "start": "2026-08-11T07:30:00+03:00",
+          "stop": "2026-08-11T08:25:00+03:00",
           "title": "Pilvede all | E137",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T16:35:00+03:00",
-          "stop": "2026-08-10T17:05:00+03:00",
-          "title": "Televisiooni lapsed | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T17:05:00+03:00",
-          "stop": "2026-08-10T17:35:00+03:00",
+          "start": "2026-08-11T08:25:00+03:00",
+          "stop": "2026-08-11T08:55:00+03:00",
           "title": "Lemmikute lemmik | E09",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T17:35:00+03:00",
-          "stop": "2026-08-10T18:05:00+03:00",
+          "start": "2026-08-11T08:55:00+03:00",
+          "stop": "2026-08-11T09:25:00+03:00",
+          "title": "Televisiooni lapsed | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T09:25:00+03:00",
+          "stop": "2026-08-11T09:50:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T09:50:00+03:00",
+          "stop": "2026-08-11T10:20:00+03:00",
+          "title": "Eestlane ja venelane | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T10:20:00+03:00",
+          "stop": "2026-08-11T10:50:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T10:50:00+03:00",
+          "stop": "2026-08-11T11:15:00+03:00",
           "title": "Majad täis mälestusi: Jaan Koorti ateljee | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T11:15:00+03:00",
+          "stop": "2026-08-11T12:10:00+03:00",
+          "title": "Saare sosinad | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T12:10:00+03:00",
+          "stop": "2026-08-11T13:00:00+03:00",
+          "title": "Kelgukoerad | E152",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T13:00:00+03:00",
+          "stop": "2026-08-11T14:25:00+03:00",
+          "title": "Suur komöödiaõhtu | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T14:25:00+03:00",
+          "stop": "2026-08-11T15:45:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E51",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T15:45:00+03:00",
+          "stop": "2026-08-11T16:10:00+03:00",
+          "title": "Koolioperett | E54",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T16:10:00+03:00",
+          "stop": "2026-08-11T17:00:00+03:00",
+          "title": "Pilvede all | E138",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T17:00:00+03:00",
+          "stop": "2026-08-11T17:35:00+03:00",
+          "title": "Isad ja pojad: Mart Port ja pojad | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T17:35:00+03:00",
+          "stop": "2026-08-11T18:00:00+03:00",
+          "title": "Lemmikute lemmik | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T18:00:00+03:00",
+          "stop": "2026-08-11T18:25:00+03:00",
+          "title": "Majad täis mälestusi: Lühike jalg. Viru tänav, Taani Kuninga aed | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T18:25:00+03:00",
+          "stop": "2026-08-11T19:00:00+03:00",
+          "title": "Õhtu tantsuga | E33",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T19:00:00+03:00",
+          "stop": "2026-08-11T19:30:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T19:30:00+03:00",
+          "stop": "2026-08-11T20:00:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T20:00:00+03:00",
+          "stop": "2026-08-11T20:30:00+03:00",
+          "title": "Eestlane ja venelane | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T20:30:00+03:00",
+          "stop": "2026-08-11T21:55:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E52",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T21:55:00+03:00",
+          "stop": "2026-08-11T23:20:00+03:00",
+          "title": "Suur komöödiaõhtu | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T23:20:00+03:00",
+          "stop": "2026-08-12T00:10:00+03:00",
+          "title": "Saare sosinad | E30",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "programs": [
+        {
+          "start": "2026-08-12T00:10:00+03:00",
+          "stop": "2026-08-12T01:05:00+03:00",
+          "title": "Kelgukoerad | E153",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T01:05:00+03:00",
+          "stop": "2026-08-12T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T07:00:00+03:00",
+          "stop": "2026-08-12T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T07:02:00+03:00",
+          "stop": "2026-08-12T07:25:00+03:00",
+          "title": "Koolioperett | E54",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T07:25:00+03:00",
+          "stop": "2026-08-12T08:15:00+03:00",
+          "title": "Pilvede all | E138",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T08:15:00+03:00",
+          "stop": "2026-08-12T08:40:00+03:00",
+          "title": "Lemmikute lemmik | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T08:40:00+03:00",
+          "stop": "2026-08-12T09:15:00+03:00",
+          "title": "Isad ja pojad: Mart Port ja pojad | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T09:15:00+03:00",
+          "stop": "2026-08-12T09:45:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T09:45:00+03:00",
+          "stop": "2026-08-12T10:15:00+03:00",
+          "title": "Eestlane ja venelane | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T10:15:00+03:00",
+          "stop": "2026-08-12T10:40:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T10:40:00+03:00",
+          "stop": "2026-08-12T11:05:00+03:00",
+          "title": "Majad täis mälestusi: Lühike jalg. Viru tänav, Taani Kuninga aed | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T11:05:00+03:00",
+          "stop": "2026-08-12T11:55:00+03:00",
+          "title": "Saare sosinad | E30",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T11:55:00+03:00",
+          "stop": "2026-08-12T12:50:00+03:00",
+          "title": "Kelgukoerad | E153",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T12:50:00+03:00",
+          "stop": "2026-08-12T14:05:00+03:00",
+          "title": "Suur komöödiaõhtu | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T14:05:00+03:00",
+          "stop": "2026-08-12T15:25:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E52",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T15:25:00+03:00",
+          "stop": "2026-08-12T16:00:00+03:00",
+          "title": "Varjunimi Aili Helm",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T16:00:00+03:00",
+          "stop": "2026-08-12T16:50:00+03:00",
+          "title": "Pilvede all | E139",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T16:50:00+03:00",
+          "stop": "2026-08-12T17:25:00+03:00",
+          "title": "Isad ja pojad: Järvetid | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T17:25:00+03:00",
+          "stop": "2026-08-12T17:55:00+03:00",
+          "title": "Lemmikute lemmik | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T17:55:00+03:00",
+          "stop": "2026-08-12T18:30:00+03:00",
+          "title": "Majad täis mälestusi: Ernst Peterson-Särgava maja | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T18:30:00+03:00",
+          "stop": "2026-08-12T19:05:00+03:00",
+          "title": "Õhtu tantsuga | E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T19:05:00+03:00",
+          "stop": "2026-08-12T19:35:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T19:35:00+03:00",
+          "stop": "2026-08-12T20:05:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T20:05:00+03:00",
+          "stop": "2026-08-12T20:35:00+03:00",
+          "title": "Eestlane ja venelane | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T20:35:00+03:00",
+          "stop": "2026-08-12T22:00:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E53",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T22:00:00+03:00",
+          "stop": "2026-08-12T23:25:00+03:00",
+          "title": "Suur komöödiaõhtu | E26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T23:25:00+03:00",
+          "stop": "2026-08-13T00:20:00+03:00",
+          "title": "Saare sosinad | E31",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "programs": [
+        {
+          "start": "2026-08-13T00:20:00+03:00",
+          "stop": "2026-08-13T01:05:00+03:00",
+          "title": "Kelgukoerad | E154",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T01:05:00+03:00",
+          "stop": "2026-08-13T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T07:00:00+03:00",
+          "stop": "2026-08-13T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T07:02:00+03:00",
+          "stop": "2026-08-13T07:35:00+03:00",
+          "title": "Varjunimi Aili Helm",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T07:35:00+03:00",
+          "stop": "2026-08-13T08:25:00+03:00",
+          "title": "Pilvede all | E139",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T08:25:00+03:00",
+          "stop": "2026-08-13T08:55:00+03:00",
+          "title": "Lemmikute lemmik | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T08:55:00+03:00",
+          "stop": "2026-08-13T09:25:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T09:25:00+03:00",
+          "stop": "2026-08-13T09:50:00+03:00",
+          "title": "Eestlane ja venelane | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T09:50:00+03:00",
+          "stop": "2026-08-13T10:20:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T10:20:00+03:00",
+          "stop": "2026-08-13T10:55:00+03:00",
+          "title": "Majad täis mälestusi: Ernst Peterson-Särgava maja | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T10:55:00+03:00",
+          "stop": "2026-08-13T11:45:00+03:00",
+          "title": "Saare sosinad | E31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T11:45:00+03:00",
+          "stop": "2026-08-13T12:30:00+03:00",
+          "title": "Kelgukoerad | E154",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T12:30:00+03:00",
+          "stop": "2026-08-13T13:50:00+03:00",
+          "title": "Suur komöödiaõhtu | E26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T13:50:00+03:00",
+          "stop": "2026-08-13T15:10:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E53",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T15:10:00+03:00",
+          "stop": "2026-08-13T15:45:00+03:00",
+          "title": "Hitid: Rutikute Best Of",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T15:45:00+03:00",
+          "stop": "2026-08-13T16:35:00+03:00",
+          "title": "Pilvede all | E140",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T16:35:00+03:00",
+          "stop": "2026-08-13T17:10:00+03:00",
+          "title": "Isad ja pojad: Armas ja Toivo Kuldsepp | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T17:10:00+03:00",
+          "stop": "2026-08-13T17:35:00+03:00",
+          "title": "Lemmikute lemmik | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T17:35:00+03:00",
+          "stop": "2026-08-13T18:10:00+03:00",
+          "title": "Majad täis mälestusi: Oskar Lutsu majamuuseum | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T18:10:00+03:00",
+          "stop": "2026-08-13T18:45:00+03:00",
+          "title": "Õhtu tantsuga: Reval Sunny Philharmonics, Silvi Vrait | E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T18:45:00+03:00",
+          "stop": "2026-08-13T19:15:00+03:00",
+          "title": "Tätte ja Matvere imeline ilmareis | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T19:15:00+03:00",
+          "stop": "2026-08-13T19:45:00+03:00",
+          "title": "Teledoktor Viktor Vassiljev | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T19:45:00+03:00",
+          "stop": "2026-08-13T20:15:00+03:00",
+          "title": "Eestlane ja venelane | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T20:15:00+03:00",
+          "stop": "2026-08-13T21:40:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E54",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T21:40:00+03:00",
+          "stop": "2026-08-13T23:05:00+03:00",
+          "title": "Suur komöödiaõhtu | E27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T23:05:00+03:00",
+          "stop": "2026-08-14T00:00:00+03:00",
+          "title": "Saare sosinad | E32",
           "description": "L",
           "category": null
         }

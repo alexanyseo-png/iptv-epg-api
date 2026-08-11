@@ -8,73 +8,167 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
+  "generatedAt": "2026-08-11T02:29:12.639875+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 21,
   "days": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "programs": [
         {
-          "start": "2026-08-10T00:20:00+03:00",
-          "stop": "2026-08-10T01:55:00+03:00",
-          "title": "Aislados",
+          "start": "2026-08-11T00:05:00+03:00",
+          "stop": "2026-08-11T01:45:00+03:00",
+          "title": "Instinto letal",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T01:55:00+03:00",
-          "stop": "2026-08-10T07:30:00+03:00",
+          "start": "2026-08-11T01:45:00+03:00",
+          "stop": "2026-08-11T04:10:00+03:00",
+          "title": "Historia que tú hiciste: La Decimoquinta. Final Champions League (2023/24): Borussia Dortmund – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T04:10:00+03:00",
+          "stop": "2026-08-11T05:55:00+03:00",
           "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T07:30:00+03:00",
-          "stop": "2026-08-10T09:00:00+03:00",
-          "title": "Historia que tú hiciste: La Quinta. R. Madrid-Eintracht Frankfurt",
+          "start": "2026-08-11T05:55:00+03:00",
+          "stop": "2026-08-11T07:10:00+03:00",
+          "title": "Bernabéu",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T09:00:00+03:00",
-          "stop": "2026-08-10T10:55:00+03:00",
-          "title": "Historia que tú hiciste: La Duodécima: Juventus-Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T10:55:00+03:00",
-          "stop": "2026-08-10T13:35:00+03:00",
-          "title": "Historia que tú hiciste: Final Copa del Rey 2011: Barcelona-Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T13:35:00+03:00",
-          "stop": "2026-08-10T15:30:00+03:00",
-          "title": "Historia que tú hiciste: Supercopa de Europa (2022): Real Madrid – Eintracht de Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T15:30:00+03:00",
-          "stop": "2026-08-10T16:00:00+03:00",
-          "title": "Conecta Informativo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T16:00:00+03:00",
-          "stop": "2026-08-10T16:35:00+03:00",
+          "start": "2026-08-11T07:10:00+03:00",
+          "stop": "2026-08-11T09:00:00+03:00",
           "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T16:35:00+03:00",
-          "stop": "2026-08-10T18:15:00+03:00",
-          "title": "Hércules contra Roma",
+          "start": "2026-08-11T09:00:00+03:00",
+          "stop": "2026-08-11T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T13:00:00+03:00",
+          "stop": "2026-08-11T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T17:00:00+03:00",
+          "stop": "2026-08-11T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T21:00:00+03:00",
+          "stop": "2026-08-12T01:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "programs": [
+        {
+          "start": "2026-08-12T01:00:00+03:00",
+          "stop": "2026-08-12T05:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T05:00:00+03:00",
+          "stop": "2026-08-12T09:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T09:00:00+03:00",
+          "stop": "2026-08-12T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T13:00:00+03:00",
+          "stop": "2026-08-12T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T17:00:00+03:00",
+          "stop": "2026-08-12T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T21:00:00+03:00",
+          "stop": "2026-08-13T01:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "programs": [
+        {
+          "start": "2026-08-13T01:00:00+03:00",
+          "stop": "2026-08-13T05:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T05:00:00+03:00",
+          "stop": "2026-08-13T09:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T09:00:00+03:00",
+          "stop": "2026-08-13T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T13:00:00+03:00",
+          "stop": "2026-08-13T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T17:00:00+03:00",
+          "stop": "2026-08-13T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T21:00:00+03:00",
+          "stop": "2026-08-14T01:00:00+03:00",
+          "title": "Real Madrid TV",
           "description": "L",
           "category": null
         }

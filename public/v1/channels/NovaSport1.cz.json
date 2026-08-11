@@ -8,129 +8,496 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
+  "generatedAt": "2026-08-11T02:29:12.639875+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 68,
   "days": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "programs": [
         {
-          "start": "2026-08-10T00:00:00+03:00",
-          "stop": "2026-08-10T00:05:00+03:00",
+          "start": "2026-08-11T00:10:00+03:00",
+          "stop": "2026-08-11T00:30:00+03:00",
           "title": "Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T00:05:00+03:00",
-          "stop": "2026-08-10T00:20:00+03:00",
+          "start": "2026-08-11T00:30:00+03:00",
+          "stop": "2026-08-11T02:15:00+03:00",
+          "title": "MT Melsungen – TSV Hannover-Burgdorf",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T02:15:00+03:00",
+          "stop": "2026-08-11T03:40:00+03:00",
+          "title": "Füchse Berlin – THW Kiel",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T03:40:00+03:00",
+          "stop": "2026-08-11T05:10:00+03:00",
+          "title": "HC Erlangen – TBV Lemgo Lippe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T05:10:00+03:00",
+          "stop": "2026-08-11T08:00:00+03:00",
+          "title": "MT Melsungen – SG Flensburg-Handewitt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T08:00:00+03:00",
+          "stop": "2026-08-11T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T08:05:00+03:00",
+          "stop": "2026-08-11T10:00:00+03:00",
+          "title": "Plymouth Argyle – Exeter City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T10:00:00+03:00",
+          "stop": "2026-08-11T12:00:00+03:00",
+          "title": "Derby County – Lincoln City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T12:00:00+03:00",
+          "stop": "2026-08-11T12:15:00+03:00",
           "title": "Penaltový král – Cheb",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T00:20:00+03:00",
-          "stop": "2026-08-10T00:35:00+03:00",
-          "title": "Běhej lesy – Klínovec",
+          "start": "2026-08-11T12:15:00+03:00",
+          "stop": "2026-08-11T14:00:00+03:00",
+          "title": "FC Nantes – RC Lens",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T00:35:00+03:00",
-          "stop": "2026-08-10T02:05:00+03:00",
-          "title": "VfL Gummersbach – THW Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T02:05:00+03:00",
-          "stop": "2026-08-10T03:50:00+03:00",
-          "title": "TSV Hannover-Burgdorf – SC Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T03:50:00+03:00",
-          "stop": "2026-08-10T05:20:00+03:00",
-          "title": "GWD Minden – MT Melsungen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T05:20:00+03:00",
-          "stop": "2026-08-10T08:00:00+03:00",
-          "title": "SC Magdeburg – Rhein-Neckar Löwen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T08:00:00+03:00",
-          "stop": "2026-08-10T08:05:00+03:00",
-          "title": "Sportovní noviny",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T08:05:00+03:00",
-          "stop": "2026-08-10T10:00:00+03:00",
-          "title": "Mansfield Town – Sheffield United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T10:00:00+03:00",
-          "stop": "2026-08-10T12:30:00+03:00",
-          "title": "Middlesbrough FC – Wrexham FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T12:30:00+03:00",
-          "stop": "2026-08-10T13:00:00+03:00",
-          "title": "Epic Series – 4Islands Epic",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T13:00:00+03:00",
-          "stop": "2026-08-10T13:30:00+03:00",
-          "title": "Golden Roof Challenge",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T13:30:00+03:00",
-          "stop": "2026-08-10T14:00:00+03:00",
-          "title": "SpadePoker show 2026 (28)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T14:00:00+03:00",
-          "stop": "2026-08-10T14:05:00+03:00",
+          "start": "2026-08-11T14:00:00+03:00",
+          "stop": "2026-08-11T14:05:00+03:00",
           "title": "Polední Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T14:05:00+03:00",
-          "stop": "2026-08-10T15:45:00+03:00",
-          "title": "Racing Strasbourg – Stade Brestois",
+          "start": "2026-08-11T14:05:00+03:00",
+          "stop": "2026-08-11T15:45:00+03:00",
+          "title": "Toulouse FC – Racing Strasbourga",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T15:45:00+03:00",
-          "stop": "2026-08-10T17:30:00+03:00",
-          "title": "Stade Brestois – AS Monaco",
+          "start": "2026-08-11T15:45:00+03:00",
+          "stop": "2026-08-11T17:30:00+03:00",
+          "title": "PSG – Stade Rennes",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T17:30:00+03:00",
-          "stop": "2026-08-10T19:15:00+03:00",
-          "title": "Lille OSC – Olympique Marseille",
+          "start": "2026-08-11T17:30:00+03:00",
+          "stop": "2026-08-11T19:15:00+03:00",
+          "title": "Le Havre AC – Paris FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T19:15:00+03:00",
+          "stop": "2026-08-11T19:30:00+03:00",
+          "title": "ČEZ RunTour 2026 – Olomouc",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T19:30:00+03:00",
+          "stop": "2026-08-11T20:00:00+03:00",
+          "title": "Carabao Cup Highlights (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T20:00:00+03:00",
+          "stop": "2026-08-11T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T20:05:00+03:00",
+          "stop": "2026-08-11T22:00:00+03:00",
+          "title": "Queens Park Rangers – Millwall FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T22:00:00+03:00",
+          "stop": "2026-08-11T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T22:05:00+03:00",
+          "stop": "2026-08-12T00:00:00+03:00",
+          "title": "Swansea City – Birmingham City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "programs": [
+        {
+          "start": "2026-08-12T00:00:00+03:00",
+          "stop": "2026-08-12T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T00:05:00+03:00",
+          "stop": "2026-08-12T00:15:00+03:00",
+          "title": "Penaltový král – Cheb",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T00:15:00+03:00",
+          "stop": "2026-08-12T01:55:00+03:00",
+          "title": "Rhein-Neckar Löwen – Füchse Berlin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T01:55:00+03:00",
+          "stop": "2026-08-12T03:30:00+03:00",
+          "title": "ThSV Eisenach – THW Kiel",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T03:30:00+03:00",
+          "stop": "2026-08-12T05:30:00+03:00",
+          "title": "West Ham United – Portsmouth FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T05:30:00+03:00",
+          "stop": "2026-08-12T08:00:00+03:00",
+          "title": "Colchester United – Southampton FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T08:00:00+03:00",
+          "stop": "2026-08-12T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T08:05:00+03:00",
+          "stop": "2026-08-12T10:45:00+03:00",
+          "title": "Parkurové skákání (35)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T10:45:00+03:00",
+          "stop": "2026-08-12T11:15:00+03:00",
+          "title": "Bentonville Bikefest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T11:15:00+03:00",
+          "stop": "2026-08-12T11:45:00+03:00",
+          "title": "Epic Series – 4Islands Epic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T11:45:00+03:00",
+          "stop": "2026-08-12T12:15:00+03:00",
+          "title": "Carabao Cup Highlights (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T12:15:00+03:00",
+          "stop": "2026-08-12T14:00:00+03:00",
+          "title": "FC Lorient – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T14:00:00+03:00",
+          "stop": "2026-08-12T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T14:05:00+03:00",
+          "stop": "2026-08-12T15:45:00+03:00",
+          "title": "Olympique Marseille – AS Monaco",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T15:45:00+03:00",
+          "stop": "2026-08-12T17:30:00+03:00",
+          "title": "Paris FC – Toulouse FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T17:30:00+03:00",
+          "stop": "2026-08-12T18:00:00+03:00",
+          "title": "SpadePoker show 2026 (28)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T18:00:00+03:00",
+          "stop": "2026-08-12T18:30:00+03:00",
+          "title": "The King's poker (71)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T18:30:00+03:00",
+          "stop": "2026-08-12T19:30:00+03:00",
+          "title": "The King's poker (31)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T19:30:00+03:00",
+          "stop": "2026-08-12T20:00:00+03:00",
+          "title": "Carabao Cup Highlights (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T20:00:00+03:00",
+          "stop": "2026-08-12T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T20:05:00+03:00",
+          "stop": "2026-08-12T22:00:00+03:00",
+          "title": "Mansfield Town – Sheffield United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T22:00:00+03:00",
+          "stop": "2026-08-12T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T22:05:00+03:00",
+          "stop": "2026-08-12T22:20:00+03:00",
+          "title": "Mistři s dobrým srdcem 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T22:20:00+03:00",
+          "stop": "2026-08-13T00:00:00+03:00",
+          "title": "NHL – Den hokeje v Česku Exhibice",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "programs": [
+        {
+          "start": "2026-08-13T00:00:00+03:00",
+          "stop": "2026-08-13T00:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T00:05:00+03:00",
+          "stop": "2026-08-13T00:35:00+03:00",
+          "title": "Bentonville Bikefest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T00:35:00+03:00",
+          "stop": "2026-08-13T02:00:00+03:00",
+          "title": "TBV Lemgo Lippe – SG Flensburg-Handewitt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T02:00:00+03:00",
+          "stop": "2026-08-13T03:30:00+03:00",
+          "title": "Rhein-Neckar Löwen – HC Erlangen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T03:30:00+03:00",
+          "stop": "2026-08-13T05:00:00+03:00",
+          "title": "TSV Hannover-Burgdorf – Füchse Berlin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T05:00:00+03:00",
+          "stop": "2026-08-13T08:00:00+03:00",
+          "title": "SC Magdeburg – MT Melsungen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T08:00:00+03:00",
+          "stop": "2026-08-13T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T08:05:00+03:00",
+          "stop": "2026-08-13T09:45:00+03:00",
+          "title": "Queens Park Rangers – Millwall FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T09:45:00+03:00",
+          "stop": "2026-08-13T10:15:00+03:00",
+          "title": "Carabao Cup Highlights (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T10:15:00+03:00",
+          "stop": "2026-08-13T10:30:00+03:00",
+          "title": "Penaltový král – Cheb",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T10:30:00+03:00",
+          "stop": "2026-08-13T12:15:00+03:00",
+          "title": "Angers SCO – FC Nantes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T12:15:00+03:00",
+          "stop": "2026-08-13T14:00:00+03:00",
+          "title": "RC Lens – OGC Nice",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T14:00:00+03:00",
+          "stop": "2026-08-13T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T14:05:00+03:00",
+          "stop": "2026-08-13T15:45:00+03:00",
+          "title": "Olympique Lyon – Le Havre AC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T15:45:00+03:00",
+          "stop": "2026-08-13T17:30:00+03:00",
+          "title": "FC Metz – PSG",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T17:30:00+03:00",
+          "stop": "2026-08-13T19:30:00+03:00",
+          "title": "Stade Brestois – AJ Auxerre",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T19:30:00+03:00",
+          "stop": "2026-08-13T20:00:00+03:00",
+          "title": "Bentonville Bikefest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T20:00:00+03:00",
+          "stop": "2026-08-13T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T20:05:00+03:00",
+          "stop": "2026-08-13T21:50:00+03:00",
+          "title": "FC Sochaux – AS Saint-Étienne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T21:50:00+03:00",
+          "stop": "2026-08-13T22:00:00+03:00",
+          "title": "Penaltový král – Chotíkov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T22:00:00+03:00",
+          "stop": "2026-08-13T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T22:05:00+03:00",
+          "stop": "2026-08-13T22:35:00+03:00",
+          "title": "The King's poker (72)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T22:35:00+03:00",
+          "stop": "2026-08-13T23:30:00+03:00",
+          "title": "The King's poker (32)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T23:30:00+03:00",
+          "stop": "2026-08-14T00:00:00+03:00",
+          "title": "SpadePoker show 2026 (28)",
           "description": "L",
           "category": null
         }

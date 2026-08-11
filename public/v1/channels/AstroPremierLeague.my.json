@@ -8,87 +8,300 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-10T08:05:34.002314+00:00",
+  "generatedAt": "2026-08-11T02:29:12.639875+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 40,
   "days": [
     {
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "programs": [
         {
-          "start": "2026-08-10T01:00:00+03:00",
-          "stop": "2026-08-10T03:10:00+03:00",
-          "title": "PL: Nottm Forest vs Tottenham",
+          "start": "2026-08-11T01:00:00+03:00",
+          "stop": "2026-08-11T03:10:00+03:00",
+          "title": "PL: Brentford vs Chelsea",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T03:10:00+03:00",
-          "stop": "2026-08-10T03:40:00+03:00",
-          "title": "Crystal Palace vs Liverpool 2013/14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T03:40:00+03:00",
-          "stop": "2026-08-10T04:10:00+03:00",
-          "title": "Liverpool vs Manchester United 2000/01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T04:10:00+03:00",
-          "stop": "2026-08-10T06:50:00+03:00",
-          "title": "PL: Man City vs Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T06:50:00+03:00",
-          "stop": "2026-08-10T09:00:00+03:00",
-          "title": "PL: Aston Villa vs Crystal Palace",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T09:00:00+03:00",
-          "stop": "2026-08-10T11:50:00+03:00",
-          "title": "PL: Arsenal vs Brighton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T11:50:00+03:00",
-          "stop": "2026-08-10T14:00:00+03:00",
-          "title": "PL: Man Utd vs Nottm Forest",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-10T14:00:00+03:00",
-          "stop": "2026-08-10T14:30:00+03:00",
+          "start": "2026-08-11T03:10:00+03:00",
+          "stop": "2026-08-11T03:40:00+03:00",
           "title": "Tottenham vs Everton 2002/03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T14:30:00+03:00",
-          "stop": "2026-08-10T15:00:00+03:00",
+          "start": "2026-08-11T03:40:00+03:00",
+          "stop": "2026-08-11T04:10:00+03:00",
           "title": "Liverpool vs Arsenal 2008/09",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T15:00:00+03:00",
-          "stop": "2026-08-10T17:20:00+03:00",
-          "title": "PL: Newcastle vs Liverpool",
+          "start": "2026-08-11T04:10:00+03:00",
+          "stop": "2026-08-11T06:20:00+03:00",
+          "title": "PL: Brighton vs Man Utd",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-10T17:20:00+03:00",
-          "stop": "2026-08-10T20:20:00+03:00",
-          "title": "PL: Everton vs. Chelsea",
+          "start": "2026-08-11T06:20:00+03:00",
+          "stop": "2026-08-11T09:20:00+03:00",
+          "title": "PL: Tottenham vs Burnley",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T09:20:00+03:00",
+          "stop": "2026-08-11T11:30:00+03:00",
+          "title": "PL: Bournemouth vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T11:30:00+03:00",
+          "stop": "2026-08-11T13:40:00+03:00",
+          "title": "PL: Burnley vs Wolves",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T13:40:00+03:00",
+          "stop": "2026-08-11T15:40:00+03:00",
+          "title": "Review Of The Season 25/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T15:40:00+03:00",
+          "stop": "2026-08-11T16:10:00+03:00",
+          "title": "Everton vs Manchester United 2013/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T16:10:00+03:00",
+          "stop": "2026-08-11T16:45:00+03:00",
+          "title": "Liverpool vs Newcastle United 2000/01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T16:45:00+03:00",
+          "stop": "2026-08-11T19:40:00+03:00",
+          "title": "PL: Liverpool vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T19:40:00+03:00",
+          "stop": "2026-08-11T21:50:00+03:00",
+          "title": "PL: Arsenal vs Newcastle",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T21:50:00+03:00",
+          "stop": "2026-08-11T22:50:00+03:00",
+          "title": "Review Of The Season 25/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-11T22:50:00+03:00",
+          "stop": "2026-08-12T01:00:00+03:00",
+          "title": "PL: Brighton vs Nottm Forest",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "programs": [
+        {
+          "start": "2026-08-12T01:00:00+03:00",
+          "stop": "2026-08-12T03:10:00+03:00",
+          "title": "PL: Wolves vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T03:10:00+03:00",
+          "stop": "2026-08-12T03:40:00+03:00",
+          "title": "Everton vs Manchester United 2013/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T03:40:00+03:00",
+          "stop": "2026-08-12T04:10:00+03:00",
+          "title": "Liverpool vs Newcastle United 2000/01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T04:10:00+03:00",
+          "stop": "2026-08-12T06:40:00+03:00",
+          "title": "PL: Liverpool vs Brentford",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T06:40:00+03:00",
+          "stop": "2026-08-12T09:50:00+03:00",
+          "title": "PL: Man City vs Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T09:50:00+03:00",
+          "stop": "2026-08-12T12:50:00+03:00",
+          "title": "PL: Aston Villa vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T12:50:00+03:00",
+          "stop": "2026-08-12T15:00:00+03:00",
+          "title": "PL: Newcastle vs West Ham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T15:00:00+03:00",
+          "stop": "2026-08-12T15:30:00+03:00",
+          "title": "Arsenal vs Burnley 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T15:30:00+03:00",
+          "stop": "2026-08-12T16:00:00+03:00",
+          "title": "Liverpool vs Newcastle United 1995/96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T16:00:00+03:00",
+          "stop": "2026-08-12T18:50:00+03:00",
+          "title": "PL: Tottenham vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T18:50:00+03:00",
+          "stop": "2026-08-12T21:00:00+03:00",
+          "title": "PL: Man City vs Brentford",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T21:00:00+03:00",
+          "stop": "2026-08-12T22:50:00+03:00",
+          "title": "Classic Match: MUN 4-4 EVE 11/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-12T22:50:00+03:00",
+          "stop": "2026-08-13T01:00:00+03:00",
+          "title": "PL: Leeds vs Wolves",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-13",
+      "programs": [
+        {
+          "start": "2026-08-13T01:00:00+03:00",
+          "stop": "2026-08-13T03:10:00+03:00",
+          "title": "PL: Liverpool vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T03:10:00+03:00",
+          "stop": "2026-08-13T03:40:00+03:00",
+          "title": "Arsenal vs Burnley 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T03:40:00+03:00",
+          "stop": "2026-08-13T04:10:00+03:00",
+          "title": "Liverpool vs Newcastle United 1995/96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T04:10:00+03:00",
+          "stop": "2026-08-13T08:30:00+03:00",
+          "title": "PL: Tottenham vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T08:30:00+03:00",
+          "stop": "2026-08-13T10:40:00+03:00",
+          "title": "PL: Fulham vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T10:40:00+03:00",
+          "stop": "2026-08-13T13:50:00+03:00",
+          "title": "PL: Chelsea vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T13:50:00+03:00",
+          "stop": "2026-08-13T14:50:00+03:00",
+          "title": "Goals of The Season 2025/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T14:50:00+03:00",
+          "stop": "2026-08-13T15:20:00+03:00",
+          "title": "PL Stories 2026/27: The Tigers Return",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T15:20:00+03:00",
+          "stop": "2026-08-13T15:50:00+03:00",
+          "title": "Manchester United vs Aston Villa 2012/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T15:50:00+03:00",
+          "stop": "2026-08-13T17:50:00+03:00",
+          "title": "Review Of The Season 25/26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T17:50:00+03:00",
+          "stop": "2026-08-13T20:40:00+03:00",
+          "title": "PL: Newcastle vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T20:40:00+03:00",
+          "stop": "2026-08-13T22:50:00+03:00",
+          "title": "PL: Everton vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T22:50:00+03:00",
+          "stop": "2026-08-14T01:00:00+03:00",
+          "title": "PL: West Ham vs Leeds",
           "description": "L",
           "category": null
         }
