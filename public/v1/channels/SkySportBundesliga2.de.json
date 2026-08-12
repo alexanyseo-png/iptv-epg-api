@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-11T02:29:12.639875+00:00",
+  "generatedAt": "2026-08-12T02:46:19.489943+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-08-11",
-      "programs": [
-        {
-          "start": "2026-08-11T07:00:00+03:00",
-          "stop": "2026-08-12T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-12",
       "programs": [
@@ -42,6 +30,39 @@
         {
           "start": "2026-08-13T07:00:00+03:00",
           "stop": "2026-08-14T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-14",
+      "programs": [
+        {
+          "start": "2026-08-14T07:00:00+03:00",
+          "stop": "2026-08-14T18:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-14T18:40:00+03:00",
+          "stop": "2026-08-14T19:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-14T19:00:00+03:00",
+          "stop": "2026-08-14T21:30:00+03:00",
+          "title": "Live 2. BL: Holstein Kiel – FC St. Pauli, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-14T21:30:00+03:00",
+          "stop": "2026-08-15T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
