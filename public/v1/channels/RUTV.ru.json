@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-12T02:46:19.489943+00:00",
+  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-08-12",
-      "programs": [
-        {
-          "start": "2026-08-12T05:00:00+03:00",
-          "stop": "2026-08-12T06:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T06:00:00+03:00",
-          "stop": "2026-08-12T07:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T07:00:00+03:00",
-          "stop": "2026-08-12T12:20:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T12:20:00+03:00",
-          "stop": "2026-08-12T12:25:00+03:00",
-          "title": "Дотянись до звезд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T12:25:00+03:00",
-          "stop": "2026-08-12T15:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T15:00:00+03:00",
-          "stop": "2026-08-12T16:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T16:00:00+03:00",
-          "stop": "2026-08-12T17:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T17:00:00+03:00",
-          "stop": "2026-08-12T18:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T18:00:00+03:00",
-          "stop": "2026-08-12T20:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T20:00:00+03:00",
-          "stop": "2026-08-12T21:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T21:00:00+03:00",
-          "stop": "2026-08-12T22:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T22:00:00+03:00",
-          "stop": "2026-08-13T05:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-13",
       "programs": [
@@ -273,6 +184,116 @@
         {
           "start": "2026-08-14T22:00:00+03:00",
           "stop": "2026-08-15T05:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "programs": [
+        {
+          "start": "2026-08-15T05:00:00+03:00",
+          "stop": "2026-08-15T06:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T06:00:00+03:00",
+          "stop": "2026-08-15T07:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T07:00:00+03:00",
+          "stop": "2026-08-15T09:20:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T09:20:00+03:00",
+          "stop": "2026-08-15T09:25:00+03:00",
+          "title": "Дотянись до звезд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T09:25:00+03:00",
+          "stop": "2026-08-15T12:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T12:00:00+03:00",
+          "stop": "2026-08-15T13:20:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T13:20:00+03:00",
+          "stop": "2026-08-15T15:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T15:00:00+03:00",
+          "stop": "2026-08-15T16:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T16:00:00+03:00",
+          "stop": "2026-08-15T16:05:00+03:00",
+          "title": "Сияй по-звёздному.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T16:05:00+03:00",
+          "stop": "2026-08-15T17:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T17:00:00+03:00",
+          "stop": "2026-08-15T18:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T18:00:00+03:00",
+          "stop": "2026-08-15T19:40:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T19:40:00+03:00",
+          "stop": "2026-08-15T21:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T21:00:00+03:00",
+          "stop": "2026-08-15T22:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T22:00:00+03:00",
+          "stop": "2026-08-16T05:00:00+03:00",
           "title": "Хит за хитом.",
           "description": "L",
           "category": null

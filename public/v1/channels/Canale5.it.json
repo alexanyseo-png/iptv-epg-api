@@ -8,8 +8,49 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-12T02:46:19.489943+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "available": true,
+  "programmeCount": 5,
+  "days": [
+    {
+      "date": "2026-08-13",
+      "programs": [
+        {
+          "start": "2026-08-13T00:26:00+03:00",
+          "stop": "2026-08-13T01:05:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T01:05:00+03:00",
+          "stop": "2026-08-13T02:53:00+03:00",
+          "title": "Croce e delizia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T02:53:00+03:00",
+          "stop": "2026-08-13T04:46:00+03:00",
+          "title": "Come un delfino.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T04:46:00+03:00",
+          "stop": "2026-08-13T05:26:00+03:00",
+          "title": "New Amsterdam. S.4,Ep.4/22 \"Un segno duraturo\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-13T05:26:00+03:00",
+          "stop": "2026-08-13T06:26:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. S.7,Ep.17/20 \"Ti amo tanto\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

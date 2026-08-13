@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-12T02:46:19.489943+00:00",
+  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-08-12",
-      "programs": [
-        {
-          "start": "2026-08-12T00:00:00+03:00",
-          "stop": "2026-08-12T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T05:00:00+03:00",
-          "stop": "2026-08-12T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T07:00:00+03:00",
-          "stop": "2026-08-12T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T11:00:00+03:00",
-          "stop": "2026-08-12T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T14:00:00+03:00",
-          "stop": "2026-08-12T15:00:00+03:00",
-          "title": "Тема с Алексеем Бобровским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T15:00:00+03:00",
-          "stop": "2026-08-12T18:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T18:00:00+03:00",
-          "stop": "2026-08-12T21:00:00+03:00",
-          "title": "Поле Куликова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T21:00:00+03:00",
-          "stop": "2026-08-12T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T22:00:00+03:00",
-          "stop": "2026-08-12T23:00:00+03:00",
-          "title": "Экономика по-русски",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-12T23:00:00+03:00",
-          "stop": "2026-08-13T00:00:00+03:00",
-          "title": "Псиоп",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-13",
       "programs": [
@@ -107,7 +32,7 @@
         {
           "start": "2026-08-13T07:00:00+03:00",
           "stop": "2026-08-13T11:00:00+03:00",
-          "title": "Полный контакт",
+          "title": "Соловьев LIVE",
           "description": "L",
           "category": null
         },
@@ -135,28 +60,28 @@
         {
           "start": "2026-08-13T19:00:00+03:00",
           "stop": "2026-08-13T21:00:00+03:00",
-          "title": "Мардан",
+          "title": "Мардан Live",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-13T21:00:00+03:00",
           "stop": "2026-08-13T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
+          "title": "Newsroom",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-13T22:00:00+03:00",
           "stop": "2026-08-13T23:00:00+03:00",
-          "title": "На войне как на войне",
+          "title": "Бог Есть!",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-13T23:00:00+03:00",
           "stop": "2026-08-14T00:00:00+03:00",
-          "title": "Фейк-контроль",
+          "title": "Вечер Z",
           "description": "L",
           "category": null
         }
@@ -182,7 +107,7 @@
         {
           "start": "2026-08-14T07:00:00+03:00",
           "stop": "2026-08-14T11:00:00+03:00",
-          "title": "Формула смысла",
+          "title": "Соловьев LIVE",
           "description": "L",
           "category": null
         },
@@ -195,13 +120,13 @@
         },
         {
           "start": "2026-08-14T14:00:00+03:00",
-          "stop": "2026-08-14T17:00:00+03:00",
-          "title": "Азаренок. Напрямую",
+          "stop": "2026-08-14T16:00:00+03:00",
+          "title": "АК-81",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-14T17:00:00+03:00",
+          "start": "2026-08-14T16:00:00+03:00",
           "stop": "2026-08-14T19:00:00+03:00",
           "title": "Лабиринт Карнаухова",
           "description": "L",
@@ -210,21 +135,21 @@
         {
           "start": "2026-08-14T19:00:00+03:00",
           "stop": "2026-08-14T21:00:00+03:00",
-          "title": "Мардан",
+          "title": "Мардан Live",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-14T21:00:00+03:00",
           "stop": "2026-08-14T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
+          "title": "Newsroom",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-14T22:00:00+03:00",
           "stop": "2026-08-14T23:00:00+03:00",
-          "title": "Вечер Z",
+          "title": "Диванный штаб",
           "description": "L",
           "category": null
         },
@@ -232,6 +157,88 @@
           "start": "2026-08-14T23:00:00+03:00",
           "stop": "2026-08-15T00:00:00+03:00",
           "title": "Курс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-15",
+      "programs": [
+        {
+          "start": "2026-08-15T00:00:00+03:00",
+          "stop": "2026-08-15T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T05:00:00+03:00",
+          "stop": "2026-08-15T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T07:00:00+03:00",
+          "stop": "2026-08-15T11:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T11:00:00+03:00",
+          "stop": "2026-08-15T11:30:00+03:00",
+          "title": "Большая рыба с Гией Саралидзе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T11:30:00+03:00",
+          "stop": "2026-08-15T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T13:00:00+03:00",
+          "stop": "2026-08-15T14:15:00+03:00",
+          "title": "Рассказы из русской истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T14:15:00+03:00",
+          "stop": "2026-08-15T17:00:00+03:00",
+          "title": "Подробнее",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T17:00:00+03:00",
+          "stop": "2026-08-15T18:00:00+03:00",
+          "title": "Опасный бизнес",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T18:00:00+03:00",
+          "stop": "2026-08-15T20:00:00+03:00",
+          "title": "Между народами с Аббасом Джумой",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T20:00:00+03:00",
+          "stop": "2026-08-15T23:00:00+03:00",
+          "title": "Мардан Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-15T23:00:00+03:00",
+          "stop": "2026-08-16T05:00:00+03:00",
+          "title": "СоловьевLive лучшее",
           "description": "L",
           "category": null
         }

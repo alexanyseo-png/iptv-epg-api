@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-12T02:46:19.489943+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-08-15",
+      "programs": [
+        {
+          "start": "2026-08-15T13:15:00+03:00",
+          "stop": "2026-08-16T13:15:00+03:00",
+          "title": "⋗ DTM 2026. Nürburgring: Race 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
