@@ -8,17 +8,43 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 4,
   "days": [
     {
       "date": "2026-08-15",
       "programs": [
         {
           "start": "2026-08-15T13:15:00+03:00",
-          "stop": "2026-08-16T13:15:00+03:00",
+          "stop": "2026-08-16T03:00:00+03:00",
           "title": "⋗ DTM 2026. Nürburgring: Race 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "start": "2026-08-16T03:00:00+03:00",
+          "stop": "2026-08-16T13:15:00+03:00",
+          "title": "⋗ UFC. Islam Makhachev vs Ian Machado Garry (ENG)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T13:15:00+03:00",
+          "stop": "2026-08-16T16:40:00+03:00",
+          "title": "⋗ DTM 2026. Nürburgring: Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T16:40:00+03:00",
+          "stop": "2026-08-16T17:40:00+03:00",
+          "title": "⋗ Eredivisie 2026/27. Ajax – Heerenveen",
           "description": "L",
           "category": null
         }

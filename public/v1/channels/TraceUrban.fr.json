@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-08-13",
-      "programs": [
-        {
-          "start": "2026-08-13T00:00:00+03:00",
-          "stop": "2026-08-13T01:00:00+03:00",
-          "title": "Новые.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T01:00:00+03:00",
-          "stop": "2026-08-13T07:00:00+03:00",
-          "title": "Sounds Of Trace.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T07:00:00+03:00",
-          "stop": "2026-08-13T13:00:00+03:00",
-          "title": "Urban Vibes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T13:00:00+03:00",
-          "stop": "2026-08-13T19:00:00+03:00",
-          "title": "Hits Non Stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T19:00:00+03:00",
-          "stop": "2026-08-13T19:45:00+03:00",
-          "title": "Hit 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T19:45:00+03:00",
-          "stop": "2026-08-13T20:00:00+03:00",
-          "title": "Hits Non Stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T20:00:00+03:00",
-          "stop": "2026-08-13T21:00:00+03:00",
-          "title": "Focus.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T21:00:00+03:00",
-          "stop": "2026-08-13T21:45:00+03:00",
-          "title": "Top 10 Pop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T21:45:00+03:00",
-          "stop": "2026-08-13T22:00:00+03:00",
-          "title": "Hits Non Stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T22:00:00+03:00",
-          "stop": "2026-08-13T23:00:00+03:00",
-          "title": "Hits Non Stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T23:00:00+03:00",
-          "stop": "2026-08-14T00:00:00+03:00",
-          "title": "Stream It.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-14",
       "programs": [
@@ -266,6 +184,81 @@
         {
           "start": "2026-08-15T23:00:00+03:00",
           "stop": "2026-08-16T01:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "start": "2026-08-16T01:00:00+03:00",
+          "stop": "2026-08-16T07:00:00+03:00",
+          "title": "Sounds Of Trace.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T07:00:00+03:00",
+          "stop": "2026-08-16T12:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T12:00:00+03:00",
+          "stop": "2026-08-16T13:00:00+03:00",
+          "title": "Rewind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T13:00:00+03:00",
+          "stop": "2026-08-16T14:45:00+03:00",
+          "title": "Hit 30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T14:45:00+03:00",
+          "stop": "2026-08-16T15:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T15:00:00+03:00",
+          "stop": "2026-08-16T19:00:00+03:00",
+          "title": "Weekend Vibes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T19:00:00+03:00",
+          "stop": "2026-08-16T19:45:00+03:00",
+          "title": "Hit 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T19:45:00+03:00",
+          "stop": "2026-08-16T20:00:00+03:00",
+          "title": "Hits Non Stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T20:00:00+03:00",
+          "stop": "2026-08-16T21:00:00+03:00",
+          "title": "Focus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T21:00:00+03:00",
+          "stop": "2026-08-16T22:00:00+03:00",
           "title": "Weekend Vibes.",
           "description": "L",
           "category": null

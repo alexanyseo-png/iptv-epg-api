@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-08-13",
-      "programs": [
-        {
-          "start": "2026-08-13T00:25:00+03:00",
-          "stop": "2026-08-13T03:05:00+03:00",
-          "title": "Балканский рубеж.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T03:05:00+03:00",
-          "stop": "2026-08-13T04:50:00+03:00",
-          "title": "Спутник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T04:50:00+03:00",
-          "stop": "2026-08-13T07:00:00+03:00",
-          "title": "Меч короля.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T07:00:00+03:00",
-          "stop": "2026-08-13T08:25:00+03:00",
-          "title": "Крокодил Данди.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T08:25:00+03:00",
-          "stop": "2026-08-13T10:15:00+03:00",
-          "title": "Крокодил Данди 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T10:15:00+03:00",
-          "stop": "2026-08-13T11:55:00+03:00",
-          "title": "Доспехи Бога.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T11:55:00+03:00",
-          "stop": "2026-08-13T13:55:00+03:00",
-          "title": "Доспехи Бога.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T13:55:00+03:00",
-          "stop": "2026-08-13T16:10:00+03:00",
-          "title": "На гребне волны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T16:10:00+03:00",
-          "stop": "2026-08-13T18:20:00+03:00",
-          "title": "Никита.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T18:20:00+03:00",
-          "stop": "2026-08-13T20:25:00+03:00",
-          "title": "Петля времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T20:25:00+03:00",
-          "stop": "2026-08-13T22:20:00+03:00",
-          "title": "Крушение.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T22:20:00+03:00",
-          "stop": "2026-08-14T00:20:00+03:00",
-          "title": "Скалолаз.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-14",
       "programs": [
@@ -295,6 +206,102 @@
           "start": "2026-08-15T23:50:00+03:00",
           "stop": "2026-08-16T01:50:00+03:00",
           "title": "Основной инстинкт.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "start": "2026-08-16T01:50:00+03:00",
+          "stop": "2026-08-16T04:00:00+03:00",
+          "title": "Анора.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T04:00:00+03:00",
+          "stop": "2026-08-16T05:30:00+03:00",
+          "title": "Защита от дурака.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T05:30:00+03:00",
+          "stop": "2026-08-16T07:00:00+03:00",
+          "title": "Во власти стихии.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T07:00:00+03:00",
+          "stop": "2026-08-16T08:45:00+03:00",
+          "title": "Рэмбо: Первая кровь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T08:45:00+03:00",
+          "stop": "2026-08-16T10:25:00+03:00",
+          "title": "Рэмбо: Первая кровь 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T10:25:00+03:00",
+          "stop": "2026-08-16T11:55:00+03:00",
+          "title": "Рэмбо 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T11:55:00+03:00",
+          "stop": "2026-08-16T13:55:00+03:00",
+          "title": "Скалолаз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T13:55:00+03:00",
+          "stop": "2026-08-16T15:35:00+03:00",
+          "title": "Доспехи Бога.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T15:35:00+03:00",
+          "stop": "2026-08-16T17:35:00+03:00",
+          "title": "Доспехи Бога.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T17:35:00+03:00",
+          "stop": "2026-08-16T19:00:00+03:00",
+          "title": "Крокодил Данди.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T19:00:00+03:00",
+          "stop": "2026-08-16T20:50:00+03:00",
+          "title": "Крокодил Данди 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T20:50:00+03:00",
+          "stop": "2026-08-16T22:45:00+03:00",
+          "title": "Самоволка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T22:45:00+03:00",
+          "stop": "2026-08-17T01:15:00+03:00",
+          "title": "Терминатор 2: Судный день.",
           "description": "L",
           "category": null
         }

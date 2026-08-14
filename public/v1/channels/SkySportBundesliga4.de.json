@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-08-13",
-      "programs": [
-        {
-          "start": "2026-08-13T07:00:00+03:00",
-          "stop": "2026-08-14T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-14",
       "programs": [
@@ -84,6 +72,39 @@
         {
           "start": "2026-08-15T16:00:00+03:00",
           "stop": "2026-08-16T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "start": "2026-08-16T07:00:00+03:00",
+          "stop": "2026-08-16T13:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T13:40:00+03:00",
+          "stop": "2026-08-16T14:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T14:00:00+03:00",
+          "stop": "2026-08-16T16:30:00+03:00",
+          "title": "Live 2. BL: Arminia Bielefeld – Energie Cottbus, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T16:30:00+03:00",
+          "stop": "2026-08-17T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

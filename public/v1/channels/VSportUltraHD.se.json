@@ -8,39 +8,27 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-08-13",
-      "programs": [
-        {
-          "start": "2026-08-13T11:00:00+03:00",
-          "stop": "2026-08-13T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T19:00:00+03:00",
-          "stop": "2026-08-13T22:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T22:00:00+03:00",
-          "stop": "2026-08-14T11:00:00+03:00",
-          "title": "Formula 1: Britannian GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-14",
       "programs": [
+        {
+          "start": "2026-08-14T00:35:00+03:00",
+          "stop": "2026-08-14T02:35:00+03:00",
+          "title": "Pohjois-Korea: Seuraava johtaja",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-14T02:35:00+03:00",
+          "stop": "2026-08-14T11:00:00+03:00",
+          "title": "Jay & Pamela",
+          "description": "L",
+          "category": null
+        },
         {
           "start": "2026-08-14T11:00:00+03:00",
           "stop": "2026-08-14T19:00:00+03:00",

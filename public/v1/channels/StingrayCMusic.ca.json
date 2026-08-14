@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-13T02:48:56.733290+00:00",
+  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
   "available": true,
   "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-08-13",
-      "programs": [
-        {
-          "start": "2026-08-13T01:00:00+03:00",
-          "stop": "2026-08-13T07:00:00+03:00",
-          "title": "Moonlight Melodies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T07:00:00+03:00",
-          "stop": "2026-08-13T11:00:00+03:00",
-          "title": "Dawn Chorus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T11:00:00+03:00",
-          "stop": "2026-08-13T12:00:00+03:00",
-          "title": "Simply Strings",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T12:00:00+03:00",
-          "stop": "2026-08-13T13:00:00+03:00",
-          "title": "Classical Chillout",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T13:00:00+03:00",
-          "stop": "2026-08-13T14:00:00+03:00",
-          "title": "Hall of Fame",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T14:00:00+03:00",
-          "stop": "2026-08-13T18:00:00+03:00",
-          "title": "Afternoon Overture",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T18:00:00+03:00",
-          "stop": "2026-08-13T19:00:00+03:00",
-          "title": "Pure Piano",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T19:00:00+03:00",
-          "stop": "2026-08-13T20:00:00+03:00",
-          "title": "Simply Strings",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T20:00:00+03:00",
-          "stop": "2026-08-13T21:00:00+03:00",
-          "title": "At the Movies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T21:00:00+03:00",
-          "stop": "2026-08-13T22:00:00+03:00",
-          "title": "Day of Friendship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-13T22:00:00+03:00",
-          "stop": "2026-08-14T01:00:00+03:00",
-          "title": "Evening Encore",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-14",
       "programs": [
@@ -252,6 +170,88 @@
         {
           "start": "2026-08-15T22:00:00+03:00",
           "stop": "2026-08-16T01:00:00+03:00",
+          "title": "Evening Encore",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-16",
+      "programs": [
+        {
+          "start": "2026-08-16T01:00:00+03:00",
+          "stop": "2026-08-16T07:00:00+03:00",
+          "title": "Moonlight Melodies",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T07:00:00+03:00",
+          "stop": "2026-08-16T11:00:00+03:00",
+          "title": "Dawn Chorus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T11:00:00+03:00",
+          "stop": "2026-08-16T12:00:00+03:00",
+          "title": "Classical Chillout",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T12:00:00+03:00",
+          "stop": "2026-08-16T13:00:00+03:00",
+          "title": "At the Movies",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T13:00:00+03:00",
+          "stop": "2026-08-16T14:00:00+03:00",
+          "title": "Hall of Fame",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T14:00:00+03:00",
+          "stop": "2026-08-16T18:00:00+03:00",
+          "title": "Sunday Selection",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T18:00:00+03:00",
+          "stop": "2026-08-16T19:00:00+03:00",
+          "title": "Tenors & Divas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T19:00:00+03:00",
+          "stop": "2026-08-16T20:00:00+03:00",
+          "title": "At the Movies",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T20:00:00+03:00",
+          "stop": "2026-08-16T21:00:00+03:00",
+          "title": "International Youth Day",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T21:00:00+03:00",
+          "stop": "2026-08-16T22:00:00+03:00",
+          "title": "Hall of Fame",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-16T22:00:00+03:00",
+          "stop": "2026-08-17T01:00:00+03:00",
           "title": "Evening Encore",
           "description": "L",
           "category": null
