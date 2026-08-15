@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:00:00+03:00",
-          "stop": "2026-08-14T01:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T01:00:00+03:00",
-          "stop": "2026-08-14T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T04:00:00+03:00",
-          "stop": "2026-08-14T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T08:00:00+03:00",
-          "stop": "2026-08-14T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:00:00+03:00",
-          "stop": "2026-08-14T10:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T10:00:00+03:00",
-          "stop": "2026-08-14T12:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T12:00:00+03:00",
-          "stop": "2026-08-14T13:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T13:00:00+03:00",
-          "stop": "2026-08-14T14:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T14:00:00+03:00",
-          "stop": "2026-08-14T15:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:00:00+03:00",
-          "stop": "2026-08-14T16:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T16:00:00+03:00",
-          "stop": "2026-08-15T01:00:00+03:00",
-          "title": "Top 100 Polskie lata dziewięćdziesiąte",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -183,6 +101,53 @@
           "start": "2026-08-16T14:00:00+03:00",
           "stop": "2026-08-17T00:00:00+03:00",
           "title": "Top 100 British Rock",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T00:00:00+03:00",
+          "stop": "2026-08-17T01:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T01:00:00+03:00",
+          "stop": "2026-08-17T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T04:00:00+03:00",
+          "stop": "2026-08-17T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T08:00:00+03:00",
+          "stop": "2026-08-17T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T09:00:00+03:00",
+          "stop": "2026-08-17T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T10:00:00+03:00",
+          "stop": "2026-08-17T12:00:00+03:00",
+          "title": "Best 80's",
           "description": "L",
           "category": null
         }

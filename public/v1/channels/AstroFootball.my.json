@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T01:00:00+03:00",
-          "stop": "2026-08-14T03:00:00+03:00",
-          "title": "DFB: Berlin vs Kaiserslautern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T03:00:00+03:00",
-          "stop": "2026-08-14T05:00:00+03:00",
-          "title": "DFB: Monchengladbach vs Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T05:00:00+03:00",
-          "stop": "2026-08-14T07:00:00+03:00",
-          "title": "DFB: Dortmund vs Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T07:00:00+03:00",
-          "stop": "2026-08-14T09:00:00+03:00",
-          "title": "DFB: Bochum vs Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:00:00+03:00",
-          "stop": "2026-08-14T11:00:00+03:00",
-          "title": "DFB: Freiburg vs Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T11:00:00+03:00",
-          "stop": "2026-08-14T13:00:00+03:00",
-          "title": "DFB: Union Berlin vs Bayern Munich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T13:00:00+03:00",
-          "stop": "2026-08-14T15:00:00+03:00",
-          "title": "Dutch: PSV vs Zwolle",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:00:00+03:00",
-          "stop": "2026-08-14T17:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Groningen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T17:00:00+03:00",
-          "stop": "2026-08-14T19:10:00+03:00",
-          "title": "Dutch: Breda vs Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:10:00+03:00",
-          "stop": "2026-08-14T21:15:00+03:00",
-          "title": "Friendly: Juventus vs Inter",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T21:15:00+03:00",
-          "stop": "2026-08-14T22:00:00+03:00",
-          "title": "Serie A: Full Impact: Round 38",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T22:00:00+03:00",
-          "stop": "2026-08-15T01:00:00+03:00",
-          "title": "DFB: Hamburger vs Holstein",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -309,6 +220,46 @@
           "start": "2026-08-16T23:00:00+03:00",
           "stop": "2026-08-17T01:00:00+03:00",
           "title": "FA Cup: Leeds vs Norwich",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T01:00:00+03:00",
+          "stop": "2026-08-17T03:00:00+03:00",
+          "title": "Serie A: Lazio vs Pisa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T03:00:00+03:00",
+          "stop": "2026-08-17T05:00:00+03:00",
+          "title": "Tournoi: China v Saudi Arabia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T05:00:00+03:00",
+          "stop": "2026-08-17T07:00:00+03:00",
+          "title": "Serie A: Parma vs Sassuolo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T07:00:00+03:00",
+          "stop": "2026-08-17T09:00:00+03:00",
+          "title": "Tournoi: DR Congo v Tunisia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T09:00:00+03:00",
+          "stop": "2026-08-17T11:00:00+03:00",
+          "title": "Serie A: Napoli vs Udinese",
           "description": "L",
           "category": null
         }

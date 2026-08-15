@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T01:00:00+03:00",
-          "stop": "2026-08-14T03:10:00+03:00",
-          "title": "PL: West Ham vs Crystal Palace",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T03:10:00+03:00",
-          "stop": "2026-08-14T04:10:00+03:00",
-          "title": "The Art of… The Centre Back With Joleon Lescott",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T04:10:00+03:00",
-          "stop": "2026-08-14T06:20:00+03:00",
-          "title": "PL: Nottm Forest vs Bournemouth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T06:20:00+03:00",
-          "stop": "2026-08-14T09:20:00+03:00",
-          "title": "PL: Liverpool vs. Arsenal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:20:00+03:00",
-          "stop": "2026-08-14T12:30:00+03:00",
-          "title": "PL: Aston Villa vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T12:30:00+03:00",
-          "stop": "2026-08-14T14:30:00+03:00",
-          "title": "PL: Bournemouth vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T14:30:00+03:00",
-          "stop": "2026-08-14T15:00:00+03:00",
-          "title": "PL Stories 2026/27: The Tigers Return",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:00:00+03:00",
-          "stop": "2026-08-14T15:30:00+03:00",
-          "title": "PL Classic: Malaysia vs Chelsea 2003",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:30:00+03:00",
-          "stop": "2026-08-14T16:00:00+03:00",
-          "title": "PL Classic: Malaysia vs Birmingham 2003",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T16:00:00+03:00",
-          "stop": "2026-08-14T16:30:00+03:00",
-          "title": "FA Community Shield 2026: Preview Show",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T16:30:00+03:00",
-          "stop": "2026-08-14T19:30:00+03:00",
-          "title": "PL: Liverpool vs Tottenham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:30:00+03:00",
-          "stop": "2026-08-14T22:50:00+03:00",
-          "title": "PL: Chelsea vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T22:50:00+03:00",
-          "stop": "2026-08-15T01:00:00+03:00",
-          "title": "PL: Tottenham vs Brighton",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -295,6 +199,53 @@
           "start": "2026-08-16T22:50:00+03:00",
           "stop": "2026-08-17T01:00:00+03:00",
           "title": "PL: Man City vs Crystal Palace",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T01:00:00+03:00",
+          "stop": "2026-08-17T03:10:00+03:00",
+          "title": "PL: Brighton vs Tottenham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T03:10:00+03:00",
+          "stop": "2026-08-17T03:40:00+03:00",
+          "title": "PL Classic: Malaysia vs Chelsea 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T03:40:00+03:00",
+          "stop": "2026-08-17T04:10:00+03:00",
+          "title": "PL Classic: Malaysia vs Birmingham 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T04:10:00+03:00",
+          "stop": "2026-08-17T07:30:00+03:00",
+          "title": "FA Community Shield: Arsenal vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T07:30:00+03:00",
+          "stop": "2026-08-17T09:40:00+03:00",
+          "title": "PL: Tottenham vs Brighton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T09:40:00+03:00",
+          "stop": "2026-08-17T12:30:00+03:00",
+          "title": "PL: Man Utd vs Man City",
           "description": "L",
           "category": null
         }

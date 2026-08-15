@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T07:00:00+03:00",
-          "stop": "2026-08-14T18:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T18:40:00+03:00",
-          "stop": "2026-08-14T19:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:00:00+03:00",
-          "stop": "2026-08-14T21:30:00+03:00",
-          "title": "Live 2. BL: Multiview 2. Spieltag, Freitag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T21:30:00+03:00",
-          "stop": "2026-08-15T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -105,6 +72,18 @@
         {
           "start": "2026-08-16T16:30:00+03:00",
           "stop": "2026-08-17T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T07:00:00+03:00",
+          "stop": "2026-08-18T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

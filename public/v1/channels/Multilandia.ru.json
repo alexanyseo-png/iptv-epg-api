@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:00:00+03:00",
-          "stop": "2026-08-14T01:45:00+03:00",
-          "title": "Крутиксы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T01:45:00+03:00",
-          "stop": "2026-08-14T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T06:00:00+03:00",
-          "stop": "2026-08-14T08:00:00+03:00",
-          "title": "Бодо Бородо. БОкварь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T08:00:00+03:00",
-          "stop": "2026-08-14T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:00:00+03:00",
-          "stop": "2026-08-14T10:00:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T10:00:00+03:00",
-          "stop": "2026-08-14T12:30:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T12:30:00+03:00",
-          "stop": "2026-08-14T16:00:00+03:00",
-          "title": "Приключения Пети и Волка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T16:00:00+03:00",
-          "stop": "2026-08-14T23:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T23:00:00+03:00",
-          "stop": "2026-08-14T23:05:00+03:00",
-          "title": "Девочка и пираты.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T23:05:00+03:00",
-          "stop": "2026-08-14T23:10:00+03:00",
-          "title": "Сын капитана.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T23:10:00+03:00",
-          "stop": "2026-08-15T00:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -211,6 +129,25 @@
           "start": "2026-08-16T23:00:00+03:00",
           "stop": "2026-08-17T00:00:00+03:00",
           "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T00:00:00+03:00",
+          "stop": "2026-08-17T01:45:00+03:00",
+          "title": "Монсики.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T01:45:00+03:00",
+          "stop": "2026-08-17T02:45:00+03:00",
+          "title": "Простоквашино.",
           "description": "L",
           "category": null
         }

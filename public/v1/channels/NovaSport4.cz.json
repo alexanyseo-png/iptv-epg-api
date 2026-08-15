@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:40:00+03:00",
-          "stop": "2026-08-14T03:00:00+03:00",
-          "title": "Coventry City – Wrexham FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T03:00:00+03:00",
-          "stop": "2026-08-14T08:00:00+03:00",
-          "title": "Wrexham FC – Middlesbrough FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T08:00:00+03:00",
-          "stop": "2026-08-14T10:00:00+03:00",
-          "title": "PSG – Liverpool FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T10:00:00+03:00",
-          "stop": "2026-08-14T11:50:00+03:00",
-          "title": "Liverpool FC – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T11:50:00+03:00",
-          "stop": "2026-08-14T13:40:00+03:00",
-          "title": "Atlético Madrid – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T13:40:00+03:00",
-          "stop": "2026-08-14T15:30:00+03:00",
-          "title": "Hull City – Millwall FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:30:00+03:00",
-          "stop": "2026-08-14T17:20:00+03:00",
-          "title": "Middlesbrough FC – Southampton FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T17:20:00+03:00",
-          "stop": "2026-08-14T19:25:00+03:00",
-          "title": "Millwall FC – Hull City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:25:00+03:00",
-          "stop": "2026-08-14T21:35:00+03:00",
-          "title": "Eintracht Braunschweig – VfL Bochum",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T21:35:00+03:00",
-          "stop": "2026-08-14T22:15:00+03:00",
-          "title": "Ve skluzu (126)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T22:15:00+03:00",
-          "stop": "2026-08-15T00:15:00+03:00",
-          "title": "PSG – Aston Villa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -288,6 +206,39 @@
           "start": "2026-08-16T22:25:00+03:00",
           "stop": "2026-08-17T00:35:00+03:00",
           "title": "Celta Vigo – CA Osasuna",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T00:35:00+03:00",
+          "stop": "2026-08-17T02:30:00+03:00",
+          "title": "SK Slavia Praha – Athletic Bilbao",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T02:30:00+03:00",
+          "stop": "2026-08-17T08:00:00+03:00",
+          "title": "Tottenham Hotspur – SK Slavia Praha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T08:00:00+03:00",
+          "stop": "2026-08-17T09:50:00+03:00",
+          "title": "Celta Vigo – CA Osasuna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T09:50:00+03:00",
+          "stop": "2026-08-17T11:40:00+03:00",
+          "title": "Racing Santander – Villarreal CF",
           "description": "L",
           "category": null
         }

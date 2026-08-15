@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:45:00+03:00",
-          "stop": "2026-08-14T04:00:00+03:00",
-          "title": "Без права на ошибку.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T04:00:00+03:00",
-          "stop": "2026-08-14T07:25:00+03:00",
-          "title": "О чём она молчит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T07:25:00+03:00",
-          "stop": "2026-08-14T09:05:00+03:00",
-          "title": "Это моя собака.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:05:00+03:00",
-          "stop": "2026-08-14T10:55:00+03:00",
-          "title": "Красавица и Чудовище.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T10:55:00+03:00",
-          "stop": "2026-08-14T14:20:00+03:00",
-          "title": "Дочь за отца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T14:20:00+03:00",
-          "stop": "2026-08-14T17:50:00+03:00",
-          "title": "Три дороги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T17:50:00+03:00",
-          "stop": "2026-08-14T19:30:00+03:00",
-          "title": "Посторонняя.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:30:00+03:00",
-          "stop": "2026-08-14T22:45:00+03:00",
-          "title": "Женский приговор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T22:45:00+03:00",
-          "stop": "2026-08-15T00:25:00+03:00",
-          "title": "Несмешная любовь.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -190,6 +122,25 @@
           "start": "2026-08-16T21:50:00+03:00",
           "stop": "2026-08-17T01:35:00+03:00",
           "title": "Новая жизнь Маши Солёновой.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T01:35:00+03:00",
+          "stop": "2026-08-17T04:45:00+03:00",
+          "title": "Папа напрокат.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T04:45:00+03:00",
+          "stop": "2026-08-17T05:45:00+03:00",
+          "title": "Три дороги.",
           "description": "L",
           "category": null
         }

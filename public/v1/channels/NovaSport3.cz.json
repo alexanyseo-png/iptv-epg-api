@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:50:00+03:00",
-          "stop": "2026-08-14T02:40:00+03:00",
-          "title": "Borussia Dortmund – Borussia Mönchengladbach",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T02:40:00+03:00",
-          "stop": "2026-08-14T08:00:00+03:00",
-          "title": "PSG – Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T08:00:00+03:00",
-          "stop": "2026-08-14T09:50:00+03:00",
-          "title": "SV Darmstadt – Holstein Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:50:00+03:00",
-          "stop": "2026-08-14T11:40:00+03:00",
-          "title": "VfL Bochum – Hertha BSC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T11:40:00+03:00",
-          "stop": "2026-08-14T13:40:00+03:00",
-          "title": "1. FC Norimberk – Dynamo Drážďany",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T13:40:00+03:00",
-          "stop": "2026-08-14T15:30:00+03:00",
-          "title": "VfB Stuttgart – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:30:00+03:00",
-          "stop": "2026-08-14T17:20:00+03:00",
-          "title": "1. FC Heidenheim – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T17:20:00+03:00",
-          "stop": "2026-08-14T19:25:00+03:00",
-          "title": "PSG – Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:25:00+03:00",
-          "stop": "2026-08-14T21:55:00+03:00",
-          "title": "Holstein Kiel – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T21:55:00+03:00",
-          "stop": "2026-08-15T00:05:00+03:00",
-          "title": "Wolverhampton Wanderers – Blackburn Rovers",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -309,6 +234,39 @@
           "start": "2026-08-16T22:50:00+03:00",
           "stop": "2026-08-17T00:45:00+03:00",
           "title": "Holstein Kiel – FC St. Pauli",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T00:45:00+03:00",
+          "stop": "2026-08-17T02:45:00+03:00",
+          "title": "Hertha BSC – 1. FC Heidenheim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T02:45:00+03:00",
+          "stop": "2026-08-17T08:00:00+03:00",
+          "title": "Hannover 96 – VfL Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T08:00:00+03:00",
+          "stop": "2026-08-17T10:00:00+03:00",
+          "title": "Espanyol Barcelona – Levante UD",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T10:00:00+03:00",
+          "stop": "2026-08-17T12:00:00+03:00",
+          "title": "Hannover 96 – VfL Wolfsburg",
           "description": "L",
           "category": null
         }

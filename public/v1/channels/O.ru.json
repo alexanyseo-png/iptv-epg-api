@@ -8,148 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-14T02:47:50.667475+00:00",
+  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
   "available": true,
-  "programmeCount": 55,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-08-14",
-      "programs": [
-        {
-          "start": "2026-08-14T00:00:00+03:00",
-          "stop": "2026-08-14T01:35:00+03:00",
-          "title": "х/ф Баба Яга спасает Новый год",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T01:35:00+03:00",
-          "stop": "2026-08-14T03:00:00+03:00",
-          "title": "м/ф Союзмультфильм",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T03:00:00+03:00",
-          "stop": "2026-08-14T03:05:00+03:00",
-          "title": "Жужжалка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T03:05:00+03:00",
-          "stop": "2026-08-14T05:00:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T05:00:00+03:00",
-          "stop": "2026-08-14T06:00:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T06:00:00+03:00",
-          "stop": "2026-08-14T06:30:00+03:00",
-          "title": "м/ф Приключения Ам Няма",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T06:30:00+03:00",
-          "stop": "2026-08-14T07:00:00+03:00",
-          "title": "м/ф Ум и Хрум",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T07:00:00+03:00",
-          "stop": "2026-08-14T09:30:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T09:30:00+03:00",
-          "stop": "2026-08-14T10:30:00+03:00",
-          "title": "м/ф Отель у овечек",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T10:30:00+03:00",
-          "stop": "2026-08-14T11:30:00+03:00",
-          "title": "м/ф Лунтик и его друзья",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T11:30:00+03:00",
-          "stop": "2026-08-14T12:20:00+03:00",
-          "title": "м/ф Приключения Ам Няма",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T12:20:00+03:00",
-          "stop": "2026-08-14T13:10:00+03:00",
-          "title": "м/ф Ум и Хрум",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T13:10:00+03:00",
-          "stop": "2026-08-14T15:30:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T15:30:00+03:00",
-          "stop": "2026-08-14T16:30:00+03:00",
-          "title": "м/ф Ум и Хрум",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T16:30:00+03:00",
-          "stop": "2026-08-14T17:20:00+03:00",
-          "title": "м/ф Приключения Ам Няма",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T17:20:00+03:00",
-          "stop": "2026-08-14T19:10:00+03:00",
-          "title": "м/ф Три кота",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T19:10:00+03:00",
-          "stop": "2026-08-14T22:00:00+03:00",
-          "title": "м/ф Барбоскины",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T22:00:00+03:00",
-          "stop": "2026-08-14T23:00:00+03:00",
-          "title": "м/ф Союзмультфильм",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-14T23:00:00+03:00",
-          "stop": "2026-08-15T00:35:00+03:00",
-          "title": "Летучий корабль",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-15",
       "programs": [
@@ -407,6 +269,18 @@
           "start": "2026-08-16T23:00:00+03:00",
           "stop": "2026-08-17T03:00:00+03:00",
           "title": "м/ф Союзмультфильм",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-17",
+      "programs": [
+        {
+          "start": "2026-08-17T03:00:00+03:00",
+          "stop": "2026-08-17T04:00:00+03:00",
+          "title": "м/ф Ум и Хрум",
           "description": "L",
           "category": null
         }
