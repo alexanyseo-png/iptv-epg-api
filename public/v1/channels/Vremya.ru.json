@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
+  "generatedAt": "2026-08-16T01:58:07.399803+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-15",
-      "programs": [
-        {
-          "start": "2026-08-15T01:50:00+03:00",
-          "stop": "2026-08-15T02:50:00+03:00",
-          "title": "Порядок вещей",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T02:50:00+03:00",
-          "stop": "2026-08-15T05:10:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T05:10:00+03:00",
-          "stop": "2026-08-15T05:50:00+03:00",
-          "title": "На ночь глядя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T05:50:00+03:00",
-          "stop": "2026-08-15T06:40:00+03:00",
-          "title": "Наедине со всеми",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T06:40:00+03:00",
-          "stop": "2026-08-15T07:00:00+03:00",
-          "title": "Жизнь как в кино",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T07:00:00+03:00",
-          "stop": "2026-08-15T09:00:00+03:00",
-          "title": "х/ф Черный пес",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T09:00:00+03:00",
-          "stop": "2026-08-15T12:40:00+03:00",
-          "title": "х/ф Кремень",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T12:40:00+03:00",
-          "stop": "2026-08-15T16:30:00+03:00",
-          "title": "х/ф Кремень. Освобождение",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T16:30:00+03:00",
-          "stop": "2026-08-15T22:30:00+03:00",
-          "title": "т/с Пуля",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T22:30:00+03:00",
-          "stop": "2026-08-16T01:00:00+03:00",
-          "title": "т/с Пуля",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-16",
       "programs": [
@@ -211,6 +136,13 @@
           "start": "2026-08-17T10:00:00+03:00",
           "stop": "2026-08-17T13:20:00+03:00",
           "title": "т/с Агент национальной безопасности",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T13:20:00+03:00",
+          "stop": "2026-08-17T15:20:00+03:00",
+          "title": "т/с Побег",
           "description": "L",
           "category": null
         }

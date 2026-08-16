@@ -8,218 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-15T01:50:57.526936+00:00",
+  "generatedAt": "2026-08-16T01:58:07.399803+00:00",
   "available": true,
-  "programmeCount": 69,
+  "programmeCount": 46,
   "days": [
-    {
-      "date": "2026-08-15",
-      "programs": [
-        {
-          "start": "2026-08-15T00:50:00+03:00",
-          "stop": "2026-08-15T02:05:00+03:00",
-          "title": "Wywiad z wampirem | S01E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T02:05:00+03:00",
-          "stop": "2026-08-15T03:00:00+03:00",
-          "title": "Wywiad z wampirem | S01E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T03:00:00+03:00",
-          "stop": "2026-08-15T03:30:00+03:00",
-          "title": "Emigracja XD – Krąg dialogu | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T03:30:00+03:00",
-          "stop": "2026-08-15T04:05:00+03:00",
-          "title": "Emigracja XD – Welcome to Hackney | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T04:05:00+03:00",
-          "stop": "2026-08-15T04:35:00+03:00",
-          "title": "Emigracja XD – No-go go-go | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T04:35:00+03:00",
-          "stop": "2026-08-15T05:05:00+03:00",
-          "title": "Emigracja XD – Na kapuście | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T05:05:00+03:00",
-          "stop": "2026-08-15T05:35:00+03:00",
-          "title": "Emigracja XD – Godzina bezprawia | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T05:35:00+03:00",
-          "stop": "2026-08-15T06:10:00+03:00",
-          "title": "Łapu Capu Extra | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T06:10:00+03:00",
-          "stop": "2026-08-15T06:55:00+03:00",
-          "title": "Miasta rytm – Gdynia | S02E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T06:55:00+03:00",
-          "stop": "2026-08-15T10:50:00+03:00",
-          "title": "Zakończenie programu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T10:50:00+03:00",
-          "stop": "2026-08-15T11:20:00+03:00",
-          "title": "Polska z góry. Nad wodą 3 – Kanał Gliwicki | S03E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T11:20:00+03:00",
-          "stop": "2026-08-15T11:50:00+03:00",
-          "title": "Polska z góry. Nad wodą 3 – Warszawa. Dzielnica Wisła | S03E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T11:50:00+03:00",
-          "stop": "2026-08-15T12:20:00+03:00",
-          "title": "The Office PL 5 – Strzelnica | S05E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T12:20:00+03:00",
-          "stop": "2026-08-15T12:50:00+03:00",
-          "title": "The Office PL 5 – Wiadomość w butelce | S05E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T12:50:00+03:00",
-          "stop": "2026-08-15T13:25:00+03:00",
-          "title": "The Office PL 5 – Rada miasta | S05E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T13:25:00+03:00",
-          "stop": "2026-08-15T14:25:00+03:00",
-          "title": "Samoloty bojowe III Rzeszy | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T14:25:00+03:00",
-          "stop": "2026-08-15T15:30:00+03:00",
-          "title": "Samoloty bojowe III Rzeszy | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T15:30:00+03:00",
-          "stop": "2026-08-15T16:00:00+03:00",
-          "title": "Naruto 5 | S05E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T16:00:00+03:00",
-          "stop": "2026-08-15T16:30:00+03:00",
-          "title": "Naruto 5 | S05E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T16:30:00+03:00",
-          "stop": "2026-08-15T17:00:00+03:00",
-          "title": "Naruto 5 | S05E13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T17:00:00+03:00",
-          "stop": "2026-08-15T17:55:00+03:00",
-          "title": "W sercu dżungli. Orangutany z bliska | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T17:55:00+03:00",
-          "stop": "2026-08-15T18:55:00+03:00",
-          "title": "W sercu dżungli. Orangutany z bliska | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T18:55:00+03:00",
-          "stop": "2026-08-15T19:05:00+03:00",
-          "title": "Łapu Capu | E194",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T19:05:00+03:00",
-          "stop": "2026-08-15T20:00:00+03:00",
-          "title": "To nie jest zagadka kryminalna | S01E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T20:00:00+03:00",
-          "stop": "2026-08-15T21:05:00+03:00",
-          "title": "To nie jest zagadka kryminalna | S01E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T21:05:00+03:00",
-          "stop": "2026-08-15T21:50:00+03:00",
-          "title": "Król i zdobywca | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T21:50:00+03:00",
-          "stop": "2026-08-15T23:00:00+03:00",
-          "title": "Król i zdobywca | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T23:00:00+03:00",
-          "stop": "2026-08-15T23:45:00+03:00",
-          "title": "Kontyngent | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-15T23:45:00+03:00",
-          "stop": "2026-08-16T00:35:00+03:00",
-          "title": "Kontyngent | E04",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-16",
       "programs": [
@@ -505,6 +297,48 @@
           "start": "2026-08-17T10:50:00+03:00",
           "stop": "2026-08-17T11:50:00+03:00",
           "title": "Planeta Singli. Osiem historii – Władek i Halinka | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T11:50:00+03:00",
+          "stop": "2026-08-17T12:20:00+03:00",
+          "title": "Naruto 5 | S05E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T12:20:00+03:00",
+          "stop": "2026-08-17T12:50:00+03:00",
+          "title": "Naruto 5 | S05E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T12:50:00+03:00",
+          "stop": "2026-08-17T13:20:00+03:00",
+          "title": "Naruto 5 | S05E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T13:20:00+03:00",
+          "stop": "2026-08-17T13:50:00+03:00",
+          "title": "Hollywood Buzz | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T13:50:00+03:00",
+          "stop": "2026-08-17T14:40:00+03:00",
+          "title": "Dynastia Kimów: Czas zemsty | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T14:40:00+03:00",
+          "stop": "2026-08-17T15:30:00+03:00",
+          "title": "Dynastia Kimów: Czas zemsty | E02",
           "description": "L",
           "category": null
         }
