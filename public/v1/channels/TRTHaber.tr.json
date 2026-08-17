@@ -8,183 +8,17 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-16T01:58:07.399803+00:00",
+  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 21,
   "days": [
-    {
-      "date": "2026-08-16",
-      "programs": [
-        {
-          "start": "2026-08-16T00:00:00+03:00",
-          "stop": "2026-08-16T01:00:00+03:00",
-          "title": "Без названия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T01:00:00+03:00",
-          "stop": "2026-08-16T02:00:00+03:00",
-          "title": "15 Temmuz Özel Yayını",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T02:00:00+03:00",
-          "stop": "2026-08-16T04:00:00+03:00",
-          "title": "Gün Sonu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T04:00:00+03:00",
-          "stop": "2026-08-16T04:55:00+03:00",
-          "title": "Haber 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T04:55:00+03:00",
-          "stop": "2026-08-16T05:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T05:00:00+03:00",
-          "stop": "2026-08-16T06:00:00+03:00",
-          "title": "Haber 05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T06:00:00+03:00",
-          "stop": "2026-08-16T07:00:00+03:00",
-          "title": "Haber 06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T07:00:00+03:00",
-          "stop": "2026-08-16T09:55:00+03:00",
-          "title": "Dün Bugün",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T09:55:00+03:00",
-          "stop": "2026-08-16T10:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T10:00:00+03:00",
-          "stop": "2026-08-16T13:00:00+03:00",
-          "title": "Satır Başı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T13:00:00+03:00",
-          "stop": "2026-08-16T13:50:00+03:00",
-          "title": "Öğle Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T13:50:00+03:00",
-          "stop": "2026-08-16T13:55:00+03:00",
-          "title": "Piyasa Raporu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T13:55:00+03:00",
-          "stop": "2026-08-16T14:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T14:00:00+03:00",
-          "stop": "2026-08-16T15:00:00+03:00",
-          "title": "Öğle Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T15:00:00+03:00",
-          "stop": "2026-08-16T17:00:00+03:00",
-          "title": "Haber Ajandası",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T17:00:00+03:00",
-          "stop": "2026-08-16T17:55:00+03:00",
-          "title": "Günün İçinden",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T17:55:00+03:00",
-          "stop": "2026-08-16T18:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T18:00:00+03:00",
-          "stop": "2026-08-16T18:55:00+03:00",
-          "title": "Günün İçinden",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T18:55:00+03:00",
-          "stop": "2026-08-16T19:00:00+03:00",
-          "title": "Piyasa Raporu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T19:00:00+03:00",
-          "stop": "2026-08-16T20:00:00+03:00",
-          "title": "Sıcak Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T20:00:00+03:00",
-          "stop": "2026-08-16T20:45:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T20:45:00+03:00",
-          "stop": "2026-08-16T23:00:00+03:00",
-          "title": "Birinci Sayfa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T23:00:00+03:00",
-          "stop": "2026-08-17T00:00:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-17",
       "programs": [
         {
           "start": "2026-08-17T00:00:00+03:00",
           "stop": "2026-08-17T00:55:00+03:00",
-          "title": "Gece Bakışı",
+          "title": "Haber 24",
           "description": "L",
           "category": null
         },
@@ -197,15 +31,43 @@
         },
         {
           "start": "2026-08-17T01:00:00+03:00",
+          "stop": "2026-08-17T02:00:00+03:00",
+          "title": "Haber 01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T02:00:00+03:00",
+          "stop": "2026-08-17T02:55:00+03:00",
+          "title": "Ömür Dediğin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T02:55:00+03:00",
+          "stop": "2026-08-17T03:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T03:00:00+03:00",
           "stop": "2026-08-17T04:00:00+03:00",
-          "title": "Gün Sonu",
+          "title": "Haber 03",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-17T04:00:00+03:00",
-          "stop": "2026-08-17T04:55:00+03:00",
+          "stop": "2026-08-17T04:35:00+03:00",
           "title": "Haber 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T04:35:00+03:00",
+          "stop": "2026-08-17T04:55:00+03:00",
+          "title": "Moto Galeri",
           "description": "L",
           "category": null
         },
@@ -276,6 +138,27 @@
           "start": "2026-08-17T14:00:00+03:00",
           "stop": "2026-08-17T15:00:00+03:00",
           "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T15:00:00+03:00",
+          "stop": "2026-08-17T17:00:00+03:00",
+          "title": "Haber Ajandası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T17:00:00+03:00",
+          "stop": "2026-08-17T17:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T17:55:00+03:00",
+          "stop": "2026-08-17T18:00:00+03:00",
+          "title": "Hava Durumu",
           "description": "L",
           "category": null
         }

@@ -8,272 +8,71 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-16T01:58:07.399803+00:00",
+  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
   "available": true,
-  "programmeCount": 90,
+  "programmeCount": 91,
   "days": [
-    {
-      "date": "2026-08-16",
-      "programs": [
-        {
-          "start": "2026-08-16T00:05:00+03:00",
-          "stop": "2026-08-16T01:05:00+03:00",
-          "title": "Lost Places.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T01:05:00+03:00",
-          "stop": "2026-08-16T02:00:00+03:00",
-          "title": "Lost Places. S: 2 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T02:00:00+03:00",
-          "stop": "2026-08-16T02:40:00+03:00",
-          "title": "Die 12. SS-Panzerdivision ''Hitlerjugend''.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T02:40:00+03:00",
-          "stop": "2026-08-16T03:30:00+03:00",
-          "title": "Hitler und der Wolf - Rassenwahn im Dritten Reich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T03:30:00+03:00",
-          "stop": "2026-08-16T04:15:00+03:00",
-          "title": "Power auf Achsen - Der Schwerlast-Selbstfahrer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T04:15:00+03:00",
-          "stop": "2026-08-16T04:55:00+03:00",
-          "title": "Europas größtes Autoterminal - Der Logistik-Gigant in Bremerhaven.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T04:55:00+03:00",
-          "stop": "2026-08-16T05:45:00+03:00",
-          "title": "Geheimnisvoller Bodensee - Auf der Jagd nach Schiffen und Schätzen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T05:45:00+03:00",
-          "stop": "2026-08-16T06:30:00+03:00",
-          "title": "Lost Places.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T06:30:00+03:00",
-          "stop": "2026-08-16T07:15:00+03:00",
-          "title": "Lost Places. S: 2 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T07:15:00+03:00",
-          "stop": "2026-08-16T08:05:00+03:00",
-          "title": "Mayday. S: 22 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T08:05:00+03:00",
-          "stop": "2026-08-16T08:55:00+03:00",
-          "title": "Mayday. S: 21 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T08:55:00+03:00",
-          "stop": "2026-08-16T09:50:00+03:00",
-          "title": "Mayday. S: 22 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T09:50:00+03:00",
-          "stop": "2026-08-16T10:45:00+03:00",
-          "title": "Mayday. S: 21 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T10:45:00+03:00",
-          "stop": "2026-08-16T11:40:00+03:00",
-          "title": "Die Havarie der Ever Given - Globale Lieferketten vor dem Kollaps.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T11:40:00+03:00",
-          "stop": "2026-08-16T12:20:00+03:00",
-          "title": "Die große Achterbahnsanierung - Colossos kehrt zurück.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T12:20:00+03:00",
-          "stop": "2026-08-16T13:15:00+03:00",
-          "title": "Mega-Konstruktionen. S: 1 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T13:15:00+03:00",
-          "stop": "2026-08-16T14:10:00+03:00",
-          "title": "Mega-Konstruktionen. S: 1 / Ep: 6.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T14:10:00+03:00",
-          "stop": "2026-08-16T15:05:00+03:00",
-          "title": "Traumzüge. S: 3 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T15:05:00+03:00",
-          "stop": "2026-08-16T16:00:00+03:00",
-          "title": "Traumzüge. S: 3 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T16:00:00+03:00",
-          "stop": "2026-08-16T16:55:00+03:00",
-          "title": "Power auf Achsen - Der Schwerlast-Selbstfahrer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T16:55:00+03:00",
-          "stop": "2026-08-16T17:50:00+03:00",
-          "title": "Die Snackgiganten - Hinter den Kulissen der Süßwarenhersteller.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T17:50:00+03:00",
-          "stop": "2026-08-16T18:35:00+03:00",
-          "title": "Schokolade - Handwerk, Handel & Genuss.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T18:35:00+03:00",
-          "stop": "2026-08-16T19:30:00+03:00",
-          "title": "Maestro del Gelato - Die Geheimnisse der Eismacher.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T19:30:00+03:00",
-          "stop": "2026-08-16T20:30:00+03:00",
-          "title": "Die Modelleisenbahner - Das Miniatur Wunderland.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T20:30:00+03:00",
-          "stop": "2026-08-16T21:15:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T21:15:00+03:00",
-          "stop": "2026-08-16T22:10:00+03:00",
-          "title": "Lost Places Folge 100. S: 10 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T22:10:00+03:00",
-          "stop": "2026-08-16T23:05:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T23:05:00+03:00",
-          "stop": "2026-08-17T00:05:00+03:00",
-          "title": "Lost Places - Folge 102. S: 10 / Ep: 12.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-17",
       "programs": [
         {
           "start": "2026-08-17T00:05:00+03:00",
-          "stop": "2026-08-17T01:05:00+03:00",
+          "stop": "2026-08-17T01:10:00+03:00",
           "title": "Magda Goebbels - Fanatisch bis in den Tod.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T01:05:00+03:00",
-          "stop": "2026-08-17T02:00:00+03:00",
+          "start": "2026-08-17T01:10:00+03:00",
+          "stop": "2026-08-17T02:05:00+03:00",
           "title": "Hitlers Komplizen. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T02:00:00+03:00",
-          "stop": "2026-08-17T02:45:00+03:00",
+          "start": "2026-08-17T02:05:00+03:00",
+          "stop": "2026-08-17T02:50:00+03:00",
           "title": "Hitlers Komplizen. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T02:45:00+03:00",
-          "stop": "2026-08-17T03:30:00+03:00",
+          "start": "2026-08-17T02:50:00+03:00",
+          "stop": "2026-08-17T03:40:00+03:00",
           "title": "Hitlers Komplizen. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T03:30:00+03:00",
-          "stop": "2026-08-17T04:15:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 11.",
+          "start": "2026-08-17T03:40:00+03:00",
+          "stop": "2026-08-17T04:20:00+03:00",
+          "title": "Lost Places - Folge 101. S: 10 / Ep: 11.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T04:15:00+03:00",
-          "stop": "2026-08-17T04:55:00+03:00",
+          "start": "2026-08-17T04:20:00+03:00",
+          "stop": "2026-08-17T05:05:00+03:00",
           "title": "Lost Places - Folge 102. S: 10 / Ep: 12.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T04:55:00+03:00",
-          "stop": "2026-08-17T05:45:00+03:00",
+          "start": "2026-08-17T05:05:00+03:00",
+          "stop": "2026-08-17T05:50:00+03:00",
           "title": "Magda Goebbels - Fanatisch bis in den Tod.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T05:45:00+03:00",
-          "stop": "2026-08-17T06:30:00+03:00",
+          "start": "2026-08-17T05:50:00+03:00",
+          "stop": "2026-08-17T06:35:00+03:00",
           "title": "Hitlers Komplizen. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T06:30:00+03:00",
+          "start": "2026-08-17T06:35:00+03:00",
           "stop": "2026-08-17T07:15:00+03:00",
           "title": "Hitlers Komplizen. S: 1 / Ep: 3.",
           "description": "L",
@@ -309,13 +108,13 @@
         },
         {
           "start": "2026-08-17T09:25:00+03:00",
-          "stop": "2026-08-17T09:55:00+03:00",
+          "stop": "2026-08-17T09:50:00+03:00",
           "title": "Border Patrol Neuseeland. S: 10 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T09:55:00+03:00",
+          "start": "2026-08-17T09:50:00+03:00",
           "stop": "2026-08-17T10:45:00+03:00",
           "title": "Die große Achterbahnsanierung - Colossos kehrt zurück.",
           "description": "L",
@@ -372,13 +171,13 @@
         },
         {
           "start": "2026-08-17T16:55:00+03:00",
-          "stop": "2026-08-17T17:50:00+03:00",
+          "stop": "2026-08-17T17:55:00+03:00",
           "title": "Lost Places.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T17:50:00+03:00",
+          "start": "2026-08-17T17:55:00+03:00",
           "stop": "2026-08-17T18:45:00+03:00",
           "title": "Lost Places. S: 2 / Ep: 2.",
           "description": "L",
@@ -387,7 +186,7 @@
         {
           "start": "2026-08-17T18:45:00+03:00",
           "stop": "2026-08-17T19:25:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 9.",
+          "title": "Lost Places - Folge 99. S: 10 / Ep: 9.",
           "description": "L",
           "category": null
         },
@@ -475,13 +274,13 @@
         },
         {
           "start": "2026-08-18T04:15:00+03:00",
-          "stop": "2026-08-18T05:00:00+03:00",
+          "stop": "2026-08-18T05:05:00+03:00",
           "title": "Riesenbaustelle Fehmarnbelt - Europas Mega-Tunnel entsteht (1).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-18T05:00:00+03:00",
+          "start": "2026-08-18T05:05:00+03:00",
           "stop": "2026-08-18T06:30:00+03:00",
           "title": "Harte Arbeit auf rauer See - Die deutschen Hochseefischer.",
           "description": "L",
@@ -560,7 +359,7 @@
         {
           "start": "2026-08-18T13:20:00+03:00",
           "stop": "2026-08-18T14:10:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 9.",
+          "title": "Lost Places - Folge 99. S: 10 / Ep: 9.",
           "description": "L",
           "category": null
         },
@@ -574,7 +373,7 @@
         {
           "start": "2026-08-18T15:05:00+03:00",
           "stop": "2026-08-18T16:00:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 11.",
+          "title": "Lost Places - Folge 101. S: 10 / Ep: 11.",
           "description": "L",
           "category": null
         },
@@ -652,6 +451,214 @@
           "start": "2026-08-18T23:05:00+03:00",
           "stop": "2026-08-19T00:05:00+03:00",
           "title": "Spacetime. S: 7 / Ep: 1.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "programs": [
+        {
+          "start": "2026-08-19T00:05:00+03:00",
+          "stop": "2026-08-19T01:05:00+03:00",
+          "title": "Strip the Cosmos. S: 4 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T01:05:00+03:00",
+          "stop": "2026-08-19T02:00:00+03:00",
+          "title": "Strip the Cosmos. S: 4 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T02:00:00+03:00",
+          "stop": "2026-08-19T02:45:00+03:00",
+          "title": "Ariane - Europas Rakete.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T02:45:00+03:00",
+          "stop": "2026-08-19T03:30:00+03:00",
+          "title": "Erde an Aliens.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T03:30:00+03:00",
+          "stop": "2026-08-19T04:15:00+03:00",
+          "title": "Spacetime. S: 6 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T04:15:00+03:00",
+          "stop": "2026-08-19T05:00:00+03:00",
+          "title": "Spacetime. S: 7 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T05:00:00+03:00",
+          "stop": "2026-08-19T05:45:00+03:00",
+          "title": "Strip the Cosmos. S: 4 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T05:45:00+03:00",
+          "stop": "2026-08-19T06:30:00+03:00",
+          "title": "Strip the Cosmos. S: 4 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T06:30:00+03:00",
+          "stop": "2026-08-19T07:15:00+03:00",
+          "title": "Ariane - Europas Rakete.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T07:15:00+03:00",
+          "stop": "2026-08-19T08:05:00+03:00",
+          "title": "Erde an Aliens.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T08:05:00+03:00",
+          "stop": "2026-08-19T08:35:00+03:00",
+          "title": "Border Patrol Neuseeland. S: 11 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T08:35:00+03:00",
+          "stop": "2026-08-19T09:00:00+03:00",
+          "title": "Border Patrol Neuseeland. S: 11 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T09:00:00+03:00",
+          "stop": "2026-08-19T09:30:00+03:00",
+          "title": "Border Patrol Neuseeland. S: 11 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T09:30:00+03:00",
+          "stop": "2026-08-19T10:00:00+03:00",
+          "title": "Border Patrol Neuseeland. S: 11 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T10:00:00+03:00",
+          "stop": "2026-08-19T10:45:00+03:00",
+          "title": "Lost Places - Folge 99. S: 10 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T10:45:00+03:00",
+          "stop": "2026-08-19T11:30:00+03:00",
+          "title": "Lost Places Folge 100. S: 10 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T11:30:00+03:00",
+          "stop": "2026-08-19T12:20:00+03:00",
+          "title": "Lost Places - Folge 101. S: 10 / Ep: 11.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T12:20:00+03:00",
+          "stop": "2026-08-19T13:15:00+03:00",
+          "title": "Lost Places - Folge 102. S: 10 / Ep: 12.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T13:15:00+03:00",
+          "stop": "2026-08-19T14:10:00+03:00",
+          "title": "Das Bermuda-Dreieck - Rätsel im Atlantik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T14:10:00+03:00",
+          "stop": "2026-08-19T15:05:00+03:00",
+          "title": "Seeungeheuer - Unbekannte Tiefe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T15:05:00+03:00",
+          "stop": "2026-08-19T16:00:00+03:00",
+          "title": "Im Schlamm von Wacken - Das Matsch- und Metal-Festival.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T16:00:00+03:00",
+          "stop": "2026-08-19T16:55:00+03:00",
+          "title": "Riesenbaustelle Fehmarnbelt - Europas Mega-Tunnel entsteht (1).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T16:55:00+03:00",
+          "stop": "2026-08-19T18:40:00+03:00",
+          "title": "Harte Arbeit auf rauer See - Die deutschen Hochseefischer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T18:40:00+03:00",
+          "stop": "2026-08-19T19:30:00+03:00",
+          "title": "Das Bermuda-Dreieck - Rätsel im Atlantik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T19:30:00+03:00",
+          "stop": "2026-08-19T20:15:00+03:00",
+          "title": "Airport Security USA - Folge 001. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T20:15:00+03:00",
+          "stop": "2026-08-19T21:15:00+03:00",
+          "title": "Airport Security USA - Folge 2. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T21:15:00+03:00",
+          "stop": "2026-08-19T22:10:00+03:00",
+          "title": "Hitlers Komplizen. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T22:10:00+03:00",
+          "stop": "2026-08-19T23:05:00+03:00",
+          "title": "Was wirklich geschah - Folge 1. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T23:05:00+03:00",
+          "stop": "2026-08-20T00:05:00+03:00",
+          "title": "Was wirklich geschah - Folge 2. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         }

@@ -8,127 +8,31 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-16T01:58:07.399803+00:00",
+  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-08-16",
-      "programs": [
-        {
-          "start": "2026-08-16T00:35:00+03:00",
-          "stop": "2026-08-16T02:15:00+03:00",
-          "title": "Inter Milán – SK Slavia Praha",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T02:15:00+03:00",
-          "stop": "2026-08-16T08:00:00+03:00",
-          "title": "Atalanta Bergamo – SK Slavia Praha",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T08:00:00+03:00",
-          "stop": "2026-08-16T10:00:00+03:00",
-          "title": "Sevilla FC – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T10:00:00+03:00",
-          "stop": "2026-08-16T12:00:00+03:00",
-          "title": "Greuther Fürth – 1. FC Norimberk",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T12:00:00+03:00",
-          "stop": "2026-08-16T14:00:00+03:00",
-          "title": "PSG – Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T14:00:00+03:00",
-          "stop": "2026-08-16T14:25:00+03:00",
-          "title": "Finále Ligy mistrů – film",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T14:25:00+03:00",
-          "stop": "2026-08-16T16:35:00+03:00",
-          "title": "Dynamo Drážďany – SV Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T16:35:00+03:00",
-          "stop": "2026-08-16T17:05:00+03:00",
-          "title": "Ve skluzu (126)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T17:05:00+03:00",
-          "stop": "2026-08-16T17:55:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (36)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T17:55:00+03:00",
-          "stop": "2026-08-16T20:15:00+03:00",
-          "title": "Racing Santander – Villarreal CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T20:15:00+03:00",
-          "stop": "2026-08-16T20:30:00+03:00",
-          "title": "LaLiga Experience – Atlético Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T20:30:00+03:00",
-          "stop": "2026-08-16T22:25:00+03:00",
-          "title": "SK Slavia Praha – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-16T22:25:00+03:00",
-          "stop": "2026-08-17T00:35:00+03:00",
-          "title": "Celta Vigo – CA Osasuna",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-17",
       "programs": [
         {
-          "start": "2026-08-17T00:35:00+03:00",
-          "stop": "2026-08-17T02:30:00+03:00",
-          "title": "SK Slavia Praha – Athletic Bilbao",
+          "start": "2026-08-17T00:20:00+03:00",
+          "stop": "2026-08-17T02:00:00+03:00",
+          "title": "Tottenham Hotspur – SK Slavia Praha",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T02:30:00+03:00",
+          "start": "2026-08-17T02:00:00+03:00",
           "stop": "2026-08-17T08:00:00+03:00",
-          "title": "Tottenham Hotspur – SK Slavia Praha",
+          "title": "PSG – Aston Villa",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-17T08:00:00+03:00",
           "stop": "2026-08-17T09:50:00+03:00",
-          "title": "Celta Vigo – CA Osasuna",
+          "title": "Greuther Fürth – 1. FC Norimberk",
           "description": "L",
           "category": null
         },
@@ -150,6 +54,20 @@
           "start": "2026-08-17T13:30:00+03:00",
           "stop": "2026-08-17T15:20:00+03:00",
           "title": "SK Slavia Praha – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T15:20:00+03:00",
+          "stop": "2026-08-17T17:10:00+03:00",
+          "title": "Pafos FC – SK Slavia Praha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-17T17:10:00+03:00",
+          "stop": "2026-08-17T19:00:00+03:00",
+          "title": "Deportivo Alavés – Getafe CF",
           "description": "L",
           "category": null
         }
