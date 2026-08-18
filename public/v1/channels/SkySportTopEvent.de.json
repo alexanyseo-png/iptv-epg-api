@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
+  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
   "available": true,
-  "programmeCount": 29,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-08-17",
-      "programs": [
-        {
-          "start": "2026-08-17T06:00:00+03:00",
-          "stop": "2026-08-17T07:00:00+03:00",
-          "title": "Fußball: England, PL - Preview to the Season.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T07:00:00+03:00",
-          "stop": "2026-08-17T09:00:00+03:00",
-          "title": "Fußball: England, EFL Championship - FC Burnley - West Ham United, 1. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T09:00:00+03:00",
-          "stop": "2026-08-17T10:00:00+03:00",
-          "title": "Fußball: 2. Bundesliga Kompakt - 2. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T10:00:00+03:00",
-          "stop": "2026-08-17T11:00:00+03:00",
-          "title": "Fußball: 3. Liga - Alle Spiele, alle Tore, 2. Spieltag komplett.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T11:00:00+03:00",
-          "stop": "2026-08-17T13:00:00+03:00",
-          "title": "Tennis: WTA Masters 1000 - Topspiel, Cincinnati Open in Cincinnati (USA), 4. Tag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T13:00:00+03:00",
-          "stop": "2026-08-17T15:00:00+03:00",
-          "title": "Tennis: ATP Masters 1000 - Topspiel, Cincinnati Open in Cincinnati (USA), 4. Tag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T15:00:00+03:00",
-          "stop": "2026-08-17T17:00:00+03:00",
-          "title": "Fußball: DFB-Nachwuchsliga - Borussia Dortmund U19 - FC Schalke 04 U19, 2. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T17:00:00+03:00",
-          "stop": "2026-08-17T18:00:00+03:00",
-          "title": "Fußball: 2. Bundesliga - Alle Spiele, alle Stimmen, 2. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T18:00:00+03:00",
-          "stop": "2026-08-17T21:55:00+03:00",
-          "title": "▶️ Tennis: ATP & WTA - Konferenz Cincinnati Open in Cincinnati (USA), 5. Tag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T21:55:00+03:00",
-          "stop": "2026-08-18T00:00:00+03:00",
-          "title": "▶️ Fußball: England, EFL Championship - Cardiff City - AFC Wrexham, 1. Spieltag.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-18",
       "programs": [
@@ -225,6 +150,95 @@
           "start": "2026-08-19T21:30:00+03:00",
           "stop": "2026-08-20T06:00:00+03:00",
           "title": "▶️ Tennis: ATP & WTA - Konferenz Cincinnati Open in Cincinnati (USA), 7. Tag.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "programs": [
+        {
+          "start": "2026-08-20T06:00:00+03:00",
+          "stop": "2026-08-20T08:00:00+03:00",
+          "title": "▶️ Basketball: WNBA - Minnesota Lynx @ Golden State Valkyries.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T08:00:00+03:00",
+          "stop": "2026-08-20T10:00:00+03:00",
+          "title": "Fußball: DFB-Nachwuchsliga - Borussia M'gladbach U19 - Bayer Leverkusen U19, 3. Spieltag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T10:00:00+03:00",
+          "stop": "2026-08-20T10:15:00+03:00",
+          "title": "Fußball: 2. Bundesliga - Torparade 2. Spieltag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T10:15:00+03:00",
+          "stop": "2026-08-20T12:15:00+03:00",
+          "title": "Tennis: WTA Masters 1000 - Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T12:15:00+03:00",
+          "stop": "2026-08-20T14:15:00+03:00",
+          "title": "Tennis: ATP Masters 1000 - Topspiel, Cincinnati Open in Cincinnati (USA), 7. Tag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T14:15:00+03:00",
+          "stop": "2026-08-20T16:15:00+03:00",
+          "title": "Basketball: WNBA - Minnesota Lynx @ Golden State Valkyries.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T16:15:00+03:00",
+          "stop": "2026-08-20T17:15:00+03:00",
+          "title": "NTT IndyCar Series - Highlights: Ontario Honda Dealers Indy at Markham.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T17:15:00+03:00",
+          "stop": "2026-08-20T17:45:00+03:00",
+          "title": "Fußball: England, PL - PL Stories (Coventry Rising).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T17:45:00+03:00",
+          "stop": "2026-08-20T19:45:00+03:00",
+          "title": "Fußball: 2. Bundesliga - 1. FC Kaiserslautern - Karlsruher SC, tipico Topspiel der Woche, 2. Spieltag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T19:45:00+03:00",
+          "stop": "2026-08-20T20:00:00+03:00",
+          "title": "Fußball: 2. Bundesliga - Dein Spieltags-Sprint (2).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T20:00:00+03:00",
+          "stop": "2026-08-20T22:00:00+03:00",
+          "title": "▶️ Tennis: WTA Masters 1000 - VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T22:00:00+03:00",
+          "stop": "2026-08-21T00:00:00+03:00",
+          "title": "▶️ Tennis: ATP Masters 1000 - VF1, Cincinnati Open in Cincinnati (USA), Viertelfinale 1.",
           "description": "L",
           "category": null
         }

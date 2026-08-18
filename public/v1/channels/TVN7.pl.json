@@ -8,129 +8,489 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
+  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 67,
   "days": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "programs": [
         {
-          "start": "2026-08-17T01:40:00+03:00",
-          "stop": "2026-08-17T03:55:00+03:00",
+          "start": "2026-08-18T00:10:00+03:00",
+          "stop": "2026-08-18T02:25:00+03:00",
+          "title": "Gliniarz z Beverly Hills",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T02:25:00+03:00",
+          "stop": "2026-08-18T04:20:00+03:00",
+          "title": "After 3. Ocal mnie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T04:20:00+03:00",
+          "stop": "2026-08-18T04:55:00+03:00",
+          "title": "Fachowcy – Mechanik/ Murarze | S01E7/20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T04:55:00+03:00",
+          "stop": "2026-08-18T05:30:00+03:00",
+          "title": "Usterka 11 | S11E25/31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T05:30:00+03:00",
+          "stop": "2026-08-18T06:20:00+03:00",
+          "title": "Dorota was urządzi! | S03E6/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T06:20:00+03:00",
+          "stop": "2026-08-18T06:55:00+03:00",
+          "title": "Ten moment | E22/40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T06:55:00+03:00",
+          "stop": "2026-08-18T07:50:00+03:00",
+          "title": "Szkoła | S05E381",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T07:50:00+03:00",
+          "stop": "2026-08-18T08:45:00+03:00",
+          "title": "Szkoła | S05E382",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T08:45:00+03:00",
+          "stop": "2026-08-18T09:45:00+03:00",
+          "title": "Szkoła | S05E383",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T09:45:00+03:00",
+          "stop": "2026-08-18T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1365",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T10:50:00+03:00",
+          "stop": "2026-08-18T11:50:00+03:00",
+          "title": "Ukryta prawda | S22E1499",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T11:50:00+03:00",
+          "stop": "2026-08-18T12:50:00+03:00",
+          "title": "Ukryta prawda | S22E1500",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T12:50:00+03:00",
+          "stop": "2026-08-18T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E1180",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T13:30:00+03:00",
+          "stop": "2026-08-18T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E623",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T14:10:00+03:00",
+          "stop": "2026-08-18T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E624",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T14:55:00+03:00",
+          "stop": "2026-08-18T16:00:00+03:00",
+          "title": "Kryminalni 3 – Temat z Norwida | S03E6/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T16:00:00+03:00",
+          "stop": "2026-08-18T17:00:00+03:00",
+          "title": "Szpital | S12E836",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T17:00:00+03:00",
+          "stop": "2026-08-18T18:00:00+03:00",
+          "title": "Szpital | S12E837",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T18:00:00+03:00",
+          "stop": "2026-08-18T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Bracia | E534",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T19:00:00+03:00",
+          "stop": "2026-08-18T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E45/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T20:00:00+03:00",
+          "stop": "2026-08-18T21:00:00+03:00",
+          "title": "Młode gliny | S01E2/50",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T21:00:00+03:00",
+          "stop": "2026-08-18T23:25:00+03:00",
           "title": "Dunkierka",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T03:55:00+03:00",
-          "stop": "2026-08-17T04:50:00+03:00",
-          "title": "Żyjąc z potworem 9 | S09E19/20",
+          "start": "2026-08-18T23:25:00+03:00",
+          "stop": "2026-08-19T01:45:00+03:00",
+          "title": "Reminiscencja",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "programs": [
+        {
+          "start": "2026-08-19T01:45:00+03:00",
+          "stop": "2026-08-19T04:10:00+03:00",
+          "title": "Obecność 3: Na rozkaz diabła",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T04:50:00+03:00",
-          "stop": "2026-08-17T05:25:00+03:00",
-          "title": "Fachowcy – Tapeciarz/ Tapicer | S01E6/20",
+          "start": "2026-08-19T04:10:00+03:00",
+          "stop": "2026-08-19T05:00:00+03:00",
+          "title": "Żyjąc z potworem 9 | S09E20-ost",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T05:25:00+03:00",
-          "stop": "2026-08-17T06:20:00+03:00",
-          "title": "Dorota was urządzi! | S03E5/13",
+          "start": "2026-08-19T05:00:00+03:00",
+          "stop": "2026-08-19T05:35:00+03:00",
+          "title": "Usterka 11 | S11E26/31",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T06:20:00+03:00",
-          "stop": "2026-08-17T06:55:00+03:00",
-          "title": "Ten moment | E21/40",
+          "start": "2026-08-19T05:35:00+03:00",
+          "stop": "2026-08-19T06:20:00+03:00",
+          "title": "Dorota was urządzi! | S03E7/13",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T06:55:00+03:00",
-          "stop": "2026-08-17T07:50:00+03:00",
-          "title": "Szkoła | S05E378",
+          "start": "2026-08-19T06:20:00+03:00",
+          "stop": "2026-08-19T06:55:00+03:00",
+          "title": "Ten moment | E23/40",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T07:50:00+03:00",
-          "stop": "2026-08-17T08:45:00+03:00",
-          "title": "Szkoła | S05E379",
+          "start": "2026-08-19T06:55:00+03:00",
+          "stop": "2026-08-19T07:50:00+03:00",
+          "title": "Szkoła | S05E384",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T08:45:00+03:00",
-          "stop": "2026-08-17T09:45:00+03:00",
-          "title": "Szkoła | S05E380",
+          "start": "2026-08-19T07:50:00+03:00",
+          "stop": "2026-08-19T08:45:00+03:00",
+          "title": "Szkoła | S05E385",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T09:45:00+03:00",
-          "stop": "2026-08-17T10:50:00+03:00",
-          "title": "Ukryta prawda | S20E1364",
+          "start": "2026-08-19T08:45:00+03:00",
+          "stop": "2026-08-19T09:45:00+03:00",
+          "title": "Szkoła | S05E386",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T10:50:00+03:00",
-          "stop": "2026-08-17T11:50:00+03:00",
-          "title": "Ukryta prawda | S22E1497",
+          "start": "2026-08-19T09:45:00+03:00",
+          "stop": "2026-08-19T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1366",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T11:50:00+03:00",
-          "stop": "2026-08-17T12:50:00+03:00",
-          "title": "Ukryta prawda | S22E1498",
+          "start": "2026-08-19T10:50:00+03:00",
+          "stop": "2026-08-19T11:50:00+03:00",
+          "title": "Ukryta prawda | S22E1501",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T12:50:00+03:00",
-          "stop": "2026-08-17T13:30:00+03:00",
-          "title": "W-11 – Wydział Śledczy | E1177",
+          "start": "2026-08-19T11:50:00+03:00",
+          "stop": "2026-08-19T12:50:00+03:00",
+          "title": "Ukryta prawda | S22E1502",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T13:30:00+03:00",
-          "stop": "2026-08-17T14:10:00+03:00",
-          "title": "W-11 – Wydział Śledczy | E1178",
+          "start": "2026-08-19T12:50:00+03:00",
+          "stop": "2026-08-19T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E625",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T14:10:00+03:00",
-          "stop": "2026-08-17T14:55:00+03:00",
-          "title": "W-11 – Wydział Śledczy | E1179",
+          "start": "2026-08-19T13:30:00+03:00",
+          "stop": "2026-08-19T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E626",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T14:55:00+03:00",
-          "stop": "2026-08-17T16:00:00+03:00",
-          "title": "Kryminalni 3 – Ucieczka | S03E5/14",
+          "start": "2026-08-19T14:10:00+03:00",
+          "stop": "2026-08-19T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E627",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T16:00:00+03:00",
-          "stop": "2026-08-17T17:00:00+03:00",
-          "title": "Szpital | S12E834",
+          "start": "2026-08-19T14:55:00+03:00",
+          "stop": "2026-08-19T16:00:00+03:00",
+          "title": "Kryminalni 3 – Wpływ Merkurego | S03E7/14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T17:00:00+03:00",
-          "stop": "2026-08-17T18:00:00+03:00",
-          "title": "Szpital | S12E835",
+          "start": "2026-08-19T16:00:00+03:00",
+          "stop": "2026-08-19T17:00:00+03:00",
+          "title": "Szpital | S12E838",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T17:00:00+03:00",
+          "stop": "2026-08-19T18:00:00+03:00",
+          "title": "Szpital | S12E839",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T18:00:00+03:00",
+          "stop": "2026-08-19T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Artykuł | E535",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T19:00:00+03:00",
+          "stop": "2026-08-19T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E46/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T20:00:00+03:00",
+          "stop": "2026-08-19T21:00:00+03:00",
+          "title": "Młode gliny | S01E3/50",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T21:00:00+03:00",
+          "stop": "2026-08-19T23:40:00+03:00",
+          "title": "Nieustraszeni bracia Grimm",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T23:40:00+03:00",
+          "stop": "2026-08-20T01:50:00+03:00",
+          "title": "Mission: Impossible",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "programs": [
+        {
+          "start": "2026-08-20T01:50:00+03:00",
+          "stop": "2026-08-20T04:00:00+03:00",
+          "title": "Duchy moich byłych",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T04:00:00+03:00",
+          "stop": "2026-08-20T04:55:00+03:00",
+          "title": "Miasta, w których straszy | S01E1/8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T04:55:00+03:00",
+          "stop": "2026-08-20T05:30:00+03:00",
+          "title": "Fachowcy – Weterynarz/ Stolarz | S01E8/20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T05:30:00+03:00",
+          "stop": "2026-08-20T06:20:00+03:00",
+          "title": "Dorota was urządzi! | S03E8/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T06:20:00+03:00",
+          "stop": "2026-08-20T06:55:00+03:00",
+          "title": "Ten moment | E24/40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T06:55:00+03:00",
+          "stop": "2026-08-20T07:50:00+03:00",
+          "title": "Szkoła | S05E387",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T07:50:00+03:00",
+          "stop": "2026-08-20T08:45:00+03:00",
+          "title": "Szkoła | S05E388",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T08:45:00+03:00",
+          "stop": "2026-08-20T09:45:00+03:00",
+          "title": "Szkoła | S05E389",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T09:45:00+03:00",
+          "stop": "2026-08-20T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1367",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T10:50:00+03:00",
+          "stop": "2026-08-20T11:50:00+03:00",
+          "title": "Ukryta prawda | S22E1503",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T11:50:00+03:00",
+          "stop": "2026-08-20T12:50:00+03:00",
+          "title": "Ukryta prawda | S22E1504",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T12:50:00+03:00",
+          "stop": "2026-08-20T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E628",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T13:30:00+03:00",
+          "stop": "2026-08-20T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E629",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T14:10:00+03:00",
+          "stop": "2026-08-20T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy | E630",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T14:55:00+03:00",
+          "stop": "2026-08-20T16:00:00+03:00",
+          "title": "Kryminalni 3 – Wpływ Marsa | S03E8/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T16:00:00+03:00",
+          "stop": "2026-08-20T17:00:00+03:00",
+          "title": "Szpital | S12E840",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T17:00:00+03:00",
+          "stop": "2026-08-20T18:00:00+03:00",
+          "title": "Szpital | S12E841",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T18:00:00+03:00",
+          "stop": "2026-08-20T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Morderca z kempingu | E536",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T19:00:00+03:00",
+          "stop": "2026-08-20T20:00:00+03:00",
+          "title": "SOS Ekipy w akcji | E47/60",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T20:00:00+03:00",
+          "stop": "2026-08-20T21:00:00+03:00",
+          "title": "Młode gliny | S01E4/50",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T21:00:00+03:00",
+          "stop": "2026-08-20T23:15:00+03:00",
+          "title": "Gliniarz z Beverly Hills 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T23:15:00+03:00",
+          "stop": "2026-08-21T01:45:00+03:00",
+          "title": "Mission: Impossible 2",
           "description": "L",
           "category": null
         }

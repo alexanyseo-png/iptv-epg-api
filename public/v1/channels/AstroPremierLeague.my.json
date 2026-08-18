@@ -8,87 +8,335 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
+  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 45,
   "days": [
     {
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "programs": [
         {
-          "start": "2026-08-17T01:00:00+03:00",
-          "stop": "2026-08-17T03:10:00+03:00",
-          "title": "PL: Brighton vs Tottenham",
+          "start": "2026-08-18T00:40:00+03:00",
+          "stop": "2026-08-18T01:10:00+03:00",
+          "title": "PL Stories 2026/27: The Tigers Return",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T03:10:00+03:00",
-          "stop": "2026-08-17T03:40:00+03:00",
-          "title": "PL Classic: Malaysia vs Chelsea 2003",
+          "start": "2026-08-18T01:10:00+03:00",
+          "stop": "2026-08-18T03:10:00+03:00",
+          "title": "PL: Man City vs Sunderland",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T03:40:00+03:00",
-          "stop": "2026-08-17T04:10:00+03:00",
-          "title": "PL Classic: Malaysia vs Birmingham 2003",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T04:10:00+03:00",
-          "stop": "2026-08-17T07:30:00+03:00",
-          "title": "FA Community Shield: Arsenal vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T07:30:00+03:00",
-          "stop": "2026-08-17T09:40:00+03:00",
-          "title": "PL: Tottenham vs Brighton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T09:40:00+03:00",
-          "stop": "2026-08-17T12:30:00+03:00",
-          "title": "PL: Man Utd vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T12:30:00+03:00",
-          "stop": "2026-08-17T13:00:00+03:00",
+          "start": "2026-08-18T03:10:00+03:00",
+          "stop": "2026-08-18T03:40:00+03:00",
           "title": "PL Classic: Chelsea vs Newcastle 2003",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T13:00:00+03:00",
-          "stop": "2026-08-17T13:30:00+03:00",
+          "start": "2026-08-18T03:40:00+03:00",
+          "stop": "2026-08-18T04:10:00+03:00",
           "title": "PL Classic: Thailand vs Everton 2005",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T13:30:00+03:00",
-          "stop": "2026-08-17T14:00:00+03:00",
+          "start": "2026-08-18T04:10:00+03:00",
+          "stop": "2026-08-18T06:20:00+03:00",
+          "title": "PL: Liverpool vs Fulham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T06:20:00+03:00",
+          "stop": "2026-08-18T08:30:00+03:00",
+          "title": "PL: Everton vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T08:30:00+03:00",
+          "stop": "2026-08-18T11:50:00+03:00",
+          "title": "PL: Chelsea vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T11:50:00+03:00",
+          "stop": "2026-08-18T12:20:00+03:00",
+          "title": "PL Classic: Malaysia vs Chelsea 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T12:20:00+03:00",
+          "stop": "2026-08-18T15:10:00+03:00",
+          "title": "FA Community Shield: Arsenal vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T15:10:00+03:00",
+          "stop": "2026-08-18T15:40:00+03:00",
+          "title": "FA Community Shield: Highlights Show",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T15:40:00+03:00",
+          "stop": "2026-08-18T16:10:00+03:00",
+          "title": "Bournemouth 3-3 West Ham United 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T16:10:00+03:00",
+          "stop": "2026-08-18T18:30:00+03:00",
+          "title": "PL: Liverpool vs Brentford",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T18:30:00+03:00",
+          "stop": "2026-08-18T20:40:00+03:00",
+          "title": "PL: Nottm Forest vs Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T20:40:00+03:00",
+          "stop": "2026-08-18T22:50:00+03:00",
+          "title": "PL: West Ham vs Leeds",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T22:50:00+03:00",
+          "stop": "2026-08-19T01:00:00+03:00",
+          "title": "PL: Newcastle vs West Ham",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "programs": [
+        {
+          "start": "2026-08-19T01:00:00+03:00",
+          "stop": "2026-08-19T03:10:00+03:00",
+          "title": "PL: West Ham vs Sunderland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T03:10:00+03:00",
+          "stop": "2026-08-19T03:40:00+03:00",
           "title": "PL Classic: Chelsea 2-1 Liverpool 02/03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T14:00:00+03:00",
-          "stop": "2026-08-17T15:00:00+03:00",
+          "start": "2026-08-19T03:40:00+03:00",
+          "stop": "2026-08-19T04:10:00+03:00",
+          "title": "Bournemouth 3-3 West Ham United 2017/18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T04:10:00+03:00",
+          "stop": "2026-08-19T07:10:00+03:00",
+          "title": "PL: Liverpool vs Tottenham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T07:10:00+03:00",
+          "stop": "2026-08-19T07:40:00+03:00",
+          "title": "FA Community Shield: Highlights Show",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T07:40:00+03:00",
+          "stop": "2026-08-19T10:40:00+03:00",
+          "title": "PL: Chelsea vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T10:40:00+03:00",
+          "stop": "2026-08-19T11:10:00+03:00",
+          "title": "PL Stories 2026/27: The Ipswich Way",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T11:10:00+03:00",
+          "stop": "2026-08-19T12:10:00+03:00",
           "title": "Preview Of The Season 2026/27",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-17T15:00:00+03:00",
-          "stop": "2026-08-17T18:15:00+03:00",
+          "start": "2026-08-19T12:10:00+03:00",
+          "stop": "2026-08-19T15:00:00+03:00",
+          "title": "PL: Chelsea vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T15:00:00+03:00",
+          "stop": "2026-08-19T15:30:00+03:00",
+          "title": "Chelsea 1-3 Liverpool 2015/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T15:30:00+03:00",
+          "stop": "2026-08-19T16:00:00+03:00",
+          "title": "Newcastle United 6-0 Aston Villa 2010/11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T16:00:00+03:00",
+          "stop": "2026-08-19T17:00:00+03:00",
+          "title": "PL Moments: Remembering Kevin Keegan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T17:00:00+03:00",
+          "stop": "2026-08-19T19:40:00+03:00",
+          "title": "PL: Liverpool vs Chelsea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T19:40:00+03:00",
+          "stop": "2026-08-19T21:50:00+03:00",
+          "title": "PL: Fulham vs Newcastle",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T21:50:00+03:00",
+          "stop": "2026-08-20T01:00:00+03:00",
+          "title": "PL: Chelsea vs Tottenham",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "programs": [
+        {
+          "start": "2026-08-20T01:00:00+03:00",
+          "stop": "2026-08-20T03:10:00+03:00",
+          "title": "PL: Arsenal vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T03:10:00+03:00",
+          "stop": "2026-08-20T03:40:00+03:00",
+          "title": "Chelsea 1-3 Liverpool 2015/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T03:40:00+03:00",
+          "stop": "2026-08-20T04:10:00+03:00",
+          "title": "Newcastle United 6-0 Aston Villa 2010/11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T04:10:00+03:00",
+          "stop": "2026-08-20T07:00:00+03:00",
+          "title": "PL: Tottenham vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T07:00:00+03:00",
+          "stop": "2026-08-20T09:45:00+03:00",
           "title": "FA Community Shield: Arsenal vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T09:45:00+03:00",
+          "stop": "2026-08-20T10:20:00+03:00",
+          "title": "PL Classic: Malaysia vs Birmingham 2003",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T10:20:00+03:00",
+          "stop": "2026-08-20T11:20:00+03:00",
+          "title": "PL Moments: Remembering Kevin Keegan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T11:20:00+03:00",
+          "stop": "2026-08-20T14:20:00+03:00",
+          "title": "PL: Newcastle vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T14:20:00+03:00",
+          "stop": "2026-08-20T15:00:00+03:00",
+          "title": "Chelsea 4-0 Liverpool 2001/02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T15:00:00+03:00",
+          "stop": "2026-08-20T15:30:00+03:00",
+          "title": "PL Stories 2026/27: Coventry Rising",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T15:30:00+03:00",
+          "stop": "2026-08-20T16:00:00+03:00",
+          "title": "FA Community Shield: Highlights Show",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T16:00:00+03:00",
+          "stop": "2026-08-20T18:30:00+03:00",
+          "title": "PL: Man City vs Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T18:30:00+03:00",
+          "stop": "2026-08-20T20:40:00+03:00",
+          "title": "PL: Brighton vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T20:40:00+03:00",
+          "stop": "2026-08-20T22:50:00+03:00",
+          "title": "PL: Burnley vs Wolves",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T22:50:00+03:00",
+          "stop": "2026-08-21T01:00:00+03:00",
+          "title": "PL: Arsenal vs Newcastle",
           "description": "L",
           "category": null
         }

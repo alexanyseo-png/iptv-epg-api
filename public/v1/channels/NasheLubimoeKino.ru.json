@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-17T01:56:13.047616+00:00",
+  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-08-17",
-      "programs": [
-        {
-          "start": "2026-08-17T00:30:00+03:00",
-          "stop": "2026-08-17T02:15:00+03:00",
-          "title": "Muhteşem Gilly Hopkins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T02:15:00+03:00",
-          "stop": "2026-08-17T04:10:00+03:00",
-          "title": "Блеф.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T04:10:00+03:00",
-          "stop": "2026-08-17T06:00:00+03:00",
-          "title": "Счастливый случай.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T06:00:00+03:00",
-          "stop": "2026-08-17T08:00:00+03:00",
-          "title": "Окулус.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T08:00:00+03:00",
-          "stop": "2026-08-17T10:00:00+03:00",
-          "title": "Блеф.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T10:00:00+03:00",
-          "stop": "2026-08-17T12:15:00+03:00",
-          "title": "К-19.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T12:15:00+03:00",
-          "stop": "2026-08-17T13:50:00+03:00",
-          "title": "Точка опоры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T13:50:00+03:00",
-          "stop": "2026-08-17T15:25:00+03:00",
-          "title": "Лапочка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T15:25:00+03:00",
-          "stop": "2026-08-17T17:10:00+03:00",
-          "title": "Muhteşem Gilly Hopkins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T17:10:00+03:00",
-          "stop": "2026-08-17T19:05:00+03:00",
-          "title": "Счастливый случай.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T19:05:00+03:00",
-          "stop": "2026-08-17T21:05:00+03:00",
-          "title": "Дальняя дорога.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T21:05:00+03:00",
-          "stop": "2026-08-17T22:45:00+03:00",
-          "title": "Параллельные миры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-17T22:45:00+03:00",
-          "stop": "2026-08-18T00:20:00+03:00",
-          "title": "Пластик.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-18",
       "programs": [
@@ -120,8 +24,277 @@
         },
         {
           "start": "2026-08-18T02:15:00+03:00",
-          "stop": "2026-08-18T03:15:00+03:00",
+          "stop": "2026-08-18T04:10:00+03:00",
           "title": "Дело Коллини.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T04:10:00+03:00",
+          "stop": "2026-08-18T06:00:00+03:00",
+          "title": "Холостяки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T06:00:00+03:00",
+          "stop": "2026-08-18T08:00:00+03:00",
+          "title": "Середина 90-х.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T08:00:00+03:00",
+          "stop": "2026-08-18T10:00:00+03:00",
+          "title": "Дело Коллини.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T10:00:00+03:00",
+          "stop": "2026-08-18T12:00:00+03:00",
+          "title": "Дальняя дорога.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T12:00:00+03:00",
+          "stop": "2026-08-18T13:40:00+03:00",
+          "title": "Параллельные миры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T13:40:00+03:00",
+          "stop": "2026-08-18T15:15:00+03:00",
+          "title": "Пластик.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T15:15:00+03:00",
+          "stop": "2026-08-18T17:10:00+03:00",
+          "title": "Невидимый убийца.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T17:10:00+03:00",
+          "stop": "2026-08-18T19:05:00+03:00",
+          "title": "Холостяки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T19:05:00+03:00",
+          "stop": "2026-08-18T21:05:00+03:00",
+          "title": "Сабрина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T21:05:00+03:00",
+          "stop": "2026-08-18T22:55:00+03:00",
+          "title": "Гонки «Пушечное ядро».",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-18T22:55:00+03:00",
+          "stop": "2026-08-19T00:25:00+03:00",
+          "title": "Ловкие руки.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-19",
+      "programs": [
+        {
+          "start": "2026-08-19T00:25:00+03:00",
+          "stop": "2026-08-19T02:15:00+03:00",
+          "title": "Ненависть фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T02:15:00+03:00",
+          "stop": "2026-08-19T04:10:00+03:00",
+          "title": "Отчаянные наследники.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T04:10:00+03:00",
+          "stop": "2026-08-19T06:00:00+03:00",
+          "title": "Не слышу зла.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T06:00:00+03:00",
+          "stop": "2026-08-19T08:00:00+03:00",
+          "title": "Мой папа — вождь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T08:00:00+03:00",
+          "stop": "2026-08-19T10:00:00+03:00",
+          "title": "Отчаянные наследники.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T10:00:00+03:00",
+          "stop": "2026-08-19T12:00:00+03:00",
+          "title": "Сабрина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T12:00:00+03:00",
+          "stop": "2026-08-19T13:50:00+03:00",
+          "title": "Гонки «Пушечное ядро».",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T13:50:00+03:00",
+          "stop": "2026-08-19T15:20:00+03:00",
+          "title": "Ловкие руки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T15:20:00+03:00",
+          "stop": "2026-08-19T17:10:00+03:00",
+          "title": "Ненависть фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T17:10:00+03:00",
+          "stop": "2026-08-19T19:05:00+03:00",
+          "title": "Не слышу зла.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T19:05:00+03:00",
+          "stop": "2026-08-19T21:05:00+03:00",
+          "title": "Перевозчик 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T21:05:00+03:00",
+          "stop": "2026-08-19T22:55:00+03:00",
+          "title": "Жена.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-19T22:55:00+03:00",
+          "stop": "2026-08-20T00:40:00+03:00",
+          "title": "Гранит.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-20",
+      "programs": [
+        {
+          "start": "2026-08-20T00:40:00+03:00",
+          "stop": "2026-08-20T02:15:00+03:00",
+          "title": "Бестолковые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T02:15:00+03:00",
+          "stop": "2026-08-20T04:10:00+03:00",
+          "title": "Конец света.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T04:10:00+03:00",
+          "stop": "2026-08-20T06:00:00+03:00",
+          "title": "Столкновение.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T06:00:00+03:00",
+          "stop": "2026-08-20T08:00:00+03:00",
+          "title": "Привет, Джули!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T08:00:00+03:00",
+          "stop": "2026-08-20T10:00:00+03:00",
+          "title": "Конец света.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T10:00:00+03:00",
+          "stop": "2026-08-20T12:00:00+03:00",
+          "title": "Перевозчик 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T12:00:00+03:00",
+          "stop": "2026-08-20T13:50:00+03:00",
+          "title": "Жена.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T13:50:00+03:00",
+          "stop": "2026-08-20T15:35:00+03:00",
+          "title": "Гранит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T15:35:00+03:00",
+          "stop": "2026-08-20T17:10:00+03:00",
+          "title": "Бестолковые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T17:10:00+03:00",
+          "stop": "2026-08-20T19:05:00+03:00",
+          "title": "Столкновение.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T19:05:00+03:00",
+          "stop": "2026-08-20T21:05:00+03:00",
+          "title": "На гребне волны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T21:05:00+03:00",
+          "stop": "2026-08-20T22:40:00+03:00",
+          "title": "Перед рассветом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-20T22:40:00+03:00",
+          "stop": "2026-08-21T00:25:00+03:00",
+          "title": "22 пули: Бессмертный.",
           "description": "L",
           "category": null
         }
