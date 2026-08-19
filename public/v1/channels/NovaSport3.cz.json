@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
+  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "start": "2026-08-18T00:35:00+03:00",
-          "stop": "2026-08-18T02:20:00+03:00",
-          "title": "Borussia Dortmund – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T02:20:00+03:00",
-          "stop": "2026-08-18T08:00:00+03:00",
-          "title": "Wolverhampton Wanderers – Blackburn Rovers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T08:00:00+03:00",
-          "stop": "2026-08-18T09:55:00+03:00",
-          "title": "Sporting Gijón – CE Sabadell FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T09:55:00+03:00",
-          "stop": "2026-08-18T11:45:00+03:00",
-          "title": "Holstein Kiel – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T11:45:00+03:00",
-          "stop": "2026-08-18T12:15:00+03:00",
-          "title": "EFL Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T12:15:00+03:00",
-          "stop": "2026-08-18T14:00:00+03:00",
-          "title": "Eintracht Frankfurt – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T14:00:00+03:00",
-          "stop": "2026-08-18T16:00:00+03:00",
-          "title": "Borussia Dortmund – 1. FC Heidenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T16:00:00+03:00",
-          "stop": "2026-08-18T17:50:00+03:00",
-          "title": "Bayern Mnichov – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T17:50:00+03:00",
-          "stop": "2026-08-18T19:45:00+03:00",
-          "title": "RB Lipsko – VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T19:45:00+03:00",
-          "stop": "2026-08-18T21:45:00+03:00",
-          "title": "Hannover 96 – VfL Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T21:45:00+03:00",
-          "stop": "2026-08-19T00:05:00+03:00",
-          "title": "Fenerbahçe SK – Olympique Lyon",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-19",
       "programs": [
@@ -253,6 +171,116 @@
           "start": "2026-08-20T21:55:00+03:00",
           "stop": "2026-08-21T00:05:00+03:00",
           "title": "Sheffield Wednesday – Bradford City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "start": "2026-08-21T00:05:00+03:00",
+          "stop": "2026-08-21T00:20:00+03:00",
+          "title": "Bundesliga Clubs 2026/27: Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T00:20:00+03:00",
+          "stop": "2026-08-21T00:35:00+03:00",
+          "title": "Bundesliga Clubs 2026/27: Borussia Mönchengladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T00:35:00+03:00",
+          "stop": "2026-08-21T02:25:00+03:00",
+          "title": "Fenerbahçe SK – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T02:25:00+03:00",
+          "stop": "2026-08-21T08:00:00+03:00",
+          "title": "Sporting Gijón – CE Sabadell FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T08:00:00+03:00",
+          "stop": "2026-08-21T10:00:00+03:00",
+          "title": "Sheffield Wednesday – Bradford City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T10:00:00+03:00",
+          "stop": "2026-08-21T12:00:00+03:00",
+          "title": "VfL Wolfsburg – 1. FC Kaiserslautern",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T12:00:00+03:00",
+          "stop": "2026-08-21T14:00:00+03:00",
+          "title": "Holstein Kiel – FC St. Pauli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T14:00:00+03:00",
+          "stop": "2026-08-21T15:40:00+03:00",
+          "title": "Eintracht Frankfurt – RB Lipsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T15:40:00+03:00",
+          "stop": "2026-08-21T17:30:00+03:00",
+          "title": "Borussia Dortmund – SC Freiburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T17:30:00+03:00",
+          "stop": "2026-08-21T19:00:00+03:00",
+          "title": "TIKI-TAKA 26/27 (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T19:00:00+03:00",
+          "stop": "2026-08-21T21:00:00+03:00",
+          "title": "1. FC Norimberk – Dynamo Drážďany",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:00:00+03:00",
+          "stop": "2026-08-21T21:30:00+03:00",
+          "title": "Bundesliga Weekly (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:30:00+03:00",
+          "stop": "2026-08-21T21:40:00+03:00",
+          "title": "Ikony Ligue 1 – Lucho González",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:40:00+03:00",
+          "stop": "2026-08-21T23:50:00+03:00",
+          "title": "Olympique Marseille – Racing Strasbourg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T23:50:00+03:00",
+          "stop": "2026-08-22T00:05:00+03:00",
+          "title": "Bundesliga Clubs 2026/27: VfB Stuttgart",
           "description": "L",
           "category": null
         }

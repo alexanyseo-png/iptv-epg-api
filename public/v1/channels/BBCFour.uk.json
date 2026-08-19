@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
+  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "start": "2026-08-18T00:00:00+03:00",
-          "stop": "2026-08-18T01:00:00+03:00",
-          "title": "Art on the BBC. \"Michelangelo: The Good, the Bad, and the Ugly\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T01:00:00+03:00",
-          "stop": "2026-08-18T01:25:00+03:00",
-          "title": "Arena. \"Art and Design: \"The Journey\" or The Memoirs of a Self-Confessed Surrealist\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T01:25:00+03:00",
-          "stop": "2026-08-18T02:25:00+03:00",
-          "title": "Wainwright: The Man Who Loved the Lakes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T02:25:00+03:00",
-          "stop": "2026-08-18T02:40:00+03:00",
-          "title": "The Flying Gardener.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T02:40:00+03:00",
-          "stop": "2026-08-18T03:40:00+03:00",
-          "title": "Art of Spain. \"The Mystical North\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T03:40:00+03:00",
-          "stop": "2026-08-18T04:05:00+03:00",
-          "title": "Arena. \"Art and Design: \"The Journey\" or The Memoirs of a Self-Confessed Surrealist\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T04:05:00+03:00",
-          "stop": "2026-08-18T05:05:00+03:00",
-          "title": "Art on the BBC. \"Michelangelo: The Good the Bad and the Ugly\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T05:05:00+03:00",
-          "stop": "2026-08-18T21:00:00+03:00",
-          "title": "Close.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T21:00:00+03:00",
-          "stop": "2026-08-18T21:45:00+03:00",
-          "title": "The Architecture the Railways Built.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T21:45:00+03:00",
-          "stop": "2026-08-18T22:00:00+03:00",
-          "title": "The Flying Gardener.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T22:00:00+03:00",
-          "stop": "2026-08-18T22:30:00+03:00",
-          "title": "To the Manor Born. \"Going to Church\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T22:30:00+03:00",
-          "stop": "2026-08-18T23:00:00+03:00",
-          "title": "Keeping Up Appearances. \"Country Retreat\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T23:00:00+03:00",
-          "stop": "2026-08-19T00:00:00+03:00",
-          "title": "Rise of the Clans.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-19",
       "programs": [
@@ -281,6 +185,81 @@
           "start": "2026-08-20T23:00:00+03:00",
           "stop": "2026-08-21T00:40:00+03:00",
           "title": "The French Connection.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "start": "2026-08-21T00:40:00+03:00",
+          "stop": "2026-08-21T01:35:00+03:00",
+          "title": "The Poughkeepsie Shuffle: Tracing the French Connection.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T01:35:00+03:00",
+          "stop": "2026-08-21T03:15:00+03:00",
+          "title": "The Graduate.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T03:15:00+03:00",
+          "stop": "2026-08-21T03:45:00+03:00",
+          "title": "Canal Boat Diaries. \"Keadby to Kiveton Park\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T03:45:00+03:00",
+          "stop": "2026-08-21T04:40:00+03:00",
+          "title": "The Poughkeepsie Shuffle: Tracing the French Connection.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T04:40:00+03:00",
+          "stop": "2026-08-21T05:10:00+03:00",
+          "title": "Villages by the Sea. \"Holkham\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T05:10:00+03:00",
+          "stop": "2026-08-21T21:00:00+03:00",
+          "title": "Close.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:00:00+03:00",
+          "stop": "2026-08-21T22:00:00+03:00",
+          "title": "Cricket: Today at the Test.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T22:00:00+03:00",
+          "stop": "2026-08-21T23:15:00+03:00",
+          "title": "BBC Proms. \"Miles Davis: A Celebration at the Proms\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T23:15:00+03:00",
+          "stop": "2026-08-21T23:55:00+03:00",
+          "title": "Top of the Pops. \"19/08/1982\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T23:55:00+03:00",
+          "stop": "2026-08-22T00:25:00+03:00",
+          "title": "Top of the Pops. \"20/08/1987\".",
           "description": "L",
           "category": null
         }

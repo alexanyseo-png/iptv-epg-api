@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
+  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "start": "2026-08-18T00:00:00+03:00",
-          "stop": "2026-08-18T01:00:00+03:00",
-          "title": "NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T01:00:00+03:00",
-          "stop": "2026-08-18T02:00:00+03:00",
-          "title": "NFL Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T02:00:00+03:00",
-          "stop": "2026-08-18T03:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T03:00:00+03:00",
-          "stop": "2026-08-18T06:00:00+03:00",
-          "title": "NFL Football «Green Bay Packers at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T06:00:00+03:00",
-          "stop": "2026-08-18T07:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T07:00:00+03:00",
-          "stop": "2026-08-18T08:00:00+03:00",
-          "title": "NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T08:00:00+03:00",
-          "stop": "2026-08-18T10:30:00+03:00",
-          "title": "NFL Football «Los Angeles Chargers at Houston Texans» (NRG Stadium, Houston, TX, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T10:30:00+03:00",
-          "stop": "2026-08-18T13:00:00+03:00",
-          "title": "NFL Football «Detroit Lions at Cincinnati Bengals» (Paycor Stadium, Cincinnati, OH, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T13:00:00+03:00",
-          "stop": "2026-08-18T14:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T14:00:00+03:00",
-          "stop": "2026-08-18T15:00:00+03:00",
-          "title": "NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T15:00:00+03:00",
-          "stop": "2026-08-18T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T17:00:00+03:00",
-          "stop": "2026-08-18T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T19:00:00+03:00",
-          "stop": "2026-08-18T21:30:00+03:00",
-          "title": "NFL Football «Miami Dolphins at Washington Commanders» (Northwest Stadium, Landover, MD, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T21:30:00+03:00",
-          "stop": "2026-08-19T00:00:00+03:00",
-          "title": "NFL Football «Denver Broncos at Atlanta Falcons» (Mercedes-Benz Stadium, Atlanta, GA, USA)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-19",
       "programs": [
@@ -316,6 +213,81 @@
           "start": "2026-08-20T22:00:00+03:00",
           "stop": "2026-08-21T01:00:00+03:00",
           "title": "NFL Football «Arizona Cardinals at Las Vegas Raiders» (Allegiant Stadium, Las Vegas, NV, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "start": "2026-08-21T01:00:00+03:00",
+          "stop": "2026-08-21T02:00:00+03:00",
+          "title": "⋗ NFL GameDay Kickoff",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T02:00:00+03:00",
+          "stop": "2026-08-21T05:00:00+03:00",
+          "title": "NFL Football «Los Angeles Rams at Kansas City Chiefs» (GEHA Field at Arrowhead Stadium, Kansas City, MO, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T05:00:00+03:00",
+          "stop": "2026-08-21T08:00:00+03:00",
+          "title": "⋗ NFL Football «San Francisco 49ers at Los Angeles Chargers» (SoFi Stadium, Inglewood, CA, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T08:00:00+03:00",
+          "stop": "2026-08-21T11:00:00+03:00",
+          "title": "NFL Football «Las Vegas Raiders at Houston Texans» (NRG Stadium, Houston, TX, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T11:00:00+03:00",
+          "stop": "2026-08-21T12:00:00+03:00",
+          "title": "Gold Jacket Celebration",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T12:00:00+03:00",
+          "stop": "2026-08-21T15:00:00+03:00",
+          "title": "NFL Football «San Francisco 49ers at Los Angeles Chargers» (SoFi Stadium, Inglewood, CA, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T15:00:00+03:00",
+          "stop": "2026-08-21T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T17:00:00+03:00",
+          "stop": "2026-08-21T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T19:00:00+03:00",
+          "stop": "2026-08-21T22:00:00+03:00",
+          "title": "NFL Football «San Francisco 49ers at Los Angeles Chargers» (SoFi Stadium, Inglewood, CA, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T22:00:00+03:00",
+          "stop": "2026-08-22T01:00:00+03:00",
+          "title": "NFL Football «Las Vegas Raiders at Houston Texans» (NRG Stadium, Houston, TX, USA)",
           "description": "L",
           "category": null
         }

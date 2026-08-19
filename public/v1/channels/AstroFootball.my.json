@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
+  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "start": "2026-08-18T01:00:00+03:00",
-          "stop": "2026-08-18T03:00:00+03:00",
-          "title": "Serie A: Cagliari vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T03:00:00+03:00",
-          "stop": "2026-08-18T05:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Parma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T05:00:00+03:00",
-          "stop": "2026-08-18T07:00:00+03:00",
-          "title": "Serie A: Genoa vs Roma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T07:00:00+03:00",
-          "stop": "2026-08-18T09:00:00+03:00",
-          "title": "Serie A: Juventus vs Pisa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T09:00:00+03:00",
-          "stop": "2026-08-18T11:00:00+03:00",
-          "title": "Serie A: Lecce vs Genoa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T11:00:00+03:00",
-          "stop": "2026-08-18T13:00:00+03:00",
-          "title": "Friendly: USA vs Senegal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T13:00:00+03:00",
-          "stop": "2026-08-18T14:55:00+03:00",
-          "title": "Tournoi: Venezuela v Canada",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T14:55:00+03:00",
-          "stop": "2026-08-18T16:55:00+03:00",
-          "title": "Tournoi: China v DR Congo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T16:55:00+03:00",
-          "stop": "2026-08-18T19:01:00+03:00",
-          "title": "Tournoi: Saudi Arabia v Colombia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T19:01:00+03:00",
-          "stop": "2026-08-18T21:00:00+03:00",
-          "title": "Dutch: PSV vs NEC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T21:00:00+03:00",
-          "stop": "2026-08-18T23:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Excelsior",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T23:00:00+03:00",
-          "stop": "2026-08-19T01:00:00+03:00",
-          "title": "Dutch: Ajax vs Rotterdam",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-19",
       "programs": [
@@ -274,6 +185,116 @@
           "start": "2026-08-20T23:00:00+03:00",
           "stop": "2026-08-21T01:00:00+03:00",
           "title": "Serie A: Verona vs Napoli",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "start": "2026-08-21T01:00:00+03:00",
+          "stop": "2026-08-21T03:00:00+03:00",
+          "title": "Tournoi: Japan v Canada",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T03:00:00+03:00",
+          "stop": "2026-08-21T05:00:00+03:00",
+          "title": "Tournoi: Portugal v Ivory Coast",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T05:00:00+03:00",
+          "stop": "2026-08-21T07:00:00+03:00",
+          "title": "Serie A: Como vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T07:00:00+03:00",
+          "stop": "2026-08-21T09:00:00+03:00",
+          "title": "Serie A: Parma vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T09:00:00+03:00",
+          "stop": "2026-08-21T11:00:00+03:00",
+          "title": "Serie A: Pisa vs Bologna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T11:00:00+03:00",
+          "stop": "2026-08-21T13:00:00+03:00",
+          "title": "Serie A: Udinese vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T13:00:00+03:00",
+          "stop": "2026-08-21T15:00:00+03:00",
+          "title": "Serie A: Bologna vs Inter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T15:00:00+03:00",
+          "stop": "2026-08-21T15:30:00+03:00",
+          "title": "Serie A: Full Impact: Round 36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T15:30:00+03:00",
+          "stop": "2026-08-21T16:00:00+03:00",
+          "title": "Carabao Cup Finals: Hls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T16:00:00+03:00",
+          "stop": "2026-08-21T18:00:00+03:00",
+          "title": "Dutch: PSV vs Alkmaar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T18:00:00+03:00",
+          "stop": "2026-08-21T18:30:00+03:00",
+          "title": "Serie A: Full Impact: Round 35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T18:30:00+03:00",
+          "stop": "2026-08-21T18:50:00+03:00",
+          "title": "This Is Our Time: Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T18:50:00+03:00",
+          "stop": "2026-08-21T21:00:00+03:00",
+          "title": "⋗ DFB: St.Tonis vs Eintracht",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:00:00+03:00",
+          "stop": "2026-08-21T21:35:00+03:00",
+          "title": "Serie A: Full Impact: Round 36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T21:35:00+03:00",
+          "stop": "2026-08-22T00:00:00+03:00",
+          "title": "⋗ DFB: Rostock vs Stuttgart",
           "description": "L",
           "category": null
         }

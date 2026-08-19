@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-18T01:51:49.495486+00:00",
+  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-08-18",
-      "programs": [
-        {
-          "start": "2026-08-18T01:40:00+03:00",
-          "stop": "2026-08-18T04:00:00+03:00",
-          "title": "Смешанные единоборства. FCR 20 в Вестеросе, Швеция",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T04:00:00+03:00",
-          "stop": "2026-08-18T05:35:00+03:00",
-          "title": "Кикбоксинг. Fighting Rookies 2014",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T05:35:00+03:00",
-          "stop": "2026-08-18T06:10:00+03:00",
-          "title": "UK Wrestling Showdown. 12 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T06:10:00+03:00",
-          "stop": "2026-08-18T06:45:00+03:00",
-          "title": "UK Wrestling Showdown. 13 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T06:45:00+03:00",
-          "stop": "2026-08-18T07:00:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Токио, Япония",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T07:00:00+03:00",
-          "stop": "2026-08-18T10:50:00+03:00",
-          "title": "Бокс. FOX Sports Africa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T10:50:00+03:00",
-          "stop": "2026-08-18T14:55:00+03:00",
-          "title": "Бокс. LNK Boxing Night 8 в Риге, Латвия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T14:55:00+03:00",
-          "stop": "2026-08-18T17:45:00+03:00",
-          "title": "Кикбоксинг. WGP Kickboxing Brazil",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T17:45:00+03:00",
-          "stop": "2026-08-18T20:00:00+03:00",
-          "title": "Underground Boxing Night 2023, 3 ч",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-18T20:00:00+03:00",
-          "stop": "2026-08-19T00:25:00+03:00",
-          "title": "Смешанные единоборства. NFC 15 в Эссене, Германия",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-19",
       "programs": [
@@ -232,6 +157,88 @@
           "start": "2026-08-20T23:10:00+03:00",
           "stop": "2026-08-21T01:20:00+03:00",
           "title": "Смешанные единоборства. FCR 21 в Стокгольме, Швеция",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-21",
+      "programs": [
+        {
+          "start": "2026-08-21T01:20:00+03:00",
+          "stop": "2026-08-21T03:40:00+03:00",
+          "title": "Смешанные единоборства. FCR 20 в Вестеросе, Швеция",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T03:40:00+03:00",
+          "stop": "2026-08-21T05:50:00+03:00",
+          "title": "Смешанные единоборства. Lux Fight League 027 в Мехико, Мексика",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T05:50:00+03:00",
+          "stop": "2026-08-21T06:25:00+03:00",
+          "title": "UK Wrestling Showdown. 12 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T06:25:00+03:00",
+          "stop": "2026-08-21T07:00:00+03:00",
+          "title": "UK Wrestling Showdown. 13 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T07:00:00+03:00",
+          "stop": "2026-08-21T09:50:00+03:00",
+          "title": "Кикбоксинг. WGP Kickboxing Brazil",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T09:50:00+03:00",
+          "stop": "2026-08-21T13:00:00+03:00",
+          "title": "Бокс. FOX Sports Africa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T13:00:00+03:00",
+          "stop": "2026-08-21T14:20:00+03:00",
+          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Токио, Япония",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T14:20:00+03:00",
+          "stop": "2026-08-21T15:55:00+03:00",
+          "title": "Кикбоксинг. King of Kings World Series в Хельсинки, Финляндия. Мировой Гран-при",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T15:55:00+03:00",
+          "stop": "2026-08-21T20:20:00+03:00",
+          "title": "Смешанные единоборства. NFC 15 в Эссене, Германия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T20:20:00+03:00",
+          "stop": "2026-08-21T22:00:00+03:00",
+          "title": "Кикбоксинг. Enfusion Talents 112 в Дордрехте, Нидерланды",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-21T22:00:00+03:00",
+          "stop": "2026-08-22T02:30:00+03:00",
+          "title": "Бокс голыми кулаками. BKB 35 в Лондоне, Великобритания",
           "description": "L",
           "category": null
         }
