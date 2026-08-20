@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
+  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
   "available": true,
   "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-08-19",
-      "programs": [
-        {
-          "start": "2026-08-19T00:05:00+03:00",
-          "stop": "2026-08-19T01:55:00+03:00",
-          "title": "Deportivo La Coruna – Elche CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T01:55:00+03:00",
-          "stop": "2026-08-19T03:45:00+03:00",
-          "title": "Deportivo Alavés – Getafe CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T03:45:00+03:00",
-          "stop": "2026-08-19T08:00:00+03:00",
-          "title": "Ve skluzu (127)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T08:00:00+03:00",
-          "stop": "2026-08-19T10:00:00+03:00",
-          "title": "Dinamo Záhřeb – Viking FK",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T10:00:00+03:00",
-          "stop": "2026-08-19T12:00:00+03:00",
-          "title": "Deportivo La Coruna – Elche CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T12:00:00+03:00",
-          "stop": "2026-08-19T13:50:00+03:00",
-          "title": "Espanyol Barcelona – Levante UD",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T13:50:00+03:00",
-          "stop": "2026-08-19T15:45:00+03:00",
-          "title": "Sevilla FC – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T15:45:00+03:00",
-          "stop": "2026-08-19T17:45:00+03:00",
-          "title": "Holstein Kiel – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T17:45:00+03:00",
-          "stop": "2026-08-19T19:45:00+03:00",
-          "title": "Eintracht Braunschweig – VfL Bochum",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T19:45:00+03:00",
-          "stop": "2026-08-19T20:45:00+03:00",
-          "title": "La Liga 2 Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T20:45:00+03:00",
-          "stop": "2026-08-19T21:45:00+03:00",
-          "title": "La Liga Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T21:45:00+03:00",
-          "stop": "2026-08-20T00:05:00+03:00",
-          "title": "NEC Nijmegen – FK Bod?/Glimt",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-20",
       "programs": [
@@ -281,6 +192,95 @@
           "start": "2026-08-21T21:55:00+03:00",
           "stop": "2026-08-22T00:05:00+03:00",
           "title": "Real Betis – Real Sociedad",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "programs": [
+        {
+          "start": "2026-08-22T00:05:00+03:00",
+          "stop": "2026-08-22T00:35:00+03:00",
+          "title": "Ve skluzu (127)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T00:35:00+03:00",
+          "stop": "2026-08-22T02:30:00+03:00",
+          "title": "NEC Nijmegen – FK Bod?/Glimt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T02:30:00+03:00",
+          "stop": "2026-08-22T08:00:00+03:00",
+          "title": "Hertha BSC – 1. FC Heidenheim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T08:00:00+03:00",
+          "stop": "2026-08-22T10:00:00+03:00",
+          "title": "Real Betis – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T10:00:00+03:00",
+          "stop": "2026-08-22T12:00:00+03:00",
+          "title": "Dinamo Záhřeb – Viking FK",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T12:00:00+03:00",
+          "stop": "2026-08-22T13:55:00+03:00",
+          "title": "NEC Nijmegen – FK Bod?/Glimt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T13:55:00+03:00",
+          "stop": "2026-08-22T16:45:00+03:00",
+          "title": "Energie Cottbus – FC Augsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T16:45:00+03:00",
+          "stop": "2026-08-22T16:55:00+03:00",
+          "title": "LaLiga Experience – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T16:55:00+03:00",
+          "stop": "2026-08-22T17:55:00+03:00",
+          "title": "La Liga Highlights (1)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T17:55:00+03:00",
+          "stop": "2026-08-22T20:15:00+03:00",
+          "title": "Athletic Bilbao – Sevilla FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T20:15:00+03:00",
+          "stop": "2026-08-22T22:20:00+03:00",
+          "title": "PSG – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T22:20:00+03:00",
+          "stop": "2026-08-23T00:40:00+03:00",
+          "title": "Espanyol Barcelona – Real Madrid",
           "description": "L",
           "category": null
         }

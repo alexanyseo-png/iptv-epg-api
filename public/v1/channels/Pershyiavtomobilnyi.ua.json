@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
+  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-08-19",
-      "programs": [
-        {
-          "start": "2026-08-19T07:00:00+03:00",
-          "stop": "2026-08-19T08:00:00+03:00",
-          "title": "Автоподія",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T08:00:00+03:00",
-          "stop": "2026-08-19T09:00:00+03:00",
-          "title": "Green Mobility News",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T09:00:00+03:00",
-          "stop": "2026-08-19T10:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T10:00:00+03:00",
-          "stop": "2026-08-19T11:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T11:00:00+03:00",
-          "stop": "2026-08-19T12:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T12:00:00+03:00",
-          "stop": "2026-08-19T13:00:00+03:00",
-          "title": "ByCar батл",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T13:00:00+03:00",
-          "stop": "2026-08-19T15:00:00+03:00",
-          "title": "Автоподія",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T15:00:00+03:00",
-          "stop": "2026-08-19T16:00:00+03:00",
-          "title": "Мотоспорт. MotoGP. Сезон 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T16:00:00+03:00",
-          "stop": "2026-08-19T19:00:00+03:00",
-          "title": "Як працюють машини",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T19:00:00+03:00",
-          "stop": "2026-08-19T20:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T20:00:00+03:00",
-          "stop": "2026-08-19T21:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T21:00:00+03:00",
-          "stop": "2026-08-19T22:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T22:00:00+03:00",
-          "stop": "2026-08-20T07:00:00+03:00",
-          "title": "Мотоспорт. MotoGP. Сезон 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-20",
       "programs": [
@@ -274,6 +178,88 @@
           "start": "2026-08-21T23:00:00+03:00",
           "stop": "2026-08-22T08:30:00+03:00",
           "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "programs": [
+        {
+          "start": "2026-08-22T08:30:00+03:00",
+          "stop": "2026-08-22T09:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T09:00:00+03:00",
+          "stop": "2026-08-22T10:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T10:00:00+03:00",
+          "stop": "2026-08-22T11:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T11:00:00+03:00",
+          "stop": "2026-08-22T12:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T12:00:00+03:00",
+          "stop": "2026-08-22T15:00:00+03:00",
+          "title": "Мотоспорт. MotoGP. Сезон 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T15:00:00+03:00",
+          "stop": "2026-08-22T17:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T17:00:00+03:00",
+          "stop": "2026-08-22T19:00:00+03:00",
+          "title": "Автоподія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T19:00:00+03:00",
+          "stop": "2026-08-22T20:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T20:00:00+03:00",
+          "stop": "2026-08-22T21:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T21:00:00+03:00",
+          "stop": "2026-08-22T23:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T23:00:00+03:00",
+          "stop": "2026-08-23T07:00:00+03:00",
+          "title": "Мотоспорт. MotoGP. Сезон 2026",
           "description": "L",
           "category": null
         }

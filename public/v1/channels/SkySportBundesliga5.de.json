@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-19T01:54:07.266493+00:00",
+  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-08-19",
-      "programs": [
-        {
-          "start": "2026-08-19T07:00:00+03:00",
-          "stop": "2026-08-19T15:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T15:00:00+03:00",
-          "stop": "2026-08-19T17:00:00+03:00",
-          "title": "TEST 2. BL: SpVgg Greuther Fürth – 1. FC Magdeburg, 21. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T17:00:00+03:00",
-          "stop": "2026-08-19T21:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T21:00:00+03:00",
-          "stop": "2026-08-19T23:00:00+03:00",
-          "title": "TEST 2. BL: SpVgg Greuther Fürth – 1. FC Magdeburg, 21. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-19T23:00:00+03:00",
-          "stop": "2026-08-20T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-20",
       "programs": [
@@ -113,6 +73,32 @@
           "start": "2026-08-21T17:00:00+03:00",
           "stop": "2026-08-22T07:00:00+03:00",
           "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-22",
+      "programs": [
+        {
+          "start": "2026-08-22T07:00:00+03:00",
+          "stop": "2026-08-22T20:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T20:10:00+03:00",
+          "stop": "2026-08-22T20:30:00+03:00",
+          "title": "Es folgt Admiral Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-22T20:30:00+03:00",
+          "stop": "2026-08-23T00:15:00+03:00",
+          "title": "Live BL: Borussia Dortmund – FC Bayern München, Franz-Beckenbauer-Supercup 2026",
           "description": "L",
           "category": null
         }
