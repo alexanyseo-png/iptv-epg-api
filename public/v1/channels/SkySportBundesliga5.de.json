@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
+  "generatedAt": "2026-08-21T01:58:58.377956+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-08-20",
-      "programs": [
-        {
-          "start": "2026-08-20T07:00:00+03:00",
-          "stop": "2026-08-20T15:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T15:00:00+03:00",
-          "stop": "2026-08-20T17:00:00+03:00",
-          "title": "TEST 2. BL: SpVgg Greuther Fürth – 1. FC Magdeburg, 21. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T17:00:00+03:00",
-          "stop": "2026-08-20T21:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T21:00:00+03:00",
-          "stop": "2026-08-20T23:00:00+03:00",
-          "title": "TEST 2. BL: SpVgg Greuther Fürth – 1. FC Magdeburg, 21. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T23:00:00+03:00",
-          "stop": "2026-08-21T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-21",
       "programs": [
@@ -99,6 +59,25 @@
           "start": "2026-08-22T20:30:00+03:00",
           "stop": "2026-08-23T00:15:00+03:00",
           "title": "Live BL: Borussia Dortmund – FC Bayern München, Franz-Beckenbauer-Supercup 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "programs": [
+        {
+          "start": "2026-08-23T00:15:00+03:00",
+          "stop": "2026-08-23T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T07:00:00+03:00",
+          "stop": "2026-08-24T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

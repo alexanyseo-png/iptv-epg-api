@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
+  "generatedAt": "2026-08-21T01:58:58.377956+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-08-20",
-      "programs": [
-        {
-          "start": "2026-08-20T01:20:00+03:00",
-          "stop": "2026-08-20T03:10:00+03:00",
-          "title": "х/ф Легенда о самбо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T03:10:00+03:00",
-          "stop": "2026-08-20T05:10:00+03:00",
-          "title": "х/ф На острие",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T05:10:00+03:00",
-          "stop": "2026-08-20T06:05:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T06:05:00+03:00",
-          "stop": "2026-08-20T07:30:00+03:00",
-          "title": "х/ф Калачи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T07:30:00+03:00",
-          "stop": "2026-08-20T15:00:00+03:00",
-          "title": "т/с Курорт цвета хаки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T15:00:00+03:00",
-          "stop": "2026-08-21T02:50:00+03:00",
-          "title": "т/с Мажор",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-21",
       "programs": [
@@ -169,6 +122,67 @@
           "start": "2026-08-22T23:00:00+03:00",
           "stop": "2026-08-23T00:40:00+03:00",
           "title": "х/ф Воры в законе",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "programs": [
+        {
+          "start": "2026-08-23T00:40:00+03:00",
+          "stop": "2026-08-23T02:10:00+03:00",
+          "title": "х/ф Криминальный квартет",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T02:10:00+03:00",
+          "stop": "2026-08-23T03:25:00+03:00",
+          "title": "х/ф Отряд особого назначения",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T03:25:00+03:00",
+          "stop": "2026-08-23T05:10:00+03:00",
+          "title": "х/ф Кадет",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T05:10:00+03:00",
+          "stop": "2026-08-23T07:35:00+03:00",
+          "title": "х/ф Волкодав из рода Серых Псов",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T07:35:00+03:00",
+          "stop": "2026-08-23T10:00:00+03:00",
+          "title": "х/ф Викинг",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T10:00:00+03:00",
+          "stop": "2026-08-23T16:00:00+03:00",
+          "title": "т/с Собор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T16:00:00+03:00",
+          "stop": "2026-08-23T22:10:00+03:00",
+          "title": "т/с Собор",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T22:10:00+03:00",
+          "stop": "2026-08-23T23:10:00+03:00",
+          "title": "х/ф Слуга государев. Режиссерская версия",
           "description": "L",
           "category": null
         }

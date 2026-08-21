@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-20T01:52:53.446510+00:00",
+  "generatedAt": "2026-08-21T01:58:58.377956+00:00",
   "available": true,
-  "programmeCount": 47,
+  "programmeCount": 61,
   "days": [
-    {
-      "date": "2026-08-20",
-      "programs": [
-        {
-          "start": "2026-08-20T03:00:00+03:00",
-          "stop": "2026-08-20T03:02:00+03:00",
-          "title": "ҚР Гимны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T03:02:00+03:00",
-          "stop": "2026-08-20T05:00:00+03:00",
-          "title": "Уақыт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T05:00:00+03:00",
-          "stop": "2026-08-20T07:00:00+03:00",
-          "title": "Оян.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T07:00:00+03:00",
-          "stop": "2026-08-20T08:00:00+03:00",
-          "title": "Covershow.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T08:00:00+03:00",
-          "stop": "2026-08-20T11:00:00+03:00",
-          "title": "т/с Үлкен үй.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T11:00:00+03:00",
-          "stop": "2026-08-20T12:00:00+03:00",
-          "title": "ОйнаIQ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T12:00:00+03:00",
-          "stop": "2026-08-20T13:00:00+03:00",
-          "title": "м/ф Турбозавры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T13:00:00+03:00",
-          "stop": "2026-08-20T13:30:00+03:00",
-          "title": "Халық таңдауы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T13:30:00+03:00",
-          "stop": "2026-08-20T17:00:00+03:00",
-          "title": "т/с Келінжан.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T17:00:00+03:00",
-          "stop": "2026-08-20T17:30:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T17:30:00+03:00",
-          "stop": "2026-08-20T18:00:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T18:00:00+03:00",
-          "stop": "2026-08-20T19:15:00+03:00",
-          "title": "т/с Келінжан.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T19:15:00+03:00",
-          "stop": "2026-08-20T21:00:00+03:00",
-          "title": "х/ф Ва-Банк.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T21:00:00+03:00",
-          "stop": "2026-08-20T22:45:00+03:00",
-          "title": "т/с Ар алдында.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T22:45:00+03:00",
-          "stop": "2026-08-20T23:00:00+03:00",
-          "title": "т/с Райское место.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-20T23:00:00+03:00",
-          "stop": "2026-08-21T03:00:00+03:00",
-          "title": "ҚР Гимны.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-21",
       "programs": [
@@ -350,6 +233,221 @@
         {
           "start": "2026-08-22T23:00:00+03:00",
           "stop": "2026-08-23T03:00:00+03:00",
+          "title": "ҚР Гимны.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-23",
+      "programs": [
+        {
+          "start": "2026-08-23T03:00:00+03:00",
+          "stop": "2026-08-23T03:02:00+03:00",
+          "title": "ҚР Гимны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T03:02:00+03:00",
+          "stop": "2026-08-23T04:00:00+03:00",
+          "title": "Әке бақыты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T04:00:00+03:00",
+          "stop": "2026-08-23T06:00:00+03:00",
+          "title": "Мен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T06:00:00+03:00",
+          "stop": "2026-08-23T06:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T06:10:00+03:00",
+          "stop": "2026-08-23T07:00:00+03:00",
+          "title": "т/с Бозторғай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T07:00:00+03:00",
+          "stop": "2026-08-23T07:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T07:10:00+03:00",
+          "stop": "2026-08-23T09:00:00+03:00",
+          "title": "т/с Бозторғай.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T09:00:00+03:00",
+          "stop": "2026-08-23T10:00:00+03:00",
+          "title": "м/ф Принцесса и дракон.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T10:00:00+03:00",
+          "stop": "2026-08-23T10:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T10:10:00+03:00",
+          "stop": "2026-08-23T11:00:00+03:00",
+          "title": "м/ф Турбозавры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T11:00:00+03:00",
+          "stop": "2026-08-23T11:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T11:10:00+03:00",
+          "stop": "2026-08-23T12:30:00+03:00",
+          "title": "х/ф Сын Рэмбо.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T12:30:00+03:00",
+          "stop": "2026-08-23T13:00:00+03:00",
+          "title": "Халық таңдауы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T13:00:00+03:00",
+          "stop": "2026-08-23T14:15:00+03:00",
+          "title": "Қызық times.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T14:15:00+03:00",
+          "stop": "2026-08-23T15:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T15:00:00+03:00",
+          "stop": "2026-08-23T15:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T15:10:00+03:00",
+          "stop": "2026-08-23T16:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T16:00:00+03:00",
+          "stop": "2026-08-23T16:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T16:10:00+03:00",
+          "stop": "2026-08-23T17:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T17:00:00+03:00",
+          "stop": "2026-08-23T17:30:00+03:00",
+          "title": "Халық таңдауы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T17:30:00+03:00",
+          "stop": "2026-08-23T18:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T18:00:00+03:00",
+          "stop": "2026-08-23T18:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T18:10:00+03:00",
+          "stop": "2026-08-23T19:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T19:00:00+03:00",
+          "stop": "2026-08-23T19:10:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T19:10:00+03:00",
+          "stop": "2026-08-23T20:50:00+03:00",
+          "title": "х/ф Управление гневом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T20:50:00+03:00",
+          "stop": "2026-08-23T22:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T22:00:00+03:00",
+          "stop": "2026-08-23T22:05:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T22:05:00+03:00",
+          "stop": "2026-08-23T22:20:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T22:20:00+03:00",
+          "stop": "2026-08-23T23:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-23T23:00:00+03:00",
+          "stop": "2026-08-24T00:00:00+03:00",
           "title": "ҚР Гимны.",
           "description": "L",
           "category": null
