@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-21T01:58:58.377956+00:00",
+  "generatedAt": "2026-08-22T01:51:42.679321+00:00",
   "available": true,
-  "programmeCount": 24,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-21",
-      "programs": [
-        {
-          "start": "2026-08-21T00:00:00+03:00",
-          "stop": "2026-08-21T01:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T01:00:00+03:00",
-          "stop": "2026-08-21T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T04:00:00+03:00",
-          "stop": "2026-08-21T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T08:00:00+03:00",
-          "stop": "2026-08-21T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T09:00:00+03:00",
-          "stop": "2026-08-21T10:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T10:00:00+03:00",
-          "stop": "2026-08-21T12:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T12:00:00+03:00",
-          "stop": "2026-08-21T13:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T13:00:00+03:00",
-          "stop": "2026-08-21T14:00:00+03:00",
-          "title": "Best Ballads",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T14:00:00+03:00",
-          "stop": "2026-08-21T15:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T15:00:00+03:00",
-          "stop": "2026-08-21T16:00:00+03:00",
-          "title": "Best 90's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-21T16:00:00+03:00",
-          "stop": "2026-08-22T01:00:00+03:00",
-          "title": "Top 100. Polska lata dwutysięczne",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-22",
       "programs": [
@@ -190,6 +108,46 @@
           "start": "2026-08-23T14:00:00+03:00",
           "stop": "2026-08-24T01:00:00+03:00",
           "title": "Top 100 American Rock",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "programs": [
+        {
+          "start": "2026-08-24T01:00:00+03:00",
+          "stop": "2026-08-24T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T04:00:00+03:00",
+          "stop": "2026-08-24T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T08:00:00+03:00",
+          "stop": "2026-08-24T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T09:00:00+03:00",
+          "stop": "2026-08-24T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T10:00:00+03:00",
+          "stop": "2026-08-24T12:00:00+03:00",
+          "title": "Best 80's",
           "description": "L",
           "category": null
         }
