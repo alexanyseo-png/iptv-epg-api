@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-22T01:51:42.679321+00:00",
+  "generatedAt": "2026-08-23T02:00:49.280135+00:00",
   "available": true,
-  "programmeCount": 20,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-08-22",
-      "programs": [
-        {
-          "start": "2026-08-22T01:00:00+03:00",
-          "stop": "2026-08-22T02:00:00+03:00",
-          "title": "⋗ NFL GameDay Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T02:00:00+03:00",
-          "stop": "2026-08-22T05:00:00+03:00",
-          "title": "⋗ NFL Football «New York Jets at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T05:00:00+03:00",
-          "stop": "2026-08-22T07:00:00+03:00",
-          "title": "⋗ NFL Football «Green Bay Packers at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T07:00:00+03:00",
-          "stop": "2026-08-22T08:00:00+03:00",
-          "title": "⋗ NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T08:00:00+03:00",
-          "stop": "2026-08-22T10:30:00+03:00",
-          "title": "NFL Football «New York Jets at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T10:30:00+03:00",
-          "stop": "2026-08-22T13:00:00+03:00",
-          "title": "NFL Football «Carolina Panthers at Jacksonville Jaguars» (EverBank Stadium, Jacksonville, FL, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T13:00:00+03:00",
-          "stop": "2026-08-22T16:00:00+03:00",
-          "title": "NFL Football «New York Jets at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T16:00:00+03:00",
-          "stop": "2026-08-22T19:00:00+03:00",
-          "title": "NFL Football «Green Bay Packers at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T19:00:00+03:00",
-          "stop": "2026-08-22T20:00:00+03:00",
-          "title": "⋗ NFL GameDay Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T20:00:00+03:00",
-          "stop": "2026-08-22T23:00:00+03:00",
-          "title": "⋗ NFL Football «Buffalo Bills at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T23:00:00+03:00",
-          "stop": "2026-08-23T02:00:00+03:00",
-          "title": "⋗ NFL Football «New York Giants at Miami Dolphins» (Hard Rock Stadium, Miami Gardens, FL, USA)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-23",
       "programs": [
@@ -160,8 +78,15 @@
       "programs": [
         {
           "start": "2026-08-24T01:00:00+03:00",
-          "stop": "2026-08-24T02:00:00+03:00",
+          "stop": "2026-08-24T04:00:00+03:00",
           "title": "NFL Football «Dallas Cowboys at Arizona Cardinals» (State Farm Stadium, Glendale, AZ, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T04:00:00+03:00",
+          "stop": "2026-08-24T05:00:00+03:00",
+          "title": "NFL Football «Green Bay Packers at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
           "description": "L",
           "category": null
         }

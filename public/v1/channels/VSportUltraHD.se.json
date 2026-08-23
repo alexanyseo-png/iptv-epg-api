@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-22T01:51:42.679321+00:00",
+  "generatedAt": "2026-08-23T02:00:49.280135+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-08-22",
-      "programs": [
-        {
-          "start": "2026-08-22T11:00:00+03:00",
-          "stop": "2026-08-22T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T19:00:00+03:00",
-          "stop": "2026-08-22T22:00:00+03:00",
-          "title": "Formula 1: Unkarin GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-22T22:00:00+03:00",
-          "stop": "2026-08-23T11:00:00+03:00",
-          "title": "UEFA Conference League: Crystal Palace – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-23",
       "programs": [
@@ -66,6 +40,18 @@
           "start": "2026-08-23T22:00:00+03:00",
           "stop": "2026-08-24T11:00:00+03:00",
           "title": "Formula 1: Alankomaiden GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-24",
+      "programs": [
+        {
+          "start": "2026-08-24T11:00:00+03:00",
+          "stop": "2026-08-24T19:00:00+03:00",
+          "title": "RedBull TV",
           "description": "L",
           "category": null
         }
