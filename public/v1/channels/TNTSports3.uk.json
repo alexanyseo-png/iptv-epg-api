@@ -8,88 +8,13 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-23T02:00:49.280135+00:00",
+  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-23",
-      "programs": [
-        {
-          "start": "2026-08-23T01:00:00+03:00",
-          "stop": "2026-08-23T01:30:00+03:00",
-          "title": "CPL T20. St. Lucia Kings v Jamaica Kingsmen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T01:30:00+03:00",
-          "stop": "2026-08-23T05:45:00+03:00",
-          "title": "⋗ CPL T20. Antigua & Barbuda Falcons v Trinbago Knight Riders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T05:45:00+03:00",
-          "stop": "2026-08-23T07:15:00+03:00",
-          "title": "Ultimate Pool Champions League. Group B",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T07:15:00+03:00",
-          "stop": "2026-08-23T15:30:00+03:00",
-          "title": "⋗ Test Cricket. 2nd Test, Day 1: Sri Lanka v India",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T15:30:00+03:00",
-          "stop": "2026-08-23T19:00:00+03:00",
-          "title": "⋗ Vuelta a España. Stage 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T19:00:00+03:00",
-          "stop": "2026-08-23T19:30:00+03:00",
-          "title": "MLB Plays of the Week",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T19:30:00+03:00",
-          "stop": "2026-08-23T20:30:00+03:00",
-          "title": "Major League Baseball. Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T20:30:00+03:00",
-          "stop": "2026-08-23T23:30:00+03:00",
-          "title": "⋗ Major League Baseball. St. Louis Cardinals at Philadelphia Phillies",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-23T23:30:00+03:00",
-          "stop": "2026-08-24T00:00:00+03:00",
-          "title": "Premier League Stories. Series 6 Episode 12: Coventry Rising",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-24",
       "programs": [
-        {
-          "start": "2026-08-24T00:00:00+03:00",
-          "stop": "2026-08-24T01:00:00+03:00",
-          "title": "Vuelta a España. Stage 2",
-          "description": "L",
-          "category": null
-        },
         {
           "start": "2026-08-24T01:00:00+03:00",
           "stop": "2026-08-24T01:30:00+03:00",
@@ -106,8 +31,113 @@
         },
         {
           "start": "2026-08-24T05:45:00+03:00",
-          "stop": "2026-08-24T06:45:00+03:00",
+          "stop": "2026-08-24T06:00:00+03:00",
           "title": "TNT Sports Cricket Reload. Sri Lanka v England: 1st ODI",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T06:00:00+03:00",
+          "stop": "2026-08-24T06:15:00+03:00",
+          "title": "TNT Sports Cricket Reload. Sri Lanka v England: 2nd ODI",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T06:15:00+03:00",
+          "stop": "2026-08-24T06:30:00+03:00",
+          "title": "TNT Sports Cricket Reload. Sri Lanka v England: 3rd ODI",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T06:30:00+03:00",
+          "stop": "2026-08-24T06:45:00+03:00",
+          "title": "TNT Sports Cricket Reload. Sri Lanka v England: 1st T20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T06:45:00+03:00",
+          "stop": "2026-08-24T07:00:00+03:00",
+          "title": "TNT Sports Cricket Reload. Sri Lanka v England: 2nd T20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T07:00:00+03:00",
+          "stop": "2026-08-24T07:15:00+03:00",
+          "title": "TNT Sports Cricket Reload. Sri Lanka v England: 3rd T20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T07:15:00+03:00",
+          "stop": "2026-08-24T07:30:00+03:00",
+          "title": "UEFA Champions League: Stories of the Finals. 1994: AC Milan v Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T07:30:00+03:00",
+          "stop": "2026-08-24T08:00:00+03:00",
+          "title": "UEFA Champions League: Stories of the Finals. 2008 and 2014",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T08:00:00+03:00",
+          "stop": "2026-08-24T09:30:00+03:00",
+          "title": "LIV Golf League. Indianapolis: Round 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T09:30:00+03:00",
+          "stop": "2026-08-24T10:30:00+03:00",
+          "title": "Fishing: On the Bank. UK Angling Championships: Round 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T10:30:00+03:00",
+          "stop": "2026-08-24T11:30:00+03:00",
+          "title": "Serie A Football. Genoa v Napoli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T11:30:00+03:00",
+          "stop": "2026-08-24T12:30:00+03:00",
+          "title": "Serie A Football. Torino v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T12:30:00+03:00",
+          "stop": "2026-08-24T13:00:00+03:00",
+          "title": "Premier League: The Big Interview. Series 26 Episode 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T13:00:00+03:00",
+          "stop": "2026-08-24T14:30:00+03:00",
+          "title": "Premier League. Hull City v Manchester United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T14:30:00+03:00",
+          "stop": "2026-08-24T15:30:00+03:00",
+          "title": "Vuelta a España. Stage 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-24T15:30:00+03:00",
+          "stop": "2026-08-24T19:00:00+03:00",
+          "title": "⋗ Vuelta a España. Stage 3",
           "description": "L",
           "category": null
         }
