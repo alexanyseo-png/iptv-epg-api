@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-08-24",
-      "programs": [
-        {
-          "start": "2026-08-24T00:00:00+03:00",
-          "stop": "2026-08-24T03:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T03:00:00+03:00",
-          "stop": "2026-08-24T06:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T06:00:00+03:00",
-          "stop": "2026-08-24T09:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T09:00:00+03:00",
-          "stop": "2026-08-24T12:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T12:00:00+03:00",
-          "stop": "2026-08-24T15:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T15:00:00+03:00",
-          "stop": "2026-08-24T18:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T18:00:00+03:00",
-          "stop": "2026-08-24T21:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T21:00:00+03:00",
-          "stop": "2026-08-25T00:00:00+03:00",
-          "title": "Sochi Live HD.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-25",
       "programs": [
@@ -85,7 +24,171 @@
         },
         {
           "start": "2026-08-25T03:00:00+03:00",
-          "stop": "2026-08-25T04:00:00+03:00",
+          "stop": "2026-08-25T06:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T06:00:00+03:00",
+          "stop": "2026-08-25T09:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:00:00+03:00",
+          "stop": "2026-08-25T12:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:00:00+03:00",
+          "stop": "2026-08-25T15:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:00:00+03:00",
+          "stop": "2026-08-25T18:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:00:00+03:00",
+          "stop": "2026-08-25T21:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:00:00+03:00",
+          "stop": "2026-08-26T00:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:00:00+03:00",
+          "stop": "2026-08-26T03:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:00:00+03:00",
+          "stop": "2026-08-26T06:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T06:00:00+03:00",
+          "stop": "2026-08-26T09:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T09:00:00+03:00",
+          "stop": "2026-08-26T12:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:00:00+03:00",
+          "stop": "2026-08-26T15:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:00:00+03:00",
+          "stop": "2026-08-26T18:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T18:00:00+03:00",
+          "stop": "2026-08-26T21:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:00:00+03:00",
+          "stop": "2026-08-27T00:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:00:00+03:00",
+          "stop": "2026-08-27T03:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:00:00+03:00",
+          "stop": "2026-08-27T06:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T06:00:00+03:00",
+          "stop": "2026-08-27T09:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:00:00+03:00",
+          "stop": "2026-08-27T12:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:00:00+03:00",
+          "stop": "2026-08-27T15:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:00:00+03:00",
+          "stop": "2026-08-27T18:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:00:00+03:00",
+          "stop": "2026-08-27T21:00:00+03:00",
+          "title": "Sochi Live HD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:00:00+03:00",
+          "stop": "2026-08-28T00:00:00+03:00",
           "title": "Sochi Live HD.",
           "description": "L",
           "category": null

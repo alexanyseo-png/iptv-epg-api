@@ -8,52 +8,538 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 74,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T00:00:00+03:00",
-          "stop": "2026-08-24T00:25:00+03:00",
+          "start": "2026-08-25T00:00:00+03:00",
+          "stop": "2026-08-25T00:40:00+03:00",
           "title": "BBC News and Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T00:25:00+03:00",
-          "stop": "2026-08-24T00:30:00+03:00",
-          "title": "BBC London.",
+          "start": "2026-08-25T00:40:00+03:00",
+          "stop": "2026-08-25T01:10:00+03:00",
+          "title": "Have I Got News for You.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T00:30:00+03:00",
-          "stop": "2026-08-24T01:30:00+03:00",
-          "title": "Match of the Day.",
+          "start": "2026-08-25T01:10:00+03:00",
+          "stop": "2026-08-25T03:10:00+03:00",
+          "title": "Film: Emily.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T01:30:00+03:00",
-          "stop": "2026-08-24T03:15:00+03:00",
-          "title": "Film: Edge of Darkness.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T03:15:00+03:00",
-          "stop": "2026-08-24T03:20:00+03:00",
+          "start": "2026-08-25T03:10:00+03:00",
+          "stop": "2026-08-25T03:15:00+03:00",
           "title": "Weather For the Week Ahead.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T03:20:00+03:00",
-          "stop": "2026-08-24T04:20:00+03:00",
+          "start": "2026-08-25T03:15:00+03:00",
+          "stop": "2026-08-25T08:00:00+03:00",
           "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:00:00+03:00",
+          "stop": "2026-08-25T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:30:00+03:00",
+          "stop": "2026-08-25T12:30:00+03:00",
+          "title": "Morning Live: Top Tips and Best Bits.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:30:00+03:00",
+          "stop": "2026-08-25T13:15:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T13:15:00+03:00",
+          "stop": "2026-08-25T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T14:15:00+03:00",
+          "stop": "2026-08-25T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Hungerford 22\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:00:00+03:00",
+          "stop": "2026-08-25T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:35:00+03:00",
+          "stop": "2026-08-25T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:45:00+03:00",
+          "stop": "2026-08-25T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:00:00+03:00",
+          "stop": "2026-08-25T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:45:00+03:00",
+          "stop": "2026-08-25T17:30:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T17:30:00+03:00",
+          "stop": "2026-08-25T18:30:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:30:00+03:00",
+          "stop": "2026-08-25T19:15:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:15:00+03:00",
+          "stop": "2026-08-25T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:00:00+03:00",
+          "stop": "2026-08-25T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:30:00+03:00",
+          "stop": "2026-08-25T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:00:00+03:00",
+          "stop": "2026-08-25T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:30:00+03:00",
+          "stop": "2026-08-25T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T22:00:00+03:00",
+          "stop": "2026-08-25T23:00:00+03:00",
+          "title": "The Great British Sewing Bee.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T23:00:00+03:00",
+          "stop": "2026-08-26T00:00:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:00:00+03:00",
+          "stop": "2026-08-26T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T00:30:00+03:00",
+          "stop": "2026-08-26T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T00:40:00+03:00",
+          "stop": "2026-08-26T02:20:00+03:00",
+          "title": "Film: Arthur the King.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:20:00+03:00",
+          "stop": "2026-08-26T03:05:00+03:00",
+          "title": "The Hit List.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:05:00+03:00",
+          "stop": "2026-08-26T03:10:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:10:00+03:00",
+          "stop": "2026-08-26T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:00:00+03:00",
+          "stop": "2026-08-26T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T11:30:00+03:00",
+          "stop": "2026-08-26T12:30:00+03:00",
+          "title": "Morning Live: Top Tips and Best Bits.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:30:00+03:00",
+          "stop": "2026-08-26T13:15:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T13:15:00+03:00",
+          "stop": "2026-08-26T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:15:00+03:00",
+          "stop": "2026-08-26T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Collectors Special\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:00:00+03:00",
+          "stop": "2026-08-26T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:35:00+03:00",
+          "stop": "2026-08-26T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:45:00+03:00",
+          "stop": "2026-08-26T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:00:00+03:00",
+          "stop": "2026-08-26T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:45:00+03:00",
+          "stop": "2026-08-26T17:30:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:30:00+03:00",
+          "stop": "2026-08-26T18:30:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T18:30:00+03:00",
+          "stop": "2026-08-26T19:15:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:15:00+03:00",
+          "stop": "2026-08-26T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:00:00+03:00",
+          "stop": "2026-08-26T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:30:00+03:00",
+          "stop": "2026-08-26T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:00:00+03:00",
+          "stop": "2026-08-26T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:30:00+03:00",
+          "stop": "2026-08-26T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:00:00+03:00",
+          "stop": "2026-08-26T23:00:00+03:00",
+          "title": "Fake or Fortune? \"What Happened Next? Music Memorabilia\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T23:00:00+03:00",
+          "stop": "2026-08-27T00:00:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:00:00+03:00",
+          "stop": "2026-08-27T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T00:30:00+03:00",
+          "stop": "2026-08-27T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T00:40:00+03:00",
+          "stop": "2026-08-27T01:30:00+03:00",
+          "title": "UEFA Champions League Play-Off Highlights.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:30:00+03:00",
+          "stop": "2026-08-27T02:45:00+03:00",
+          "title": "Film: The Shallows.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:45:00+03:00",
+          "stop": "2026-08-27T02:55:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:55:00+03:00",
+          "stop": "2026-08-27T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:00:00+03:00",
+          "stop": "2026-08-27T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:30:00+03:00",
+          "stop": "2026-08-27T12:30:00+03:00",
+          "title": "Morning Live: Top Tips and Best Bits.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:30:00+03:00",
+          "stop": "2026-08-27T13:15:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:15:00+03:00",
+          "stop": "2026-08-27T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T14:15:00+03:00",
+          "stop": "2026-08-27T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Detling 25\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:00:00+03:00",
+          "stop": "2026-08-27T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:35:00+03:00",
+          "stop": "2026-08-27T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:45:00+03:00",
+          "stop": "2026-08-27T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:00:00+03:00",
+          "stop": "2026-08-27T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:45:00+03:00",
+          "stop": "2026-08-27T17:30:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T17:30:00+03:00",
+          "stop": "2026-08-27T18:30:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:30:00+03:00",
+          "stop": "2026-08-27T19:15:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:15:00+03:00",
+          "stop": "2026-08-27T20:00:00+03:00",
+          "title": "Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:00:00+03:00",
+          "stop": "2026-08-27T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:30:00+03:00",
+          "stop": "2026-08-27T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:00:00+03:00",
+          "stop": "2026-08-27T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:30:00+03:00",
+          "stop": "2026-08-27T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:00:00+03:00",
+          "stop": "2026-08-27T23:00:00+03:00",
+          "title": "Dragons' Den.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T23:00:00+03:00",
+          "stop": "2026-08-28T00:00:00+03:00",
+          "title": "Ludwig.",
           "description": "L",
           "category": null
         }

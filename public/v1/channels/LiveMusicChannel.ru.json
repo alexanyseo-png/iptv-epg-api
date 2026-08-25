@@ -8,31 +8,433 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 59,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T01:05:00+03:00",
-          "stop": "2026-08-24T02:30:00+03:00",
-          "title": "Popularis (Эми Грант в Форт-Уорт)",
+          "start": "2026-08-25T00:00:00+03:00",
+          "stop": "2026-08-25T02:15:00+03:00",
+          "title": "Crossover (Шедевры Эндрю Ллойд Уэббера в Пекине)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:30:00+03:00",
-          "stop": "2026-08-24T02:45:00+03:00",
-          "title": "Highlights",
+          "start": "2026-08-25T02:15:00+03:00",
+          "stop": "2026-08-25T03:50:00+03:00",
+          "title": "Rock Ages (Пол Саймон в Нью Йорке)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:45:00+03:00",
-          "stop": "2026-08-24T03:45:00+03:00",
-          "title": "Rock Ages (Джефф Линн и Electric Light Orchestra в Гайд-Парке)",
+          "start": "2026-08-25T03:50:00+03:00",
+          "stop": "2026-08-25T04:05:00+03:00",
+          "title": "Highlights (ep. 2756)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T04:05:00+03:00",
+          "stop": "2026-08-25T07:05:00+03:00",
+          "title": "Rock Ages (Группа Дэвида Мэтьюса в амфитеатре Горджа)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:05:00+03:00",
+          "stop": "2026-08-25T07:20:00+03:00",
+          "title": "Highlights. 524 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:20:00+03:00",
+          "stop": "2026-08-25T09:25:00+03:00",
+          "title": "Popularis (Вечер в Монтре с Jamiroquai)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:25:00+03:00",
+          "stop": "2026-08-25T11:15:00+03:00",
+          "title": "Rock Ages (Клифф Ричард – большой концерт в Сиднее)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:15:00+03:00",
+          "stop": "2026-08-25T13:05:00+03:00",
+          "title": "Rock Ages (Крис Ри в Бирмингеме)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T13:05:00+03:00",
+          "stop": "2026-08-25T14:45:00+03:00",
+          "title": "Crossover (Ill Divo в Барселоне)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T14:45:00+03:00",
+          "stop": "2026-08-25T15:00:00+03:00",
+          "title": "Highlights (825 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:00:00+03:00",
+          "stop": "2026-08-25T16:05:00+03:00",
+          "title": "Crossover (Шедевры кино с Андреа Бочелли)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:05:00+03:00",
+          "stop": "2026-08-25T18:00:00+03:00",
+          "title": "Popularis (Тина Тернер в Арнеме)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:00:00+03:00",
+          "stop": "2026-08-25T18:10:00+03:00",
+          "title": "Highlights (ep. 340)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:10:00+03:00",
+          "stop": "2026-08-25T20:05:00+03:00",
+          "title": "Rock Ages (Джо Бонамасса: вечер памяти Мадди Уотерса и Хайлина Вульфа)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:05:00+03:00",
+          "stop": "2026-08-25T20:15:00+03:00",
+          "title": "Highlights (ep. 915)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:15:00+03:00",
+          "stop": "2026-08-25T22:05:00+03:00",
+          "title": "Rock Ages (Ринго Старр в Лос-Анджелесе)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T22:05:00+03:00",
+          "stop": "2026-08-26T00:00:00+03:00",
+          "title": "Rock Ages (Роберт Плант и Led Zeppelin в Лондоне)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:00:00+03:00",
+          "stop": "2026-08-26T02:15:00+03:00",
+          "title": "Crossover (Шедевры Эндрю Ллойд Уэббера в Пекине)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:15:00+03:00",
+          "stop": "2026-08-26T03:50:00+03:00",
+          "title": "Rock Ages (Пол Саймон в Нью Йорке)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:50:00+03:00",
+          "stop": "2026-08-26T04:05:00+03:00",
+          "title": "Highlights (ep. 2756)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:05:00+03:00",
+          "stop": "2026-08-26T05:45:00+03:00",
+          "title": "Rock Ages (Том Джонс в Кардиффе)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T05:45:00+03:00",
+          "stop": "2026-08-26T07:00:00+03:00",
+          "title": "Jazz Rainbow (Вечер в Остине с Норой Джонс)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:00:00+03:00",
+          "stop": "2026-08-26T07:05:00+03:00",
+          "title": "Highlights (2219 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:05:00+03:00",
+          "stop": "2026-08-26T09:05:00+03:00",
+          "title": "Rock Ages (Ричард Томпсон в Глазго)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T09:05:00+03:00",
+          "stop": "2026-08-26T10:05:00+03:00",
+          "title": "Popularis (Кэтрин МакФи в Чикаго)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T10:05:00+03:00",
+          "stop": "2026-08-26T12:10:00+03:00",
+          "title": "Popularis (Тэйлор Свифт: «Говори!»)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:10:00+03:00",
+          "stop": "2026-08-26T14:10:00+03:00",
+          "title": "Rock Ages (Брайан Адамс в Лиссабоне)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:10:00+03:00",
+          "stop": "2026-08-26T16:05:00+03:00",
+          "title": "Popularis (Гленнис Грейс в «Хайникен Мьюзик Холл»)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:05:00+03:00",
+          "stop": "2026-08-26T17:40:00+03:00",
+          "title": "Rock Ages (Сороколетие альбома «Double Vision»)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:40:00+03:00",
+          "stop": "2026-08-26T17:50:00+03:00",
+          "title": "Highlights (ep. 408)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:50:00+03:00",
+          "stop": "2026-08-26T19:05:00+03:00",
+          "title": "Rock Ages (Дэвид Ковердейл и Whitesnake в Токио)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:05:00+03:00",
+          "stop": "2026-08-26T20:25:00+03:00",
+          "title": "Rock Ages (Вечер памяти Леонарда Коэна в Монреале)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:25:00+03:00",
+          "stop": "2026-08-26T20:45:00+03:00",
+          "title": "Highlights (1439 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:45:00+03:00",
+          "stop": "2026-08-26T22:05:00+03:00",
+          "title": "Arthouse (Ван Мориссон в Холливуд-боул)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:05:00+03:00",
+          "stop": "2026-08-27T00:40:00+03:00",
+          "title": "Rock Ages",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:40:00+03:00",
+          "stop": "2026-08-27T00:55:00+03:00",
+          "title": "Highlights (ep. 681)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T00:55:00+03:00",
+          "stop": "2026-08-27T01:05:00+03:00",
+          "title": "Highlights (ep. 261)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:05:00+03:00",
+          "stop": "2026-08-27T03:35:00+03:00",
+          "title": "Rock Ages (Билли Джоел – последний концерт стадиона Ши)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:35:00+03:00",
+          "stop": "2026-08-27T03:45:00+03:00",
+          "title": "Highlights (ep. 81)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:45:00+03:00",
+          "stop": "2026-08-27T04:05:00+03:00",
+          "title": "Highlights (ep. 339)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T04:05:00+03:00",
+          "stop": "2026-08-27T05:25:00+03:00",
+          "title": "Rock Ages (Брайан Мэй и Керри Элис на фестивале в Монтре)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T05:25:00+03:00",
+          "stop": "2026-08-27T05:35:00+03:00",
+          "title": "Highlights (891 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T05:35:00+03:00",
+          "stop": "2026-08-27T06:55:00+03:00",
+          "title": "Chanson (Винсенте Фернандес – дух Фламенко)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T06:55:00+03:00",
+          "stop": "2026-08-27T07:05:00+03:00",
+          "title": "Highlights. 141 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:05:00+03:00",
+          "stop": "2026-08-27T09:05:00+03:00",
+          "title": "Rock Ages (Bon Jovi в Мэдисон Сквер Гарден)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:05:00+03:00",
+          "stop": "2026-08-27T09:40:00+03:00",
+          "title": "Highlights (1036 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:40:00+03:00",
+          "stop": "2026-08-27T10:05:00+03:00",
+          "title": "Highlights (1584 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T10:05:00+03:00",
+          "stop": "2026-08-27T11:40:00+03:00",
+          "title": "Chanson (ZAZ – вечер на фестивале в Штудгарте)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:40:00+03:00",
+          "stop": "2026-08-27T11:50:00+03:00",
+          "title": "Highlights. 478 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:50:00+03:00",
+          "stop": "2026-08-27T13:25:00+03:00",
+          "title": "Rock Ages (Римский вечер с MUSE)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:25:00+03:00",
+          "stop": "2026-08-27T13:40:00+03:00",
+          "title": "Highlights (1206 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:40:00+03:00",
+          "stop": "2026-08-27T16:05:00+03:00",
+          "title": "Rock Ages (Мит Лоуф в Онтарио)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:05:00+03:00",
+          "stop": "2026-08-27T17:50:00+03:00",
+          "title": "Rock Ages (Бет Харт и Джо Бонамасса в Амстердаме)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T17:50:00+03:00",
+          "stop": "2026-08-27T18:05:00+03:00",
+          "title": "Highlights. 436 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:05:00+03:00",
+          "stop": "2026-08-27T19:05:00+03:00",
+          "title": "Crossover (Сара Брайтман – стремясь к мечте)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:05:00+03:00",
+          "stop": "2026-08-27T20:45:00+03:00",
+          "title": "Rock Ages (Том Джонс в Кардиффе)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:45:00+03:00",
+          "stop": "2026-08-27T22:00:00+03:00",
+          "title": "Jazz Rainbow (Вечер в Остине с Норой Джонс)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:00:00+03:00",
+          "stop": "2026-08-27T22:05:00+03:00",
+          "title": "Highlights (2219 с.)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:05:00+03:00",
+          "stop": "2026-08-28T00:05:00+03:00",
+          "title": "Rock Ages (Ричард Томпсон в Глазго)",
           "description": "L",
           "category": null
         }

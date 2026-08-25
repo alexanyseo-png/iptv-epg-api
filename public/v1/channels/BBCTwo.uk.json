@@ -8,52 +8,531 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 73,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T00:00:00+03:00",
-          "stop": "2026-08-24T02:00:00+03:00",
-          "title": "Film: Jaws.",
+          "start": "2026-08-25T00:00:00+03:00",
+          "stop": "2026-08-25T00:30:00+03:00",
+          "title": "Mortimer & Whitehouse: Gone Fishing.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:00:00+03:00",
-          "stop": "2026-08-24T03:00:00+03:00",
-          "title": "Murder Trial: Death of a Dog Walker.",
+          "start": "2026-08-25T00:30:00+03:00",
+          "stop": "2026-08-25T01:03:00+03:00",
+          "title": "Newsnight.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T03:00:00+03:00",
-          "stop": "2026-08-24T04:00:00+03:00",
-          "title": "Signed: Buried with Michael Sheen.",
+          "start": "2026-08-25T01:03:00+03:00",
+          "stop": "2026-08-25T01:05:00+03:00",
+          "title": "BBC Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T04:00:00+03:00",
-          "stop": "2026-08-24T04:30:00+03:00",
-          "title": "Signed: Ann Droid.",
+          "start": "2026-08-25T01:05:00+03:00",
+          "stop": "2026-08-25T02:55:00+03:00",
+          "title": "Jaws 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T04:30:00+03:00",
-          "stop": "2026-08-24T05:30:00+03:00",
-          "title": "Signed: Murder Trial: Death of a Dog Walker.",
+          "start": "2026-08-25T02:55:00+03:00",
+          "stop": "2026-08-25T03:50:00+03:00",
+          "title": "Countryfile. \"Adam's Young Farmers: Cumbria\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T05:30:00+03:00",
-          "stop": "2026-08-24T06:30:00+03:00",
+          "start": "2026-08-25T03:50:00+03:00",
+          "stop": "2026-08-25T04:45:00+03:00",
+          "title": "Bergerac. \"Fred\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T04:45:00+03:00",
+          "stop": "2026-08-25T08:30:00+03:00",
           "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:30:00+03:00",
+          "stop": "2026-08-25T09:15:00+03:00",
+          "title": "Bargain Hunt. \"Ardingly 22\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:15:00+03:00",
+          "stop": "2026-08-25T10:00:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T10:00:00+03:00",
+          "stop": "2026-08-25T11:00:00+03:00",
+          "title": "Signed. \"The Great British Sewing Bee\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:00:00+03:00",
+          "stop": "2026-08-25T15:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:00:00+03:00",
+          "stop": "2026-08-25T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 16: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:30:00+03:00",
+          "stop": "2026-08-25T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:15:00+03:00",
+          "stop": "2026-08-25T16:45:00+03:00",
+          "title": "Do You Know Your Place? \"Enniskillen\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:45:00+03:00",
+          "stop": "2026-08-25T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T17:30:00+03:00",
+          "stop": "2026-08-25T18:30:00+03:00",
+          "title": "Serengeti.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:30:00+03:00",
+          "stop": "2026-08-25T19:15:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:15:00+03:00",
+          "stop": "2026-08-25T20:00:00+03:00",
+          "title": "Flog It! \"Watts Gallery 12\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:00:00+03:00",
+          "stop": "2026-08-25T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Champions Week 2: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:30:00+03:00",
+          "stop": "2026-08-25T21:00:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Brest to St Brieuc\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:00:00+03:00",
+          "stop": "2026-08-25T21:30:00+03:00",
+          "title": "Nigellissima.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:30:00+03:00",
+          "stop": "2026-08-25T22:00:00+03:00",
+          "title": "Race Against the Tide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T22:00:00+03:00",
+          "stop": "2026-08-25T23:00:00+03:00",
+          "title": "Saving Lives at Sea.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T23:00:00+03:00",
+          "stop": "2026-08-26T00:00:00+03:00",
+          "title": "Emergency 24/7.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:00:00+03:00",
+          "stop": "2026-08-26T00:30:00+03:00",
+          "title": "Live at the Apollo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T00:30:00+03:00",
+          "stop": "2026-08-26T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T01:03:00+03:00",
+          "stop": "2026-08-26T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T01:05:00+03:00",
+          "stop": "2026-08-26T01:55:00+03:00",
+          "title": "Interview with the Vampire. \"The Failures\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T01:55:00+03:00",
+          "stop": "2026-08-26T02:55:00+03:00",
+          "title": "A House Through Time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:55:00+03:00",
+          "stop": "2026-08-26T03:55:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:55:00+03:00",
+          "stop": "2026-08-26T04:45:00+03:00",
+          "title": "Captive Audience: A Real American Horror Story.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:45:00+03:00",
+          "stop": "2026-08-26T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:30:00+03:00",
+          "stop": "2026-08-26T09:15:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T09:15:00+03:00",
+          "stop": "2026-08-26T10:00:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T10:00:00+03:00",
+          "stop": "2026-08-26T10:30:00+03:00",
+          "title": "Great Continental Railway Journeys. \"St Pancras to Brussels\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T10:30:00+03:00",
+          "stop": "2026-08-26T11:00:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Brussels to Ghent\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T11:00:00+03:00",
+          "stop": "2026-08-26T15:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:00:00+03:00",
+          "stop": "2026-08-26T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 16: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:30:00+03:00",
+          "stop": "2026-08-26T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:15:00+03:00",
+          "stop": "2026-08-26T16:45:00+03:00",
+          "title": "Do You Know Your Place? \"Abergavenny\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:45:00+03:00",
+          "stop": "2026-08-26T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:30:00+03:00",
+          "stop": "2026-08-26T18:30:00+03:00",
+          "title": "Serengeti.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T18:30:00+03:00",
+          "stop": "2026-08-26T19:10:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:10:00+03:00",
+          "stop": "2026-08-26T20:00:00+03:00",
+          "title": "Flog It! \"Chiddingstone 11\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:00:00+03:00",
+          "stop": "2026-08-26T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Champions Week 2: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:30:00+03:00",
+          "stop": "2026-08-26T21:00:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Rennes to Mont Saint-Michel\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:00:00+03:00",
+          "stop": "2026-08-26T22:00:00+03:00",
+          "title": "Celebrity Antiques Road Trip. \"Leslie Ash v Phil Daniels\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:00:00+03:00",
+          "stop": "2026-08-26T23:00:00+03:00",
+          "title": "Inside the Factory.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T23:00:00+03:00",
+          "stop": "2026-08-27T00:30:00+03:00",
+          "title": "9/11: Inside the President's War Room.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:30:00+03:00",
+          "stop": "2026-08-27T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:03:00+03:00",
+          "stop": "2026-08-27T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:05:00+03:00",
+          "stop": "2026-08-27T01:30:00+03:00",
+          "title": "Couples Therapy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:30:00+03:00",
+          "stop": "2026-08-27T02:00:00+03:00",
+          "title": "Couples Therapy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:00:00+03:00",
+          "stop": "2026-08-27T03:00:00+03:00",
+          "title": "Buried with Michael Sheen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:00:00+03:00",
+          "stop": "2026-08-27T04:00:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T04:00:00+03:00",
+          "stop": "2026-08-27T05:00:00+03:00",
+          "title": "Brexit: A Very British Civil War.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T05:00:00+03:00",
+          "stop": "2026-08-27T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:30:00+03:00",
+          "stop": "2026-08-27T09:15:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:15:00+03:00",
+          "stop": "2026-08-27T10:00:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T10:00:00+03:00",
+          "stop": "2026-08-27T11:00:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:00:00+03:00",
+          "stop": "2026-08-27T15:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:00:00+03:00",
+          "stop": "2026-08-27T15:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Week 16: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:30:00+03:00",
+          "stop": "2026-08-27T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:15:00+03:00",
+          "stop": "2026-08-27T16:45:00+03:00",
+          "title": "Do You Know Your Place? \"Bamburgh\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:45:00+03:00",
+          "stop": "2026-08-27T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T17:30:00+03:00",
+          "stop": "2026-08-27T18:30:00+03:00",
+          "title": "Serengeti.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:30:00+03:00",
+          "stop": "2026-08-27T19:05:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:05:00+03:00",
+          "stop": "2026-08-27T20:00:00+03:00",
+          "title": "Flog It! \"Barrow Hill\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:00:00+03:00",
+          "stop": "2026-08-27T20:30:00+03:00",
+          "title": "Richard Osman's House of Games. \"Champions Week 2: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:30:00+03:00",
+          "stop": "2026-08-27T21:00:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Bayeux to Argentan\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:00:00+03:00",
+          "stop": "2026-08-27T22:00:00+03:00",
+          "title": "Cricket: Today at the Test.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:00:00+03:00",
+          "stop": "2026-08-27T23:00:00+03:00",
+          "title": "The Big Deal with Steph McGovern.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T23:00:00+03:00",
+          "stop": "2026-08-28T00:00:00+03:00",
+          "title": "A House Through Time.",
           "description": "L",
           "category": null
         }

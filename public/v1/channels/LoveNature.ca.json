@@ -8,87 +8,608 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 84,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T00:40:00+03:00",
-          "stop": "2026-08-24T01:35:00+03:00",
-          "title": "Глубокое погружение в Австралию (The Wild West). S1,Ep3",
+          "start": "2026-08-25T00:40:00+03:00",
+          "stop": "2026-08-25T01:35:00+03:00",
+          "title": "Дикие детишки (Frida the Jaguar Cub). S2,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T01:35:00+03:00",
-          "stop": "2026-08-24T02:00:00+03:00",
-          "title": "Австралийские змееловы: Смертельная погоня (Three's a Crowd). S2,Ep1",
+          "start": "2026-08-25T01:35:00+03:00",
+          "stop": "2026-08-25T02:25:00+03:00",
+          "title": "Герои дикой природы (The Clean Up Crew). S2,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:00:00+03:00",
-          "stop": "2026-08-24T02:25:00+03:00",
-          "title": "Австралийские змееловы: Смертельная погоня (Double Trouble). S2,Ep2",
+          "start": "2026-08-25T02:25:00+03:00",
+          "stop": "2026-08-25T03:20:00+03:00",
+          "title": "Нингалу: океанское чудо Австралии (Collisions). S1,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:25:00+03:00",
-          "stop": "2026-08-24T02:50:00+03:00",
+          "start": "2026-08-25T03:20:00+03:00",
+          "stop": "2026-08-25T04:15:00+03:00",
+          "title": "Нингалу: океанское чудо Австралии (Connections). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T04:15:00+03:00",
+          "stop": "2026-08-25T04:40:00+03:00",
           "title": "Австралийские змееловы: Смертельная погоня (Duck for Cover). S2,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:50:00+03:00",
-          "stop": "2026-08-24T03:20:00+03:00",
+          "start": "2026-08-25T04:40:00+03:00",
+          "stop": "2026-08-25T05:10:00+03:00",
           "title": "Австралийские змееловы: Смертельная погоня (Tangled Terror). S2,Ep4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T03:20:00+03:00",
-          "stop": "2026-08-24T03:45:00+03:00",
+          "start": "2026-08-25T05:10:00+03:00",
+          "stop": "2026-08-25T06:05:00+03:00",
+          "title": "Животные похожи на нас (Meerkat Survival School). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T06:05:00+03:00",
+          "stop": "2026-08-25T07:00:00+03:00",
+          "title": "Животные похожи на нас (Pirate Birds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:00:00+03:00",
+          "stop": "2026-08-25T07:25:00+03:00",
+          "title": "Битвы Альфа-самцов (Sub Sahara). S1,Ep12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:25:00+03:00",
+          "stop": "2026-08-25T08:20:00+03:00",
+          "title": "Животные похожи на нас (Meerkat Survival School). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:20:00+03:00",
+          "stop": "2026-08-25T09:15:00+03:00",
+          "title": "Животные похожи на нас (Pirate Birds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:15:00+03:00",
+          "stop": "2026-08-25T10:10:00+03:00",
+          "title": "Superbeast (Deadly Deeds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T10:10:00+03:00",
+          "stop": "2026-08-25T11:05:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:05:00+03:00",
+          "stop": "2026-08-25T12:00:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:00:00+03:00",
+          "stop": "2026-08-25T12:50:00+03:00",
+          "title": "Дикие детишки (Lola the Sea Lion Pup). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:50:00+03:00",
+          "stop": "2026-08-25T13:40:00+03:00",
+          "title": "Герои дикой природы (Fantastic Frogs). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T13:40:00+03:00",
+          "stop": "2026-08-25T14:35:00+03:00",
+          "title": "Животные похожи на нас (Meerkat Survival School). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T14:35:00+03:00",
+          "stop": "2026-08-25T15:30:00+03:00",
+          "title": "Животные похожи на нас (Pirate Birds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:30:00+03:00",
+          "stop": "2026-08-25T15:55:00+03:00",
           "title": "Австралийские змееловы: Смертельная погоня (Slippery Exits). S2,Ep5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T03:45:00+03:00",
-          "stop": "2026-08-24T04:15:00+03:00",
+          "start": "2026-08-25T15:55:00+03:00",
+          "stop": "2026-08-25T16:25:00+03:00",
           "title": "Австралийские змееловы: Смертельная погоня (Reptile Romance). S2,Ep6",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T04:15:00+03:00",
-          "stop": "2026-08-24T05:10:00+03:00",
+          "start": "2026-08-25T16:25:00+03:00",
+          "stop": "2026-08-25T17:20:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T17:20:00+03:00",
+          "stop": "2026-08-25T18:15:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T18:15:00+03:00",
+          "stop": "2026-08-25T19:10:00+03:00",
+          "title": "Дикие детишки (Lola the Sea Lion Pup). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:10:00+03:00",
+          "stop": "2026-08-25T20:05:00+03:00",
+          "title": "Герои дикой природы (Fantastic Frogs). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:05:00+03:00",
+          "stop": "2026-08-25T21:00:00+03:00",
+          "title": "Животные похожи на нас (Meerkat Survival School). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:00:00+03:00",
+          "stop": "2026-08-25T21:55:00+03:00",
+          "title": "Животные похожи на нас (Pirate Birds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:55:00+03:00",
+          "stop": "2026-08-25T22:50:00+03:00",
+          "title": "Superbeast (Deadly Deeds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T22:50:00+03:00",
+          "stop": "2026-08-25T23:45:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T23:45:00+03:00",
+          "stop": "2026-08-26T00:40:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:40:00+03:00",
+          "stop": "2026-08-26T01:35:00+03:00",
+          "title": "Дикие детишки (Lola the Sea Lion Pup). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T01:35:00+03:00",
+          "stop": "2026-08-26T02:25:00+03:00",
+          "title": "Герои дикой природы (Fantastic Frogs). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:25:00+03:00",
+          "stop": "2026-08-26T03:20:00+03:00",
+          "title": "Животные похожи на нас (Meerkat Survival School). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:20:00+03:00",
+          "stop": "2026-08-26T04:15:00+03:00",
+          "title": "Животные похожи на нас (Pirate Birds). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:15:00+03:00",
+          "stop": "2026-08-26T04:40:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Slippery Exits). S2,Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:40:00+03:00",
+          "stop": "2026-08-26T05:10:00+03:00",
+          "title": "Австралийские змееловы: Смертельная погоня (Reptile Romance). S2,Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T05:10:00+03:00",
+          "stop": "2026-08-26T06:05:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T06:05:00+03:00",
+          "stop": "2026-08-26T07:00:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:00:00+03:00",
+          "stop": "2026-08-26T07:25:00+03:00",
+          "title": "Странные существа (Chemical Weapons). S2,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:25:00+03:00",
+          "stop": "2026-08-26T08:20:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:20:00+03:00",
+          "stop": "2026-08-26T09:15:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T09:15:00+03:00",
+          "stop": "2026-08-26T10:10:00+03:00",
+          "title": "Superbeast (Shark Dynasty). S1,Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T10:10:00+03:00",
+          "stop": "2026-08-26T11:05:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T11:05:00+03:00",
+          "stop": "2026-08-26T12:00:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:00:00+03:00",
+          "stop": "2026-08-26T12:50:00+03:00",
+          "title": "Дикие детишки (Dora the Baby Murqui). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:50:00+03:00",
+          "stop": "2026-08-26T13:40:00+03:00",
+          "title": "Герои дикой природы (Elephant Story). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T13:40:00+03:00",
+          "stop": "2026-08-26T14:35:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:35:00+03:00",
+          "stop": "2026-08-26T15:30:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:30:00+03:00",
+          "stop": "2026-08-26T16:25:00+03:00",
           "title": "Макромиры (Winter Is Coming). S1,Ep1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T05:10:00+03:00",
-          "stop": "2026-08-24T06:05:00+03:00",
+          "start": "2026-08-26T16:25:00+03:00",
+          "stop": "2026-08-26T17:20:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:20:00+03:00",
+          "stop": "2026-08-26T18:15:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T18:15:00+03:00",
+          "stop": "2026-08-26T19:10:00+03:00",
+          "title": "Дикие детишки (Dora the Baby Murqui). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:10:00+03:00",
+          "stop": "2026-08-26T20:05:00+03:00",
+          "title": "Герои дикой природы (Elephant Story). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:05:00+03:00",
+          "stop": "2026-08-26T21:00:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:00:00+03:00",
+          "stop": "2026-08-26T21:55:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:55:00+03:00",
+          "stop": "2026-08-26T22:50:00+03:00",
+          "title": "Superbeast (Shark Dynasty). S1,Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:50:00+03:00",
+          "stop": "2026-08-26T23:45:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T23:45:00+03:00",
+          "stop": "2026-08-27T00:40:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:40:00+03:00",
+          "stop": "2026-08-27T01:35:00+03:00",
+          "title": "Дикие детишки (Dora the Baby Murqui). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:35:00+03:00",
+          "stop": "2026-08-27T02:25:00+03:00",
+          "title": "Герои дикой природы (Elephant Story). S2,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:25:00+03:00",
+          "stop": "2026-08-27T03:20:00+03:00",
+          "title": "Выживание на Амазонке (A Life Among Trees). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:20:00+03:00",
+          "stop": "2026-08-27T04:15:00+03:00",
+          "title": "Выживание на Амазонке (Dry Season). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T04:15:00+03:00",
+          "stop": "2026-08-27T05:10:00+03:00",
+          "title": "Макромиры (Winter Is Coming). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T05:10:00+03:00",
+          "stop": "2026-08-27T06:05:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T06:05:00+03:00",
+          "stop": "2026-08-27T07:00:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:00:00+03:00",
+          "stop": "2026-08-27T07:25:00+03:00",
+          "title": "Странные существа (Strange Powers). S2,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:25:00+03:00",
+          "stop": "2026-08-27T08:20:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:20:00+03:00",
+          "stop": "2026-08-27T09:15:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:15:00+03:00",
+          "stop": "2026-08-27T10:10:00+03:00",
+          "title": "Superbeast (Shark Supremacy). S1,Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T10:10:00+03:00",
+          "stop": "2026-08-27T11:05:00+03:00",
+          "title": "Стать орангутангом (Growing Pains). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:05:00+03:00",
+          "stop": "2026-08-27T12:00:00+03:00",
+          "title": "Humanlike: The Chimps of Fongoli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:00:00+03:00",
+          "stop": "2026-08-27T12:50:00+03:00",
+          "title": "Дикие детишки (Thiago the Coati Kitten). S2,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:50:00+03:00",
+          "stop": "2026-08-27T13:40:00+03:00",
+          "title": "Герои дикой природы (Killer Packs). S2,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:40:00+03:00",
+          "stop": "2026-08-27T14:35:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T14:35:00+03:00",
+          "stop": "2026-08-27T15:30:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:30:00+03:00",
+          "stop": "2026-08-27T16:25:00+03:00",
           "title": "Макромиры (Meadow of Horror). S1,Ep2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T06:05:00+03:00",
-          "stop": "2026-08-24T07:00:00+03:00",
-          "title": "Макромиры (God's Darling: Beetles). S1,Ep3",
+          "start": "2026-08-27T16:25:00+03:00",
+          "stop": "2026-08-27T17:20:00+03:00",
+          "title": "Стать орангутангом (Growing Pains). S1,Ep3",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T07:00:00+03:00",
-          "stop": "2026-08-24T08:00:00+03:00",
-          "title": "Битвы Альфа-самцов (South Africa). S1,Ep11",
+          "start": "2026-08-27T17:20:00+03:00",
+          "stop": "2026-08-27T18:15:00+03:00",
+          "title": "Humanlike: The Chimps of Fongoli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:15:00+03:00",
+          "stop": "2026-08-27T19:10:00+03:00",
+          "title": "Дикие детишки (Thiago the Coati Kitten). S2,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:10:00+03:00",
+          "stop": "2026-08-27T20:05:00+03:00",
+          "title": "Герои дикой природы (Killer Packs). S2,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:05:00+03:00",
+          "stop": "2026-08-27T21:00:00+03:00",
+          "title": "Дикий Год На Земле (January-February: The Year Begins). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:00:00+03:00",
+          "stop": "2026-08-27T21:55:00+03:00",
+          "title": "Дикий Год На Земле (March-April: A Time of Renewal). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:55:00+03:00",
+          "stop": "2026-08-27T22:50:00+03:00",
+          "title": "Superbeast (Shark Supremacy). S1,Ep6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:50:00+03:00",
+          "stop": "2026-08-27T23:45:00+03:00",
+          "title": "Стать орангутангом (Growing Pains). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T23:45:00+03:00",
+          "stop": "2026-08-28T00:40:00+03:00",
+          "title": "Humanlike: The Chimps of Fongoli",
           "description": "L",
           "category": null
         }

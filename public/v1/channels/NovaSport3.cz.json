@@ -8,66 +8,258 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 34,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T00:05:00+03:00",
-          "stop": "2026-08-24T00:20:00+03:00",
-          "title": "Bundesliga Clubs 2026/27: SC Freiburg",
+          "start": "2026-08-25T00:35:00+03:00",
+          "stop": "2026-08-25T02:30:00+03:00",
+          "title": "Fenerbahçe SK – Olympique Lyon",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T00:20:00+03:00",
-          "stop": "2026-08-24T02:20:00+03:00",
+          "start": "2026-08-25T02:30:00+03:00",
+          "stop": "2026-08-25T08:00:00+03:00",
+          "title": "Celtic FC – LASK Linz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:00:00+03:00",
+          "stop": "2026-08-25T09:50:00+03:00",
+          "title": "Granada CF – RCD Mallorca",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:50:00+03:00",
+          "stop": "2026-08-25T11:40:00+03:00",
+          "title": "1. FSV Mainz 05 – Union Berlín",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:40:00+03:00",
+          "stop": "2026-08-25T12:10:00+03:00",
+          "title": "EFL Highlights (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:10:00+03:00",
+          "stop": "2026-08-25T14:00:00+03:00",
           "title": "Lincoln City – Portsmouth FC",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:20:00+03:00",
-          "stop": "2026-08-24T08:00:00+03:00",
-          "title": "Borussia Dortmund – Bayern Mnichov",
+          "start": "2026-08-25T14:00:00+03:00",
+          "stop": "2026-08-25T16:00:00+03:00",
+          "title": "West Ham United – Charlton Athletic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T08:00:00+03:00",
-          "stop": "2026-08-24T09:50:00+03:00",
-          "title": "PSG – Stade Rennes",
+          "start": "2026-08-25T16:00:00+03:00",
+          "stop": "2026-08-25T18:00:00+03:00",
+          "title": "Hannover 96 – VfL Wolfsburg",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T09:50:00+03:00",
-          "stop": "2026-08-24T11:40:00+03:00",
+          "start": "2026-08-25T18:00:00+03:00",
+          "stop": "2026-08-25T19:50:00+03:00",
+          "title": "VfB Stuttgart – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:50:00+03:00",
+          "stop": "2026-08-25T21:45:00+03:00",
+          "title": "Fenerbahçe SK – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:45:00+03:00",
+          "stop": "2026-08-26T00:40:00+03:00",
+          "title": "LASK Linz – Celtic FC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:40:00+03:00",
+          "stop": "2026-08-26T02:30:00+03:00",
+          "title": "Olympique Marseille – Racing Strasbourg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:30:00+03:00",
+          "stop": "2026-08-26T08:00:00+03:00",
           "title": "Le Havre AC – AS Monaco",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T11:40:00+03:00",
-          "stop": "2026-08-24T13:30:00+03:00",
-          "title": "West Bromwich Albion – Burnley FC",
+          "start": "2026-08-26T08:00:00+03:00",
+          "stop": "2026-08-26T10:30:00+03:00",
+          "title": "LASK Linz – Celtic FC",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T13:30:00+03:00",
-          "stop": "2026-08-24T16:00:00+03:00",
+          "start": "2026-08-26T10:30:00+03:00",
+          "stop": "2026-08-26T13:00:00+03:00",
           "title": "Borussia Dortmund – Bayern Mnichov",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T16:00:00+03:00",
-          "stop": "2026-08-24T18:00:00+03:00",
-          "title": "Hertha BSC – 1. FC Heidenheim",
+          "start": "2026-08-26T13:00:00+03:00",
+          "stop": "2026-08-26T14:00:00+03:00",
+          "title": "Bundesliga Special (21) – Ohlédnutí za sezonou",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:00:00+03:00",
+          "stop": "2026-08-26T16:00:00+03:00",
+          "title": "West Bromwich Albion – Burnley FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:00:00+03:00",
+          "stop": "2026-08-26T18:00:00+03:00",
+          "title": "Dynamo Drážďany – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T18:00:00+03:00",
+          "stop": "2026-08-26T19:50:00+03:00",
+          "title": "Borussia Mönchengladbach – TSG Hoffenheim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:50:00+03:00",
+          "stop": "2026-08-26T21:45:00+03:00",
+          "title": "Celtic FC – LASK Linz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:45:00+03:00",
+          "stop": "2026-08-27T00:30:00+03:00",
+          "title": "Olympique Lyon – Fenerbahçe SK",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:30:00+03:00",
+          "stop": "2026-08-27T02:05:00+03:00",
+          "title": "TIKI-TAKA 26/27 (5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:05:00+03:00",
+          "stop": "2026-08-27T08:00:00+03:00",
+          "title": "Granada CF – RCD Mallorca",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:00:00+03:00",
+          "stop": "2026-08-27T10:30:00+03:00",
+          "title": "Olympique Lyon – Fenerbahçe SK",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T10:30:00+03:00",
+          "stop": "2026-08-27T12:15:00+03:00",
+          "title": "FC St. Pauli – VfL Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:15:00+03:00",
+          "stop": "2026-08-27T14:10:00+03:00",
+          "title": "Olympique Marseille – Racing Strasbourg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T14:10:00+03:00",
+          "stop": "2026-08-27T16:00:00+03:00",
+          "title": "Granada CF – RCD Mallorca",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:00:00+03:00",
+          "stop": "2026-08-27T16:30:00+03:00",
+          "title": "EFL Highlights (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:30:00+03:00",
+          "stop": "2026-08-27T18:30:00+03:00",
+          "title": "Eintracht Braunschweig – VfL Bochum",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T18:30:00+03:00",
+          "stop": "2026-08-27T19:00:00+03:00",
+          "title": "Studio Los Ligy mistrů",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:00:00+03:00",
+          "stop": "2026-08-27T20:30:00+03:00",
+          "title": "Los Ligy mistrů UEFA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:30:00+03:00",
+          "stop": "2026-08-27T21:25:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (36)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:25:00+03:00",
+          "stop": "2026-08-27T23:35:00+03:00",
+          "title": "Celta Vigo – CA Osasuna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T23:35:00+03:00",
+          "stop": "2026-08-28T02:00:00+03:00",
+          "title": "Olympique Lyon – Fenerbahçe SK",
           "description": "L",
           "category": null
         }

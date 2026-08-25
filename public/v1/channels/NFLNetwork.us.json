@@ -8,59 +8,314 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 42,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T01:00:00+03:00",
-          "stop": "2026-08-24T04:00:00+03:00",
-          "title": "NFL Football «Dallas Cowboys at Arizona Cardinals» (State Farm Stadium, Glendale, AZ, USA)",
+          "start": "2026-08-25T00:00:00+03:00",
+          "stop": "2026-08-25T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T04:00:00+03:00",
-          "stop": "2026-08-24T07:00:00+03:00",
-          "title": "NFL Football «Green Bay Packers at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
+          "start": "2026-08-25T01:00:00+03:00",
+          "stop": "2026-08-25T02:00:00+03:00",
+          "title": "NFL Live",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T07:00:00+03:00",
-          "stop": "2026-08-24T10:00:00+03:00",
-          "title": "NFL Football «Seattle Seahawks at Tennessee Titans» (Nissan Stadium, Nashville, TN, USA)",
+          "start": "2026-08-25T02:00:00+03:00",
+          "stop": "2026-08-25T03:00:00+03:00",
+          "title": "The Insiders",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T10:00:00+03:00",
-          "stop": "2026-08-24T12:30:00+03:00",
-          "title": "NFL Football «Baltimore Ravens at Minnesota Vikings» (U.S. Bank Stadium, Minneapolis, MN, USA)",
+          "start": "2026-08-25T03:00:00+03:00",
+          "stop": "2026-08-25T06:00:00+03:00",
+          "title": "NFL Football «New York Jets at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T12:30:00+03:00",
-          "stop": "2026-08-24T15:00:00+03:00",
-          "title": "NFL Football «Buffalo Bills at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
+          "start": "2026-08-25T06:00:00+03:00",
+          "stop": "2026-08-25T07:00:00+03:00",
+          "title": "The Insiders",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T15:00:00+03:00",
-          "stop": "2026-08-24T17:00:00+03:00",
+          "start": "2026-08-25T07:00:00+03:00",
+          "stop": "2026-08-25T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:00:00+03:00",
+          "stop": "2026-08-25T10:30:00+03:00",
+          "title": "NFL Football «San Francisco 49ers at Los Angeles Chargers» (SoFi Stadium, Inglewood, CA, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T10:30:00+03:00",
+          "stop": "2026-08-25T13:00:00+03:00",
+          "title": "NFL Football «Kansas City Chiefs at Tampa Bay Buccaneers» (Raymond James Stadium, Tampa, FL, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T13:00:00+03:00",
+          "stop": "2026-08-25T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T14:00:00+03:00",
+          "stop": "2026-08-25T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:00:00+03:00",
+          "stop": "2026-08-25T17:00:00+03:00",
           "title": "⋗ Good Morning Football",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T17:00:00+03:00",
-          "stop": "2026-08-24T19:00:00+03:00",
+          "start": "2026-08-25T17:00:00+03:00",
+          "stop": "2026-08-25T19:00:00+03:00",
           "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:00:00+03:00",
+          "stop": "2026-08-25T21:30:00+03:00",
+          "title": "NFL Football «Carolina Panthers at Jacksonville Jaguars» (EverBank Stadium, Jacksonville, FL, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:30:00+03:00",
+          "stop": "2026-08-26T00:00:00+03:00",
+          "title": "NFL Football «Green Bay Packers at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:00:00+03:00",
+          "stop": "2026-08-26T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T01:00:00+03:00",
+          "stop": "2026-08-26T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:00:00+03:00",
+          "stop": "2026-08-26T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T03:00:00+03:00",
+          "stop": "2026-08-26T06:00:00+03:00",
+          "title": "NFL Football «Buffalo Bills at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T06:00:00+03:00",
+          "stop": "2026-08-26T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:00:00+03:00",
+          "stop": "2026-08-26T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:00:00+03:00",
+          "stop": "2026-08-26T10:30:00+03:00",
+          "title": "NFL Football «New Orleans Saints at Los Angeles Rams» (SoFi Stadium, Inglewood, CA, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T10:30:00+03:00",
+          "stop": "2026-08-26T13:00:00+03:00",
+          "title": "NFL Football «Atlanta Falcons at Indianapolis Colts» (Lucas Oil Stadium, Indianapolis, IN, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T13:00:00+03:00",
+          "stop": "2026-08-26T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:00:00+03:00",
+          "stop": "2026-08-26T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:00:00+03:00",
+          "stop": "2026-08-26T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:00:00+03:00",
+          "stop": "2026-08-26T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:00:00+03:00",
+          "stop": "2026-08-26T21:30:00+03:00",
+          "title": "NFL Football «Chicago Bears at Cincinnati Bengals» (Paycor Stadium, Cincinnati, OH, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:30:00+03:00",
+          "stop": "2026-08-27T00:00:00+03:00",
+          "title": "NFL Football «Baltimore Ravens at Minnesota Vikings» (U.S. Bank Stadium, Minneapolis, MN, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:00:00+03:00",
+          "stop": "2026-08-27T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T01:00:00+03:00",
+          "stop": "2026-08-27T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:00:00+03:00",
+          "stop": "2026-08-27T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T03:00:00+03:00",
+          "stop": "2026-08-27T06:00:00+03:00",
+          "title": "NFL Football «Dallas Cowboys at Arizona Cardinals» (State Farm Stadium, Glendale, AZ, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T06:00:00+03:00",
+          "stop": "2026-08-27T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:00:00+03:00",
+          "stop": "2026-08-27T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:00:00+03:00",
+          "stop": "2026-08-27T10:30:00+03:00",
+          "title": "NFL Football «Seattle Seahawks at Tennessee Titans» (Nissan Stadium, Nashville, TN, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T10:30:00+03:00",
+          "stop": "2026-08-27T13:00:00+03:00",
+          "title": "NFL Football «Las Vegas Raiders at Houston Texans» (NRG Stadium, Houston, TX, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:00:00+03:00",
+          "stop": "2026-08-27T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T14:00:00+03:00",
+          "stop": "2026-08-27T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:00:00+03:00",
+          "stop": "2026-08-27T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T17:00:00+03:00",
+          "stop": "2026-08-27T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:00:00+03:00",
+          "stop": "2026-08-27T22:00:00+03:00",
+          "title": "NFL Football «Buffalo Bills at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:00:00+03:00",
+          "stop": "2026-08-28T01:00:00+03:00",
+          "title": "NFL Football «New York Jets at Pittsburgh Steelers» (Acrisure Stadium, Pittsburgh, PA, USA)",
           "description": "L",
           "category": null
         }

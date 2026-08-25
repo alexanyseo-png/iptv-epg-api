@@ -8,45 +8,643 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-24T01:58:45.752848+00:00",
+  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 89,
   "days": [
     {
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "programs": [
         {
-          "start": "2026-08-24T00:36:00+03:00",
-          "stop": "2026-08-24T01:21:00+03:00",
-          "title": "Racconto di una notte.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-24T01:21:00+03:00",
-          "stop": "2026-08-24T02:04:00+03:00",
+          "start": "2026-08-25T01:29:00+03:00",
+          "stop": "2026-08-25T02:11:00+03:00",
           "title": "TG5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T02:04:00+03:00",
-          "stop": "2026-08-24T03:59:00+03:00",
-          "title": "Film.",
+          "start": "2026-08-25T02:11:00+03:00",
+          "stop": "2026-08-25T03:32:00+03:00",
+          "title": "Sacrificio d'amore. S.1,Ep.5 \"*** Titel der Episode noch nicht bekannt ***\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T03:59:00+03:00",
-          "stop": "2026-08-24T05:33:00+03:00",
-          "title": "Dov'è mia figlia?",
+          "start": "2026-08-25T03:32:00+03:00",
+          "stop": "2026-08-25T04:16:00+03:00",
+          "title": "New Amsterdam. S.4,Ep.14/22 \"Uniti nella resistenza\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-24T05:33:00+03:00",
-          "stop": "2026-08-24T06:33:00+03:00",
-          "title": "R.I.S. Roma Delitti imperfetti.",
+          "start": "2026-08-25T04:16:00+03:00",
+          "stop": "2026-08-25T05:13:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. S.8,Ep.8/20 \"Il proclama\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T05:13:00+03:00",
+          "stop": "2026-08-25T06:09:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. S.3,Ep.9 \"I palazzi del potere\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T06:09:00+03:00",
+          "stop": "2026-08-25T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"Tatuaggio mortale\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:00:00+03:00",
+          "stop": "2026-08-25T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:15:00+03:00",
+          "stop": "2026-08-25T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:30:00+03:00",
+          "stop": "2026-08-25T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T07:45:00+03:00",
+          "stop": "2026-08-25T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:00:00+03:00",
+          "stop": "2026-08-25T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:15:00+03:00",
+          "stop": "2026-08-25T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:30:00+03:00",
+          "stop": "2026-08-25T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:45:00+03:00",
+          "stop": "2026-08-25T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:53:00+03:00",
+          "stop": "2026-08-25T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T08:59:00+03:00",
+          "stop": "2026-08-25T09:45:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T09:45:00+03:00",
+          "stop": "2026-08-25T11:51:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T11:51:00+03:00",
+          "stop": "2026-08-25T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T12:00:00+03:00",
+          "stop": "2026-08-25T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T13:58:00+03:00",
+          "stop": "2026-08-25T14:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T14:40:00+03:00",
+          "stop": "2026-08-25T15:10:00+03:00",
+          "title": "Beautiful. Ep.116 \"Folge 116\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:10:00+03:00",
+          "stop": "2026-08-25T15:45:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.4,Ep.79 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T15:45:00+03:00",
+          "stop": "2026-08-25T16:45:00+03:00",
+          "title": "Far Away. S.1,Ep.70 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T16:45:00+03:00",
+          "stop": "2026-08-25T17:45:00+03:00",
+          "title": "Tutto per la mia famiglia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T17:45:00+03:00",
+          "stop": "2026-08-25T19:45:00+03:00",
+          "title": "Verità nascoste: Il diario.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T19:45:00+03:00",
+          "stop": "2026-08-25T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T20:54:00+03:00",
+          "stop": "2026-08-25T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:01:00+03:00",
+          "stop": "2026-08-25T21:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T21:40:00+03:00",
+          "stop": "2026-08-25T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T22:20:00+03:00",
+          "stop": "2026-08-25T23:53:00+03:00",
+          "title": "Nata per te.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-25T23:53:00+03:00",
+          "stop": "2026-08-26T00:38:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T00:38:00+03:00",
+          "stop": "2026-08-26T02:37:00+03:00",
+          "title": "Puoi baciare lo sposo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T02:37:00+03:00",
+          "stop": "2026-08-26T05:28:00+03:00",
+          "title": "Sacrificio d'amore. S.1,Ep.6/22 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T05:28:00+03:00",
+          "stop": "2026-08-26T06:08:00+03:00",
+          "title": "New Amsterdam. \"Ultimatum\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T06:08:00+03:00",
+          "stop": "2026-08-26T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"Biglietto sola andata\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:00:00+03:00",
+          "stop": "2026-08-26T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:15:00+03:00",
+          "stop": "2026-08-26T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:30:00+03:00",
+          "stop": "2026-08-26T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T07:45:00+03:00",
+          "stop": "2026-08-26T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:00:00+03:00",
+          "stop": "2026-08-26T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:15:00+03:00",
+          "stop": "2026-08-26T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:30:00+03:00",
+          "stop": "2026-08-26T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:45:00+03:00",
+          "stop": "2026-08-26T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:53:00+03:00",
+          "stop": "2026-08-26T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T08:59:00+03:00",
+          "stop": "2026-08-26T09:45:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T09:45:00+03:00",
+          "stop": "2026-08-26T11:51:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T11:51:00+03:00",
+          "stop": "2026-08-26T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T12:00:00+03:00",
+          "stop": "2026-08-26T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T13:58:00+03:00",
+          "stop": "2026-08-26T14:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T14:40:00+03:00",
+          "stop": "2026-08-26T15:10:00+03:00",
+          "title": "Beautiful. Ep.117 \"Folge 117\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:10:00+03:00",
+          "stop": "2026-08-26T15:45:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.4,Ep.80 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:45:00+03:00",
+          "stop": "2026-08-26T16:45:00+03:00",
+          "title": "Far Away. S.1,Ep.71 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T16:45:00+03:00",
+          "stop": "2026-08-26T17:45:00+03:00",
+          "title": "Tutto per la mia famiglia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:45:00+03:00",
+          "stop": "2026-08-26T19:45:00+03:00",
+          "title": "Verità nascoste: Il diario.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:45:00+03:00",
+          "stop": "2026-08-26T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:54:00+03:00",
+          "stop": "2026-08-26T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:01:00+03:00",
+          "stop": "2026-08-26T21:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T21:40:00+03:00",
+          "stop": "2026-08-26T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:20:00+03:00",
+          "stop": "2026-08-26T23:53:00+03:00",
+          "title": "Back to Black.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T23:53:00+03:00",
+          "stop": "2026-08-27T00:38:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-27",
+      "programs": [
+        {
+          "start": "2026-08-27T00:38:00+03:00",
+          "stop": "2026-08-27T02:11:00+03:00",
+          "title": "Elton John: The Rocketman.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T02:11:00+03:00",
+          "stop": "2026-08-27T05:28:00+03:00",
+          "title": "Sacrificio d'amore. S.1,Ep.7/22 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T05:28:00+03:00",
+          "stop": "2026-08-27T06:08:00+03:00",
+          "title": "New Amsterdam. \"Per tutta la notte\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T06:08:00+03:00",
+          "stop": "2026-08-27T07:00:00+03:00",
+          "title": "R.I.S. Roma Delitti imperfetti. \"L'ultima confessione\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:00:00+03:00",
+          "stop": "2026-08-27T07:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:15:00+03:00",
+          "stop": "2026-08-27T07:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:30:00+03:00",
+          "stop": "2026-08-27T07:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T07:45:00+03:00",
+          "stop": "2026-08-27T08:00:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:00:00+03:00",
+          "stop": "2026-08-27T08:15:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:15:00+03:00",
+          "stop": "2026-08-27T08:30:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:30:00+03:00",
+          "stop": "2026-08-27T08:45:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:45:00+03:00",
+          "stop": "2026-08-27T08:53:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:53:00+03:00",
+          "stop": "2026-08-27T08:59:00+03:00",
+          "title": "Traffico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T08:59:00+03:00",
+          "stop": "2026-08-27T09:45:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T09:45:00+03:00",
+          "stop": "2026-08-27T11:51:00+03:00",
+          "title": "Morning news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T11:51:00+03:00",
+          "stop": "2026-08-27T12:00:00+03:00",
+          "title": "Tg5 ore 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:00:00+03:00",
+          "stop": "2026-08-27T13:58:00+03:00",
+          "title": "Forum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:58:00+03:00",
+          "stop": "2026-08-27T14:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T14:40:00+03:00",
+          "stop": "2026-08-27T15:10:00+03:00",
+          "title": "Beautiful. Ep.117 \"Folge 117\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:10:00+03:00",
+          "stop": "2026-08-27T15:45:00+03:00",
+          "title": "Forbidden Fruit: Yasak Elma. S.4,Ep.81 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T15:45:00+03:00",
+          "stop": "2026-08-27T16:45:00+03:00",
+          "title": "Far Away. S.1,Ep.72 \"*** Titel der Episode noch nicht bekannt ***\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T16:45:00+03:00",
+          "stop": "2026-08-27T17:45:00+03:00",
+          "title": "Tutto per la mia famiglia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T17:45:00+03:00",
+          "stop": "2026-08-27T19:45:00+03:00",
+          "title": "Verità nascoste: Il diario.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T19:45:00+03:00",
+          "stop": "2026-08-27T20:54:00+03:00",
+          "title": "The Wall.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:54:00+03:00",
+          "stop": "2026-08-27T21:01:00+03:00",
+          "title": "Prima Pagina TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:01:00+03:00",
+          "stop": "2026-08-27T21:40:00+03:00",
+          "title": "TG5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:40:00+03:00",
+          "stop": "2026-08-27T22:20:00+03:00",
+          "title": "La ruota della fortuna.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:20:00+03:00",
+          "stop": "2026-08-27T23:53:00+03:00",
+          "title": "Da grandi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T23:53:00+03:00",
+          "stop": "2026-08-28T00:38:00+03:00",
+          "title": "TG5.",
           "description": "L",
           "category": null
         }
