@@ -8,8 +8,63 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
+  "available": true,
+  "programmeCount": 7,
+  "days": [
+    {
+      "date": "2026-08-26",
+      "programs": [
+        {
+          "start": "2026-08-26T12:00:00+03:00",
+          "stop": "2026-08-26T13:54:00+03:00",
+          "title": "х/ф Плавучий театр (1936)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T13:54:00+03:00",
+          "stop": "2026-08-26T15:43:00+03:00",
+          "title": "х/ф Про мишей і людей",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T15:43:00+03:00",
+          "stop": "2026-08-26T17:40:00+03:00",
+          "title": "х/ф Свідок обвинувачення",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T17:40:00+03:00",
+          "stop": "2026-08-26T19:22:00+03:00",
+          "title": "х/ф Наш власний дім",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T19:22:00+03:00",
+          "stop": "2026-08-26T20:55:00+03:00",
+          "title": "х/ф Батько нареченої",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T20:55:00+03:00",
+          "stop": "2026-08-26T22:25:00+03:00",
+          "title": "х/ф Дівчина на мосту",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:25:00+03:00",
+          "stop": "2026-08-26T23:25:00+03:00",
+          "title": "х/ф Закон є закон",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

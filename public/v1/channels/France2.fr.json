@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
+  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
   "available": true,
-  "programmeCount": 112,
+  "programmeCount": 114,
   "days": [
     {
       "date": "2026-08-26",
@@ -248,8 +248,15 @@
         },
         {
           "start": "2026-08-26T22:05:00+03:00",
-          "stop": "2026-08-26T22:10:00+03:00",
+          "stop": "2026-08-26T22:06:00+03:00",
           "title": "Réflexe !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T22:06:00+03:00",
+          "stop": "2026-08-26T22:10:00+03:00",
+          "title": "Mot de passe: le duel.",
           "description": "L",
           "category": null
         },
@@ -519,8 +526,15 @@
         },
         {
           "start": "2026-08-27T22:05:00+03:00",
-          "stop": "2026-08-27T22:10:00+03:00",
+          "stop": "2026-08-27T22:07:00+03:00",
           "title": "Réflexe !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T22:07:00+03:00",
+          "stop": "2026-08-27T22:10:00+03:00",
+          "title": "Mot de passe: le duel.",
           "description": "L",
           "category": null
         },

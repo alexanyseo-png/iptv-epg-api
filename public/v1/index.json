@@ -1,6 +1,6 @@
 {
   "apiVersion": "1",
-  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
+  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
   "channelCount": 574,
   "channels": [
     {
@@ -56,15 +56,15 @@
       "id": "4everCinema.ua",
       "name": "4ever Cinema",
       "url": "/v1/channels/4everCinema.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 9
     },
     {
       "id": "4everDrama.ua",
       "name": "4ever Drama",
       "url": "/v1/channels/4everDrama.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 7
     },
     {
       "id": "4everMusic.ua",
@@ -77,8 +77,8 @@
       "id": "4everTheater.ua",
       "name": "4ever Theater",
       "url": "/v1/channels/4everTheater.ua.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 7
     },
     {
       "id": "78.ru",
@@ -127,7 +127,7 @@
       "name": "Al Jazeera",
       "url": "/v1/channels/AlJazeera.qa.json",
       "available": true,
-      "programmeCount": 114
+      "programmeCount": 112
     },
     {
       "id": "AmediaHit.ru",
@@ -477,7 +477,7 @@
       "name": "BRIDGE Russian Hit",
       "url": "/v1/channels/BRIDGERussianHit.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 29
     },
     {
       "id": "BRIDGESchlager.ru",
@@ -673,7 +673,7 @@
       "name": "CNN Turk",
       "url": "/v1/channels/CNNTurk.tr.json",
       "available": true,
-      "programmeCount": 2
+      "programmeCount": 27
     },
     {
       "id": "Crimea24.ru",
@@ -1065,14 +1065,14 @@
       "name": "France 2",
       "url": "/v1/channels/France2.fr.json",
       "available": true,
-      "programmeCount": 112
+      "programmeCount": 114
     },
     {
       "id": "France3.fr",
       "name": "France 3",
       "url": "/v1/channels/France3.fr.json",
       "available": true,
-      "programmeCount": 187
+      "programmeCount": 193
     },
     {
       "id": "France4.fr",
@@ -1331,7 +1331,7 @@
       "name": "kabel eins Doku",
       "url": "/v1/channels/kabeleinsDoku.de.json",
       "available": true,
-      "programmeCount": 97
+      "programmeCount": 96
     },
     {
       "id": "KaleidoscopeTV.ru",
@@ -1387,14 +1387,14 @@
       "name": "KHL",
       "url": "/v1/channels/KHL.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 57
     },
     {
       "id": "KHLPrime.ru",
       "name": "KHL Prime",
       "url": "/v1/channels/KHLPrime.ru.json",
       "available": true,
-      "programmeCount": 65
+      "programmeCount": 70
     },
     {
       "id": "KidZoneMax.ee",
@@ -1723,14 +1723,14 @@
       "name": "Match! Arena",
       "url": "/v1/channels/MatchArena.ru.json",
       "available": true,
-      "programmeCount": 54
+      "programmeCount": 53
     },
     {
       "id": "MatchBoets.ru",
       "name": "Match! Boets",
       "url": "/v1/channels/MatchBoets.ru.json",
       "available": true,
-      "programmeCount": 59
+      "programmeCount": 57
     },
     {
       "id": "MatchFutbol1.ru",
@@ -1779,7 +1779,7 @@
       "name": "Match! Strana",
       "url": "/v1/channels/MatchStrana.ru.json",
       "available": true,
-      "programmeCount": 87
+      "programmeCount": 83
     },
     {
       "id": "MaxSport1.bg",
@@ -1863,7 +1863,7 @@
       "name": "Mir Belogorya",
       "url": "/v1/channels/MirBelogorya.ru.json",
       "available": true,
-      "programmeCount": 114
+      "programmeCount": 118
     },
     {
       "id": "MirSeriala.ru",
@@ -1912,7 +1912,7 @@
       "name": "Moskva 24",
       "url": "/v1/channels/Moskva24.ru.json",
       "available": true,
-      "programmeCount": 189
+      "programmeCount": 194
     },
     {
       "id": "MoskvaDoveriye.ru",
@@ -2178,7 +2178,7 @@
       "name": "NTK",
       "url": "/v1/channels/NTK.kz.json",
       "available": true,
-      "programmeCount": 60
+      "programmeCount": 59
     },
     {
       "id": "NTVBelarus.by",
@@ -2247,8 +2247,8 @@
       "id": "oe24TV.at",
       "name": "oe24.TV",
       "url": "/v1/channels/oe24TV.at.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 45
     },
     {
       "id": "Ohotnikirybolov.ru",
@@ -2451,7 +2451,7 @@
       "name": "Pro Arena",
       "url": "/v1/channels/ProArena.ro.json",
       "available": true,
-      "programmeCount": 45
+      "programmeCount": 43
     },
     {
       "id": "ProBusiness.ru",
@@ -2675,14 +2675,14 @@
       "name": "Russia-24",
       "url": "/v1/channels/Russia24.ru.json",
       "available": true,
-      "programmeCount": 135
+      "programmeCount": 219
     },
     {
       "id": "RussiaK.ru",
       "name": "Russia-K",
       "url": "/v1/channels/RussiaK.ru.json",
       "available": true,
-      "programmeCount": 85
+      "programmeCount": 82
     },
     {
       "id": "RussianExtreme.ru",
@@ -3067,7 +3067,7 @@
       "name": "Solovyov Live",
       "url": "/v1/channels/SolovyovLive.ru.json",
       "available": true,
-      "programmeCount": 30
+      "programmeCount": 31
     },
     {
       "id": "SonnenklarTV.de",
@@ -3095,7 +3095,7 @@
       "name": "Soyuz",
       "url": "/v1/channels/Soyuz.ru.json",
       "available": true,
-      "programmeCount": 270
+      "programmeCount": 273
     },
     {
       "id": "Spas.ru",
@@ -3319,7 +3319,7 @@
       "name": "Teatr",
       "url": "/v1/channels/Teatr.ru.json",
       "available": true,
-      "programmeCount": 10
+      "programmeCount": 54
     },
     {
       "id": "TELE5.de",
@@ -3431,7 +3431,7 @@
       "name": "Tolyatti 24",
       "url": "/v1/channels/Tolyatti24.ru.json",
       "available": true,
-      "programmeCount": 198
+      "programmeCount": 211
     },
     {
       "id": "Tonus.ru",
@@ -3452,7 +3452,7 @@
       "name": "Toshkent",
       "url": "/v1/channels/Toshkent.uz.json",
       "available": true,
-      "programmeCount": 86
+      "programmeCount": 85
     },
     {
       "id": "TraceSportStars.fr",
@@ -3528,8 +3528,8 @@
       "id": "TVBerlin.de",
       "name": "TV Berlin",
       "url": "/v1/channels/TVBerlin.de.json",
-      "available": false,
-      "programmeCount": 0
+      "available": true,
+      "programmeCount": 137
     },
     {
       "id": "TVCentr.ru",
@@ -3585,7 +3585,7 @@
       "name": "Tvoe TV",
       "url": "/v1/channels/TvoeTV.ru.json",
       "available": true,
-      "programmeCount": 6
+      "programmeCount": 26
     },
     {
       "id": "TvoyeTVYumor.ru",
@@ -3984,7 +3984,7 @@
       "name": "Znanie.TV",
       "url": "/v1/channels/ZnanieTV.ru.json",
       "available": true,
-      "programmeCount": 131
+      "programmeCount": 138
     },
     {
       "id": "Zoopark.ru",

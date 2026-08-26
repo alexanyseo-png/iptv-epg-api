@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
+  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
   "available": true,
-  "programmeCount": 187,
+  "programmeCount": 193,
   "days": [
     {
       "date": "2026-08-26",
@@ -750,8 +750,15 @@
         },
         {
           "start": "2026-08-27T12:10:00+03:00",
-          "stop": "2026-08-27T12:20:00+03:00",
+          "stop": "2026-08-27T12:12:00+03:00",
           "title": "Patouille et Momo. S: 1 / Ep: 25.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T12:12:00+03:00",
+          "stop": "2026-08-27T12:20:00+03:00",
+          "title": "Patouille et Momo. S: 1 / Ep: 14.",
           "description": "L",
           "category": null
         },
@@ -779,14 +786,21 @@
         {
           "start": "2026-08-27T13:05:00+03:00",
           "stop": "2026-08-27T13:20:00+03:00",
-          "title": "Outremer.l'info.",
+          "title": "▶️ Outremer.l'info.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-27T13:20:00+03:00",
+          "stop": "2026-08-27T13:25:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T13:25:00+03:00",
           "stop": "2026-08-27T13:55:00+03:00",
-          "title": "ICI 12/13 édition toutes régions.",
+          "title": "▶️ ICI 12/13 édition toutes régions.",
           "description": "L",
           "category": null
         },
@@ -835,7 +849,7 @@
         {
           "start": "2026-08-27T18:25:00+03:00",
           "stop": "2026-08-27T19:00:00+03:00",
-          "title": "Duels en familles.",
+          "title": "Duels en familles, le match des régions.",
           "description": "L",
           "category": null
         },
@@ -855,8 +869,29 @@
         },
         {
           "start": "2026-08-27T20:00:00+03:00",
+          "stop": "2026-08-27T20:10:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:10:00+03:00",
+          "stop": "2026-08-27T20:15:00+03:00",
+          "title": "Le journal des talents.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:15:00+03:00",
+          "stop": "2026-08-27T20:50:00+03:00",
+          "title": "▶️ ICI 19/20.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T20:50:00+03:00",
           "stop": "2026-08-27T21:00:00+03:00",
-          "title": "ICI 19/20.",
+          "title": "On vous emmène ici.",
           "description": "L",
           "category": null
         },
@@ -876,6 +911,13 @@
         },
         {
           "start": "2026-08-27T21:15:00+03:00",
+          "stop": "2026-08-27T21:16:00+03:00",
+          "title": "Journal des talents.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-27T21:16:00+03:00",
           "stop": "2026-08-27T21:20:00+03:00",
           "title": "Météo régionale.",
           "description": "L",
@@ -966,7 +1008,7 @@
         {
           "start": "2026-08-28T05:45:00+03:00",
           "stop": "2026-08-28T06:20:00+03:00",
-          "title": "Duels en familles.",
+          "title": "Duels en familles, le match des régions.",
           "description": "L",
           "category": null
         },

@@ -8,66 +8,59 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
+  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
   "available": true,
-  "programmeCount": 86,
+  "programmeCount": 85,
   "days": [
     {
       "date": "2026-08-26",
       "programs": [
         {
-          "start": "2026-08-26T00:30:00+03:00",
-          "stop": "2026-08-26T01:30:00+03:00",
-          "title": "Алишер Навои.",
+          "start": "2026-08-26T00:20:00+03:00",
+          "stop": "2026-08-26T01:20:00+03:00",
+          "title": "Радиокитоб. Алишер Навои.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-26T01:30:00+03:00",
-          "stop": "2026-08-26T02:20:00+03:00",
+          "start": "2026-08-26T01:20:00+03:00",
+          "stop": "2026-08-26T02:00:00+03:00",
           "title": "Серебро.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-26T02:20:00+03:00",
+          "start": "2026-08-26T02:00:00+03:00",
+          "stop": "2026-08-26T04:00:00+03:00",
+          "title": "Телохранитель.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:00:00+03:00",
+          "stop": "2026-08-26T04:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-26T04:05:00+03:00",
           "stop": "2026-08-26T05:20:00+03:00",
-          "title": "Xorij Film.",
+          "title": "Владыка морей.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-26T05:20:00+03:00",
-          "stop": "2026-08-26T06:40:00+03:00",
+          "stop": "2026-08-26T07:30:00+03:00",
           "title": "Поезд вне расписания.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-26T06:40:00+03:00",
-          "stop": "2026-08-26T07:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T07:00:00+03:00",
-          "stop": "2026-08-26T07:20:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T07:20:00+03:00",
-          "stop": "2026-08-26T09:00:00+03:00",
-          "title": "Парок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T09:00:00+03:00",
+          "start": "2026-08-26T07:30:00+03:00",
           "stop": "2026-08-26T09:30:00+03:00",
-          "title": "Poytaxt.",
+          "title": "Художественный фильм.",
           "description": "L",
           "category": null
         },
