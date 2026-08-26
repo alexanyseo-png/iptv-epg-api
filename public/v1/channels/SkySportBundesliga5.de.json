@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
+  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-08-25",
-      "programs": [
-        {
-          "start": "2026-08-25T07:00:00+03:00",
-          "stop": "2026-08-26T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-26",
       "programs": [
@@ -42,6 +30,39 @@
         {
           "start": "2026-08-27T07:00:00+03:00",
           "stop": "2026-08-28T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "programs": [
+        {
+          "start": "2026-08-28T07:00:00+03:00",
+          "stop": "2026-08-28T18:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T18:40:00+03:00",
+          "stop": "2026-08-28T19:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T19:00:00+03:00",
+          "stop": "2026-08-28T21:30:00+03:00",
+          "title": "Live 2. BL: Multiview, 3. Spieltag, Freitag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T21:30:00+03:00",
+          "stop": "2026-08-29T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

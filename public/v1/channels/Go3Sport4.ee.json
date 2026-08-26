@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-08-28",
+      "programs": [
+        {
+          "start": "2026-08-28T22:00:00+03:00",
+          "stop": "2026-08-28T23:00:00+03:00",
+          "title": "⋗ ATP 250 Winston-Salem. Singles SF",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

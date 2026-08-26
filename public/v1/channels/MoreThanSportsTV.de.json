@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-25T01:53:48.028474+00:00",
+  "generatedAt": "2026-08-26T01:59:36.689809+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-08-25",
-      "programs": [
-        {
-          "start": "2026-08-25T01:05:00+03:00",
-          "stop": "2026-08-25T02:00:00+03:00",
-          "title": "NTT Indycar Series 2026 - Honda Indy 200 at Mid Ohio, Mid-Ohio Sports Cars Course, Ohio.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T02:00:00+03:00",
-          "stop": "2026-08-25T15:00:00+03:00",
-          "title": "Infomercial.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T15:00:00+03:00",
-          "stop": "2026-08-25T16:55:00+03:00",
-          "title": "Rugby: National Rugby League - 8. Spieltag: Penrith Panthers - Manly-Warringah Sea Eagles.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T16:55:00+03:00",
-          "stop": "2026-08-25T17:55:00+03:00",
-          "title": "Top Speed Classic - Top Speed im Fokus - Runde 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T17:55:00+03:00",
-          "stop": "2026-08-25T20:00:00+03:00",
-          "title": "Rugby: NRL Telstra Premiership - Penrith Panthers - North Queensland Cowboys.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T20:00:00+03:00",
-          "stop": "2026-08-25T21:00:00+03:00",
-          "title": "PSP New Zealand Jetsprint Championship - World Championship 2, Group A.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T21:00:00+03:00",
-          "stop": "2026-08-25T21:50:00+03:00",
-          "title": "Australian Boat Racing - National Driver's Championship, Mildura.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T21:50:00+03:00",
-          "stop": "2026-08-25T22:45:00+03:00",
-          "title": "Isle of Man Tourist Trophy 2026 - Senior TT.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-25T22:45:00+03:00",
-          "stop": "2026-08-26T00:30:00+03:00",
-          "title": "Rugby: Super League - York Knights - Hull FC.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-26",
       "programs": [
@@ -239,6 +171,109 @@
           "start": "2026-08-27T22:10:00+03:00",
           "stop": "2026-08-28T00:45:00+03:00",
           "title": "Australian Football: Australian Football League - Adelaide Crows - Hawthorn Hawks.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-28",
+      "programs": [
+        {
+          "start": "2026-08-28T00:45:00+03:00",
+          "stop": "2026-08-28T02:00:00+03:00",
+          "title": "Motorsport: IndyCar Series - Grand Prix at Road America - XPEL GP at Road America, Road America, Wisconsin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T02:00:00+03:00",
+          "stop": "2026-08-28T15:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T15:00:00+03:00",
+          "stop": "2026-08-28T16:45:00+03:00",
+          "title": "Rugby: National Rugby League - Wests Tigers - Brisbane Broncos.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T16:45:00+03:00",
+          "stop": "2026-08-28T17:45:00+03:00",
+          "title": "NZ Speedway Championship - Midget 40 Lapper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T17:45:00+03:00",
+          "stop": "2026-08-28T18:45:00+03:00",
+          "title": "NZ Rally Championship 2026 - Round 2, South Canterbury.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T18:45:00+03:00",
+          "stop": "2026-08-28T19:20:00+03:00",
+          "title": "Gearing Up.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T19:20:00+03:00",
+          "stop": "2026-08-28T19:45:00+03:00",
+          "title": "Quad: FIM Quadcross World Championship - GP Germany, Kleinhau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T19:45:00+03:00",
+          "stop": "2026-08-28T20:15:00+03:00",
+          "title": "Monster Jam Championship 2025 - Anaheim, California.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T20:15:00+03:00",
+          "stop": "2026-08-28T20:45:00+03:00",
+          "title": "Motorsport: Monster Jam Championship - San Francisco, California.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T20:45:00+03:00",
+          "stop": "2026-08-28T21:15:00+03:00",
+          "title": "Icelandic Formula Offroad 2025 - Egilsstadir, Round 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T21:15:00+03:00",
+          "stop": "2026-08-28T21:45:00+03:00",
+          "title": "All Wheel Drive Safari Challenge - Round 6, Ilfracombe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T21:45:00+03:00",
+          "stop": "2026-08-28T22:35:00+03:00",
+          "title": "Dave Molyneux - Legend on 3 Wheels.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T22:35:00+03:00",
+          "stop": "2026-08-28T23:25:00+03:00",
+          "title": "Faultless - The riders, their horses, and the pursuit of excellence.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-28T23:25:00+03:00",
+          "stop": "2026-08-29T01:05:00+03:00",
+          "title": "Rugby: National Rugby League - Sydney Roosters - Cronulla-Sutherland Sharks.",
           "description": "L",
           "category": null
         }
