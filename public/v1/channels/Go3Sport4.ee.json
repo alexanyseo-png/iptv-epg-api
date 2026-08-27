@@ -8,17 +8,55 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
+  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 5,
   "days": [
     {
       "date": "2026-08-28",
       "programs": [
         {
           "start": "2026-08-28T22:00:00+03:00",
-          "stop": "2026-08-28T23:00:00+03:00",
+          "stop": "2026-08-29T12:00:00+03:00",
           "title": "⋗ ATP 250 Winston-Salem. Singles SF",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "programs": [
+        {
+          "start": "2026-08-29T12:00:00+03:00",
+          "stop": "2026-08-29T20:00:00+03:00",
+          "title": "⋗ UFC. Umar Nurmagomedov vs Song Yadong (ENG)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T20:00:00+03:00",
+          "stop": "2026-08-30T18:20:00+03:00",
+          "title": "⋗ The Rugby Greatest Rivalry. Argentina vs Australia",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "programs": [
+        {
+          "start": "2026-08-30T18:20:00+03:00",
+          "stop": "2026-08-30T21:00:00+03:00",
+          "title": "⋗ Serie A. UFC. Napoli – Como",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T21:00:00+03:00",
+          "stop": "2026-08-30T22:00:00+03:00",
+          "title": "⋗ WNBA. Atlanta Dream – Minnesota Lynx",
           "description": "L",
           "category": null
         }

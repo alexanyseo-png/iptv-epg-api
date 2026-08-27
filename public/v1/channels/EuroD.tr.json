@@ -8,202 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-26T20:04:59.124960+00:00",
+  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-08-26",
-      "programs": [
-        {
-          "start": "2026-08-26T02:30:00+03:00",
-          "stop": "2026-08-26T05:10:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T05:10:00+03:00",
-          "stop": "2026-08-26T07:00:00+03:00",
-          "title": "Kuzey Güney.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T07:00:00+03:00",
-          "stop": "2026-08-26T09:30:00+03:00",
-          "title": "Küçük Ağa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T09:30:00+03:00",
-          "stop": "2026-08-26T12:00:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T12:00:00+03:00",
-          "stop": "2026-08-26T13:00:00+03:00",
-          "title": "▶️ Kanal D Haber Gün Arası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T13:00:00+03:00",
-          "stop": "2026-08-26T14:00:00+03:00",
-          "title": "▶️ Magazin D Yaz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T14:00:00+03:00",
-          "stop": "2026-08-26T16:30:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T16:30:00+03:00",
-          "stop": "2026-08-26T18:15:00+03:00",
-          "title": "Aşk-ı Memnu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T18:15:00+03:00",
-          "stop": "2026-08-26T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T19:00:00+03:00",
-          "stop": "2026-08-26T20:00:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T20:00:00+03:00",
-          "stop": "2026-08-26T22:00:00+03:00",
-          "title": "Kuralsız Sokaklar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-26T22:00:00+03:00",
-          "stop": "2026-08-27T00:10:00+03:00",
-          "title": "Hep Yek 4: Bela Okuma Altan.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "programs": [
-        {
-          "start": "2026-08-27T00:10:00+03:00",
-          "stop": "2026-08-27T02:30:00+03:00",
-          "title": "Arka Sokaklar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T02:30:00+03:00",
-          "stop": "2026-08-27T05:10:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T05:10:00+03:00",
-          "stop": "2026-08-27T07:00:00+03:00",
-          "title": "Kuzey Güney.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T07:00:00+03:00",
-          "stop": "2026-08-27T09:30:00+03:00",
-          "title": "Küçük Ağa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T09:30:00+03:00",
-          "stop": "2026-08-27T12:00:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T12:00:00+03:00",
-          "stop": "2026-08-27T13:00:00+03:00",
-          "title": "▶️ Kanal D Haber Gün Arası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T13:00:00+03:00",
-          "stop": "2026-08-27T14:00:00+03:00",
-          "title": "▶️ Magazin D Yaz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T14:00:00+03:00",
-          "stop": "2026-08-27T16:30:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T16:30:00+03:00",
-          "stop": "2026-08-27T18:15:00+03:00",
-          "title": "Aşk-ı Memnu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T18:15:00+03:00",
-          "stop": "2026-08-27T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T19:00:00+03:00",
-          "stop": "2026-08-27T20:00:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T20:00:00+03:00",
-          "stop": "2026-08-27T22:00:00+03:00",
-          "title": "Kılıbık.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T22:00:00+03:00",
-          "stop": "2026-08-27T23:40:00+03:00",
-          "title": "Kılıbık.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-27T23:40:00+03:00",
-          "stop": "2026-08-28T02:30:00+03:00",
-          "title": "Daha 17.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-28",
       "programs": [
@@ -288,6 +96,177 @@
           "start": "2026-08-28T22:40:00+03:00",
           "stop": "2026-08-29T00:20:00+03:00",
           "title": "Kuralsız Sokaklar.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-29",
+      "programs": [
+        {
+          "start": "2026-08-29T00:20:00+03:00",
+          "stop": "2026-08-29T02:30:00+03:00",
+          "title": "Çember: Kalpsiz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T02:30:00+03:00",
+          "stop": "2026-08-29T05:10:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T05:10:00+03:00",
+          "stop": "2026-08-29T07:00:00+03:00",
+          "title": "Kuzey Güney.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T07:00:00+03:00",
+          "stop": "2026-08-29T08:30:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T08:30:00+03:00",
+          "stop": "2026-08-29T10:00:00+03:00",
+          "title": "Konuştukça.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T10:00:00+03:00",
+          "stop": "2026-08-29T13:00:00+03:00",
+          "title": "▶️ Magazin D Cumartesi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T13:00:00+03:00",
+          "stop": "2026-08-29T15:50:00+03:00",
+          "title": "Sonsuza Dek Nedime.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T15:50:00+03:00",
+          "stop": "2026-08-29T18:15:00+03:00",
+          "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T18:15:00+03:00",
+          "stop": "2026-08-29T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T19:00:00+03:00",
+          "stop": "2026-08-29T20:00:00+03:00",
+          "title": "Kanal D Haber Hafta Sonu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T20:00:00+03:00",
+          "stop": "2026-08-29T23:30:00+03:00",
+          "title": "Arka Sokaklar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T23:30:00+03:00",
+          "stop": "2026-08-30T02:00:00+03:00",
+          "title": "İki Tez Arasında.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-30",
+      "programs": [
+        {
+          "start": "2026-08-30T02:00:00+03:00",
+          "stop": "2026-08-30T05:10:00+03:00",
+          "title": "Boşu Bir Yerde.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T05:10:00+03:00",
+          "stop": "2026-08-30T07:00:00+03:00",
+          "title": "Kuzey Güney.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T07:00:00+03:00",
+          "stop": "2026-08-30T08:30:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T08:30:00+03:00",
+          "stop": "2026-08-30T10:00:00+03:00",
+          "title": "Konuştukça.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T10:00:00+03:00",
+          "stop": "2026-08-30T12:40:00+03:00",
+          "title": "▶️ Magazin D Pazar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T12:40:00+03:00",
+          "stop": "2026-08-30T13:40:00+03:00",
+          "title": "Pazar Gezmesi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T13:40:00+03:00",
+          "stop": "2026-08-30T16:30:00+03:00",
+          "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T16:30:00+03:00",
+          "stop": "2026-08-30T18:15:00+03:00",
+          "title": "Kuzenler Firarda 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T18:15:00+03:00",
+          "stop": "2026-08-30T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T19:00:00+03:00",
+          "stop": "2026-08-30T20:00:00+03:00",
+          "title": "Kanal D Haber Hafta Sonu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T20:00:00+03:00",
+          "stop": "2026-08-31T00:30:00+03:00",
+          "title": "Daha 17.",
           "description": "L",
           "category": null
         }
