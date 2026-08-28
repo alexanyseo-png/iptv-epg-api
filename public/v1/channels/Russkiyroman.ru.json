@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T00:35:00+03:00",
-          "stop": "2026-08-28T03:45:00+03:00",
-          "title": "Когда солнце взойдёт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T03:45:00+03:00",
-          "stop": "2026-08-28T05:05:00+03:00",
-          "title": "Женщин обижать не рекомендуется.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T05:05:00+03:00",
-          "stop": "2026-08-28T07:50:00+03:00",
-          "title": "Цена любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T07:50:00+03:00",
-          "stop": "2026-08-28T09:30:00+03:00",
-          "title": "Предсказание.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T09:30:00+03:00",
-          "stop": "2026-08-28T11:15:00+03:00",
-          "title": "Два мгновения любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T11:15:00+03:00",
-          "stop": "2026-08-28T14:30:00+03:00",
-          "title": "Время надежды.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T14:30:00+03:00",
-          "stop": "2026-08-28T17:50:00+03:00",
-          "title": "Под знаком Луны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T17:50:00+03:00",
-          "stop": "2026-08-28T19:30:00+03:00",
-          "title": "Поздняя любовь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T19:30:00+03:00",
-          "stop": "2026-08-28T22:45:00+03:00",
-          "title": "Чудны дела твои, Господи!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T22:45:00+03:00",
-          "stop": "2026-08-29T00:25:00+03:00",
-          "title": "Идти до конца.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -204,6 +129,25 @@
           "start": "2026-08-30T21:45:00+03:00",
           "stop": "2026-08-31T01:05:00+03:00",
           "title": "Цена любви.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T01:05:00+03:00",
+          "stop": "2026-08-31T04:30:00+03:00",
+          "title": "Лекари душ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:30:00+03:00",
+          "stop": "2026-08-31T05:30:00+03:00",
+          "title": "Под знаком Луны.",
           "description": "L",
           "category": null
         }

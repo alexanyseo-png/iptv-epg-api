@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 50,
+  "programmeCount": 59,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T00:00:00+03:00",
-          "stop": "2026-08-29T00:00:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -372,6 +360,81 @@
           "start": "2026-08-30T23:00:00+03:00",
           "stop": "2026-08-31T00:00:00+03:00",
           "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:00:00+03:00",
+          "stop": "2026-08-31T00:55:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T00:55:00+03:00",
+          "stop": "2026-08-31T01:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T01:00:00+03:00",
+          "stop": "2026-08-31T04:00:00+03:00",
+          "title": "Gün Sonu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:00:00+03:00",
+          "stop": "2026-08-31T04:55:00+03:00",
+          "title": "Haber 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:55:00+03:00",
+          "stop": "2026-08-31T05:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T05:00:00+03:00",
+          "stop": "2026-08-31T06:00:00+03:00",
+          "title": "Haber 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T06:00:00+03:00",
+          "stop": "2026-08-31T07:00:00+03:00",
+          "title": "Haber 06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:00:00+03:00",
+          "stop": "2026-08-31T09:55:00+03:00",
+          "title": "Dün Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T09:55:00+03:00",
+          "stop": "2026-08-31T10:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T10:00:00+03:00",
+          "stop": "2026-08-31T13:00:00+03:00",
+          "title": "Satır Başı",
           "description": "L",
           "category": null
         }

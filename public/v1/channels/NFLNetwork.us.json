@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T01:00:00+03:00",
-          "stop": "2026-08-28T02:00:00+03:00",
-          "title": "⋗ NFL GameDay Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T02:00:00+03:00",
-          "stop": "2026-08-28T05:00:00+03:00",
-          "title": "⋗ NFL Football «Pittsburgh Steelers at Buffalo Bills» (New Highmark Stadium, Orchard Park, New York, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T05:00:00+03:00",
-          "stop": "2026-08-28T08:00:00+03:00",
-          "title": "⋗ NFL Football «Los Angeles Rams at Los Angeles Chargers» (SoFi Stadium, Inglewood, CA, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T08:00:00+03:00",
-          "stop": "2026-08-28T11:00:00+03:00",
-          "title": "NFL Football «San Francisco 49ers at Las Vegas Raiders» (Allegiant Stadium, Las Vegas, NV, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T11:00:00+03:00",
-          "stop": "2026-08-28T12:00:00+03:00",
-          "title": "Gold Jacket Celebration",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T12:00:00+03:00",
-          "stop": "2026-08-28T15:00:00+03:00",
-          "title": "NFL Football «New England Patriots at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T15:00:00+03:00",
-          "stop": "2026-08-28T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T17:00:00+03:00",
-          "stop": "2026-08-28T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T19:00:00+03:00",
-          "stop": "2026-08-28T21:30:00+03:00",
-          "title": "NFL Football «Pittsburgh Steelers at Buffalo Bills» (New Highmark Stadium, Orchard Park, New York, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T21:30:00+03:00",
-          "stop": "2026-08-29T00:00:00+03:00",
-          "title": "NFL Football «San Francisco 49ers at Las Vegas Raiders» (Allegiant Stadium, Las Vegas, NV, USA)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -260,6 +185,25 @@
           "start": "2026-08-30T22:00:00+03:00",
           "stop": "2026-08-31T01:00:00+03:00",
           "title": "NFL Football «New York Giants at New York Jets» (MetLife Stadium, East Rutherford, NJ, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T01:00:00+03:00",
+          "stop": "2026-08-31T04:00:00+03:00",
+          "title": "NFL Football «New Orleans Saints at Dallas Cowboys» (AT&T Stadium, Arlington, Texas, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:00:00+03:00",
+          "stop": "2026-08-31T05:00:00+03:00",
+          "title": "NFL Football «Seattle Seahawks at Kansas City Chiefs» (GEHA Field at Arrowhead Stadium, Kansas City, MO, USA)",
           "description": "L",
           "category": null
         }

@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T00:00:00+03:00",
-          "stop": "2026-08-29T00:00:00+03:00",
-          "title": "Avrupa Gecesi",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -281,6 +269,67 @@
           "start": "2026-08-30T22:00:00+03:00",
           "stop": "2026-08-31T00:00:00+03:00",
           "title": "Avrupa Gecesi",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:00:00+03:00",
+          "stop": "2026-08-31T02:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T02:00:00+03:00",
+          "stop": "2026-08-31T02:30:00+03:00",
+          "title": "Avrupa'dan Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T02:30:00+03:00",
+          "stop": "2026-08-31T03:00:00+03:00",
+          "title": "Arşiv Odası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T03:00:00+03:00",
+          "stop": "2026-08-31T05:00:00+03:00",
+          "title": "Avrupa Gecesi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T05:00:00+03:00",
+          "stop": "2026-08-31T06:00:00+03:00",
+          "title": "Bir Zamanlar Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T06:00:00+03:00",
+          "stop": "2026-08-31T07:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:00:00+03:00",
+          "stop": "2026-08-31T08:00:00+03:00",
+          "title": "Dev Maçlar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:00:00+03:00",
+          "stop": "2026-08-31T11:00:00+03:00",
+          "title": "Sabah Sporu",
           "description": "L",
           "category": null
         }

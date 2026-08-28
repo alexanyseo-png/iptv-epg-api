@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T06:00:00+03:00",
-          "stop": "2026-08-28T08:00:00+03:00",
-          "title": "Queen & King of the Court",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T08:00:00+03:00",
-          "stop": "2026-08-28T09:45:00+03:00",
-          "title": "Rytas Vilnius – ERA Nymburk",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T09:45:00+03:00",
-          "stop": "2026-08-28T10:00:00+03:00",
-          "title": "Běhej lesy – Bílá",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T10:00:00+03:00",
-          "stop": "2026-08-28T10:30:00+03:00",
-          "title": "Ligue 1 Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T10:30:00+03:00",
-          "stop": "2026-08-28T13:00:00+03:00",
-          "title": "Australia Darts Masters 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T13:00:00+03:00",
-          "stop": "2026-08-28T15:00:00+03:00",
-          "title": "FA Cup 26/27 (2)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T15:00:00+03:00",
-          "stop": "2026-08-28T19:00:00+03:00",
-          "title": "US Open Pool 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T19:00:00+03:00",
-          "stop": "2026-08-29T06:00:00+03:00",
-          "title": "US Open Pool 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -260,6 +199,53 @@
           "start": "2026-08-30T23:30:00+03:00",
           "stop": "2026-08-31T00:00:00+03:00",
           "title": "Epic Series – 4Islands Epic",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:00:00+03:00",
+          "stop": "2026-08-31T03:00:00+03:00",
+          "title": "US Open Pool 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T03:00:00+03:00",
+          "stop": "2026-08-31T04:30:00+03:00",
+          "title": "SC Magdeburg – Füchse Berlin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:30:00+03:00",
+          "stop": "2026-08-31T06:00:00+03:00",
+          "title": "SG Flensburg-Handewitt – ThSV Eisenach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T06:00:00+03:00",
+          "stop": "2026-08-31T08:00:00+03:00",
+          "title": "Chelsea FC – Luton Town",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:00:00+03:00",
+          "stop": "2026-08-31T09:35:00+03:00",
+          "title": "Galatasaray – La Laguna Tenerife",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T09:35:00+03:00",
+          "stop": "2026-08-31T11:30:00+03:00",
+          "title": "ALBA Berlin – Unicaja",
           "description": "L",
           "category": null
         }

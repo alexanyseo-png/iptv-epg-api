@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T00:00:00+03:00",
-          "stop": "2026-08-28T06:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T06:00:00+03:00",
-          "stop": "2026-08-28T08:00:00+03:00",
-          "title": "Бодо Бородо. БОкварь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T08:00:00+03:00",
-          "stop": "2026-08-28T09:00:00+03:00",
-          "title": "Лунтик и его друзья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T09:00:00+03:00",
-          "stop": "2026-08-28T10:00:00+03:00",
-          "title": "Чебурашка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T10:00:00+03:00",
-          "stop": "2026-08-28T12:30:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T12:30:00+03:00",
-          "stop": "2026-08-28T16:00:00+03:00",
-          "title": "Приключения Пети и Волка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T16:00:00+03:00",
-          "stop": "2026-08-28T23:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T23:00:00+03:00",
-          "stop": "2026-08-28T23:10:00+03:00",
-          "title": "Чебурашка идёт в школу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T23:10:00+03:00",
-          "stop": "2026-08-28T23:30:00+03:00",
-          "title": "Баранкин, будь человеком!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T23:30:00+03:00",
-          "stop": "2026-08-29T00:00:00+03:00",
-          "title": "Простоквашино.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -218,6 +143,25 @@
           "start": "2026-08-30T23:00:00+03:00",
           "stop": "2026-08-31T00:00:00+03:00",
           "title": "Три кота.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:00:00+03:00",
+          "stop": "2026-08-31T01:45:00+03:00",
+          "title": "Про Миру и Гошу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T01:45:00+03:00",
+          "stop": "2026-08-31T02:45:00+03:00",
+          "title": "Простоквашино.",
           "description": "L",
           "category": null
         }

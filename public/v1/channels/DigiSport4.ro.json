@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T07:00:00+03:00",
-          "stop": "2026-08-28T09:00:00+03:00",
-          "title": "Cupa Ligii Angliei: Chelsea-Luton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T09:00:00+03:00",
-          "stop": "2026-08-28T10:00:00+03:00",
-          "title": "Interviurile Digi Sport Iasmin Latovlevici",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T10:00:00+03:00",
-          "stop": "2026-08-28T12:30:00+03:00",
-          "title": "⋗ Moto: Marele Premiu al provinciei Aragon Antrenamente Moto3/Moto2/MotoGP",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T12:30:00+03:00",
-          "stop": "2026-08-28T14:15:00+03:00",
-          "title": "Baschet: Danemarca-Romania Pre-Calificari Fiba EuroBasket",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T14:15:00+03:00",
-          "stop": "2026-08-28T17:15:00+03:00",
-          "title": "⋗ Moto: Marele Premiu al provinciei Aragon Antrenamente Moto3/Moto2/MotoGP",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T17:15:00+03:00",
-          "stop": "2026-08-28T19:00:00+03:00",
-          "title": "La Liga: Barcelona-Athletic Bilbao",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T19:00:00+03:00",
-          "stop": "2026-08-28T20:00:00+03:00",
-          "title": "Interviurile Digi Sport Iasmin Latovlevici",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T20:00:00+03:00",
-          "stop": "2026-08-28T22:00:00+03:00",
-          "title": "⋗ La Liga: Racing Santander-Elche Etapa 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T22:00:00+03:00",
-          "stop": "2026-08-28T22:30:00+03:00",
-          "title": "Stirile Digi Sport",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T22:30:00+03:00",
-          "stop": "2026-08-29T00:30:00+03:00",
-          "title": "⋗ La Liga: Alaves-Villarreal Etapa 3",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -316,6 +241,60 @@
           "start": "2026-08-30T22:30:00+03:00",
           "stop": "2026-08-31T00:30:00+03:00",
           "title": "⋗ La Liga: Celta Vigo-Athletic Bilbao Etapa 3",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:30:00+03:00",
+          "stop": "2026-08-31T01:45:00+03:00",
+          "title": "Moto: Marele Premiu al provinciei Aragon MotoGP Cursa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T01:45:00+03:00",
+          "stop": "2026-08-31T03:30:00+03:00",
+          "title": "Baschet: Romania-Bulgaria Pre-Calificari Fiba EuroBasket",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T03:30:00+03:00",
+          "stop": "2026-08-31T05:15:00+03:00",
+          "title": "Serie A: Napoli-Como Etapa 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T05:15:00+03:00",
+          "stop": "2026-08-31T07:00:00+03:00",
+          "title": "La Liga: Celta Vigo-Athletic Bilbao Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:00:00+03:00",
+          "stop": "2026-08-31T08:15:00+03:00",
+          "title": "Bundesliga: Clubs Episodul 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:15:00+03:00",
+          "stop": "2026-08-31T10:00:00+03:00",
+          "title": "Bundesliga: Borussia Dortmund-Hamburg Etapa 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T10:00:00+03:00",
+          "stop": "2026-08-31T11:45:00+03:00",
+          "title": "La Liga: Sevilla-Atletico Madrid Etapa 3",
           "description": "L",
           "category": null
         }

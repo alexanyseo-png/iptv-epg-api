@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-27T22:17:40.329622+00:00",
+  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-08-28",
-      "programs": [
-        {
-          "start": "2026-08-28T07:00:00+03:00",
-          "stop": "2026-08-28T19:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T19:40:00+03:00",
-          "stop": "2026-08-28T20:00:00+03:00",
-          "title": "Es folgt: Live Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-28T20:00:00+03:00",
-          "stop": "2026-08-29T00:15:00+03:00",
-          "title": "Live BL: FC Bayern München – VfB Stuttgart, Flutlicht-Freitag, 1. Spieltag",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-29",
       "programs": [
@@ -133,6 +107,18 @@
         {
           "start": "2026-08-30T17:45:00+03:00",
           "stop": "2026-08-31T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T07:00:00+03:00",
+          "stop": "2026-09-01T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
