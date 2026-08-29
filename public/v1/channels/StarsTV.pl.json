@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 14,
   "days": [
     {
       "date": "2026-08-29",
@@ -113,6 +113,13 @@
           "start": "2026-08-31T10:00:00+03:00",
           "stop": "2026-08-31T12:00:00+03:00",
           "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:00:00+03:00",
+          "stop": "2026-09-01T08:00:00+03:00",
+          "title": "Top 150 Synth-Pop & New Wave",
           "description": "L",
           "category": null
         }

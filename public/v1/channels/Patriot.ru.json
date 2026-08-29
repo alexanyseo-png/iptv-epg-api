@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 48,
+  "programmeCount": 50,
   "days": [
     {
       "date": "2026-08-29",
@@ -358,6 +358,20 @@
           "start": "2026-08-31T09:45:00+03:00",
           "stop": "2026-08-31T13:25:00+03:00",
           "title": "т/с Последний бронепоезд",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:25:00+03:00",
+          "stop": "2026-08-31T14:40:00+03:00",
+          "title": "х/ф Долгие версты войны (Журавлиный крик)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:40:00+03:00",
+          "stop": "2026-08-31T15:55:00+03:00",
+          "title": "х/ф Долгие версты войны (Атака с ходу)",
           "description": "L",
           "category": null
         }

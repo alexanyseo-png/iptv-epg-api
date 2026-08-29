@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 112,
+  "programmeCount": 113,
   "days": [
     {
       "date": "2026-08-29",
@@ -101,8 +101,15 @@
         },
         {
           "start": "2026-08-29T10:30:00+03:00",
-          "stop": "2026-08-29T11:45:00+03:00",
+          "stop": "2026-08-29T11:40:00+03:00",
           "title": "Bel et bien.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T11:40:00+03:00",
+          "stop": "2026-08-29T11:45:00+03:00",
+          "title": "Un jour, une question.",
           "description": "L",
           "category": null
         },
@@ -513,7 +520,7 @@
         {
           "start": "2026-08-30T21:30:00+03:00",
           "stop": "2026-08-30T22:00:00+03:00",
-          "title": "20h30 le dimanche.",
+          "title": "20h30 le dimanche - L'entretien, avec Muriel Robin.",
           "description": "L",
           "category": null
         },

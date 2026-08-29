@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 30,
   "days": [
     {
       "date": "2026-08-29",
@@ -216,8 +216,22 @@
         },
         {
           "start": "2026-08-31T07:30:00+03:00",
-          "stop": "2026-08-31T08:30:00+03:00",
+          "stop": "2026-08-31T09:05:00+03:00",
           "title": "Доброе утро, Казахстан!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T09:05:00+03:00",
+          "stop": "2026-08-31T10:05:00+03:00",
+          "title": "Модный приговор.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T10:05:00+03:00",
+          "stop": "2026-08-31T11:05:00+03:00",
+          "title": "Жить здорово!",
           "description": "L",
           "category": null
         }

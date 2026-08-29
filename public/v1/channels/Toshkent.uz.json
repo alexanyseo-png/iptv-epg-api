@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 51,
+  "programmeCount": 56,
   "days": [
     {
       "date": "2026-08-29",
@@ -18,14 +18,21 @@
         {
           "start": "2026-08-29T00:30:00+03:00",
           "stop": "2026-08-29T01:30:00+03:00",
-          "title": "Алишер Навои.",
+          "title": "Радиокитоб. Алишер Навои.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T01:30:00+03:00",
-          "stop": "2026-08-29T04:00:00+03:00",
+          "stop": "2026-08-29T02:20:00+03:00",
           "title": "Odamlar orasida.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T02:20:00+03:00",
+          "stop": "2026-08-29T04:00:00+03:00",
+          "title": "Xorij Film.",
           "description": "L",
           "category": null
         },
@@ -38,127 +45,155 @@
         },
         {
           "start": "2026-08-29T04:05:00+03:00",
-          "stop": "2026-08-29T05:20:00+03:00",
-          "title": "Владыка морей.",
+          "stop": "2026-08-29T05:30:00+03:00",
+          "title": "Художественный фильм.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T05:20:00+03:00",
+          "start": "2026-08-29T05:30:00+03:00",
+          "stop": "2026-08-29T06:00:00+03:00",
+          "title": "Yaxshi kayfiyat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T06:00:00+03:00",
           "stop": "2026-08-29T07:00:00+03:00",
-          "title": "Шопоголик.",
+          "title": "Onamga qo‘ng‘iroq.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T07:00:00+03:00",
-          "stop": "2026-08-29T07:30:00+03:00",
-          "title": "Poytaxt.",
+          "stop": "2026-08-29T08:00:00+03:00",
+          "title": "Mahallaning Piru-Badavlati.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T07:30:00+03:00",
-          "stop": "2026-08-29T09:10:00+03:00",
-          "title": "Росток.",
+          "start": "2026-08-29T08:00:00+03:00",
+          "stop": "2026-08-29T09:30:00+03:00",
+          "title": "Зачарованные.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T09:10:00+03:00",
+          "start": "2026-08-29T09:30:00+03:00",
           "stop": "2026-08-29T10:00:00+03:00",
-          "title": "Chapani choyxona.",
+          "title": "Kadr Ortida.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T10:00:00+03:00",
           "stop": "2026-08-29T11:00:00+03:00",
-          "title": "Ҳикматлп дунё.",
+          "title": "Хикматли дунё.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T11:00:00+03:00",
           "stop": "2026-08-29T11:30:00+03:00",
-          "title": "Sanamjon.",
+          "title": "Farovonlik sari.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T11:30:00+03:00",
-          "stop": "2026-08-29T15:00:00+03:00",
-          "title": "Серебро.",
+          "stop": "2026-08-29T12:00:00+03:00",
+          "title": "Backstage.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T15:00:00+03:00",
+          "start": "2026-08-29T12:00:00+03:00",
+          "stop": "2026-08-29T12:40:00+03:00",
+          "title": "Mening mahallam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T12:40:00+03:00",
+          "stop": "2026-08-29T14:00:00+03:00",
+          "title": "Где ты, суженный?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T14:00:00+03:00",
+          "stop": "2026-08-29T14:30:00+03:00",
+          "title": "Toshkentnoma.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T14:30:00+03:00",
+          "stop": "2026-08-29T15:30:00+03:00",
+          "title": "Uch Dugona, Uch Begona.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T15:30:00+03:00",
           "stop": "2026-08-29T16:00:00+03:00",
-          "title": "Mahallaning Piru-Badavlati.",
+          "title": "Ustoz va shogird.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T16:00:00+03:00",
           "stop": "2026-08-29T16:30:00+03:00",
-          "title": "Гость столицы.",
+          "title": "Sanamjon.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T16:30:00+03:00",
           "stop": "2026-08-29T17:00:00+03:00",
-          "title": "Qalpoq.",
+          "title": "Kutilmagan mehmon.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-29T17:00:00+03:00",
-          "stop": "2026-08-29T17:30:00+03:00",
-          "title": "Jamuljam.",
+          "stop": "2026-08-29T18:00:00+03:00",
+          "title": "Toshkentda Duel.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T17:30:00+03:00",
-          "stop": "2026-08-29T19:00:00+03:00",
-          "title": "Toshkent oqshomi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T19:00:00+03:00",
-          "stop": "2026-08-29T20:00:00+03:00",
-          "title": "Uch dugona-ych begona.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T20:00:00+03:00",
-          "stop": "2026-08-29T22:00:00+03:00",
+          "start": "2026-08-29T18:00:00+03:00",
+          "stop": "2026-08-29T18:25:00+03:00",
           "title": "Toshkentda iste'dodlar ijrosi.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T22:00:00+03:00",
-          "stop": "2026-08-29T22:05:00+03:00",
-          "title": "Гимн.",
+          "start": "2026-08-29T18:25:00+03:00",
+          "stop": "2026-08-29T19:10:00+03:00",
+          "title": "Jumboqli quti.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T22:05:00+03:00",
-          "stop": "2026-08-29T22:30:00+03:00",
-          "title": "Tungi toshkent.",
+          "start": "2026-08-29T19:10:00+03:00",
+          "stop": "2026-08-29T19:50:00+03:00",
+          "title": "Odamlar orasida.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T22:30:00+03:00",
+          "start": "2026-08-29T19:50:00+03:00",
+          "stop": "2026-08-29T20:30:00+03:00",
+          "title": "Toshkent manzillari.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T20:30:00+03:00",
           "stop": "2026-08-29T23:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
+          "title": "Toshkent oqshomi.",
           "description": "L",
           "category": null
         },
@@ -371,7 +406,7 @@
         {
           "start": "2026-08-31T01:00:00+03:00",
           "stop": "2026-08-31T02:00:00+03:00",
-          "title": "Ҳикматлп дунё.",
+          "title": "Хикматли дунё.",
           "description": "L",
           "category": null
         },

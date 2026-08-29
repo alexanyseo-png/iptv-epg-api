@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 197,
+  "programmeCount": 201,
   "days": [
     {
       "date": "2026-08-29",
@@ -94,8 +94,15 @@
         },
         {
           "start": "2026-08-29T08:20:00+03:00",
-          "stop": "2026-08-29T08:35:00+03:00",
+          "stop": "2026-08-29T08:25:00+03:00",
           "title": "Peppa Pig. S: 4 / Ep: 31.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T08:25:00+03:00",
+          "stop": "2026-08-29T08:35:00+03:00",
+          "title": "Peppa Pig. S: 4 / Ep: 32.",
           "description": "L",
           "category": null
         },
@@ -136,8 +143,15 @@
         },
         {
           "start": "2026-08-29T09:50:00+03:00",
-          "stop": "2026-08-29T10:10:00+03:00",
+          "stop": "2026-08-29T10:00:00+03:00",
           "title": "Rubble & Crew. S: 2 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T10:00:00+03:00",
+          "stop": "2026-08-29T10:10:00+03:00",
+          "title": "Rubble & Crew. S: 1 / Ep: 48.",
           "description": "L",
           "category": null
         },
@@ -199,8 +213,15 @@
         },
         {
           "start": "2026-08-29T11:55:00+03:00",
-          "stop": "2026-08-29T12:20:00+03:00",
+          "stop": "2026-08-29T12:05:00+03:00",
           "title": "Rubble & Crew. S: 2 / Ep: 12.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T12:05:00+03:00",
+          "stop": "2026-08-29T12:20:00+03:00",
+          "title": "Rubble & Crew. S: 1 / Ep: 49.",
           "description": "L",
           "category": null
         },
@@ -304,27 +325,34 @@
         },
         {
           "start": "2026-08-29T16:35:00+03:00",
-          "stop": "2026-08-29T16:55:00+03:00",
+          "stop": "2026-08-29T16:40:00+03:00",
           "title": "Karate Schaf. S: 1 / Ep: 4.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-08-29T16:40:00+03:00",
+          "stop": "2026-08-29T16:55:00+03:00",
+          "title": "Karate Schaf. S: 1 / Ep: 31.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-08-29T16:55:00+03:00",
-          "stop": "2026-08-29T17:00:00+03:00",
+          "stop": "2026-08-29T17:05:00+03:00",
           "title": "Karate Schaf. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T17:00:00+03:00",
-          "stop": "2026-08-29T17:05:00+03:00",
+          "start": "2026-08-29T17:05:00+03:00",
+          "stop": "2026-08-29T17:10:00+03:00",
           "title": "Karate Schaf. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-29T17:05:00+03:00",
+          "start": "2026-08-29T17:10:00+03:00",
           "stop": "2026-08-29T17:25:00+03:00",
           "title": "Karate Schaf. S: 1 / Ep: 7.",
           "description": "L",

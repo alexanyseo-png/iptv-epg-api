@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 32,
+  "programmeCount": 36,
   "days": [
     {
       "date": "2026-08-29",
@@ -246,6 +246,34 @@
           "start": "2026-08-31T09:35:00+03:00",
           "stop": "2026-08-31T11:30:00+03:00",
           "title": "ALBA Berlin – Unicaja",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:30:00+03:00",
+          "stop": "2026-08-31T13:10:00+03:00",
+          "title": "AEK BC – Asisa Juventut",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:10:00+03:00",
+          "stop": "2026-08-31T13:30:00+03:00",
+          "title": "ČEZ RunTour 2026 – Olomouc",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:30:00+03:00",
+          "stop": "2026-08-31T14:00:00+03:00",
+          "title": "GKA Big Air Kite Worldchampionships",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:00:00+03:00",
+          "stop": "2026-08-31T16:30:00+03:00",
+          "title": "US Open Pool 2026",
           "description": "L",
           "category": null
         }

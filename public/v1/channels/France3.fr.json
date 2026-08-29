@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 155,
+  "programmeCount": 171,
   "days": [
     {
       "date": "2026-08-29",
@@ -319,7 +319,7 @@
         {
           "start": "2026-08-29T12:12:00+03:00",
           "stop": "2026-08-29T12:15:00+03:00",
-          "title": "Un jour, une question.",
+          "title": "1 jour, 1 question.",
           "description": "L",
           "category": null
         },
@@ -374,8 +374,15 @@
         },
         {
           "start": "2026-08-29T15:30:00+03:00",
-          "stop": "2026-08-29T16:10:00+03:00",
+          "stop": "2026-08-29T16:00:00+03:00",
           "title": "Samedi d'en rire.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T16:00:00+03:00",
+          "stop": "2026-08-29T16:10:00+03:00",
+          "title": "Champions d'exception.",
           "description": "L",
           "category": null
         },
@@ -409,6 +416,20 @@
         },
         {
           "start": "2026-08-29T20:00:00+03:00",
+          "stop": "2026-08-29T20:15:00+03:00",
+          "title": "Le journal des talents.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T20:15:00+03:00",
+          "stop": "2026-08-29T20:16:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T20:16:00+03:00",
           "stop": "2026-08-29T20:45:00+03:00",
           "title": "ICI 19/20.",
           "description": "L",
@@ -437,8 +458,15 @@
         },
         {
           "start": "2026-08-29T21:30:00+03:00",
-          "stop": "2026-08-29T21:35:00+03:00",
+          "stop": "2026-08-29T21:31:00+03:00",
           "title": "Météo des plages.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-29T21:31:00+03:00",
+          "stop": "2026-08-29T21:35:00+03:00",
+          "title": "Dans le rétro.",
           "description": "L",
           "category": null
         },
@@ -792,6 +820,13 @@
         },
         {
           "start": "2026-08-30T13:30:00+03:00",
+          "stop": "2026-08-30T13:40:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T13:40:00+03:00",
           "stop": "2026-08-30T13:55:00+03:00",
           "title": "ICI 12/13 édition toutes régions.",
           "description": "L",
@@ -813,8 +848,15 @@
         },
         {
           "start": "2026-08-30T16:10:00+03:00",
-          "stop": "2026-08-30T18:25:00+03:00",
+          "stop": "2026-08-30T17:15:00+03:00",
           "title": "▶️ Cyclisme: Grand Prix de Plouay (auparavant) - 228,3 km.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T17:15:00+03:00",
+          "stop": "2026-08-30T18:25:00+03:00",
+          "title": "Champions d'exception.",
           "description": "L",
           "category": null
         },
@@ -841,6 +883,20 @@
         },
         {
           "start": "2026-08-30T20:00:00+03:00",
+          "stop": "2026-08-30T20:15:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T20:15:00+03:00",
+          "stop": "2026-08-30T20:16:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T20:16:00+03:00",
           "stop": "2026-08-30T20:45:00+03:00",
           "title": "ICI 19/20.",
           "description": "L",
@@ -855,6 +911,13 @@
         },
         {
           "start": "2026-08-30T21:00:00+03:00",
+          "stop": "2026-08-30T21:01:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-30T21:01:00+03:00",
           "stop": "2026-08-30T21:05:00+03:00",
           "title": "Météo régionale.",
           "description": "L",
@@ -994,14 +1057,28 @@
         {
           "start": "2026-08-31T13:05:00+03:00",
           "stop": "2026-08-31T13:15:00+03:00",
-          "title": "Outremer.l'info.",
+          "title": "▶️ Outremer.l'info.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-31T13:15:00+03:00",
+          "stop": "2026-08-31T13:22:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:22:00+03:00",
+          "stop": "2026-08-31T13:25:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:25:00+03:00",
           "stop": "2026-08-31T13:55:00+03:00",
-          "title": "ICI 12/13 édition toutes régions.",
+          "title": "▶️ ICI 12/13 édition toutes régions.",
           "description": "L",
           "category": null
         },
@@ -1043,14 +1120,21 @@
         {
           "start": "2026-08-31T18:25:00+03:00",
           "stop": "2026-08-31T19:00:00+03:00",
-          "title": "Duels en familles.",
+          "title": "Duels en familles, le match des régions.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-08-31T19:00:00+03:00",
-          "stop": "2026-08-31T19:50:00+03:00",
+          "stop": "2026-08-31T19:40:00+03:00",
           "title": "Slam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T19:40:00+03:00",
+          "stop": "2026-08-31T19:50:00+03:00",
+          "title": "Réflexe !",
           "description": "L",
           "category": null
         },
@@ -1063,8 +1147,29 @@
         },
         {
           "start": "2026-08-31T20:00:00+03:00",
+          "stop": "2026-08-31T20:16:00+03:00",
+          "title": "Dans le rétro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T20:16:00+03:00",
+          "stop": "2026-08-31T20:20:00+03:00",
+          "title": "Le journal des talents.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T20:20:00+03:00",
+          "stop": "2026-08-31T20:50:00+03:00",
+          "title": "▶️ ICI 19/20.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T20:50:00+03:00",
           "stop": "2026-08-31T21:00:00+03:00",
-          "title": "ICI 19/20.",
+          "title": "On vous emmène ici.",
           "description": "L",
           "category": null
         },
@@ -1084,8 +1189,15 @@
         },
         {
           "start": "2026-08-31T21:20:00+03:00",
-          "stop": "2026-08-31T21:25:00+03:00",
+          "stop": "2026-08-31T21:21:00+03:00",
           "title": "Météo régionale.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T21:21:00+03:00",
+          "stop": "2026-08-31T21:25:00+03:00",
+          "title": "Journal des talents.",
           "description": "L",
           "category": null
         },
@@ -1105,7 +1217,7 @@
         },
         {
           "start": "2026-08-31T22:10:00+03:00",
-          "stop": "2026-09-01T01:05:00+03:00",
+          "stop": "2026-09-01T01:00:00+03:00",
           "title": "Le bon, la brute et le truand.",
           "description": "L",
           "category": null

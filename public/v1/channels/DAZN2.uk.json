@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 39,
   "days": [
     {
       "date": "2026-08-29",
@@ -274,6 +274,27 @@
           "start": "2026-08-31T09:00:00+03:00",
           "stop": "2026-08-31T11:00:00+03:00",
           "title": "Bundesliga 26/27 – SV Elversberg – Bayer 04 Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:00:00+03:00",
+          "stop": "2026-08-31T12:55:00+03:00",
+          "title": "Bundesliga 26/27 – FC Bayern München – VFB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:55:00+03:00",
+          "stop": "2026-08-31T14:20:00+03:00",
+          "title": "Originals: Green Lions – Kamerun 1990",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:20:00+03:00",
+          "stop": "2026-08-31T15:00:00+03:00",
+          "title": "Originals: Werder Bremen – Wiederaufbau",
           "description": "L",
           "category": null
         }

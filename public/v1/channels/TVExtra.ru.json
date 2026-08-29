@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 55,
+  "programmeCount": 59,
   "days": [
     {
       "date": "2026-08-29",
@@ -407,6 +407,34 @@
           "start": "2026-08-31T10:35:00+03:00",
           "stop": "2026-08-31T11:30:00+03:00",
           "title": "т/с ПОЗДНЕЕ РАСКАЯНИЕ. 5 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:30:00+03:00",
+          "stop": "2026-08-31T12:20:00+03:00",
+          "title": "т/с ВСКРЫТИЕ ПОКАЖЕТ. 22 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:20:00+03:00",
+          "stop": "2026-08-31T13:15:00+03:00",
+          "title": "т/с ВСКРЫТИЕ ПОКАЖЕТ. 23 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:15:00+03:00",
+          "stop": "2026-08-31T14:15:00+03:00",
+          "title": "Мистические истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:15:00+03:00",
+          "stop": "2026-08-31T15:10:00+03:00",
+          "title": "т/с МЕСТО ПОД СОЛНЦЕМ. 9 с.",
           "description": "L",
           "category": null
         }

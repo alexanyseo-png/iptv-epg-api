@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 52,
+  "programmeCount": 54,
   "days": [
     {
       "date": "2026-08-29",
@@ -386,6 +386,20 @@
           "start": "2026-08-31T09:56:00+03:00",
           "stop": "2026-08-31T11:44:00+03:00",
           "title": "Лига 1: Лион – Гавр",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:44:00+03:00",
+          "stop": "2026-08-31T13:32:00+03:00",
+          "title": "АПЛ: Лидс – Брентфорд",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:32:00+03:00",
+          "stop": "2026-08-31T15:20:00+03:00",
+          "title": "Серия А: Наполи – Комо",
           "description": "L",
           "category": null
         }

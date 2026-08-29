@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 73,
+  "programmeCount": 77,
   "days": [
     {
       "date": "2026-08-29",
@@ -533,6 +533,34 @@
           "start": "2026-08-31T10:00:00+03:00",
           "stop": "2026-08-31T11:00:00+03:00",
           "title": "Homme. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:00:00+03:00",
+          "stop": "2026-08-31T12:00:00+03:00",
+          "title": "Femme. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:00:00+03:00",
+          "stop": "2026-08-31T13:00:00+03:00",
+          "title": "Cities (Лондон)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:00:00+03:00",
+          "stop": "2026-08-31T14:00:00+03:00",
+          "title": "Look. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:00:00+03:00",
+          "stop": "2026-08-31T15:00:00+03:00",
+          "title": "Cities (Лондон)",
           "description": "L",
           "category": null
         }

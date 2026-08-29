@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 47,
+  "programmeCount": 52,
   "days": [
     {
       "date": "2026-08-29",
@@ -351,6 +351,41 @@
           "start": "2026-08-31T08:45:00+03:00",
           "stop": "2026-08-31T11:45:00+03:00",
           "title": "м/ф Лапозавры (Сборник 62)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:45:00+03:00",
+          "stop": "2026-08-31T12:00:00+03:00",
+          "title": "м/ф Джи-Джи Бонд: Супергонщик (Выбор Вжух-Вжух)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:00:00+03:00",
+          "stop": "2026-08-31T12:30:00+03:00",
+          "title": "м/ф Инфинити Надо (Сборник 104)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:30:00+03:00",
+          "stop": "2026-08-31T12:35:00+03:00",
+          "title": "Навигатор. Новости",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:35:00+03:00",
+          "stop": "2026-08-31T12:40:00+03:00",
+          "title": "Погода",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:40:00+03:00",
+          "stop": "2026-08-31T15:00:00+03:00",
+          "title": "м/ф Барбоскины (Сборник 2507)",
           "description": "L",
           "category": null
         }

@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 38,
   "days": [
     {
       "date": "2026-08-29",
@@ -281,6 +281,13 @@
           "start": "2026-08-31T10:05:00+03:00",
           "stop": "2026-08-31T11:55:00+03:00",
           "title": "Футбол. Лига Пари. Тур 9. Арсенал (Тула) – Урал (Екатеринбург)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:55:00+03:00",
+          "stop": "2026-08-31T15:00:00+03:00",
+          "title": "⋗ Бокс. Россия. Трансляция из Саранска",
           "description": "L",
           "category": null
         }

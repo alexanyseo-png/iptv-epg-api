@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-28T22:23:25.610180+00:00",
+  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 25,
   "days": [
     {
       "date": "2026-08-29",
@@ -183,6 +183,20 @@
           "start": "2026-08-31T06:55:00+03:00",
           "stop": "2026-08-31T11:45:00+03:00",
           "title": "Kalk Gidelim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:45:00+03:00",
+          "stop": "2026-08-31T14:00:00+03:00",
+          "title": "Enine Boyuna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:00:00+03:00",
+          "stop": "2026-08-31T17:30:00+03:00",
+          "title": "Dizi",
           "description": "L",
           "category": null
         }
