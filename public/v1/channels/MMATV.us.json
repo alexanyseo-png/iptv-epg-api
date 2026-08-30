@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
+  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-08-29",
-      "programs": [
-        {
-          "start": "2026-08-29T00:15:00+03:00",
-          "stop": "2026-08-29T03:40:00+03:00",
-          "title": "MMA Series. Сабмишен Party. Г.Мишин, В.Сукаленко, Р.Соуза.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T03:40:00+03:00",
-          "stop": "2026-08-29T04:05:00+03:00",
-          "title": "Территория ММА-ТВ.ком (161-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T04:05:00+03:00",
-          "stop": "2026-08-29T08:00:00+03:00",
-          "title": "MMA Series.Топ бойцов среднего веса. Ш.Абдулхаликов, Р.Карасев, К.Герейханов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T08:00:00+03:00",
-          "stop": "2026-08-29T12:00:00+03:00",
-          "title": "MMA Series Names (А.Василенко, С.Курочкин, И.Константинов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T12:00:00+03:00",
-          "stop": "2026-08-29T15:45:00+03:00",
-          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T15:45:00+03:00",
-          "stop": "2026-08-29T16:15:00+03:00",
-          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T16:15:00+03:00",
-          "stop": "2026-08-29T18:00:00+03:00",
-          "title": "MMA Series Names (Г.Mишин).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T18:00:00+03:00",
-          "stop": "2026-08-29T18:40:00+03:00",
-          "title": "MMA Series Names (B.Руденко).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T18:40:00+03:00",
-          "stop": "2026-08-29T19:00:00+03:00",
-          "title": "Территория ММА-ТВ.ком (162-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T19:00:00+03:00",
-          "stop": "2026-08-29T23:00:00+03:00",
-          "title": "ММА Серия - 94. Н.Бархатов - Д.Михайлиди.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T23:00:00+03:00",
-          "stop": "2026-08-29T23:30:00+03:00",
-          "title": "Клетка Виктории Ицеховской (MMA Серия - 94).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T23:30:00+03:00",
-          "stop": "2026-08-30T00:00:00+03:00",
-          "title": "MMA Series Names (Д.Михайлиди).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-30",
       "programs": [
@@ -176,8 +87,109 @@
         },
         {
           "start": "2026-08-30T23:45:00+03:00",
-          "stop": "2026-08-31T00:45:00+03:00",
+          "stop": "2026-08-31T00:10:00+03:00",
           "title": "Территория ММА-ТВ.ком (162-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:10:00+03:00",
+          "stop": "2026-08-31T01:50:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T01:50:00+03:00",
+          "stop": "2026-08-31T04:10:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T04:10:00+03:00",
+          "stop": "2026-08-31T07:35:00+03:00",
+          "title": "MMA Series.Топ бойцов среднего веса. Ш.Абдулхаликов, Р.Карасев, К.Герейханов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:35:00+03:00",
+          "stop": "2026-08-31T08:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (162-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:00:00+03:00",
+          "stop": "2026-08-31T09:50:00+03:00",
+          "title": "MMA Series Names (Г.Mишин).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T09:50:00+03:00",
+          "stop": "2026-08-31T11:40:00+03:00",
+          "title": "MMA Series Names (B.Руденко).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T11:40:00+03:00",
+          "stop": "2026-08-31T12:00:00+03:00",
+          "title": "Территория ММА-ТВ.ком (162-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:00:00+03:00",
+          "stop": "2026-08-31T13:35:00+03:00",
+          "title": "MMA series. Хай Кик Party. М.Саидов, И.Варварский, В.Руденко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:35:00+03:00",
+          "stop": "2026-08-31T15:45:00+03:00",
+          "title": "MMA Series. Вокаут Party. С.Хатиев, С.Бобрышев, Д.Гонсалвес, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T15:45:00+03:00",
+          "stop": "2026-08-31T19:35:00+03:00",
+          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T19:35:00+03:00",
+          "stop": "2026-08-31T20:00:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T20:00:00+03:00",
+          "stop": "2026-09-01T00:45:00+03:00",
+          "title": "Игры Будущего. Астана 2026: Фиджитал Единоборства.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "programs": [
+        {
+          "start": "2026-09-01T00:45:00+03:00",
+          "stop": "2026-09-01T01:45:00+03:00",
+          "title": "MMA Series Main Card.",
           "description": "L",
           "category": null
         }

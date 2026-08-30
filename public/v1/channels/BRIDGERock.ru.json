@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-29T16:44:54.002380+00:00",
+  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
   "available": true,
-  "programmeCount": 14,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-08-29",
-      "programs": [
-        {
-          "start": "2026-08-29T00:00:00+03:00",
-          "stop": "2026-08-29T08:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T08:00:00+03:00",
-          "stop": "2026-08-29T08:30:00+03:00",
-          "title": "Rock party time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T08:30:00+03:00",
-          "stop": "2026-08-29T18:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T18:00:00+03:00",
-          "stop": "2026-08-29T18:40:00+03:00",
-          "title": "Рок Чарт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T18:40:00+03:00",
-          "stop": "2026-08-29T22:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T22:00:00+03:00",
-          "stop": "2026-08-29T22:30:00+03:00",
-          "title": "Rock party time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-29T22:30:00+03:00",
-          "stop": "2026-08-30T00:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-30",
       "programs": [
@@ -114,6 +60,72 @@
         {
           "start": "2026-08-30T23:00:00+03:00",
           "stop": "2026-08-31T00:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-08-31",
+      "programs": [
+        {
+          "start": "2026-08-31T00:00:00+03:00",
+          "stop": "2026-08-31T08:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:00:00+03:00",
+          "stop": "2026-08-31T08:30:00+03:00",
+          "title": "Rock party time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T08:30:00+03:00",
+          "stop": "2026-08-31T13:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:00:00+03:00",
+          "stop": "2026-08-31T13:40:00+03:00",
+          "title": "Рок Чарт.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T13:40:00+03:00",
+          "stop": "2026-08-31T22:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T22:00:00+03:00",
+          "stop": "2026-08-31T22:30:00+03:00",
+          "title": "Rock party time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T22:30:00+03:00",
+          "stop": "2026-09-01T00:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-01",
+      "programs": [
+        {
+          "start": "2026-09-01T00:00:00+03:00",
+          "stop": "2026-09-01T01:00:00+03:00",
           "title": "Рок Миксер.",
           "description": "L",
           "category": null
