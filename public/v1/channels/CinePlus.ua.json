@@ -8,120 +8,73 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
+  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-08-30",
-      "programs": [
-        {
-          "start": "2026-08-30T01:15:00+03:00",
-          "stop": "2026-08-30T04:00:00+03:00",
-          "title": "х/ф Містер Ніхто",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T04:00:00+03:00",
-          "stop": "2026-08-30T06:50:00+03:00",
-          "title": "Нічне промо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T06:50:00+03:00",
-          "stop": "2026-08-30T07:10:00+03:00",
-          "title": "Cine+ Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T07:10:00+03:00",
-          "stop": "2026-08-30T09:00:00+03:00",
-          "title": "х/ф Все буде ОК",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T09:00:00+03:00",
-          "stop": "2026-08-30T09:30:00+03:00",
-          "title": "Cine+ Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T09:30:00+03:00",
-          "stop": "2026-08-30T11:10:00+03:00",
-          "title": "х/ф Фокстер і Макс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T11:10:00+03:00",
-          "stop": "2026-08-30T12:50:00+03:00",
-          "title": "х/ф Наречений напрокат",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T12:50:00+03:00",
-          "stop": "2026-08-30T14:55:00+03:00",
-          "title": "х/ф Чому він?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T14:55:00+03:00",
-          "stop": "2026-08-30T17:05:00+03:00",
-          "title": "х/ф Нарешті світанок",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T17:05:00+03:00",
-          "stop": "2026-08-30T19:00:00+03:00",
-          "title": "х/ф Мої думки тихі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T19:00:00+03:00",
-          "stop": "2026-08-30T21:05:00+03:00",
-          "title": "х/ф Вибір",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T21:05:00+03:00",
-          "stop": "2026-08-30T23:10:00+03:00",
-          "title": "х/ф Особливі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T23:10:00+03:00",
-          "stop": "2026-08-31T01:00:00+03:00",
-          "title": "х/ф Чорне пір'я",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-31",
       "programs": [
         {
-          "start": "2026-08-31T01:00:00+03:00",
-          "stop": "2026-08-31T02:50:00+03:00",
+          "start": "2026-08-31T00:55:00+03:00",
+          "stop": "2026-08-31T02:45:00+03:00",
           "title": "х/ф Таємна операція",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T02:50:00+03:00",
-          "stop": "2026-08-31T03:50:00+03:00",
+          "start": "2026-08-31T02:45:00+03:00",
+          "stop": "2026-08-31T07:00:00+03:00",
           "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:00:00+03:00",
+          "stop": "2026-08-31T07:25:00+03:00",
+          "title": "Cine+ Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T07:25:00+03:00",
+          "stop": "2026-08-31T09:00:00+03:00",
+          "title": "х/ф Кохання без контракту",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T09:00:00+03:00",
+          "stop": "2026-08-31T10:50:00+03:00",
+          "title": "х/ф Найкращі вихідні",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T10:50:00+03:00",
+          "stop": "2026-08-31T12:30:00+03:00",
+          "title": "х/ф Крокодил Данді в Голлівуді",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T12:30:00+03:00",
+          "stop": "2026-08-31T14:35:00+03:00",
+          "title": "х/ф Тоґо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T14:35:00+03:00",
+          "stop": "2026-08-31T16:40:00+03:00",
+          "title": "х/ф Батько Мати Сестра Брат",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T16:40:00+03:00",
+          "stop": "2026-08-31T18:40:00+03:00",
+          "title": "х/ф ТойХтоПройшовКрізьВогонь",
           "description": "L",
           "category": null
         }

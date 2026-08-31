@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
+  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
   "available": true,
-  "programmeCount": 22,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-08-30",
-      "programs": [
-        {
-          "start": "2026-08-30T01:00:00+03:00",
-          "stop": "2026-08-30T01:45:00+03:00",
-          "title": "Moto: Marele Premiu al provinciei Aragon Sprint MotoGP",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T01:45:00+03:00",
-          "stop": "2026-08-30T03:30:00+03:00",
-          "title": "Serie A: Fiorentina-Frosinone Etapa 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T03:30:00+03:00",
-          "stop": "2026-08-30T05:15:00+03:00",
-          "title": "Bundesliga: Leipzig-Borussia M'gladbach Etapa 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T05:15:00+03:00",
-          "stop": "2026-08-30T07:00:00+03:00",
-          "title": "La Liga: Sevilla-Atletico Madrid Etapa 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T07:00:00+03:00",
-          "stop": "2026-08-30T08:45:00+03:00",
-          "title": "Superliga: FC Arges-Sepsi Sfantu Gheorghe Etapa 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T08:45:00+03:00",
-          "stop": "2026-08-30T10:45:00+03:00",
-          "title": "Superliga: Corvinul Hunedoara-Dinamo Etapa 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T10:45:00+03:00",
-          "stop": "2026-08-30T12:30:00+03:00",
-          "title": "Serie A: Fiorentina-Frosinone Etapa 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T12:30:00+03:00",
-          "stop": "2026-08-30T14:30:00+03:00",
-          "title": "Bundesliga: Borussia Dortmund-Hamburg Etapa 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T14:30:00+03:00",
-          "stop": "2026-08-30T16:30:00+03:00",
-          "title": "⋗ Bundesliga 2: St.Pauli-Kaiserslautern Etapa 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T16:30:00+03:00",
-          "stop": "2026-08-30T18:30:00+03:00",
-          "title": "Tenis: WTA Monterrey Finala",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T18:30:00+03:00",
-          "stop": "2026-08-30T20:30:00+03:00",
-          "title": "⋗ Bundesliga: Augsburg-Schalke Etapa 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T20:30:00+03:00",
-          "stop": "2026-08-30T22:30:00+03:00",
-          "title": "⋗ La Liga: Deportivo-Valencia Etapa 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T22:30:00+03:00",
-          "stop": "2026-08-31T00:30:00+03:00",
-          "title": "⋗ La Liga: Celta Vigo-Athletic Bilbao Etapa 3",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-31",
       "programs": [
@@ -171,6 +75,13 @@
           "start": "2026-08-31T13:45:00+03:00",
           "stop": "2026-08-31T15:30:00+03:00",
           "title": "Baschet: Romania-Bulgaria Pre-Calificari Fiba EuroBasket",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T15:30:00+03:00",
+          "stop": "2026-08-31T18:30:00+03:00",
+          "title": "Moto: Marele Premiu al provinciei Aragon Moto3/Moto2/MotoGP Curse",
           "description": "L",
           "category": null
         }

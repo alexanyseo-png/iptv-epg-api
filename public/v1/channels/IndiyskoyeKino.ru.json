@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
+  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-08-30",
-      "programs": [
-        {
-          "start": "2026-08-30T01:05:00+03:00",
-          "stop": "2026-08-30T04:40:00+03:00",
-          "title": "Каран и Арджун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T04:40:00+03:00",
-          "stop": "2026-08-30T07:55:00+03:00",
-          "title": "Хамраз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T07:55:00+03:00",
-          "stop": "2026-08-30T11:15:00+03:00",
-          "title": "Бродяга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T11:15:00+03:00",
-          "stop": "2026-08-30T14:05:00+03:00",
-          "title": "Наглец.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T14:05:00+03:00",
-          "stop": "2026-08-30T16:55:00+03:00",
-          "title": "Кишан и Канхайя.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T16:55:00+03:00",
-          "stop": "2026-08-30T20:00:00+03:00",
-          "title": "Танцовщица кабаре.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T20:00:00+03:00",
-          "stop": "2026-08-30T23:15:00+03:00",
-          "title": "Солдат.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T23:15:00+03:00",
-          "stop": "2026-08-31T02:00:00+03:00",
-          "title": "Полный дом.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-31",
       "programs": [
@@ -139,8 +78,125 @@
       "programs": [
         {
           "start": "2026-09-01T01:10:00+03:00",
-          "stop": "2026-09-01T02:10:00+03:00",
+          "stop": "2026-09-01T04:40:00+03:00",
           "title": "Обольстительница.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T04:40:00+03:00",
+          "stop": "2026-09-01T07:50:00+03:00",
+          "title": "Бродяга.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T07:50:00+03:00",
+          "stop": "2026-09-01T10:35:00+03:00",
+          "title": "Полный дом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T10:35:00+03:00",
+          "stop": "2026-09-01T13:20:00+03:00",
+          "title": "Сатьяпрем и Катха.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T13:20:00+03:00",
+          "stop": "2026-09-01T17:05:00+03:00",
+          "title": "Кто я для тебя?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T17:05:00+03:00",
+          "stop": "2026-09-01T20:00:00+03:00",
+          "title": "Кишан и Канхайя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T20:00:00+03:00",
+          "stop": "2026-09-01T22:55:00+03:00",
+          "title": "Симмба.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T22:55:00+03:00",
+          "stop": "2026-09-02T01:10:00+03:00",
+          "title": "Бесстрашный снова в бою.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "programs": [
+        {
+          "start": "2026-09-02T01:10:00+03:00",
+          "stop": "2026-09-02T03:25:00+03:00",
+          "title": "Ненависть.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T03:25:00+03:00",
+          "stop": "2026-09-02T06:20:00+03:00",
+          "title": "Две души.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T06:20:00+03:00",
+          "stop": "2026-09-02T09:25:00+03:00",
+          "title": "Танцовщица кабаре.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T09:25:00+03:00",
+          "stop": "2026-09-02T12:10:00+03:00",
+          "title": "Наглец.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T12:10:00+03:00",
+          "stop": "2026-09-02T15:20:00+03:00",
+          "title": "Медальон.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T15:20:00+03:00",
+          "stop": "2026-09-02T17:20:00+03:00",
+          "title": "Невеста и предрассудки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T17:20:00+03:00",
+          "stop": "2026-09-02T20:00:00+03:00",
+          "title": "Омадсизга кулди омад.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T20:00:00+03:00",
+          "stop": "2026-09-02T23:05:00+03:00",
+          "title": "Скажи, что любишь!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T23:05:00+03:00",
+          "stop": "2026-09-03T02:20:00+03:00",
+          "title": "Три друга.",
           "description": "L",
           "category": null
         }

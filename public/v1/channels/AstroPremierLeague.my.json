@@ -8,148 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-30T11:57:24.185620+00:00",
+  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-08-30",
-      "programs": [
-        {
-          "start": "2026-08-30T00:50:00+03:00",
-          "stop": "2026-08-30T01:50:00+03:00",
-          "title": "PL Moments: Remembering Kevin Keegan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T01:50:00+03:00",
-          "stop": "2026-08-30T04:00:00+03:00",
-          "title": "(D) PL: Coventry vs Hull",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T04:00:00+03:00",
-          "stop": "2026-08-30T06:10:00+03:00",
-          "title": "PL: Liverpool vs Nottm Forest",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T06:10:00+03:00",
-          "stop": "2026-08-30T08:20:00+03:00",
-          "title": "PL: Bournemouth vs Everton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T08:20:00+03:00",
-          "stop": "2026-08-30T11:20:00+03:00",
-          "title": "PL: Tottenham vs Newcastle",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T11:20:00+03:00",
-          "stop": "2026-08-30T13:30:00+03:00",
-          "title": "PL: Liverpool vs Nottm Forest",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T13:30:00+03:00",
-          "stop": "2026-08-30T14:00:00+03:00",
-          "title": "PL Preview 2026/27: Week 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T14:00:00+03:00",
-          "stop": "2026-08-30T14:30:00+03:00",
-          "title": "Match HL 2026/27: WK2: COV vs HUL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T14:30:00+03:00",
-          "stop": "2026-08-30T15:00:00+03:00",
-          "title": "Match HL 2026/27: WK2: TOT vs NEW",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T15:00:00+03:00",
-          "stop": "2026-08-30T15:30:00+03:00",
-          "title": "Match HL 2026/27: WK2: LIV vs NFO",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T15:30:00+03:00",
-          "stop": "2026-08-30T16:00:00+03:00",
-          "title": "⋗ Preshow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T16:00:00+03:00",
-          "stop": "2026-08-30T18:00:00+03:00",
-          "title": "⋗ PL: Chelsea vs Brighton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T18:00:00+03:00",
-          "stop": "2026-08-30T18:15:00+03:00",
-          "title": "⋗ Postshow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T18:15:00+03:00",
-          "stop": "2026-08-30T18:30:00+03:00",
-          "title": "⋗ Preshow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T18:30:00+03:00",
-          "stop": "2026-08-30T20:30:00+03:00",
-          "title": "⋗ PL: Man Utd vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T20:30:00+03:00",
-          "stop": "2026-08-30T21:00:00+03:00",
-          "title": "⋗ Postshow",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T21:00:00+03:00",
-          "stop": "2026-08-30T23:10:00+03:00",
-          "title": "PL: Coventry vs Hull",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T23:10:00+03:00",
-          "stop": "2026-08-30T23:40:00+03:00",
-          "title": "Match HL 2026/27: WK2: CRY vs MCI",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-30T23:40:00+03:00",
-          "stop": "2026-08-31T00:20:00+03:00",
-          "title": "Match HL 2026/27: WK2: BOU vs EVE",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-08-31",
       "programs": [
@@ -234,6 +96,27 @@
           "start": "2026-08-31T14:30:00+03:00",
           "stop": "2026-08-31T15:00:00+03:00",
           "title": "Match HL 2026/27: WK2: LEE vs BRE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T15:00:00+03:00",
+          "stop": "2026-08-31T15:30:00+03:00",
+          "title": "Match HL 2026/27: WK2: SUN vs FUL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T15:30:00+03:00",
+          "stop": "2026-08-31T16:00:00+03:00",
+          "title": "Match HL 2026/27: WK2: MUN vs IPS",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-08-31T16:00:00+03:00",
+          "stop": "2026-08-31T19:00:00+03:00",
+          "title": "PL: Tottenham vs Newcastle",
           "description": "L",
           "category": null
         }
