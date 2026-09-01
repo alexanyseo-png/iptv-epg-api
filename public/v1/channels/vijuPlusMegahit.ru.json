@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
+  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
   "available": true,
-  "programmeCount": 43,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-08-31",
-      "programs": [
-        {
-          "start": "2026-08-31T01:25:00+03:00",
-          "stop": "2026-08-31T03:15:00+03:00",
-          "title": "Поезд на Юму.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T03:15:00+03:00",
-          "stop": "2026-08-31T05:05:00+03:00",
-          "title": "Самый пьяный округ в мире.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T05:05:00+03:00",
-          "stop": "2026-08-31T06:35:00+03:00",
-          "title": "Старый Генри.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T06:35:00+03:00",
-          "stop": "2026-08-31T08:05:00+03:00",
-          "title": "Во власти стихии.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T08:05:00+03:00",
-          "stop": "2026-08-31T09:40:00+03:00",
-          "title": "Невозможное.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T09:40:00+03:00",
-          "stop": "2026-08-31T11:20:00+03:00",
-          "title": "Волна.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T11:20:00+03:00",
-          "stop": "2026-08-31T13:00:00+03:00",
-          "title": "Разлом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T13:00:00+03:00",
-          "stop": "2026-08-31T14:35:00+03:00",
-          "title": "Бассейн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T14:35:00+03:00",
-          "stop": "2026-08-31T16:25:00+03:00",
-          "title": "Черная орхидея.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T16:25:00+03:00",
-          "stop": "2026-08-31T18:15:00+03:00",
-          "title": "Имитатор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T18:15:00+03:00",
-          "stop": "2026-08-31T20:00:00+03:00",
-          "title": "Скалолаз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T20:00:00+03:00",
-          "stop": "2026-08-31T21:40:00+03:00",
-          "title": "Санктум.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T21:40:00+03:00",
-          "stop": "2026-08-31T23:40:00+03:00",
-          "title": "Восхождение.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T23:40:00+03:00",
-          "stop": "2026-09-01T01:15:00+03:00",
-          "title": "Затерянные во льдах.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-01",
       "programs": [
@@ -323,6 +220,116 @@
           "start": "2026-09-02T22:50:00+03:00",
           "stop": "2026-09-03T00:25:00+03:00",
           "title": "В объятиях лжи.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "programs": [
+        {
+          "start": "2026-09-03T00:25:00+03:00",
+          "stop": "2026-09-03T02:00:00+03:00",
+          "title": "В осаде.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T02:00:00+03:00",
+          "stop": "2026-09-03T03:30:00+03:00",
+          "title": "В осаде 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T03:30:00+03:00",
+          "stop": "2026-09-03T05:00:00+03:00",
+          "title": "Контракт на убийство.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:00:00+03:00",
+          "stop": "2026-09-03T06:30:00+03:00",
+          "title": "Игра теней.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T06:30:00+03:00",
+          "stop": "2026-09-03T08:05:00+03:00",
+          "title": "Бассейн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:05:00+03:00",
+          "stop": "2026-09-03T09:55:00+03:00",
+          "title": "Черная орхидея.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T09:55:00+03:00",
+          "stop": "2026-09-03T11:30:00+03:00",
+          "title": "Невидимка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T11:30:00+03:00",
+          "stop": "2026-09-03T12:55:00+03:00",
+          "title": "Исчезнувший.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T12:55:00+03:00",
+          "stop": "2026-09-03T14:30:00+03:00",
+          "title": "В объятиях лжи.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T14:30:00+03:00",
+          "stop": "2026-09-03T15:55:00+03:00",
+          "title": "Хлоя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T15:55:00+03:00",
+          "stop": "2026-09-03T17:45:00+03:00",
+          "title": "Зло под солнцем.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T17:45:00+03:00",
+          "stop": "2026-09-03T20:00:00+03:00",
+          "title": "Смерть на Ниле.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T20:00:00+03:00",
+          "stop": "2026-09-03T22:05:00+03:00",
+          "title": "Убийство в Восточном экспрессе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T22:05:00+03:00",
+          "stop": "2026-09-03T23:50:00+03:00",
+          "title": "Простая просьба.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T23:50:00+03:00",
+          "stop": "2026-09-04T01:25:00+03:00",
+          "title": "Бассейн.",
           "description": "L",
           "category": null
         }

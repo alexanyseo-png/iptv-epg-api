@@ -8,227 +8,727 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
+  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 101,
   "days": [
     {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "programs": [
         {
-          "start": "2026-08-31T00:00:00+03:00",
-          "stop": "2026-08-31T00:30:00+03:00",
-          "title": "Match Hls 25/26: MW02: Che Vs Bha",
+          "start": "2026-09-01T01:00:00+03:00",
+          "stop": "2026-09-01T01:30:00+03:00",
+          "title": "Extra Time",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T00:30:00+03:00",
-          "stop": "2026-08-31T01:00:00+03:00",
-          "title": "Match Hls 25/26: MW02: Sun Vs Ful",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T01:00:00+03:00",
-          "stop": "2026-08-31T01:30:00+03:00",
-          "title": "Match Hls 25/26: MW02: Lee Vs Bre",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T01:30:00+03:00",
-          "stop": "2026-08-31T02:00:00+03:00",
-          "title": "Match Hls 25/26: MW02: Mun Vs Ips",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T02:00:00+03:00",
-          "stop": "2026-08-31T03:00:00+03:00",
-          "title": "The Weekend Wrap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T03:00:00+03:00",
-          "stop": "2026-08-31T03:30:00+03:00",
+          "start": "2026-09-01T01:30:00+03:00",
+          "stop": "2026-09-01T02:00:00+03:00",
           "title": "The Big Interview: Ep02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T03:30:00+03:00",
-          "stop": "2026-08-31T04:00:00+03:00",
+          "start": "2026-09-01T02:00:00+03:00",
+          "stop": "2026-09-01T02:30:00+03:00",
+          "title": "PL Stories: Ep13: Pep – the Legacy Ep13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T02:30:00+03:00",
+          "stop": "2026-09-01T03:30:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T03:30:00+03:00",
+          "stop": "2026-09-01T04:00:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T04:00:00+03:00",
+          "stop": "2026-09-01T04:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T04:30:00+03:00",
+          "stop": "2026-09-01T05:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T05:30:00+03:00",
+          "stop": "2026-09-01T06:00:00+03:00",
           "title": "Match Highlights 26/27: MW02: Che Vs Bha",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T04:00:00+03:00",
-          "stop": "2026-08-31T04:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Sun Vs Ful",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T04:30:00+03:00",
-          "stop": "2026-08-31T05:00:00+03:00",
+          "start": "2026-09-01T06:00:00+03:00",
+          "stop": "2026-09-01T06:30:00+03:00",
           "title": "Match Highlights 26/27: MW02: Lee Vs Bre",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T05:00:00+03:00",
-          "stop": "2026-08-31T05:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Mun Vs Ips",
+          "start": "2026-09-01T06:30:00+03:00",
+          "stop": "2026-09-01T07:30:00+03:00",
+          "title": "Review: MW02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T05:30:00+03:00",
-          "stop": "2026-08-31T06:30:00+03:00",
-          "title": "The Weekend Wrap",
+          "start": "2026-09-01T07:30:00+03:00",
+          "stop": "2026-09-01T08:00:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T06:30:00+03:00",
-          "stop": "2026-08-31T07:00:00+03:00",
-          "title": "Classic Match: Avl Vs Ars",
+          "start": "2026-09-01T08:00:00+03:00",
+          "stop": "2026-09-01T08:30:00+03:00",
+          "title": "The Final Word",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T07:00:00+03:00",
-          "stop": "2026-08-31T07:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Liv Vs Nfo",
+          "start": "2026-09-01T08:30:00+03:00",
+          "stop": "2026-09-01T09:00:00+03:00",
+          "title": "Extra Time",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T07:30:00+03:00",
-          "stop": "2026-08-31T08:00:00+03:00",
+          "start": "2026-09-01T09:00:00+03:00",
+          "stop": "2026-09-01T09:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Sun Vs Ful",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T09:30:00+03:00",
+          "stop": "2026-09-01T10:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T10:30:00+03:00",
+          "stop": "2026-09-01T11:00:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T11:00:00+03:00",
+          "stop": "2026-09-01T12:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T12:00:00+03:00",
+          "stop": "2026-09-01T12:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T12:30:00+03:00",
+          "stop": "2026-09-01T13:00:00+03:00",
+          "title": "The Final Word",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T13:00:00+03:00",
+          "stop": "2026-09-01T13:30:00+03:00",
+          "title": "Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T13:30:00+03:00",
+          "stop": "2026-09-01T14:30:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T14:30:00+03:00",
+          "stop": "2026-09-01T15:00:00+03:00",
           "title": "Match Highlights 26/27: MW02: Cov Vs Hul",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T08:00:00+03:00",
-          "stop": "2026-08-31T08:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Che Vs Bha",
+          "start": "2026-09-01T15:00:00+03:00",
+          "stop": "2026-09-01T16:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T08:30:00+03:00",
-          "stop": "2026-08-31T09:00:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Sun Vs Ful",
+          "start": "2026-09-01T16:00:00+03:00",
+          "stop": "2026-09-01T16:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T09:00:00+03:00",
-          "stop": "2026-08-31T09:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Lee Vs Bre",
+          "start": "2026-09-01T16:30:00+03:00",
+          "stop": "2026-09-01T17:00:00+03:00",
+          "title": "The Final Word",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T09:30:00+03:00",
-          "stop": "2026-08-31T10:00:00+03:00",
+          "start": "2026-09-01T17:00:00+03:00",
+          "stop": "2026-09-01T17:30:00+03:00",
+          "title": "Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T17:30:00+03:00",
+          "stop": "2026-09-01T18:00:00+03:00",
+          "title": "Rewind: Ep02: Tim Howard: My Everton Years Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T18:00:00+03:00",
+          "stop": "2026-09-01T18:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T18:30:00+03:00",
+          "stop": "2026-09-01T19:00:00+03:00",
           "title": "Match Highlights 26/27: MW02: Mun Vs Ips",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T10:00:00+03:00",
-          "stop": "2026-08-31T11:00:00+03:00",
-          "title": "The Weekend Wrap",
+          "start": "2026-09-01T19:00:00+03:00",
+          "stop": "2026-09-01T20:00:00+03:00",
+          "title": "Review: MW02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T11:00:00+03:00",
-          "stop": "2026-08-31T11:30:00+03:00",
-          "title": "Classic Match: Avl Vs Ars",
+          "start": "2026-09-01T20:00:00+03:00",
+          "stop": "2026-09-01T21:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T11:30:00+03:00",
-          "stop": "2026-08-31T12:00:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Bou Vs Eve",
+          "start": "2026-09-01T21:00:00+03:00",
+          "stop": "2026-09-01T21:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T12:00:00+03:00",
-          "stop": "2026-08-31T12:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Tot Vs New",
+          "start": "2026-09-01T21:30:00+03:00",
+          "stop": "2026-09-01T22:00:00+03:00",
+          "title": "The Final Word",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T12:30:00+03:00",
-          "stop": "2026-08-31T13:00:00+03:00",
+          "start": "2026-09-01T22:00:00+03:00",
+          "stop": "2026-09-01T22:30:00+03:00",
+          "title": "Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T22:30:00+03:00",
+          "stop": "2026-09-01T23:00:00+03:00",
+          "title": "Rewind: Ep02: Tim Howard: My Everton Years Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T23:00:00+03:00",
+          "stop": "2026-09-02T00:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "programs": [
+        {
+          "start": "2026-09-02T00:00:00+03:00",
+          "stop": "2026-09-02T01:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T01:00:00+03:00",
+          "stop": "2026-09-02T01:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Che Vs Bha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T01:30:00+03:00",
+          "stop": "2026-09-02T02:30:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T02:30:00+03:00",
+          "stop": "2026-09-02T03:00:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T03:00:00+03:00",
+          "stop": "2026-09-02T04:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T04:00:00+03:00",
+          "stop": "2026-09-02T05:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T05:00:00+03:00",
+          "stop": "2026-09-02T05:30:00+03:00",
+          "title": "Rewind: Ep02: Tim Howard: My Everton Years Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T05:30:00+03:00",
+          "stop": "2026-09-02T06:00:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T06:00:00+03:00",
+          "stop": "2026-09-02T06:30:00+03:00",
+          "title": "The Final Word",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T06:30:00+03:00",
+          "stop": "2026-09-02T07:00:00+03:00",
+          "title": "Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T07:00:00+03:00",
+          "stop": "2026-09-02T07:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T07:30:00+03:00",
+          "stop": "2026-09-02T08:30:00+03:00",
+          "title": "Goals of the Season: 2024/25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T08:30:00+03:00",
+          "stop": "2026-09-02T09:00:00+03:00",
           "title": "Match Highlights 26/27: MW02: Liv Vs Nfo",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T13:00:00+03:00",
-          "stop": "2026-08-31T13:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Che Vs Bha",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T13:30:00+03:00",
-          "stop": "2026-08-31T14:00:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Sun Vs Ful",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T14:00:00+03:00",
-          "stop": "2026-08-31T14:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Lee Vs Bre",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T14:30:00+03:00",
-          "stop": "2026-08-31T15:00:00+03:00",
+          "start": "2026-09-02T09:00:00+03:00",
+          "stop": "2026-09-02T09:30:00+03:00",
           "title": "Match Highlights 26/27: MW02: Mun Vs Ips",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T15:00:00+03:00",
-          "stop": "2026-08-31T16:00:00+03:00",
-          "title": "The Weekend Wrap",
+          "start": "2026-09-02T09:30:00+03:00",
+          "stop": "2026-09-02T10:30:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T16:00:00+03:00",
-          "stop": "2026-08-31T16:30:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Tot Vs New",
+          "start": "2026-09-02T10:30:00+03:00",
+          "stop": "2026-09-02T11:00:00+03:00",
+          "title": "Rewind: Ep10: Dion Dublin: My Premier League Years Ep10",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T16:30:00+03:00",
-          "stop": "2026-08-31T17:30:00+03:00",
-          "title": "Fanzone",
+          "start": "2026-09-02T11:00:00+03:00",
+          "stop": "2026-09-02T12:00:00+03:00",
+          "title": "Review: MW02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T17:30:00+03:00",
-          "stop": "2026-08-31T18:00:00+03:00",
-          "title": "Match Highlights 26/27: MW02: Che Vs Bha",
+          "start": "2026-09-02T12:00:00+03:00",
+          "stop": "2026-09-02T12:30:00+03:00",
+          "title": "The Big Interview: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T12:30:00+03:00",
+          "stop": "2026-09-02T13:00:00+03:00",
+          "title": "PL Stories: Ep13: Pep – the Legacy Ep13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T13:00:00+03:00",
+          "stop": "2026-09-02T13:30:00+03:00",
+          "title": "Match Highlights 26/27: MW02: Avl Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T13:30:00+03:00",
+          "stop": "2026-09-02T14:00:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T14:00:00+03:00",
+          "stop": "2026-09-02T15:00:00+03:00",
+          "title": "Goals of the Season: 2024/25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T15:00:00+03:00",
+          "stop": "2026-09-02T16:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T16:00:00+03:00",
+          "stop": "2026-09-02T17:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T17:00:00+03:00",
+          "stop": "2026-09-02T18:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T18:00:00+03:00",
+          "stop": "2026-09-02T20:00:00+03:00",
+          "title": "Classic Match: Eve Vs Mun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T20:00:00+03:00",
+          "stop": "2026-09-02T20:30:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T20:30:00+03:00",
+          "stop": "2026-09-02T21:00:00+03:00",
+          "title": "Rewind: Ep10: Dion Dublin: My Premier League Years Ep10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T21:00:00+03:00",
+          "stop": "2026-09-02T22:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T22:00:00+03:00",
+          "stop": "2026-09-02T23:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T23:00:00+03:00",
+          "stop": "2026-09-02T23:30:00+03:00",
+          "title": "The Big Interview: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T23:30:00+03:00",
+          "stop": "2026-09-03T00:00:00+03:00",
+          "title": "PL Stories: Ep13: Pep – the Legacy Ep13",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "programs": [
+        {
+          "start": "2026-09-03T00:00:00+03:00",
+          "stop": "2026-09-03T00:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T00:30:00+03:00",
+          "stop": "2026-09-03T01:00:00+03:00",
+          "title": "Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T01:00:00+03:00",
+          "stop": "2026-09-03T01:30:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T01:30:00+03:00",
+          "stop": "2026-09-03T02:00:00+03:00",
+          "title": "Rewind: Ep02: Tim Howard: My Everton Years Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T02:00:00+03:00",
+          "stop": "2026-09-03T03:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T03:00:00+03:00",
+          "stop": "2026-09-03T04:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T04:00:00+03:00",
+          "stop": "2026-09-03T05:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:00:00+03:00",
+          "stop": "2026-09-03T05:30:00+03:00",
+          "title": "Rewind: Ep10: Dion Dublin: My Premier League Years Ep10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:30:00+03:00",
+          "stop": "2026-09-03T06:00:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T06:00:00+03:00",
+          "stop": "2026-09-03T06:30:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T06:30:00+03:00",
+          "stop": "2026-09-03T07:00:00+03:00",
+          "title": "The Big Interview: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T07:00:00+03:00",
+          "stop": "2026-09-03T08:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:00:00+03:00",
+          "stop": "2026-09-03T08:30:00+03:00",
+          "title": "PL Stories: Ep13: Pep – the Legacy Ep13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:30:00+03:00",
+          "stop": "2026-09-03T09:00:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T09:00:00+03:00",
+          "stop": "2026-09-03T10:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T10:00:00+03:00",
+          "stop": "2026-09-03T10:30:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T10:30:00+03:00",
+          "stop": "2026-09-03T11:00:00+03:00",
+          "title": "Rewind: Ep02: Tim Howard: My Everton Years Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T11:00:00+03:00",
+          "stop": "2026-09-03T13:00:00+03:00",
+          "title": "Classic Match: Eve Vs Mun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T13:00:00+03:00",
+          "stop": "2026-09-03T14:00:00+03:00",
+          "title": "PL Goats: Ep06: Wayne Rooney Ep06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T14:00:00+03:00",
+          "stop": "2026-09-03T15:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T15:00:00+03:00",
+          "stop": "2026-09-03T15:30:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T15:30:00+03:00",
+          "stop": "2026-09-03T16:00:00+03:00",
+          "title": "The Big Interview: Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T16:00:00+03:00",
+          "stop": "2026-09-03T16:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T16:30:00+03:00",
+          "stop": "2026-09-03T17:00:00+03:00",
+          "title": "Classic Match: Ars Vs Che",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T17:00:00+03:00",
+          "stop": "2026-09-03T18:00:00+03:00",
+          "title": "1-to-11: Ep03: Cesc Fabregas Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T18:00:00+03:00",
+          "stop": "2026-09-03T19:00:00+03:00",
+          "title": "Review of the Season: 2024/25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T19:00:00+03:00",
+          "stop": "2026-09-03T20:00:00+03:00",
+          "title": "The Catch-up Show: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T20:00:00+03:00",
+          "stop": "2026-09-03T21:00:00+03:00",
+          "title": "Review: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T21:00:00+03:00",
+          "stop": "2026-09-03T21:30:00+03:00",
+          "title": "The Big Interview: Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T21:30:00+03:00",
+          "stop": "2026-09-03T22:00:00+03:00",
+          "title": "PL Stories: Ep14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T22:00:00+03:00",
+          "stop": "2026-09-03T23:00:00+03:00",
+          "title": "1-to-11: Ep01: Dion Dublin Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T23:00:00+03:00",
+          "stop": "2026-09-03T23:30:00+03:00",
+          "title": "Netbusters: MW02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T23:30:00+03:00",
+          "stop": "2026-09-04T00:30:00+03:00",
+          "title": "The Catch-up Show: Ep02",
           "description": "L",
           "category": null
         }

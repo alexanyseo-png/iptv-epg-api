@@ -8,24 +8,314 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
+  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
   "available": true,
-  "programmeCount": 2,
+  "programmeCount": 42,
   "days": [
     {
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "programs": [
         {
-          "start": "2026-08-31T01:00:00+03:00",
-          "stop": "2026-08-31T04:00:00+03:00",
+          "start": "2026-09-01T00:00:00+03:00",
+          "stop": "2026-09-01T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T01:00:00+03:00",
+          "stop": "2026-09-01T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T02:00:00+03:00",
+          "stop": "2026-09-01T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T03:00:00+03:00",
+          "stop": "2026-09-01T06:00:00+03:00",
+          "title": "NFL Football «San Francisco 49ers at Las Vegas Raiders» (Allegiant Stadium, Las Vegas, NV, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T06:00:00+03:00",
+          "stop": "2026-09-01T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T07:00:00+03:00",
+          "stop": "2026-09-01T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T08:00:00+03:00",
+          "stop": "2026-09-01T10:30:00+03:00",
+          "title": "NFL Football «Los Angeles Rams at Los Angeles Chargers» (SoFi Stadium, Inglewood, California, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T10:30:00+03:00",
+          "stop": "2026-09-01T13:00:00+03:00",
+          "title": "NFL Football «Houston Texans at Carolina Panthers» (Bank of America Stadium, Charlotte, NC, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T13:00:00+03:00",
+          "stop": "2026-09-01T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T14:00:00+03:00",
+          "stop": "2026-09-01T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T15:00:00+03:00",
+          "stop": "2026-09-01T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T17:00:00+03:00",
+          "stop": "2026-09-01T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T19:00:00+03:00",
+          "stop": "2026-09-01T21:30:00+03:00",
+          "title": "NFL Football «Tampa Bay Buccaneers at Jacksonville Jaguars» (EverBank Stadium, Jacksonville, FL, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-01T21:30:00+03:00",
+          "stop": "2026-09-02T00:00:00+03:00",
+          "title": "NFL Football «Seattle Seahawks at Kansas City Chiefs» (Arrowhead Stadium, Kansas City, Missouri, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-02",
+      "programs": [
+        {
+          "start": "2026-09-02T00:00:00+03:00",
+          "stop": "2026-09-02T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T01:00:00+03:00",
+          "stop": "2026-09-02T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T02:00:00+03:00",
+          "stop": "2026-09-02T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T03:00:00+03:00",
+          "stop": "2026-09-02T06:00:00+03:00",
+          "title": "NFL Football «Pittsburgh Steelers at Buffalo Bills» (New Highmark Stadium, Orchard Park, New York, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T06:00:00+03:00",
+          "stop": "2026-09-02T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T07:00:00+03:00",
+          "stop": "2026-09-02T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T08:00:00+03:00",
+          "stop": "2026-09-02T10:30:00+03:00",
+          "title": "NFL Football «Minnesota Vikings at Denver Broncos» (Empower Field at Mile High, Denver, CO, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T10:30:00+03:00",
+          "stop": "2026-09-02T13:00:00+03:00",
+          "title": "NFL Football «Cincinnati Bengals at Philadelphia Eagles» (Lincoln Financial Field, Philadelphia, Pennsylvania, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T13:00:00+03:00",
+          "stop": "2026-09-02T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T14:00:00+03:00",
+          "stop": "2026-09-02T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T15:00:00+03:00",
+          "stop": "2026-09-02T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T17:00:00+03:00",
+          "stop": "2026-09-02T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T19:00:00+03:00",
+          "stop": "2026-09-02T21:30:00+03:00",
+          "title": "NFL Football «Washington Commanders at Baltimore Ravens» (M&T Bank Stadium, Baltimore, MD, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-02T21:30:00+03:00",
+          "stop": "2026-09-03T00:00:00+03:00",
+          "title": "NFL Football «Chicago Bears at Tennessee Titans» (Nissan Stadium, Nashville, TN, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "programs": [
+        {
+          "start": "2026-09-03T00:00:00+03:00",
+          "stop": "2026-09-03T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T01:00:00+03:00",
+          "stop": "2026-09-03T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T02:00:00+03:00",
+          "stop": "2026-09-03T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T03:00:00+03:00",
+          "stop": "2026-09-03T06:00:00+03:00",
+          "title": "NFL Football «Arizona Cardinals at Green Bay Packers» (Lambeau Field, Green Bay, WI, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T06:00:00+03:00",
+          "stop": "2026-09-03T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T07:00:00+03:00",
+          "stop": "2026-09-03T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:00:00+03:00",
+          "stop": "2026-09-03T10:30:00+03:00",
+          "title": "NFL Football «Detroit Lions at Indianapolis Colts» (Lucas Oil Stadium, Indianapolis, IN, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T10:30:00+03:00",
+          "stop": "2026-09-03T13:00:00+03:00",
+          "title": "NFL Football «San Francisco 49ers at Las Vegas Raiders» (Allegiant Stadium, Las Vegas, NV, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T13:00:00+03:00",
+          "stop": "2026-09-03T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T14:00:00+03:00",
+          "stop": "2026-09-03T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T15:00:00+03:00",
+          "stop": "2026-09-03T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T17:00:00+03:00",
+          "stop": "2026-09-03T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T19:00:00+03:00",
+          "stop": "2026-09-03T21:30:00+03:00",
           "title": "NFL Football «New Orleans Saints at Dallas Cowboys» (AT&T Stadium, Arlington, Texas, USA)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-08-31T04:00:00+03:00",
-          "stop": "2026-08-31T05:00:00+03:00",
-          "title": "NFL Football «Seattle Seahawks at Kansas City Chiefs» (GEHA Field at Arrowhead Stadium, Kansas City, MO, USA)",
+          "start": "2026-09-03T21:30:00+03:00",
+          "stop": "2026-09-04T00:00:00+03:00",
+          "title": "NFL Football «Los Angeles Rams at Los Angeles Chargers» (SoFi Stadium, Inglewood, California, USA)",
           "description": "L",
           "category": null
         }

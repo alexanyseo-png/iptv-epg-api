@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
+  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-08-31",
-      "programs": [
-        {
-          "start": "2026-08-31T07:00:00+03:00",
-          "stop": "2026-08-31T08:35:00+03:00",
-          "title": "Flipper.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T08:35:00+03:00",
-          "stop": "2026-08-31T11:00:00+03:00",
-          "title": "Gefährten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T11:00:00+03:00",
-          "stop": "2026-08-31T13:45:00+03:00",
-          "title": "Der schmale Grat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T13:45:00+03:00",
-          "stop": "2026-08-31T16:00:00+03:00",
-          "title": "Master and Commander - Bis ans Ende der Welt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T16:00:00+03:00",
-          "stop": "2026-08-31T17:40:00+03:00",
-          "title": "Dangerous Minds.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T17:40:00+03:00",
-          "stop": "2026-08-31T19:30:00+03:00",
-          "title": "Selbst ist die Braut.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T19:30:00+03:00",
-          "stop": "2026-08-31T21:15:00+03:00",
-          "title": "Sister Act - Eine himmlische Karriere.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T21:15:00+03:00",
-          "stop": "2026-08-31T23:05:00+03:00",
-          "title": "Sister Act 2 - In göttlicher Mission.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T23:05:00+03:00",
-          "stop": "2026-09-01T00:35:00+03:00",
-          "title": "Hot Shots! Der zweite Versuch.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-01",
       "programs": [
@@ -260,6 +192,95 @@
           "start": "2026-09-02T23:35:00+03:00",
           "stop": "2026-09-03T02:35:00+03:00",
           "title": "Pearl Harbor.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "programs": [
+        {
+          "start": "2026-09-03T02:35:00+03:00",
+          "stop": "2026-09-03T04:55:00+03:00",
+          "title": "Bridge of Spies - Der Unterhändler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T04:55:00+03:00",
+          "stop": "2026-09-03T05:30:00+03:00",
+          "title": "Ein Abend mit... - David Kross.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:30:00+03:00",
+          "stop": "2026-09-03T07:00:00+03:00",
+          "title": "Flipper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T07:00:00+03:00",
+          "stop": "2026-09-03T08:50:00+03:00",
+          "title": "Sister Act 2 - In göttlicher Mission.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:50:00+03:00",
+          "stop": "2026-09-03T12:00:00+03:00",
+          "title": "Königreich der Himmel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T12:00:00+03:00",
+          "stop": "2026-09-03T12:45:00+03:00",
+          "title": "Ein Abend mit... - Iris Berben.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T12:45:00+03:00",
+          "stop": "2026-09-03T15:05:00+03:00",
+          "title": "Lockende Versuchung.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T15:05:00+03:00",
+          "stop": "2026-09-03T17:25:00+03:00",
+          "title": "Der unsichtbare Dritte.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T17:25:00+03:00",
+          "stop": "2026-09-03T19:35:00+03:00",
+          "title": "Die Wiege der Sonne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T19:35:00+03:00",
+          "stop": "2026-09-03T21:15:00+03:00",
+          "title": "Judge Dredd.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T21:15:00+03:00",
+          "stop": "2026-09-03T23:05:00+03:00",
+          "title": "The Specialist.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T23:05:00+03:00",
+          "stop": "2026-09-04T00:35:00+03:00",
+          "title": "Die City-Cobra.",
           "description": "L",
           "category": null
         }

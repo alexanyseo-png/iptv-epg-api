@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-08-31T13:56:43.712260+00:00",
+  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 56,
   "days": [
-    {
-      "date": "2026-08-31",
-      "programs": [
-        {
-          "start": "2026-08-31T06:45:00+03:00",
-          "stop": "2026-08-31T08:45:00+03:00",
-          "title": "Eredivisie - Telstar - Ajax Amsterdam (4. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T08:45:00+03:00",
-          "stop": "2026-08-31T10:45:00+03:00",
-          "title": "Chance Liga - Sparta Prag - Slavia Prag (6. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T10:45:00+03:00",
-          "stop": "2026-08-31T12:45:00+03:00",
-          "title": "Campeonato Brasileiro - Mirassol - Palmeiras (25. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T12:45:00+03:00",
-          "stop": "2026-08-31T13:15:00+03:00",
-          "title": "Im Rampenlicht - Footballs Greatest Stage. S: 2 / Ep: 6.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T13:15:00+03:00",
-          "stop": "2026-08-31T15:15:00+03:00",
-          "title": "Saudi Pro League - Al-Nassr - Al-Taawoun (4. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T15:15:00+03:00",
-          "stop": "2026-08-31T17:15:00+03:00",
-          "title": "Campeonato Brasileiro - Atletico Mineiro - EC Vitoria (25. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T17:15:00+03:00",
-          "stop": "2026-08-31T17:45:00+03:00",
-          "title": "90in30: Spitzenspiel - Internationaler Fussball.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T17:45:00+03:00",
-          "stop": "2026-08-31T18:15:00+03:00",
-          "title": "scooore Schottland! Alle Tore - Highlights Scottish Premiership (4. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T18:15:00+03:00",
-          "stop": "2026-08-31T18:45:00+03:00",
-          "title": "scooore Niederlande! Alle Tore - Highlights Eredivisie (4. Spieltag).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T18:45:00+03:00",
-          "stop": "2026-08-31T22:00:00+03:00",
-          "title": "Manchester City TV - 2. Spieltag - Crystal Palace - Manchester City.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-08-31T22:00:00+03:00",
-          "stop": "2026-09-01T00:30:00+03:00",
-          "title": "Primeira Liga - Benfica Lissabon - GD Estoril Praia (4. Spieltag).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-01",
       "programs": [
@@ -365,6 +283,137 @@
           "start": "2026-09-02T23:45:00+03:00",
           "stop": "2026-09-03T01:45:00+03:00",
           "title": "Campeonato Brasileiro - Mirassol - Palmeiras (25. Spieltag).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-03",
+      "programs": [
+        {
+          "start": "2026-09-03T01:45:00+03:00",
+          "stop": "2026-09-03T03:45:00+03:00",
+          "title": "Primeira Liga - Benfica Lissabon - GD Estoril Praia (4. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T03:45:00+03:00",
+          "stop": "2026-09-03T04:30:00+03:00",
+          "title": "scooore! Das internationale Fussballmagazin - Tore und Ergebnisse international.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T04:30:00+03:00",
+          "stop": "2026-09-03T05:00:00+03:00",
+          "title": "scooore Saudi-Arabien! Alle Tore - Highlights Saudi Pro League (4. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:00:00+03:00",
+          "stop": "2026-09-03T05:30:00+03:00",
+          "title": "scooore Brasilien! Alle Tore - Highlights Campeonato Brasileiro (25. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T05:30:00+03:00",
+          "stop": "2026-09-03T06:00:00+03:00",
+          "title": "scooore Argentinien! Alle Tore - Highlights Liga Profesional Clausura (7. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T06:00:00+03:00",
+          "stop": "2026-09-03T08:05:00+03:00",
+          "title": "Scottish Premiership - FC Hibernian - Heart of Midlothian (5. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T08:05:00+03:00",
+          "stop": "2026-09-03T10:05:00+03:00",
+          "title": "Primeira Liga - Benfica Lissabon - GD Estoril Praia (4. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T10:05:00+03:00",
+          "stop": "2026-09-03T10:50:00+03:00",
+          "title": "scooore! Das internationale Fussballmagazin - Tore und Ergebnisse international.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T10:50:00+03:00",
+          "stop": "2026-09-03T11:20:00+03:00",
+          "title": "scooore Saudi-Arabien! Alle Tore - Highlights Saudi Pro League (4. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T11:20:00+03:00",
+          "stop": "2026-09-03T11:50:00+03:00",
+          "title": "scooore Brasilien! Alle Tore - Highlights Campeonato Brasileiro (25. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T11:50:00+03:00",
+          "stop": "2026-09-03T12:20:00+03:00",
+          "title": "scooore Argentinien! Alle Tore - Highlights Liga Profesional Clausura (7. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T12:20:00+03:00",
+          "stop": "2026-09-03T14:25:00+03:00",
+          "title": "Scottish Premiership - FC Hibernian - Heart of Midlothian (5. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T14:25:00+03:00",
+          "stop": "2026-09-03T16:25:00+03:00",
+          "title": "Eredivisie - Feyenoord Rotterdam - ADO Den Haag (4. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T16:25:00+03:00",
+          "stop": "2026-09-03T16:55:00+03:00",
+          "title": "scooore Argentinien! Alle Tore - Highlights Liga Profesional Clausura (7. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T16:55:00+03:00",
+          "stop": "2026-09-03T18:55:00+03:00",
+          "title": "Chance Liga - Sparta Prag - Slavia Prag (6. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T18:55:00+03:00",
+          "stop": "2026-09-03T21:15:00+03:00",
+          "title": "▶️ Rakow Czestochowa - Gornik Zabrze - Ekstraklasa (Nachholspiel, 5. Spieltag).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T21:15:00+03:00",
+          "stop": "2026-09-03T23:15:00+03:00",
+          "title": "LFC TV - 2. Spieltag - Liverpool FC - Nottingham Forest.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-03T23:15:00+03:00",
+          "stop": "2026-09-04T01:15:00+03:00",
+          "title": "Eredivisie - Telstar - Ajax Amsterdam (4. Spieltag).",
           "description": "L",
           "category": null
         }
