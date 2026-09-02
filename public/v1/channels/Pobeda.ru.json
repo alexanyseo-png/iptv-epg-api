@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T00:35:00+03:00",
-          "stop": "2026-09-01T02:30:00+03:00",
-          "title": "х/ф Благословите женщину",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T02:30:00+03:00",
-          "stop": "2026-09-01T03:50:00+03:00",
-          "title": "х/ф Портной из Бруклина",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T03:50:00+03:00",
-          "stop": "2026-09-01T04:50:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T04:50:00+03:00",
-          "stop": "2026-09-01T05:20:00+03:00",
-          "title": "х/ф Солдатик",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:20:00+03:00",
-          "stop": "2026-09-01T06:10:00+03:00",
-          "title": "т/с Последний бронепоезд",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T06:10:00+03:00",
-          "stop": "2026-09-01T07:30:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:30:00+03:00",
-          "stop": "2026-09-01T09:00:00+03:00",
-          "title": "т/с Убить Сталина",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:00:00+03:00",
-          "stop": "2026-09-01T12:50:00+03:00",
-          "title": "д/с Военная разведка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T12:50:00+03:00",
-          "stop": "2026-09-01T15:20:00+03:00",
-          "title": "х/ф По лезвию бритвы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T15:20:00+03:00",
-          "stop": "2026-09-01T20:20:00+03:00",
-          "title": "х/ф Сто дней свободы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:20:00+03:00",
-          "stop": "2026-09-02T00:20:00+03:00",
-          "title": "х/ф В июне 41-го",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
@@ -239,6 +157,60 @@
           "start": "2026-09-03T20:40:00+03:00",
           "stop": "2026-09-04T00:25:00+03:00",
           "title": "х/ф Старое ружье",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T00:25:00+03:00",
+          "stop": "2026-09-04T02:05:00+03:00",
+          "title": "х/ф Живи и помни",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T02:05:00+03:00",
+          "stop": "2026-09-04T03:35:00+03:00",
+          "title": "х/ф Одна война",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T03:35:00+03:00",
+          "stop": "2026-09-04T04:35:00+03:00",
+          "title": "Путь к Победе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T04:35:00+03:00",
+          "stop": "2026-09-04T06:10:00+03:00",
+          "title": "х/ф Сестренка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T06:10:00+03:00",
+          "stop": "2026-09-04T09:00:00+03:00",
+          "title": "т/с Балабол",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:00:00+03:00",
+          "stop": "2026-09-04T20:00:00+03:00",
+          "title": "т/с Отчий берег",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:00:00+03:00",
+          "stop": "2026-09-05T01:00:00+03:00",
+          "title": "т/с Отчий берег",
           "description": "L",
           "category": null
         }

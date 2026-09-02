@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 21,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T00:00:00+03:00",
-          "stop": "2026-09-01T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:00:00+03:00",
-          "stop": "2026-09-01T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:00:00+03:00",
-          "stop": "2026-09-01T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T11:00:00+03:00",
-          "stop": "2026-09-01T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T14:00:00+03:00",
-          "stop": "2026-09-01T16:00:00+03:00",
-          "title": "Подробнее с Александром Топориным",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T16:00:00+03:00",
-          "stop": "2026-09-01T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T19:00:00+03:00",
-          "stop": "2026-09-01T21:00:00+03:00",
-          "title": "Михеев Говорит",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T21:00:00+03:00",
-          "stop": "2026-09-01T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T22:00:00+03:00",
-          "stop": "2026-09-01T23:00:00+03:00",
-          "title": "Триста! Тридцать! Три!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T23:00:00+03:00",
-          "stop": "2026-09-02T00:00:00+03:00",
-          "title": "Федоров LIVE",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
@@ -232,6 +157,18 @@
           "start": "2026-09-03T23:00:00+03:00",
           "stop": "2026-09-04T00:00:00+03:00",
           "title": "Фейк-контроль",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T00:00:00+03:00",
+          "stop": "2026-09-04T01:00:00+03:00",
+          "title": "Ночь Live",
           "description": "L",
           "category": null
         }

@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
   "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T02:30:00+03:00",
-          "stop": "2026-09-01T05:10:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:10:00+03:00",
-          "stop": "2026-09-01T07:00:00+03:00",
-          "title": "Kuzey Güney.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:00:00+03:00",
-          "stop": "2026-09-01T09:00:00+03:00",
-          "title": "Küçük Ağa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:00:00+03:00",
-          "stop": "2026-09-01T11:50:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T11:50:00+03:00",
-          "stop": "2026-09-01T14:00:00+03:00",
-          "title": "Daha 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T14:00:00+03:00",
-          "stop": "2026-09-01T16:30:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T16:30:00+03:00",
-          "stop": "2026-09-01T18:15:00+03:00",
-          "title": "Aşk-ı Memnu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T18:15:00+03:00",
-          "stop": "2026-09-01T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T19:00:00+03:00",
-          "stop": "2026-09-01T20:00:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:00:00+03:00",
-          "stop": "2026-09-01T22:40:00+03:00",
-          "title": "Bugün Güzel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T22:40:00+03:00",
-          "stop": "2026-09-02T03:15:00+03:00",
-          "title": "Bugün Güzel.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
@@ -232,6 +150,88 @@
           "start": "2026-09-03T20:00:00+03:00",
           "stop": "2026-09-04T02:40:00+03:00",
           "title": "Beyaz'la Joker.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T02:40:00+03:00",
+          "stop": "2026-09-04T05:10:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T05:10:00+03:00",
+          "stop": "2026-09-04T07:00:00+03:00",
+          "title": "Kuzey Güney.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T07:00:00+03:00",
+          "stop": "2026-09-04T09:00:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:00:00+03:00",
+          "stop": "2026-09-04T11:50:00+03:00",
+          "title": "Yaprak Dökümü.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T11:50:00+03:00",
+          "stop": "2026-09-04T14:00:00+03:00",
+          "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T14:00:00+03:00",
+          "stop": "2026-09-04T16:30:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T16:30:00+03:00",
+          "stop": "2026-09-04T18:15:00+03:00",
+          "title": "Aşk-ı Memnu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T18:15:00+03:00",
+          "stop": "2026-09-04T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:00:00+03:00",
+          "stop": "2026-09-04T20:00:00+03:00",
+          "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:00:00+03:00",
+          "stop": "2026-09-04T22:30:00+03:00",
+          "title": "Kuralsız Sokaklar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T22:30:00+03:00",
+          "stop": "2026-09-05T00:00:00+03:00",
+          "title": "Kuralsız Sokaklar.",
           "description": "L",
           "category": null
         }

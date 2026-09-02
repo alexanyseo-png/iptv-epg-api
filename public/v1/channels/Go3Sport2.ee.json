@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T01:55:00+03:00",
-          "stop": "2026-09-01T05:15:00+03:00",
-          "title": "Regbijs: Lielākā sāncensība. Dienvidāfrika – Jaunzēlande. Rugby: Rugby's Greatest Rivalry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:15:00+03:00",
-          "stop": "2026-09-01T07:00:00+03:00",
-          "title": "Futbols: La Liga. Sevilla – Atlético Madrid. LaLiga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:00:00+03:00",
-          "stop": "2026-09-01T09:00:00+03:00",
-          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Ungārija – Igaunija. Basketball: FIBA World Cup European Qualifiers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:00:00+03:00",
-          "stop": "2026-09-01T11:00:00+03:00",
-          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Horvātija – Latvija. Basketball: FIBA World Cup European Qualifiers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T11:00:00+03:00",
-          "stop": "2026-09-01T13:50:00+03:00",
-          "title": "Spīdvejs: FIM GP Varšava. SWC Fināls. Varšava. FIM Speedway Grand Prix of Poland – Warsaw",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T13:50:00+03:00",
-          "stop": "2026-09-01T15:50:00+03:00",
-          "title": "Futbols – Itālijas līga. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T15:50:00+03:00",
-          "stop": "2026-09-01T17:50:00+03:00",
-          "title": "Futbols – Itālijas līga. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T17:50:00+03:00",
-          "stop": "2026-09-01T19:50:00+03:00",
-          "title": "Regbijs: Lielākā sāncensība. Dienvidāfrika – Jaunzēlande. Rugby: Rugby's Greatest Rivalry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T19:50:00+03:00",
-          "stop": "2026-09-01T21:50:00+03:00",
-          "title": "Teniss: ATP 250 Winston-Salem Open. Vienspēles. Fināls. Tennis: ATP 250 – Winston Salem Open",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T21:50:00+03:00",
-          "stop": "2026-09-01T23:50:00+03:00",
-          "title": "Futbols – Ligue 1. Lille – PSG. Ligue 1 McDonald's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T23:50:00+03:00",
-          "stop": "2026-09-02T01:50:00+03:00",
-          "title": "Futbols. Bundeslīga. Dortmund – Hamburg. 1. Bundesliga",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
@@ -260,6 +178,95 @@
           "start": "2026-09-03T23:00:00+03:00",
           "stop": "2026-09-04T01:50:00+03:00",
           "title": "Spīdvejs: FIM GP Varšava. SWC Fināls. Varšava. FIM Speedway Grand Prix of Poland – Warsaw",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T01:50:00+03:00",
+          "stop": "2026-09-04T05:00:00+03:00",
+          "title": "Regbijs: Lielākā sāncensība. Dienvidāfrika – Jaunzēlande. Rugby: Rugby's Greatest Rivalry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T05:00:00+03:00",
+          "stop": "2026-09-04T07:00:00+03:00",
+          "title": "Futbols: La Liga. Sevilla – Atlético Madrid. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T07:00:00+03:00",
+          "stop": "2026-09-04T09:00:00+03:00",
+          "title": "Futbols: La Liga. Real Madrid – Malaga. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:00:00+03:00",
+          "stop": "2026-09-04T11:00:00+03:00",
+          "title": "Futbols: La Liga. Celta – Athletic Bilbao. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T11:00:00+03:00",
+          "stop": "2026-09-04T13:00:00+03:00",
+          "title": "Teniss: ATP 250 Winston-Salem Open. Vienspēles. Fināls. Tennis: ATP 250 – Winston Salem Open",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T13:00:00+03:00",
+          "stop": "2026-09-04T15:00:00+03:00",
+          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Turcija – Lietuva. Basketball: FIBA World Cup European Qualifiers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T15:00:00+03:00",
+          "stop": "2026-09-04T17:00:00+03:00",
+          "title": "Basketbols. Pasaules kausa Eiropas kvalifikācija. Basketball: FIBA World Cup European Qualifiers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T17:00:00+03:00",
+          "stop": "2026-09-04T19:00:00+03:00",
+          "title": "Futbols. Vācijas kauss. DFB-Pokal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:00:00+03:00",
+          "stop": "2026-09-04T21:00:00+03:00",
+          "title": "Futbols. Vācijas kauss. DFB-Pokal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:00:00+03:00",
+          "stop": "2026-09-04T21:35:00+03:00",
+          "title": "Full Impact. Sezonas apskats. Full Impact Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:35:00+03:00",
+          "stop": "2026-09-04T23:45:00+03:00",
+          "title": "Futbols – Ligue 1. Ligue 1 McDonald's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T23:45:00+03:00",
+          "stop": "2026-09-05T02:45:00+03:00",
+          "title": "Amerikas futbols: NFL pirmssezonas spēles. Bengals – Eagles. American Football: NFL Preseason",
           "description": "L",
           "category": null
         }

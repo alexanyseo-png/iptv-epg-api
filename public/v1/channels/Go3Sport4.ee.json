@@ -8,8 +8,28 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "available": true,
+  "programmeCount": 2,
+  "days": [
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T12:25:00+03:00",
+          "stop": "2026-09-04T15:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK FP1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T15:00:00+03:00",
+          "stop": "2026-09-04T16:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK FP2",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
-  "programmeCount": 20,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T00:15:00+03:00",
-          "stop": "2026-09-01T01:50:00+03:00",
-          "title": "Inferno",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T01:50:00+03:00",
-          "stop": "2026-09-01T03:45:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T03:45:00+03:00",
-          "stop": "2026-09-01T06:35:00+03:00",
-          "title": "Historia que tú hiciste: Champions League 15/16: La Undécima: Real Madrid-Atlético de Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T06:35:00+03:00",
-          "stop": "2026-09-01T09:00:00+03:00",
-          "title": "Historia que tú hiciste: La Decimoquinta. Final Champions League (2023/24): Borussia Dortmund – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:00:00+03:00",
-          "stop": "2026-09-01T13:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T13:00:00+03:00",
-          "stop": "2026-09-01T17:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T17:00:00+03:00",
-          "stop": "2026-09-01T21:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T21:00:00+03:00",
-          "stop": "2026-09-02T01:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
@@ -161,6 +100,53 @@
         {
           "start": "2026-09-03T21:00:00+03:00",
           "stop": "2026-09-04T01:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T01:00:00+03:00",
+          "stop": "2026-09-04T05:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T05:00:00+03:00",
+          "stop": "2026-09-04T09:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:00:00+03:00",
+          "stop": "2026-09-04T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T13:00:00+03:00",
+          "stop": "2026-09-04T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T17:00:00+03:00",
+          "stop": "2026-09-04T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:00:00+03:00",
+          "stop": "2026-09-05T01:00:00+03:00",
           "title": "Real Madrid TV",
           "description": "L",
           "category": null

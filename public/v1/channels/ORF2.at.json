@@ -8,384 +8,36 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-01T11:42:16.041115+00:00",
+  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
   "available": true,
-  "programmeCount": 152,
+  "programmeCount": 157,
   "days": [
-    {
-      "date": "2026-09-01",
-      "programs": [
-        {
-          "start": "2026-09-01T00:24:00+03:00",
-          "stop": "2026-09-01T02:17:00+03:00",
-          "title": "Inferno.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T02:17:00+03:00",
-          "stop": "2026-09-01T03:46:00+03:00",
-          "title": "Tatort: Was ist das für eine Welt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T03:46:00+03:00",
-          "stop": "2026-09-01T04:40:00+03:00",
-          "title": "Sommergespräche 2026 - Simone Stribl im Gespräch mit Christian Stocker, ÖVP.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T04:40:00+03:00",
-          "stop": "2026-09-01T05:33:00+03:00",
-          "title": "Tom Hanks - Ein ganz normaler Held.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:33:00+03:00",
-          "stop": "2026-09-01T05:59:00+03:00",
-          "title": "Abenteuer im Naturpark.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T05:59:00+03:00",
-          "stop": "2026-09-01T06:56:00+03:00",
-          "title": "Studio 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T06:56:00+03:00",
-          "stop": "2026-09-01T07:10:00+03:00",
-          "title": "konkret.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:10:00+03:00",
-          "stop": "2026-09-01T07:30:00+03:00",
-          "title": "▶️ Wetter-Panorama und Programmvorschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T07:30:00+03:00",
-          "stop": "2026-09-01T08:00:00+03:00",
-          "title": "▶️ Guten Morgen Österreich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T08:00:00+03:00",
-          "stop": "2026-09-01T08:10:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T08:10:00+03:00",
-          "stop": "2026-09-01T08:30:00+03:00",
-          "title": "▶️ Guten Morgen Österreich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T08:30:00+03:00",
-          "stop": "2026-09-01T08:33:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T08:33:00+03:00",
-          "stop": "2026-09-01T09:00:00+03:00",
-          "title": "▶️ Guten Morgen Österreich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:00:00+03:00",
-          "stop": "2026-09-01T09:10:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:10:00+03:00",
-          "stop": "2026-09-01T09:30:00+03:00",
-          "title": "▶️ Guten Morgen Österreich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:30:00+03:00",
-          "stop": "2026-09-01T09:33:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T09:33:00+03:00",
-          "stop": "2026-09-01T10:00:00+03:00",
-          "title": "▶️ Guten Morgen Österreich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T10:00:00+03:00",
-          "stop": "2026-09-01T10:10:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T10:10:00+03:00",
-          "stop": "2026-09-01T10:27:00+03:00",
-          "title": "Fit mit den Stars - Nico Langmann.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T10:27:00+03:00",
-          "stop": "2026-09-01T10:30:00+03:00",
-          "title": "▶️ Wetter-Panorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T10:30:00+03:00",
-          "stop": "2026-09-01T10:55:00+03:00",
-          "title": "Silvia kocht.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T10:55:00+03:00",
-          "stop": "2026-09-01T11:45:00+03:00",
-          "title": "Ein Schloss am Wörthersee. S: 3 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T11:45:00+03:00",
-          "stop": "2026-09-01T12:10:00+03:00",
-          "title": "Bewusst Gesund - Das Magazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T12:10:00+03:00",
-          "stop": "2026-09-01T13:05:00+03:00",
-          "title": "Sommerbühne - Steiermark: Das Festival Aufsteirern in Graz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T13:05:00+03:00",
-          "stop": "2026-09-01T13:55:00+03:00",
-          "title": "Sommergespräche 2026 - Simone Stribl im Gespräch mit Christian Stocker, ÖVP.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T13:55:00+03:00",
-          "stop": "2026-09-01T14:00:00+03:00",
-          "title": "▶️ Wetterschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T14:00:00+03:00",
-          "stop": "2026-09-01T14:25:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T14:25:00+03:00",
-          "stop": "2026-09-01T14:30:00+03:00",
-          "title": "Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T14:30:00+03:00",
-          "stop": "2026-09-01T15:05:00+03:00",
-          "title": "▶️ Aktuell nach eins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T15:05:00+03:00",
-          "stop": "2026-09-01T15:10:00+03:00",
-          "title": "Seitenblicke.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T15:10:00+03:00",
-          "stop": "2026-09-01T15:35:00+03:00",
-          "title": "Silvia kocht.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T15:35:00+03:00",
-          "stop": "2026-09-01T16:25:00+03:00",
-          "title": "Sturm der Liebe. S: 22 / Ep: 4620.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T16:25:00+03:00",
-          "stop": "2026-09-01T17:10:00+03:00",
-          "title": "Die Rosenheim-Cops. S: 4 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T17:10:00+03:00",
-          "stop": "2026-09-01T18:00:00+03:00",
-          "title": "Die Bergretter. S: 10 / Ep: 11.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T18:00:00+03:00",
-          "stop": "2026-09-01T18:05:00+03:00",
-          "title": "▶️ ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T18:05:00+03:00",
-          "stop": "2026-09-01T18:30:00+03:00",
-          "title": "▶️ Aktuell nach fünf.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T18:30:00+03:00",
-          "stop": "2026-09-01T19:30:00+03:00",
-          "title": "▶️ Studio 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T19:30:00+03:00",
-          "stop": "2026-09-01T19:51:00+03:00",
-          "title": "konkret.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T19:51:00+03:00",
-          "stop": "2026-09-01T20:00:00+03:00",
-          "title": "infos & tipps.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:00:00+03:00",
-          "stop": "2026-09-01T20:30:00+03:00",
-          "title": "▶️ Bundesland heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:30:00+03:00",
-          "stop": "2026-09-01T20:51:00+03:00",
-          "title": "▶️ Zeit im Bild.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:51:00+03:00",
-          "stop": "2026-09-01T20:56:00+03:00",
-          "title": "Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T20:56:00+03:00",
-          "stop": "2026-09-01T21:05:00+03:00",
-          "title": "▶️ Sport Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T21:05:00+03:00",
-          "stop": "2026-09-01T21:15:00+03:00",
-          "title": "Seitenblicke.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T21:15:00+03:00",
-          "stop": "2026-09-01T22:05:00+03:00",
-          "title": "Tierische Kunst - Die wilde Talenteshow.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T22:05:00+03:00",
-          "stop": "2026-09-01T23:00:00+03:00",
-          "title": "▶️ Report.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T23:00:00+03:00",
-          "stop": "2026-09-01T23:25:00+03:00",
-          "title": "▶️ ZIB 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T23:25:00+03:00",
-          "stop": "2026-09-01T23:35:00+03:00",
-          "title": "Euromillionen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-01T23:35:00+03:00",
-          "stop": "2026-09-02T01:25:00+03:00",
-          "title": "Elfi.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-02",
       "programs": [
         {
-          "start": "2026-09-02T01:25:00+03:00",
-          "stop": "2026-09-02T02:10:00+03:00",
+          "start": "2026-09-02T01:20:00+03:00",
+          "stop": "2026-09-02T02:05:00+03:00",
           "title": "Liebesg'schichten und Heiratssachen.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T02:10:00+03:00",
-          "stop": "2026-09-02T03:00:00+03:00",
+          "start": "2026-09-02T02:05:00+03:00",
+          "stop": "2026-09-02T02:55:00+03:00",
           "title": "Report.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T03:00:00+03:00",
-          "stop": "2026-09-02T03:45:00+03:00",
+          "start": "2026-09-02T02:55:00+03:00",
+          "stop": "2026-09-02T03:40:00+03:00",
           "title": "Tierische Kunst - Die wilde Talenteshow.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T03:45:00+03:00",
+          "start": "2026-09-02T03:40:00+03:00",
           "stop": "2026-09-02T04:10:00+03:00",
           "title": "Silvia kocht.",
           "description": "L",
@@ -400,27 +52,27 @@
         },
         {
           "start": "2026-09-02T04:55:00+03:00",
-          "stop": "2026-09-02T05:40:00+03:00",
+          "stop": "2026-09-02T05:35:00+03:00",
           "title": "Die Bergretter. S: 10 / Ep: 11.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T05:40:00+03:00",
-          "stop": "2026-09-02T05:45:00+03:00",
+          "start": "2026-09-02T05:35:00+03:00",
+          "stop": "2026-09-02T05:40:00+03:00",
           "title": "Seitenblicke.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T05:45:00+03:00",
-          "stop": "2026-09-02T06:40:00+03:00",
+          "start": "2026-09-02T05:40:00+03:00",
+          "stop": "2026-09-02T06:35:00+03:00",
           "title": "Studio 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-02T06:40:00+03:00",
+          "start": "2026-09-02T06:35:00+03:00",
           "stop": "2026-09-02T07:00:00+03:00",
           "title": "konkret.",
           "description": "L",
@@ -1086,6 +738,389 @@
           "start": "2026-09-03T23:30:00+03:00",
           "stop": "2026-09-04T00:05:00+03:00",
           "title": "Eco.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T00:05:00+03:00",
+          "stop": "2026-09-04T01:05:00+03:00",
+          "title": "STÖCKL - Mit Peter Kaiser, Nadja Bernhard, Kristina Sprenger und Franz-Stefan Gady.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T01:05:00+03:00",
+          "stop": "2026-09-04T02:35:00+03:00",
+          "title": "Trauung mit Hindernissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T02:35:00+03:00",
+          "stop": "2026-09-04T03:25:00+03:00",
+          "title": "Am Schauplatz - Der Traum vom Haus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T03:25:00+03:00",
+          "stop": "2026-09-04T03:55:00+03:00",
+          "title": "Eco.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T03:55:00+03:00",
+          "stop": "2026-09-04T04:55:00+03:00",
+          "title": "STÖCKL - Mit Peter Kaiser, Nadja Bernhard, Kristina Sprenger und Franz-Stefan Gady.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T04:55:00+03:00",
+          "stop": "2026-09-04T05:40:00+03:00",
+          "title": "Die Bergretter. S: 10 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T05:40:00+03:00",
+          "stop": "2026-09-04T05:45:00+03:00",
+          "title": "Seitenblicke.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T05:45:00+03:00",
+          "stop": "2026-09-04T06:40:00+03:00",
+          "title": "Studio 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T06:40:00+03:00",
+          "stop": "2026-09-04T07:00:00+03:00",
+          "title": "konkret.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T07:00:00+03:00",
+          "stop": "2026-09-04T07:30:00+03:00",
+          "title": "▶️ Wetter-Panorama und Programmvorschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T07:30:00+03:00",
+          "stop": "2026-09-04T08:00:00+03:00",
+          "title": "▶️ Guten Morgen Österreich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T08:00:00+03:00",
+          "stop": "2026-09-04T08:10:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T08:10:00+03:00",
+          "stop": "2026-09-04T08:30:00+03:00",
+          "title": "▶️ Guten Morgen Österreich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T08:30:00+03:00",
+          "stop": "2026-09-04T08:33:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T08:33:00+03:00",
+          "stop": "2026-09-04T09:00:00+03:00",
+          "title": "▶️ Guten Morgen Österreich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:00:00+03:00",
+          "stop": "2026-09-04T09:10:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:10:00+03:00",
+          "stop": "2026-09-04T09:30:00+03:00",
+          "title": "▶️ Guten Morgen Österreich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:30:00+03:00",
+          "stop": "2026-09-04T09:33:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T09:33:00+03:00",
+          "stop": "2026-09-04T10:00:00+03:00",
+          "title": "▶️ Guten Morgen Österreich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T10:00:00+03:00",
+          "stop": "2026-09-04T10:10:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T10:10:00+03:00",
+          "stop": "2026-09-04T10:27:00+03:00",
+          "title": "Fit mit den Stars - Nico Langmann.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T10:27:00+03:00",
+          "stop": "2026-09-04T10:30:00+03:00",
+          "title": "▶️ Wetter-Panorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T10:30:00+03:00",
+          "stop": "2026-09-04T10:55:00+03:00",
+          "title": "Silvia kocht.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T10:55:00+03:00",
+          "stop": "2026-09-04T11:45:00+03:00",
+          "title": "Ein Schloss am Wörthersee. S: 3 / Ep: 12.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T11:45:00+03:00",
+          "stop": "2026-09-04T12:15:00+03:00",
+          "title": "Daheim - das Volksgruppenmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T12:15:00+03:00",
+          "stop": "2026-09-04T12:50:00+03:00",
+          "title": "Der Geschmack Europas. S: 9 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T12:50:00+03:00",
+          "stop": "2026-09-04T13:45:00+03:00",
+          "title": "Am Schauplatz - Der Traum vom Haus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T13:45:00+03:00",
+          "stop": "2026-09-04T14:00:00+03:00",
+          "title": "▶️ Wetterschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T14:00:00+03:00",
+          "stop": "2026-09-04T14:25:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T14:25:00+03:00",
+          "stop": "2026-09-04T14:30:00+03:00",
+          "title": "Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T14:30:00+03:00",
+          "stop": "2026-09-04T15:05:00+03:00",
+          "title": "▶️ Aktuell nach eins.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T15:05:00+03:00",
+          "stop": "2026-09-04T15:10:00+03:00",
+          "title": "Seitenblicke.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T15:10:00+03:00",
+          "stop": "2026-09-04T15:35:00+03:00",
+          "title": "Silvia kocht - Unterwegs im Salzburger Saalachtal.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T15:35:00+03:00",
+          "stop": "2026-09-04T16:25:00+03:00",
+          "title": "Sturm der Liebe. S: 22 / Ep: 4623.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T16:25:00+03:00",
+          "stop": "2026-09-04T17:10:00+03:00",
+          "title": "Die Rosenheim-Cops. S: 4 / Ep: 15.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T17:10:00+03:00",
+          "stop": "2026-09-04T17:56:00+03:00",
+          "title": "Die Bergretter. S: 10 / Ep: 14.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T17:56:00+03:00",
+          "stop": "2026-09-04T18:00:00+03:00",
+          "title": "▶️ Bundesland heute kompakt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T18:00:00+03:00",
+          "stop": "2026-09-04T18:05:00+03:00",
+          "title": "▶️ ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T18:05:00+03:00",
+          "stop": "2026-09-04T18:30:00+03:00",
+          "title": "▶️ Aktuell nach fünf.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T18:30:00+03:00",
+          "stop": "2026-09-04T19:20:00+03:00",
+          "title": "▶️ Studio 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:20:00+03:00",
+          "stop": "2026-09-04T19:30:00+03:00",
+          "title": "Rund ums Rad.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:30:00+03:00",
+          "stop": "2026-09-04T19:51:00+03:00",
+          "title": "Mayrs Magazin - Wissen für alle.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:51:00+03:00",
+          "stop": "2026-09-04T19:57:00+03:00",
+          "title": "infos & tipps.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:57:00+03:00",
+          "stop": "2026-09-04T20:00:00+03:00",
+          "title": "▶️ Bundesland heute Service.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:00:00+03:00",
+          "stop": "2026-09-04T20:30:00+03:00",
+          "title": "▶️ Bundesland heute.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:30:00+03:00",
+          "stop": "2026-09-04T20:51:00+03:00",
+          "title": "▶️ Zeit im Bild.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:51:00+03:00",
+          "stop": "2026-09-04T20:56:00+03:00",
+          "title": "Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T20:56:00+03:00",
+          "stop": "2026-09-04T21:05:00+03:00",
+          "title": "▶️ Sport Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:05:00+03:00",
+          "stop": "2026-09-04T21:15:00+03:00",
+          "title": "Seitenblicke.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:15:00+03:00",
+          "stop": "2026-09-04T22:50:00+03:00",
+          "title": "Der Zürich-Krimi. S: 1 / Ep: 24.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T22:50:00+03:00",
+          "stop": "2026-09-04T23:00:00+03:00",
+          "title": "Reisezeit Österreich - Klagenfurt und Kärntner Seen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T23:00:00+03:00",
+          "stop": "2026-09-04T23:25:00+03:00",
+          "title": "▶️ ZIB 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T23:25:00+03:00",
+          "stop": "2026-09-04T23:35:00+03:00",
+          "title": "Euromillionen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T23:35:00+03:00",
+          "stop": "2026-09-05T00:20:00+03:00",
+          "title": "Universum History. S: 14 / Ep: 21.",
           "description": "L",
           "category": null
         }
