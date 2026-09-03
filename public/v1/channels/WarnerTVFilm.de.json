@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "start": "2026-09-02T01:05:00+03:00",
-          "stop": "2026-09-02T03:35:00+03:00",
-          "title": "The Last Duel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T03:35:00+03:00",
-          "stop": "2026-09-02T05:20:00+03:00",
-          "title": "Selbst ist die Braut.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T05:20:00+03:00",
-          "stop": "2026-09-02T07:00:00+03:00",
-          "title": "Geostorm.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T07:00:00+03:00",
-          "stop": "2026-09-02T08:45:00+03:00",
-          "title": "Bei Anruf Mord.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T08:45:00+03:00",
-          "stop": "2026-09-02T11:05:00+03:00",
-          "title": "Der unsichtbare Dritte.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T11:05:00+03:00",
-          "stop": "2026-09-02T11:25:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T11:25:00+03:00",
-          "stop": "2026-09-02T13:10:00+03:00",
-          "title": "Dangerous Minds.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T13:10:00+03:00",
-          "stop": "2026-09-02T15:20:00+03:00",
-          "title": "Die Wiege der Sonne.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T15:20:00+03:00",
-          "stop": "2026-09-02T17:15:00+03:00",
-          "title": "Eraser.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T17:15:00+03:00",
-          "stop": "2026-09-02T19:25:00+03:00",
-          "title": "Déjà Vu - Wettlauf gegen die Zeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T19:25:00+03:00",
-          "stop": "2026-09-02T21:15:00+03:00",
-          "title": "Unbreakable - Unzerbrechlich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T21:15:00+03:00",
-          "stop": "2026-09-02T23:35:00+03:00",
-          "title": "Batman Begins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T23:35:00+03:00",
-          "stop": "2026-09-03T02:35:00+03:00",
-          "title": "Pearl Harbor.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "programs": [
@@ -237,13 +141,13 @@
         },
         {
           "start": "2026-09-04T09:40:00+03:00",
-          "stop": "2026-09-04T11:30:00+03:00",
+          "stop": "2026-09-04T11:25:00+03:00",
           "title": "Bei Anruf Mord.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-04T11:30:00+03:00",
+          "start": "2026-09-04T11:25:00+03:00",
           "stop": "2026-09-04T13:50:00+03:00",
           "title": "Transformers.",
           "description": "L",
@@ -279,8 +183,111 @@
         },
         {
           "start": "2026-09-04T23:20:00+03:00",
-          "stop": "2026-09-05T01:00:00+03:00",
+          "stop": "2026-09-05T01:05:00+03:00",
           "title": "Trance - Gefährliche Erinnerung.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T01:05:00+03:00",
+          "stop": "2026-09-05T02:55:00+03:00",
+          "title": "Unbreakable - Unzerbrechlich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T02:55:00+03:00",
+          "stop": "2026-09-05T04:25:00+03:00",
+          "title": "Max Payne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T04:25:00+03:00",
+          "stop": "2026-09-05T04:45:00+03:00",
+          "title": "Hinter den Kulissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T04:45:00+03:00",
+          "stop": "2026-09-05T07:00:00+03:00",
+          "title": "Der unsichtbare Dritte.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T07:00:00+03:00",
+          "stop": "2026-09-05T07:55:00+03:00",
+          "title": "Lutz van der Horst - Der Filmtalker.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T07:55:00+03:00",
+          "stop": "2026-09-05T09:45:00+03:00",
+          "title": "Schütze Benjamin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T09:45:00+03:00",
+          "stop": "2026-09-05T11:30:00+03:00",
+          "title": "American Wildcats.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T11:30:00+03:00",
+          "stop": "2026-09-05T13:20:00+03:00",
+          "title": "Sister Act 2 - In göttlicher Mission.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T13:20:00+03:00",
+          "stop": "2026-09-05T15:15:00+03:00",
+          "title": "Demolition Man.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T15:15:00+03:00",
+          "stop": "2026-09-05T17:10:00+03:00",
+          "title": "The Specialist.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T17:10:00+03:00",
+          "stop": "2026-09-05T19:30:00+03:00",
+          "title": "Batman Begins.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:30:00+03:00",
+          "stop": "2026-09-05T21:15:00+03:00",
+          "title": "Trance - Gefährliche Erinnerung.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T21:15:00+03:00",
+          "stop": "2026-09-05T23:20:00+03:00",
+          "title": "L'ultimo re di Scozia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:20:00+03:00",
+          "stop": "2026-09-06T01:45:00+03:00",
+          "title": "Im Auftrag des Teufels.",
           "description": "L",
           "category": null
         }

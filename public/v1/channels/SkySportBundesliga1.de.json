@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "start": "2026-09-02T07:00:00+03:00",
-          "stop": "2026-09-03T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "programs": [
@@ -57,6 +45,67 @@
           "start": "2026-09-04T20:30:00+03:00",
           "stop": "2026-09-05T00:15:00+03:00",
           "title": "Live BL: VfB Stuttgart – 1. FC Köln, Flutlicht-Freitag, 2. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T00:15:00+03:00",
+          "stop": "2026-09-05T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T07:00:00+03:00",
+          "stop": "2026-09-05T14:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T14:40:00+03:00",
+          "stop": "2026-09-05T15:00:00+03:00",
+          "title": "Es folgt: LIVE BL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T15:00:00+03:00",
+          "stop": "2026-09-05T16:00:00+03:00",
+          "title": "Live BL: NEO.bet Countdown, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T16:00:00+03:00",
+          "stop": "2026-09-05T16:15:00+03:00",
+          "title": "Live BL: TSG – BVB: NEO.bet Countdown, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T16:15:00+03:00",
+          "stop": "2026-09-05T18:45:00+03:00",
+          "title": "Live BL: TSG Hoffenheim – Borussia Dortmund, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T18:45:00+03:00",
+          "stop": "2026-09-05T22:15:00+03:00",
+          "title": "Live BL: FC Schalke 04 – FC Bayern München, tipico Topspiel der Woche, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T22:15:00+03:00",
+          "stop": "2026-09-06T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

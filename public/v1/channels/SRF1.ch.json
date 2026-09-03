@@ -8,335 +8,43 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
   "available": true,
-  "programmeCount": 146,
+  "programmeCount": 134,
   "days": [
-    {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "start": "2026-09-02T00:45:00+03:00",
-          "stop": "2026-09-02T00:55:00+03:00",
-          "title": "Newsflash SRF 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T00:55:00+03:00",
-          "stop": "2026-09-02T02:20:00+03:00",
-          "title": "Les hirondelles de Kaboul.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T02:20:00+03:00",
-          "stop": "2026-09-02T02:55:00+03:00",
-          "title": "Kassensturz - \"Kassensturz\" Spezial - Temu & Co. unter der Lupe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T02:55:00+03:00",
-          "stop": "2026-09-02T04:10:00+03:00",
-          "title": "Literaturclub - Lesen mit Ricardo Cabanas.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T04:10:00+03:00",
-          "stop": "2026-09-02T04:25:00+03:00",
-          "title": "Mini Chuchi, dini Chuchi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T04:25:00+03:00",
-          "stop": "2026-09-02T04:50:00+03:00",
-          "title": "Zu Tisch.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T04:50:00+03:00",
-          "stop": "2026-09-02T05:05:00+03:00",
-          "title": "Die Schweiz von oben: Alpstein - Spektakuläre Drohnenaufnahmen aus der Schweiz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T05:05:00+03:00",
-          "stop": "2026-09-02T05:55:00+03:00",
-          "title": "1 gegen 100 - Regula aus Oeschgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T05:55:00+03:00",
-          "stop": "2026-09-02T06:55:00+03:00",
-          "title": "Sternstunde Philosophie - Wie Tiere den Tod verstehen - und was das über uns verrät.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T06:55:00+03:00",
-          "stop": "2026-09-02T07:25:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T07:25:00+03:00",
-          "stop": "2026-09-02T08:30:00+03:00",
-          "title": "News-Schlagzeilen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T08:30:00+03:00",
-          "stop": "2026-09-02T10:20:00+03:00",
-          "title": "Wetterkanal.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T10:20:00+03:00",
-          "stop": "2026-09-02T10:50:00+03:00",
-          "title": "Zu Tisch.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T10:50:00+03:00",
-          "stop": "2026-09-02T11:40:00+03:00",
-          "title": "Der Bergdoktor. S: 16 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T11:40:00+03:00",
-          "stop": "2026-09-02T12:30:00+03:00",
-          "title": "Der Bergdoktor. S: 16 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T12:30:00+03:00",
-          "stop": "2026-09-02T13:05:00+03:00",
-          "title": "Kassensturz - \"Kassensturz\" Spezial - Temu & Co. unter der Lupe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T13:05:00+03:00",
-          "stop": "2026-09-02T13:25:00+03:00",
-          "title": "Mini Chuchi, dini Chuchi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T13:25:00+03:00",
-          "stop": "2026-09-02T13:45:00+03:00",
-          "title": "Mini Chuchi, dini Chuchi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T13:45:00+03:00",
-          "stop": "2026-09-02T13:50:00+03:00",
-          "title": "Tagesschau kompakt - Mittagsausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T13:50:00+03:00",
-          "stop": "2026-09-02T14:05:00+03:00",
-          "title": "Meteo - Mittagsausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T14:05:00+03:00",
-          "stop": "2026-09-02T14:40:00+03:00",
-          "title": "Zu Tisch.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T14:40:00+03:00",
-          "stop": "2026-09-02T15:30:00+03:00",
-          "title": "SF bi de Lüt - Hallau SH.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T15:30:00+03:00",
-          "stop": "2026-09-02T16:25:00+03:00",
-          "title": "SF bi de Lüt - Agarn VS.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T16:25:00+03:00",
-          "stop": "2026-09-02T16:55:00+03:00",
-          "title": "Streifzug durch das Tessin - Magadinoebene und Alp Dötra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T16:55:00+03:00",
-          "stop": "2026-09-02T18:30:00+03:00",
-          "title": "Rosamunde Pilcher. S: 1 / Ep: 162.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T18:30:00+03:00",
-          "stop": "2026-09-02T18:40:00+03:00",
-          "title": "Guetnachtgschichtli.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T18:40:00+03:00",
-          "stop": "2026-09-02T19:00:00+03:00",
-          "title": "Telesguard.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T19:00:00+03:00",
-          "stop": "2026-09-02T19:05:00+03:00",
-          "title": "Tagesschau kompakt - Vorabendausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T19:05:00+03:00",
-          "stop": "2026-09-02T19:10:00+03:00",
-          "title": "Meteo - Vorabendausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T19:10:00+03:00",
-          "stop": "2026-09-02T19:25:00+03:00",
-          "title": "Mini Chuchi, dini Chuchi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T19:25:00+03:00",
-          "stop": "2026-09-02T20:00:00+03:00",
-          "title": "Zu Tisch.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T20:00:00+03:00",
-          "stop": "2026-09-02T20:25:00+03:00",
-          "title": "Schweiz aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T20:25:00+03:00",
-          "stop": "2026-09-02T20:30:00+03:00",
-          "title": "SRF Börse.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T20:30:00+03:00",
-          "stop": "2026-09-02T20:55:00+03:00",
-          "title": "Tagesschau - Hauptausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T20:55:00+03:00",
-          "stop": "2026-09-02T21:10:00+03:00",
-          "title": "Meteo - Abendausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T21:10:00+03:00",
-          "stop": "2026-09-02T22:00:00+03:00",
-          "title": "Rundschau - Das Schweizer Politmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T22:00:00+03:00",
-          "stop": "2026-09-02T22:40:00+03:00",
-          "title": "Mona mittendrin. S: 12 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T22:40:00+03:00",
-          "stop": "2026-09-02T22:50:00+03:00",
-          "title": "Ziehung des Schweizer Zahlenlottos - Mittwoch.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T22:50:00+03:00",
-          "stop": "2026-09-02T23:15:00+03:00",
-          "title": "10 vor 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T23:15:00+03:00",
-          "stop": "2026-09-02T23:25:00+03:00",
-          "title": "Meteo - Spätausgabe.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T23:25:00+03:00",
-          "stop": "2026-09-03T00:00:00+03:00",
-          "title": "Kulturplatz - Autobahn A13: Unterwegs auf der legendären Transitachse.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "programs": [
         {
-          "start": "2026-09-03T00:00:00+03:00",
-          "stop": "2026-09-03T00:05:00+03:00",
+          "start": "2026-09-03T00:05:00+03:00",
+          "stop": "2026-09-03T00:10:00+03:00",
           "title": "Ivar.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T00:05:00+03:00",
-          "stop": "2026-09-03T00:10:00+03:00",
+          "start": "2026-09-03T00:10:00+03:00",
+          "stop": "2026-09-03T00:15:00+03:00",
           "title": "Hotel mit Meerblick.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T00:10:00+03:00",
-          "stop": "2026-09-03T00:20:00+03:00",
+          "start": "2026-09-03T00:15:00+03:00",
+          "stop": "2026-09-03T00:25:00+03:00",
           "title": "Retirement Plan - Ruhestand.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T00:20:00+03:00",
-          "stop": "2026-09-03T00:35:00+03:00",
+          "start": "2026-09-03T00:25:00+03:00",
+          "stop": "2026-09-03T00:40:00+03:00",
           "title": "Winter im März.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T00:35:00+03:00",
+          "start": "2026-09-03T00:40:00+03:00",
           "stop": "2026-09-03T00:45:00+03:00",
           "title": "My Gut Friend - Mein Freund, das Bauchgefühl.",
           "description": "L",
@@ -351,62 +59,62 @@
         },
         {
           "start": "2026-09-03T01:00:00+03:00",
-          "stop": "2026-09-03T01:10:00+03:00",
+          "stop": "2026-09-03T01:15:00+03:00",
           "title": "El cuerpo de Cristo - Leib Christi.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T01:10:00+03:00",
-          "stop": "2026-09-03T01:25:00+03:00",
+          "start": "2026-09-03T01:15:00+03:00",
+          "stop": "2026-09-03T01:30:00+03:00",
           "title": "Im Auto Tapes und Butterbrot.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T01:25:00+03:00",
-          "stop": "2026-09-03T01:35:00+03:00",
+          "start": "2026-09-03T01:30:00+03:00",
+          "stop": "2026-09-03T01:40:00+03:00",
           "title": "The Eating of an Orange.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T01:35:00+03:00",
-          "stop": "2026-09-03T01:45:00+03:00",
+          "start": "2026-09-03T01:40:00+03:00",
+          "stop": "2026-09-03T01:50:00+03:00",
           "title": "Newsflash SRF 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T01:45:00+03:00",
-          "stop": "2026-09-03T03:15:00+03:00",
+          "start": "2026-09-03T01:50:00+03:00",
+          "stop": "2026-09-03T03:20:00+03:00",
           "title": "Rosamunde Pilcher. S: 1 / Ep: 162.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T03:15:00+03:00",
-          "stop": "2026-09-03T04:00:00+03:00",
-          "title": "Rundschau - Das Schweizer Politmagazin.",
+          "start": "2026-09-03T03:20:00+03:00",
+          "stop": "2026-09-03T04:10:00+03:00",
+          "title": "Rundschau - Schüsse an Rave-Party: Wer steckt dahinter?",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T04:00:00+03:00",
-          "stop": "2026-09-03T04:35:00+03:00",
+          "start": "2026-09-03T04:10:00+03:00",
+          "stop": "2026-09-03T04:45:00+03:00",
           "title": "Mona mittendrin. S: 12 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T04:35:00+03:00",
-          "stop": "2026-09-03T04:50:00+03:00",
+          "start": "2026-09-03T04:45:00+03:00",
+          "stop": "2026-09-03T05:00:00+03:00",
           "title": "Mini Chuchi, dini Chuchi.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T04:50:00+03:00",
+          "start": "2026-09-03T05:00:00+03:00",
           "stop": "2026-09-03T05:15:00+03:00",
           "title": "Zu Tisch.",
           "description": "L",
@@ -414,41 +122,41 @@
         },
         {
           "start": "2026-09-03T05:15:00+03:00",
-          "stop": "2026-09-03T05:20:00+03:00",
+          "stop": "2026-09-03T05:30:00+03:00",
           "title": "Die Schweiz von oben: Berner Oberland - Spektakuläre Drohnenaufnahmen aus der Schweiz.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T05:20:00+03:00",
-          "stop": "2026-09-03T05:50:00+03:00",
+          "start": "2026-09-03T05:30:00+03:00",
+          "stop": "2026-09-03T06:00:00+03:00",
           "title": "Potzmusig - 30. Appenzeller Ländlerfest 2026.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T05:50:00+03:00",
-          "stop": "2026-09-03T06:25:00+03:00",
+          "start": "2026-09-03T06:00:00+03:00",
+          "stop": "2026-09-03T06:30:00+03:00",
           "title": "Puls - Besser leben mit der Hitze.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T06:25:00+03:00",
-          "stop": "2026-09-03T06:55:00+03:00",
+          "start": "2026-09-03T06:30:00+03:00",
+          "stop": "2026-09-03T07:00:00+03:00",
           "title": "Kulturplatz - Autobahn A13: Unterwegs auf der legendären Transitachse.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T06:55:00+03:00",
-          "stop": "2026-09-03T07:25:00+03:00",
+          "start": "2026-09-03T07:00:00+03:00",
+          "stop": "2026-09-03T07:30:00+03:00",
           "title": "nano - Die Welt von morgen.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-03T07:25:00+03:00",
+          "start": "2026-09-03T07:30:00+03:00",
           "stop": "2026-09-03T08:30:00+03:00",
           "title": "News-Schlagzeilen.",
           "description": "L",
@@ -485,7 +193,7 @@
         {
           "start": "2026-09-03T12:05:00+03:00",
           "stop": "2026-09-03T13:05:00+03:00",
-          "title": "Rundschau - Das Schweizer Politmagazin.",
+          "title": "Rundschau - Schüsse an Rave-Party: Wer steckt dahinter?",
           "description": "L",
           "category": null
         },
@@ -1043,7 +751,215 @@
         {
           "start": "2026-09-04T23:25:00+03:00",
           "stop": "2026-09-05T00:40:00+03:00",
-          "title": "Arena.",
+          "title": "Arena - \"Abstimmungs-Arena\" zur Ernährungsinitiative.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T00:40:00+03:00",
+          "stop": "2026-09-05T00:55:00+03:00",
+          "title": "Newsflash SRF 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T00:55:00+03:00",
+          "stop": "2026-09-05T02:25:00+03:00",
+          "title": "Beetlejuice.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T02:25:00+03:00",
+          "stop": "2026-09-05T03:10:00+03:00",
+          "title": "SRF bi de Lüt - Im Einsatz. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T03:10:00+03:00",
+          "stop": "2026-09-05T04:20:00+03:00",
+          "title": "Arena - \"Abstimmungs-Arena\" zur Ernährungsinitiative.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T04:20:00+03:00",
+          "stop": "2026-09-05T04:35:00+03:00",
+          "title": "Mini Chuchi, dini Chuchi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T04:35:00+03:00",
+          "stop": "2026-09-05T05:10:00+03:00",
+          "title": "Kassensturz - \"Kassensturz\" Spezial - Temu & Co. unter der Lupe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T05:10:00+03:00",
+          "stop": "2026-09-05T06:05:00+03:00",
+          "title": "Rundschau - Schüsse an Rave-Party: Wer steckt dahinter?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T06:05:00+03:00",
+          "stop": "2026-09-05T06:10:00+03:00",
+          "title": "Die Schweiz von oben: Zermatt - Spektakuläre Drohnenaufnahmen aus der Schweiz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T06:10:00+03:00",
+          "stop": "2026-09-05T06:40:00+03:00",
+          "title": "SRFglobal - Die Welt rüstet auf - doch die Waffen fehlen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T06:40:00+03:00",
+          "stop": "2026-09-05T07:00:00+03:00",
+          "title": "Für immer und WG. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T07:00:00+03:00",
+          "stop": "2026-09-05T07:25:00+03:00",
+          "title": "Für immer und WG. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T07:25:00+03:00",
+          "stop": "2026-09-05T08:30:00+03:00",
+          "title": "News-Schlagzeilen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T08:30:00+03:00",
+          "stop": "2026-09-05T08:50:00+03:00",
+          "title": "Wetterkanal.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T08:50:00+03:00",
+          "stop": "2026-09-05T13:00:00+03:00",
+          "title": "▶️ Schwingen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T13:00:00+03:00",
+          "stop": "2026-09-05T14:00:00+03:00",
+          "title": "Schwingklub.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T14:00:00+03:00",
+          "stop": "2026-09-05T18:25:00+03:00",
+          "title": "▶️ Schwingen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T18:25:00+03:00",
+          "stop": "2026-09-05T19:00:00+03:00",
+          "title": "Minisguard - Wie bereitet man sich auf die Jagd vor?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:00:00+03:00",
+          "stop": "2026-09-05T19:05:00+03:00",
+          "title": "Tagesschau - Vorabendausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:05:00+03:00",
+          "stop": "2026-09-05T19:10:00+03:00",
+          "title": "Meteo - Vorabendausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:10:00+03:00",
+          "stop": "2026-09-05T19:45:00+03:00",
+          "title": "GESUNDHEITHEUTE - Die Gesundheitssendung mit Dr. Jeanne Fürst - Menopause und Perimenopause.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:45:00+03:00",
+          "stop": "2026-09-05T20:20:00+03:00",
+          "title": "Samschtig-Jass - Mit Tausendsassa Jan Fitze.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T20:20:00+03:00",
+          "stop": "2026-09-05T20:30:00+03:00",
+          "title": "Ziehung des Schweizer Zahlenlottos - Samstag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T20:30:00+03:00",
+          "stop": "2026-09-05T20:55:00+03:00",
+          "title": "Tagesschau - Hauptausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T20:55:00+03:00",
+          "stop": "2026-09-05T21:00:00+03:00",
+          "title": "Meteo - Abendausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T21:00:00+03:00",
+          "stop": "2026-09-05T21:10:00+03:00",
+          "title": "Wort zum Sonntag - Stina Schwarzenbach.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T21:10:00+03:00",
+          "stop": "2026-09-05T23:10:00+03:00",
+          "title": "Ding Dong - Zeig mir dein Zuhause.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:10:00+03:00",
+          "stop": "2026-09-05T23:20:00+03:00",
+          "title": "Tagesschau - Spätausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:20:00+03:00",
+          "stop": "2026-09-05T23:30:00+03:00",
+          "title": "Meteo - Spätausgabe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:30:00+03:00",
+          "stop": "2026-09-06T01:10:00+03:00",
+          "title": "Usfahrt Oerlike.",
           "description": "L",
           "category": null
         }

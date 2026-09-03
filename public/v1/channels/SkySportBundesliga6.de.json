@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 7,
   "days": [
-    {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "start": "2026-09-02T07:00:00+03:00",
-          "stop": "2026-09-03T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "programs": [
@@ -42,6 +30,46 @@
         {
           "start": "2026-09-04T07:00:00+03:00",
           "stop": "2026-09-05T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T07:00:00+03:00",
+          "stop": "2026-09-05T13:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T13:10:00+03:00",
+          "stop": "2026-09-05T13:30:00+03:00",
+          "title": "Es folgt: LIVE 2. BL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T13:30:00+03:00",
+          "stop": "2026-09-05T16:00:00+03:00",
+          "title": "Live 2. BL: Multiview, 4. Spieltag, Samstag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T16:00:00+03:00",
+          "stop": "2026-09-05T18:30:00+03:00",
+          "title": "Live BL: Multiview, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T18:30:00+03:00",
+          "stop": "2026-09-06T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

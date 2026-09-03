@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-02T11:22:46.386353+00:00",
+  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
   "available": true,
-  "programmeCount": 22,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-09-02",
-      "programs": [
-        {
-          "start": "2026-09-02T00:00:00+03:00",
-          "stop": "2026-09-02T03:00:00+03:00",
-          "title": "Крутой Хит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T03:00:00+03:00",
-          "stop": "2026-09-02T04:00:00+03:00",
-          "title": "Пой со мной.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T04:00:00+03:00",
-          "stop": "2026-09-02T11:00:00+03:00",
-          "title": "Лови ритм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T11:00:00+03:00",
-          "stop": "2026-09-02T11:30:00+03:00",
-          "title": "Золотые Киты.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T11:30:00+03:00",
-          "stop": "2026-09-02T23:00:00+03:00",
-          "title": "100% Хит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-02T23:00:00+03:00",
-          "stop": "2026-09-03T00:00:00+03:00",
-          "title": "Крутой Хит.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-03",
       "programs": [
@@ -175,6 +128,67 @@
         {
           "start": "2026-09-04T23:00:00+03:00",
           "stop": "2026-09-05T00:00:00+03:00",
+          "title": "Крутой Хит.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T00:00:00+03:00",
+          "stop": "2026-09-05T03:00:00+03:00",
+          "title": "Крутой Хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T03:00:00+03:00",
+          "stop": "2026-09-05T04:00:00+03:00",
+          "title": "Пой со мной.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T04:00:00+03:00",
+          "stop": "2026-09-05T11:00:00+03:00",
+          "title": "Лови ритм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T11:00:00+03:00",
+          "stop": "2026-09-05T20:00:00+03:00",
+          "title": "100% Хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T20:00:00+03:00",
+          "stop": "2026-09-05T20:30:00+03:00",
+          "title": "Каяк Шоу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T20:30:00+03:00",
+          "stop": "2026-09-05T22:20:00+03:00",
+          "title": "100% Хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T22:20:00+03:00",
+          "stop": "2026-09-05T23:00:00+03:00",
+          "title": "Лучшее из нового.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:00:00+03:00",
+          "stop": "2026-09-06T00:00:00+03:00",
           "title": "Крутой Хит.",
           "description": "L",
           "category": null
