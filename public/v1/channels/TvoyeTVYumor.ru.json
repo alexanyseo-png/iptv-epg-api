@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 86,
+  "programmeCount": 89,
   "days": [
-    {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "start": "2026-09-03T00:19:00+03:00",
-          "stop": "2026-09-03T00:59:00+03:00",
-          "title": "Comedy Club",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T00:59:00+03:00",
-          "stop": "2026-09-03T01:48:00+03:00",
-          "title": "Comedy Woman",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T01:48:00+03:00",
-          "stop": "2026-09-03T03:12:00+03:00",
-          "title": "Игра",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T03:12:00+03:00",
-          "stop": "2026-09-03T04:00:00+03:00",
-          "title": "Концерт Павла Воли",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T04:00:00+03:00",
-          "stop": "2026-09-03T04:24:00+03:00",
-          "title": "Наша Russia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T04:24:00+03:00",
-          "stop": "2026-09-03T05:09:00+03:00",
-          "title": "Однажды в России",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T05:09:00+03:00",
-          "stop": "2026-09-03T06:22:00+03:00",
-          "title": "Уральские пельмени",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T06:22:00+03:00",
-          "stop": "2026-09-03T06:46:00+03:00",
-          "title": "ТНТ.MIX",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T06:46:00+03:00",
-          "stop": "2026-09-03T07:32:00+03:00",
-          "title": "Женский стендап",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T07:32:00+03:00",
-          "stop": "2026-09-03T08:44:00+03:00",
-          "title": "Уральские пельмени",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T08:44:00+03:00",
-          "stop": "2026-09-03T09:05:00+03:00",
-          "title": "ХБ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T09:05:00+03:00",
-          "stop": "2026-09-03T10:21:00+03:00",
-          "title": "Советские комедии. Карнавальная ночь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T10:21:00+03:00",
-          "stop": "2026-09-03T11:09:00+03:00",
-          "title": "Comedy Club",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T11:09:00+03:00",
-          "stop": "2026-09-03T11:32:00+03:00",
-          "title": "Галустян +",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T11:32:00+03:00",
-          "stop": "2026-09-03T12:18:00+03:00",
-          "title": "Comedy Woman",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T12:18:00+03:00",
-          "stop": "2026-09-03T13:53:00+03:00",
-          "title": "Уральские пельмени",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T13:53:00+03:00",
-          "stop": "2026-09-03T15:58:00+03:00",
-          "title": "Классика кино. Большая прогулка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T15:58:00+03:00",
-          "stop": "2026-09-03T16:21:00+03:00",
-          "title": "Бородач",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T16:21:00+03:00",
-          "stop": "2026-09-03T17:04:00+03:00",
-          "title": "Comedy Club",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T17:04:00+03:00",
-          "stop": "2026-09-03T17:51:00+03:00",
-          "title": "Comedy Woman",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T17:51:00+03:00",
-          "stop": "2026-09-03T19:23:00+03:00",
-          "title": "Игра",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T19:23:00+03:00",
-          "stop": "2026-09-03T19:44:00+03:00",
-          "title": "Наша Russia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T19:44:00+03:00",
-          "stop": "2026-09-03T20:56:00+03:00",
-          "title": "Уральские пельмени",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T20:56:00+03:00",
-          "stop": "2026-09-03T21:19:00+03:00",
-          "title": "ТНТ.MIX",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T21:19:00+03:00",
-          "stop": "2026-09-03T22:05:00+03:00",
-          "title": "Женский стендап",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T22:05:00+03:00",
-          "stop": "2026-09-03T23:18:00+03:00",
-          "title": "Уральские пельмени",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T23:18:00+03:00",
-          "stop": "2026-09-04T00:30:00+03:00",
-          "title": "Суперлига",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-04",
       "programs": [
@@ -624,6 +430,221 @@
           "start": "2026-09-05T23:59:00+03:00",
           "stop": "2026-09-06T00:46:00+03:00",
           "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T00:46:00+03:00",
+          "stop": "2026-09-06T01:10:00+03:00",
+          "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T01:10:00+03:00",
+          "stop": "2026-09-06T01:57:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T01:57:00+03:00",
+          "stop": "2026-09-06T03:10:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T03:10:00+03:00",
+          "stop": "2026-09-06T04:54:00+03:00",
+          "title": "Классика кино. Фантомас",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T04:54:00+03:00",
+          "stop": "2026-09-06T05:18:00+03:00",
+          "title": "Бородач",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T05:18:00+03:00",
+          "stop": "2026-09-06T06:05:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T06:05:00+03:00",
+          "stop": "2026-09-06T06:48:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T06:48:00+03:00",
+          "stop": "2026-09-06T07:33:00+03:00",
+          "title": "Концерты",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T07:33:00+03:00",
+          "stop": "2026-09-06T07:53:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T07:53:00+03:00",
+          "stop": "2026-09-06T08:40:00+03:00",
+          "title": "Однажды в России",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T08:40:00+03:00",
+          "stop": "2026-09-06T09:51:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T09:51:00+03:00",
+          "stop": "2026-09-06T10:12:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T10:12:00+03:00",
+          "stop": "2026-09-06T10:59:00+03:00",
+          "title": "Женский стендап",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T10:59:00+03:00",
+          "stop": "2026-09-06T12:11:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T12:11:00+03:00",
+          "stop": "2026-09-06T13:23:00+03:00",
+          "title": "Суперлига",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:23:00+03:00",
+          "stop": "2026-09-06T13:46:00+03:00",
+          "title": "ХБ",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:46:00+03:00",
+          "stop": "2026-09-06T14:29:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T14:29:00+03:00",
+          "stop": "2026-09-06T14:52:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T14:52:00+03:00",
+          "stop": "2026-09-06T16:26:00+03:00",
+          "title": "Классика кино. Невезучие",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T16:26:00+03:00",
+          "stop": "2026-09-06T16:49:00+03:00",
+          "title": "Галустян +",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T16:49:00+03:00",
+          "stop": "2026-09-06T17:35:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T17:35:00+03:00",
+          "stop": "2026-09-06T18:48:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T18:48:00+03:00",
+          "stop": "2026-09-06T20:08:00+03:00",
+          "title": "Советские комедии. Кавказская пленница, или Новые приключения Шурика",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T20:08:00+03:00",
+          "stop": "2026-09-06T20:30:00+03:00",
+          "title": "Бородач",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T20:30:00+03:00",
+          "stop": "2026-09-06T21:17:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T21:17:00+03:00",
+          "stop": "2026-09-06T22:04:00+03:00",
+          "title": "Comedy Woman",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T22:04:00+03:00",
+          "stop": "2026-09-06T22:49:00+03:00",
+          "title": "Концерты",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T22:49:00+03:00",
+          "stop": "2026-09-06T23:32:00+03:00",
+          "title": "Юлия Ахмедова: Нет харассменту",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T23:32:00+03:00",
+          "stop": "2026-09-06T23:55:00+03:00",
+          "title": "Наша Russia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T23:55:00+03:00",
+          "stop": "2026-09-07T00:44:00+03:00",
+          "title": "Однажды в России",
           "description": "L",
           "category": null
         }

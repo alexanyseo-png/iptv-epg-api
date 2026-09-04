@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "start": "2026-09-03T00:05:00+03:00",
-          "stop": "2026-09-03T01:35:00+03:00",
-          "title": "TIKI-TAKA 26/27 (6)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T01:35:00+03:00",
-          "stop": "2026-09-03T02:05:00+03:00",
-          "title": "EFL Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T02:05:00+03:00",
-          "stop": "2026-09-03T08:00:00+03:00",
-          "title": "Celta Vigo B – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T08:00:00+03:00",
-          "stop": "2026-09-03T10:00:00+03:00",
-          "title": "Borussia Dortmund – Hamburger SV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T10:00:00+03:00",
-          "stop": "2026-09-03T12:00:00+03:00",
-          "title": "Bayern Mnichov – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T12:00:00+03:00",
-          "stop": "2026-09-03T14:00:00+03:00",
-          "title": "SC Freiburg – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T14:00:00+03:00",
-          "stop": "2026-09-03T16:00:00+03:00",
-          "title": "Celta Vigo B – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T16:00:00+03:00",
-          "stop": "2026-09-03T18:00:00+03:00",
-          "title": "Stoke City – Norwich City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T18:00:00+03:00",
-          "stop": "2026-09-03T18:30:00+03:00",
-          "title": "EFL Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T18:30:00+03:00",
-          "stop": "2026-09-03T19:00:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T19:00:00+03:00",
-          "stop": "2026-09-03T20:00:00+03:00",
-          "title": "Bundesliga Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T20:00:00+03:00",
-          "stop": "2026-09-03T22:00:00+03:00",
-          "title": "Stade Brestois – Toulouse FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T22:00:00+03:00",
-          "stop": "2026-09-04T00:00:00+03:00",
-          "title": "AS Monaco – Olympique Marseille",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-04",
       "programs": [
@@ -302,6 +206,95 @@
           "start": "2026-09-05T21:40:00+03:00",
           "stop": "2026-09-06T00:05:00+03:00",
           "title": "OGC Nice – Le Mans FC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T00:05:00+03:00",
+          "stop": "2026-09-06T02:00:00+03:00",
+          "title": "VfB Stuttgart – 1. FC Köln",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T02:00:00+03:00",
+          "stop": "2026-09-06T08:00:00+03:00",
+          "title": "VfL Wolfsburg – Energie Cottbus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T08:00:00+03:00",
+          "stop": "2026-09-06T10:00:00+03:00",
+          "title": "OGC Nice – Le Mans FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T10:00:00+03:00",
+          "stop": "2026-09-06T12:00:00+03:00",
+          "title": "Schalke 04 – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T12:00:00+03:00",
+          "stop": "2026-09-06T13:55:00+03:00",
+          "title": "TSG Hoffenheim – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:55:00+03:00",
+          "stop": "2026-09-06T16:20:00+03:00",
+          "title": "Birmingham City – Wolverhampton Wanderers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T16:20:00+03:00",
+          "stop": "2026-09-06T18:35:00+03:00",
+          "title": "Hamburger SV – 1. FSV Mainz 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T18:35:00+03:00",
+          "stop": "2026-09-06T20:30:00+03:00",
+          "title": "Burnley FC – Middlesbrough FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T20:30:00+03:00",
+          "stop": "2026-09-06T21:00:00+03:00",
+          "title": "EFL Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T21:00:00+03:00",
+          "stop": "2026-09-06T21:25:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T21:25:00+03:00",
+          "stop": "2026-09-06T21:40:00+03:00",
+          "title": "Profil klubu – Olympique de Marseille",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T21:40:00+03:00",
+          "stop": "2026-09-07T00:00:00+03:00",
+          "title": "Olympique Marseille – Paris FC",
           "description": "L",
           "category": null
         }

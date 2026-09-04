@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 2,
+  "programmeCount": 14,
   "days": [
     {
       "date": "2026-09-04",
@@ -24,8 +24,102 @@
         },
         {
           "start": "2026-09-04T15:00:00+03:00",
-          "stop": "2026-09-04T16:00:00+03:00",
+          "stop": "2026-09-05T09:40:00+03:00",
           "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK FP2",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T09:40:00+03:00",
+          "stop": "2026-09-05T10:20:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK FP3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T10:20:00+03:00",
+          "stop": "2026-09-05T11:15:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. Yamaha Cup Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T11:15:00+03:00",
+          "stop": "2026-09-05T13:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK Superpole",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T13:00:00+03:00",
+          "stop": "2026-09-05T14:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSPB Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T14:00:00+03:00",
+          "stop": "2026-09-05T15:30:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSSP Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T15:30:00+03:00",
+          "stop": "2026-09-05T21:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T21:00:00+03:00",
+          "stop": "2026-09-06T10:10:00+03:00",
+          "title": "⋗ UFC. Dan Hooker-Salahdine Parnasse (ENG)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T10:10:00+03:00",
+          "stop": "2026-09-06T11:10:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. Yamaha Cup Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T11:10:00+03:00",
+          "stop": "2026-09-06T12:40:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK Superpole Race",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T12:40:00+03:00",
+          "stop": "2026-09-06T14:00:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSSP Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T14:00:00+03:00",
+          "stop": "2026-09-06T15:15:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T15:15:00+03:00",
+          "stop": "2026-09-06T16:15:00+03:00",
+          "title": "⋗ FIM Superbike World Championship. French Round. WorldSBK Race 2",
           "description": "L",
           "category": null
         }

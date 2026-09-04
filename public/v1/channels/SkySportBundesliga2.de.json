@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "start": "2026-09-03T07:00:00+03:00",
-          "stop": "2026-09-04T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-04",
       "programs": [
@@ -127,6 +115,81 @@
           "start": "2026-09-05T21:00:00+03:00",
           "stop": "2026-09-06T00:00:00+03:00",
           "title": "Live 2. BL: Dynamo Dresden – VfL Bochum, tipico Topspiel der Woche, 4. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T00:00:00+03:00",
+          "stop": "2026-09-06T01:00:00+03:00",
+          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 4. Spieltag, Samstag komplett",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T01:00:00+03:00",
+          "stop": "2026-09-06T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T07:00:00+03:00",
+          "stop": "2026-09-06T13:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:40:00+03:00",
+          "stop": "2026-09-06T14:00:00+03:00",
+          "title": "Es folgt: LIVE 2. BL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T14:00:00+03:00",
+          "stop": "2026-09-06T16:30:00+03:00",
+          "title": "Live 2. BL: SpVgg Greuther Fürth – 1. FC Heidenheim, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T16:30:00+03:00",
+          "stop": "2026-09-06T18:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T18:10:00+03:00",
+          "stop": "2026-09-06T18:30:00+03:00",
+          "title": "Es folgt: BL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T18:30:00+03:00",
+          "stop": "2026-09-06T20:30:00+03:00",
+          "title": "BL: Hamburger SV – 1. FSV Mainz 05, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T20:30:00+03:00",
+          "stop": "2026-09-06T22:30:00+03:00",
+          "title": "BL: Eintracht Frankfurt – FC Augsburg, 2. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T22:30:00+03:00",
+          "stop": "2026-09-07T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

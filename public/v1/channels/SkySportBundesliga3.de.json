@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 16,
   "days": [
-    {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "start": "2026-09-03T07:00:00+03:00",
-          "stop": "2026-09-04T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-04",
       "programs": [
@@ -112,6 +100,39 @@
         {
           "start": "2026-09-05T22:15:00+03:00",
           "stop": "2026-09-06T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T07:00:00+03:00",
+          "stop": "2026-09-06T13:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:40:00+03:00",
+          "stop": "2026-09-06T14:00:00+03:00",
+          "title": "Es folgt: LIVE 2. BL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T14:00:00+03:00",
+          "stop": "2026-09-06T16:30:00+03:00",
+          "title": "Live 2. BL: Hertha BSC – 1. FC Magdeburg, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T16:30:00+03:00",
+          "stop": "2026-09-07T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

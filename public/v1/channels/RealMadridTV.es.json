@@ -8,99 +8,101 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-03",
-      "programs": [
-        {
-          "start": "2026-09-03T01:00:00+03:00",
-          "stop": "2026-09-03T05:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T05:00:00+03:00",
-          "stop": "2026-09-03T09:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T09:00:00+03:00",
-          "stop": "2026-09-03T13:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T13:00:00+03:00",
-          "stop": "2026-09-03T17:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T17:00:00+03:00",
-          "stop": "2026-09-03T21:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-03T21:00:00+03:00",
-          "stop": "2026-09-04T01:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-04",
       "programs": [
         {
-          "start": "2026-09-04T01:00:00+03:00",
-          "stop": "2026-09-04T05:00:00+03:00",
-          "title": "Real Madrid TV",
+          "start": "2026-09-04T00:40:00+03:00",
+          "stop": "2026-09-04T02:30:00+03:00",
+          "title": "DIABLO",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-04T05:00:00+03:00",
+          "start": "2026-09-04T02:30:00+03:00",
+          "stop": "2026-09-04T04:30:00+03:00",
+          "title": "LALIGA EA SPORTS (T26/27): Real Madrid – Málaga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T04:30:00+03:00",
+          "stop": "2026-09-04T06:45:00+03:00",
+          "title": "Liga F (T26/27): Real Madrid – Atlético de Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T06:45:00+03:00",
           "stop": "2026-09-04T09:00:00+03:00",
-          "title": "Real Madrid TV",
+          "title": "Historia que tú hiciste: La Decimoquinta. Final Champions League (2023/24): Borussia Dortmund – Real Madrid",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-04T09:00:00+03:00",
-          "stop": "2026-09-04T13:00:00+03:00",
-          "title": "Real Madrid TV",
+          "stop": "2026-09-04T09:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-04T13:00:00+03:00",
-          "stop": "2026-09-04T17:00:00+03:00",
-          "title": "Real Madrid TV",
+          "start": "2026-09-04T09:15:00+03:00",
+          "stop": "2026-09-04T15:30:00+03:00",
+          "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-04T17:00:00+03:00",
+          "start": "2026-09-04T15:30:00+03:00",
+          "stop": "2026-09-04T16:35:00+03:00",
+          "title": "Conecta Informativo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T16:35:00+03:00",
+          "stop": "2026-09-04T18:25:00+03:00",
+          "title": "Mi nombre es Thomas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T18:25:00+03:00",
+          "stop": "2026-09-04T19:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:00:00+03:00",
           "stop": "2026-09-04T21:00:00+03:00",
-          "title": "Real Madrid TV",
+          "title": "Hoy jugamos (T26/27): Betis – Real Madrid",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-04T21:00:00+03:00",
-          "stop": "2026-09-05T01:00:00+03:00",
-          "title": "Real Madrid TV",
+          "stop": "2026-09-04T21:55:00+03:00",
+          "title": "Hoy jugamos: la cuenta atrás (T26/27): Betis – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:55:00+03:00",
+          "stop": "2026-09-04T23:55:00+03:00",
+          "title": "Hoy jugamos: Minuto a minuto (T26/27): Betis – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T23:55:00+03:00",
+          "stop": "2026-09-05T01:15:00+03:00",
+          "title": "Hoy jugamos: El análisis (T26/27): Betis – Real Madrid",
           "description": "L",
           "category": null
         }
@@ -110,43 +112,132 @@
       "date": "2026-09-05",
       "programs": [
         {
-          "start": "2026-09-05T01:00:00+03:00",
-          "stop": "2026-09-05T05:00:00+03:00",
-          "title": "Real Madrid TV",
+          "start": "2026-09-05T01:15:00+03:00",
+          "stop": "2026-09-05T02:50:00+03:00",
+          "title": "Revolver",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T05:00:00+03:00",
+          "start": "2026-09-05T02:50:00+03:00",
           "stop": "2026-09-05T09:00:00+03:00",
-          "title": "Real Madrid TV",
+          "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-05T09:00:00+03:00",
-          "stop": "2026-09-05T13:00:00+03:00",
-          "title": "Real Madrid TV",
+          "stop": "2026-09-05T09:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T13:00:00+03:00",
-          "stop": "2026-09-05T17:00:00+03:00",
-          "title": "Real Madrid TV",
+          "start": "2026-09-05T09:15:00+03:00",
+          "stop": "2026-09-05T16:30:00+03:00",
+          "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T17:00:00+03:00",
+          "start": "2026-09-05T16:30:00+03:00",
+          "stop": "2026-09-05T17:55:00+03:00",
+          "title": "Las minas del Kilimanjaro",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T17:55:00+03:00",
+          "stop": "2026-09-05T18:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T18:00:00+03:00",
+          "stop": "2026-09-05T19:55:00+03:00",
+          "title": "División de Honor Juvenil (T26/27): Real Madrid – Rayo Majadahonda",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:55:00+03:00",
           "stop": "2026-09-05T21:00:00+03:00",
-          "title": "Real Madrid TV",
+          "title": "Ciudad Real Madrid",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-05T21:00:00+03:00",
-          "stop": "2026-09-06T01:00:00+03:00",
+          "stop": "2026-09-05T22:40:00+03:00",
+          "title": "Pretemporada Liga Endesa (T26/27): Real Madrid – Baskonia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T22:40:00+03:00",
+          "stop": "2026-09-05T23:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T23:00:00+03:00",
+          "stop": "2026-09-06T00:30:00+03:00",
+          "title": "Cazador blanco",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T00:30:00+03:00",
+          "stop": "2026-09-06T02:15:00+03:00",
+          "title": "Drive",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T02:15:00+03:00",
+          "stop": "2026-09-06T05:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T05:00:00+03:00",
+          "stop": "2026-09-06T09:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T09:00:00+03:00",
+          "stop": "2026-09-06T13:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T13:00:00+03:00",
+          "stop": "2026-09-06T17:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T17:00:00+03:00",
+          "stop": "2026-09-06T21:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T21:00:00+03:00",
+          "stop": "2026-09-07T01:00:00+03:00",
           "title": "Real Madrid TV",
           "description": "L",
           "category": null

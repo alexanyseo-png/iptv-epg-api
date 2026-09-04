@@ -8,8 +8,94 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-03T11:19:06.158505+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "available": true,
+  "programmeCount": 10,
+  "days": [
+    {
+      "date": "2026-09-04",
+      "programs": [
+        {
+          "start": "2026-09-04T11:00:00+03:00",
+          "stop": "2026-09-04T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T19:00:00+03:00",
+          "stop": "2026-09-04T21:55:00+03:00",
+          "title": "Formula 1: Alankomaiden GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-04T21:55:00+03:00",
+          "stop": "2026-09-05T11:00:00+03:00",
+          "title": "Valioliiga: Ipswich – Liverpool",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-05",
+      "programs": [
+        {
+          "start": "2026-09-05T11:00:00+03:00",
+          "stop": "2026-09-05T19:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T19:30:00+03:00",
+          "stop": "2026-09-05T22:00:00+03:00",
+          "title": "Valioliiga: Ipswich – Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-05T22:00:00+03:00",
+          "stop": "2026-09-06T11:00:00+03:00",
+          "title": "Valioliiga: Aston Villa – Arsenal",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-06",
+      "programs": [
+        {
+          "start": "2026-09-06T11:00:00+03:00",
+          "stop": "2026-09-06T15:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T15:55:00+03:00",
+          "stop": "2026-09-06T18:25:00+03:00",
+          "title": "Formula 1: Italian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T18:25:00+03:00",
+          "stop": "2026-09-06T22:00:00+03:00",
+          "title": "Valioliiga: Arsenal – Chelsea",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-06T22:00:00+03:00",
+          "stop": "2026-09-07T11:00:00+03:00",
+          "title": "Formula 1: Italian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
