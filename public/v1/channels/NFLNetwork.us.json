@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T00:00:00+03:00",
-          "stop": "2026-09-04T01:00:00+03:00",
-          "title": "⋗ NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T01:00:00+03:00",
-          "stop": "2026-09-04T02:00:00+03:00",
-          "title": "NFL Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T02:00:00+03:00",
-          "stop": "2026-09-04T03:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:00:00+03:00",
-          "stop": "2026-09-04T06:00:00+03:00",
-          "title": "NFL Football «New York Giants at New York Jets» (MetLife Stadium, East Rutherford, New Jersey, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:00:00+03:00",
-          "stop": "2026-09-04T07:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:00:00+03:00",
-          "stop": "2026-09-04T08:00:00+03:00",
-          "title": "NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:00:00+03:00",
-          "stop": "2026-09-04T10:30:00+03:00",
-          "title": "NFL Football «Seattle Seahawks at Kansas City Chiefs» (Arrowhead Stadium, Kansas City, Missouri, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:30:00+03:00",
-          "stop": "2026-09-04T13:00:00+03:00",
-          "title": "NFL Football «Atlanta Falcons at Miami Dolphins» (Hard Rock Stadium, Miami Gardens, Florida, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T13:00:00+03:00",
-          "stop": "2026-09-04T14:00:00+03:00",
-          "title": "The Insiders",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T14:00:00+03:00",
-          "stop": "2026-09-04T15:00:00+03:00",
-          "title": "NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T15:00:00+03:00",
-          "stop": "2026-09-04T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:00:00+03:00",
-          "stop": "2026-09-04T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:00:00+03:00",
-          "stop": "2026-09-04T21:30:00+03:00",
-          "title": "NFL Football «New England Patriots at Cleveland Browns» (Huntington Bank Field, Cleveland, OH, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:30:00+03:00",
-          "stop": "2026-09-05T00:00:00+03:00",
-          "title": "NFL Football «Pittsburgh Steelers at Buffalo Bills» (New Highmark Stadium, Orchard Park, New York, USA)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -267,6 +164,25 @@
           "start": "2026-09-06T23:00:00+03:00",
           "stop": "2026-09-07T02:30:00+03:00",
           "title": "⋗ College Football «Albany State vs. Johnson C. Smith» (Tom Benson Hall of Fame Stadium, Canton, OH, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T02:30:00+03:00",
+          "stop": "2026-09-07T05:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T05:00:00+03:00",
+          "stop": "2026-09-07T06:00:00+03:00",
+          "title": "NFL Football",
           "description": "L",
           "category": null
         }

@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T21:00:00+03:00",
-          "stop": "2026-09-05T00:30:00+03:00",
-          "title": "Asırlık Gece",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -183,6 +171,88 @@
           "start": "2026-09-06T20:00:00+03:00",
           "stop": "2026-09-07T00:00:00+03:00",
           "title": "Gönül Dağı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T00:00:00+03:00",
+          "stop": "2026-09-07T00:15:00+03:00",
+          "title": "Karayip Korsanları: Salazar'ın İntikamı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T00:15:00+03:00",
+          "stop": "2026-09-07T01:30:00+03:00",
+          "title": "Pelin Çift İle Gündem Ötesi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T01:30:00+03:00",
+          "stop": "2026-09-07T01:45:00+03:00",
+          "title": "Pelin Çift İle Gündem Ötesi Artı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T01:45:00+03:00",
+          "stop": "2026-09-07T02:45:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T02:45:00+03:00",
+          "stop": "2026-09-07T05:05:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T05:05:00+03:00",
+          "stop": "2026-09-07T05:20:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T05:20:00+03:00",
+          "stop": "2026-09-07T06:00:00+03:00",
+          "title": "Hayallerinin Peşinde",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:00:00+03:00",
+          "stop": "2026-09-07T06:05:00+03:00",
+          "title": "Kalk Gidelim",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:05:00+03:00",
+          "stop": "2026-09-07T07:30:00+03:00",
+          "title": "Turgay Başyayla ile Lezzetli Tavsiye",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:30:00+03:00",
+          "stop": "2026-09-07T10:30:00+03:00",
+          "title": "Kendi Düşen Ağlamaz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T10:30:00+03:00",
+          "stop": "2026-09-07T11:45:00+03:00",
+          "title": "Alişan ile Hayata Gülümse",
           "description": "L",
           "category": null
         }

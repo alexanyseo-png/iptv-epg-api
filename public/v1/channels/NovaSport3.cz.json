@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T00:00:00+03:00",
-          "stop": "2026-09-04T02:00:00+03:00",
-          "title": "FC St. Pauli – 1. FC Kaiserslautern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T02:00:00+03:00",
-          "stop": "2026-09-04T08:00:00+03:00",
-          "title": "1. FC Köln – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:00:00+03:00",
-          "stop": "2026-09-04T08:30:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:30:00+03:00",
-          "stop": "2026-09-04T09:00:00+03:00",
-          "title": "EFL Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:00:00+03:00",
-          "stop": "2026-09-04T10:00:00+03:00",
-          "title": "Bundesliga Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:00:00+03:00",
-          "stop": "2026-09-04T12:00:00+03:00",
-          "title": "SC Freiburg – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T12:00:00+03:00",
-          "stop": "2026-09-04T14:00:00+03:00",
-          "title": "Borussia Dortmund – Hamburger SV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T14:00:00+03:00",
-          "stop": "2026-09-04T15:50:00+03:00",
-          "title": "Real Madrid – Málaga CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T15:50:00+03:00",
-          "stop": "2026-09-04T17:45:00+03:00",
-          "title": "Burnley FC – Middlesbrough FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:45:00+03:00",
-          "stop": "2026-09-04T19:15:00+03:00",
-          "title": "TIKI-TAKA 26/27 (6)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:15:00+03:00",
-          "stop": "2026-09-04T19:50:00+03:00",
-          "title": "EFL Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:50:00+03:00",
-          "stop": "2026-09-04T20:50:00+03:00",
-          "title": "Bundesliga Highlights (1)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T20:50:00+03:00",
-          "stop": "2026-09-04T21:20:00+03:00",
-          "title": "Bundesliga Weekly (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:20:00+03:00",
-          "stop": "2026-09-04T23:35:00+03:00",
-          "title": "VfB Stuttgart – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T23:35:00+03:00",
-          "stop": "2026-09-05T00:00:00+03:00",
-          "title": "EFL Highlights (4)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -295,6 +185,39 @@
           "start": "2026-09-06T21:40:00+03:00",
           "stop": "2026-09-07T00:00:00+03:00",
           "title": "Olympique Marseille – Paris FC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T00:00:00+03:00",
+          "stop": "2026-09-07T02:00:00+03:00",
+          "title": "Schalke 04 – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T02:00:00+03:00",
+          "stop": "2026-09-07T08:00:00+03:00",
+          "title": "Birmingham City – Wolverhampton Wanderers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T08:00:00+03:00",
+          "stop": "2026-09-07T09:50:00+03:00",
+          "title": "Olympique Marseille – Paris FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T09:50:00+03:00",
+          "stop": "2026-09-07T11:40:00+03:00",
+          "title": "Hamburger SV – 1. FSV Mainz 05",
           "description": "L",
           "category": null
         }

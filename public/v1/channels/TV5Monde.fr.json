@@ -8,482 +8,71 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 161,
+  "programmeCount": 154,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T00:10:00+03:00",
-          "stop": "2026-09-04T00:40:00+03:00",
-          "title": "L'actu news.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T00:40:00+03:00",
-          "stop": "2026-09-04T00:43:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T00:43:00+03:00",
-          "stop": "2026-09-04T03:05:00+03:00",
-          "title": "Le ciel de Nantes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:05:00+03:00",
-          "stop": "2026-09-04T03:31:00+03:00",
-          "title": "TV5MONDE, le journal Afrique.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:31:00+03:00",
-          "stop": "2026-09-04T03:34:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:34:00+03:00",
-          "stop": "2026-09-04T04:17:00+03:00",
-          "title": "Avant le crash.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T04:17:00+03:00",
-          "stop": "2026-09-04T04:46:00+03:00",
-          "title": "Rassemblance - Joao Paca Manuel Sebastiao (Angola).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T04:46:00+03:00",
-          "stop": "2026-09-04T05:00:00+03:00",
-          "title": "100 châteaux.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T05:00:00+03:00",
-          "stop": "2026-09-04T06:02:00+03:00",
-          "title": "Le 23h.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:02:00+03:00",
-          "stop": "2026-09-04T06:24:00+03:00",
-          "title": "Un si grand soleil. S: 4 / Ep: 901.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:24:00+03:00",
-          "stop": "2026-09-04T06:46:00+03:00",
-          "title": "Un si grand soleil. S: 4 / Ep: 902.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:46:00+03:00",
-          "stop": "2026-09-04T06:58:00+03:00",
-          "title": "Demeures de collectionneurs.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:58:00+03:00",
-          "stop": "2026-09-04T07:24:00+03:00",
-          "title": "Le 6h info.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:24:00+03:00",
-          "stop": "2026-09-04T07:29:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:29:00+03:00",
-          "stop": "2026-09-04T07:45:00+03:00",
-          "title": "Télématin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:45:00+03:00",
-          "stop": "2026-09-04T07:50:00+03:00",
-          "title": "Merci Professeur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:50:00+03:00",
-          "stop": "2026-09-04T08:22:00+03:00",
-          "title": "Télématin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:22:00+03:00",
-          "stop": "2026-09-04T08:25:00+03:00",
-          "title": "Flippé. S: 2 / Ep: 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:25:00+03:00",
-          "stop": "2026-09-04T08:29:00+03:00",
-          "title": "Anne-so what ?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:29:00+03:00",
-          "stop": "2026-09-04T08:49:00+03:00",
-          "title": "Télématin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:49:00+03:00",
-          "stop": "2026-09-04T08:53:00+03:00",
-          "title": "VF.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:53:00+03:00",
-          "stop": "2026-09-04T09:00:00+03:00",
-          "title": "VF.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:00:00+03:00",
-          "stop": "2026-09-04T09:26:00+03:00",
-          "title": "Le téléjournal de Radio-Canada.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:26:00+03:00",
-          "stop": "2026-09-04T09:37:00+03:00",
-          "title": "Gigantosaurus. S: 3 / Ep: 38.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:37:00+03:00",
-          "stop": "2026-09-04T09:43:00+03:00",
-          "title": "Top cornichon. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:43:00+03:00",
-          "stop": "2026-09-04T09:46:00+03:00",
-          "title": "Capitaine Tonus. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:46:00+03:00",
-          "stop": "2026-09-04T09:53:00+03:00",
-          "title": "Les Quiquoi. S: 1 / Ep: 15.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:53:00+03:00",
-          "stop": "2026-09-04T09:58:00+03:00",
-          "title": "L'imagier animé de Koumi. S: 2 / Ep: 45.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:58:00+03:00",
-          "stop": "2026-09-04T10:22:00+03:00",
-          "title": "Alix et les Merveilleux. S: 2 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:22:00+03:00",
-          "stop": "2026-09-04T10:26:00+03:00",
-          "title": "1001 Les mondes antiques. S: 1 / Ep: 19.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:26:00+03:00",
-          "stop": "2026-09-04T10:53:00+03:00",
-          "title": "100 châteaux.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:53:00+03:00",
-          "stop": "2026-09-04T11:21:00+03:00",
-          "title": "Fleuve en eaux troubles - Déchets plastiques dans le Saint-Laurent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T11:21:00+03:00",
-          "stop": "2026-09-04T11:48:00+03:00",
-          "title": "Chef pays.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T11:48:00+03:00",
-          "stop": "2026-09-04T12:16:00+03:00",
-          "title": "La belle vie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T12:16:00+03:00",
-          "stop": "2026-09-04T13:22:00+03:00",
-          "title": "Spéciale C dans l'air.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T13:22:00+03:00",
-          "stop": "2026-09-04T13:45:00+03:00",
-          "title": "Un si grand soleil. S: 8 / Ep: 1890.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T13:45:00+03:00",
-          "stop": "2026-09-04T14:30:00+03:00",
-          "title": "Tout le monde veut prendre sa place.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T14:30:00+03:00",
-          "stop": "2026-09-04T15:01:00+03:00",
-          "title": "JT 19h30.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T15:01:00+03:00",
-          "stop": "2026-09-04T16:34:00+03:00",
-          "title": "Lame de fond. S: 9 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T16:34:00+03:00",
-          "stop": "2026-09-04T17:00:00+03:00",
-          "title": "Ligue 1 McDonald's: Avant-matchs.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:00:00+03:00",
-          "stop": "2026-09-04T17:11:00+03:00",
-          "title": "Les Minus. S: 1 / Ep: 38.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:11:00+03:00",
-          "stop": "2026-09-04T17:22:00+03:00",
-          "title": "Les Croquemoutard. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:22:00+03:00",
-          "stop": "2026-09-04T17:45:00+03:00",
-          "title": "Liam. S: 1 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:45:00+03:00",
-          "stop": "2026-09-04T18:00:00+03:00",
-          "title": "T'es au top - Mailyne, 11 ans: Je ne vois plus mon papa depuis quelques années.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T18:00:00+03:00",
-          "stop": "2026-09-04T18:54:00+03:00",
-          "title": "Toutes à gagner.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T18:54:00+03:00",
-          "stop": "2026-09-04T19:00:00+03:00",
-          "title": "Tarmac Comedy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:00:00+03:00",
-          "stop": "2026-09-04T19:27:00+03:00",
-          "title": "64' Actu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:27:00+03:00",
-          "stop": "2026-09-04T19:30:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:30:00+03:00",
-          "stop": "2026-09-04T19:53:00+03:00",
-          "title": "Allons-y franco !",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:53:00+03:00",
-          "stop": "2026-09-04T20:01:00+03:00",
-          "title": "L'invité.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T20:01:00+03:00",
-          "stop": "2026-09-04T20:32:00+03:00",
-          "title": "Un si grand soleil. S: 8 / Ep: 1890.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T20:32:00+03:00",
-          "stop": "2026-09-04T21:00:00+03:00",
-          "title": "Un si grand soleil. S: 8 / Ep: 1891.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:00:00+03:00",
-          "stop": "2026-09-04T21:26:00+03:00",
-          "title": "Le Journal de la RTS.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:26:00+03:00",
-          "stop": "2026-09-04T21:30:00+03:00",
-          "title": "Merci Professeur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:30:00+03:00",
-          "stop": "2026-09-04T21:57:00+03:00",
-          "title": "Le Journal de France 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:57:00+03:00",
-          "stop": "2026-09-04T22:03:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T22:03:00+03:00",
-          "stop": "2026-09-04T23:33:00+03:00",
-          "title": "Neige.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T23:33:00+03:00",
-          "stop": "2026-09-05T00:05:00+03:00",
-          "title": "L'actu news.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
         {
-          "start": "2026-09-05T00:05:00+03:00",
-          "stop": "2026-09-05T00:08:00+03:00",
+          "start": "2026-09-05T00:04:00+03:00",
+          "stop": "2026-09-05T00:07:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T00:08:00+03:00",
-          "stop": "2026-09-05T00:53:00+03:00",
+          "start": "2026-09-05T00:07:00+03:00",
+          "stop": "2026-09-05T00:49:00+03:00",
           "title": "Avant le crash.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T00:53:00+03:00",
-          "stop": "2026-09-05T01:36:00+03:00",
+          "start": "2026-09-05T00:49:00+03:00",
+          "stop": "2026-09-05T01:33:00+03:00",
           "title": "Avant le crash.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T01:36:00+03:00",
-          "stop": "2026-09-05T02:05:00+03:00",
+          "start": "2026-09-05T01:33:00+03:00",
+          "stop": "2026-09-05T02:00:00+03:00",
           "title": "TV5MONDE, le journal Afrique.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T02:05:00+03:00",
-          "stop": "2026-09-05T02:07:00+03:00",
+          "start": "2026-09-05T02:00:00+03:00",
+          "stop": "2026-09-05T02:04:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T02:07:00+03:00",
-          "stop": "2026-09-05T02:55:00+03:00",
+          "start": "2026-09-05T02:04:00+03:00",
+          "stop": "2026-09-05T02:50:00+03:00",
           "title": "Tandem. S: 7 / Ep: 11.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T02:55:00+03:00",
-          "stop": "2026-09-05T03:51:00+03:00",
+          "start": "2026-09-05T02:50:00+03:00",
+          "stop": "2026-09-05T03:44:00+03:00",
           "title": "Tandem. S: 7 / Ep: 12.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T03:51:00+03:00",
-          "stop": "2026-09-05T04:10:00+03:00",
-          "title": "100 châteaux.",
+          "start": "2026-09-05T03:44:00+03:00",
+          "stop": "2026-09-05T04:11:00+03:00",
+          "title": "Chef pays.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-05T04:10:00+03:00",
+          "start": "2026-09-05T04:11:00+03:00",
           "stop": "2026-09-05T05:00:00+03:00",
           "title": "Passe-moi les jumelles.",
           "description": "L",
@@ -625,14 +214,14 @@
         {
           "start": "2026-09-05T10:26:00+03:00",
           "stop": "2026-09-05T10:33:00+03:00",
-          "title": "Chniwla et boubris. S: 1 / Ep: 5.",
+          "title": "Chniwla et boubris - L'araignée. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-05T10:33:00+03:00",
           "stop": "2026-09-05T10:40:00+03:00",
-          "title": "Chniwla et boubris. S: 1 / Ep: 6.",
+          "title": "Chniwla et boubris - Le ventilateur. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
@@ -1149,6 +738,368 @@
           "start": "2026-09-06T23:25:00+03:00",
           "stop": "2026-09-07T01:14:00+03:00",
           "title": "Mourir d'aimer.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T01:14:00+03:00",
+          "stop": "2026-09-07T01:40:00+03:00",
+          "title": "TV5MONDE, le journal Afrique.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T01:40:00+03:00",
+          "stop": "2026-09-07T01:41:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T01:41:00+03:00",
+          "stop": "2026-09-07T03:21:00+03:00",
+          "title": "Le Grand Cactus - Avec McFly et le Doc, George Clooney et Ophélie Fontana.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T03:21:00+03:00",
+          "stop": "2026-09-07T04:09:00+03:00",
+          "title": "Bye bye la Suisse - Nouveau business.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T04:09:00+03:00",
+          "stop": "2026-09-07T05:00:00+03:00",
+          "title": "Les Alpes suisses: coutumes et superstitions. S: 2 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T05:00:00+03:00",
+          "stop": "2026-09-07T06:00:00+03:00",
+          "title": "Le 23h.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:00:00+03:00",
+          "stop": "2026-09-07T06:22:00+03:00",
+          "title": "Un si grand soleil. S: 4 / Ep: 903.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:22:00+03:00",
+          "stop": "2026-09-07T06:29:00+03:00",
+          "title": "Bouffe d'air frais.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:29:00+03:00",
+          "stop": "2026-09-07T06:58:00+03:00",
+          "title": "Fleuve en eaux troubles - Déchets plastiques dans le Saint-Laurent.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:58:00+03:00",
+          "stop": "2026-09-07T07:24:00+03:00",
+          "title": "Le 6h info.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:24:00+03:00",
+          "stop": "2026-09-07T07:27:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:27:00+03:00",
+          "stop": "2026-09-07T07:38:00+03:00",
+          "title": "Gigantosaurus. S: 3 / Ep: 39.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:38:00+03:00",
+          "stop": "2026-09-07T07:44:00+03:00",
+          "title": "Top cornichon. S: 1 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:44:00+03:00",
+          "stop": "2026-09-07T07:47:00+03:00",
+          "title": "Capitaine Tonus. S: 1 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:47:00+03:00",
+          "stop": "2026-09-07T07:54:00+03:00",
+          "title": "Les Quiquoi. S: 1 / Ep: 16.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:54:00+03:00",
+          "stop": "2026-09-07T07:59:00+03:00",
+          "title": "L'imagier animé de Koumi. S: 2 / Ep: 46.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:59:00+03:00",
+          "stop": "2026-09-07T08:03:00+03:00",
+          "title": "1001 Mondes antiques. S: 1 / Ep: 20.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T08:03:00+03:00",
+          "stop": "2026-09-07T08:30:00+03:00",
+          "title": "Alix et les Merveilleux. S: 2 / Ep: 13.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T08:30:00+03:00",
+          "stop": "2026-09-07T08:50:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T08:50:00+03:00",
+          "stop": "2026-09-07T09:30:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T09:30:00+03:00",
+          "stop": "2026-09-07T10:00:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T10:00:00+03:00",
+          "stop": "2026-09-07T10:21:00+03:00",
+          "title": "Le téléjournal de Radio-Canada.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T10:21:00+03:00",
+          "stop": "2026-09-07T10:48:00+03:00",
+          "title": "Vroum.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T10:48:00+03:00",
+          "stop": "2026-09-07T11:17:00+03:00",
+          "title": "Stoemp, pèkèt... et des rawettes !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T11:17:00+03:00",
+          "stop": "2026-09-07T11:43:00+03:00",
+          "title": "Donner l'goût.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T11:43:00+03:00",
+          "stop": "2026-09-07T12:12:00+03:00",
+          "title": "Ligue 1 McDonald's: le récap.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T12:12:00+03:00",
+          "stop": "2026-09-07T12:23:00+03:00",
+          "title": "Ligue 1 McDonald's: le récap.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T12:23:00+03:00",
+          "stop": "2026-09-07T13:17:00+03:00",
+          "title": "Rallye-raid: Desafío Ruta 40 - Les meilleurs moments.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T13:17:00+03:00",
+          "stop": "2026-09-07T13:45:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1891.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T13:45:00+03:00",
+          "stop": "2026-09-07T14:30:00+03:00",
+          "title": "Tout le monde veut prendre sa place.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T14:30:00+03:00",
+          "stop": "2026-09-07T15:02:00+03:00",
+          "title": "JT 19h30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T15:02:00+03:00",
+          "stop": "2026-09-07T16:29:00+03:00",
+          "title": "Le crime lui va si bien. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T16:29:00+03:00",
+          "stop": "2026-09-07T17:00:00+03:00",
+          "title": "Rassemblance - Nabil Zemmouri (Algérie).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T17:00:00+03:00",
+          "stop": "2026-09-07T17:11:00+03:00",
+          "title": "Les Minus. S: 1 / Ep: 39.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T17:11:00+03:00",
+          "stop": "2026-09-07T17:22:00+03:00",
+          "title": "Les Croquemoutard. S: 1 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T17:22:00+03:00",
+          "stop": "2026-09-07T17:47:00+03:00",
+          "title": "Liam. S: 1 / Ep: 11.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T17:47:00+03:00",
+          "stop": "2026-09-07T18:01:00+03:00",
+          "title": "T'es au top - Morena: J'ai tout le temps envie de manger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T18:01:00+03:00",
+          "stop": "2026-09-07T18:55:00+03:00",
+          "title": "Le Point.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T18:55:00+03:00",
+          "stop": "2026-09-07T19:00:00+03:00",
+          "title": "Tarmac Comedy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T19:00:00+03:00",
+          "stop": "2026-09-07T19:27:00+03:00",
+          "title": "64': Actu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T19:27:00+03:00",
+          "stop": "2026-09-07T19:30:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T19:30:00+03:00",
+          "stop": "2026-09-07T19:53:00+03:00",
+          "title": "64': Débat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T19:53:00+03:00",
+          "stop": "2026-09-07T20:01:00+03:00",
+          "title": "L'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T20:01:00+03:00",
+          "stop": "2026-09-07T20:32:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1891.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T20:32:00+03:00",
+          "stop": "2026-09-07T21:00:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1892.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T21:00:00+03:00",
+          "stop": "2026-09-07T21:26:00+03:00",
+          "title": "Le Journal de la RTS.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T21:26:00+03:00",
+          "stop": "2026-09-07T21:30:00+03:00",
+          "title": "Merci Professeur.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T21:30:00+03:00",
+          "stop": "2026-09-07T22:00:00+03:00",
+          "title": "Le Journal de France 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T22:00:00+03:00",
+          "stop": "2026-09-07T22:04:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T22:04:00+03:00",
+          "stop": "2026-09-07T23:36:00+03:00",
+          "title": "Echappées belles - Islande, une île de feu et de glace.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T23:36:00+03:00",
+          "stop": "2026-09-08T00:06:00+03:00",
+          "title": "L'actu news.",
           "description": "L",
           "category": null
         }

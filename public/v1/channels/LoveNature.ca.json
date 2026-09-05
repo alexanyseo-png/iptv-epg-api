@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 81,
+  "programmeCount": 62,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T00:40:00+03:00",
-          "stop": "2026-09-04T01:35:00+03:00",
-          "title": "Сказочная Замбия (Africa's Edens). S2,Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T01:35:00+03:00",
-          "stop": "2026-09-04T02:25:00+03:00",
-          "title": "В диких условиях Colombia (Warriors of the Llanos). S1,Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T02:25:00+03:00",
-          "stop": "2026-09-04T03:20:00+03:00",
-          "title": "Дикий Год На Земле (May-June: A Time of Volatility). S1,Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:20:00+03:00",
-          "stop": "2026-09-04T04:15:00+03:00",
-          "title": "Дикий Год На Земле (July-August: A Time of Migration). S1,Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T04:15:00+03:00",
-          "stop": "2026-09-04T05:10:00+03:00",
-          "title": "13 часов на выживание (Trapped at Low Tide). S1,Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T05:10:00+03:00",
-          "stop": "2026-09-04T06:05:00+03:00",
-          "title": "Спасатели животных в Малави (Chasing Freedom). S1,Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T06:05:00+03:00",
-          "stop": "2026-09-04T07:00:00+03:00",
-          "title": "Спасатели животных в Малави (Monkey Madness). S1,Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:00:00+03:00",
-          "stop": "2026-09-04T07:25:00+03:00",
-          "title": "Дикие собаки: Стая против Прайда (Kakumbi Are Vulnerable). S1,Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:25:00+03:00",
-          "stop": "2026-09-04T08:20:00+03:00",
-          "title": "Спасатели животных в Малави (Chasing Freedom). S1,Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T08:20:00+03:00",
-          "stop": "2026-09-04T09:15:00+03:00",
-          "title": "Спасатели животных в Малави (Monkey Madness). S1,Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:15:00+03:00",
-          "stop": "2026-09-04T10:10:00+03:00",
-          "title": "Странная планета (Gangster). S1,Ep6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T10:10:00+03:00",
-          "stop": "2026-09-04T11:05:00+03:00",
-          "title": "Нингалу: океанское чудо Австралии (Choices). S1,Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T11:05:00+03:00",
-          "stop": "2026-09-04T12:00:00+03:00",
-          "title": "Черепаший пляж",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T12:00:00+03:00",
-          "stop": "2026-09-04T12:50:00+03:00",
-          "title": "Сказочная Замбия (The Valley of the Birds). S2,Ep5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T12:50:00+03:00",
-          "stop": "2026-09-04T13:40:00+03:00",
-          "title": "В диких условиях Colombia (Finding a Family). S1,Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T13:40:00+03:00",
-          "stop": "2026-09-04T14:35:00+03:00",
-          "title": "Спасатели животных в Малави (Chasing Freedom). S1,Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T14:35:00+03:00",
-          "stop": "2026-09-04T15:30:00+03:00",
-          "title": "Спасатели животных в Малави (Monkey Madness). S1,Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T15:30:00+03:00",
-          "stop": "2026-09-04T16:25:00+03:00",
-          "title": "13 часов на выживание (Escape to the Deep). S1,Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T16:25:00+03:00",
-          "stop": "2026-09-04T17:20:00+03:00",
-          "title": "Нингалу: океанское чудо Австралии (Choices). S1,Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:20:00+03:00",
-          "stop": "2026-09-04T18:15:00+03:00",
-          "title": "Черепаший пляж",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T18:15:00+03:00",
-          "stop": "2026-09-04T19:10:00+03:00",
-          "title": "Сказочная Замбия (The Valley of the Birds). S2,Ep5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:10:00+03:00",
-          "stop": "2026-09-04T20:05:00+03:00",
-          "title": "В диких условиях Colombia (Finding a Family). S1,Ep4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T20:05:00+03:00",
-          "stop": "2026-09-04T21:00:00+03:00",
-          "title": "Спасатели животных в Малави (Chasing Freedom). S1,Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:00:00+03:00",
-          "stop": "2026-09-04T21:55:00+03:00",
-          "title": "Спасатели животных в Малави (Monkey Madness). S1,Ep2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:55:00+03:00",
-          "stop": "2026-09-04T22:50:00+03:00",
-          "title": "Странная планета (Gangster). S1,Ep6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T22:50:00+03:00",
-          "stop": "2026-09-04T23:45:00+03:00",
-          "title": "Нингалу: океанское чудо Австралии (Choices). S1,Ep3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T23:45:00+03:00",
-          "stop": "2026-09-05T00:40:00+03:00",
-          "title": "Черепаший пляж",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -589,6 +395,67 @@
           "start": "2026-09-06T23:45:00+03:00",
           "stop": "2026-09-07T00:40:00+03:00",
           "title": "Журналы Ягуара (Badalo Is Missing). S1,Ep5",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T00:40:00+03:00",
+          "stop": "2026-09-07T01:35:00+03:00",
+          "title": "Снежные барсы с Дэном О'Нилом (The Ghost of the Mountains). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T01:35:00+03:00",
+          "stop": "2026-09-07T02:25:00+03:00",
+          "title": "Снежные барсы с Дэном О'Нилом (To Catch A Legend). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T02:25:00+03:00",
+          "stop": "2026-09-07T03:20:00+03:00",
+          "title": "Журналы Ягуара (Meet the Jaguars). S1,Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T03:20:00+03:00",
+          "stop": "2026-09-07T04:15:00+03:00",
+          "title": "Журналы Ягуара (Mum's the Word). S1,Ep2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T04:15:00+03:00",
+          "stop": "2026-09-07T05:10:00+03:00",
+          "title": "Журналы Ягуара (Collar Complications). S1,Ep3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T05:10:00+03:00",
+          "stop": "2026-09-07T06:05:00+03:00",
+          "title": "Журналы Ягуара (The Queen Is Back). S1,Ep4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T06:05:00+03:00",
+          "stop": "2026-09-07T07:00:00+03:00",
+          "title": "Журналы Ягуара (Badalo Is Missing). S1,Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T07:00:00+03:00",
+          "stop": "2026-09-07T08:00:00+03:00",
+          "title": "Вулканическая Одиссея (Ethiopia: Crossing the Danakil). S1,Ep2",
           "description": "L",
           "category": null
         }

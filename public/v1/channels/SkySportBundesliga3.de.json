@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T07:00:00+03:00",
-          "stop": "2026-09-04T18:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T18:40:00+03:00",
-          "stop": "2026-09-04T19:00:00+03:00",
-          "title": "Es folgt: LIVE 2. BL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:00:00+03:00",
-          "stop": "2026-09-04T21:30:00+03:00",
-          "title": "Live 2. BL: Hannover 96 – Karlsruher SC, 4. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T21:30:00+03:00",
-          "stop": "2026-09-04T23:30:00+03:00",
-          "title": "Live BL: Sky Sport Fantasy: VFB – KOE, 2. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T23:30:00+03:00",
-          "stop": "2026-09-05T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -133,6 +93,18 @@
         {
           "start": "2026-09-06T16:30:00+03:00",
           "stop": "2026-09-07T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T07:00:00+03:00",
+          "stop": "2026-09-08T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

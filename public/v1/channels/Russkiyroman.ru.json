@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-04T11:22:10.602634+00:00",
+  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-09-04",
-      "programs": [
-        {
-          "start": "2026-09-04T00:45:00+03:00",
-          "stop": "2026-09-04T03:50:00+03:00",
-          "title": "Время надежды.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T03:50:00+03:00",
-          "stop": "2026-09-04T07:20:00+03:00",
-          "title": "Поворот на счастье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T07:20:00+03:00",
-          "stop": "2026-09-04T09:15:00+03:00",
-          "title": "Мороз по коже.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T09:15:00+03:00",
-          "stop": "2026-09-04T11:05:00+03:00",
-          "title": "Простая девчонка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T11:05:00+03:00",
-          "stop": "2026-09-04T14:30:00+03:00",
-          "title": "Привет от аиста.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T14:30:00+03:00",
-          "stop": "2026-09-04T17:50:00+03:00",
-          "title": "Тёща- командир.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T17:50:00+03:00",
-          "stop": "2026-09-04T19:30:00+03:00",
-          "title": "Жена моего мужа.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T19:30:00+03:00",
-          "stop": "2026-09-04T22:45:00+03:00",
-          "title": "Синдром жертвы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-04T22:45:00+03:00",
-          "stop": "2026-09-05T00:20:00+03:00",
-          "title": "Когда не хватает любви.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-05",
       "programs": [
@@ -197,6 +129,25 @@
           "start": "2026-09-06T22:05:00+03:00",
           "stop": "2026-09-07T01:15:00+03:00",
           "title": "Из Сибири с любовью.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-07",
+      "programs": [
+        {
+          "start": "2026-09-07T01:15:00+03:00",
+          "stop": "2026-09-07T04:45:00+03:00",
+          "title": "Благими намерениями.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T04:45:00+03:00",
+          "stop": "2026-09-07T05:45:00+03:00",
+          "title": "Тёща- командир.",
           "description": "L",
           "category": null
         }
