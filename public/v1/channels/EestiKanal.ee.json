@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-05T10:39:07.411174+00:00",
+  "generatedAt": "2026-09-06T04:43:28.349178+00:00",
   "available": true,
-  "programmeCount": 65,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-09-05",
-      "programs": [
-        {
-          "start": "2026-09-05T00:00:00+03:00",
-          "stop": "2026-09-05T00:55:00+03:00",
-          "title": "Kelgukoerad | E171",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T00:55:00+03:00",
-          "stop": "2026-09-05T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T07:00:00+03:00",
-          "stop": "2026-09-05T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T07:02:00+03:00",
-          "stop": "2026-09-05T07:30:00+03:00",
-          "title": "Lemmikute lemmik | E24",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T07:30:00+03:00",
-          "stop": "2026-09-05T07:55:00+03:00",
-          "title": "Lemmikute lemmik | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T07:55:00+03:00",
-          "stop": "2026-09-05T08:50:00+03:00",
-          "title": "Pilvede all | E152",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T08:50:00+03:00",
-          "stop": "2026-09-05T09:40:00+03:00",
-          "title": "Pilvede all | E153",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T09:40:00+03:00",
-          "stop": "2026-09-05T10:35:00+03:00",
-          "title": "Pilvede all | E154",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T10:35:00+03:00",
-          "stop": "2026-09-05T11:00:00+03:00",
-          "title": "Tätte ja Matvere imeline ilmareis | E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T11:00:00+03:00",
-          "stop": "2026-09-05T11:35:00+03:00",
-          "title": "Meistrite linn: Paas | E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T11:35:00+03:00",
-          "stop": "2026-09-05T12:05:00+03:00",
-          "title": "Teledoktor Viktor Vassiljev | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T12:05:00+03:00",
-          "stop": "2026-09-05T12:35:00+03:00",
-          "title": "Золотой берег",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T12:35:00+03:00",
-          "stop": "2026-09-05T13:05:00+03:00",
-          "title": "Teekond: Jüri Kuuskemaa | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T13:05:00+03:00",
-          "stop": "2026-09-05T13:40:00+03:00",
-          "title": "Teekond: Heidy Tamme | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T13:40:00+03:00",
-          "stop": "2026-09-05T14:30:00+03:00",
-          "title": "Mina oma last kooli ei pane!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T14:30:00+03:00",
-          "stop": "2026-09-05T15:00:00+03:00",
-          "title": "Lemmikute lemmik | E26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T15:00:00+03:00",
-          "stop": "2026-09-05T15:25:00+03:00",
-          "title": "Eestlane ja venelane | E27",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T15:25:00+03:00",
-          "stop": "2026-09-05T15:55:00+03:00",
-          "title": "Eestlane ja venelane | E28",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T15:55:00+03:00",
-          "stop": "2026-09-05T16:50:00+03:00",
-          "title": "Tund tähega: Juss Haasma | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T16:50:00+03:00",
-          "stop": "2026-09-05T17:45:00+03:00",
-          "title": "Rahvakunstnikud: Ants Eskola | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T17:45:00+03:00",
-          "stop": "2026-09-05T18:50:00+03:00",
-          "title": "Rahvakunstnikud: Aino Talvi | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T18:50:00+03:00",
-          "stop": "2026-09-05T19:45:00+03:00",
-          "title": "Mägede varjud | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T19:45:00+03:00",
-          "stop": "2026-09-05T20:35:00+03:00",
-          "title": "Kelgukoerad | E167",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T20:35:00+03:00",
-          "stop": "2026-09-05T22:00:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E66",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T22:00:00+03:00",
-          "stop": "2026-09-05T22:30:00+03:00",
-          "title": "Tätte ja Matvere imeline ilmareis | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T22:30:00+03:00",
-          "stop": "2026-09-05T23:20:00+03:00",
-          "title": "Mägede varjud | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-05T23:20:00+03:00",
-          "stop": "2026-09-06T00:15:00+03:00",
-          "title": "Kelgukoerad | E168",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-06",
       "programs": [
@@ -477,6 +283,41 @@
           "start": "2026-09-07T10:40:00+03:00",
           "stop": "2026-09-07T11:05:00+03:00",
           "title": "Õpetajate tuba: Sõpruskool ehk pommüllatus | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T11:05:00+03:00",
+          "stop": "2026-09-07T11:30:00+03:00",
+          "title": "Laulab Marju Länik",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T11:30:00+03:00",
+          "stop": "2026-09-07T12:20:00+03:00",
+          "title": "Mägede varjud | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T12:20:00+03:00",
+          "stop": "2026-09-07T13:05:00+03:00",
+          "title": "Kelgukoerad | E171",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T13:05:00+03:00",
+          "stop": "2026-09-07T14:05:00+03:00",
+          "title": "Rahvakunstnikud: Eino Tamberg | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T14:05:00+03:00",
+          "stop": "2026-09-07T15:30:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E70",
           "description": "L",
           "category": null
         }
