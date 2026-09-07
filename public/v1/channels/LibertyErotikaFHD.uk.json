@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-06T04:43:28.349178+00:00",
+  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-09-06",
-      "programs": [
-        {
-          "start": "2026-09-06T01:52:49+03:00",
-          "stop": "2026-09-06T03:49:40+03:00",
-          "title": "9 1/2 недель",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T03:49:40+03:00",
-          "stop": "2026-09-06T05:47:49+03:00",
-          "title": "Вальсирующие",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T05:47:49+03:00",
-          "stop": "2026-09-06T07:33:04+03:00",
-          "title": "Дикая орхидея",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T07:33:04+03:00",
-          "stop": "2026-09-06T09:24:10+03:00",
-          "title": "Декамерон",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T09:24:10+03:00",
-          "stop": "2026-09-06T11:00:47+03:00",
-          "title": "Все леди делают это",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T11:00:47+03:00",
-          "stop": "2026-09-06T12:30:25+03:00",
-          "title": "В глубокой глотке",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T12:30:25+03:00",
-          "stop": "2026-09-06T14:12:51+03:00",
-          "title": "Империя чувств",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T14:12:51+03:00",
-          "stop": "2026-09-06T15:19:50+03:00",
-          "title": "9 песен",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T15:19:50+03:00",
-          "stop": "2026-09-06T17:01:11+03:00",
-          "title": "Дневники нимфоманки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T17:01:11+03:00",
-          "stop": "2026-09-06T19:09:02+03:00",
-          "title": "Люсия и секс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T19:09:02+03:00",
-          "stop": "2026-09-06T21:28:21+03:00",
-          "title": "Цвет ночи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T21:28:21+03:00",
-          "stop": "2026-09-06T23:22:58+03:00",
-          "title": "Мечтатели",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T23:22:58+03:00",
-          "stop": "2026-09-07T01:18:50+03:00",
-          "title": "Паприка",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-07",
       "programs": [
@@ -316,6 +220,109 @@
           "start": "2026-09-08T22:38:22+03:00",
           "stop": "2026-09-09T00:23:17+03:00",
           "title": "Куриоса",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:23:17+03:00",
+          "stop": "2026-09-09T01:59:43+03:00",
+          "title": "Экстаз",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:59:43+03:00",
+          "stop": "2026-09-09T03:52:13+03:00",
+          "title": "Белоснежка. Сказка для взрослых",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:52:13+03:00",
+          "stop": "2026-09-09T05:58:18+03:00",
+          "title": "Королева сердец",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:58:18+03:00",
+          "stop": "2026-09-09T07:47:10+03:00",
+          "title": "Глубже!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T07:47:10+03:00",
+          "stop": "2026-09-09T09:25:47+03:00",
+          "title": "Обыкновенная страсть",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T09:25:47+03:00",
+          "stop": "2026-09-09T10:47:33+03:00",
+          "title": "Верность",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:47:33+03:00",
+          "stop": "2026-09-09T12:40:23+03:00",
+          "title": "Мадам Клод",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:40:23+03:00",
+          "stop": "2026-09-09T14:34:38+03:00",
+          "title": "365 дней",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T14:34:38+03:00",
+          "stop": "2026-09-09T16:29:48+03:00",
+          "title": "Эскортницы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:29:48+03:00",
+          "stop": "2026-09-09T17:57:15+03:00",
+          "title": "Соври мне правду",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:57:15+03:00",
+          "stop": "2026-09-09T20:07:24+03:00",
+          "title": "Роковая ночь в Париже",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:07:24+03:00",
+          "stop": "2026-09-09T21:50:57+03:00",
+          "title": "Запретная страсть",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:50:57+03:00",
+          "stop": "2026-09-09T23:27:48+03:00",
+          "title": "Стоп-слово",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T23:27:48+03:00",
+          "stop": "2026-09-10T00:57:28+03:00",
+          "title": "Дом удовольствий",
           "description": "L",
           "category": null
         }

@@ -8,141 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-06T04:43:28.349178+00:00",
+  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-09-06",
-      "programs": [
-        {
-          "start": "2026-09-06T00:00:00+03:00",
-          "stop": "2026-09-06T01:00:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T01:00:00+03:00",
-          "stop": "2026-09-06T03:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Torino",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T03:00:00+03:00",
-          "stop": "2026-09-06T04:00:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T04:00:00+03:00",
-          "stop": "2026-09-06T04:50:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T04:50:00+03:00",
-          "stop": "2026-09-06T07:00:00+03:00",
-          "title": "(D) Dutch: NEC vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T07:00:00+03:00",
-          "stop": "2026-09-06T07:30:00+03:00",
-          "title": "Inside Serie A: Ep.3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T07:30:00+03:00",
-          "stop": "2026-09-06T07:50:00+03:00",
-          "title": "This Is Our Time: Ep6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T07:50:00+03:00",
-          "stop": "2026-09-06T10:00:00+03:00",
-          "title": "(D) Dutch: Ajax vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T10:00:00+03:00",
-          "stop": "2026-09-06T12:00:00+03:00",
-          "title": "Serie A: Inter vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T12:00:00+03:00",
-          "stop": "2026-09-06T13:05:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T13:05:00+03:00",
-          "stop": "2026-09-06T15:20:00+03:00",
-          "title": "⋗ Dutch: Groningen vs Twente",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T15:20:00+03:00",
-          "stop": "2026-09-06T15:50:00+03:00",
-          "title": "Inside Serie A: Ep.3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T15:50:00+03:00",
-          "stop": "2026-09-06T18:00:00+03:00",
-          "title": "⋗ Serie A: Parma vs Monza",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T18:00:00+03:00",
-          "stop": "2026-09-06T18:30:00+03:00",
-          "title": "PLTV: The Big Inteview 2026/27 Ep.2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T18:30:00+03:00",
-          "stop": "2026-09-06T18:50:00+03:00",
-          "title": "This Is Our Time: Ep1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T18:50:00+03:00",
-          "stop": "2026-09-06T21:00:00+03:00",
-          "title": "⋗ Serie A: Bologna vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T21:00:00+03:00",
-          "stop": "2026-09-06T21:35:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T21:35:00+03:00",
-          "stop": "2026-09-07T00:00:00+03:00",
-          "title": "⋗ Serie A: Juventus vs Milan",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-07",
       "programs": [
@@ -213,6 +82,20 @@
           "start": "2026-09-07T13:00:00+03:00",
           "stop": "2026-09-07T15:00:00+03:00",
           "title": "Dutch: NEC vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T15:00:00+03:00",
+          "stop": "2026-09-07T17:00:00+03:00",
+          "title": "Dutch: Ajax vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-07T17:00:00+03:00",
+          "stop": "2026-09-07T19:00:00+03:00",
+          "title": "Serie A: Genoa vs Como",
           "description": "L",
           "category": null
         }

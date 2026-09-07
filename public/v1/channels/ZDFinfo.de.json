@@ -8,398 +8,169 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-06T04:43:28.349178+00:00",
+  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
   "available": true,
-  "programmeCount": 99,
+  "programmeCount": 100,
   "days": [
-    {
-      "date": "2026-09-06",
-      "programs": [
-        {
-          "start": "2026-09-06T00:15:00+03:00",
-          "stop": "2026-09-06T01:00:00+03:00",
-          "title": "Nice Price - Die Tricks der Textilindustrie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T01:00:00+03:00",
-          "stop": "2026-09-06T01:45:00+03:00",
-          "title": "Nice Price - Die Tricks der Outdoor-Industrie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T01:45:00+03:00",
-          "stop": "2026-09-06T02:30:00+03:00",
-          "title": "Das System Ryanair - Die Tricks des Billigfliegers.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T02:30:00+03:00",
-          "stop": "2026-09-06T04:00:00+03:00",
-          "title": "Täterjagd in Spanien. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T04:00:00+03:00",
-          "stop": "2026-09-06T05:15:00+03:00",
-          "title": "Täterjagd in Spanien. S: 1 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T05:15:00+03:00",
-          "stop": "2026-09-06T06:00:00+03:00",
-          "title": "Ermittler! S: 1 / Ep: 117.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T06:00:00+03:00",
-          "stop": "2026-09-06T06:45:00+03:00",
-          "title": "Ermittler! S: 1 / Ep: 78.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T06:45:00+03:00",
-          "stop": "2026-09-06T07:30:00+03:00",
-          "title": "Ermittler! S: 1 / Ep: 131.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T07:30:00+03:00",
-          "stop": "2026-09-06T08:00:00+03:00",
-          "title": "Ermittler! S: 1 / Ep: 44.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T08:00:00+03:00",
-          "stop": "2026-09-06T08:30:00+03:00",
-          "title": "heute-show.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T08:30:00+03:00",
-          "stop": "2026-09-06T09:15:00+03:00",
-          "title": "Charles III. - Britanniens neuer König.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T09:15:00+03:00",
-          "stop": "2026-09-06T10:00:00+03:00",
-          "title": "Camilla - Geliebte. Gemahlin. Königin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T10:00:00+03:00",
-          "stop": "2026-09-06T10:43:00+03:00",
-          "title": "Etikette Royal. Die Do's and Don'ts der Royals - Die Do's and Don'ts der Royals.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T10:43:00+03:00",
-          "stop": "2026-09-06T10:45:00+03:00",
-          "title": "heute Xpress.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T10:45:00+03:00",
-          "stop": "2026-09-06T11:30:00+03:00",
-          "title": "Legendäre Scheidungen - teuer, schmutzig und skurril.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T11:30:00+03:00",
-          "stop": "2026-09-06T12:15:00+03:00",
-          "title": "Verliebt, verlobt, verheiratet. Mythos Hochzeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T12:15:00+03:00",
-          "stop": "2026-09-06T13:00:00+03:00",
-          "title": "Schattenfrauen. Die heimlichen Geliebten - Die heimlichen Geliebten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T13:00:00+03:00",
-          "stop": "2026-09-06T13:45:00+03:00",
-          "title": "Sisis große Liebe? Kaiser Franz Joseph I. - Kaiser Franz Joseph.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T13:45:00+03:00",
-          "stop": "2026-09-06T14:30:00+03:00",
-          "title": "ZDFroyal: Royal Family - Hollands königliche Geschwister.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T14:30:00+03:00",
-          "stop": "2026-09-06T15:15:00+03:00",
-          "title": "ZDFroyal: Royal Family - Englands königliche Geschwister.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T15:15:00+03:00",
-          "stop": "2026-09-06T16:00:00+03:00",
-          "title": "Die Queen und ich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T16:00:00+03:00",
-          "stop": "2026-09-06T16:45:00+03:00",
-          "title": "Terra X History: Die Prinzen von Wales.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T16:45:00+03:00",
-          "stop": "2026-09-06T17:30:00+03:00",
-          "title": "Weltberühmt und depressiv - Von Sisi bis Adenauer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T17:30:00+03:00",
-          "stop": "2026-09-06T18:15:00+03:00",
-          "title": "Berühmte Kranke.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T18:15:00+03:00",
-          "stop": "2026-09-06T19:00:00+03:00",
-          "title": "Most wanted. Geld, Gier, Größenwahn.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T19:00:00+03:00",
-          "stop": "2026-09-06T19:45:00+03:00",
-          "title": "Die Hunde der Mächtigen - und eine Katze.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T19:45:00+03:00",
-          "stop": "2026-09-06T20:40:00+03:00",
-          "title": "Romy und Magda Schneider - Mutter - Tochter - Rivalinnen?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T20:40:00+03:00",
-          "stop": "2026-09-06T21:15:00+03:00",
-          "title": "heute-show.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T21:15:00+03:00",
-          "stop": "2026-09-06T22:00:00+03:00",
-          "title": "Camilla - Geliebte. Gemahlin. Königin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T22:00:00+03:00",
-          "stop": "2026-09-06T22:45:00+03:00",
-          "title": "Schattenfrauen. Die heimlichen Geliebten - Die heimlichen Geliebten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T22:45:00+03:00",
-          "stop": "2026-09-06T23:30:00+03:00",
-          "title": "Liebe, Lust und Leidenschaft - Sex im geteilten Deutschland.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-06T23:30:00+03:00",
-          "stop": "2026-09-07T00:15:00+03:00",
-          "title": "Etikette Royal. Die Do's and Don'ts der Royals - Die Do's and Don'ts der Royals.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-07",
       "programs": [
         {
-          "start": "2026-09-07T00:15:00+03:00",
-          "stop": "2026-09-07T01:00:00+03:00",
+          "start": "2026-09-07T00:10:00+03:00",
+          "stop": "2026-09-07T00:55:00+03:00",
           "title": "ZDFroyal: Plötzlich Majestät. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T01:00:00+03:00",
-          "stop": "2026-09-07T01:45:00+03:00",
+          "start": "2026-09-07T00:55:00+03:00",
+          "stop": "2026-09-07T01:40:00+03:00",
           "title": "ZDFroyal: Plötzlich Majestät. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T01:45:00+03:00",
-          "stop": "2026-09-07T02:30:00+03:00",
+          "start": "2026-09-07T01:40:00+03:00",
+          "stop": "2026-09-07T02:25:00+03:00",
           "title": "ZDFroyal: Plötzlich Majestät. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T02:30:00+03:00",
-          "stop": "2026-09-07T03:15:00+03:00",
+          "start": "2026-09-07T02:25:00+03:00",
+          "stop": "2026-09-07T03:10:00+03:00",
           "title": "Schattenfrauen. Die heimlichen Geliebten - Die heimlichen Geliebten.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:15:00+03:00",
-          "stop": "2026-09-07T04:00:00+03:00",
+          "start": "2026-09-07T03:10:00+03:00",
+          "stop": "2026-09-07T03:55:00+03:00",
           "title": "Weltberühmt und depressiv - Von Sisi bis Adenauer.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T04:00:00+03:00",
-          "stop": "2026-09-07T04:45:00+03:00",
+          "start": "2026-09-07T03:55:00+03:00",
+          "stop": "2026-09-07T04:40:00+03:00",
           "title": "Berühmte Kranke.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T04:45:00+03:00",
-          "stop": "2026-09-07T05:15:00+03:00",
+          "start": "2026-09-07T04:40:00+03:00",
+          "stop": "2026-09-07T05:25:00+03:00",
           "title": "Mörderische Stars.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T05:15:00+03:00",
-          "stop": "2026-09-07T06:00:00+03:00",
+          "start": "2026-09-07T05:25:00+03:00",
+          "stop": "2026-09-07T06:10:00+03:00",
           "title": "Top Spione - Die großen Geheimagenten.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T06:00:00+03:00",
-          "stop": "2026-09-07T06:45:00+03:00",
+          "start": "2026-09-07T06:10:00+03:00",
+          "stop": "2026-09-07T06:50:00+03:00",
           "title": "Tatort Vatikan - Vatikan - Geheimnisvolle Kriminalfälle.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T06:45:00+03:00",
-          "stop": "2026-09-07T08:00:00+03:00",
-          "title": "Die Killer des Kremls - Moskaus mysteriöse Morde.",
+          "start": "2026-09-07T06:50:00+03:00",
+          "stop": "2026-09-07T07:50:00+03:00",
+          "title": "Die Killer des Kremls. Moskaus mysteriöse Morde. - Moskaus mysteriöse Morde.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T08:00:00+03:00",
-          "stop": "2026-09-07T08:45:00+03:00",
+          "start": "2026-09-07T07:50:00+03:00",
+          "stop": "2026-09-07T08:35:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T08:45:00+03:00",
-          "stop": "2026-09-07T09:30:00+03:00",
+          "start": "2026-09-07T08:35:00+03:00",
+          "stop": "2026-09-07T09:20:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T09:30:00+03:00",
-          "stop": "2026-09-07T10:13:00+03:00",
+          "start": "2026-09-07T09:20:00+03:00",
+          "stop": "2026-09-07T10:03:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T10:13:00+03:00",
-          "stop": "2026-09-07T10:15:00+03:00",
+          "start": "2026-09-07T10:03:00+03:00",
+          "stop": "2026-09-07T10:05:00+03:00",
           "title": "heute Xpress.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T10:15:00+03:00",
-          "stop": "2026-09-07T11:00:00+03:00",
+          "start": "2026-09-07T10:05:00+03:00",
+          "stop": "2026-09-07T10:50:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T11:00:00+03:00",
-          "stop": "2026-09-07T11:45:00+03:00",
+          "start": "2026-09-07T10:50:00+03:00",
+          "stop": "2026-09-07T11:35:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T11:45:00+03:00",
-          "stop": "2026-09-07T12:30:00+03:00",
+          "start": "2026-09-07T11:35:00+03:00",
+          "stop": "2026-09-07T12:25:00+03:00",
           "title": "Tatort Mittelalter. S: 1 / Ep: 4.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T12:30:00+03:00",
-          "stop": "2026-09-07T13:15:00+03:00",
+          "start": "2026-09-07T12:25:00+03:00",
+          "stop": "2026-09-07T13:10:00+03:00",
           "title": "Krieg der Königinnen, Elisabeth I. und Maria Tudor.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T13:15:00+03:00",
-          "stop": "2026-09-07T14:00:00+03:00",
+          "start": "2026-09-07T13:10:00+03:00",
+          "stop": "2026-09-07T13:55:00+03:00",
           "title": "Maria Stuart Schottlands tragische Königin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T14:00:00+03:00",
-          "stop": "2026-09-07T14:30:00+03:00",
+          "start": "2026-09-07T13:55:00+03:00",
+          "stop": "2026-09-07T14:25:00+03:00",
           "title": "Göttinnen der Leinwand.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T14:30:00+03:00",
-          "stop": "2026-09-07T15:15:00+03:00",
+          "start": "2026-09-07T14:25:00+03:00",
+          "stop": "2026-09-07T15:10:00+03:00",
           "title": "Die 70er - Jahrzehnt der Gegensätze. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T15:15:00+03:00",
-          "stop": "2026-09-07T16:00:00+03:00",
+          "start": "2026-09-07T15:10:00+03:00",
+          "stop": "2026-09-07T15:55:00+03:00",
           "title": "Die 70er - Jahrzehnt der Gegensätze. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T16:00:00+03:00",
+          "start": "2026-09-07T15:55:00+03:00",
           "stop": "2026-09-07T16:45:00+03:00",
           "title": "Die 70er - Jahrzehnt der Gegensätze. S: 1 / Ep: 3.",
           "description": "L",
@@ -456,21 +227,21 @@
         },
         {
           "start": "2026-09-07T22:00:00+03:00",
-          "stop": "2026-09-07T22:45:00+03:00",
+          "stop": "2026-09-07T22:40:00+03:00",
           "title": "Die Schiffbrüchigen. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T22:45:00+03:00",
-          "stop": "2026-09-07T23:30:00+03:00",
+          "start": "2026-09-07T22:40:00+03:00",
+          "stop": "2026-09-07T23:25:00+03:00",
           "title": "Monster und Mythen.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T23:30:00+03:00",
-          "stop": "2026-09-08T00:15:00+03:00",
+          "start": "2026-09-07T23:25:00+03:00",
+          "stop": "2026-09-08T00:10:00+03:00",
           "title": "Mythen und Monster. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
@@ -481,63 +252,63 @@
       "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-08T00:15:00+03:00",
-          "stop": "2026-09-08T01:00:00+03:00",
+          "start": "2026-09-08T00:10:00+03:00",
+          "stop": "2026-09-08T00:55:00+03:00",
           "title": "Mythen und Monster. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T01:00:00+03:00",
-          "stop": "2026-09-08T01:45:00+03:00",
+          "start": "2026-09-08T00:55:00+03:00",
+          "stop": "2026-09-08T01:40:00+03:00",
           "title": "Mythen und Monster. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T01:45:00+03:00",
-          "stop": "2026-09-08T02:15:00+03:00",
+          "start": "2026-09-08T01:40:00+03:00",
+          "stop": "2026-09-08T02:10:00+03:00",
           "title": "heute journal - Wetter.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T02:15:00+03:00",
-          "stop": "2026-09-08T03:00:00+03:00",
+          "start": "2026-09-08T02:10:00+03:00",
+          "stop": "2026-09-08T02:50:00+03:00",
           "title": "World Wide Cybercrime. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T03:00:00+03:00",
-          "stop": "2026-09-08T03:45:00+03:00",
+          "start": "2026-09-08T02:50:00+03:00",
+          "stop": "2026-09-08T03:35:00+03:00",
           "title": "World Wide Cybercrime. S: 1 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T03:45:00+03:00",
-          "stop": "2026-09-08T04:30:00+03:00",
+          "start": "2026-09-08T03:35:00+03:00",
+          "stop": "2026-09-08T04:20:00+03:00",
           "title": "Big Dope - Milliardengeschäft mit dem Schmerz - Amerikas Opioid-Epidemie.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T04:30:00+03:00",
-          "stop": "2026-09-08T05:15:00+03:00",
+          "start": "2026-09-08T04:20:00+03:00",
+          "stop": "2026-09-08T05:05:00+03:00",
           "title": "Big Dope - Milliardengeschäft mit dem Schmerz - Siegeszug des Fentanyl.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T05:15:00+03:00",
-          "stop": "2026-09-08T05:45:00+03:00",
+          "start": "2026-09-08T05:05:00+03:00",
+          "stop": "2026-09-08T05:50:00+03:00",
           "title": "Wirecard - Russlands Top-Spion Jan Marsalek.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-08T05:45:00+03:00",
+          "start": "2026-09-08T05:50:00+03:00",
           "stop": "2026-09-08T06:30:00+03:00",
           "title": "Die Auto-Mafia - Europas Diebstahl-Netzwerk.",
           "description": "L",
@@ -715,6 +486,242 @@
           "start": "2026-09-08T23:30:00+03:00",
           "stop": "2026-09-09T00:15:00+03:00",
           "title": "Darwins Geheimnis - Die entführten Kinder der \"Beagle\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:15:00+03:00",
+          "stop": "2026-09-09T01:00:00+03:00",
+          "title": "Die Schiffbrüchigen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:00:00+03:00",
+          "stop": "2026-09-09T01:45:00+03:00",
+          "title": "Der Galapagos-Krimi - Ein Drama unter deutschen Aussteigern.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:45:00+03:00",
+          "stop": "2026-09-09T02:15:00+03:00",
+          "title": "heute journal - Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T02:15:00+03:00",
+          "stop": "2026-09-09T03:00:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:00:00+03:00",
+          "stop": "2026-09-09T03:45:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:45:00+03:00",
+          "stop": "2026-09-09T04:30:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T04:30:00+03:00",
+          "stop": "2026-09-09T05:15:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:15:00+03:00",
+          "stop": "2026-09-09T05:45:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:45:00+03:00",
+          "stop": "2026-09-09T06:30:00+03:00",
+          "title": "Vikings - Die wahre Geschichte. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T06:30:00+03:00",
+          "stop": "2026-09-09T07:15:00+03:00",
+          "title": "Tatort Mittelalter. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T07:15:00+03:00",
+          "stop": "2026-09-09T08:00:00+03:00",
+          "title": "Tatort Mittelalter. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:00:00+03:00",
+          "stop": "2026-09-09T08:30:00+03:00",
+          "title": "Bunker, Sirenen, Vorräte. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:30:00+03:00",
+          "stop": "2026-09-09T09:15:00+03:00",
+          "title": "Spuren des Krieges. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T09:15:00+03:00",
+          "stop": "2026-09-09T10:00:00+03:00",
+          "title": "Der vergiftete Frieden. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:00:00+03:00",
+          "stop": "2026-09-09T10:43:00+03:00",
+          "title": "Der vergiftete Frieden. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:43:00+03:00",
+          "stop": "2026-09-09T10:45:00+03:00",
+          "title": "heute Xpress.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:45:00+03:00",
+          "stop": "2026-09-09T11:30:00+03:00",
+          "title": "Der Preis des Krieges. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T11:30:00+03:00",
+          "stop": "2026-09-09T12:15:00+03:00",
+          "title": "Geheimnisse der Weimarer Republik. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:15:00+03:00",
+          "stop": "2026-09-09T13:00:00+03:00",
+          "title": "Geheimnisse der Weimarer Republik. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:00:00+03:00",
+          "stop": "2026-09-09T13:45:00+03:00",
+          "title": "Geheimnisse der Weimarer Republik. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:45:00+03:00",
+          "stop": "2026-09-09T14:30:00+03:00",
+          "title": "Uran - Das unheimliche Element. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T14:30:00+03:00",
+          "stop": "2026-09-09T15:15:00+03:00",
+          "title": "Uran - Das unheimliche Element. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:15:00+03:00",
+          "stop": "2026-09-09T16:00:00+03:00",
+          "title": "Tschernobyl: Die Katastrophe. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:00:00+03:00",
+          "stop": "2026-09-09T16:45:00+03:00",
+          "title": "Tschernobyl: Die Katastrophe. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:45:00+03:00",
+          "stop": "2026-09-09T17:30:00+03:00",
+          "title": "Tschernobyl: Die Katastrophe. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:30:00+03:00",
+          "stop": "2026-09-09T18:15:00+03:00",
+          "title": "Tschernobyl: Die Katastrophe. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:15:00+03:00",
+          "stop": "2026-09-09T19:45:00+03:00",
+          "title": "Fukushima - Chronik einer Katastrophe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:45:00+03:00",
+          "stop": "2026-09-09T20:30:00+03:00",
+          "title": "Die gefährlichsten Firmen der Welt - Big Tech: Der Aufstieg der Datenkraken.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:30:00+03:00",
+          "stop": "2026-09-09T21:15:00+03:00",
+          "title": "Die gefährlichsten Firmen der Welt - Big Tech: Milliarden, Manipulation, Macht.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:15:00+03:00",
+          "stop": "2026-09-09T22:00:00+03:00",
+          "title": "Die unheimliche Macht der Konzerne. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:00:00+03:00",
+          "stop": "2026-09-09T22:45:00+03:00",
+          "title": "Die unheimliche Macht der Konzerne. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:45:00+03:00",
+          "stop": "2026-09-09T23:30:00+03:00",
+          "title": "Die unheimliche Macht der Konzerne. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T23:30:00+03:00",
+          "stop": "2026-09-10T00:15:00+03:00",
+          "title": "Mark Zuckerberg - Tech-Genie auf Trump-Kurs.",
           "description": "L",
           "category": null
         }
