@@ -8,66 +8,272 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 36,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T00:05:00+03:00",
-          "stop": "2026-09-07T02:00:00+03:00",
-          "title": "1. FC Kaiserslautern – SV Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T02:00:00+03:00",
-          "stop": "2026-09-07T08:00:00+03:00",
-          "title": "Hertha BSC – 1. FC Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T08:00:00+03:00",
-          "stop": "2026-09-07T10:00:00+03:00",
+          "start": "2026-09-08T00:35:00+03:00",
+          "stop": "2026-09-08T02:25:00+03:00",
           "title": "Espanyol Barcelona – Sevilla FC",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T10:00:00+03:00",
-          "stop": "2026-09-07T12:00:00+03:00",
-          "title": "Deportivo Alavés – CA Osasuna",
+          "start": "2026-09-08T02:25:00+03:00",
+          "stop": "2026-09-08T04:15:00+03:00",
+          "title": "Athletic Bilbao – Atlético Madrid",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T12:00:00+03:00",
-          "stop": "2026-09-07T13:50:00+03:00",
-          "title": "Valencia CF – FC Barcelona",
+          "start": "2026-09-08T04:15:00+03:00",
+          "stop": "2026-09-08T08:00:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (2)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T13:50:00+03:00",
-          "stop": "2026-09-07T15:40:00+03:00",
-          "title": "Hertha BSC – 1. FC Magdeburg",
+          "start": "2026-09-08T08:00:00+03:00",
+          "stop": "2026-09-08T10:00:00+03:00",
+          "title": "Elche CF – Real Sociedad",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T15:40:00+03:00",
-          "stop": "2026-09-07T17:30:00+03:00",
-          "title": "1. FC Kaiserslautern – SV Darmstadt",
+          "start": "2026-09-08T10:00:00+03:00",
+          "stop": "2026-09-08T12:00:00+03:00",
+          "title": "Getafe CF – Celta Vigo",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T17:30:00+03:00",
-          "stop": "2026-09-07T19:20:00+03:00",
-          "title": "Rayo Vallecano – Racing Santander",
+          "start": "2026-09-08T12:00:00+03:00",
+          "stop": "2026-09-08T14:00:00+03:00",
+          "title": "Espanyol Barcelona – Sevilla FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:00:00+03:00",
+          "stop": "2026-09-08T14:30:00+03:00",
+          "title": "Ve skluzu (130)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:30:00+03:00",
+          "stop": "2026-09-08T15:00:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (2)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T15:00:00+03:00",
+          "stop": "2026-09-08T16:55:00+03:00",
+          "title": "Real Sociedad – Celta Vigo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T16:55:00+03:00",
+          "stop": "2026-09-08T19:05:00+03:00",
+          "title": "Real Madrid U19 – Inter Milán U19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:05:00+03:00",
+          "stop": "2026-09-08T19:30:00+03:00",
+          "title": "Finále Ligy mistrů – film",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:30:00+03:00",
+          "stop": "2026-09-08T21:45:00+03:00",
+          "title": "Club Bruggy – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:45:00+03:00",
+          "stop": "2026-09-09T00:05:00+03:00",
+          "title": "FC Porto – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:05:00+03:00",
+          "stop": "2026-09-09T01:55:00+03:00",
+          "title": "Villarreal CF – Deportivo La Coruna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:55:00+03:00",
+          "stop": "2026-09-09T03:45:00+03:00",
+          "title": "PSG – AS Monaco",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:45:00+03:00",
+          "stop": "2026-09-09T08:00:00+03:00",
+          "title": "Ve skluzu (130)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:00:00+03:00",
+          "stop": "2026-09-09T10:00:00+03:00",
+          "title": "FC Porto – Manchester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:00:00+03:00",
+          "stop": "2026-09-09T12:00:00+03:00",
+          "title": "Club Bruggy – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:00:00+03:00",
+          "stop": "2026-09-09T13:50:00+03:00",
+          "title": "Real Madrid U19 – Inter Milán U19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:50:00+03:00",
+          "stop": "2026-09-09T15:40:00+03:00",
+          "title": "Schalke 04 – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:40:00+03:00",
+          "stop": "2026-09-09T17:30:00+03:00",
+          "title": "TSG Hoffenheim – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:30:00+03:00",
+          "stop": "2026-09-09T19:30:00+03:00",
+          "title": "Elche CF – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:30:00+03:00",
+          "stop": "2026-09-09T21:45:00+03:00",
+          "title": "VfB Stuttgart – Viking FK",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:45:00+03:00",
+          "stop": "2026-09-10T00:00:00+03:00",
+          "title": "Liverpool FC – Atlético Madrid",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T00:00:00+03:00",
+          "stop": "2026-09-10T01:00:00+03:00",
+          "title": "La Liga 2 Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:00:00+03:00",
+          "stop": "2026-09-10T02:00:00+03:00",
+          "title": "La Liga Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T02:00:00+03:00",
+          "stop": "2026-09-10T08:00:00+03:00",
+          "title": "Club Bruggy – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T08:00:00+03:00",
+          "stop": "2026-09-10T10:00:00+03:00",
+          "title": "Liverpool FC – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T10:00:00+03:00",
+          "stop": "2026-09-10T12:00:00+03:00",
+          "title": "VfB Stuttgart – Viking FK",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T12:00:00+03:00",
+          "stop": "2026-09-10T13:00:00+03:00",
+          "title": "La Liga Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T13:00:00+03:00",
+          "stop": "2026-09-10T13:55:00+03:00",
+          "title": "La Liga 2 Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T13:55:00+03:00",
+          "stop": "2026-09-10T15:45:00+03:00",
+          "title": "Real Madrid U19 – Inter Milán U19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T15:45:00+03:00",
+          "stop": "2026-09-10T17:35:00+03:00",
+          "title": "PSG – AS Monaco",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:35:00+03:00",
+          "stop": "2026-09-10T19:30:00+03:00",
+          "title": "Getafe CF – Celta Vigo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:30:00+03:00",
+          "stop": "2026-09-10T21:45:00+03:00",
+          "title": "Fenerbahçe SK – AS Řím",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T21:45:00+03:00",
+          "stop": "2026-09-11T00:05:00+03:00",
+          "title": "Bayern Mnichov – FK Bod?/Glimt",
           "description": "L",
           "category": null
         }

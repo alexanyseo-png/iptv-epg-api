@@ -8,52 +8,566 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 78,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T00:00:00+03:00",
-          "stop": "2026-09-07T01:50:00+03:00",
-          "title": "Film: Butch Cassidy and the Sundance Kid.",
+          "start": "2026-09-08T00:00:00+03:00",
+          "stop": "2026-09-08T00:30:00+03:00",
+          "title": "Colin from Accounts. \"Receptive Penile\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T01:50:00+03:00",
-          "stop": "2026-09-07T02:50:00+03:00",
-          "title": "Golf: Walker Cup Highlights.",
+          "start": "2026-09-08T00:30:00+03:00",
+          "stop": "2026-09-08T01:03:00+03:00",
+          "title": "Newsnight.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T02:50:00+03:00",
-          "stop": "2026-09-07T03:50:00+03:00",
-          "title": "Saving Lives at Sea series.",
+          "start": "2026-09-08T01:03:00+03:00",
+          "stop": "2026-09-08T01:05:00+03:00",
+          "title": "BBC Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:50:00+03:00",
-          "stop": "2026-09-07T04:50:00+03:00",
-          "title": "Signed: Saving Lives at Sea.",
+          "start": "2026-09-08T01:05:00+03:00",
+          "stop": "2026-09-08T02:55:00+03:00",
+          "title": "Film: A Thousand and One.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T04:50:00+03:00",
-          "stop": "2026-09-07T05:50:00+03:00",
-          "title": "Signed: Black Waters: The Sea Empress Disaster.",
+          "start": "2026-09-08T02:55:00+03:00",
+          "stop": "2026-09-08T03:05:00+03:00",
+          "title": "Lifeline.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T05:50:00+03:00",
-          "stop": "2026-09-07T06:50:00+03:00",
+          "start": "2026-09-08T03:05:00+03:00",
+          "stop": "2026-09-08T04:00:00+03:00",
+          "title": "Countryfile. \"Countryfile Photographic Competition\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T04:00:00+03:00",
+          "stop": "2026-09-08T05:00:00+03:00",
+          "title": "Emergency 24/7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T05:00:00+03:00",
+          "stop": "2026-09-08T05:55:00+03:00",
+          "title": "Saving Lives at Sea.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T05:55:00+03:00",
+          "stop": "2026-09-08T08:30:00+03:00",
           "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T08:30:00+03:00",
+          "stop": "2026-09-08T10:00:00+03:00",
+          "title": "Saturday Kitchen Best Bites.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T10:00:00+03:00",
+          "stop": "2026-09-08T11:00:00+03:00",
+          "title": "Signed. \"The Great British Sewing Bee\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T11:00:00+03:00",
+          "stop": "2026-09-08T14:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:15:00+03:00",
+          "stop": "2026-09-08T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T15:00:00+03:00",
+          "stop": "2026-09-08T15:30:00+03:00",
+          "title": "House of Games. \"Champions Week 3: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T15:30:00+03:00",
+          "stop": "2026-09-08T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T16:15:00+03:00",
+          "stop": "2026-09-08T16:45:00+03:00",
+          "title": "Weatherman Walking. \"Clywedog Valley Trail\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T16:45:00+03:00",
+          "stop": "2026-09-08T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T17:30:00+03:00",
+          "stop": "2026-09-08T18:30:00+03:00",
+          "title": "Who Do You Think You Are?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:30:00+03:00",
+          "stop": "2026-09-08T19:15:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:15:00+03:00",
+          "stop": "2026-09-08T20:00:00+03:00",
+          "title": "Flog It!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:00:00+03:00",
+          "stop": "2026-09-08T20:30:00+03:00",
+          "title": "House of Games. \"Week 3: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:30:00+03:00",
+          "stop": "2026-09-08T21:00:00+03:00",
+          "title": "Clive Myrie's Caribbean Adventure.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:00:00+03:00",
+          "stop": "2026-09-08T21:30:00+03:00",
+          "title": "Nigellissima. \"Anglo-Italian feast\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:30:00+03:00",
+          "stop": "2026-09-08T22:00:00+03:00",
+          "title": "Race Against the Tide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T22:00:00+03:00",
+          "stop": "2026-09-08T23:00:00+03:00",
+          "title": "Saving Lives at Sea.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T23:00:00+03:00",
+          "stop": "2026-09-09T00:00:00+03:00",
+          "title": "Emergency 24/7.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:00:00+03:00",
+          "stop": "2026-09-09T00:30:00+03:00",
+          "title": "Colin from Accounts. \"Clean, Honest, Open, Transparent Love\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T00:30:00+03:00",
+          "stop": "2026-09-09T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:03:00+03:00",
+          "stop": "2026-09-09T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:05:00+03:00",
+          "stop": "2026-09-09T03:15:00+03:00",
+          "title": "Film: Gosford Park.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:15:00+03:00",
+          "stop": "2026-09-09T04:15:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T04:15:00+03:00",
+          "stop": "2026-09-09T04:45:00+03:00",
+          "title": "BBC Wales Investigates.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T04:45:00+03:00",
+          "stop": "2026-09-09T05:45:00+03:00",
+          "title": "The Big Deal with Steph McGovern.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:45:00+03:00",
+          "stop": "2026-09-09T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:30:00+03:00",
+          "stop": "2026-09-09T09:15:00+03:00",
+          "title": "Bargain Hunt. \"French Special\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T09:15:00+03:00",
+          "stop": "2026-09-09T10:00:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:00:00+03:00",
+          "stop": "2026-09-09T10:30:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Namur to Florenville\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:30:00+03:00",
+          "stop": "2026-09-09T11:00:00+03:00",
+          "title": "Great Continental Railway Journeys. \"Sopron to Keleti\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T11:00:00+03:00",
+          "stop": "2026-09-09T13:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:15:00+03:00",
+          "stop": "2026-09-09T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:00:00+03:00",
+          "stop": "2026-09-09T15:30:00+03:00",
+          "title": "House of Games. \"Champions Week 3: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:30:00+03:00",
+          "stop": "2026-09-09T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:15:00+03:00",
+          "stop": "2026-09-09T16:45:00+03:00",
+          "title": "Weatherman Walking. \"Elan Valley\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:45:00+03:00",
+          "stop": "2026-09-09T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:30:00+03:00",
+          "stop": "2026-09-09T18:30:00+03:00",
+          "title": "Who Do You Think You Are?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:30:00+03:00",
+          "stop": "2026-09-09T19:15:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:15:00+03:00",
+          "stop": "2026-09-09T20:00:00+03:00",
+          "title": "Flog It! \"Wolverhampton 2\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:00:00+03:00",
+          "stop": "2026-09-09T20:30:00+03:00",
+          "title": "House of Games. \"Week 3: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:30:00+03:00",
+          "stop": "2026-09-09T21:00:00+03:00",
+          "title": "Clive Myrie's Caribbean Adventure.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:00:00+03:00",
+          "stop": "2026-09-09T22:00:00+03:00",
+          "title": "Cricket: Today at the Test.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:00:00+03:00",
+          "stop": "2026-09-09T23:00:00+03:00",
+          "title": "Inside the Factory.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T23:00:00+03:00",
+          "stop": "2026-09-10T00:00:00+03:00",
+          "title": "Britains Forgotten Girls (w/t).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T00:00:00+03:00",
+          "stop": "2026-09-10T00:30:00+03:00",
+          "title": "Mortimer & Whitehouse: Gone Fishing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T00:30:00+03:00",
+          "stop": "2026-09-10T01:03:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:03:00+03:00",
+          "stop": "2026-09-10T01:05:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:05:00+03:00",
+          "stop": "2026-09-10T01:35:00+03:00",
+          "title": "Couples Therapy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:35:00+03:00",
+          "stop": "2026-09-10T02:05:00+03:00",
+          "title": "Couples Therapy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T02:05:00+03:00",
+          "stop": "2026-09-10T03:05:00+03:00",
+          "title": "A House Through Time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T03:05:00+03:00",
+          "stop": "2026-09-10T04:05:00+03:00",
+          "title": "Celebrity MasterChef.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T04:05:00+03:00",
+          "stop": "2026-09-10T05:05:00+03:00",
+          "title": "Signed: Boom Town: How Merthyr Made the World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T05:05:00+03:00",
+          "stop": "2026-09-10T08:30:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T08:30:00+03:00",
+          "stop": "2026-09-10T09:15:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T09:15:00+03:00",
+          "stop": "2026-09-10T10:00:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T10:00:00+03:00",
+          "stop": "2026-09-10T11:00:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:00:00+03:00",
+          "stop": "2026-09-10T14:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T14:15:00+03:00",
+          "stop": "2026-09-10T15:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T15:00:00+03:00",
+          "stop": "2026-09-10T15:30:00+03:00",
+          "title": "House of Games. \"Champions Week 3: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T15:30:00+03:00",
+          "stop": "2026-09-10T16:15:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:15:00+03:00",
+          "stop": "2026-09-10T16:45:00+03:00",
+          "title": "Weatherman Walking. \"The Best Of, Mid-Wales Marvels\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:45:00+03:00",
+          "stop": "2026-09-10T17:30:00+03:00",
+          "title": "Animal Park. \"Summer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:30:00+03:00",
+          "stop": "2026-09-10T18:30:00+03:00",
+          "title": "Who Do You Think You Are?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:30:00+03:00",
+          "stop": "2026-09-10T19:15:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:15:00+03:00",
+          "stop": "2026-09-10T20:00:00+03:00",
+          "title": "Flog It!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:00:00+03:00",
+          "stop": "2026-09-10T20:30:00+03:00",
+          "title": "House of Games. \"Week 3: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:30:00+03:00",
+          "stop": "2026-09-10T21:00:00+03:00",
+          "title": "House of Games. \"Week 3: Friday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T21:00:00+03:00",
+          "stop": "2026-09-10T22:00:00+03:00",
+          "title": "Cricket: Today at the Test.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T22:00:00+03:00",
+          "stop": "2026-09-10T23:00:00+03:00",
+          "title": "The Big Deal with Steph McGovern.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T23:00:00+03:00",
+          "stop": "2026-09-11T00:00:00+03:00",
+          "title": "Digging for Britain.",
           "description": "L",
           "category": null
         }

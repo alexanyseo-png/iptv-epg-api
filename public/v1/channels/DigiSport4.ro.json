@@ -8,80 +8,405 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 55,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T00:00:00+03:00",
-          "stop": "2026-09-07T01:45:00+03:00",
-          "title": "WorldSBK – Race 2/WorldSPB – Race 2 Moto: Campionatul Mondial de Superbike Franta",
+          "start": "2026-09-08T00:00:00+03:00",
+          "stop": "2026-09-08T01:00:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T01:45:00+03:00",
-          "stop": "2026-09-07T03:30:00+03:00",
-          "title": "Bundesliga: Hamburg-Mainz Etapa 2",
+          "start": "2026-09-08T01:00:00+03:00",
+          "stop": "2026-09-08T01:30:00+03:00",
+          "title": "retur Champions League: Rezumat Play off",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:30:00+03:00",
-          "stop": "2026-09-07T05:15:00+03:00",
-          "title": "Serie A: Parma-Monza Etapa 3",
+          "start": "2026-09-08T01:30:00+03:00",
+          "stop": "2026-09-08T02:00:00+03:00",
+          "title": "retur Champions League: Rezumat Play off",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T05:15:00+03:00",
-          "stop": "2026-09-07T07:00:00+03:00",
-          "title": "La Liga: Espanyol-Sevilla Etapa 4",
+          "start": "2026-09-08T02:00:00+03:00",
+          "stop": "2026-09-08T03:30:00+03:00",
+          "title": "Futsal: Corvinul Hunedoara-CSM Targu Mures Etapa 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T07:00:00+03:00",
-          "stop": "2026-09-07T08:45:00+03:00",
-          "title": "Bundesliga: Hoffenheim-Borussia Dortmund Etapa 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T08:45:00+03:00",
-          "stop": "2026-09-07T10:45:00+03:00",
-          "title": "Serie A: Frosinone-Venezia Etapa 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T10:45:00+03:00",
-          "stop": "2026-09-07T12:30:00+03:00",
-          "title": "Liga a 2-a: CSM Olimpia Satu Mare-Politehnica Timisoara Etapa 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:30:00+03:00",
-          "stop": "2026-09-07T14:30:00+03:00",
+          "start": "2026-09-08T03:30:00+03:00",
+          "stop": "2026-09-08T05:15:00+03:00",
           "title": "La Liga: Athletic Bilbao-Atletico Madrid Etapa 4",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T14:30:00+03:00",
-          "stop": "2026-09-07T16:30:00+03:00",
+          "start": "2026-09-08T05:15:00+03:00",
+          "stop": "2026-09-08T07:00:00+03:00",
+          "title": "Serie A: Cagliari-Lecce Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T07:00:00+03:00",
+          "stop": "2026-09-08T08:00:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T08:00:00+03:00",
+          "stop": "2026-09-08T08:30:00+03:00",
+          "title": "Champions League: Magazin Episodul 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T08:30:00+03:00",
+          "stop": "2026-09-08T10:15:00+03:00",
+          "title": "La Liga: Getafe-Celta Vigo Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T10:15:00+03:00",
+          "stop": "2026-09-08T12:15:00+03:00",
+          "title": "Serie A: Udinese-Lazio Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T12:15:00+03:00",
+          "stop": "2026-09-08T14:00:00+03:00",
+          "title": "La Liga: Elche-Real Sociedad Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:00:00+03:00",
+          "stop": "2026-09-08T15:45:00+03:00",
+          "title": "La Liga: Valencia-Barcelona Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T15:45:00+03:00",
+          "stop": "2026-09-08T17:45:00+03:00",
+          "title": "Serie A: Juventus-Milan Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T17:45:00+03:00",
+          "stop": "2026-09-08T19:30:00+03:00",
+          "title": "La Liga: Betis-Real Madrid Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:30:00+03:00",
+          "stop": "2026-09-08T20:30:00+03:00",
+          "title": "Interviurile Digi Sport Ion Vladoiu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:30:00+03:00",
+          "stop": "2026-09-08T22:00:00+03:00",
+          "title": "Etapa 1 Handbal EHF Champions League Feminin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T22:00:00+03:00",
+          "stop": "2026-09-09T00:00:00+03:00",
+          "title": "⋗ Champions League: Lille-Betis Etapa 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:00:00+03:00",
+          "stop": "2026-09-09T00:45:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T00:45:00+03:00",
+          "stop": "2026-09-09T01:45:00+03:00",
+          "title": "La Liga: Rezumat Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:45:00+03:00",
+          "stop": "2026-09-09T02:30:00+03:00",
+          "title": "Serie A: Rezumat Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T02:30:00+03:00",
+          "stop": "2026-09-09T03:30:00+03:00",
+          "title": "La Liga 2: Rezumat Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:30:00+03:00",
+          "stop": "2026-09-09T05:15:00+03:00",
+          "title": "La Liga: Rayo Vallecano-Racing Santander Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:15:00+03:00",
+          "stop": "2026-09-09T07:00:00+03:00",
+          "title": "Serie A: Roma-Atalanta Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T07:00:00+03:00",
+          "stop": "2026-09-09T08:00:00+03:00",
+          "title": "La Liga: Rezumat Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:00:00+03:00",
+          "stop": "2026-09-09T08:45:00+03:00",
+          "title": "Serie A: Rezumat Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:45:00+03:00",
+          "stop": "2026-09-09T09:45:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T09:45:00+03:00",
+          "stop": "2026-09-09T10:30:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:30:00+03:00",
+          "stop": "2026-09-09T12:15:00+03:00",
+          "title": "Champions League: Club Brugge-Aston Villa Etapa 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:15:00+03:00",
+          "stop": "2026-09-09T14:15:00+03:00",
+          "title": "La Liga: Athletic Bilbao-Atletico Madrid Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T14:15:00+03:00",
+          "stop": "2026-09-09T16:00:00+03:00",
+          "title": "Serie A: Juventus-Milan Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:00:00+03:00",
+          "stop": "2026-09-09T18:00:00+03:00",
+          "title": "Cupa Ligii Angliei: Millwall-Newcastle Turul 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:00:00+03:00",
+          "stop": "2026-09-09T19:45:00+03:00",
+          "title": "La Liga: Valencia-Barcelona Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:45:00+03:00",
+          "stop": "2026-09-09T21:30:00+03:00",
+          "title": "Etapa 1 Handbal: Veszprem-Porto EHF Champions League Masculin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:30:00+03:00",
+          "stop": "2026-09-09T21:45:00+03:00",
+          "title": "Stirile Digi Sport",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:45:00+03:00",
+          "stop": "2026-09-09T22:00:00+03:00",
+          "title": "Liga a 2-a: Rezumatele Etapei Etapa 6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:00:00+03:00",
+          "stop": "2026-09-10T00:00:00+03:00",
+          "title": "⋗ Champions League: Sporting-Galatasaray Etapa 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T00:00:00+03:00",
+          "stop": "2026-09-10T01:30:00+03:00",
+          "title": "Etapa 1 Handbal: Barca-Aarhus EHF Champions League Masculin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:30:00+03:00",
+          "stop": "2026-09-10T03:00:00+03:00",
+          "title": "Etapa 1 Handbal: Aalborg-PSG EHF Champions League Masculin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T03:00:00+03:00",
+          "stop": "2026-09-10T04:30:00+03:00",
+          "title": "Etapa 1 Handbal: Veszprem-Porto EHF Champions League Masculin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T04:30:00+03:00",
+          "stop": "2026-09-10T04:45:00+03:00",
+          "title": "Liga a 2-a: Rezumatele Etapei Etapa 6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T04:45:00+03:00",
+          "stop": "2026-09-10T05:15:00+03:00",
+          "title": "Serie A: Full Impact",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T05:15:00+03:00",
+          "stop": "2026-09-10T07:00:00+03:00",
+          "title": "Cupa Ligii Angliei: Chelsea-Leeds Turul 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T07:00:00+03:00",
+          "stop": "2026-09-10T07:45:00+03:00",
+          "title": "Superliga: Rezumatele Etapei Etapa 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T07:45:00+03:00",
+          "stop": "2026-09-10T08:45:00+03:00",
+          "title": "Bundesliga: Rezumat Etapa 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T08:45:00+03:00",
+          "stop": "2026-09-10T09:30:00+03:00",
+          "title": "La Liga: Rezumat Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T09:30:00+03:00",
+          "stop": "2026-09-10T10:30:00+03:00",
+          "title": "Serie A: Rezumat Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T10:30:00+03:00",
+          "stop": "2026-09-10T12:15:00+03:00",
+          "title": "Champions League: Stuttgart-Viking Etapa 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T12:15:00+03:00",
+          "stop": "2026-09-10T14:15:00+03:00",
           "title": "Bundesliga: Schalke-Bayern Munchen Etapa 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T16:30:00+03:00",
-          "stop": "2026-09-07T18:30:00+03:00",
-          "title": "La Liga: Betis-Real Madrid Etapa 4",
+          "start": "2026-09-10T14:15:00+03:00",
+          "stop": "2026-09-10T16:00:00+03:00",
+          "title": "Liga Portugal: Moreirense-Benfica Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:00:00+03:00",
+          "stop": "2026-09-10T18:00:00+03:00",
+          "title": "Cupa Ligii Angliei: Chelsea-Leeds Turul 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:00:00+03:00",
+          "stop": "2026-09-10T18:15:00+03:00",
+          "title": "Stirile Digi Sport",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:15:00+03:00",
+          "stop": "2026-09-10T19:45:00+03:00",
+          "title": "Etapa 1 Handbal EHF Champions League Masculin",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:45:00+03:00",
+          "stop": "2026-09-10T20:45:00+03:00",
+          "title": "Interviurile Digi Sport Ion Vladoiu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:45:00+03:00",
+          "stop": "2026-09-10T22:00:00+03:00",
+          "title": "Moto: Marele Premiu al Provinciei Aragon MotoGP Cursa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T22:00:00+03:00",
+          "stop": "2026-09-11T00:00:00+03:00",
+          "title": "⋗ Champions League: Slavia Praga-Lens Etapa 1",
           "description": "L",
           "category": null
         }

@@ -8,80 +8,230 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 30,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T05:00:00+03:00",
-          "stop": "2026-09-07T09:30:00+03:00",
+          "start": "2026-09-08T05:00:00+03:00",
+          "stop": "2026-09-08T09:30:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T09:30:00+03:00",
-          "stop": "2026-09-07T09:35:00+03:00",
+          "start": "2026-09-08T09:30:00+03:00",
+          "stop": "2026-09-08T09:35:00+03:00",
+          "title": "Алхимия Личности с Vera Star",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T09:35:00+03:00",
+          "stop": "2026-09-08T13:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T13:30:00+03:00",
+          "stop": "2026-09-08T13:35:00+03:00",
+          "title": "Голос теней с Татьяной Апенко",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T13:35:00+03:00",
+          "stop": "2026-09-08T17:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T17:00:00+03:00",
+          "stop": "2026-09-08T17:21:00+03:00",
+          "title": "Музыкалық блог",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T17:21:00+03:00",
+          "stop": "2026-09-08T18:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:30:00+03:00",
+          "stop": "2026-09-08T18:35:00+03:00",
+          "title": "Голос домбры",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:35:00+03:00",
+          "stop": "2026-09-08T22:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T22:00:00+03:00",
+          "stop": "2026-09-09T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T05:00:00+03:00",
+          "stop": "2026-09-09T13:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:30:00+03:00",
+          "stop": "2026-09-09T13:35:00+03:00",
           "title": "Диктатура закона с Жасуланом Рахимгалиевым",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T09:35:00+03:00",
-          "stop": "2026-09-07T11:30:00+03:00",
+          "start": "2026-09-09T13:35:00+03:00",
+          "stop": "2026-09-09T15:00:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T11:30:00+03:00",
-          "stop": "2026-09-07T11:35:00+03:00",
-          "title": "Точка баланса с Жасуланом Шахметовым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T11:35:00+03:00",
-          "stop": "2026-09-07T12:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:00:00+03:00",
-          "stop": "2026-09-07T12:05:00+03:00",
-          "title": "Школа аудита",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:05:00+03:00",
-          "stop": "2026-09-07T14:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T14:00:00+03:00",
-          "stop": "2026-09-07T14:27:00+03:00",
+          "start": "2026-09-09T15:00:00+03:00",
+          "stop": "2026-09-09T15:27:00+03:00",
           "title": "Персона",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T14:27:00+03:00",
-          "stop": "2026-09-07T17:00:00+03:00",
+          "start": "2026-09-09T15:27:00+03:00",
+          "stop": "2026-09-09T16:00:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T17:00:00+03:00",
-          "stop": "2026-09-07T18:30:00+03:00",
+          "start": "2026-09-09T16:00:00+03:00",
+          "stop": "2026-09-09T16:29:00+03:00",
+          "title": "Персона",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:29:00+03:00",
+          "stop": "2026-09-09T19:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:00:00+03:00",
+          "stop": "2026-09-09T19:05:00+03:00",
+          "title": "Школа аудита",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:05:00+03:00",
+          "stop": "2026-09-09T22:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:00:00+03:00",
+          "stop": "2026-09-10T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T05:00:00+03:00",
+          "stop": "2026-09-10T09:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T09:30:00+03:00",
+          "stop": "2026-09-10T09:35:00+03:00",
+          "title": "Голос теней с Татьяной Апенко",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T09:35:00+03:00",
+          "stop": "2026-09-10T11:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:30:00+03:00",
+          "stop": "2026-09-10T11:35:00+03:00",
+          "title": "News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:35:00+03:00",
+          "stop": "2026-09-10T16:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:00:00+03:00",
+          "stop": "2026-09-10T16:25:00+03:00",
+          "title": "Культура попсы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:25:00+03:00",
+          "stop": "2026-09-10T17:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:30:00+03:00",
+          "stop": "2026-09-10T17:35:00+03:00",
           "title": "Magic zone (Валерий Бойченкомен)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:35:00+03:00",
+          "stop": "2026-09-10T22:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T22:00:00+03:00",
+          "stop": "2026-09-11T05:00:00+03:00",
+          "title": "Түнгі тыныс",
           "description": "L",
           "category": null
         }

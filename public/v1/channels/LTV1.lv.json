@@ -8,157 +8,762 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 106,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T01:20:00+03:00",
-          "stop": "2026-09-07T02:58:00+03:00",
-          "title": "Ko tu proti, Latvija? (atkārtojums)",
+          "start": "2026-09-08T00:20:00+03:00",
+          "stop": "2026-09-08T00:55:00+03:00",
+          "title": "De Facto (atkārtojums)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T02:58:00+03:00",
-          "stop": "2026-09-07T03:05:00+03:00",
+          "start": "2026-09-08T00:55:00+03:00",
+          "stop": "2026-09-08T02:20:00+03:00",
+          "title": "Kas notiek Latvijā? (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T02:20:00+03:00",
+          "stop": "2026-09-08T02:30:00+03:00",
           "title": "Zinātnes noslēpumi. Dokumentālu īsfilmu cikls",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:05:00+03:00",
-          "stop": "2026-09-07T03:35:00+03:00",
-          "title": "Meža stāsti (atkārtojums)",
+          "start": "2026-09-08T02:30:00+03:00",
+          "stop": "2026-09-08T03:15:00+03:00",
+          "title": "Sporta studija (atkārtojums)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:35:00+03:00",
-          "stop": "2026-09-07T04:15:00+03:00",
-          "title": "V.I.P. – Veiksme. Intuīcija. Prāts (atkārtojums)",
+          "start": "2026-09-08T03:15:00+03:00",
+          "stop": "2026-09-08T04:15:00+03:00",
+          "title": "Aizliegtais paņēmiens (atkārtojums)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T04:15:00+03:00",
-          "stop": "2026-09-07T05:07:00+03:00",
-          "title": "Personība. 100 g kultūras. Sonora Vaice (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T05:07:00+03:00",
-          "stop": "2026-09-07T06:00:00+03:00",
-          "title": "Personība. 100 g kultūras. Viesturs Rudzītis (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T06:00:00+03:00",
-          "stop": "2026-09-07T06:02:00+03:00",
-          "title": "Latvijas valsts himna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T06:02:00+03:00",
-          "stop": "2026-09-07T06:30:00+03:00",
-          "title": "Vides fakti (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T06:30:00+03:00",
-          "stop": "2026-09-07T08:35:00+03:00",
-          "title": "Rīta Panorāma",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T08:35:00+03:00",
-          "stop": "2026-09-07T09:30:00+03:00",
-          "title": "Mīlas viesulis 21. Vācijas seriāls. 4456. sērija",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T09:30:00+03:00",
-          "stop": "2026-09-07T10:30:00+03:00",
-          "title": "Solījums 4. Spānijas telenovele. 594. sērija",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T10:30:00+03:00",
-          "stop": "2026-09-07T11:15:00+03:00",
-          "title": "Alpu dakteris 12. Seriāls. 9. sērija",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T11:15:00+03:00",
-          "stop": "2026-09-07T11:25:00+03:00",
-          "title": "Teātris.zip bērniem (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T11:25:00+03:00",
-          "stop": "2026-09-07T12:35:00+03:00",
-          "title": "Tuntuļu Jurītis. Latvijas Leļlu teātra izrāde (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:35:00+03:00",
-          "stop": "2026-09-07T12:50:00+03:00",
-          "title": "Kultūršoks (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:50:00+03:00",
-          "stop": "2026-09-07T13:50:00+03:00",
-          "title": "Latvijas Sirdsdziesma (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T13:50:00+03:00",
-          "stop": "2026-09-07T14:20:00+03:00",
-          "title": "Pasaules Panorāma (atkārtojums)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T14:20:00+03:00",
-          "stop": "2026-09-07T15:10:00+03:00",
+          "start": "2026-09-08T04:15:00+03:00",
+          "stop": "2026-09-08T05:05:00+03:00",
           "title": "Mērdoka noslēpumi 4. Detektīvseriāls. 11. sērija",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T15:10:00+03:00",
-          "stop": "2026-09-07T16:10:00+03:00",
+          "start": "2026-09-08T05:05:00+03:00",
+          "stop": "2026-09-08T06:00:00+03:00",
+          "title": "Krustpunktā (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T06:00:00+03:00",
+          "stop": "2026-09-08T06:02:00+03:00",
+          "title": "Latvijas valsts himna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T06:02:00+03:00",
+          "stop": "2026-09-08T06:30:00+03:00",
+          "title": "Ķepa uz sirds (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T06:30:00+03:00",
+          "stop": "2026-09-08T08:35:00+03:00",
+          "title": "Rīta Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T08:35:00+03:00",
+          "stop": "2026-09-08T09:30:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4457. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T09:30:00+03:00",
+          "stop": "2026-09-08T10:30:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 595. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T10:30:00+03:00",
+          "stop": "2026-09-08T11:15:00+03:00",
+          "title": "Alpu dakteris 12. Seriāls. 10. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T11:15:00+03:00",
+          "stop": "2026-09-08T11:55:00+03:00",
+          "title": "Nacionālie dārgumi. 100 g kultūras. LTV ziņu raidījumam «Panorāma» – 60 (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T11:55:00+03:00",
+          "stop": "2026-09-08T12:05:00+03:00",
+          "title": "Dziesmas ceļš. Jānim Peteram – 85. Mēmā dziesma (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T12:05:00+03:00",
+          "stop": "2026-09-08T12:35:00+03:00",
+          "title": "Ielas garumā. Jelgava Pilssalas garumā (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T12:35:00+03:00",
+          "stop": "2026-09-08T13:20:00+03:00",
+          "title": "Sporta studija (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T13:20:00+03:00",
+          "stop": "2026-09-08T14:10:00+03:00",
+          "title": "Mērdoka noslēpumi 4. Detektīvseriāls. 12. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:10:00+03:00",
+          "stop": "2026-09-08T15:05:00+03:00",
           "title": "Krustpunktā",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T16:10:00+03:00",
-          "stop": "2026-09-07T17:10:00+03:00",
-          "title": "Solījums 4. Spānijas telenovele. 593. sērija",
+          "start": "2026-09-08T15:05:00+03:00",
+          "stop": "2026-09-08T16:05:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 594. sērija",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T17:10:00+03:00",
-          "stop": "2026-09-07T18:00:00+03:00",
-          "title": "Mīlas viesulis 21. Vācijas seriāls. 4456. sērija",
+          "start": "2026-09-08T16:05:00+03:00",
+          "stop": "2026-09-08T17:10:00+03:00",
+          "title": "15. Saeimas vēlēšanas. Priekšvēlēšanu bezmaksas aģitācija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T17:10:00+03:00",
+          "stop": "2026-09-08T18:00:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4457. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:00:00+03:00",
+          "stop": "2026-09-08T18:33:00+03:00",
+          "title": "Dienas ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:33:00+03:00",
+          "stop": "2026-09-08T18:45:00+03:00",
+          "title": "Kultūras ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:45:00+03:00",
+          "stop": "2026-09-08T18:51:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:51:00+03:00",
+          "stop": "2026-09-08T18:56:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T18:56:00+03:00",
+          "stop": "2026-09-08T19:26:00+03:00",
+          "title": "4. studija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:26:00+03:00",
+          "stop": "2026-09-08T19:30:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:30:00+03:00",
+          "stop": "2026-09-08T20:00:00+03:00",
+          "title": "Province",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:00:00+03:00",
+          "stop": "2026-09-08T20:37:00+03:00",
+          "title": "Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:37:00+03:00",
+          "stop": "2026-09-08T20:56:00+03:00",
+          "title": "Šodienas jautājums",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T20:56:00+03:00",
+          "stop": "2026-09-08T21:04:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:04:00+03:00",
+          "stop": "2026-09-08T21:10:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:10:00+03:00",
+          "stop": "2026-09-08T22:00:00+03:00",
+          "title": "1:1. Aktuālā intervija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T22:00:00+03:00",
+          "stop": "2026-09-08T23:35:00+03:00",
+          "title": "LTV PIRMIZRĀDE! 11. septembris – diena, kas mainīja pasauli. Dokumentāla filma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T23:35:00+03:00",
+          "stop": "2026-09-09T01:10:00+03:00",
+          "title": "Skolotāju istaba. Psiholoģiska drāma",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T01:10:00+03:00",
+          "stop": "2026-09-09T01:40:00+03:00",
+          "title": "Vides fakti (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:40:00+03:00",
+          "stop": "2026-09-09T02:00:00+03:00",
+          "title": "Zinātnes noslēpumi. Dokumentālu īsfilmu cikls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T02:00:00+03:00",
+          "stop": "2026-09-09T02:35:00+03:00",
+          "title": "De Facto (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T02:35:00+03:00",
+          "stop": "2026-09-09T03:15:00+03:00",
+          "title": "V.I.P. – Veiksme. Intuīcija. Prāts (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:15:00+03:00",
+          "stop": "2026-09-09T04:15:00+03:00",
+          "title": "Kultūrdeva (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T04:15:00+03:00",
+          "stop": "2026-09-09T05:05:00+03:00",
+          "title": "Mērdoka noslēpumi 4. Detektīvseriāls. 12. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:05:00+03:00",
+          "stop": "2026-09-09T06:00:00+03:00",
+          "title": "Krustpunktā (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T06:00:00+03:00",
+          "stop": "2026-09-09T06:02:00+03:00",
+          "title": "Latvijas valsts himna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T06:02:00+03:00",
+          "stop": "2026-09-09T06:30:00+03:00",
+          "title": "4. studija (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T06:30:00+03:00",
+          "stop": "2026-09-09T08:35:00+03:00",
+          "title": "Rīta Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:35:00+03:00",
+          "stop": "2026-09-09T09:30:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4458. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T09:30:00+03:00",
+          "stop": "2026-09-09T10:30:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 596. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:30:00+03:00",
+          "stop": "2026-09-09T11:15:00+03:00",
+          "title": "Alpu dakteris 12. Seriāls. 11. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T11:15:00+03:00",
+          "stop": "2026-09-09T12:15:00+03:00",
+          "title": "Latvijas Sirdsdziesma (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:15:00+03:00",
+          "stop": "2026-09-09T12:30:00+03:00",
+          "title": "Zinātnes noslēpumi. Dokumentālu īsfilmu cikls",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:30:00+03:00",
+          "stop": "2026-09-09T13:00:00+03:00",
+          "title": "Vides fakti (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:00:00+03:00",
+          "stop": "2026-09-09T13:50:00+03:00",
+          "title": "Mērdoka noslēpumi 4. Detektīvseriāls. 13. (nosl) sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:50:00+03:00",
+          "stop": "2026-09-09T14:10:00+03:00",
+          "title": "Šodienas jautājums (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T14:10:00+03:00",
+          "stop": "2026-09-09T15:05:00+03:00",
+          "title": "Krustpunktā",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:05:00+03:00",
+          "stop": "2026-09-09T16:05:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 595. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T16:05:00+03:00",
+          "stop": "2026-09-09T17:10:00+03:00",
+          "title": "15. Saeimas vēlēšanas. Priekšvēlēšanu bezmaksas aģitācija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:10:00+03:00",
+          "stop": "2026-09-09T18:00:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4458. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:00:00+03:00",
+          "stop": "2026-09-09T18:33:00+03:00",
+          "title": "Dienas ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:33:00+03:00",
+          "stop": "2026-09-09T18:45:00+03:00",
+          "title": "Kultūras ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:45:00+03:00",
+          "stop": "2026-09-09T18:51:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:51:00+03:00",
+          "stop": "2026-09-09T18:56:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T18:56:00+03:00",
+          "stop": "2026-09-09T19:26:00+03:00",
+          "title": "4. studija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:26:00+03:00",
+          "stop": "2026-09-09T19:30:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:30:00+03:00",
+          "stop": "2026-09-09T20:00:00+03:00",
+          "title": "Pasaules Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:00:00+03:00",
+          "stop": "2026-09-09T20:37:00+03:00",
+          "title": "Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:37:00+03:00",
+          "stop": "2026-09-09T20:56:00+03:00",
+          "title": "Šodienas jautājums",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T20:56:00+03:00",
+          "stop": "2026-09-09T21:02:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:02:00+03:00",
+          "stop": "2026-09-09T21:05:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:05:00+03:00",
+          "stop": "2026-09-09T21:20:00+03:00",
+          "title": "Latvijas Loto izlozes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:20:00+03:00",
+          "stop": "2026-09-09T22:45:00+03:00",
+          "title": "Kas notiek Latvijā?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:45:00+03:00",
+          "stop": "2026-09-09T23:15:00+03:00",
+          "title": "Ielas garumā. Jelgava Pilssalas garumā",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T23:15:00+03:00",
+          "stop": "2026-09-10T00:15:00+03:00",
+          "title": "Kultūrdeva (atkārtojums)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T00:15:00+03:00",
+          "stop": "2026-09-10T00:30:00+03:00",
+          "title": "Kultūršoks (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T00:30:00+03:00",
+          "stop": "2026-09-10T01:20:00+03:00",
+          "title": "Saullēkta koncerts ar Ivetu Apkalnu (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:20:00+03:00",
+          "stop": "2026-09-10T02:55:00+03:00",
+          "title": "Latvijas aktieru veltījumu koncerts Likteņdārzam (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T02:55:00+03:00",
+          "stop": "2026-09-10T03:40:00+03:00",
+          "title": "1:1. Aktuālā intervija (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T03:40:00+03:00",
+          "stop": "2026-09-10T04:15:00+03:00",
+          "title": "De Facto (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T04:15:00+03:00",
+          "stop": "2026-09-10T05:05:00+03:00",
+          "title": "Mērdoka noslēpumi 4. Detektīvseriāls. 13. (nosl) sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T05:05:00+03:00",
+          "stop": "2026-09-10T06:00:00+03:00",
+          "title": "Krustpunktā (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T06:00:00+03:00",
+          "stop": "2026-09-10T06:02:00+03:00",
+          "title": "Latvijas valsts himna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T06:02:00+03:00",
+          "stop": "2026-09-10T06:30:00+03:00",
+          "title": "4. studija (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T06:30:00+03:00",
+          "stop": "2026-09-10T08:35:00+03:00",
+          "title": "Rīta Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T08:35:00+03:00",
+          "stop": "2026-09-10T09:30:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4459. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T09:30:00+03:00",
+          "stop": "2026-09-10T10:30:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 597. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T10:30:00+03:00",
+          "stop": "2026-09-10T11:20:00+03:00",
+          "title": "Alpu dakteris 12. Seriāls. 12. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:20:00+03:00",
+          "stop": "2026-09-10T11:50:00+03:00",
+          "title": "Teātris.zip (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:50:00+03:00",
+          "stop": "2026-09-10T14:10:00+03:00",
+          "title": "Bezkaunīgais vecis. Latvijas Nacionālā teātra izrāde (atkārtojums)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T14:10:00+03:00",
+          "stop": "2026-09-10T15:05:00+03:00",
+          "title": "Krustpunktā",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T15:05:00+03:00",
+          "stop": "2026-09-10T16:05:00+03:00",
+          "title": "Solījums 4. Spānijas telenovele. 596. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T16:05:00+03:00",
+          "stop": "2026-09-10T17:10:00+03:00",
+          "title": "15. Saeimas vēlēšanas. Priekšvēlēšanu bezmaksas aģitācija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:10:00+03:00",
+          "stop": "2026-09-10T18:00:00+03:00",
+          "title": "Mīlas viesulis 21. Vācijas seriāls. 4459. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:00:00+03:00",
+          "stop": "2026-09-10T18:33:00+03:00",
+          "title": "Dienas ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:33:00+03:00",
+          "stop": "2026-09-10T18:45:00+03:00",
+          "title": "Kultūras ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:45:00+03:00",
+          "stop": "2026-09-10T18:51:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:51:00+03:00",
+          "stop": "2026-09-10T18:56:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T18:56:00+03:00",
+          "stop": "2026-09-10T19:26:00+03:00",
+          "title": "4. studija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:26:00+03:00",
+          "stop": "2026-09-10T19:30:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:30:00+03:00",
+          "stop": "2026-09-10T20:00:00+03:00",
+          "title": "Labākie gadi. Komēdijseriāls. 3. sērija",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:00:00+03:00",
+          "stop": "2026-09-10T20:37:00+03:00",
+          "title": "Panorāma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:37:00+03:00",
+          "stop": "2026-09-10T20:56:00+03:00",
+          "title": "Šodienas jautājums",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T20:56:00+03:00",
+          "stop": "2026-09-10T21:04:00+03:00",
+          "title": "Sporta ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T21:04:00+03:00",
+          "stop": "2026-09-10T21:10:00+03:00",
+          "title": "Laika ziņas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T21:10:00+03:00",
+          "stop": "2026-09-10T23:20:00+03:00",
+          "title": "Izvēlies Latvijas nākotni! Priekšvēlēšanu debates reģionos. Rīga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T23:20:00+03:00",
+          "stop": "2026-09-10T23:40:00+03:00",
+          "title": "Ekspertu diskusija pēc priekšvēlēšanu debatēm",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T23:40:00+03:00",
+          "stop": "2026-09-11T00:40:00+03:00",
+          "title": "Latvijas Sirdsdziesma (atkārtojums)",
           "description": "L",
           "category": null
         }

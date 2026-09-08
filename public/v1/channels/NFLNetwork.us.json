@@ -8,59 +8,356 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-07T04:46:37.784718+00:00",
+  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 48,
   "days": [
     {
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "programs": [
         {
-          "start": "2026-09-07T02:30:00+03:00",
-          "stop": "2026-09-07T03:30:00+03:00",
+          "start": "2026-09-08T00:00:00+03:00",
+          "stop": "2026-09-08T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T01:00:00+03:00",
+          "stop": "2026-09-08T02:00:00+03:00",
           "title": "America's Game «2025 Seattle Seahawks»",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T03:30:00+03:00",
-          "stop": "2026-09-07T06:30:00+03:00",
-          "title": "NFL Football «Arizona Cardinals at Green Bay Packers» (Lambeau Field, Green Bay, WI, USA)",
+          "start": "2026-09-08T02:00:00+03:00",
+          "stop": "2026-09-08T03:00:00+03:00",
+          "title": "The Insiders",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T06:30:00+03:00",
-          "stop": "2026-09-07T09:30:00+03:00",
-          "title": "NFL Football «Pittsburgh Steelers at Buffalo Bills» (New Highmark Stadium, Orchard Park, New York, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T09:30:00+03:00",
-          "stop": "2026-09-07T12:00:00+03:00",
-          "title": "NFL Football «New Orleans Saints at Dallas Cowboys» (ATT Stadium, Arlington, Texas, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-07T12:00:00+03:00",
-          "stop": "2026-09-07T15:00:00+03:00",
+          "start": "2026-09-08T03:00:00+03:00",
+          "stop": "2026-09-08T06:00:00+03:00",
           "title": "Super Bowl Classics «Super Bowl LX: Seattle Seahawks vs. New England Patriots»",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T15:00:00+03:00",
-          "stop": "2026-09-07T17:00:00+03:00",
+          "start": "2026-09-08T06:00:00+03:00",
+          "stop": "2026-09-08T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T07:00:00+03:00",
+          "stop": "2026-09-08T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T08:00:00+03:00",
+          "stop": "2026-09-08T09:00:00+03:00",
+          "title": "NFL Replay «Super Bowl LX»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T09:00:00+03:00",
+          "stop": "2026-09-08T10:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T10:00:00+03:00",
+          "stop": "2026-09-08T13:00:00+03:00",
+          "title": "Super Bowl Classics «Super Bowl LX: Seattle Seahawks vs. New England Patriots»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T13:00:00+03:00",
+          "stop": "2026-09-08T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T14:00:00+03:00",
+          "stop": "2026-09-08T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T15:00:00+03:00",
+          "stop": "2026-09-08T17:00:00+03:00",
           "title": "⋗ Good Morning Football",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-07T17:00:00+03:00",
-          "stop": "2026-09-07T19:00:00+03:00",
+          "start": "2026-09-08T17:00:00+03:00",
+          "stop": "2026-09-08T19:00:00+03:00",
           "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T19:00:00+03:00",
+          "stop": "2026-09-08T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-08T21:00:00+03:00",
+          "stop": "2026-09-09T00:00:00+03:00",
+          "title": "Super Bowl Classics «Super Bowl LX: Seattle Seahawks vs. New England Patriots»",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-09",
+      "programs": [
+        {
+          "start": "2026-09-09T00:00:00+03:00",
+          "stop": "2026-09-09T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T01:00:00+03:00",
+          "stop": "2026-09-09T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T02:00:00+03:00",
+          "stop": "2026-09-09T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T03:00:00+03:00",
+          "stop": "2026-09-09T05:00:00+03:00",
+          "title": "⋗ NFL GameDay «Season Preview»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T05:00:00+03:00",
+          "stop": "2026-09-09T06:00:00+03:00",
+          "title": "America's Game «2025 Seattle Seahawks»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T06:00:00+03:00",
+          "stop": "2026-09-09T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T07:00:00+03:00",
+          "stop": "2026-09-09T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T08:00:00+03:00",
+          "stop": "2026-09-09T10:00:00+03:00",
+          "title": "NFL GameDay «Season Preview»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T10:00:00+03:00",
+          "stop": "2026-09-09T11:00:00+03:00",
+          "title": "America's Game «2025 Seattle Seahawks»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T11:00:00+03:00",
+          "stop": "2026-09-09T12:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T12:00:00+03:00",
+          "stop": "2026-09-09T13:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T13:00:00+03:00",
+          "stop": "2026-09-09T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T14:00:00+03:00",
+          "stop": "2026-09-09T15:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T15:00:00+03:00",
+          "stop": "2026-09-09T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T17:00:00+03:00",
+          "stop": "2026-09-09T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T19:00:00+03:00",
+          "stop": "2026-09-09T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T21:00:00+03:00",
+          "stop": "2026-09-09T22:00:00+03:00",
+          "title": "America's Game «2025 Seattle Seahawks»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-09T22:00:00+03:00",
+          "stop": "2026-09-10T00:00:00+03:00",
+          "title": "NFL GameDay «Season Preview»",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-10",
+      "programs": [
+        {
+          "start": "2026-09-10T00:00:00+03:00",
+          "stop": "2026-09-10T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T01:00:00+03:00",
+          "stop": "2026-09-10T03:00:00+03:00",
+          "title": "NFL GameDay Kickoff",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T03:00:00+03:00",
+          "stop": "2026-09-10T03:30:00+03:00",
+          "title": "Super Bowl Highlights «Super Bowl LX: Seahawks vs. Patriots»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T03:30:00+03:00",
+          "stop": "2026-09-10T06:30:00+03:00",
+          "title": "NFL Football «2025 NFC Divisional: Los Angeles Rams vs. Chicago Bears»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T06:30:00+03:00",
+          "stop": "2026-09-10T07:00:00+03:00",
+          "title": "⋗ NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T07:00:00+03:00",
+          "stop": "2026-09-10T08:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T08:00:00+03:00",
+          "stop": "2026-09-10T10:00:00+03:00",
+          "title": "NFL Football «New England Patriots at Seattle Seahawks» (Lumen Field, Seattle, Washington, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T10:00:00+03:00",
+          "stop": "2026-09-10T11:00:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T11:00:00+03:00",
+          "stop": "2026-09-10T12:00:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T12:00:00+03:00",
+          "stop": "2026-09-10T13:00:00+03:00",
+          "title": "NFL Fantasy Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T13:00:00+03:00",
+          "stop": "2026-09-10T15:00:00+03:00",
+          "title": "NFL Football «New England Patriots at Seattle Seahawks» (Lumen Field, Seattle, Washington, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T15:00:00+03:00",
+          "stop": "2026-09-10T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T17:00:00+03:00",
+          "stop": "2026-09-10T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T19:00:00+03:00",
+          "stop": "2026-09-10T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-10T21:00:00+03:00",
+          "stop": "2026-09-11T00:00:00+03:00",
+          "title": "NFL Football «New England Patriots at Seattle Seahawks» (Lumen Field, Seattle, Washington, USA)",
           "description": "L",
           "category": null
         }
