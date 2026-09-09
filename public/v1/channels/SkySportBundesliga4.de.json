@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
+  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-09-08",
-      "programs": [
-        {
-          "start": "2026-09-08T07:00:00+03:00",
-          "stop": "2026-09-09T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-09",
       "programs": [
@@ -42,6 +30,39 @@
         {
           "start": "2026-09-10T07:00:00+03:00",
           "stop": "2026-09-11T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "programs": [
+        {
+          "start": "2026-09-11T07:00:00+03:00",
+          "stop": "2026-09-11T18:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T18:40:00+03:00",
+          "stop": "2026-09-11T19:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T19:00:00+03:00",
+          "stop": "2026-09-11T21:30:00+03:00",
+          "title": "Live 2. BL: 1. FC Nürnberg – Hannover 96, 5. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T21:30:00+03:00",
+          "stop": "2026-09-12T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

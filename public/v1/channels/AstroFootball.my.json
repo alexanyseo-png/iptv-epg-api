@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
+  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-09-08",
-      "programs": [
-        {
-          "start": "2026-09-08T01:00:00+03:00",
-          "stop": "2026-09-08T03:00:00+03:00",
-          "title": "Serie A: Genoa vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T03:00:00+03:00",
-          "stop": "2026-09-08T05:00:00+03:00",
-          "title": "Dutch: Groningen vs Twente",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T05:00:00+03:00",
-          "stop": "2026-09-08T07:00:00+03:00",
-          "title": "Dutch: NEC vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T07:00:00+03:00",
-          "stop": "2026-09-08T09:00:00+03:00",
-          "title": "Serie A: Cagliari vs Lecce",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T09:00:00+03:00",
-          "stop": "2026-09-08T11:00:00+03:00",
-          "title": "Serie A: Udinese vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T11:00:00+03:00",
-          "stop": "2026-09-08T13:00:00+03:00",
-          "title": "Dutch: Ajax vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T13:00:00+03:00",
-          "stop": "2026-09-08T15:00:00+03:00",
-          "title": "DFB: St.Tonis vs Eintracht",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T15:00:00+03:00",
-          "stop": "2026-09-08T17:00:00+03:00",
-          "title": "DFB: Rostock vs Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T17:00:00+03:00",
-          "stop": "2026-09-08T17:30:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T17:30:00+03:00",
-          "stop": "2026-09-08T18:00:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T18:00:00+03:00",
-          "stop": "2026-09-08T20:00:00+03:00",
-          "title": "DFB: Wiesbaden vs Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T20:00:00+03:00",
-          "stop": "2026-09-08T22:00:00+03:00",
-          "title": "DFB: Hamburg vs Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T22:00:00+03:00",
-          "stop": "2026-09-08T23:00:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T23:00:00+03:00",
-          "stop": "2026-09-09T01:00:00+03:00",
-          "title": "DFB: Osnabruck vs Bayern",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-09",
       "programs": [
@@ -309,6 +206,116 @@
           "start": "2026-09-10T22:45:00+03:00",
           "stop": "2026-09-11T01:00:00+03:00",
           "title": "DFB: Luneburger vs Bremen",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "programs": [
+        {
+          "start": "2026-09-11T01:00:00+03:00",
+          "stop": "2026-09-11T01:30:00+03:00",
+          "title": "PLTV: The Big Inteview 2026/27 Ep.2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T01:30:00+03:00",
+          "stop": "2026-09-11T03:45:00+03:00",
+          "title": "DFB: Eintracht Trier vs Leipzig",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T03:45:00+03:00",
+          "stop": "2026-09-11T06:00:00+03:00",
+          "title": "DFB: Schott vs M'gladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T06:00:00+03:00",
+          "stop": "2026-09-11T07:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T07:00:00+03:00",
+          "stop": "2026-09-11T09:00:00+03:00",
+          "title": "Serie A: Lecce vs Roma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T09:00:00+03:00",
+          "stop": "2026-09-11T11:00:00+03:00",
+          "title": "Serie A: Atalanta vs Bologna",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T11:00:00+03:00",
+          "stop": "2026-09-11T13:00:00+03:00",
+          "title": "Serie A: Milan vs Venezia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T13:00:00+03:00",
+          "stop": "2026-09-11T14:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T14:00:00+03:00",
+          "stop": "2026-09-11T14:30:00+03:00",
+          "title": "PLTV: The Big Inteview 2026/27 Ep.4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T14:30:00+03:00",
+          "stop": "2026-09-11T15:00:00+03:00",
+          "title": "Serie A 2026/27: Full Impact Rd2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T15:00:00+03:00",
+          "stop": "2026-09-11T17:00:00+03:00",
+          "title": "Serie A: Napoli vs Como",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T17:00:00+03:00",
+          "stop": "2026-09-11T19:00:00+03:00",
+          "title": "Serie A: Cagliari vs Inter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T19:00:00+03:00",
+          "stop": "2026-09-11T21:00:00+03:00",
+          "title": "Serie A: Juventus vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T21:00:00+03:00",
+          "stop": "2026-09-11T21:35:00+03:00",
+          "title": "Serie A 2026/27: Full Impact Rd1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T21:35:00+03:00",
+          "stop": "2026-09-12T00:00:00+03:00",
+          "title": "⋗ Serie A: Venezia vs Fiorentina",
           "description": "L",
           "category": null
         }

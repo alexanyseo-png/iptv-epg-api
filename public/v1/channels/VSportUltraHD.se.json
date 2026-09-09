@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-08T04:42:04.218492+00:00",
+  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-09-08",
-      "programs": [
-        {
-          "start": "2026-09-08T01:45:00+03:00",
-          "stop": "2026-09-08T11:00:00+03:00",
-          "title": "Erikoinen ensiaputapaukseni",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T11:00:00+03:00",
-          "stop": "2026-09-08T19:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T19:30:00+03:00",
-          "stop": "2026-09-08T21:55:00+03:00",
-          "title": "Valioliiga: Arsenal – Chelsea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-08T21:55:00+03:00",
-          "stop": "2026-09-09T11:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-09",
       "programs": [
@@ -92,6 +59,32 @@
           "start": "2026-09-10T21:55:00+03:00",
           "stop": "2026-09-11T11:00:00+03:00",
           "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-11",
+      "programs": [
+        {
+          "start": "2026-09-11T11:00:00+03:00",
+          "stop": "2026-09-11T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T19:00:00+03:00",
+          "stop": "2026-09-11T22:00:00+03:00",
+          "title": "Formula 1: Italian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-11T22:00:00+03:00",
+          "stop": "2026-09-12T11:00:00+03:00",
+          "title": "Valioliiga: Ipswich – Liverpool",
           "description": "L",
           "category": null
         }
