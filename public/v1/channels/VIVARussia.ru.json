@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
+  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 46,
   "days": [
-    {
-      "date": "2026-09-09",
-      "programs": [
-        {
-          "start": "2026-09-09T00:00:00+03:00",
-          "stop": "2026-09-09T01:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T01:00:00+03:00",
-          "stop": "2026-09-09T04:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T04:00:00+03:00",
-          "stop": "2026-09-09T06:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T06:00:00+03:00",
-          "stop": "2026-09-09T09:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T09:00:00+03:00",
-          "stop": "2026-09-09T11:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T11:00:00+03:00",
-          "stop": "2026-09-09T12:00:00+03:00",
-          "title": "You Decide.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T12:00:00+03:00",
-          "stop": "2026-09-09T13:00:00+03:00",
-          "title": "Los 90`s.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T13:00:00+03:00",
-          "stop": "2026-09-09T14:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T14:00:00+03:00",
-          "stop": "2026-09-09T15:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T15:00:00+03:00",
-          "stop": "2026-09-09T17:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T17:00:00+03:00",
-          "stop": "2026-09-09T18:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T18:00:00+03:00",
-          "stop": "2026-09-09T19:00:00+03:00",
-          "title": "Los 00's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T19:00:00+03:00",
-          "stop": "2026-09-09T20:00:00+03:00",
-          "title": "Los 90`s.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T20:00:00+03:00",
-          "stop": "2026-09-09T21:00:00+03:00",
-          "title": "Non stop.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T21:00:00+03:00",
-          "stop": "2026-09-09T22:00:00+03:00",
-          "title": "You Decide.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T22:00:00+03:00",
-          "stop": "2026-09-10T00:00:00+03:00",
-          "title": "Planet VIVA.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-10",
       "programs": [
@@ -365,6 +248,102 @@
           "start": "2026-09-11T22:00:00+03:00",
           "stop": "2026-09-12T00:00:00+03:00",
           "title": "Planet VIVA.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "programs": [
+        {
+          "start": "2026-09-12T00:00:00+03:00",
+          "stop": "2026-09-12T00:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T00:30:00+03:00",
+          "stop": "2026-09-12T09:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T09:00:00+03:00",
+          "stop": "2026-09-12T09:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T09:30:00+03:00",
+          "stop": "2026-09-12T11:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T11:00:00+03:00",
+          "stop": "2026-09-12T12:00:00+03:00",
+          "title": "You Decide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T12:00:00+03:00",
+          "stop": "2026-09-12T15:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T15:00:00+03:00",
+          "stop": "2026-09-12T15:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T15:30:00+03:00",
+          "stop": "2026-09-12T20:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T20:00:00+03:00",
+          "stop": "2026-09-12T20:30:00+03:00",
+          "title": "Top 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T20:30:00+03:00",
+          "stop": "2026-09-12T21:00:00+03:00",
+          "title": "Non stop.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T21:00:00+03:00",
+          "stop": "2026-09-12T22:00:00+03:00",
+          "title": "You Decide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T22:00:00+03:00",
+          "stop": "2026-09-12T22:45:00+03:00",
+          "title": "Club Rotation.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T22:45:00+03:00",
+          "stop": "2026-09-13T00:00:00+03:00",
+          "title": "Non stop.",
           "description": "L",
           "category": null
         }

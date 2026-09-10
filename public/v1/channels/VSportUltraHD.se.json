@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
+  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-09-09",
-      "programs": [
-        {
-          "start": "2026-09-09T11:00:00+03:00",
-          "stop": "2026-09-09T19:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T19:30:00+03:00",
-          "stop": "2026-09-09T21:55:00+03:00",
-          "title": "Valioliiga: Ipswich – Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T21:55:00+03:00",
-          "stop": "2026-09-10T11:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-10",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-09-11T22:00:00+03:00",
           "stop": "2026-09-12T11:00:00+03:00",
           "title": "Valioliiga: Ipswich – Liverpool",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "programs": [
+        {
+          "start": "2026-09-12T11:00:00+03:00",
+          "stop": "2026-09-12T16:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T16:55:00+03:00",
+          "stop": "2026-09-12T22:00:00+03:00",
+          "title": "Valioliiga: Liverpool – Fulham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T22:00:00+03:00",
+          "stop": "2026-09-13T11:00:00+03:00",
+          "title": "Valioliiga: Arsenal – Chelsea",
           "description": "L",
           "category": null
         }

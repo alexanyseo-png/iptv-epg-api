@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-09T04:46:40.253744+00:00",
+  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-09",
-      "programs": [
-        {
-          "start": "2026-09-09T00:00:00+03:00",
-          "stop": "2026-09-09T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T05:00:00+03:00",
-          "stop": "2026-09-09T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T07:00:00+03:00",
-          "stop": "2026-09-09T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T11:00:00+03:00",
-          "stop": "2026-09-09T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T14:00:00+03:00",
-          "stop": "2026-09-09T15:00:00+03:00",
-          "title": "Тема с Алексеем Бобровским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T15:00:00+03:00",
-          "stop": "2026-09-09T18:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T18:00:00+03:00",
-          "stop": "2026-09-09T21:00:00+03:00",
-          "title": "Поле Куликова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T21:00:00+03:00",
-          "stop": "2026-09-09T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T22:00:00+03:00",
-          "stop": "2026-09-09T23:00:00+03:00",
-          "title": "Экономика по-русски",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-09T23:00:00+03:00",
-          "stop": "2026-09-10T00:00:00+03:00",
-          "title": "Псиоп",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-10",
       "programs": [
@@ -232,6 +157,88 @@
           "start": "2026-09-11T23:00:00+03:00",
           "stop": "2026-09-12T00:00:00+03:00",
           "title": "Курс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-12",
+      "programs": [
+        {
+          "start": "2026-09-12T00:00:00+03:00",
+          "stop": "2026-09-12T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T05:00:00+03:00",
+          "stop": "2026-09-12T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T07:00:00+03:00",
+          "stop": "2026-09-12T09:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T09:00:00+03:00",
+          "stop": "2026-09-12T11:00:00+03:00",
+          "title": "Подробнее с Иваном Каменевым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T11:00:00+03:00",
+          "stop": "2026-09-12T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T13:00:00+03:00",
+          "stop": "2026-09-12T17:30:00+03:00",
+          "title": "Подробнее с Маратом Булатовым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T17:30:00+03:00",
+          "stop": "2026-09-12T18:00:00+03:00",
+          "title": "Главный вопрос",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T18:00:00+03:00",
+          "stop": "2026-09-12T19:00:00+03:00",
+          "title": "Рассказы из русской истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T19:00:00+03:00",
+          "stop": "2026-09-12T20:00:00+03:00",
+          "title": "Малькевич новых регионов",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T20:00:00+03:00",
+          "stop": "2026-09-12T23:00:00+03:00",
+          "title": "Субботний Мардан",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T23:00:00+03:00",
+          "stop": "2026-09-13T00:00:00+03:00",
+          "title": "Ночь Live",
           "description": "L",
           "category": null
         }
