@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
-  "programmeCount": 46,
+  "programmeCount": 47,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T01:00:00+03:00",
-          "stop": "2026-09-10T03:00:00+03:00",
-          "title": "Dutch: Excelsior vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T03:00:00+03:00",
-          "stop": "2026-09-10T05:00:00+03:00",
-          "title": "Dutch: Ajax vs Heerenveen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T05:00:00+03:00",
-          "stop": "2026-09-10T07:00:00+03:00",
-          "title": "Dutch: Feyenoord vs GA Eagles",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T07:00:00+03:00",
-          "stop": "2026-09-10T09:00:00+03:00",
-          "title": "Serie A: Bologna vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T09:00:00+03:00",
-          "stop": "2026-09-10T11:00:00+03:00",
-          "title": "Serie A: Roma vs Fiorentina",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T11:00:00+03:00",
-          "stop": "2026-09-10T13:00:00+03:00",
-          "title": "DFB: Hamburg vs Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T13:00:00+03:00",
-          "stop": "2026-09-10T15:00:00+03:00",
-          "title": "DFB: Osnabruck vs Bayern",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T15:00:00+03:00",
-          "stop": "2026-09-10T17:15:00+03:00",
-          "title": "DFB: Hallescher vs Schalke",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T17:15:00+03:00",
-          "stop": "2026-09-10T19:30:00+03:00",
-          "title": "DFB: Dusseldorf vs Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T19:30:00+03:00",
-          "stop": "2026-09-10T20:00:00+03:00",
-          "title": "Inside Serie A: Ep.2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T20:00:00+03:00",
-          "stop": "2026-09-10T22:15:00+03:00",
-          "title": "DFB: Berlin vs Wolfsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T22:15:00+03:00",
-          "stop": "2026-09-10T22:45:00+03:00",
-          "title": "Inside Serie A: Ep.3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T22:45:00+03:00",
-          "stop": "2026-09-11T01:00:00+03:00",
-          "title": "DFB: Luneburger vs Bremen",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -344,6 +248,109 @@
           "start": "2026-09-12T21:35:00+03:00",
           "stop": "2026-09-13T00:00:00+03:00",
           "title": "⋗ Serie A: Atalanta vs Cagliari",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T00:00:00+03:00",
+          "stop": "2026-09-13T01:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T01:00:00+03:00",
+          "stop": "2026-09-13T03:00:00+03:00",
+          "title": "Dutch: Groningen vs Twente",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T03:00:00+03:00",
+          "stop": "2026-09-13T04:50:00+03:00",
+          "title": "Dutch: Excelsior vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T04:50:00+03:00",
+          "stop": "2026-09-13T07:00:00+03:00",
+          "title": "(D) Dutch: Fortuna vs Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T07:00:00+03:00",
+          "stop": "2026-09-13T09:00:00+03:00",
+          "title": "Serie A: Genoa vs Frosinone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T09:00:00+03:00",
+          "stop": "2026-09-13T11:00:00+03:00",
+          "title": "Serie A: Lazio vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T11:00:00+03:00",
+          "stop": "2026-09-13T13:00:00+03:00",
+          "title": "Serie A: Atalanta vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T13:00:00+03:00",
+          "stop": "2026-09-13T13:20:00+03:00",
+          "title": "DFB: Round 1 Highlights Show",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T13:20:00+03:00",
+          "stop": "2026-09-13T15:30:00+03:00",
+          "title": "Dutch: Ajax vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T15:30:00+03:00",
+          "stop": "2026-09-13T15:50:00+03:00",
+          "title": "This Is Our Time: Ep5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T15:50:00+03:00",
+          "stop": "2026-09-13T18:00:00+03:00",
+          "title": "Dutch: NEC vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:00:00+03:00",
+          "stop": "2026-09-13T18:30:00+03:00",
+          "title": "PLTV: The Big Inteview 2026/27 Ep.2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:30:00+03:00",
+          "stop": "2026-09-13T18:50:00+03:00",
+          "title": "This Is Our Time: Ep1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:50:00+03:00",
+          "stop": "2026-09-13T19:50:00+03:00",
+          "title": "⋗ Serie A: Napoli vs Bologna",
           "description": "L",
           "category": null
         }

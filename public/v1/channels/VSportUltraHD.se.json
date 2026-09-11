@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T11:00:00+03:00",
-          "stop": "2026-09-10T19:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T19:30:00+03:00",
-          "stop": "2026-09-10T21:55:00+03:00",
-          "title": "Valioliiga: Arsenal – Chelsea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T21:55:00+03:00",
-          "stop": "2026-09-11T11:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -85,6 +59,39 @@
           "start": "2026-09-12T22:00:00+03:00",
           "stop": "2026-09-13T11:00:00+03:00",
           "title": "Valioliiga: Arsenal – Chelsea",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T11:00:00+03:00",
+          "stop": "2026-09-13T15:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T15:55:00+03:00",
+          "stop": "2026-09-13T18:25:00+03:00",
+          "title": "Formula 1: Espanjan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:25:00+03:00",
+          "stop": "2026-09-13T22:00:00+03:00",
+          "title": "Valioliiga: Manchester United – Manchester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T22:00:00+03:00",
+          "stop": "2026-09-14T11:00:00+03:00",
+          "title": "Formula 1: Espanjan GP – Osakilpailu",
           "description": "L",
           "category": null
         }

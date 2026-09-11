@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T07:00:00+03:00",
-          "stop": "2026-09-11T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -127,6 +115,74 @@
           "start": "2026-09-12T21:00:00+03:00",
           "stop": "2026-09-13T00:00:00+03:00",
           "title": "Live 2. BL: FC St. Pauli – VfL Wolfsburg, tipico Topspiel der Woche, 5. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T00:00:00+03:00",
+          "stop": "2026-09-13T01:00:00+03:00",
+          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Samstag komplett",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T01:00:00+03:00",
+          "stop": "2026-09-13T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T07:00:00+03:00",
+          "stop": "2026-09-13T13:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T13:40:00+03:00",
+          "stop": "2026-09-13T14:00:00+03:00",
+          "title": "Es foholgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T14:00:00+03:00",
+          "stop": "2026-09-13T16:30:00+03:00",
+          "title": "Live 2. BL: 1. FC Heidenheim – Holstein Kiel, 5. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:30:00+03:00",
+          "stop": "2026-09-13T18:30:00+03:00",
+          "title": "Es folgt: Live Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:30:00+03:00",
+          "stop": "2026-09-13T20:30:00+03:00",
+          "title": "BL: RB Leipzig – Hamburger SV, 3. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T20:30:00+03:00",
+          "stop": "2026-09-13T22:30:00+03:00",
+          "title": "BL: SV Elversberg – FC Bayern München, 3. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T22:30:00+03:00",
+          "stop": "2026-09-14T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

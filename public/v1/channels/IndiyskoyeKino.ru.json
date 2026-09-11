@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
   "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T01:45:00+03:00",
-          "stop": "2026-09-10T05:20:00+03:00",
-          "title": "Кто я для тебя?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T05:20:00+03:00",
-          "stop": "2026-09-10T08:10:00+03:00",
-          "title": "Одна ошибка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T08:10:00+03:00",
-          "stop": "2026-09-10T11:05:00+03:00",
-          "title": "Колесо судьбы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T11:05:00+03:00",
-          "stop": "2026-09-10T13:50:00+03:00",
-          "title": "Жажда мести.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T13:50:00+03:00",
-          "stop": "2026-09-10T16:25:00+03:00",
-          "title": "Намасте Лондон.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T16:25:00+03:00",
-          "stop": "2026-09-10T20:00:00+03:00",
-          "title": "Наступит завтра или нет?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T20:00:00+03:00",
-          "stop": "2026-09-10T23:00:00+03:00",
-          "title": "Долг чести.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T23:00:00+03:00",
-          "stop": "2026-09-11T00:50:00+03:00",
-          "title": "Маленькая принцесса.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -190,6 +129,67 @@
           "start": "2026-09-12T23:30:00+03:00",
           "stop": "2026-09-13T02:05:00+03:00",
           "title": "Намасте Лондон.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T02:05:00+03:00",
+          "stop": "2026-09-13T03:50:00+03:00",
+          "title": "Маленькая принцесса.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T03:50:00+03:00",
+          "stop": "2026-09-13T06:20:00+03:00",
+          "title": "Неоконченный роман.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T06:20:00+03:00",
+          "stop": "2026-09-13T11:10:00+03:00",
+          "title": "Моё имя-Клоун.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T11:10:00+03:00",
+          "stop": "2026-09-13T13:55:00+03:00",
+          "title": "Жажда мести.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T13:55:00+03:00",
+          "stop": "2026-09-13T16:55:00+03:00",
+          "title": "В тисках предательства.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:55:00+03:00",
+          "stop": "2026-09-13T20:00:00+03:00",
+          "title": "Плутовка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T20:00:00+03:00",
+          "stop": "2026-09-13T23:00:00+03:00",
+          "title": "Долг чести.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T23:00:00+03:00",
+          "stop": "2026-09-14T00:00:00+03:00",
+          "title": "Коммандо 2.",
           "description": "L",
           "category": null
         }

@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T01:50:00+03:00",
-          "stop": "2026-09-10T03:45:00+03:00",
-          "title": "Gran Torino.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T03:45:00+03:00",
-          "stop": "2026-09-10T05:30:00+03:00",
-          "title": "The Gift.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T05:30:00+03:00",
-          "stop": "2026-09-10T07:00:00+03:00",
-          "title": "127 Hours.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T07:00:00+03:00",
-          "stop": "2026-09-10T08:45:00+03:00",
-          "title": "Die den Tod nicht fürchten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T08:45:00+03:00",
-          "stop": "2026-09-10T10:25:00+03:00",
-          "title": "Verschwörung im Nordexpreß.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T10:25:00+03:00",
-          "stop": "2026-09-10T11:55:00+03:00",
-          "title": "16 Uhr 50 ab Paddington.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T11:55:00+03:00",
-          "stop": "2026-09-10T13:45:00+03:00",
-          "title": "Außer Kontrolle.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T13:45:00+03:00",
-          "stop": "2026-09-10T15:30:00+03:00",
-          "title": "Volcano.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T15:30:00+03:00",
-          "stop": "2026-09-10T17:20:00+03:00",
-          "title": "Ausnahmezustand.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T17:20:00+03:00",
-          "stop": "2026-09-10T19:10:00+03:00",
-          "title": "Behind Enemy Lines.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T19:10:00+03:00",
-          "stop": "2026-09-10T21:15:00+03:00",
-          "title": "Crimson Tide.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T21:15:00+03:00",
-          "stop": "2026-09-10T23:30:00+03:00",
-          "title": "Der Staatsfeind Nr. 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T23:30:00+03:00",
-          "stop": "2026-09-11T01:15:00+03:00",
-          "title": "Equilibrium.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -309,6 +213,116 @@
           "start": "2026-09-12T22:55:00+03:00",
           "stop": "2026-09-13T00:35:00+03:00",
           "title": "Die Regeln der Gewalt.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T00:35:00+03:00",
+          "stop": "2026-09-13T02:25:00+03:00",
+          "title": "The Gift.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T02:25:00+03:00",
+          "stop": "2026-09-13T04:20:00+03:00",
+          "title": "Cold Creek Manor - Das Haus am Fluss.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T04:20:00+03:00",
+          "stop": "2026-09-13T05:15:00+03:00",
+          "title": "Der Wilde Westen: Die ersten 100 Jahre.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T05:15:00+03:00",
+          "stop": "2026-09-13T07:00:00+03:00",
+          "title": "Die den Tod nicht fürchten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T07:00:00+03:00",
+          "stop": "2026-09-13T09:20:00+03:00",
+          "title": "Rio Bravo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T09:20:00+03:00",
+          "stop": "2026-09-13T10:25:00+03:00",
+          "title": "Der Wilde Westen: Die ersten 100 Jahre.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T10:25:00+03:00",
+          "stop": "2026-09-13T12:00:00+03:00",
+          "title": "Der Vater der Braut.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T12:00:00+03:00",
+          "stop": "2026-09-13T13:25:00+03:00",
+          "title": "Miss Marple: Der Mörder sitzt am Tisch.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T13:25:00+03:00",
+          "stop": "2026-09-13T15:35:00+03:00",
+          "title": "The Verdict - Die Wahrheit und nichts als die Wahrheit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T15:35:00+03:00",
+          "stop": "2026-09-13T16:10:00+03:00",
+          "title": "Hinter den Kulissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:10:00+03:00",
+          "stop": "2026-09-13T17:40:00+03:00",
+          "title": "Surrogates - Mein zweites Ich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T17:40:00+03:00",
+          "stop": "2026-09-13T19:25:00+03:00",
+          "title": "Running Man.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T19:25:00+03:00",
+          "stop": "2026-09-13T21:15:00+03:00",
+          "title": "Equilibrium.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T21:15:00+03:00",
+          "stop": "2026-09-13T23:45:00+03:00",
+          "title": "Wonder Woman 1984.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T23:45:00+03:00",
+          "stop": "2026-09-14T01:45:00+03:00",
+          "title": "G.I. Joe - Geheimauftrag Cobra.",
           "description": "L",
           "category": null
         }

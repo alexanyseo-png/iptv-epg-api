@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-09-10",
-      "programs": [
-        {
-          "start": "2026-09-10T01:10:00+03:00",
-          "stop": "2026-09-10T05:20:00+03:00",
-          "title": "Бокс голыми кулаками. BKB 35 в Лондоне, Великобритания",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T05:20:00+03:00",
-          "stop": "2026-09-10T07:00:00+03:00",
-          "title": "Кикбоксинг. Fighting Rookies 2014",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T07:00:00+03:00",
-          "stop": "2026-09-10T09:15:00+03:00",
-          "title": "Кикбоксинг. King of Kings Hero's в Никосии, Кипр. Мировой Гран-при, 1 ч",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T09:15:00+03:00",
-          "stop": "2026-09-10T11:00:00+03:00",
-          "title": "Underground Boxing Night 2023, 1 ч",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T11:00:00+03:00",
-          "stop": "2026-09-10T14:35:00+03:00",
-          "title": "Боевые искусства. Colosseum Tournament 35 в Тырговиште, Румыния",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T14:35:00+03:00",
-          "stop": "2026-09-10T15:15:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T15:15:00+03:00",
-          "stop": "2026-09-10T20:00:00+03:00",
-          "title": "Кикбоксинг. WGP Kickboxing Brazil, 27 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T20:00:00+03:00",
-          "stop": "2026-09-10T23:20:00+03:00",
-          "title": "Бокс. FOX Sports Africa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-10T23:20:00+03:00",
-          "stop": "2026-09-11T03:20:00+03:00",
-          "title": "Боевые искусства. Fit Centrum Fight 2023, 1 ч",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-11",
       "programs": [
@@ -204,6 +136,102 @@
           "start": "2026-09-12T22:00:00+03:00",
           "stop": "2026-09-13T01:30:00+03:00",
           "title": "Смешанные единоборства. Centurion FC 17 в Рио-де-Жанейро, Бразилия",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T01:30:00+03:00",
+          "stop": "2026-09-13T03:45:00+03:00",
+          "title": "Смешанные единоборства. Lux Fight League 033 в Пуэбле, Мексика",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T03:45:00+03:00",
+          "stop": "2026-09-13T05:25:00+03:00",
+          "title": "Кикбоксинг. Fighting Rookies 2014",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T05:25:00+03:00",
+          "stop": "2026-09-13T07:00:00+03:00",
+          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T07:00:00+03:00",
+          "stop": "2026-09-13T07:30:00+03:00",
+          "title": "UK Wrestling Showdown. 3 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T07:30:00+03:00",
+          "stop": "2026-09-13T08:05:00+03:00",
+          "title": "UK Wrestling Showdown. 4 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T08:05:00+03:00",
+          "stop": "2026-09-13T08:35:00+03:00",
+          "title": "UK Wrestling Showdown. 5 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T08:35:00+03:00",
+          "stop": "2026-09-13T08:55:00+03:00",
+          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T08:55:00+03:00",
+          "stop": "2026-09-13T10:30:00+03:00",
+          "title": "Кикбоксинг. Enfusion Talents 119 в Вуппертале, Германия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T10:30:00+03:00",
+          "stop": "2026-09-13T14:50:00+03:00",
+          "title": "Смешанные единоборства. NFC 19 в Эссене, Германия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T14:50:00+03:00",
+          "stop": "2026-09-13T17:05:00+03:00",
+          "title": "Кикбоксинг. King of Kings Hero's в Никосии, Кипр. Мировой Гран-при, 1 ч",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T17:05:00+03:00",
+          "stop": "2026-09-13T20:00:00+03:00",
+          "title": "Кикбоксинг. King of Kings World Series в Хендеке, Турция",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T20:00:00+03:00",
+          "stop": "2026-09-13T22:10:00+03:00",
+          "title": "Боевые искусства. Colosseum Tournament 36 в Ботошани, Румыния",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T22:10:00+03:00",
+          "stop": "2026-09-14T01:30:00+03:00",
+          "title": "Смешанные единоборства. We Love MMA 71 в Ганновере, Германия",
           "description": "L",
           "category": null
         }

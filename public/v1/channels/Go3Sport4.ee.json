@@ -8,8 +8,40 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-10T04:47:31.498489+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "available": true,
+  "programmeCount": 3,
+  "days": [
+    {
+      "date": "2026-09-12",
+      "programs": [
+        {
+          "start": "2026-09-12T22:00:00+03:00",
+          "stop": "2026-09-12T23:00:00+03:00",
+          "title": "⋗ The Rugby Greatest Rivalry. South Africa – New Zealand",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T23:00:00+03:00",
+          "stop": "2026-09-13T19:00:00+03:00",
+          "title": "⋗ UFC. Jean Silva vs Jose Miguel Delgado. (ENG)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T19:00:00+03:00",
+          "stop": "2026-09-13T20:00:00+03:00",
+          "title": "⋗ NFL. Red Zone Week 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
