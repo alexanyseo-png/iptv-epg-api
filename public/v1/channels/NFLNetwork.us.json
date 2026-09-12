@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T00:00:00+03:00",
-          "stop": "2026-09-11T01:00:00+03:00",
-          "title": "⋗ NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T01:00:00+03:00",
-          "stop": "2026-09-11T02:00:00+03:00",
-          "title": "NFL Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T02:00:00+03:00",
-          "stop": "2026-09-11T03:30:00+03:00",
-          "title": "⋗ NFL GameDay Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T03:30:00+03:00",
-          "stop": "2026-09-11T06:30:00+03:00",
-          "title": "NFL Football «New England Patriots at Seattle Seahawks» (Lumen Field, Seattle, Washington, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T06:30:00+03:00",
-          "stop": "2026-09-11T07:30:00+03:00",
-          "title": "⋗ NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T07:30:00+03:00",
-          "stop": "2026-09-11T10:00:00+03:00",
-          "title": "NFL Football «San Francisco 49ers vs. Los Angeles Rams» (Melbourne Cricket Ground, Melbourne, Victoria, AUS)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T10:00:00+03:00",
-          "stop": "2026-09-11T11:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T11:00:00+03:00",
-          "stop": "2026-09-11T12:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T12:00:00+03:00",
-          "stop": "2026-09-11T13:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T13:00:00+03:00",
-          "stop": "2026-09-11T15:00:00+03:00",
-          "title": "NFL Football «San Francisco 49ers vs. Los Angeles Rams» (Melbourne Cricket Ground, Melbourne, Victoria, AUS)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T15:00:00+03:00",
-          "stop": "2026-09-11T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T17:00:00+03:00",
-          "stop": "2026-09-11T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T19:00:00+03:00",
-          "stop": "2026-09-11T21:00:00+03:00",
-          "title": "⋗ NFL Total Access",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T21:00:00+03:00",
-          "stop": "2026-09-12T00:00:00+03:00",
-          "title": "NFL Football «San Francisco 49ers vs. Los Angeles Rams» (Melbourne Cricket Ground, Melbourne, Victoria, AUS)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -288,6 +185,39 @@
           "start": "2026-09-13T23:30:00+03:00",
           "stop": "2026-09-14T02:30:00+03:00",
           "title": "⋗ NFL GameDay Live",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T02:30:00+03:00",
+          "stop": "2026-09-14T03:30:00+03:00",
+          "title": "⋗ NFL GameDay Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T03:30:00+03:00",
+          "stop": "2026-09-14T04:30:00+03:00",
+          "title": "NFL GameDay Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T04:30:00+03:00",
+          "stop": "2026-09-14T05:30:00+03:00",
+          "title": "NFL GameDay Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T05:30:00+03:00",
+          "stop": "2026-09-14T06:30:00+03:00",
+          "title": "NFL GameDay Highlights",
           "description": "L",
           "category": null
         }

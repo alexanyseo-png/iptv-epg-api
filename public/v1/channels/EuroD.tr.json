@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T02:40:00+03:00",
-          "stop": "2026-09-11T05:10:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T05:10:00+03:00",
-          "stop": "2026-09-11T07:00:00+03:00",
-          "title": "Kuzey Güney.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T07:00:00+03:00",
-          "stop": "2026-09-11T09:00:00+03:00",
-          "title": "Küçük Ağa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T09:00:00+03:00",
-          "stop": "2026-09-11T11:50:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T11:50:00+03:00",
-          "stop": "2026-09-11T14:00:00+03:00",
-          "title": "Daha 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T14:00:00+03:00",
-          "stop": "2026-09-11T16:30:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T16:30:00+03:00",
-          "stop": "2026-09-11T18:15:00+03:00",
-          "title": "Arka Sokaklar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T18:15:00+03:00",
-          "stop": "2026-09-11T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T19:00:00+03:00",
-          "stop": "2026-09-11T20:00:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T20:00:00+03:00",
-          "stop": "2026-09-11T22:30:00+03:00",
-          "title": "Kuralsız Sokaklar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T22:30:00+03:00",
-          "stop": "2026-09-12T02:40:00+03:00",
-          "title": "Kuralsız Sokaklar.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -232,6 +150,74 @@
           "start": "2026-09-13T20:00:00+03:00",
           "stop": "2026-09-14T04:55:00+03:00",
           "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T04:55:00+03:00",
+          "stop": "2026-09-14T07:00:00+03:00",
+          "title": "Kuzey Güney.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T07:00:00+03:00",
+          "stop": "2026-09-14T09:00:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T09:00:00+03:00",
+          "stop": "2026-09-14T11:50:00+03:00",
+          "title": "Yaprak Dökümü.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T11:50:00+03:00",
+          "stop": "2026-09-14T14:00:00+03:00",
+          "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T14:00:00+03:00",
+          "stop": "2026-09-14T16:30:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T16:30:00+03:00",
+          "stop": "2026-09-14T18:15:00+03:00",
+          "title": "Arka Sokaklar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T18:15:00+03:00",
+          "stop": "2026-09-14T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T19:00:00+03:00",
+          "stop": "2026-09-14T20:00:00+03:00",
+          "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T20:00:00+03:00",
+          "stop": "2026-09-15T02:40:00+03:00",
+          "title": "Uzak Şehir.",
           "description": "L",
           "category": null
         }

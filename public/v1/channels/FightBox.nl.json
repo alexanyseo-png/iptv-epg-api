@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T03:20:00+03:00",
-          "stop": "2026-09-11T06:10:00+03:00",
-          "title": "Смешанные единоборства. Lux Fight League 032 в Гвадалахаре, Мексика",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T06:10:00+03:00",
-          "stop": "2026-09-11T07:00:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T07:00:00+03:00",
-          "stop": "2026-09-11T11:45:00+03:00",
-          "title": "Кикбоксинг. WGP Kickboxing Brazil, 27 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T11:45:00+03:00",
-          "stop": "2026-09-11T15:05:00+03:00",
-          "title": "Бокс. FOX Sports Africa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T15:05:00+03:00",
-          "stop": "2026-09-11T16:05:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T16:05:00+03:00",
-          "stop": "2026-09-11T20:25:00+03:00",
-          "title": "Смешанные единоборства. NFC 19 в Эссене, Германия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T20:25:00+03:00",
-          "stop": "2026-09-11T22:00:00+03:00",
-          "title": "Кикбоксинг. Enfusion Talents 119 в Вуппертале, Германия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T22:00:00+03:00",
-          "stop": "2026-09-12T02:05:00+03:00",
-          "title": "Бокс голыми кулаками. BKB 31 в Лондоне, Великобритания",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -232,6 +171,18 @@
           "start": "2026-09-13T22:10:00+03:00",
           "stop": "2026-09-14T01:30:00+03:00",
           "title": "Смешанные единоборства. We Love MMA 71 в Ганновере, Германия",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T01:30:00+03:00",
+          "stop": "2026-09-14T02:30:00+03:00",
+          "title": "Бокс голыми кулаками. BKB 31 в Лондоне, Великобритания",
           "description": "L",
           "category": null
         }

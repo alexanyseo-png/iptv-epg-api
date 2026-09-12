@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 45,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T01:45:00+03:00",
-          "stop": "2026-09-11T02:15:00+03:00",
-          "title": "Ligue 1 Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T02:15:00+03:00",
-          "stop": "2026-09-11T04:00:00+03:00",
-          "title": "Parkurové skákání (38)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T04:00:00+03:00",
-          "stop": "2026-09-11T05:30:00+03:00",
-          "title": "Parkurové skákání (36)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T05:30:00+03:00",
-          "stop": "2026-09-11T08:00:00+03:00",
-          "title": "Parkurové skákání (37)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T08:00:00+03:00",
-          "stop": "2026-09-11T10:00:00+03:00",
-          "title": "Olympique Lyon – AJ Auxerre",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T10:00:00+03:00",
-          "stop": "2026-09-11T12:00:00+03:00",
-          "title": "Angers SCO – Stade Rennes",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T12:00:00+03:00",
-          "stop": "2026-09-11T14:00:00+03:00",
-          "title": "Le Havre AC – Stade Brestois",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T14:00:00+03:00",
-          "stop": "2026-09-11T16:00:00+03:00",
-          "title": "FC Nantes – AS Nancy-Lorraine",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T16:00:00+03:00",
-          "stop": "2026-09-11T18:00:00+03:00",
-          "title": "Millwall FC – Newcastle United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T18:00:00+03:00",
-          "stop": "2026-09-11T19:45:00+03:00",
-          "title": "RC Lens – FC Lorient",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T19:45:00+03:00",
-          "stop": "2026-09-11T20:30:00+03:00",
-          "title": "Ligue 1 Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T20:30:00+03:00",
-          "stop": "2026-09-11T21:00:00+03:00",
-          "title": "Ligue 1 Preview (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T21:00:00+03:00",
-          "stop": "2026-09-11T23:40:00+03:00",
-          "title": "KSW 119: Kaczmarczyk vs. Brichta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T23:40:00+03:00",
-          "stop": "2026-09-12T02:40:00+03:00",
-          "title": "KSW 120: Haratyk vs. Leśko",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -337,6 +234,46 @@
           "start": "2026-09-13T23:00:00+03:00",
           "stop": "2026-09-14T01:00:00+03:00",
           "title": "Chelsea FC – Leeds United",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T01:00:00+03:00",
+          "stop": "2026-09-14T03:00:00+03:00",
+          "title": "Wehen Wiesbaden – Bayer Leverkusen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T03:00:00+03:00",
+          "stop": "2026-09-14T05:00:00+03:00",
+          "title": "VfL Osnabrück – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T05:00:00+03:00",
+          "stop": "2026-09-14T08:00:00+03:00",
+          "title": "HEBC Hamburg – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T08:00:00+03:00",
+          "stop": "2026-09-14T10:00:00+03:00",
+          "title": "Le Mans FC – RC Lens",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T10:00:00+03:00",
+          "stop": "2026-09-14T12:00:00+03:00",
+          "title": "Lille OSC – ES Troyes",
           "description": "L",
           "category": null
         }

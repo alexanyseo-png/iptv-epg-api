@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 19,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T07:00:00+03:00",
-          "stop": "2026-09-11T18:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T18:40:00+03:00",
-          "stop": "2026-09-11T19:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T19:00:00+03:00",
-          "stop": "2026-09-11T21:30:00+03:00",
-          "title": "Live 2. BL: Freitags-Konferenz, 5. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T21:30:00+03:00",
-          "stop": "2026-09-11T22:15:00+03:00",
-          "title": "Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 5. Spieltag, Freitag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T22:15:00+03:00",
-          "stop": "2026-09-12T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -147,7 +107,7 @@
         {
           "start": "2026-09-13T13:40:00+03:00",
           "stop": "2026-09-13T14:00:00+03:00",
-          "title": "Es foholgt: Live 2. Bundesliga",
+          "title": "Es folgt: Live 2. Bundesliga",
           "description": "L",
           "category": null
         },
@@ -182,6 +142,18 @@
         {
           "start": "2026-09-13T22:30:00+03:00",
           "stop": "2026-09-14T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T07:00:00+03:00",
+          "stop": "2026-09-15T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

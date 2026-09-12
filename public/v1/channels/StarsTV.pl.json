@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T01:00:00+03:00",
-          "stop": "2026-09-11T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T04:00:00+03:00",
-          "stop": "2026-09-11T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T08:00:00+03:00",
-          "stop": "2026-09-11T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T09:00:00+03:00",
-          "stop": "2026-09-12T01:00:00+03:00",
-          "title": "Top 200 Party 80's",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -106,6 +73,46 @@
           "start": "2026-09-13T09:00:00+03:00",
           "stop": "2026-09-14T01:00:00+03:00",
           "title": "Top 200 Party 00's Hits",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T01:00:00+03:00",
+          "stop": "2026-09-14T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T04:00:00+03:00",
+          "stop": "2026-09-14T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T08:00:00+03:00",
+          "stop": "2026-09-14T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T09:00:00+03:00",
+          "stop": "2026-09-14T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T10:00:00+03:00",
+          "stop": "2026-09-15T01:00:00+03:00",
+          "title": "Top 160 American Hits vs British Hits",
           "description": "L",
           "category": null
         }

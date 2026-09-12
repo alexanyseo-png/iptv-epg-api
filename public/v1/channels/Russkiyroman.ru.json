@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-09-11",
-      "programs": [
-        {
-          "start": "2026-09-11T00:45:00+03:00",
-          "stop": "2026-09-11T02:25:00+03:00",
-          "title": "Любовь из пробирки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T02:25:00+03:00",
-          "stop": "2026-09-11T04:10:00+03:00",
-          "title": "Простая девчонка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T04:10:00+03:00",
-          "stop": "2026-09-11T07:40:00+03:00",
-          "title": "Поворот на счастье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T07:40:00+03:00",
-          "stop": "2026-09-11T09:20:00+03:00",
-          "title": "Молодожёны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T09:20:00+03:00",
-          "stop": "2026-09-11T11:15:00+03:00",
-          "title": "Лидия.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T11:15:00+03:00",
-          "stop": "2026-09-11T14:30:00+03:00",
-          "title": "Выйти замуж любой ценой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T14:30:00+03:00",
-          "stop": "2026-09-11T17:50:00+03:00",
-          "title": "Женщины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T17:50:00+03:00",
-          "stop": "2026-09-11T19:30:00+03:00",
-          "title": "Заезжий молодец.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T19:30:00+03:00",
-          "stop": "2026-09-11T22:50:00+03:00",
-          "title": "Ошибка памяти.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-11T22:50:00+03:00",
-          "stop": "2026-09-12T00:20:00+03:00",
-          "title": "Садовник.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-12",
       "programs": [
@@ -204,6 +129,25 @@
           "start": "2026-09-13T21:40:00+03:00",
           "stop": "2026-09-14T00:55:00+03:00",
           "title": "Теория невероятности.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T00:55:00+03:00",
+          "stop": "2026-09-14T04:05:00+03:00",
+          "title": "Деревенская история.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T04:05:00+03:00",
+          "stop": "2026-09-14T05:05:00+03:00",
+          "title": "Штамп в паспорте.",
           "description": "L",
           "category": null
         }

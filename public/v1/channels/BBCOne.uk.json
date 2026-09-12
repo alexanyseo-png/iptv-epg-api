@@ -8,52 +8,475 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-11T04:45:02.602033+00:00",
+  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 65,
   "days": [
     {
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "programs": [
         {
-          "start": "2026-09-11T00:00:00+03:00",
-          "stop": "2026-09-11T00:30:00+03:00",
+          "start": "2026-09-12T00:00:00+03:00",
+          "stop": "2026-09-12T00:30:00+03:00",
           "title": "BBC News and Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-11T00:30:00+03:00",
-          "stop": "2026-09-11T00:40:00+03:00",
+          "start": "2026-09-12T00:30:00+03:00",
+          "stop": "2026-09-12T00:40:00+03:00",
           "title": "BBC London.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-11T00:40:00+03:00",
-          "stop": "2026-09-11T01:40:00+03:00",
-          "title": "MOTD: UEFA Champions League.",
+          "start": "2026-09-12T00:40:00+03:00",
+          "stop": "2026-09-12T01:55:00+03:00",
+          "title": "RuPaul's Drag Race UK.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-11T01:40:00+03:00",
-          "stop": "2026-09-11T02:40:00+03:00",
-          "title": "The Repair Shop.",
+          "start": "2026-09-12T01:55:00+03:00",
+          "stop": "2026-09-12T02:45:00+03:00",
+          "title": "Alan Carr's Picture Slam.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-11T02:40:00+03:00",
-          "stop": "2026-09-11T02:45:00+03:00",
+          "start": "2026-09-12T02:45:00+03:00",
+          "stop": "2026-09-12T02:50:00+03:00",
           "title": "Weather For the Week Ahead.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-11T02:45:00+03:00",
-          "stop": "2026-09-11T03:45:00+03:00",
+          "start": "2026-09-12T02:50:00+03:00",
+          "stop": "2026-09-12T08:00:00+03:00",
           "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T08:00:00+03:00",
+          "stop": "2026-09-12T12:00:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T12:00:00+03:00",
+          "stop": "2026-09-12T13:30:00+03:00",
+          "title": "▶️ Saturday Kitchen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T13:30:00+03:00",
+          "stop": "2026-09-12T14:00:00+03:00",
+          "title": "Mary at 90: A Lifetime of Cooking.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T14:00:00+03:00",
+          "stop": "2026-09-12T14:45:00+03:00",
+          "title": "Bargain Hunt. \"Hele 13\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T14:45:00+03:00",
+          "stop": "2026-09-12T15:00:00+03:00",
+          "title": "The Football Interview.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T15:00:00+03:00",
+          "stop": "2026-09-12T15:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T15:15:00+03:00",
+          "stop": "2026-09-12T15:45:00+03:00",
+          "title": "Wallace & Gromit: A Close Shave.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T15:45:00+03:00",
+          "stop": "2026-09-12T16:15:00+03:00",
+          "title": "The Gruffalo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T16:15:00+03:00",
+          "stop": "2026-09-12T16:45:00+03:00",
+          "title": "The Gruffalo's Child.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T16:45:00+03:00",
+          "stop": "2026-09-12T17:45:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T17:45:00+03:00",
+          "stop": "2026-09-12T19:35:00+03:00",
+          "title": "Final Score.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T19:35:00+03:00",
+          "stop": "2026-09-12T19:45:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T19:45:00+03:00",
+          "stop": "2026-09-12T19:55:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T19:55:00+03:00",
+          "stop": "2026-09-12T22:15:00+03:00",
+          "title": "▶️ Athletics: The Ultimate Championships.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T22:15:00+03:00",
+          "stop": "2026-09-12T23:00:00+03:00",
+          "title": "The Celebrity Inner Circle.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-12T23:00:00+03:00",
+          "stop": "2026-09-13T00:40:00+03:00",
+          "title": "BBC Proms. \"Last Night of the Proms: The Finale\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-13",
+      "programs": [
+        {
+          "start": "2026-09-13T00:40:00+03:00",
+          "stop": "2026-09-13T01:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T01:00:00+03:00",
+          "stop": "2026-09-13T02:25:00+03:00",
+          "title": "Match of the Day.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T02:25:00+03:00",
+          "stop": "2026-09-13T02:30:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T02:30:00+03:00",
+          "stop": "2026-09-13T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T08:00:00+03:00",
+          "stop": "2026-09-13T09:05:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T09:05:00+03:00",
+          "stop": "2026-09-13T10:30:00+03:00",
+          "title": "Match of the Day.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T10:30:00+03:00",
+          "stop": "2026-09-13T11:00:00+03:00",
+          "title": "Politics England.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T11:00:00+03:00",
+          "stop": "2026-09-13T12:00:00+03:00",
+          "title": "Sunday with Laura Kuenssberg.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T12:00:00+03:00",
+          "stop": "2026-09-13T16:00:00+03:00",
+          "title": "▶️ Marathon: Great North Run. \"Live Coverage\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:00:00+03:00",
+          "stop": "2026-09-13T16:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:15:00+03:00",
+          "stop": "2026-09-13T16:50:00+03:00",
+          "title": "Songs of Praise.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T16:50:00+03:00",
+          "stop": "2026-09-13T18:35:00+03:00",
+          "title": "Film: Back To the Future II.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:35:00+03:00",
+          "stop": "2026-09-13T18:50:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T18:50:00+03:00",
+          "stop": "2026-09-13T19:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T19:00:00+03:00",
+          "stop": "2026-09-13T19:30:00+03:00",
+          "title": "▶️ Athletics: The Ultimate Championships.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T19:30:00+03:00",
+          "stop": "2026-09-13T22:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T22:00:00+03:00",
+          "stop": "2026-09-13T23:00:00+03:00",
+          "title": "Antiques Roadshow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-13T23:00:00+03:00",
+          "stop": "2026-09-14T00:00:00+03:00",
+          "title": "Vigil.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-14",
+      "programs": [
+        {
+          "start": "2026-09-14T00:00:00+03:00",
+          "stop": "2026-09-14T00:25:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T00:25:00+03:00",
+          "stop": "2026-09-14T00:30:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T00:30:00+03:00",
+          "stop": "2026-09-14T01:20:00+03:00",
+          "title": "Match of the Day.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T01:20:00+03:00",
+          "stop": "2026-09-14T03:30:00+03:00",
+          "title": "Film: Just Mercy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T03:30:00+03:00",
+          "stop": "2026-09-14T03:35:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T03:35:00+03:00",
+          "stop": "2026-09-14T08:00:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T08:00:00+03:00",
+          "stop": "2026-09-14T11:30:00+03:00",
+          "title": "Breakfast.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T11:30:00+03:00",
+          "stop": "2026-09-14T12:45:00+03:00",
+          "title": "Morning Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T12:45:00+03:00",
+          "stop": "2026-09-14T13:30:00+03:00",
+          "title": "Rip Off Britain.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T13:30:00+03:00",
+          "stop": "2026-09-14T14:15:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T14:15:00+03:00",
+          "stop": "2026-09-14T15:00:00+03:00",
+          "title": "Bargain Hunt. \"Taunton 13\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T15:00:00+03:00",
+          "stop": "2026-09-14T15:35:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T15:35:00+03:00",
+          "stop": "2026-09-14T15:45:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T15:45:00+03:00",
+          "stop": "2026-09-14T16:00:00+03:00",
+          "title": "BBC News at One.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T16:00:00+03:00",
+          "stop": "2026-09-14T16:45:00+03:00",
+          "title": "Money for Nothing.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T16:45:00+03:00",
+          "stop": "2026-09-14T17:45:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T17:45:00+03:00",
+          "stop": "2026-09-14T18:30:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T18:30:00+03:00",
+          "stop": "2026-09-14T19:15:00+03:00",
+          "title": "Antiques Road Trip.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T19:15:00+03:00",
+          "stop": "2026-09-14T20:00:00+03:00",
+          "title": "New: Pointless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T20:00:00+03:00",
+          "stop": "2026-09-14T20:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T20:30:00+03:00",
+          "stop": "2026-09-14T21:00:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T21:00:00+03:00",
+          "stop": "2026-09-14T21:30:00+03:00",
+          "title": "The One Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T21:30:00+03:00",
+          "stop": "2026-09-14T22:00:00+03:00",
+          "title": "EastEnders.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T22:00:00+03:00",
+          "stop": "2026-09-14T23:00:00+03:00",
+          "title": "Panorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T23:00:00+03:00",
+          "stop": "2026-09-15T00:00:00+03:00",
+          "title": "Vigil.",
           "description": "L",
           "category": null
         }
