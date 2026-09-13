@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
+  "generatedAt": "2026-09-13T04:53:14.962327+00:00",
   "available": true,
-  "programmeCount": 44,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-09-12",
-      "programs": [
-        {
-          "start": "2026-09-12T01:25:00+03:00",
-          "stop": "2026-09-12T03:30:00+03:00",
-          "title": "Der Staatsfeind Nr. 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T03:30:00+03:00",
-          "stop": "2026-09-12T05:20:00+03:00",
-          "title": "Nur noch 60 Sekunden.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T05:20:00+03:00",
-          "stop": "2026-09-12T05:35:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T05:35:00+03:00",
-          "stop": "2026-09-12T07:00:00+03:00",
-          "title": "16 Uhr 50 ab Paddington.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T07:00:00+03:00",
-          "stop": "2026-09-12T07:45:00+03:00",
-          "title": "Ein Abend mit... - Wiedemann und Berg.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T07:45:00+03:00",
-          "stop": "2026-09-12T09:15:00+03:00",
-          "title": "127 Hours.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T09:15:00+03:00",
-          "stop": "2026-09-12T11:10:00+03:00",
-          "title": "Black Swan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T11:10:00+03:00",
-          "stop": "2026-09-12T12:50:00+03:00",
-          "title": "Stoker.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T12:50:00+03:00",
-          "stop": "2026-09-12T14:45:00+03:00",
-          "title": "Auslöschung.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T14:45:00+03:00",
-          "stop": "2026-09-12T16:35:00+03:00",
-          "title": "Behind Enemy Lines.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T16:35:00+03:00",
-          "stop": "2026-09-12T19:10:00+03:00",
-          "title": "The Dark Knight.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T19:10:00+03:00",
-          "stop": "2026-09-12T21:15:00+03:00",
-          "title": "L'ultimo re di Scozia.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T21:15:00+03:00",
-          "stop": "2026-09-12T22:55:00+03:00",
-          "title": "Spiel auf Zeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T22:55:00+03:00",
-          "stop": "2026-09-13T00:35:00+03:00",
-          "title": "Die Regeln der Gewalt.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-13",
       "programs": [
@@ -330,6 +227,102 @@
           "start": "2026-09-14T23:05:00+03:00",
           "stop": "2026-09-15T01:15:00+03:00",
           "title": "Der Sternwanderer.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-15",
+      "programs": [
+        {
+          "start": "2026-09-15T01:15:00+03:00",
+          "stop": "2026-09-15T03:40:00+03:00",
+          "title": "Transformers - Die Rache.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T03:40:00+03:00",
+          "stop": "2026-09-15T06:00:00+03:00",
+          "title": "The Dark Knight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T06:00:00+03:00",
+          "stop": "2026-09-15T07:00:00+03:00",
+          "title": "Der Wilde Westen: Die ersten 100 Jahre.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T07:00:00+03:00",
+          "stop": "2026-09-15T08:45:00+03:00",
+          "title": "Die Zeitmaschine.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T08:45:00+03:00",
+          "stop": "2026-09-15T09:15:00+03:00",
+          "title": "New York on Set.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T09:15:00+03:00",
+          "stop": "2026-09-15T11:00:00+03:00",
+          "title": "Equilibrium.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T11:00:00+03:00",
+          "stop": "2026-09-15T12:35:00+03:00",
+          "title": "Running Man.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T12:35:00+03:00",
+          "stop": "2026-09-15T14:35:00+03:00",
+          "title": "I, Robot.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T14:35:00+03:00",
+          "stop": "2026-09-15T17:00:00+03:00",
+          "title": "A.I. - Künstliche Intelligenz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T17:00:00+03:00",
+          "stop": "2026-09-15T19:00:00+03:00",
+          "title": "G.I. Joe - Geheimauftrag Cobra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T19:00:00+03:00",
+          "stop": "2026-09-15T21:15:00+03:00",
+          "title": "Der Staatsfeind Nr. 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T21:15:00+03:00",
+          "stop": "2026-09-15T23:20:00+03:00",
+          "title": "From Hell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T23:20:00+03:00",
+          "stop": "2026-09-16T01:15:00+03:00",
+          "title": "Gone Baby Gone - Kein Kinderspiel.",
           "description": "L",
           "category": null
         }

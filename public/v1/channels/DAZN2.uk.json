@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
+  "generatedAt": "2026-09-13T04:53:14.962327+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-09-12",
-      "programs": [
-        {
-          "start": "2026-09-12T00:00:00+03:00",
-          "stop": "2026-09-12T00:20:00+03:00",
-          "title": "LALIGA Top Goals 26/27 – Episode 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T00:20:00+03:00",
-          "stop": "2026-09-12T01:00:00+03:00",
-          "title": "FC Bayern World Squad 2025",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T01:00:00+03:00",
-          "stop": "2026-09-12T09:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T09:00:00+03:00",
-          "stop": "2026-09-12T12:45:00+03:00",
-          "title": "Bundesliga 26/27 – 1. FC Union Berlin – FC Schalke 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T12:45:00+03:00",
-          "stop": "2026-09-12T14:45:00+03:00",
-          "title": "Frauen Bundesliga 26/27 – RB Leipzig – 1. FC Nürnberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T14:45:00+03:00",
-          "stop": "2026-09-12T17:00:00+03:00",
-          "title": "Frauen Bundesliga 26/27 – 1. FC Köln – 1. FC Union Berlin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T17:00:00+03:00",
-          "stop": "2026-09-12T19:15:00+03:00",
-          "title": "LaLiga 26/27 – CA Osasuna – Espanyol Barcelona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T19:15:00+03:00",
-          "stop": "2026-09-12T21:45:00+03:00",
-          "title": "LaLiga 26/27 – Athletic Bilbao – FC Elche",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-12T21:45:00+03:00",
-          "stop": "2026-09-13T01:00:00+03:00",
-          "title": "LaLiga 26/27 – Real Madrid – Rayo Vallecano",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-13",
       "programs": [
@@ -148,6 +80,13 @@
           "start": "2026-09-14T09:00:00+03:00",
           "stop": "2026-09-14T11:00:00+03:00",
           "title": "Bundesliga 26/27 – SV Elversberg – FC Bayern München",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T11:00:00+03:00",
+          "stop": "2026-09-14T15:00:00+03:00",
+          "title": "Frauen Bundesliga 26/27 – VFB Stuttgart – VFL Wolfsburg",
           "description": "L",
           "category": null
         }

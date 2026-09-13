@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-12T04:39:23.334450+00:00",
+  "generatedAt": "2026-09-13T04:53:14.962327+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-09-12",
-      "programs": [
-        {
-          "start": "2026-09-12T00:00:00+03:00",
-          "stop": "2026-09-13T00:00:00+03:00",
-          "title": "Gece Bakışı",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-13",
       "programs": [
@@ -295,6 +283,34 @@
           "start": "2026-09-14T10:00:00+03:00",
           "stop": "2026-09-14T13:00:00+03:00",
           "title": "Satır Başı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T13:00:00+03:00",
+          "stop": "2026-09-14T13:50:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T13:50:00+03:00",
+          "stop": "2026-09-14T13:55:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T13:55:00+03:00",
+          "stop": "2026-09-14T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-14T14:00:00+03:00",
+          "stop": "2026-09-14T15:00:00+03:00",
+          "title": "Öğle Ana Haber",
           "description": "L",
           "category": null
         }
