@@ -8,8 +8,35 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-14T05:00:37.269041+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
+  "available": true,
+  "programmeCount": 3,
+  "days": [
+    {
+      "date": "2026-09-15",
+      "programs": [
+        {
+          "start": "2026-09-15T00:40:00+03:00",
+          "stop": "2026-09-15T01:30:00+03:00",
+          "title": "Радиокитоб. Алишер Навои.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T01:30:00+03:00",
+          "stop": "2026-09-15T02:30:00+03:00",
+          "title": "Ishq ertagi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T02:30:00+03:00",
+          "stop": "2026-09-15T03:30:00+03:00",
+          "title": "Do'stimning to'yi.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

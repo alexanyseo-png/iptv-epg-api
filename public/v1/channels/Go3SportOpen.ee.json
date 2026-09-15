@@ -8,66 +8,328 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-14T05:00:37.269041+00:00",
+  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 44,
   "days": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "programs": [
         {
-          "start": "2026-09-14T01:35:00+03:00",
-          "stop": "2026-09-14T03:40:00+03:00",
+          "start": "2026-09-15T00:05:00+03:00",
+          "stop": "2026-09-15T01:05:00+03:00",
+          "title": "MXGP. China. Race 1 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T01:05:00+03:00",
+          "stop": "2026-09-15T02:10:00+03:00",
+          "title": "MXGP. China. Race 2 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T02:10:00+03:00",
+          "stop": "2026-09-15T05:05:00+03:00",
+          "title": "Football: LaLiga. Real Sociedad – Atlético Madrid (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T05:05:00+03:00",
+          "stop": "2026-09-15T07:00:00+03:00",
+          "title": "Football: LaLiga. Villarreal – Real Betis (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T07:00:00+03:00",
+          "stop": "2026-09-15T08:55:00+03:00",
+          "title": "Football: Serie A. MD4 Sassuolo – Juventus 13/9/26 (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T08:55:00+03:00",
+          "stop": "2026-09-15T10:55:00+03:00",
+          "title": "Football: Ligue 1. Rennes – Marseille (Ligue 1 McDonald's), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T10:55:00+03:00",
+          "stop": "2026-09-15T11:55:00+03:00",
+          "title": "MXGP. MX2. China. Race 1 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T11:55:00+03:00",
+          "stop": "2026-09-15T12:55:00+03:00",
+          "title": "MXGP. MX2. China. Race 2 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T12:55:00+03:00",
+          "stop": "2026-09-15T14:55:00+03:00",
+          "title": "Basketball: FIBA Women's World Cup. 3rd Place Game (Basketball: Women's World Cup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T14:55:00+03:00",
+          "stop": "2026-09-15T17:05:00+03:00",
           "title": "Basketball: FIBA Women's World Cup. Final (Basketball: Women's World Cup), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T03:40:00+03:00",
-          "stop": "2026-09-14T05:10:00+03:00",
+          "start": "2026-09-15T17:05:00+03:00",
+          "stop": "2026-09-15T19:00:00+03:00",
+          "title": "Football: Serie A. Torino – Roma (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T19:00:00+03:00",
+          "stop": "2026-09-15T20:55:00+03:00",
+          "title": "Football: Serie A. Inter – Udinese (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T20:55:00+03:00",
+          "stop": "2026-09-15T22:15:00+03:00",
+          "title": "MotoGP. San Marino GP. Moto2 Race (Moto2: Gran Premio di San Marino e della Riviera di Rimini), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T22:15:00+03:00",
+          "stop": "2026-09-15T23:40:00+03:00",
+          "title": "MotoGP. San Marino GP. MotoGP Race (FIM MotoGP: Grand Prix of San Marino), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T23:40:00+03:00",
+          "stop": "2026-09-16T00:35:00+03:00",
           "title": "Cycling: Arctic Race of Norway Highlights (Cycling: Arctic Race of Norway), Norvegija, 2026",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "programs": [
         {
-          "start": "2026-09-14T05:10:00+03:00",
-          "stop": "2026-09-14T07:00:00+03:00",
-          "title": "Football: Ligue 1. Brest – PSG (Ligue 1 McDonald's), 2026",
+          "start": "2026-09-16T00:35:00+03:00",
+          "stop": "2026-09-16T02:30:00+03:00",
+          "title": "Football: LaLiga. Rayo Vallecano – Espanyol (LaLiga), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T07:00:00+03:00",
-          "stop": "2026-09-14T09:50:00+03:00",
-          "title": "Motorsport: FIM Speedway Grand Prix. Round 9. GP of Denmark – Vojen (Speedway: Danish FIM Speedway Grand Prix), 2026",
+          "start": "2026-09-16T02:30:00+03:00",
+          "stop": "2026-09-16T05:05:00+03:00",
+          "title": "Football: Bundesliga. Hoffenheim – Stuttgart (1. Bundesliga), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T09:50:00+03:00",
-          "stop": "2026-09-14T11:45:00+03:00",
-          "title": "Football: LaLiga. Levante – Barcelona (LaLiga), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T11:45:00+03:00",
-          "stop": "2026-09-14T13:35:00+03:00",
+          "start": "2026-09-16T05:05:00+03:00",
+          "stop": "2026-09-16T07:00:00+03:00",
           "title": "Football: Serie A. Napoli – Bologna (Calcio: Campionato Italiano Serie A), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T13:35:00+03:00",
-          "stop": "2026-09-14T16:40:00+03:00",
-          "title": "FIGHT SPORTS: One Championship. ONE Friday Fights 170 (ONE Championship), 2025",
+          "start": "2026-09-16T07:00:00+03:00",
+          "stop": "2026-09-16T08:55:00+03:00",
+          "title": "Football: LaLiga. Real Sociedad – Atlético Madrid (LaLiga), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T16:40:00+03:00",
-          "stop": "2026-09-14T18:30:00+03:00",
-          "title": "Football: Bundesliga. Hoffenheim – Stuttgart (1. Bundesliga), 2026",
+          "start": "2026-09-16T08:55:00+03:00",
+          "stop": "2026-09-16T10:50:00+03:00",
+          "title": "Football: Serie A. Inter – Udinese (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T10:50:00+03:00",
+          "stop": "2026-09-16T11:20:00+03:00",
+          "title": "GP Confidential (GP Confidential), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T11:20:00+03:00",
+          "stop": "2026-09-16T12:20:00+03:00",
+          "title": "MXGP. China. Race 1 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T12:20:00+03:00",
+          "stop": "2026-09-16T13:30:00+03:00",
+          "title": "MXGP. China. Race 2 (FIM Motocross World Championship – China), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T13:30:00+03:00",
+          "stop": "2026-09-16T14:30:00+03:00",
+          "title": "FIA World Rally Championship. Rally Chile SS14 BioBio 1 (WRC: Rally Chile), Čilė, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T14:30:00+03:00",
+          "stop": "2026-09-16T15:20:00+03:00",
+          "title": "FIA World Rally Championship. Rally Chile SS15 Carampangue 2 (WRC: Rally Chile), Čilė, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T15:20:00+03:00",
+          "stop": "2026-09-16T16:50:00+03:00",
+          "title": "FIA World Rally Championship. Rally Chile SS16 BioBio 2 (WRC: Rally Chile), Čilė, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T16:50:00+03:00",
+          "stop": "2026-09-16T18:50:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. ZSC Lions – Bern (National League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T18:50:00+03:00",
+          "stop": "2026-09-16T20:45:00+03:00",
+          "title": "Football: LaLiga. Elche – Real Madrid (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T20:45:00+03:00",
+          "stop": "2026-09-16T22:45:00+03:00",
+          "title": "Basketball: FIBA Women's World Cup. 3rd Place Game (Basketball: Women's World Cup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T22:45:00+03:00",
+          "stop": "2026-09-17T00:55:00+03:00",
+          "title": "Basketball: FIBA Women's World Cup. Final (Basketball: Women's World Cup), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "programs": [
+        {
+          "start": "2026-09-17T00:55:00+03:00",
+          "stop": "2026-09-17T01:55:00+03:00",
+          "title": "Cycling: Deutschland Deine Tour Highlights (Deutschland Deine Tour Highlights), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T01:55:00+03:00",
+          "stop": "2026-09-17T03:15:00+03:00",
+          "title": "MotoGP. San Marino GP. Moto2 Race (Moto2: Gran Premio di San Marino e della Riviera di Rimini), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T03:15:00+03:00",
+          "stop": "2026-09-17T05:05:00+03:00",
+          "title": "MotoGP. San Marino GP. MotoGP Race (FIM MotoGP: Grand Prix of San Marino), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T05:05:00+03:00",
+          "stop": "2026-09-17T07:00:00+03:00",
+          "title": "Football: LaLiga. Real Madrid – Rayo Vallecano (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T07:00:00+03:00",
+          "stop": "2026-09-17T08:55:00+03:00",
+          "title": "Football: Ligue 1. Brest – PSG (Ligue 1 McDonald's), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T08:55:00+03:00",
+          "stop": "2026-09-17T10:50:00+03:00",
+          "title": "Football: Serie A. Lazio – Milan (Calcio: Campionato Italiano Serie A), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T10:50:00+03:00",
+          "stop": "2026-09-17T13:45:00+03:00",
+          "title": "Motorsport: FIM Speedway Grand Prix. Round 9. GP of Denmark – Vojen (Speedway: Danish FIM Speedway Grand Prix), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T13:45:00+03:00",
+          "stop": "2026-09-17T15:40:00+03:00",
+          "title": "Football: LaLiga. Atlético Madrid – Osasuna (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T15:40:00+03:00",
+          "stop": "2026-09-17T17:35:00+03:00",
+          "title": "Football: LaLiga. Barcelona – Racing (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T17:35:00+03:00",
+          "stop": "2026-09-17T18:50:00+03:00",
+          "title": "MotoGP. San Marino GP. Moto3 Race (Moto3: Gran Premio di San Marino e della Riviera di Rimini), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T18:50:00+03:00",
+          "stop": "2026-09-17T20:10:00+03:00",
+          "title": "MotoGP. San Marino GP. Moto2 Race (Moto2: Gran Premio di San Marino e della Riviera di Rimini), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T20:10:00+03:00",
+          "stop": "2026-09-17T21:35:00+03:00",
+          "title": "MotoGP. San Marino GP. MotoGP Race (FIM MotoGP: Grand Prix of San Marino), San Marinas, 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T21:35:00+03:00",
+          "stop": "2026-09-17T23:35:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. ZSC Lions – Bern (National League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T23:35:00+03:00",
+          "stop": "2026-09-18T01:30:00+03:00",
+          "title": "Football: LaLiga. Real Betis – Getafe (LaLiga), 2026",
           "description": "L",
           "category": null
         }

@@ -8,73 +8,412 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-14T05:00:37.269041+00:00",
+  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 56,
   "days": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "programs": [
         {
-          "start": "2026-09-14T02:45:00+03:00",
-          "stop": "2026-09-14T03:00:00+03:00",
-          "title": "České taekwondo ITF (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T03:00:00+03:00",
-          "stop": "2026-09-14T03:15:00+03:00",
-          "title": "DFB-Pokal Highlights (1/2)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T03:15:00+03:00",
-          "stop": "2026-09-14T08:00:00+03:00",
-          "title": "New York Giants – Dallas Cowboys",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T08:00:00+03:00",
-          "stop": "2026-09-14T08:05:00+03:00",
+          "start": "2026-09-15T00:00:00+03:00",
+          "stop": "2026-09-15T00:05:00+03:00",
           "title": "Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T08:05:00+03:00",
-          "stop": "2026-09-14T11:00:00+03:00",
-          "title": "Houston Texans – Buffalo Bills",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T11:00:00+03:00",
-          "stop": "2026-09-14T14:00:00+03:00",
-          "title": "Minnesota Vikings – Green Bay Packers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T14:00:00+03:00",
-          "stop": "2026-09-14T14:05:00+03:00",
-          "title": "Polední Sportovní noviny",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-14T14:05:00+03:00",
-          "stop": "2026-09-14T17:00:00+03:00",
+          "start": "2026-09-15T00:05:00+03:00",
+          "stop": "2026-09-15T03:10:00+03:00",
           "title": "New York Giants – Dallas Cowboys",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-14T17:00:00+03:00",
-          "stop": "2026-09-14T18:30:00+03:00",
+          "start": "2026-09-15T03:10:00+03:00",
+          "stop": "2026-09-15T08:00:00+03:00",
+          "title": "Kansas City Chiefs – Denver Broncos",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T08:00:00+03:00",
+          "stop": "2026-09-15T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T08:05:00+03:00",
+          "stop": "2026-09-15T10:00:00+03:00",
+          "title": "Fidži – Kanada",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T10:00:00+03:00",
+          "stop": "2026-09-15T12:00:00+03:00",
+          "title": "Japonsko – USA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T12:00:00+03:00",
+          "stop": "2026-09-15T14:00:00+03:00",
+          "title": "Lille OSC – ES Troyes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T14:00:00+03:00",
+          "stop": "2026-09-15T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T14:05:00+03:00",
+          "stop": "2026-09-15T17:00:00+03:00",
+          "title": "Kansas City Chiefs – Denver Broncos",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T17:00:00+03:00",
+          "stop": "2026-09-15T19:00:00+03:00",
+          "title": "Le Mans FC – RC Lens",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T19:00:00+03:00",
+          "stop": "2026-09-15T19:30:00+03:00",
+          "title": "GWA Wingfoil World Cup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T19:30:00+03:00",
+          "stop": "2026-09-15T20:00:00+03:00",
+          "title": "DATEV Challenge Roth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T20:00:00+03:00",
+          "stop": "2026-09-15T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T20:05:00+03:00",
+          "stop": "2026-09-15T21:40:00+03:00",
+          "title": "TBV Lemgo Lippe – SG Flensburg-Handewitt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T21:40:00+03:00",
+          "stop": "2026-09-15T21:55:00+03:00",
+          "title": "Běhej lesy – Jizerská",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T21:55:00+03:00",
+          "stop": "2026-09-16T00:35:00+03:00",
+          "title": "Ipswich Town – Arsenal FC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "programs": [
+        {
+          "start": "2026-09-16T00:35:00+03:00",
+          "stop": "2026-09-16T03:30:00+03:00",
+          "title": "Kansas City Chiefs – Denver Broncos",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T03:30:00+03:00",
+          "stop": "2026-09-16T04:00:00+03:00",
+          "title": "SpadePoker show 2026 (33)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T04:00:00+03:00",
+          "stop": "2026-09-16T05:00:00+03:00",
+          "title": "The King's poker (85)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T05:00:00+03:00",
+          "stop": "2026-09-16T06:00:00+03:00",
+          "title": "The King's poker (36)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T06:00:00+03:00",
+          "stop": "2026-09-16T08:00:00+03:00",
           "title": "Füchse Berlin – VfL Gummersbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T08:00:00+03:00",
+          "stop": "2026-09-16T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T08:05:00+03:00",
+          "stop": "2026-09-16T10:00:00+03:00",
+          "title": "Ipswich Town – Arsenal FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T10:00:00+03:00",
+          "stop": "2026-09-16T10:30:00+03:00",
+          "title": "Queen  King of the Court",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T10:30:00+03:00",
+          "stop": "2026-09-16T12:00:00+03:00",
+          "title": "TBV Lemgo Lippe – SG Flensburg-Handewitt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T12:00:00+03:00",
+          "stop": "2026-09-16T14:00:00+03:00",
+          "title": "Red Star FC – FC Metz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T14:00:00+03:00",
+          "stop": "2026-09-16T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T14:05:00+03:00",
+          "stop": "2026-09-16T15:45:00+03:00",
+          "title": "Paris FC – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T15:45:00+03:00",
+          "stop": "2026-09-16T17:30:00+03:00",
+          "title": "FC Lorient – Toulouse FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T17:30:00+03:00",
+          "stop": "2026-09-16T18:00:00+03:00",
+          "title": "SpadePoker show 2026 (33)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T18:00:00+03:00",
+          "stop": "2026-09-16T19:00:00+03:00",
+          "title": "The King's poker (85)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T19:00:00+03:00",
+          "stop": "2026-09-16T20:00:00+03:00",
+          "title": "The King's poker (36)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T20:00:00+03:00",
+          "stop": "2026-09-16T20:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T20:05:00+03:00",
+          "stop": "2026-09-16T21:40:00+03:00",
+          "title": "THW Kiel – TSV Hannover-Burgdorf",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T21:40:00+03:00",
+          "stop": "2026-09-16T21:55:00+03:00",
+          "title": "Run Aréna (8)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T21:55:00+03:00",
+          "stop": "2026-09-17T00:35:00+03:00",
+          "title": "Coventry City – Aston Villa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "programs": [
+        {
+          "start": "2026-09-17T00:35:00+03:00",
+          "stop": "2026-09-17T02:30:00+03:00",
+          "title": "Paris FC – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T02:30:00+03:00",
+          "stop": "2026-09-17T04:30:00+03:00",
+          "title": "Lille OSC – ES Troyes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T04:30:00+03:00",
+          "stop": "2026-09-17T08:00:00+03:00",
+          "title": "Racing Strasbourg – AS Monaco",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T08:00:00+03:00",
+          "stop": "2026-09-17T08:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T08:05:00+03:00",
+          "stop": "2026-09-17T10:00:00+03:00",
+          "title": "Coventry City – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T10:00:00+03:00",
+          "stop": "2026-09-17T10:30:00+03:00",
+          "title": "New Zealand Ambassador´s XV 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T10:30:00+03:00",
+          "stop": "2026-09-17T11:00:00+03:00",
+          "title": "Mystic Skate Cup 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T11:00:00+03:00",
+          "stop": "2026-09-17T12:30:00+03:00",
+          "title": "Füchse Berlin – VfL Gummersbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T12:30:00+03:00",
+          "stop": "2026-09-17T14:00:00+03:00",
+          "title": "THW Kiel – TSV Hannover-Burgdorf",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T14:00:00+03:00",
+          "stop": "2026-09-17T14:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T14:05:00+03:00",
+          "stop": "2026-09-17T15:45:00+03:00",
+          "title": "Fidži – Kanada",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T15:45:00+03:00",
+          "stop": "2026-09-17T17:30:00+03:00",
+          "title": "Japonsko – USA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T17:30:00+03:00",
+          "stop": "2026-09-17T19:20:00+03:00",
+          "title": "Ipswich Town – Arsenal FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T19:20:00+03:00",
+          "stop": "2026-09-17T19:50:00+03:00",
+          "title": "Jackalope",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T19:50:00+03:00",
+          "stop": "2026-09-17T19:55:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T19:55:00+03:00",
+          "stop": "2026-09-17T22:00:00+03:00",
+          "title": "FRISCH AUF! Göppingen – Rhein-Neckar Löwen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T22:00:00+03:00",
+          "stop": "2026-09-17T22:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T22:05:00+03:00",
+          "stop": "2026-09-17T22:35:00+03:00",
+          "title": "The King's poker (92)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T22:35:00+03:00",
+          "stop": "2026-09-17T23:30:00+03:00",
+          "title": "The King's poker (37)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T23:30:00+03:00",
+          "stop": "2026-09-18T00:05:00+03:00",
+          "title": "NFL GameDay (1)",
           "description": "L",
           "category": null
         }

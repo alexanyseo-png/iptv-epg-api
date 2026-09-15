@@ -8,17 +8,83 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-14T05:00:37.269041+00:00",
+  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 9,
   "days": [
     {
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "programs": [
         {
-          "start": "2026-09-14T11:00:00+03:00",
-          "stop": "2026-09-14T19:00:00+03:00",
+          "start": "2026-09-15T11:00:00+03:00",
+          "stop": "2026-09-15T19:30:00+03:00",
           "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T19:30:00+03:00",
+          "stop": "2026-09-15T22:00:00+03:00",
+          "title": "Valioliiga: Liverpool – Fulham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-15T22:00:00+03:00",
+          "stop": "2026-09-16T11:00:00+03:00",
+          "title": "Formula 1: Espanjan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-16",
+      "programs": [
+        {
+          "start": "2026-09-16T11:00:00+03:00",
+          "stop": "2026-09-16T19:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T19:00:00+03:00",
+          "stop": "2026-09-16T22:00:00+03:00",
+          "title": "Formula 1: Espanjan GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-16T22:00:00+03:00",
+          "stop": "2026-09-17T11:00:00+03:00",
+          "title": "Valioliiga: Manchester United – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-17",
+      "programs": [
+        {
+          "start": "2026-09-17T11:00:00+03:00",
+          "stop": "2026-09-17T19:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T19:30:00+03:00",
+          "stop": "2026-09-17T21:55:00+03:00",
+          "title": "Valioliiga: Manchester United – Manchester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-17T21:55:00+03:00",
+          "stop": "2026-09-18T11:00:00+03:00",
+          "title": "EUROpa League: TBA. Match meddelas senare",
           "description": "L",
           "category": null
         }
