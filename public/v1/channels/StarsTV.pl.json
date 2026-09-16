@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
+  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-09-15",
-      "programs": [
-        {
-          "start": "2026-09-15T01:00:00+03:00",
-          "stop": "2026-09-15T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T04:00:00+03:00",
-          "stop": "2026-09-15T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T08:00:00+03:00",
-          "stop": "2026-09-15T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T09:00:00+03:00",
-          "stop": "2026-09-15T10:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T10:00:00+03:00",
-          "stop": "2026-09-16T01:00:00+03:00",
-          "title": "Top 150 Rock Hits of the 90's",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-16",
       "programs": [
@@ -155,6 +115,88 @@
           "start": "2026-09-17T21:00:00+03:00",
           "stop": "2026-09-18T01:00:00+03:00",
           "title": "Top 50 Najlepsze covery",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "programs": [
+        {
+          "start": "2026-09-18T01:00:00+03:00",
+          "stop": "2026-09-18T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T04:00:00+03:00",
+          "stop": "2026-09-18T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T08:00:00+03:00",
+          "stop": "2026-09-18T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T09:00:00+03:00",
+          "stop": "2026-09-18T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T10:00:00+03:00",
+          "stop": "2026-09-18T12:00:00+03:00",
+          "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T12:00:00+03:00",
+          "stop": "2026-09-18T13:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T13:00:00+03:00",
+          "stop": "2026-09-18T14:00:00+03:00",
+          "title": "Best Ballads",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T14:00:00+03:00",
+          "stop": "2026-09-18T15:00:00+03:00",
+          "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T15:00:00+03:00",
+          "stop": "2026-09-18T16:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T16:00:00+03:00",
+          "stop": "2026-09-18T17:00:00+03:00",
+          "title": "Best 00's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T17:00:00+03:00",
+          "stop": "2026-09-19T01:00:00+03:00",
+          "title": "Top 100 Polskie party",
           "description": "L",
           "category": null
         }

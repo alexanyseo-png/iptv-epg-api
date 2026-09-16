@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
+  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
   "available": true,
-  "programmeCount": 43,
+  "programmeCount": 45,
   "days": [
-    {
-      "date": "2026-09-15",
-      "programs": [
-        {
-          "start": "2026-09-15T00:00:00+03:00",
-          "stop": "2026-09-15T02:00:00+03:00",
-          "title": "Artı Futbol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T02:00:00+03:00",
-          "stop": "2026-09-15T03:00:00+03:00",
-          "title": "91",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T03:00:00+03:00",
-          "stop": "2026-09-15T04:00:00+03:00",
-          "title": "Avrupa'da Türk Takımları",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T04:00:00+03:00",
-          "stop": "2026-09-15T05:00:00+03:00",
-          "title": "Arşiv Odası",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T05:00:00+03:00",
-          "stop": "2026-09-15T07:00:00+03:00",
-          "title": "Artı Futbol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T07:00:00+03:00",
-          "stop": "2026-09-15T08:00:00+03:00",
-          "title": "Avrupa'dan Futbol",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T08:00:00+03:00",
-          "stop": "2026-09-15T11:00:00+03:00",
-          "title": "Sabah Sporu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T11:00:00+03:00",
-          "stop": "2026-09-15T14:00:00+03:00",
-          "title": "Spor Ajansı",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T14:00:00+03:00",
-          "stop": "2026-09-15T15:00:00+03:00",
-          "title": "Gün Ortası",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T15:00:00+03:00",
-          "stop": "2026-09-15T17:00:00+03:00",
-          "title": "Spor Gündemi",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T17:00:00+03:00",
-          "stop": "2026-09-15T19:00:00+03:00",
-          "title": "Futbol: Türkiye Kupası",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T19:00:00+03:00",
-          "stop": "2026-09-15T20:00:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T20:00:00+03:00",
-          "stop": "2026-09-15T22:00:00+03:00",
-          "title": "Futbol: Türkiye Kupası",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T22:00:00+03:00",
-          "stop": "2026-09-16T00:00:00+03:00",
-          "title": "Süper Lig Analiz",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-16",
       "programs": [
@@ -322,6 +219,123 @@
         {
           "start": "2026-09-17T22:00:00+03:00",
           "stop": "2026-09-18T00:00:00+03:00",
+          "title": "Takım Oyunu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "programs": [
+        {
+          "start": "2026-09-18T00:00:00+03:00",
+          "stop": "2026-09-18T02:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T02:00:00+03:00",
+          "stop": "2026-09-18T02:30:00+03:00",
+          "title": "Dev Maçlar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T02:30:00+03:00",
+          "stop": "2026-09-18T03:00:00+03:00",
+          "title": "Arşiv Odası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T03:00:00+03:00",
+          "stop": "2026-09-18T05:00:00+03:00",
+          "title": "Transfer Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T05:00:00+03:00",
+          "stop": "2026-09-18T06:00:00+03:00",
+          "title": "Bir Zamanlar Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T06:00:00+03:00",
+          "stop": "2026-09-18T07:00:00+03:00",
+          "title": "Son Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T07:00:00+03:00",
+          "stop": "2026-09-18T08:00:00+03:00",
+          "title": "Dev Maçlar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T08:00:00+03:00",
+          "stop": "2026-09-18T11:00:00+03:00",
+          "title": "Sabah Sporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T11:00:00+03:00",
+          "stop": "2026-09-18T14:00:00+03:00",
+          "title": "Spor Ajansı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T14:00:00+03:00",
+          "stop": "2026-09-18T15:00:00+03:00",
+          "title": "Gün Ortası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T15:00:00+03:00",
+          "stop": "2026-09-18T18:00:00+03:00",
+          "title": "Spor Gündemi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T18:00:00+03:00",
+          "stop": "2026-09-18T20:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T20:00:00+03:00",
+          "stop": "2026-09-18T22:00:00+03:00",
+          "title": "Şampiyonlar Ligi Özel",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T22:00:00+03:00",
+          "stop": "2026-09-18T22:45:00+03:00",
+          "title": "Transfer Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T22:45:00+03:00",
+          "stop": "2026-09-18T23:00:00+03:00",
+          "title": "Devre Arası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T23:00:00+03:00",
+          "stop": "2026-09-19T00:00:00+03:00",
           "title": "Takım Oyunu",
           "description": "L",
           "category": null

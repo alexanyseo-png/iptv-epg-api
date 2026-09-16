@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-15T04:58:11.654410+00:00",
+  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-09-15",
-      "programs": [
-        {
-          "start": "2026-09-15T01:25:00+03:00",
-          "stop": "2026-09-15T03:15:00+03:00",
-          "title": "Помпеи.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T03:15:00+03:00",
-          "stop": "2026-09-15T05:05:00+03:00",
-          "title": "Мой лучший любовник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T05:05:00+03:00",
-          "stop": "2026-09-15T08:25:00+03:00",
-          "title": "Граф Монте-Кристо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T08:25:00+03:00",
-          "stop": "2026-09-15T10:10:00+03:00",
-          "title": "Полночь на злаковом поле.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T10:10:00+03:00",
-          "stop": "2026-09-15T12:10:00+03:00",
-          "title": "Подарок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T12:10:00+03:00",
-          "stop": "2026-09-15T14:05:00+03:00",
-          "title": "Долгая прогулка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T14:05:00+03:00",
-          "stop": "2026-09-15T16:20:00+03:00",
-          "title": "Паркер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T16:20:00+03:00",
-          "stop": "2026-09-15T18:15:00+03:00",
-          "title": "Жизнь короля.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T18:15:00+03:00",
-          "stop": "2026-09-15T20:00:00+03:00",
-          "title": "Пропавшая.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T20:00:00+03:00",
-          "stop": "2026-09-15T22:30:00+03:00",
-          "title": "Шаолинь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-15T22:30:00+03:00",
-          "stop": "2026-09-16T00:05:00+03:00",
-          "title": "Скрытая угроза.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-16",
       "programs": [
@@ -274,6 +192,102 @@
           "start": "2026-09-17T23:50:00+03:00",
           "stop": "2026-09-18T01:55:00+03:00",
           "title": "Как заработать на убийстве.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-18",
+      "programs": [
+        {
+          "start": "2026-09-18T01:55:00+03:00",
+          "stop": "2026-09-18T03:25:00+03:00",
+          "title": "Скрытая угроза.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T03:25:00+03:00",
+          "stop": "2026-09-18T05:10:00+03:00",
+          "title": "Последний легион.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T05:10:00+03:00",
+          "stop": "2026-09-18T06:50:00+03:00",
+          "title": "Кали.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T06:50:00+03:00",
+          "stop": "2026-09-18T08:40:00+03:00",
+          "title": "Ледяное безмолвие.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T08:40:00+03:00",
+          "stop": "2026-09-18T10:50:00+03:00",
+          "title": "Долина теней.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T10:50:00+03:00",
+          "stop": "2026-09-18T13:20:00+03:00",
+          "title": "Шаолинь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T13:20:00+03:00",
+          "stop": "2026-09-18T15:15:00+03:00",
+          "title": "Рейс навылет.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T15:15:00+03:00",
+          "stop": "2026-09-18T16:50:00+03:00",
+          "title": "Ложный след.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T16:50:00+03:00",
+          "stop": "2026-09-18T18:30:00+03:00",
+          "title": "Джентльмен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T18:30:00+03:00",
+          "stop": "2026-09-18T20:00:00+03:00",
+          "title": "Воздушный бой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T20:00:00+03:00",
+          "stop": "2026-09-18T22:00:00+03:00",
+          "title": "Иллюзионист.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T22:00:00+03:00",
+          "stop": "2026-09-18T23:55:00+03:00",
+          "title": "Долгая прогулка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-18T23:55:00+03:00",
+          "stop": "2026-09-19T01:55:00+03:00",
+          "title": "Блэкуотер-лейн.",
           "description": "L",
           "category": null
         }
