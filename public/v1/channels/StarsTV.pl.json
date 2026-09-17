@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
+  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-09-16",
-      "programs": [
-        {
-          "start": "2026-09-16T01:00:00+03:00",
-          "stop": "2026-09-16T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T04:00:00+03:00",
-          "stop": "2026-09-16T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T08:00:00+03:00",
-          "stop": "2026-09-16T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T09:00:00+03:00",
-          "stop": "2026-09-16T10:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T10:00:00+03:00",
-          "stop": "2026-09-16T12:00:00+03:00",
-          "title": "Best 80's",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T12:00:00+03:00",
-          "stop": "2026-09-17T01:00:00+03:00",
-          "title": "Top 150 Hity z filmów",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-17",
       "programs": [
@@ -197,6 +150,39 @@
           "start": "2026-09-18T17:00:00+03:00",
           "stop": "2026-09-19T01:00:00+03:00",
           "title": "Top 100 Polskie party",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T01:00:00+03:00",
+          "stop": "2026-09-19T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T04:00:00+03:00",
+          "stop": "2026-09-19T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T08:00:00+03:00",
+          "stop": "2026-09-19T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T09:00:00+03:00",
+          "stop": "2026-09-20T01:00:00+03:00",
+          "title": "Ostatni Weekend Lata: Top 200 Party 90's vs Party 00's",
           "description": "L",
           "category": null
         }

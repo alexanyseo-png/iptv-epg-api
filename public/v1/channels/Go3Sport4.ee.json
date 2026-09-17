@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T18:20:00+03:00",
+          "stop": "2026-09-19T19:20:00+03:00",
+          "title": "⋗ LaLiga. Celta – Racing",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
+  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
   "available": true,
   "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-09-16",
-      "programs": [
-        {
-          "start": "2026-09-16T00:20:00+03:00",
-          "stop": "2026-09-16T01:20:00+03:00",
-          "title": "All In – Bundesliga Highlights Show 26/27 – 3. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T01:20:00+03:00",
-          "stop": "2026-09-16T09:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T09:00:00+03:00",
-          "stop": "2026-09-16T11:00:00+03:00",
-          "title": "Bundesliga 26/27 – 1. FSV Mainz 05 – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T11:00:00+03:00",
-          "stop": "2026-09-16T15:00:00+03:00",
-          "title": "Bundesliga – TBC – TBC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T15:00:00+03:00",
-          "stop": "2026-09-16T17:10:00+03:00",
-          "title": "Bundesliga 26/27 – SV Elversberg – FC Bayern München",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T17:10:00+03:00",
-          "stop": "2026-09-16T19:55:00+03:00",
-          "title": "LaLiga 26/27 – FC Elche – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T19:55:00+03:00",
-          "stop": "2026-09-16T22:25:00+03:00",
-          "title": "LaLiga 26/27 – Deportivo A Coruña – FC Sevilla",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T22:25:00+03:00",
-          "stop": "2026-09-17T01:00:00+03:00",
-          "title": "LaLiga 26/27 – UD Levante – Athletic Bilbao",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-17",
       "programs": [
@@ -225,6 +164,67 @@
           "start": "2026-09-18T21:30:00+03:00",
           "stop": "2026-09-19T00:05:00+03:00",
           "title": "Ligue 1 26/27 – AS Monaco – RC Lens",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T00:05:00+03:00",
+          "stop": "2026-09-19T01:00:00+03:00",
+          "title": "All In – Bundesliga Highlights Show 26/27 – 3. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T01:00:00+03:00",
+          "stop": "2026-09-19T09:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T09:00:00+03:00",
+          "stop": "2026-09-19T11:00:00+03:00",
+          "title": "Bundesliga – TBC – TBC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T11:00:00+03:00",
+          "stop": "2026-09-19T14:45:00+03:00",
+          "title": "Bundesliga – TBC – TBC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T14:45:00+03:00",
+          "stop": "2026-09-19T17:10:00+03:00",
+          "title": "Frauen Bundesliga 26/27 – FC Bayern München – 1. FC Köln",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T17:10:00+03:00",
+          "stop": "2026-09-19T19:25:00+03:00",
+          "title": "LaLiga 26/27 – Athletic Bilbao – Deportivo Alavés",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T19:25:00+03:00",
+          "stop": "2026-09-19T21:55:00+03:00",
+          "title": "LaLiga 26/27 – Celta Vigo – Racing Santander",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T21:55:00+03:00",
+          "stop": "2026-09-20T01:00:00+03:00",
+          "title": "LaLiga 26/27 – FC Sevilla – FC Barcelona",
           "description": "L",
           "category": null
         }

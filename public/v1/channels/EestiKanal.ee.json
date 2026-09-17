@@ -8,211 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-16T04:53:03.286420+00:00",
+  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
   "available": true,
-  "programmeCount": 84,
+  "programmeCount": 82,
   "days": [
-    {
-      "date": "2026-09-16",
-      "programs": [
-        {
-          "start": "2026-09-16T00:50:00+03:00",
-          "stop": "2026-09-16T01:35:00+03:00",
-          "title": "Viimane võmm | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T01:35:00+03:00",
-          "stop": "2026-09-16T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T07:00:00+03:00",
-          "stop": "2026-09-16T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T07:02:00+03:00",
-          "stop": "2026-09-16T08:00:00+03:00",
-          "title": "Meie",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T08:00:00+03:00",
-          "stop": "2026-09-16T08:55:00+03:00",
-          "title": "Pilvede all | E163",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T08:55:00+03:00",
-          "stop": "2026-09-16T09:20:00+03:00",
-          "title": "Lemmikute lemmik | E35",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T09:20:00+03:00",
-          "stop": "2026-09-16T09:50:00+03:00",
-          "title": "Mandolino | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T09:50:00+03:00",
-          "stop": "2026-09-16T10:20:00+03:00",
-          "title": "Üks teist | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T10:20:00+03:00",
-          "stop": "2026-09-16T10:50:00+03:00",
-          "title": "Eestlased Dubais | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T10:50:00+03:00",
-          "stop": "2026-09-16T11:15:00+03:00",
-          "title": "Eestlane ja venelane | E38",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T11:15:00+03:00",
-          "stop": "2026-09-16T11:45:00+03:00",
-          "title": "Õpetajate tuba: Kuldkriit ehk Jürgeni tõus ja langus | E13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T11:45:00+03:00",
-          "stop": "2026-09-16T12:30:00+03:00",
-          "title": "Armastan päikest ja tuuli. Albert Uustulnd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T12:30:00+03:00",
-          "stop": "2026-09-16T13:15:00+03:00",
-          "title": "Mägede varjud | E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T13:15:00+03:00",
-          "stop": "2026-09-16T14:05:00+03:00",
-          "title": "Viimane võmm | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T14:05:00+03:00",
-          "stop": "2026-09-16T15:25:00+03:00",
-          "title": "20 aastat hiljem: Mart Laar, Tiit Vähi | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T15:25:00+03:00",
-          "stop": "2026-09-16T16:45:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E77",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T16:45:00+03:00",
-          "stop": "2026-09-16T16:55:00+03:00",
-          "title": "Just must",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T16:55:00+03:00",
-          "stop": "2026-09-16T17:50:00+03:00",
-          "title": "Pilvede all | E164",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T17:50:00+03:00",
-          "stop": "2026-09-16T18:20:00+03:00",
-          "title": "Üks teist | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T18:20:00+03:00",
-          "stop": "2026-09-16T18:45:00+03:00",
-          "title": "Lemmikute lemmik | E36",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T18:45:00+03:00",
-          "stop": "2026-09-16T19:40:00+03:00",
-          "title": "Restart | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T19:40:00+03:00",
-          "stop": "2026-09-16T20:05:00+03:00",
-          "title": "Mandolino | E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T20:05:00+03:00",
-          "stop": "2026-09-16T20:40:00+03:00",
-          "title": "Eestlased Dubais | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T20:40:00+03:00",
-          "stop": "2026-09-16T21:10:00+03:00",
-          "title": "Õpetajate tuba: Uus kolleeg ehk kummipardiga Kanaaridele | E14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T21:10:00+03:00",
-          "stop": "2026-09-16T21:40:00+03:00",
-          "title": "Eestlane ja venelane | E39",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T21:40:00+03:00",
-          "stop": "2026-09-16T23:05:00+03:00",
-          "title": "Nädalalõpp Kanal 2ga | E78",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T23:05:00+03:00",
-          "stop": "2026-09-16T23:55:00+03:00",
-          "title": "Marilyn Kerro elamise kunst: Raha ja töö | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-16T23:55:00+03:00",
-          "stop": "2026-09-17T00:50:00+03:00",
-          "title": "Mägede varjud | E16",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-17",
       "programs": [
@@ -610,6 +409,193 @@
           "start": "2026-09-18T23:10:00+03:00",
           "stop": "2026-09-19T00:00:00+03:00",
           "title": "Mägede varjud | E18",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T00:00:00+03:00",
+          "stop": "2026-09-19T00:55:00+03:00",
+          "title": "Viimane võmm | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T00:55:00+03:00",
+          "stop": "2026-09-19T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T07:00:00+03:00",
+          "stop": "2026-09-19T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T07:02:00+03:00",
+          "stop": "2026-09-19T07:25:00+03:00",
+          "title": "Lemmikute lemmik | E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T07:25:00+03:00",
+          "stop": "2026-09-19T07:55:00+03:00",
+          "title": "Lemmikute lemmik | E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T07:55:00+03:00",
+          "stop": "2026-09-19T08:50:00+03:00",
+          "title": "Pilvede all | E162",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T08:50:00+03:00",
+          "stop": "2026-09-19T09:35:00+03:00",
+          "title": "Pilvede all | E163",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T09:35:00+03:00",
+          "stop": "2026-09-19T10:30:00+03:00",
+          "title": "Pilvede all | E164",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T10:30:00+03:00",
+          "stop": "2026-09-19T11:00:00+03:00",
+          "title": "Eestlased Dubais | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T11:00:00+03:00",
+          "stop": "2026-09-19T11:50:00+03:00",
+          "title": "Restart | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T11:50:00+03:00",
+          "stop": "2026-09-19T12:20:00+03:00",
+          "title": "Õpetajate tuba: Saladus ehk üürileandmine | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T12:20:00+03:00",
+          "stop": "2026-09-19T13:05:00+03:00",
+          "title": "Vitaalsus",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T13:05:00+03:00",
+          "stop": "2026-09-19T13:35:00+03:00",
+          "title": "Üks teist | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T13:35:00+03:00",
+          "stop": "2026-09-19T14:05:00+03:00",
+          "title": "Üks teist | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T14:05:00+03:00",
+          "stop": "2026-09-19T14:55:00+03:00",
+          "title": "Eesti…: Loomahullud | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T14:55:00+03:00",
+          "stop": "2026-09-19T15:20:00+03:00",
+          "title": "Lemmikute lemmik | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T15:20:00+03:00",
+          "stop": "2026-09-19T15:50:00+03:00",
+          "title": "Eestlane ja venelane | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T15:50:00+03:00",
+          "stop": "2026-09-19T16:15:00+03:00",
+          "title": "Eestlane ja venelane | E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T16:15:00+03:00",
+          "stop": "2026-09-19T17:05:00+03:00",
+          "title": "Tund tähega: Kristel Aaslaid | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T17:05:00+03:00",
+          "stop": "2026-09-19T18:25:00+03:00",
+          "title": "20 aastat hiljem: Ivo Linna, Tiit Ojasoo, Anna Levandi | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T18:25:00+03:00",
+          "stop": "2026-09-19T19:50:00+03:00",
+          "title": "20 aastat hiljem: Mart Laar, Tiit Vähi | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T19:50:00+03:00",
+          "stop": "2026-09-19T20:35:00+03:00",
+          "title": "Mägede varjud | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T20:35:00+03:00",
+          "stop": "2026-09-19T21:30:00+03:00",
+          "title": "Viimane võmm | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T21:30:00+03:00",
+          "stop": "2026-09-19T22:55:00+03:00",
+          "title": "Nädalalõpp Kanal 2ga | E76",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T22:55:00+03:00",
+          "stop": "2026-09-19T23:25:00+03:00",
+          "title": "Eestlased Dubais | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T23:25:00+03:00",
+          "stop": "2026-09-20T00:10:00+03:00",
+          "title": "Mägede varjud | E15",
           "description": "L",
           "category": null
         }
