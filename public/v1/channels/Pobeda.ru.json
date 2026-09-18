@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
+  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-09-17",
-      "programs": [
-        {
-          "start": "2026-09-17T01:30:00+03:00",
-          "stop": "2026-09-17T03:30:00+03:00",
-          "title": "х/ф Не хлебом единым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T03:30:00+03:00",
-          "stop": "2026-09-17T04:30:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T04:30:00+03:00",
-          "stop": "2026-09-17T06:10:00+03:00",
-          "title": "х/ф Рубеж",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T06:10:00+03:00",
-          "stop": "2026-09-17T09:00:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T09:00:00+03:00",
-          "stop": "2026-09-17T12:20:00+03:00",
-          "title": "т/с Истребители",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T12:20:00+03:00",
-          "stop": "2026-09-17T22:50:00+03:00",
-          "title": "т/с СМЕРШ. Продолжение",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T22:50:00+03:00",
-          "stop": "2026-09-18T00:40:00+03:00",
-          "title": "х/ф Калашников",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-18",
       "programs": [
@@ -169,6 +115,67 @@
           "start": "2026-09-19T16:00:00+03:00",
           "stop": "2026-09-20T00:30:00+03:00",
           "title": "д/ф Долгий путь домой",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "programs": [
+        {
+          "start": "2026-09-20T00:30:00+03:00",
+          "stop": "2026-09-20T02:00:00+03:00",
+          "title": "х/ф Весури",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T02:00:00+03:00",
+          "stop": "2026-09-20T04:00:00+03:00",
+          "title": "х/ф Ржев",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T04:00:00+03:00",
+          "stop": "2026-09-20T05:50:00+03:00",
+          "title": "х/ф Со дна вершины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T05:50:00+03:00",
+          "stop": "2026-09-20T07:40:00+03:00",
+          "title": "х/ф Чемпионы: Быстрее. Выше. Сильнее",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T07:40:00+03:00",
+          "stop": "2026-09-20T11:30:00+03:00",
+          "title": "х/ф Кремень",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T11:30:00+03:00",
+          "stop": "2026-09-20T19:00:00+03:00",
+          "title": "т/с Драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T19:00:00+03:00",
+          "stop": "2026-09-20T22:40:00+03:00",
+          "title": "х/ф Позывной «Альфа»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T22:40:00+03:00",
+          "stop": "2026-09-21T00:20:00+03:00",
+          "title": "х/ф Своя война. Шторм в пустыне",
           "description": "L",
           "category": null
         }

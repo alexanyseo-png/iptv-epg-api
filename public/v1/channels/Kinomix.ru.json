@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
+  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-09-17",
-      "programs": [
-        {
-          "start": "2026-09-17T01:35:00+03:00",
-          "stop": "2026-09-17T04:15:00+03:00",
-          "title": "Робин Гуд: Начало.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T04:15:00+03:00",
-          "stop": "2026-09-17T06:10:00+03:00",
-          "title": "Подарок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T06:10:00+03:00",
-          "stop": "2026-09-17T08:35:00+03:00",
-          "title": "Грабитель с крыши.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T08:35:00+03:00",
-          "stop": "2026-09-17T10:45:00+03:00",
-          "title": "Паркер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T10:45:00+03:00",
-          "stop": "2026-09-17T12:35:00+03:00",
-          "title": "Час тишины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T12:35:00+03:00",
-          "stop": "2026-09-17T14:30:00+03:00",
-          "title": "Жизнь короля.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T14:30:00+03:00",
-          "stop": "2026-09-17T16:15:00+03:00",
-          "title": "Пропавшая.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T16:15:00+03:00",
-          "stop": "2026-09-17T18:10:00+03:00",
-          "title": "Новая земля.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T18:10:00+03:00",
-          "stop": "2026-09-17T20:00:00+03:00",
-          "title": "Васаби.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T20:00:00+03:00",
-          "stop": "2026-09-17T21:35:00+03:00",
-          "title": "Джентльмен.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T21:35:00+03:00",
-          "stop": "2026-09-17T23:50:00+03:00",
-          "title": "Гнев человеческий.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T23:50:00+03:00",
-          "stop": "2026-09-18T01:55:00+03:00",
-          "title": "Как заработать на убийстве.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-18",
       "programs": [
@@ -202,8 +113,90 @@
       "programs": [
         {
           "start": "2026-09-19T01:55:00+03:00",
-          "stop": "2026-09-19T02:55:00+03:00",
+          "stop": "2026-09-19T04:50:00+03:00",
           "title": "Грабитель с крыши.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T04:50:00+03:00",
+          "stop": "2026-09-19T06:35:00+03:00",
+          "title": "Полночь на злаковом поле.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T06:35:00+03:00",
+          "stop": "2026-09-19T09:55:00+03:00",
+          "title": "Граф Монте-Кристо.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T09:55:00+03:00",
+          "stop": "2026-09-19T11:50:00+03:00",
+          "title": "Подарок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T11:50:00+03:00",
+          "stop": "2026-09-19T14:00:00+03:00",
+          "title": "Паркер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T14:00:00+03:00",
+          "stop": "2026-09-19T16:15:00+03:00",
+          "title": "Гнев человеческий.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T16:15:00+03:00",
+          "stop": "2026-09-19T18:00:00+03:00",
+          "title": "Пропавшая.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T18:00:00+03:00",
+          "stop": "2026-09-19T20:00:00+03:00",
+          "title": "Новая земля.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T20:00:00+03:00",
+          "stop": "2026-09-19T21:50:00+03:00",
+          "title": "Жизнь короля.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T21:50:00+03:00",
+          "stop": "2026-09-19T23:35:00+03:00",
+          "title": "Васаби.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T23:35:00+03:00",
+          "stop": "2026-09-20T01:20:00+03:00",
+          "title": "Ледяное безмолвие.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "programs": [
+        {
+          "start": "2026-09-20T01:20:00+03:00",
+          "stop": "2026-09-20T02:20:00+03:00",
+          "title": "Последний легион.",
           "description": "L",
           "category": null
         }

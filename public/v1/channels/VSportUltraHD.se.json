@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-17T04:56:25.522041+00:00",
+  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-09-17",
-      "programs": [
-        {
-          "start": "2026-09-17T11:00:00+03:00",
-          "stop": "2026-09-17T19:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T19:30:00+03:00",
-          "stop": "2026-09-17T21:55:00+03:00",
-          "title": "Valioliiga: Manchester United – Manchester City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-17T21:55:00+03:00",
-          "stop": "2026-09-18T11:00:00+03:00",
-          "title": "EUROpa League: TBA. Match meddelas senare",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-18",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-09-19T22:00:00+03:00",
           "stop": "2026-09-20T11:00:00+03:00",
           "title": "Valioliiga: Manchester United – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "programs": [
+        {
+          "start": "2026-09-20T11:00:00+03:00",
+          "stop": "2026-09-20T18:25:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T18:25:00+03:00",
+          "stop": "2026-09-20T22:00:00+03:00",
+          "title": "Valioliiga: Fulham – Manchester United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T22:00:00+03:00",
+          "stop": "2026-09-20T23:00:00+03:00",
+          "title": "Formula 1: Espanjan GP – Osakilpailu",
           "description": "L",
           "category": null
         }
