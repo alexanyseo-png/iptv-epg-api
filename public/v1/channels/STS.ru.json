@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T00:35:00+03:00",
-          "stop": "2026-09-18T01:00:00+03:00",
-          "title": "100 мест, где поесть",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T01:00:00+03:00",
-          "stop": "2026-09-18T05:00:00+03:00",
-          "title": "С легким утром!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T05:00:00+03:00",
-          "stop": "2026-09-18T15:30:00+03:00",
-          "title": "Шоу «Уральских пельменей»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T15:30:00+03:00",
-          "stop": "2026-09-18T17:00:00+03:00",
-          "title": "Шоу «Уральских пельменей» (Контрольная зевота)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T17:00:00+03:00",
-          "stop": "2026-09-19T01:00:00+03:00",
-          "title": "Шоу «Уральских пельменей»",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -267,6 +227,18 @@
           "start": "2026-09-20T23:25:00+03:00",
           "stop": "2026-09-21T00:45:00+03:00",
           "title": "х/ф Свадьба по обмену",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T00:45:00+03:00",
+          "stop": "2026-09-21T01:45:00+03:00",
+          "title": "100 мест, где поесть",
           "description": "L",
           "category": null
         }

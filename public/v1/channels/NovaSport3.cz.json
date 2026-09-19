@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T00:05:00+03:00",
-          "stop": "2026-09-18T02:00:00+03:00",
-          "title": "1. FC Norimberk – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T02:00:00+03:00",
-          "stop": "2026-09-18T08:00:00+03:00",
-          "title": "SV Elversberg – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T08:00:00+03:00",
-          "stop": "2026-09-18T08:30:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T08:30:00+03:00",
-          "stop": "2026-09-18T09:00:00+03:00",
-          "title": "EFL Highlights (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T09:00:00+03:00",
-          "stop": "2026-09-18T10:00:00+03:00",
-          "title": "Bundesliga Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T10:00:00+03:00",
-          "stop": "2026-09-18T12:00:00+03:00",
-          "title": "SV Elversberg – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T12:00:00+03:00",
-          "stop": "2026-09-18T14:00:00+03:00",
-          "title": "Manchester City – Norwich City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T14:00:00+03:00",
-          "stop": "2026-09-18T15:50:00+03:00",
-          "title": "Atlético Madrid – CA Osasuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T15:50:00+03:00",
-          "stop": "2026-09-18T17:45:00+03:00",
-          "title": "CD Tenerife – CD Leganés",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T17:45:00+03:00",
-          "stop": "2026-09-18T19:20:00+03:00",
-          "title": "TIKI-TAKA 26/27 (8)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T19:20:00+03:00",
-          "stop": "2026-09-18T19:50:00+03:00",
-          "title": "Bundesliga speciál (2)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T19:50:00+03:00",
-          "stop": "2026-09-18T20:50:00+03:00",
-          "title": "Bundesliga Highlights (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T20:50:00+03:00",
-          "stop": "2026-09-18T21:20:00+03:00",
-          "title": "Bundesliga Weekly (5)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T21:20:00+03:00",
-          "stop": "2026-09-18T23:35:00+03:00",
-          "title": "Bayern Mnichov – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T23:35:00+03:00",
-          "stop": "2026-09-19T00:05:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (3)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -316,6 +206,39 @@
           "start": "2026-09-20T23:50:00+03:00",
           "stop": "2026-09-21T01:40:00+03:00",
           "title": "VfB Stuttgart – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T01:40:00+03:00",
+          "stop": "2026-09-21T02:10:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (3)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T02:10:00+03:00",
+          "stop": "2026-09-21T08:00:00+03:00",
+          "title": "VfL Wolfsburg – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T08:00:00+03:00",
+          "stop": "2026-09-21T10:00:00+03:00",
+          "title": "Olympique Marseille – PSG",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T10:00:00+03:00",
+          "stop": "2026-09-21T12:00:00+03:00",
+          "title": "Bayer Leverkusen – RB Lipsko",
           "description": "L",
           "category": null
         }

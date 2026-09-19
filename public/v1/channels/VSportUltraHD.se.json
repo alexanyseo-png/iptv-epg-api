@@ -8,39 +8,27 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T11:00:00+03:00",
-          "stop": "2026-09-18T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T19:00:00+03:00",
-          "stop": "2026-09-18T22:00:00+03:00",
-          "title": "Formula 1: Espanjan GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T22:00:00+03:00",
-          "stop": "2026-09-19T11:00:00+03:00",
-          "title": "Valioliiga: Liverpool – Fulham",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
+        {
+          "start": "2026-09-19T00:55:00+03:00",
+          "stop": "2026-09-19T03:00:00+03:00",
+          "title": "Taivaan sankarit: Mighty Eighth Air Force",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T03:00:00+03:00",
+          "stop": "2026-09-19T11:00:00+03:00",
+          "title": "Arktinen retkikunta",
+          "description": "L",
+          "category": null
+        },
         {
           "start": "2026-09-19T11:00:00+03:00",
           "stop": "2026-09-19T16:55:00+03:00",

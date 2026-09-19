@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T00:00:00+03:00",
-          "stop": "2026-09-18T06:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T06:00:00+03:00",
-          "stop": "2026-09-18T10:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T10:00:00+03:00",
-          "stop": "2026-09-18T10:30:00+03:00",
-          "title": "Горячая десятка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T10:30:00+03:00",
-          "stop": "2026-09-18T12:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T12:00:00+03:00",
-          "stop": "2026-09-18T12:30:00+03:00",
-          "title": "Лайм Тайм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T12:30:00+03:00",
-          "stop": "2026-09-18T18:30:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T18:30:00+03:00",
-          "stop": "2026-09-19T00:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -125,7 +71,49 @@
       "programs": [
         {
           "start": "2026-09-20T00:00:00+03:00",
-          "stop": "2026-09-20T01:00:00+03:00",
+          "stop": "2026-09-20T06:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T06:00:00+03:00",
+          "stop": "2026-09-20T11:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T11:00:00+03:00",
+          "stop": "2026-09-20T11:30:00+03:00",
+          "title": "Горячая десятка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T11:30:00+03:00",
+          "stop": "2026-09-20T17:30:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T17:30:00+03:00",
+          "stop": "2026-09-20T21:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T21:00:00+03:00",
+          "stop": "2026-09-20T21:30:00+03:00",
+          "title": "Лайм Тайм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T21:30:00+03:00",
+          "stop": "2026-09-20T22:30:00+03:00",
           "title": "Горячие хиты!",
           "description": "L",
           "category": null

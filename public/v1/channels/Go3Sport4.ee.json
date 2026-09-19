@@ -8,17 +8,36 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 3,
   "days": [
     {
       "date": "2026-09-19",
       "programs": [
         {
           "start": "2026-09-19T18:20:00+03:00",
-          "stop": "2026-09-19T19:20:00+03:00",
+          "stop": "2026-09-20T03:00:00+03:00",
           "title": "⋗ LaLiga. Celta – Racing",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "programs": [
+        {
+          "start": "2026-09-20T03:00:00+03:00",
+          "stop": "2026-09-20T19:00:00+03:00",
+          "title": "⋗ UFC. Joshua Van vs Alexandre Pantoja (ENG)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T19:00:00+03:00",
+          "stop": "2026-09-20T20:00:00+03:00",
+          "title": "⋗ NFL. Red Zone Week 2",
           "description": "L",
           "category": null
         }

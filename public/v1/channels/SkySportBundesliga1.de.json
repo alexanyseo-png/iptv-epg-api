@@ -8,8 +8,122 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "available": true,
+  "programmeCount": 14,
+  "days": [
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T00:15:00+03:00",
+          "stop": "2026-09-19T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T07:00:00+03:00",
+          "stop": "2026-09-19T14:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T14:40:00+03:00",
+          "stop": "2026-09-19T15:00:00+03:00",
+          "title": "BL: Es folgt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T15:00:00+03:00",
+          "stop": "2026-09-19T16:00:00+03:00",
+          "title": "Live BL: NEO.bet Countdown, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T16:00:00+03:00",
+          "stop": "2026-09-19T16:15:00+03:00",
+          "title": "Live BL: HSV – KOE: NEO.bet Countdown, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T16:15:00+03:00",
+          "stop": "2026-09-19T18:45:00+03:00",
+          "title": "Live BL: Hamburger SV – 1. FC Köln, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T18:45:00+03:00",
+          "stop": "2026-09-19T22:15:00+03:00",
+          "title": "Live BL: VfB Stuttgart – Borussia Dortmund, tipico Topspiel der Woche, 4. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T22:15:00+03:00",
+          "stop": "2026-09-20T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-20",
+      "programs": [
+        {
+          "start": "2026-09-20T07:00:00+03:00",
+          "stop": "2026-09-20T13:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T13:40:00+03:00",
+          "stop": "2026-09-20T14:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T14:00:00+03:00",
+          "stop": "2026-09-20T16:30:00+03:00",
+          "title": "Live 2. BL: Sonntags-Konferenz, 6. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T16:30:00+03:00",
+          "stop": "2026-09-20T17:45:00+03:00",
+          "title": "Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 6. Spieltag, Sonntag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-20T17:45:00+03:00",
+          "stop": "2026-09-21T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T07:00:00+03:00",
+          "stop": "2026-09-22T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

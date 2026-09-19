@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T00:00:00+03:00",
-          "stop": "2026-09-18T02:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T02:00:00+03:00",
-          "stop": "2026-09-18T04:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T04:00:00+03:00",
-          "stop": "2026-09-18T06:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T06:00:00+03:00",
-          "stop": "2026-09-18T08:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T08:00:00+03:00",
-          "stop": "2026-09-18T10:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T10:00:00+03:00",
-          "stop": "2026-09-18T12:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T12:00:00+03:00",
-          "stop": "2026-09-18T14:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T14:00:00+03:00",
-          "stop": "2026-09-18T15:30:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T15:30:00+03:00",
-          "stop": "2026-09-18T18:30:00+03:00",
-          "title": "One Championship. ONE Friday Fights 171",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T18:30:00+03:00",
-          "stop": "2026-09-18T19:40:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T19:40:00+03:00",
-          "stop": "2026-09-18T22:15:00+03:00",
-          "title": "Switzerland National League. Bern – Davos",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T22:15:00+03:00",
-          "stop": "2026-09-19T00:00:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -155,13 +66,20 @@
         },
         {
           "start": "2026-09-19T14:00:00+03:00",
-          "stop": "2026-09-19T16:00:00+03:00",
+          "stop": "2026-09-19T15:20:00+03:00",
           "title": "Перерыв в программе",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-19T16:00:00+03:00",
+          "start": "2026-09-19T15:20:00+03:00",
+          "stop": "2026-09-19T17:30:00+03:00",
+          "title": "Bundesliga. Werder Bremen – Augsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T17:30:00+03:00",
           "stop": "2026-09-19T17:55:00+03:00",
           "title": "Перерыв в программе",
           "description": "L",
@@ -170,7 +88,7 @@
         {
           "start": "2026-09-19T17:55:00+03:00",
           "stop": "2026-09-19T20:00:00+03:00",
-          "title": "Ispanijos supertaurė. 1/2 final 2. Joventut – Baskonia",
+          "title": "Supercopa Endesa. 1/2 final 2. Joventut – Baskonia",
           "description": "L",
           "category": null
         },
@@ -184,7 +102,7 @@
         {
           "start": "2026-09-19T20:55:00+03:00",
           "stop": "2026-09-19T23:00:00+03:00",
-          "title": "Ispanijos supertaurė. 1/2 final 1. Valencia – Barcelona",
+          "title": "Supercopa Endesa. 1/2 final. Valencia – Barcelona",
           "description": "L",
           "category": null
         },
@@ -273,7 +191,7 @@
         {
           "start": "2026-09-20T18:55:00+03:00",
           "stop": "2026-09-20T21:00:00+03:00",
-          "title": "Ispanijos supertaurė. Final",
+          "title": "Supercopa Endesa. Final",
           "description": "L",
           "category": null
         },
@@ -286,7 +204,54 @@
         },
         {
           "start": "2026-09-20T22:00:00+03:00",
-          "stop": "2026-09-20T23:00:00+03:00",
+          "stop": "2026-09-21T00:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T00:00:00+03:00",
+          "stop": "2026-09-21T02:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T02:00:00+03:00",
+          "stop": "2026-09-21T04:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T04:00:00+03:00",
+          "stop": "2026-09-21T06:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T06:00:00+03:00",
+          "stop": "2026-09-21T08:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T08:00:00+03:00",
+          "stop": "2026-09-21T10:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T10:00:00+03:00",
+          "stop": "2026-09-21T12:00:00+03:00",
           "title": "Перерыв в программе",
           "description": "L",
           "category": null

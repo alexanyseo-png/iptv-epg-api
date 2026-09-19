@@ -8,8 +8,70 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "available": true,
+  "programmeCount": 8,
+  "days": [
+    {
+      "date": "2026-09-19",
+      "programs": [
+        {
+          "start": "2026-09-19T00:00:00+03:00",
+          "stop": "2026-09-19T01:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T01:00:00+03:00",
+          "stop": "2026-09-19T02:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T02:00:00+03:00",
+          "stop": "2026-09-19T03:00:00+03:00",
+          "title": "Infomercial.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T03:00:00+03:00",
+          "stop": "2026-09-19T03:55:00+03:00",
+          "title": "William Tell – Im Kampf gegen Lord Xax. \"Kalems Geist\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T03:55:00+03:00",
+          "stop": "2026-09-19T04:21:00+03:00",
+          "title": "Die Robinsons – Aufbruch ins Ungewisse. \"Todesangst\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T04:21:00+03:00",
+          "stop": "2026-09-19T04:50:00+03:00",
+          "title": "Die Robinsons – Aufbruch ins Ungewisse. \"Das Licht der Welt\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T04:50:00+03:00",
+          "stop": "2026-09-19T05:40:00+03:00",
+          "title": "Jack London – Abenteuer Südsee. \"Auf Messers Schneide\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-19T05:40:00+03:00",
+          "stop": "2026-09-19T06:40:00+03:00",
+          "title": "T und T. S.1,Ep.14/24 \"Freunde fürs Leben\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

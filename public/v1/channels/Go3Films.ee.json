@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T00:00:00+03:00",
-          "stop": "2026-09-18T02:30:00+03:00",
-          "title": "Бесславные ублюдки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T02:30:00+03:00",
-          "stop": "2026-09-18T04:30:00+03:00",
-          "title": "Миссия в Майами",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T04:30:00+03:00",
-          "stop": "2026-09-18T06:00:00+03:00",
-          "title": "Соседи. На тропе войны 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T06:00:00+03:00",
-          "stop": "2026-09-18T08:00:00+03:00",
-          "title": "Мы – монстры 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T08:00:00+03:00",
-          "stop": "2026-09-18T10:00:00+03:00",
-          "title": "Небеса реальны",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T10:00:00+03:00",
-          "stop": "2026-09-18T12:00:00+03:00",
-          "title": "Angry Birds в кино",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T12:00:00+03:00",
-          "stop": "2026-09-18T14:00:00+03:00",
-          "title": "Angry Birds 2 в кино",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T14:00:00+03:00",
-          "stop": "2026-09-18T16:00:00+03:00",
-          "title": "Жанна Дюбарри",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T16:00:00+03:00",
-          "stop": "2026-09-18T18:00:00+03:00",
-          "title": "Кролик Питер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T18:00:00+03:00",
-          "stop": "2026-09-18T20:00:00+03:00",
-          "title": "Кот в сапогах",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T20:00:00+03:00",
-          "stop": "2026-09-18T22:00:00+03:00",
-          "title": "Тайна Мосли",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T22:00:00+03:00",
-          "stop": "2026-09-18T23:50:00+03:00",
-          "title": "The Wasp",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T23:50:00+03:00",
-          "stop": "2026-09-19T02:00:00+03:00",
-          "title": "Горничная",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -274,6 +178,60 @@
           "start": "2026-09-20T22:00:00+03:00",
           "stop": "2026-09-21T00:00:00+03:00",
           "title": "Убийство в Восточном экспрессе",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T00:00:00+03:00",
+          "stop": "2026-09-21T01:45:00+03:00",
+          "title": "Клинер",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T01:45:00+03:00",
+          "stop": "2026-09-21T04:15:00+03:00",
+          "title": "Ford v Ferrari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T04:15:00+03:00",
+          "stop": "2026-09-21T06:00:00+03:00",
+          "title": "The Wasp",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T06:00:00+03:00",
+          "stop": "2026-09-21T07:25:00+03:00",
+          "title": "Тайная жизнь домашних животных",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T07:25:00+03:00",
+          "stop": "2026-09-21T08:50:00+03:00",
+          "title": "Упс… Приплыли!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T08:50:00+03:00",
+          "stop": "2026-09-21T10:15:00+03:00",
+          "title": "Гномы в доме",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T10:15:00+03:00",
+          "stop": "2026-09-21T12:10:00+03:00",
+          "title": "Минари",
           "description": "L",
           "category": null
         }

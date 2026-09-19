@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-18T04:47:52.243610+00:00",
+  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-09-18",
-      "programs": [
-        {
-          "start": "2026-09-18T01:00:00+03:00",
-          "stop": "2026-09-18T05:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T05:00:00+03:00",
-          "stop": "2026-09-18T09:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T09:00:00+03:00",
-          "stop": "2026-09-18T13:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T13:00:00+03:00",
-          "stop": "2026-09-18T17:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T17:00:00+03:00",
-          "stop": "2026-09-18T21:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-18T21:00:00+03:00",
-          "stop": "2026-09-19T01:00:00+03:00",
-          "title": "Кліпи",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-19",
       "programs": [
@@ -147,6 +100,18 @@
         {
           "start": "2026-09-20T21:00:00+03:00",
           "stop": "2026-09-21T01:00:00+03:00",
+          "title": "Кліпи",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-21",
+      "programs": [
+        {
+          "start": "2026-09-21T01:00:00+03:00",
+          "stop": "2026-09-21T02:00:00+03:00",
           "title": "Кліпи",
           "description": "L",
           "category": null
