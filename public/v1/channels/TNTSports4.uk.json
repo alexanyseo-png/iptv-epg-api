@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 32,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T02:30:00+03:00",
-          "stop": "2026-09-19T03:00:00+03:00",
-          "title": "The Breakdown. UFC 331",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T03:00:00+03:00",
-          "stop": "2026-09-19T03:30:00+03:00",
-          "title": "MotoGP: The Inside Line. Austrian Grand Prix",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T03:30:00+03:00",
-          "stop": "2026-09-19T04:30:00+03:00",
-          "title": "UCI Continental Circuits. Il Giro d'Abruzzo: Stage 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T04:30:00+03:00",
-          "stop": "2026-09-19T05:00:00+03:00",
-          "title": "Premier League Preview. Series 26 Episode 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T05:00:00+03:00",
-          "stop": "2026-09-19T07:16:00+03:00",
-          "title": "⋗ NWSL. San Diego Wave FC v Kansas City Current",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T07:16:00+03:00",
-          "stop": "2026-09-19T07:45:00+03:00",
-          "title": "UEFA Champions League: Stories of the Finals. 1997 and 2016",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T07:45:00+03:00",
-          "stop": "2026-09-19T08:00:00+03:00",
-          "title": "Reframe the Game. No Rucks Given",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T08:00:00+03:00",
-          "stop": "2026-09-19T09:00:00+03:00",
-          "title": "Vuelta a España. Review",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T09:00:00+03:00",
-          "stop": "2026-09-19T13:00:00+03:00",
-          "title": "⋗ T100 Triathlon World Tour. French Riviera",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T13:00:00+03:00",
-          "stop": "2026-09-19T14:00:00+03:00",
-          "title": "Tour de Luxembourg. Stage 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T14:00:00+03:00",
-          "stop": "2026-09-19T17:30:00+03:00",
-          "title": "⋗ British Superbikes Motorcycle Racing. Round 9 Showdown: Assen GP, Day 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T17:30:00+03:00",
-          "stop": "2026-09-20T03:30:00+03:00",
-          "title": "⋗ FIM Endurance World Championship Motorcycle Racing. Bol d'Or",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -246,6 +157,48 @@
           "start": "2026-09-21T10:00:00+03:00",
           "stop": "2026-09-21T11:00:00+03:00",
           "title": "UCI Road World Championships. Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T11:00:00+03:00",
+          "stop": "2026-09-21T11:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Soldier Hollow: Men's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T11:30:00+03:00",
+          "stop": "2026-09-21T12:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Soldier Hollow: Women's Cross-Country Short Track",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T12:00:00+03:00",
+          "stop": "2026-09-21T12:30:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Soldier Hollow: Women's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T12:30:00+03:00",
+          "stop": "2026-09-21T13:00:00+03:00",
+          "title": "UCI World Cup Mountain Biking. Soldier Hollow: Men's Cross-Country Olympic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T13:00:00+03:00",
+          "stop": "2026-09-21T14:00:00+03:00",
+          "title": "Tour de Luxembourg. Stage 5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T14:00:00+03:00",
+          "stop": "2026-09-21T15:00:00+03:00",
+          "title": "FIM Speedway Grand Prix. Round 9: Grand Prix of Denmark",
           "description": "L",
           "category": null
         }

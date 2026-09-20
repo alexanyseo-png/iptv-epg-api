@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T00:00:00+03:00",
-          "stop": "2026-09-20T00:00:00+03:00",
-          "title": "Son Sayfa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -218,6 +206,20 @@
           "start": "2026-09-21T08:00:00+03:00",
           "stop": "2026-09-21T11:00:00+03:00",
           "title": "Sabah Sporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T11:00:00+03:00",
+          "stop": "2026-09-21T14:00:00+03:00",
+          "title": "Spor Ajansı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T14:00:00+03:00",
+          "stop": "2026-09-21T15:00:00+03:00",
+          "title": "Gün Ortası",
           "description": "L",
           "category": null
         }

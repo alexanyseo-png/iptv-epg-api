@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T01:10:00+03:00",
-          "stop": "2026-09-19T02:55:00+03:00",
-          "title": "х/ф Классик",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T02:55:00+03:00",
-          "stop": "2026-09-19T04:20:00+03:00",
-          "title": "х/ф Чаклун и Румба",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T04:20:00+03:00",
-          "stop": "2026-09-19T06:00:00+03:00",
-          "title": "х/ф Сокровища партизанского леса",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T06:00:00+03:00",
-          "stop": "2026-09-19T07:20:00+03:00",
-          "title": "х/ф Солдатик",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T07:20:00+03:00",
-          "stop": "2026-09-19T09:00:00+03:00",
-          "title": "х/ф Суворовец 1944",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T09:00:00+03:00",
-          "stop": "2026-09-19T16:00:00+03:00",
-          "title": "д/ф Долгий путь домой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T16:00:00+03:00",
-          "stop": "2026-09-20T00:30:00+03:00",
-          "title": "д/ф Долгий путь домой",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -169,6 +115,13 @@
           "start": "2026-09-21T10:00:00+03:00",
           "stop": "2026-09-21T13:20:00+03:00",
           "title": "т/с Истребители",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T13:20:00+03:00",
+          "stop": "2026-09-21T17:15:00+03:00",
+          "title": "т/с Боевая единичка",
           "description": "L",
           "category": null
         }

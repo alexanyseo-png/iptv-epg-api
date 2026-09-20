@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T01:25:00+03:00",
-          "stop": "2026-09-19T03:09:00+03:00",
-          "title": "Sunderland v Arsenal – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T03:09:00+03:00",
-          "stop": "2026-09-19T05:14:00+03:00",
-          "title": "Main Race – F1 Spanish Grand Prix",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T05:14:00+03:00",
-          "stop": "2026-09-19T06:57:00+03:00",
-          "title": "Manchester United v Manchester City – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T06:57:00+03:00",
-          "stop": "2026-09-19T08:37:00+03:00",
-          "title": "Liverpool v Fulham – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T08:37:00+03:00",
-          "stop": "2026-09-19T10:21:00+03:00",
-          "title": "Sunderland v Arsenal – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T10:21:00+03:00",
-          "stop": "2026-09-19T12:20:00+03:00",
-          "title": "Main Race – F1 Spanish Grand Prix",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T12:20:00+03:00",
-          "stop": "2026-09-19T14:00:00+03:00",
-          "title": "Manchester United v Manchester City – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T14:00:00+03:00",
-          "stop": "2026-09-19T16:45:00+03:00",
-          "title": "⋗ Tottenham Hotspur v Aston Villa – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T16:45:00+03:00",
-          "stop": "2026-09-19T19:15:00+03:00",
-          "title": "⋗ Brighton  Hove Albion v Arsenal – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T19:15:00+03:00",
-          "stop": "2026-09-19T20:55:00+03:00",
-          "title": "Liverpool v Fulham – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T20:55:00+03:00",
-          "stop": "2026-09-19T22:39:00+03:00",
-          "title": "Sunderland v Arsenal – English Premier League 2026/2027",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T22:39:00+03:00",
-          "stop": "2026-09-20T00:45:00+03:00",
-          "title": "Main Race – F1 Spanish Grand Prix",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -232,6 +143,20 @@
           "start": "2026-09-21T09:35:00+03:00",
           "stop": "2026-09-21T11:40:00+03:00",
           "title": "Main Race – F1 Spanish Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T11:40:00+03:00",
+          "stop": "2026-09-21T13:25:00+03:00",
+          "title": "Tottenham Hotspur v Aston Villa – English Premier League 2026/2027",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T13:25:00+03:00",
+          "stop": "2026-09-21T15:10:00+03:00",
+          "title": "Brighton  Hove Albion v Arsenal – English Premier League 2026/2027",
           "description": "L",
           "category": null
         }

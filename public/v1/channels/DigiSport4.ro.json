@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T00:00:00+03:00",
-          "stop": "2026-09-19T01:45:00+03:00",
-          "title": "Europa League: Milan-Benfica Etapa 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T01:45:00+03:00",
-          "stop": "2026-09-19T03:30:00+03:00",
-          "title": "Bundesliga 2: Wolfsburg-Darmstadt Etapa 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T03:30:00+03:00",
-          "stop": "2026-09-19T05:15:00+03:00",
-          "title": "La Liga: Espanyol-Elche Etapa 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T05:15:00+03:00",
-          "stop": "2026-09-19T07:00:00+03:00",
-          "title": "Bundesliga: Bayern Munchen-Union Berlin Etapa 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T07:00:00+03:00",
-          "stop": "2026-09-19T08:45:00+03:00",
-          "title": "Superliga: UTA Arad-Sepsi Sfantu Gheorghe Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T08:45:00+03:00",
-          "stop": "2026-09-19T10:45:00+03:00",
-          "title": "Superliga: Rapid-FC Arges Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T10:45:00+03:00",
-          "stop": "2026-09-19T12:30:00+03:00",
-          "title": "Serie A: Monza-Sassuolo Etapa 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T12:30:00+03:00",
-          "stop": "2026-09-19T14:30:00+03:00",
-          "title": "La Liga: Espanyol-Elche Etapa 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T14:30:00+03:00",
-          "stop": "2026-09-19T16:30:00+03:00",
-          "title": "Bundesliga: Bayern Munchen-Union Berlin Etapa 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T16:30:00+03:00",
-          "stop": "2026-09-19T18:30:00+03:00",
-          "title": "⋗ Bundesliga: Eintracht Frankfurt-Freiburg Etapa 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T18:30:00+03:00",
-          "stop": "2026-09-19T18:45:00+03:00",
-          "title": "Stirile Digi Sport",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T18:45:00+03:00",
-          "stop": "2026-09-19T19:30:00+03:00",
-          "title": "Cursa 1 Moto: Rookies Cup Austria",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T19:30:00+03:00",
-          "stop": "2026-09-19T21:30:00+03:00",
-          "title": "⋗ La Liga: Celta Vigo-Real Sociedad Etapa 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T21:30:00+03:00",
-          "stop": "2026-09-19T22:15:00+03:00",
-          "title": "Moto: Marele Premiu al Austriei MotoGP- cursa sprint",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T22:15:00+03:00",
-          "stop": "2026-09-19T22:30:00+03:00",
-          "title": "Stirile Digi Sport",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T22:30:00+03:00",
-          "stop": "2026-09-20T00:30:00+03:00",
-          "title": "⋗ Liga Portugal: Sporting-FC Arouca Etapa 7",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -281,6 +164,20 @@
           "start": "2026-09-21T10:00:00+03:00",
           "stop": "2026-09-21T12:00:00+03:00",
           "title": "⋗ Tenis Ziua 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T12:00:00+03:00",
+          "stop": "2026-09-21T13:45:00+03:00",
+          "title": "Superliga: Dinamo-Farul Constanta Etapa 10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T13:45:00+03:00",
+          "stop": "2026-09-21T15:30:00+03:00",
+          "title": "Serie A: Frosinone-Como Etapa 5",
           "description": "L",
           "category": null
         }

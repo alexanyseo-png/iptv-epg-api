@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-19T04:41:12.560970+00:00",
+  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 19,
   "days": [
-    {
-      "date": "2026-09-19",
-      "programs": [
-        {
-          "start": "2026-09-19T01:00:00+03:00",
-          "stop": "2026-09-19T01:55:00+03:00",
-          "title": "д/ф Андрей Панин. Невыясненные обстоятельства",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T01:55:00+03:00",
-          "stop": "2026-09-19T03:10:00+03:00",
-          "title": "Порядок вещей",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T03:10:00+03:00",
-          "stop": "2026-09-19T05:30:00+03:00",
-          "title": "т/с Улицы разбитых фонарей",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T05:30:00+03:00",
-          "stop": "2026-09-19T06:10:00+03:00",
-          "title": "На ночь глядя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T06:10:00+03:00",
-          "stop": "2026-09-19T07:00:00+03:00",
-          "title": "Наедине со всеми",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T07:00:00+03:00",
-          "stop": "2026-09-19T13:00:00+03:00",
-          "title": "т/с Подкидыш",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T13:00:00+03:00",
-          "stop": "2026-09-19T18:00:00+03:00",
-          "title": "т/с Подкидыш",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-19T18:00:00+03:00",
-          "stop": "2026-09-20T00:00:00+03:00",
-          "title": "т/с Воскресенский",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-20",
       "programs": [
@@ -204,6 +143,13 @@
           "start": "2026-09-21T09:50:00+03:00",
           "stop": "2026-09-21T13:30:00+03:00",
           "title": "т/с Агент национальной безопасности",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T13:30:00+03:00",
+          "stop": "2026-09-21T15:30:00+03:00",
+          "title": "т/с Побег-2",
           "description": "L",
           "category": null
         }
