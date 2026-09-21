@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
+  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-09-20",
-      "programs": [
-        {
-          "start": "2026-09-20T01:00:00+03:00",
-          "stop": "2026-09-20T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T04:00:00+03:00",
-          "stop": "2026-09-20T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T08:00:00+03:00",
-          "stop": "2026-09-20T09:00:00+03:00",
-          "title": "Best Rock",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T09:00:00+03:00",
-          "stop": "2026-09-21T01:00:00+03:00",
-          "title": "Ostatni Weekend Lata: Top 200 Party Hits",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-21",
       "programs": [
@@ -108,6 +75,27 @@
           "start": "2026-09-21T14:00:00+03:00",
           "stop": "2026-09-21T15:00:00+03:00",
           "title": "Best of C.C. Catch",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T15:00:00+03:00",
+          "stop": "2026-09-21T16:00:00+03:00",
+          "title": "Best of a-ha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T16:00:00+03:00",
+          "stop": "2026-09-21T17:00:00+03:00",
+          "title": "Best of Dire Straits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T17:00:00+03:00",
+          "stop": "2026-09-21T18:00:00+03:00",
+          "title": "Best of Kylie Minogue",
           "description": "L",
           "category": null
         }

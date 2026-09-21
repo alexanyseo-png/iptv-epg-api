@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-20T04:57:07.413483+00:00",
+  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
   "available": true,
-  "programmeCount": 20,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-09-20",
-      "programs": [
-        {
-          "start": "2026-09-20T00:00:00+03:00",
-          "stop": "2026-09-20T02:00:00+03:00",
-          "title": "Bayern Mnichov – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T02:00:00+03:00",
-          "stop": "2026-09-20T08:00:00+03:00",
-          "title": "Millwall FC – West Ham United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T08:00:00+03:00",
-          "stop": "2026-09-20T09:50:00+03:00",
-          "title": "Olympique Lyon – Stade Rennes",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T09:50:00+03:00",
-          "stop": "2026-09-20T12:00:00+03:00",
-          "title": "VfB Stuttgart – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T12:00:00+03:00",
-          "stop": "2026-09-20T13:50:00+03:00",
-          "title": "Hamburger SV – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T13:50:00+03:00",
-          "stop": "2026-09-20T14:25:00+03:00",
-          "title": "Ve skluzu (131)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T14:25:00+03:00",
-          "stop": "2026-09-20T16:25:00+03:00",
-          "title": "Energie Cottbus – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T16:25:00+03:00",
-          "stop": "2026-09-20T18:25:00+03:00",
-          "title": "Bayer Leverkusen – RB Lipsko",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T18:25:00+03:00",
-          "stop": "2026-09-20T20:35:00+03:00",
-          "title": "Schalke 04 – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T20:35:00+03:00",
-          "stop": "2026-09-20T21:00:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T21:00:00+03:00",
-          "stop": "2026-09-20T21:30:00+03:00",
-          "title": "Bundesliga speciál (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T21:30:00+03:00",
-          "stop": "2026-09-20T21:40:00+03:00",
-          "title": "Ikony Ligue 1 – Basile Boli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T21:40:00+03:00",
-          "stop": "2026-09-20T23:50:00+03:00",
-          "title": "Olympique Marseille – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-20T23:50:00+03:00",
-          "stop": "2026-09-21T01:40:00+03:00",
-          "title": "VfB Stuttgart – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-21",
       "programs": [
@@ -157,6 +54,20 @@
           "start": "2026-09-21T14:00:00+03:00",
           "stop": "2026-09-21T15:50:00+03:00",
           "title": "Olympique Lyon – Stade Rennes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T15:50:00+03:00",
+          "stop": "2026-09-21T17:40:00+03:00",
+          "title": "Olympique Marseille – PSG",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-21T17:40:00+03:00",
+          "stop": "2026-09-21T19:30:00+03:00",
+          "title": "Schalke 04 – SV Elversberg",
           "description": "L",
           "category": null
         }
