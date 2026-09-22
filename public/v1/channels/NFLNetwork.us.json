@@ -8,38 +8,321 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 43,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T02:30:00+03:00",
-          "stop": "2026-09-21T03:30:00+03:00",
-          "title": "⋗ NFL GameDay Highlights",
+          "start": "2026-09-22T00:00:00+03:00",
+          "stop": "2026-09-22T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live «[M] NFL Fantasy Live»",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T03:30:00+03:00",
-          "stop": "2026-09-21T04:30:00+03:00",
-          "title": "NFL GameDay Highlights",
+          "start": "2026-09-22T01:00:00+03:00",
+          "stop": "2026-09-22T03:00:00+03:00",
+          "title": "Monday Night Countdown",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T04:30:00+03:00",
-          "stop": "2026-09-21T05:30:00+03:00",
-          "title": "NFL GameDay Highlights",
+          "start": "2026-09-22T03:00:00+03:00",
+          "stop": "2026-09-22T06:00:00+03:00",
+          "title": "NFL Football «Teams TBA»",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T05:30:00+03:00",
-          "stop": "2026-09-21T06:30:00+03:00",
-          "title": "NFL GameDay Highlights",
+          "start": "2026-09-22T06:00:00+03:00",
+          "stop": "2026-09-22T06:30:00+03:00",
+          "title": "A Football Life Origins «Kyren Williams»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:30:00+03:00",
+          "stop": "2026-09-22T07:30:00+03:00",
+          "title": "⋗ NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T07:30:00+03:00",
+          "stop": "2026-09-22T10:00:00+03:00",
+          "title": "NFL Football «New York Giants at Los Angeles Rams» (SoFi Stadium, Inglewood, California, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T10:00:00+03:00",
+          "stop": "2026-09-22T11:00:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T11:00:00+03:00",
+          "stop": "2026-09-22T12:00:00+03:00",
+          "title": "NFL GameDay Final",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:00:00+03:00",
+          "stop": "2026-09-22T15:00:00+03:00",
+          "title": "NFL Football «New York Giants at Los Angeles Rams» (SoFi Stadium, Inglewood, California, USA)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T15:00:00+03:00",
+          "stop": "2026-09-22T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:00:00+03:00",
+          "stop": "2026-09-22T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T19:00:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-23T00:00:00+03:00",
+          "title": "NFL Football «New York Giants at Los Angeles Rams» (SoFi Stadium, Inglewood, California, USA)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T00:00:00+03:00",
+          "stop": "2026-09-23T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T01:00:00+03:00",
+          "stop": "2026-09-23T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T02:00:00+03:00",
+          "stop": "2026-09-23T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T03:00:00+03:00",
+          "stop": "2026-09-23T06:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T06:00:00+03:00",
+          "stop": "2026-09-23T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:00:00+03:00",
+          "stop": "2026-09-23T08:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:00:00+03:00",
+          "stop": "2026-09-23T11:00:00+03:00",
+          "title": "NFL Football «Teams TBA»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T11:00:00+03:00",
+          "stop": "2026-09-23T12:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T12:00:00+03:00",
+          "stop": "2026-09-23T13:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T13:00:00+03:00",
+          "stop": "2026-09-23T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T14:00:00+03:00",
+          "stop": "2026-09-23T15:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T15:00:00+03:00",
+          "stop": "2026-09-23T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T17:00:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-24T00:00:00+03:00",
+          "title": "NFL Football «Teams TBA»",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T00:00:00+03:00",
+          "stop": "2026-09-24T01:00:00+03:00",
+          "title": "⋗ NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T01:00:00+03:00",
+          "stop": "2026-09-24T02:00:00+03:00",
+          "title": "NFL Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T02:00:00+03:00",
+          "stop": "2026-09-24T03:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:00:00+03:00",
+          "stop": "2026-09-24T06:00:00+03:00",
+          "title": "NFL Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T06:00:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T08:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:00:00+03:00",
+          "stop": "2026-09-24T11:00:00+03:00",
+          "title": "NFL Football «Teams TBA»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:00:00+03:00",
+          "stop": "2026-09-24T12:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:00:00+03:00",
+          "stop": "2026-09-24T13:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T13:00:00+03:00",
+          "stop": "2026-09-24T14:00:00+03:00",
+          "title": "The Insiders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:00:00+03:00",
+          "stop": "2026-09-24T15:00:00+03:00",
+          "title": "NFL Fantasy Live «[M] NFL Fantasy Live»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T15:00:00+03:00",
+          "stop": "2026-09-24T17:00:00+03:00",
+          "title": "⋗ Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:00:00+03:00",
+          "stop": "2026-09-24T19:00:00+03:00",
+          "title": "Good Morning Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:00:00+03:00",
+          "stop": "2026-09-24T21:00:00+03:00",
+          "title": "⋗ NFL Total Access",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:00:00+03:00",
+          "stop": "2026-09-25T00:00:00+03:00",
+          "title": "NFL Football «Teams TBA»",
           "description": "L",
           "category": null
         }

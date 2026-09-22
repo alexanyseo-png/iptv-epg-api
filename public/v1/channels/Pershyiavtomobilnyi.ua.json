@@ -8,66 +8,258 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 34,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T07:00:00+03:00",
-          "stop": "2026-09-21T08:00:00+03:00",
-          "title": "Автоподія",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T08:00:00+03:00",
-          "stop": "2026-09-21T09:00:00+03:00",
-          "title": "Green Mobility News",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T09:00:00+03:00",
-          "stop": "2026-09-21T10:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T10:00:00+03:00",
-          "stop": "2026-09-21T11:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T11:00:00+03:00",
-          "stop": "2026-09-21T12:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T12:00:00+03:00",
-          "stop": "2026-09-21T13:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T13:00:00+03:00",
-          "stop": "2026-09-21T16:00:00+03:00",
+          "start": "2026-09-22T07:00:00+03:00",
+          "stop": "2026-09-22T09:00:00+03:00",
           "title": "Авто року 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:00:00+03:00",
-          "stop": "2026-09-21T18:00:00+03:00",
+          "start": "2026-09-22T09:00:00+03:00",
+          "stop": "2026-09-22T11:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T11:00:00+03:00",
+          "stop": "2026-09-22T12:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:00:00+03:00",
+          "stop": "2026-09-22T14:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T14:00:00+03:00",
+          "stop": "2026-09-22T17:00:00+03:00",
           "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:00:00+03:00",
+          "stop": "2026-09-22T18:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T18:00:00+03:00",
+          "stop": "2026-09-22T20:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T20:00:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-22T23:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T23:00:00+03:00",
+          "stop": "2026-09-23T07:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T07:00:00+03:00",
+          "stop": "2026-09-23T08:00:00+03:00",
+          "title": "Автоподія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:00:00+03:00",
+          "stop": "2026-09-23T09:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T09:00:00+03:00",
+          "stop": "2026-09-23T10:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T10:00:00+03:00",
+          "stop": "2026-09-23T11:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T11:00:00+03:00",
+          "stop": "2026-09-23T12:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T12:00:00+03:00",
+          "stop": "2026-09-23T14:00:00+03:00",
+          "title": "ByCar батл",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T14:00:00+03:00",
+          "stop": "2026-09-23T16:30:00+03:00",
+          "title": "Мотоспорт. MotoGP. Сезон 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T16:30:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T20:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T20:00:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-23T22:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T22:00:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Мотоспорт. MotoGP. Сезон 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T08:30:00+03:00",
+          "title": "Автоподія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:30:00+03:00",
+          "stop": "2026-09-24T09:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:00:00+03:00",
+          "stop": "2026-09-24T11:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:00:00+03:00",
+          "stop": "2026-09-24T12:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:00:00+03:00",
+          "stop": "2026-09-24T14:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:00:00+03:00",
+          "stop": "2026-09-24T16:00:00+03:00",
+          "title": "Автоентузіасти",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:00:00+03:00",
+          "stop": "2026-09-24T18:00:00+03:00",
+          "title": "Авто року 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:00:00+03:00",
+          "stop": "2026-09-24T19:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:00:00+03:00",
+          "stop": "2026-09-24T20:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T20:00:00+03:00",
+          "stop": "2026-09-24T21:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:00:00+03:00",
+          "stop": "2026-09-24T23:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:00:00+03:00",
+          "stop": "2026-09-25T07:00:00+03:00",
+          "title": "Історії автомобілів",
           "description": "L",
           "category": null
         }

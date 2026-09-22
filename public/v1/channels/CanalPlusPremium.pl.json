@@ -8,115 +8,412 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 56,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T01:05:00+03:00",
-          "stop": "2026-09-21T02:50:00+03:00",
-          "title": "Afterburn",
+          "start": "2026-09-22T01:00:00+03:00",
+          "stop": "2026-09-22T07:00:00+03:00",
+          "title": "Zakończenie programu (przerwa techniczna)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T02:50:00+03:00",
-          "stop": "2026-09-21T04:30:00+03:00",
-          "title": "Whistle",
+          "start": "2026-09-22T07:00:00+03:00",
+          "stop": "2026-09-22T07:05:00+03:00",
+          "title": "Łapu Capu | E226",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T04:30:00+03:00",
-          "stop": "2026-09-21T05:30:00+03:00",
-          "title": "Moje miasto",
+          "start": "2026-09-22T07:05:00+03:00",
+          "stop": "2026-09-22T08:25:00+03:00",
+          "title": "Wszyscy święci",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T05:30:00+03:00",
-          "stop": "2026-09-21T06:45:00+03:00",
-          "title": "Lili",
+          "start": "2026-09-22T08:25:00+03:00",
+          "stop": "2026-09-22T09:20:00+03:00",
+          "title": "Czy AI zabija internet?",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T06:45:00+03:00",
-          "stop": "2026-09-21T07:00:00+03:00",
-          "title": "Premierowa jazda – Łukasz Sychowicz | S05",
+          "start": "2026-09-22T09:20:00+03:00",
+          "stop": "2026-09-22T10:15:00+03:00",
+          "title": "Prawdziwa historia szeregowca Ryana",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T07:00:00+03:00",
-          "stop": "2026-09-21T07:15:00+03:00",
-          "title": "Łapu Capu | E225",
+          "start": "2026-09-22T10:15:00+03:00",
+          "stop": "2026-09-22T11:10:00+03:00",
+          "title": "Miss mokrego podkoszulka",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T07:15:00+03:00",
-          "stop": "2026-09-21T08:55:00+03:00",
-          "title": "Benek",
+          "start": "2026-09-22T11:10:00+03:00",
+          "stop": "2026-09-22T11:25:00+03:00",
+          "title": "Premierowa jazda – Maciej Bochniak | S05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T08:55:00+03:00",
-          "stop": "2026-09-21T10:30:00+03:00",
-          "title": "Hollywoodgate",
+          "start": "2026-09-22T11:25:00+03:00",
+          "stop": "2026-09-22T13:05:00+03:00",
+          "title": "Kopnięci w czasie",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T10:30:00+03:00",
-          "stop": "2026-09-21T11:55:00+03:00",
-          "title": "Fuks",
+          "start": "2026-09-22T13:05:00+03:00",
+          "stop": "2026-09-22T15:00:00+03:00",
+          "title": "Kiler-ów 2-óch",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T11:55:00+03:00",
-          "stop": "2026-09-21T12:10:00+03:00",
-          "title": "Łapu Capu | E225",
+          "start": "2026-09-22T15:00:00+03:00",
+          "stop": "2026-09-22T15:55:00+03:00",
+          "title": "Ostatni bój. Legenda 300 Spartan",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T12:10:00+03:00",
-          "stop": "2026-09-21T13:45:00+03:00",
-          "title": "Thelma",
+          "start": "2026-09-22T15:55:00+03:00",
+          "stop": "2026-09-22T17:30:00+03:00",
+          "title": "Kawałek po kawałku",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T13:45:00+03:00",
-          "stop": "2026-09-21T15:30:00+03:00",
-          "title": "Kiler",
+          "start": "2026-09-22T17:30:00+03:00",
+          "stop": "2026-09-22T19:05:00+03:00",
+          "title": "Pod gwiaździstym niebem",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T15:30:00+03:00",
-          "stop": "2026-09-21T16:25:00+03:00",
-          "title": "Historia Apple'a. Jak sprzedać rewolucję",
+          "start": "2026-09-22T19:05:00+03:00",
+          "stop": "2026-09-22T19:10:00+03:00",
+          "title": "Łapu Capu | E227",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:25:00+03:00",
-          "stop": "2026-09-21T16:50:00+03:00",
-          "title": "Call me lala",
+          "start": "2026-09-22T19:10:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "Niemożliwe",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:50:00+03:00",
-          "stop": "2026-09-21T19:00:00+03:00",
-          "title": "Chopin, Chopin!",
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-22T22:55:00+03:00",
+          "title": "Niedoszła panna młoda",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T22:55:00+03:00",
+          "stop": "2026-09-22T23:50:00+03:00",
+          "title": "CIA. Po 11 września | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T23:50:00+03:00",
+          "stop": "2026-09-23T01:30:00+03:00",
+          "title": "Wolf Man",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T01:30:00+03:00",
+          "stop": "2026-09-23T03:05:00+03:00",
+          "title": "Boogeyman 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T03:05:00+03:00",
+          "stop": "2026-09-23T04:45:00+03:00",
+          "title": "Sekrety skrajnej prawicy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T04:45:00+03:00",
+          "stop": "2026-09-23T06:50:00+03:00",
+          "title": "Yintah",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T06:50:00+03:00",
+          "stop": "2026-09-23T07:00:00+03:00",
+          "title": "Making of CANAL+",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:00:00+03:00",
+          "stop": "2026-09-23T07:05:00+03:00",
+          "title": "Łapu Capu | E227",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:05:00+03:00",
+          "stop": "2026-09-23T08:20:00+03:00",
+          "title": "Długi weekend",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:20:00+03:00",
+          "stop": "2026-09-23T09:55:00+03:00",
+          "title": "Agent szczęścia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T09:55:00+03:00",
+          "stop": "2026-09-23T11:15:00+03:00",
+          "title": "Królowa chmur",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T11:15:00+03:00",
+          "stop": "2026-09-23T13:00:00+03:00",
+          "title": "Listy do Julii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T13:00:00+03:00",
+          "stop": "2026-09-23T13:15:00+03:00",
+          "title": "Premierowa jazda – Karolina Kominek | S05E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T13:15:00+03:00",
+          "stop": "2026-09-23T14:45:00+03:00",
+          "title": "Masz ci los!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T14:45:00+03:00",
+          "stop": "2026-09-23T15:40:00+03:00",
+          "title": "Iran: Pokolenie Z – między wolnością a represją",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T15:40:00+03:00",
+          "stop": "2026-09-23T17:10:00+03:00",
+          "title": "Peacock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T17:10:00+03:00",
+          "stop": "2026-09-23T18:55:00+03:00",
+          "title": "Nowa fala",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T18:55:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "Łapu Capu | E228",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "Jason Bourne",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-23T22:50:00+03:00",
+          "title": "Dobry chłopiec",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T22:50:00+03:00",
+          "stop": "2026-09-23T23:35:00+03:00",
+          "title": "The Walking Dead: Dead City 3 | S03E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T23:35:00+03:00",
+          "stop": "2026-09-24T01:10:00+03:00",
+          "title": "Niebezpieczne zwierzęta",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T01:10:00+03:00",
+          "stop": "2026-09-24T02:05:00+03:00",
+          "title": "Replika",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T02:05:00+03:00",
+          "stop": "2026-09-24T03:30:00+03:00",
+          "title": "Wcielenie zła",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:30:00+03:00",
+          "stop": "2026-09-24T05:20:00+03:00",
+          "title": "Wielka Warszawska",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:20:00+03:00",
+          "stop": "2026-09-24T05:35:00+03:00",
+          "title": "W pamięci",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:35:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Aria di bravura",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T07:05:00+03:00",
+          "title": "Łapu Capu | E228",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:05:00+03:00",
+          "stop": "2026-09-24T08:45:00+03:00",
+          "title": "Nadzieja",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:45:00+03:00",
+          "stop": "2026-09-24T10:15:00+03:00",
+          "title": "Copa 71",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:15:00+03:00",
+          "stop": "2026-09-24T11:20:00+03:00",
+          "title": "Moje pieczone kurczaki",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:20:00+03:00",
+          "stop": "2026-09-24T11:25:00+03:00",
+          "title": "Łapu Capu | E228",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:25:00+03:00",
+          "stop": "2026-09-24T13:05:00+03:00",
+          "title": "Kiedy nadchodzi jesień",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T13:05:00+03:00",
+          "stop": "2026-09-24T14:25:00+03:00",
+          "title": "Ida",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:25:00+03:00",
+          "stop": "2026-09-24T15:50:00+03:00",
+          "title": "Girl Climber. Wspinaczka",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T15:50:00+03:00",
+          "stop": "2026-09-24T16:05:00+03:00",
+          "title": "Premierowa jazda – Mateusz Król | S05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:05:00+03:00",
+          "stop": "2026-09-24T17:45:00+03:00",
+          "title": "Cudowne życie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:45:00+03:00",
+          "stop": "2026-09-24T18:10:00+03:00",
+          "title": "Hollywood Buzz | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:10:00+03:00",
+          "stop": "2026-09-24T18:15:00+03:00",
+          "title": "Łapu Capu | E229",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:15:00+03:00",
+          "stop": "2026-09-24T21:00:00+03:00",
+          "title": "Wicked",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:00:00+03:00",
+          "stop": "2026-09-24T22:45:00+03:00",
+          "title": "Mexicali. Ziemia bezprawia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T22:45:00+03:00",
+          "stop": "2026-09-25T00:10:00+03:00",
+          "title": "Przebudzenie",
           "description": "L",
           "category": null
         }

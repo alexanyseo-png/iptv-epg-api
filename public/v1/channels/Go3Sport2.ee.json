@@ -8,66 +8,314 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 42,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T02:40:00+03:00",
-          "stop": "2026-09-21T05:05:00+03:00",
-          "title": "Hokejs: Šveices Nacionālā līga. ZSC Lions – Geneve. National League",
+          "start": "2026-09-22T00:40:00+03:00",
+          "stop": "2026-09-22T02:35:00+03:00",
+          "title": "Futbols. Bundeslīga. Leverkusen – RB Leipzig. 1. Bundesliga",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T05:05:00+03:00",
-          "stop": "2026-09-21T07:00:00+03:00",
+          "start": "2026-09-22T02:35:00+03:00",
+          "stop": "2026-09-22T05:00:00+03:00",
+          "title": "Futbols – Itālijas līga. Juventus – Atalanta. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T05:00:00+03:00",
+          "stop": "2026-09-22T06:00:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. MX2. 1. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:00:00+03:00",
+          "stop": "2026-09-22T07:00:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. MX2. 2. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T07:00:00+03:00",
+          "stop": "2026-09-22T09:40:00+03:00",
+          "title": "Cīņu sports: UFC. Joshua Van – Alexandre Pantoja. UFC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T09:40:00+03:00",
+          "stop": "2026-09-22T10:35:00+03:00",
+          "title": "Rodeo: profesionāla vēršu jāšana. Ridgedale. Pro Bull Riding",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T10:35:00+03:00",
+          "stop": "2026-09-22T12:30:00+03:00",
+          "title": "Futbols: La Liga. Sevilla – Barcelona. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:30:00+03:00",
+          "stop": "2026-09-22T14:25:00+03:00",
           "title": "Futbols – Ligue 1. Marseille – PSG. Ligue 1 McDonald's",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T07:00:00+03:00",
-          "stop": "2026-09-21T08:55:00+03:00",
-          "title": "Hokejs: Šveices Nacionālā līga. SCL Tigers – ZSC Lions. National League",
+          "start": "2026-09-22T14:25:00+03:00",
+          "stop": "2026-09-22T15:25:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 1. brauciens. Motocross: FIM Motocross World Championship Australia",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T08:55:00+03:00",
-          "stop": "2026-09-21T10:50:00+03:00",
-          "title": "Basketball – Spanish Supercup. 1/2 fināls 2. Joventut – Baskonia. Supercopa de España de Baloncesto",
+          "start": "2026-09-22T15:25:00+03:00",
+          "stop": "2026-09-22T16:25:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 2. brauciens. Motocross: FIM Motocross World Championship Australia",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T10:50:00+03:00",
-          "stop": "2026-09-21T12:40:00+03:00",
-          "title": "Basketball – Spanish Supercup. 1/2 fināls 1. Valencia – Barcelona. Supercopa de España de Baloncesto",
+          "start": "2026-09-22T16:25:00+03:00",
+          "stop": "2026-09-22T18:25:00+03:00",
+          "title": "Basketbols: Eirolīgas superkauss. Spēle par trešo vietu. Euroleague SuperCup",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T12:40:00+03:00",
-          "stop": "2026-09-21T14:35:00+03:00",
+          "start": "2026-09-22T18:25:00+03:00",
+          "stop": "2026-09-22T20:40:00+03:00",
+          "title": "Basketbols: Eirolīgas superkauss. Fināls. Euroleague SuperCup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T20:40:00+03:00",
+          "stop": "2026-09-22T23:15:00+03:00",
+          "title": "Hokejs: Šveices Nacionālā līga. National League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T23:15:00+03:00",
+          "stop": "2026-09-23T01:10:00+03:00",
+          "title": "Futbols: La Liga. Deportivo – Real Betis. LaLiga",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T01:10:00+03:00",
+          "stop": "2026-09-23T03:40:00+03:00",
+          "title": "Basketball – Spanish Supercup. Fināls. Supercopa de España de Baloncesto",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T03:40:00+03:00",
+          "stop": "2026-09-23T04:40:00+03:00",
+          "title": "WRC Čīle. Čīle. 14. ātrumposms. WRC: Rally Chile",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T04:40:00+03:00",
+          "stop": "2026-09-23T05:30:00+03:00",
+          "title": "WRC Čīle. Čīle. 15. ātrumposms. WRC: Rally Chile",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T05:30:00+03:00",
+          "stop": "2026-09-23T07:00:00+03:00",
+          "title": "WRC Čīle. Čīle. 16. ātrumposms. WRC: Rally Chile",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:00:00+03:00",
+          "stop": "2026-09-23T08:55:00+03:00",
+          "title": "Futbols. Bundeslīga. Bayern – Union Berlin. 1. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:55:00+03:00",
+          "stop": "2026-09-23T10:50:00+03:00",
+          "title": "Futbols – Itālijas līga. Juventus – Atalanta. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T10:50:00+03:00",
+          "stop": "2026-09-23T12:45:00+03:00",
           "title": "Basketbols. WNBA. Indiana Fever – Washington Mystics. WNBA",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T14:35:00+03:00",
-          "stop": "2026-09-21T16:25:00+03:00",
-          "title": "Futbols – Itālijas līga. Roma – Inter. Calcio: Campionato Italiano Serie A",
+          "start": "2026-09-23T12:45:00+03:00",
+          "stop": "2026-09-23T14:45:00+03:00",
+          "title": "Basketbols: Eirolīgas superkauss. Spēle par trešo vietu. Euroleague SuperCup",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:25:00+03:00",
-          "stop": "2026-09-21T18:20:00+03:00",
-          "title": "Futbols: La Liga. Deportivo – Real Betis. LaLiga",
+          "start": "2026-09-23T14:45:00+03:00",
+          "stop": "2026-09-23T16:55:00+03:00",
+          "title": "Basketbols: Eirolīgas superkauss. Fināls. Euroleague SuperCup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T16:55:00+03:00",
+          "stop": "2026-09-23T17:55:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 1. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T17:55:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 2. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "Hokejs: Šveices Nacionālā līga. National League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-23T22:55:00+03:00",
+          "title": "Futbols: La Liga. Atlético Madrid – Real Madrid. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T22:55:00+03:00",
+          "stop": "2026-09-24T00:50:00+03:00",
+          "title": "Futbols – Itālijas līga. Milan – Lecce. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T00:50:00+03:00",
+          "stop": "2026-09-24T03:45:00+03:00",
+          "title": "Futbols: Scottish Premiership. Celtic – Rangers. Football: Scottish Premiership",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:45:00+03:00",
+          "stop": "2026-09-24T04:15:00+03:00",
+          "title": "Motorsports: Fastzone žurnāls. Fastzone Magazine",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:15:00+03:00",
+          "stop": "2026-09-24T05:35:00+03:00",
+          "title": "Moto2: Austrijas GP. Sacīkstes. Moto2: Motorrad Grand Prix von Österreich",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:35:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Austrijas GP. Sacīkstes. FIM MotoGP: Grand Prix of Austria",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T08:00:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 1. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:00:00+03:00",
+          "stop": "2026-09-24T09:05:00+03:00",
+          "title": "Motokross: FIM motokrosa pasaules čempionāts Austrālijā. 2. brauciens. Motocross: FIM Motocross World Championship Australia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:05:00+03:00",
+          "stop": "2026-09-24T10:55:00+03:00",
+          "title": "Futbols – Itālijas līga. Bologna – Torino. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:55:00+03:00",
+          "stop": "2026-09-24T12:55:00+03:00",
+          "title": "Hokejs: Šveices Nacionālā līga. National League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:55:00+03:00",
+          "stop": "2026-09-24T14:55:00+03:00",
+          "title": "Hokejs: Šveices Nacionālā līga. National League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:55:00+03:00",
+          "stop": "2026-09-24T16:50:00+03:00",
+          "title": "Futbols: La Liga. Atlético Madrid – Real Madrid. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:50:00+03:00",
+          "stop": "2026-09-24T18:45:00+03:00",
+          "title": "Futbols – Itālijas līga. Fiorentina – Napoli. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:45:00+03:00",
+          "stop": "2026-09-24T21:15:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:15:00+03:00",
+          "stop": "2026-09-24T23:30:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:30:00+03:00",
+          "stop": "2026-09-25T01:25:00+03:00",
+          "title": "Futbols. Bundeslīga. Leverkusen – RB Leipzig. 1. Bundesliga",
           "description": "L",
           "category": null
         }

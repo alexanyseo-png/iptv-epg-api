@@ -8,206 +8,713 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 99,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T00:00:00+03:00",
-          "stop": "2026-09-21T01:00:00+03:00",
-          "title": "Review: MW05",
+          "start": "2026-09-22T00:00:00+03:00",
+          "stop": "2026-09-22T01:00:00+03:00",
+          "title": "Generation Xg",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T01:00:00+03:00",
-          "stop": "2026-09-21T01:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
+          "start": "2026-09-22T01:00:00+03:00",
+          "stop": "2026-09-22T01:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Tot Vs Avl",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T01:30:00+03:00",
-          "stop": "2026-09-21T02:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
+          "start": "2026-09-22T01:30:00+03:00",
+          "stop": "2026-09-22T02:00:00+03:00",
+          "title": "Netbusters: MW05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T02:00:00+03:00",
-          "stop": "2026-09-21T03:00:00+03:00",
-          "title": "The Weekend Wrap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T03:00:00+03:00",
-          "stop": "2026-09-21T04:00:00+03:00",
-          "title": "The Weekend Wrap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T04:00:00+03:00",
-          "stop": "2026-09-21T04:30:00+03:00",
-          "title": "The Big Interview: Ep05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T04:30:00+03:00",
-          "stop": "2026-09-21T05:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T05:00:00+03:00",
-          "stop": "2026-09-21T05:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T05:30:00+03:00",
-          "stop": "2026-09-21T06:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Lee Vs Cry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T06:00:00+03:00",
-          "stop": "2026-09-21T06:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T06:30:00+03:00",
-          "stop": "2026-09-21T07:30:00+03:00",
-          "title": "Review: MW05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T07:30:00+03:00",
-          "stop": "2026-09-21T08:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bha Vs Ars",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T08:00:00+03:00",
-          "stop": "2026-09-21T08:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: New Vs Hul",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T08:30:00+03:00",
-          "stop": "2026-09-21T09:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T09:00:00+03:00",
-          "stop": "2026-09-21T09:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T09:30:00+03:00",
-          "stop": "2026-09-21T10:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Lee Vs Cry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T10:00:00+03:00",
-          "stop": "2026-09-21T10:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T10:30:00+03:00",
-          "stop": "2026-09-21T11:30:00+03:00",
-          "title": "The Weekend Wrap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T11:30:00+03:00",
-          "stop": "2026-09-21T12:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Eve Vs Ips",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T12:00:00+03:00",
-          "stop": "2026-09-21T13:00:00+03:00",
-          "title": "Review: MW05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T13:00:00+03:00",
-          "stop": "2026-09-21T13:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T13:30:00+03:00",
-          "stop": "2026-09-21T14:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T14:00:00+03:00",
-          "stop": "2026-09-21T14:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Lee Vs Cry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T14:30:00+03:00",
-          "stop": "2026-09-21T15:00:00+03:00",
-          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T15:00:00+03:00",
-          "stop": "2026-09-21T16:00:00+03:00",
-          "title": "The Weekend Wrap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T16:00:00+03:00",
-          "stop": "2026-09-21T16:30:00+03:00",
-          "title": "Match Hls 26/27: MW05: Bha Vs Ars",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T16:30:00+03:00",
-          "stop": "2026-09-21T17:30:00+03:00",
+          "start": "2026-09-22T02:00:00+03:00",
+          "stop": "2026-09-22T03:00:00+03:00",
           "title": "Fanzone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T17:30:00+03:00",
-          "stop": "2026-09-21T18:00:00+03:00",
+          "start": "2026-09-22T03:00:00+03:00",
+          "stop": "2026-09-22T04:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T04:00:00+03:00",
+          "stop": "2026-09-22T04:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Nfo Vs Cov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T04:30:00+03:00",
+          "stop": "2026-09-22T05:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T05:30:00+03:00",
+          "stop": "2026-09-22T06:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:00:00+03:00",
+          "stop": "2026-09-22T06:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Bha Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:30:00+03:00",
+          "stop": "2026-09-22T07:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Eve Vs Ips",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T07:00:00+03:00",
+          "stop": "2026-09-22T08:00:00+03:00",
+          "title": "Fanzone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T08:00:00+03:00",
+          "stop": "2026-09-22T08:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T08:30:00+03:00",
+          "stop": "2026-09-22T09:30:00+03:00",
+          "title": "The Weekend Wrap",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T09:30:00+03:00",
+          "stop": "2026-09-22T10:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T10:30:00+03:00",
+          "stop": "2026-09-22T11:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T11:00:00+03:00",
+          "stop": "2026-09-22T12:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:00:00+03:00",
+          "stop": "2026-09-22T12:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Tot Vs Avl",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:30:00+03:00",
+          "stop": "2026-09-22T13:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: New Vs Hul",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T13:00:00+03:00",
+          "stop": "2026-09-22T14:00:00+03:00",
+          "title": "Fanzone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T14:00:00+03:00",
+          "stop": "2026-09-22T15:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T15:00:00+03:00",
+          "stop": "2026-09-22T16:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T16:00:00+03:00",
+          "stop": "2026-09-22T16:30:00+03:00",
           "title": "Match Hls 26/27: MW05: Bou Vs Liv",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T16:30:00+03:00",
+          "stop": "2026-09-22T17:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:30:00+03:00",
+          "stop": "2026-09-22T18:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T18:00:00+03:00",
+          "stop": "2026-09-22T18:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T18:30:00+03:00",
+          "stop": "2026-09-22T19:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T19:00:00+03:00",
+          "stop": "2026-09-22T20:00:00+03:00",
+          "title": "The Weekend Wrap",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T20:00:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-22T21:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Bha Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:30:00+03:00",
+          "stop": "2026-09-22T22:30:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T22:30:00+03:00",
+          "stop": "2026-09-22T23:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T23:00:00+03:00",
+          "stop": "2026-09-23T00:00:00+03:00",
+          "title": "Fanzone",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T00:00:00+03:00",
+          "stop": "2026-09-23T01:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T01:00:00+03:00",
+          "stop": "2026-09-23T01:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T01:30:00+03:00",
+          "stop": "2026-09-23T02:30:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T02:30:00+03:00",
+          "stop": "2026-09-23T03:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T03:00:00+03:00",
+          "stop": "2026-09-23T04:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T04:00:00+03:00",
+          "stop": "2026-09-23T05:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T05:00:00+03:00",
+          "stop": "2026-09-23T05:30:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T05:30:00+03:00",
+          "stop": "2026-09-23T06:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Ful Vs Mun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T06:00:00+03:00",
+          "stop": "2026-09-23T07:00:00+03:00",
+          "title": "PL Moments: Ep03: Michael Carrick Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:00:00+03:00",
+          "stop": "2026-09-23T07:30:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T07:30:00+03:00",
+          "stop": "2026-09-23T08:30:00+03:00",
+          "title": "Goals of the Season: 2021/2022",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:30:00+03:00",
+          "stop": "2026-09-23T09:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Bha Vs Ars",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T09:00:00+03:00",
+          "stop": "2026-09-23T09:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Eve Vs Ips",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T09:30:00+03:00",
+          "stop": "2026-09-23T10:30:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T10:30:00+03:00",
+          "stop": "2026-09-23T11:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T11:00:00+03:00",
+          "stop": "2026-09-23T12:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T12:00:00+03:00",
+          "stop": "2026-09-23T12:30:00+03:00",
+          "title": "The Big Interview: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T12:30:00+03:00",
+          "stop": "2026-09-23T13:00:00+03:00",
+          "title": "PL Stories: Ep16: John Stones Ep16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T13:00:00+03:00",
+          "stop": "2026-09-23T13:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T13:30:00+03:00",
+          "stop": "2026-09-23T14:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T14:00:00+03:00",
+          "stop": "2026-09-23T15:00:00+03:00",
+          "title": "Goals of the Season: 2021/2022",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T15:00:00+03:00",
+          "stop": "2026-09-23T16:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T16:00:00+03:00",
+          "stop": "2026-09-23T17:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T17:00:00+03:00",
+          "stop": "2026-09-23T18:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T18:00:00+03:00",
+          "stop": "2026-09-23T18:30:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T18:30:00+03:00",
+          "stop": "2026-09-23T19:30:00+03:00",
+          "title": "Goals of the Season: 2021/2022",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:30:00+03:00",
+          "stop": "2026-09-23T20:00:00+03:00",
+          "title": "The Big Interview: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T20:00:00+03:00",
+          "stop": "2026-09-23T20:30:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T20:30:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-23T22:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T22:00:00+03:00",
+          "stop": "2026-09-23T23:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T23:00:00+03:00",
+          "stop": "2026-09-23T23:30:00+03:00",
+          "title": "PL Stories: Ep16: John Stones Ep16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T23:30:00+03:00",
+          "stop": "2026-09-24T00:00:00+03:00",
+          "title": "The Big Interview: Ep05",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T00:00:00+03:00",
+          "stop": "2026-09-24T00:30:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T00:30:00+03:00",
+          "stop": "2026-09-24T01:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T01:00:00+03:00",
+          "stop": "2026-09-24T01:30:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T01:30:00+03:00",
+          "stop": "2026-09-24T02:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T02:00:00+03:00",
+          "stop": "2026-09-24T03:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:00:00+03:00",
+          "stop": "2026-09-24T04:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:00:00+03:00",
+          "stop": "2026-09-24T05:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:00:00+03:00",
+          "stop": "2026-09-24T05:30:00+03:00",
+          "title": "Rewind: Ep02: Yaya Toure: Man City 13/14 Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:30:00+03:00",
+          "stop": "2026-09-24T06:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Mci Vs Sun",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T06:00:00+03:00",
+          "stop": "2026-09-24T06:30:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T06:30:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T08:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:00:00+03:00",
+          "stop": "2026-09-24T08:30:00+03:00",
+          "title": "Match Hls 26/27: MW05: Bou Vs Liv",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:30:00+03:00",
+          "stop": "2026-09-24T09:00:00+03:00",
+          "title": "Match Hls 26/27: MW05: Nfo Vs Cov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:00:00+03:00",
+          "stop": "2026-09-24T10:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:00:00+03:00",
+          "stop": "2026-09-24T10:30:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:30:00+03:00",
+          "stop": "2026-09-24T11:00:00+03:00",
+          "title": "Rewind: Ep01: Robbie Fowler: My Liverpool Years Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:00:00+03:00",
+          "stop": "2026-09-24T12:00:00+03:00",
+          "title": "Generation Xg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:00:00+03:00",
+          "stop": "2026-09-24T13:00:00+03:00",
+          "title": "Review of the Season: 2021/2022 (mci)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T13:00:00+03:00",
+          "stop": "2026-09-24T14:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:00:00+03:00",
+          "stop": "2026-09-24T15:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T15:00:00+03:00",
+          "stop": "2026-09-24T15:30:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T15:30:00+03:00",
+          "stop": "2026-09-24T16:00:00+03:00",
+          "title": "The Big Interview: Ep06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:00:00+03:00",
+          "stop": "2026-09-24T16:30:00+03:00",
+          "title": "Rewind: Ep03: Denis Irwin: My Premier League Years Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:30:00+03:00",
+          "stop": "2026-09-24T17:00:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:00:00+03:00",
+          "stop": "2026-09-24T18:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:00:00+03:00",
+          "stop": "2026-09-24T19:00:00+03:00",
+          "title": "Review of the Season: 2021/2022 (mci)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:00:00+03:00",
+          "stop": "2026-09-24T20:00:00+03:00",
+          "title": "The Catch-up Show: Ep05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T20:00:00+03:00",
+          "stop": "2026-09-24T21:00:00+03:00",
+          "title": "Review: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:00:00+03:00",
+          "stop": "2026-09-24T21:30:00+03:00",
+          "title": "The Big Interview: Ep06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:30:00+03:00",
+          "stop": "2026-09-24T22:00:00+03:00",
+          "title": "PL Stories: Ep17: Granit Xhaka Ep17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T22:00:00+03:00",
+          "stop": "2026-09-24T23:00:00+03:00",
+          "title": "PL Goats: Ep01: Hassan Kachloul Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:00:00+03:00",
+          "stop": "2026-09-24T23:30:00+03:00",
+          "title": "Netbusters: MW05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:30:00+03:00",
+          "stop": "2026-09-25T00:30:00+03:00",
+          "title": "The Catch-up Show: Ep05",
           "description": "L",
           "category": null
         }

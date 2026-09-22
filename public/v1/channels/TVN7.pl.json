@@ -8,129 +8,496 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 68,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T00:30:00+03:00",
-          "stop": "2026-09-21T02:55:00+03:00",
-          "title": "Reminiscencja",
+          "start": "2026-09-22T00:30:00+03:00",
+          "stop": "2026-09-22T03:00:00+03:00",
+          "title": "Zapowiedź",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T02:55:00+03:00",
-          "stop": "2026-09-21T05:05:00+03:00",
+          "start": "2026-09-22T03:00:00+03:00",
+          "stop": "2026-09-22T04:10:00+03:00",
+          "title": "Mówię Wam 5 | S05E5/16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T04:10:00+03:00",
+          "stop": "2026-09-22T05:00:00+03:00",
+          "title": "Wrota piekieł 3 | S03E5/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T05:00:00+03:00",
+          "stop": "2026-09-22T05:40:00+03:00",
+          "title": "Dorota was urządzi! | S04E3/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T05:40:00+03:00",
+          "stop": "2026-09-22T06:20:00+03:00",
+          "title": "Dorota was urządzi! | S05E4/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:20:00+03:00",
+          "stop": "2026-09-22T06:55:00+03:00",
+          "title": "Ten moment | E47",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T06:55:00+03:00",
+          "stop": "2026-09-22T07:50:00+03:00",
+          "title": "Szkoła | S06E470",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T07:50:00+03:00",
+          "stop": "2026-09-22T08:45:00+03:00",
+          "title": "Szkoła | S06E471",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T08:45:00+03:00",
+          "stop": "2026-09-22T09:45:00+03:00",
+          "title": "Szkoła | S06E472",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T09:45:00+03:00",
+          "stop": "2026-09-22T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1390",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T10:50:00+03:00",
+          "stop": "2026-09-22T11:50:00+03:00",
+          "title": "Ukryta prawda | S23E1549",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T11:50:00+03:00",
+          "stop": "2026-09-22T12:50:00+03:00",
+          "title": "Ukryta prawda | S23E1550",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:50:00+03:00",
+          "stop": "2026-09-22T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Tatiana | E697",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T13:30:00+03:00",
+          "stop": "2026-09-22T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Mamy tylko siebie | E698",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T14:10:00+03:00",
+          "stop": "2026-09-22T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Napad na Ninę | E699",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T14:55:00+03:00",
+          "stop": "2026-09-22T16:00:00+03:00",
+          "title": "Detektywi | S03E131",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T16:00:00+03:00",
+          "stop": "2026-09-22T17:00:00+03:00",
+          "title": "Szpital św. Anny | S04E136",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:00:00+03:00",
+          "stop": "2026-09-22T18:00:00+03:00",
+          "title": "Szpital | S13E880",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T18:00:00+03:00",
+          "stop": "2026-09-22T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Życzliwa | S11E559",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T19:00:00+03:00",
+          "stop": "2026-09-22T20:00:00+03:00",
+          "title": "Rozwód. Walka o wszystko – Rozwód z uczniem | E11/40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T20:00:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "Ukryta prawda | S27E1691",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-22T22:00:00+03:00",
+          "title": "Hotel Paradise 13 | S13E16/48",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T22:00:00+03:00",
+          "stop": "2026-09-23T00:20:00+03:00",
           "title": "Przynęta",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
         {
-          "start": "2026-09-21T05:05:00+03:00",
-          "stop": "2026-09-21T05:45:00+03:00",
-          "title": "Fachowcy | S01E2/20",
+          "start": "2026-09-23T00:20:00+03:00",
+          "stop": "2026-09-23T03:50:00+03:00",
+          "title": "To: Rozdział 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T05:45:00+03:00",
-          "stop": "2026-09-21T06:20:00+03:00",
-          "title": "Usterka 12 | S12E2/15",
+          "start": "2026-09-23T03:50:00+03:00",
+          "stop": "2026-09-23T04:40:00+03:00",
+          "title": "Hotel Paradise 13 | S13E15/48",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T06:20:00+03:00",
-          "stop": "2026-09-21T06:55:00+03:00",
-          "title": "Ten moment | E46",
+          "start": "2026-09-23T04:40:00+03:00",
+          "stop": "2026-09-23T05:35:00+03:00",
+          "title": "Wrota piekieł 3 | S03E5/13",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T06:55:00+03:00",
-          "stop": "2026-09-21T07:50:00+03:00",
-          "title": "Szkoła | S06E467",
+          "start": "2026-09-23T05:35:00+03:00",
+          "stop": "2026-09-23T06:20:00+03:00",
+          "title": "Fachowcy | S01E3/20",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T07:50:00+03:00",
-          "stop": "2026-09-21T08:45:00+03:00",
-          "title": "Szkoła | S06E468",
+          "start": "2026-09-23T06:20:00+03:00",
+          "stop": "2026-09-23T06:55:00+03:00",
+          "title": "Ten moment | E48",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T08:45:00+03:00",
-          "stop": "2026-09-21T09:45:00+03:00",
-          "title": "Szkoła | S06E469",
+          "start": "2026-09-23T06:55:00+03:00",
+          "stop": "2026-09-23T07:50:00+03:00",
+          "title": "Szkoła | S06E473",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T09:45:00+03:00",
-          "stop": "2026-09-21T10:50:00+03:00",
-          "title": "Ukryta prawda | S20E1389",
+          "start": "2026-09-23T07:50:00+03:00",
+          "stop": "2026-09-23T08:45:00+03:00",
+          "title": "Szkoła | S06E474",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T10:50:00+03:00",
-          "stop": "2026-09-21T11:50:00+03:00",
-          "title": "Ukryta prawda | S23E1547",
+          "start": "2026-09-23T08:45:00+03:00",
+          "stop": "2026-09-23T09:45:00+03:00",
+          "title": "Szkoła | S06E475",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T11:50:00+03:00",
-          "stop": "2026-09-21T12:50:00+03:00",
-          "title": "Ukryta prawda | S23E1548",
+          "start": "2026-09-23T09:45:00+03:00",
+          "stop": "2026-09-23T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1391",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T12:50:00+03:00",
-          "stop": "2026-09-21T13:30:00+03:00",
-          "title": "W-11 – Wydział Śledczy – Samobójstwo Bartka | E694",
+          "start": "2026-09-23T10:50:00+03:00",
+          "stop": "2026-09-23T11:50:00+03:00",
+          "title": "Ukryta prawda | S23E1551",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T13:30:00+03:00",
-          "stop": "2026-09-21T14:10:00+03:00",
-          "title": "W-11 – Wydział Śledczy – Dom Zofii | E695",
+          "start": "2026-09-23T11:50:00+03:00",
+          "stop": "2026-09-23T12:50:00+03:00",
+          "title": "Ukryta prawda | S23E1552",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T14:10:00+03:00",
-          "stop": "2026-09-21T14:55:00+03:00",
-          "title": "W-11 – Wydział Śledczy – Porwanie Ani | E696",
+          "start": "2026-09-23T12:50:00+03:00",
+          "stop": "2026-09-23T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Wiem, kim jesteś! | E700",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T14:55:00+03:00",
-          "stop": "2026-09-21T16:00:00+03:00",
-          "title": "Detektywi – 30 sekund | S03E130",
+          "start": "2026-09-23T13:30:00+03:00",
+          "stop": "2026-09-23T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Tak jak mama | E701",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:00:00+03:00",
-          "stop": "2026-09-21T17:00:00+03:00",
-          "title": "Szpital św. Anny | S04E135",
+          "start": "2026-09-23T14:10:00+03:00",
+          "stop": "2026-09-23T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Gdzie jest Klaudia | E702",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T17:00:00+03:00",
-          "stop": "2026-09-21T18:00:00+03:00",
-          "title": "Szpital | S12E879",
+          "start": "2026-09-23T14:55:00+03:00",
+          "stop": "2026-09-23T16:00:00+03:00",
+          "title": "Detektywi | S03E132",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T16:00:00+03:00",
+          "stop": "2026-09-23T17:00:00+03:00",
+          "title": "Szpital św. Anny | S04E137",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T17:00:00+03:00",
+          "stop": "2026-09-23T18:00:00+03:00",
+          "title": "Szpital | S13E881",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T18:00:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Zabójstwo w sklepie | S11E560",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T20:00:00+03:00",
+          "title": "Rozwód. Walka o wszystko – Rozwód ze stalkerką | E12/40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T20:00:00+03:00",
+          "stop": "2026-09-23T21:00:00+03:00",
+          "title": "Ukryta prawda | S27E1692",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:00:00+03:00",
+          "stop": "2026-09-23T22:00:00+03:00",
+          "title": "Hotel Paradise 13 | S13E17/48",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T22:00:00+03:00",
+          "stop": "2026-09-24T00:35:00+03:00",
+          "title": "Magnezja",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T00:35:00+03:00",
+          "stop": "2026-09-24T03:05:00+03:00",
+          "title": "Sztuka kochania: Historia Michaliny Wisłockiej",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:05:00+03:00",
+          "stop": "2026-09-24T04:05:00+03:00",
+          "title": "Hotel Paradise 13 | S13E16/48",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:05:00+03:00",
+          "stop": "2026-09-24T05:00:00+03:00",
+          "title": "Wrota piekieł 3 | S03E6/13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:00:00+03:00",
+          "stop": "2026-09-24T05:40:00+03:00",
+          "title": "Fachowcy | S01E4/20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:40:00+03:00",
+          "stop": "2026-09-24T06:20:00+03:00",
+          "title": "Usterka 12 | S12E3/15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T06:20:00+03:00",
+          "stop": "2026-09-24T06:55:00+03:00",
+          "title": "Ten moment | E49",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T06:55:00+03:00",
+          "stop": "2026-09-24T07:50:00+03:00",
+          "title": "Szkoła | S06E476",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:50:00+03:00",
+          "stop": "2026-09-24T08:45:00+03:00",
+          "title": "Szkoła | S06E477",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:45:00+03:00",
+          "stop": "2026-09-24T09:45:00+03:00",
+          "title": "Szkoła | S06E478",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:45:00+03:00",
+          "stop": "2026-09-24T10:50:00+03:00",
+          "title": "Ukryta prawda | S20E1392",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:50:00+03:00",
+          "stop": "2026-09-24T11:50:00+03:00",
+          "title": "Ukryta prawda | S23E1553",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:50:00+03:00",
+          "stop": "2026-09-24T12:50:00+03:00",
+          "title": "Ukryta prawda | S23E1554",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:50:00+03:00",
+          "stop": "2026-09-24T13:30:00+03:00",
+          "title": "W-11 – Wydział Śledczy – W obronie | E703",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T13:30:00+03:00",
+          "stop": "2026-09-24T14:10:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Precyzyjny plan zbrodni | E704",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:10:00+03:00",
+          "stop": "2026-09-24T14:55:00+03:00",
+          "title": "W-11 – Wydział Śledczy – Porządek | E705",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:55:00+03:00",
+          "stop": "2026-09-24T16:00:00+03:00",
+          "title": "Detektywi | S03E133",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:00:00+03:00",
+          "stop": "2026-09-24T17:00:00+03:00",
+          "title": "Szpital św. Anny | S04E138",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:00:00+03:00",
+          "stop": "2026-09-24T18:00:00+03:00",
+          "title": "Szpital | S13E882",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:00:00+03:00",
+          "stop": "2026-09-24T19:00:00+03:00",
+          "title": "Sędzia Anna Maria Wesołowska – Uparty jak baran | S11E561",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:00:00+03:00",
+          "stop": "2026-09-24T20:00:00+03:00",
+          "title": "Rozwód. Walka o wszystko – Rozwód z powodu ciąży | E13/40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T20:00:00+03:00",
+          "stop": "2026-09-24T21:00:00+03:00",
+          "title": "Ukryta prawda | S27E1693",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:00:00+03:00",
+          "stop": "2026-09-24T22:00:00+03:00",
+          "title": "Hotel Paradise 13 | S13E18/48",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T22:00:00+03:00",
+          "stop": "2026-09-25T00:15:00+03:00",
+          "title": "Vabank 2, czyli riposta",
           "description": "L",
           "category": null
         }

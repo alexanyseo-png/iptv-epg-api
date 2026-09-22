@@ -8,94 +8,132 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 16,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T01:00:00+03:00",
-          "stop": "2026-09-21T04:00:00+03:00",
+          "start": "2026-09-22T00:00:00+03:00",
+          "stop": "2026-09-22T01:00:00+03:00",
+          "title": "Best of AC/DC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T01:00:00+03:00",
+          "stop": "2026-09-22T04:00:00+03:00",
           "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T04:00:00+03:00",
-          "stop": "2026-09-21T08:00:00+03:00",
+          "start": "2026-09-22T04:00:00+03:00",
+          "stop": "2026-09-22T08:00:00+03:00",
           "title": "Best Polish",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T08:00:00+03:00",
-          "stop": "2026-09-21T09:00:00+03:00",
-          "title": "Best of Ace of Base",
+          "start": "2026-09-22T08:00:00+03:00",
+          "stop": "2026-09-22T09:00:00+03:00",
+          "title": "Best Rock",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T09:00:00+03:00",
-          "stop": "2026-09-21T10:00:00+03:00",
-          "title": "Best of Celine Dion",
+          "start": "2026-09-22T09:00:00+03:00",
+          "stop": "2026-09-22T10:00:00+03:00",
+          "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T10:00:00+03:00",
-          "stop": "2026-09-21T11:00:00+03:00",
-          "title": "Best of Modern Talking",
+          "start": "2026-09-22T10:00:00+03:00",
+          "stop": "2026-09-23T01:00:00+03:00",
+          "title": "Top 166 Hits of the 00's",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T01:00:00+03:00",
+          "stop": "2026-09-23T04:00:00+03:00",
+          "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T11:00:00+03:00",
-          "stop": "2026-09-21T12:00:00+03:00",
-          "title": "Best of Boney M",
+          "start": "2026-09-23T04:00:00+03:00",
+          "stop": "2026-09-23T08:00:00+03:00",
+          "title": "Best Polish",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T12:00:00+03:00",
-          "stop": "2026-09-21T13:00:00+03:00",
-          "title": "Best of Abba",
+          "start": "2026-09-23T08:00:00+03:00",
+          "stop": "2026-09-23T09:00:00+03:00",
+          "title": "Best Rock",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T13:00:00+03:00",
-          "stop": "2026-09-21T14:00:00+03:00",
-          "title": "Best of Maanam",
+          "start": "2026-09-23T09:00:00+03:00",
+          "stop": "2026-09-23T10:00:00+03:00",
+          "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T14:00:00+03:00",
-          "stop": "2026-09-21T15:00:00+03:00",
-          "title": "Best of C.C. Catch",
+          "start": "2026-09-23T10:00:00+03:00",
+          "stop": "2026-09-24T01:00:00+03:00",
+          "title": "Top 166 Hits of the 90's",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T01:00:00+03:00",
+          "stop": "2026-09-24T04:00:00+03:00",
+          "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T15:00:00+03:00",
-          "stop": "2026-09-21T16:00:00+03:00",
-          "title": "Best of a-ha",
+          "start": "2026-09-24T04:00:00+03:00",
+          "stop": "2026-09-24T08:00:00+03:00",
+          "title": "Best Polish",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T16:00:00+03:00",
-          "stop": "2026-09-21T17:00:00+03:00",
-          "title": "Best of Dire Straits",
+          "start": "2026-09-24T08:00:00+03:00",
+          "stop": "2026-09-24T09:00:00+03:00",
+          "title": "Best Rock",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T17:00:00+03:00",
-          "stop": "2026-09-21T18:00:00+03:00",
-          "title": "Best of Kylie Minogue",
+          "start": "2026-09-24T09:00:00+03:00",
+          "stop": "2026-09-24T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:00:00+03:00",
+          "stop": "2026-09-25T01:00:00+03:00",
+          "title": "Top 166 Hits of the 80's",
           "description": "L",
           "category": null
         }

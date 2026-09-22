@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 29,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-09-21",
-      "programs": [
-        {
-          "start": "2026-09-21T05:10:00+03:00",
-          "stop": "2026-09-21T07:00:00+03:00",
-          "title": "Siyah Beyaz Aşk.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T07:00:00+03:00",
-          "stop": "2026-09-21T09:00:00+03:00",
-          "title": "İkizler Memo-Can.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T09:00:00+03:00",
-          "stop": "2026-09-21T12:00:00+03:00",
-          "title": "▶️ Neler Oluyor Hayatta?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T12:00:00+03:00",
-          "stop": "2026-09-21T14:00:00+03:00",
-          "title": "Yaprak Dökümü.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T14:00:00+03:00",
-          "stop": "2026-09-21T16:30:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T16:30:00+03:00",
-          "stop": "2026-09-21T18:15:00+03:00",
-          "title": "Arka Sokaklar.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T18:15:00+03:00",
-          "stop": "2026-09-21T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T19:00:00+03:00",
-          "stop": "2026-09-21T20:00:00+03:00",
-          "title": "Kanal D Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T20:00:00+03:00",
-          "stop": "2026-09-22T02:30:00+03:00",
-          "title": "Uzak Şehir.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-22",
       "programs": [
@@ -225,6 +157,81 @@
           "start": "2026-09-23T19:00:00+03:00",
           "stop": "2026-09-24T02:30:00+03:00",
           "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T02:30:00+03:00",
+          "stop": "2026-09-24T05:10:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:10:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Siyah Beyaz Aşk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T09:00:00+03:00",
+          "title": "İkizler Memo-Can.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:00:00+03:00",
+          "stop": "2026-09-24T12:00:00+03:00",
+          "title": "▶️ Neler Oluyor Hayatta?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:00:00+03:00",
+          "stop": "2026-09-24T14:00:00+03:00",
+          "title": "Yaprak Dökümü.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:00:00+03:00",
+          "stop": "2026-09-24T16:30:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:30:00+03:00",
+          "stop": "2026-09-24T18:15:00+03:00",
+          "title": "Arka Sokaklar.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T18:15:00+03:00",
+          "stop": "2026-09-24T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:00:00+03:00",
+          "stop": "2026-09-24T20:00:00+03:00",
+          "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T20:00:00+03:00",
+          "stop": "2026-09-25T02:30:00+03:00",
+          "title": "Beyaz'la Joker.",
           "description": "L",
           "category": null
         }

@@ -8,87 +8,307 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-21T05:01:07.436582+00:00",
+  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 41,
   "days": [
     {
-      "date": "2026-09-21",
+      "date": "2026-09-22",
       "programs": [
         {
-          "start": "2026-09-21T00:00:00+03:00",
-          "stop": "2026-09-21T03:00:00+03:00",
-          "title": "KSW 121: De Fries vs. Vojčák 2",
+          "start": "2026-09-22T00:15:00+03:00",
+          "stop": "2026-09-22T00:45:00+03:00",
+          "title": "Epic Series – Andorra Epic",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T03:00:00+03:00",
-          "stop": "2026-09-21T04:30:00+03:00",
-          "title": "FRISCH AUF! Göppingen – Rhein-Neckar Löwen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T04:30:00+03:00",
-          "stop": "2026-09-21T08:00:00+03:00",
-          "title": "ThSV Eisenach – THW Kiel",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T08:00:00+03:00",
-          "stop": "2026-09-21T10:30:00+03:00",
-          "title": "World Series of Darts Finals 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T10:30:00+03:00",
-          "stop": "2026-09-21T13:00:00+03:00",
-          "title": "World Series of Darts Finals 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T13:00:00+03:00",
-          "stop": "2026-09-21T13:30:00+03:00",
-          "title": "GKA Big Air Kite Worldchampionships",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T13:30:00+03:00",
-          "stop": "2026-09-21T14:00:00+03:00",
-          "title": "Jackalope",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T14:00:00+03:00",
-          "stop": "2026-09-21T17:00:00+03:00",
-          "title": "KSW 121: De Fries vs. Vojčák 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T17:00:00+03:00",
-          "stop": "2026-09-21T17:15:00+03:00",
-          "title": "Run Aréna (8)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-21T17:15:00+03:00",
-          "stop": "2026-09-21T17:30:00+03:00",
+          "start": "2026-09-22T00:45:00+03:00",
+          "stop": "2026-09-22T01:00:00+03:00",
           "title": "Běhej lesy – Jizerská",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-21T17:30:00+03:00",
-          "stop": "2026-09-21T18:00:00+03:00",
+          "start": "2026-09-22T01:00:00+03:00",
+          "stop": "2026-09-22T03:30:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T03:30:00+03:00",
+          "stop": "2026-09-22T08:00:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T08:00:00+03:00",
+          "stop": "2026-09-22T09:25:00+03:00",
+          "title": "MT Melsungen – SC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T09:25:00+03:00",
+          "stop": "2026-09-22T09:55:00+03:00",
+          "title": "Mystic Skate Cup 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T09:55:00+03:00",
+          "stop": "2026-09-22T10:25:00+03:00",
+          "title": "Ligue 1 Highlights (5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T10:25:00+03:00",
+          "stop": "2026-09-22T12:30:00+03:00",
+          "title": "BC Rytas Vilnius – RSSB Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T12:30:00+03:00",
+          "stop": "2026-09-22T14:25:00+03:00",
+          "title": "Millwall FC – Newcastle United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T14:25:00+03:00",
+          "stop": "2026-09-22T16:30:00+03:00",
+          "title": "Beijing Royal Fighters – Club Atletico Boca Juniors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T16:30:00+03:00",
+          "stop": "2026-09-22T17:00:00+03:00",
           "title": "Carabao Cup Highlights (3)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:00:00+03:00",
+          "stop": "2026-09-22T17:30:00+03:00",
+          "title": "Bentonville Bikefest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T17:30:00+03:00",
+          "stop": "2026-09-22T18:00:00+03:00",
+          "title": "Epic Series – Andorra Epic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T18:00:00+03:00",
+          "stop": "2026-09-22T21:00:00+03:00",
+          "title": "KSW 121: De Fries vs. Vojčák 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T21:00:00+03:00",
+          "stop": "2026-09-22T23:30:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-22T23:30:00+03:00",
+          "stop": "2026-09-23T02:00:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-23",
+      "programs": [
+        {
+          "start": "2026-09-23T02:00:00+03:00",
+          "stop": "2026-09-23T04:00:00+03:00",
+          "title": "BC Rytas Vilnius – RSSB Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T04:00:00+03:00",
+          "stop": "2026-09-23T06:00:00+03:00",
+          "title": "Beijing Royal Fighters – Club Atletico Boca Juniors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T06:00:00+03:00",
+          "stop": "2026-09-23T08:00:00+03:00",
+          "title": "Ligue 1 Highlights (5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T08:00:00+03:00",
+          "stop": "2026-09-23T09:55:00+03:00",
+          "title": "Nový Zéland – Francie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T09:55:00+03:00",
+          "stop": "2026-09-23T10:25:00+03:00",
+          "title": "Epic Series – 4Islands Epic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T10:25:00+03:00",
+          "stop": "2026-09-23T12:30:00+03:00",
+          "title": "Shanghai Sharks – RSSB Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T12:30:00+03:00",
+          "stop": "2026-09-23T14:25:00+03:00",
+          "title": "Nový Zéland – Irsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T14:25:00+03:00",
+          "stop": "2026-09-23T16:30:00+03:00",
+          "title": "Beijing Royal Fighters – NBA G League United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T16:30:00+03:00",
+          "stop": "2026-09-23T19:00:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T19:00:00+03:00",
+          "stop": "2026-09-23T21:30:00+03:00",
+          "title": "World Series of Darts Finals 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-23T21:30:00+03:00",
+          "stop": "2026-09-24T00:00:00+03:00",
+          "title": "KSW 121: De Fries vs. Vojčák 2",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-24",
+      "programs": [
+        {
+          "start": "2026-09-24T00:00:00+03:00",
+          "stop": "2026-09-24T02:00:00+03:00",
+          "title": "Shanghai Sharks – RSSB Tigers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T02:00:00+03:00",
+          "stop": "2026-09-24T04:00:00+03:00",
+          "title": "Beijing Royal Fighters – NBA G League United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:00:00+03:00",
+          "stop": "2026-09-24T04:30:00+03:00",
+          "title": "SpadePoker show 2026 (34)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:30:00+03:00",
+          "stop": "2026-09-24T05:00:00+03:00",
+          "title": "The King's poker (92)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:00:00+03:00",
+          "stop": "2026-09-24T08:00:00+03:00",
+          "title": "The King's poker (37)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:00:00+03:00",
+          "stop": "2026-09-24T09:55:00+03:00",
+          "title": "Austrálie – Irsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:55:00+03:00",
+          "stop": "2026-09-24T10:25:00+03:00",
+          "title": "Jackalope",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:25:00+03:00",
+          "stop": "2026-09-24T12:30:00+03:00",
+          "title": "BC Rytas Vilnius – Shanghai Sharks",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:30:00+03:00",
+          "stop": "2026-09-24T14:25:00+03:00",
+          "title": "Austrálie – Francie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:25:00+03:00",
+          "stop": "2026-09-24T16:30:00+03:00",
+          "title": "Club Atletico Boca Juniors – NBA G League United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:30:00+03:00",
+          "stop": "2026-09-24T19:30:00+03:00",
+          "title": "KSW 121: De Fries vs. Vojčák 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:30:00+03:00",
+          "stop": "2026-09-24T21:30:00+03:00",
+          "title": "Chelsea FC – Leeds United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:30:00+03:00",
+          "stop": "2026-09-24T23:30:00+03:00",
+          "title": "West Ham United – Fulham FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:30:00+03:00",
+          "stop": "2026-09-25T00:00:00+03:00",
+          "title": "Ligue 1 Highlights (5)",
           "description": "L",
           "category": null
         }
