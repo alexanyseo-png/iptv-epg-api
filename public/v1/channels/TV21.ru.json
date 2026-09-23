@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
+  "generatedAt": "2026-09-23T04:48:47.836525+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-09-22",
-      "programs": [
-        {
-          "start": "2026-09-22T01:05:00+03:00",
-          "stop": "2026-09-22T02:35:00+03:00",
-          "title": "Марафон Желаний.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T02:35:00+03:00",
-          "stop": "2026-09-22T04:10:00+03:00",
-          "title": "Один вдох.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T04:10:00+03:00",
-          "stop": "2026-09-22T05:35:00+03:00",
-          "title": "Настоящее будущее.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T05:35:00+03:00",
-          "stop": "2026-09-22T07:00:00+03:00",
-          "title": "Напарник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T07:00:00+03:00",
-          "stop": "2026-09-22T08:40:00+03:00",
-          "title": "Хоттабыч.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T08:40:00+03:00",
-          "stop": "2026-09-22T10:25:00+03:00",
-          "title": "Авантюристы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T10:25:00+03:00",
-          "stop": "2026-09-22T12:50:00+03:00",
-          "title": "Олигарх.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T12:50:00+03:00",
-          "stop": "2026-09-22T14:25:00+03:00",
-          "title": "Осьминог.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T14:25:00+03:00",
-          "stop": "2026-09-22T16:20:00+03:00",
-          "title": "Я худею.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T16:20:00+03:00",
-          "stop": "2026-09-22T18:25:00+03:00",
-          "title": "Маме снова 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T18:25:00+03:00",
-          "stop": "2026-09-22T20:30:00+03:00",
-          "title": "Каникулы строгого режима.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T20:30:00+03:00",
-          "stop": "2026-09-22T22:20:00+03:00",
-          "title": "Хэппи-энд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T22:20:00+03:00",
-          "stop": "2026-09-23T00:00:00+03:00",
-          "title": "Свингеры.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-23",
       "programs": [
@@ -209,8 +113,97 @@
       "programs": [
         {
           "start": "2026-09-24T01:35:00+03:00",
-          "stop": "2026-09-24T02:35:00+03:00",
+          "stop": "2026-09-24T03:25:00+03:00",
           "title": "Сбой сознания.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T03:25:00+03:00",
+          "stop": "2026-09-24T05:10:00+03:00",
+          "title": "Пороховой коктейль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T05:10:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "Кто убил BlackBerry.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T09:05:00+03:00",
+          "title": "Бумер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T09:05:00+03:00",
+          "stop": "2026-09-24T11:10:00+03:00",
+          "title": "Бумер: Фильм второй.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T11:10:00+03:00",
+          "stop": "2026-09-24T12:40:00+03:00",
+          "title": "Сёстры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:40:00+03:00",
+          "stop": "2026-09-24T14:50:00+03:00",
+          "title": "Селфи.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T14:50:00+03:00",
+          "stop": "2026-09-24T17:35:00+03:00",
+          "title": "Территория.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:35:00+03:00",
+          "stop": "2026-09-24T19:20:00+03:00",
+          "title": "Особенности национальной охоты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T19:20:00+03:00",
+          "stop": "2026-09-24T21:10:00+03:00",
+          "title": "Особенности национальной рыбалки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T21:10:00+03:00",
+          "stop": "2026-09-24T23:00:00+03:00",
+          "title": "Турист.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:00:00+03:00",
+          "stop": "2026-09-25T00:35:00+03:00",
+          "title": "Механик.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-25",
+      "programs": [
+        {
+          "start": "2026-09-25T00:35:00+03:00",
+          "stop": "2026-09-25T01:35:00+03:00",
+          "title": "Гангстер, коп и дьявол.",
           "description": "L",
           "category": null
         }

@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-22T05:01:42.250008+00:00",
+  "generatedAt": "2026-09-23T04:48:47.836525+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-09-22",
-      "programs": [
-        {
-          "start": "2026-09-22T01:05:00+03:00",
-          "stop": "2026-09-22T02:35:00+03:00",
-          "title": "Эта любовь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T02:35:00+03:00",
-          "stop": "2026-09-22T04:10:00+03:00",
-          "title": "Красотка в ударе.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T04:10:00+03:00",
-          "stop": "2026-09-22T05:20:00+03:00",
-          "title": "Вечная зима.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T05:20:00+03:00",
-          "stop": "2026-09-22T06:45:00+03:00",
-          "title": "Синдром.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T06:45:00+03:00",
-          "stop": "2026-09-22T08:30:00+03:00",
-          "title": "Точка невозврата.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T08:30:00+03:00",
-          "stop": "2026-09-22T10:20:00+03:00",
-          "title": "Иван-врач.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T10:20:00+03:00",
-          "stop": "2026-09-22T12:00:00+03:00",
-          "title": "Дорога без конца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T12:00:00+03:00",
-          "stop": "2026-09-22T14:40:00+03:00",
-          "title": "1993.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T14:40:00+03:00",
-          "stop": "2026-09-22T16:15:00+03:00",
-          "title": "Большая мечта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T16:15:00+03:00",
-          "stop": "2026-09-22T18:15:00+03:00",
-          "title": "Я остаюсь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T18:15:00+03:00",
-          "stop": "2026-09-22T20:00:00+03:00",
-          "title": "Как назло Сибирь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T20:00:00+03:00",
-          "stop": "2026-09-22T22:55:00+03:00",
-          "title": "Контрибуция.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T22:55:00+03:00",
-          "stop": "2026-09-22T23:55:00+03:00",
-          "title": "Счастливый билетик.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-22T23:55:00+03:00",
-          "stop": "2026-09-23T01:15:00+03:00",
-          "title": "Синдром.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-23",
       "programs": [
@@ -216,8 +113,92 @@
       "programs": [
         {
           "start": "2026-09-24T01:15:00+03:00",
-          "stop": "2026-09-24T02:15:00+03:00",
+          "stop": "2026-09-24T02:55:00+03:00",
           "title": "Иван-врач.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T02:55:00+03:00",
+          "stop": "2026-09-24T04:30:00+03:00",
+          "title": "Дорога без конца.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T04:30:00+03:00",
+          "stop": "2026-09-24T07:00:00+03:00",
+          "title": "1993.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T07:00:00+03:00",
+          "stop": "2026-09-24T08:35:00+03:00",
+          "title": "Большая мечта.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T08:35:00+03:00",
+          "stop": "2026-09-24T10:35:00+03:00",
+          "title": "Я остаюсь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T10:35:00+03:00",
+          "stop": "2026-09-24T12:10:00+03:00",
+          "title": "Как назло Сибирь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T12:10:00+03:00",
+          "stop": "2026-09-24T15:10:00+03:00",
+          "title": "Контрибуция.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T15:10:00+03:00",
+          "stop": "2026-09-24T16:05:00+03:00",
+          "title": "Счастливый билетик.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T16:05:00+03:00",
+          "stop": "2026-09-24T17:55:00+03:00",
+          "title": "Крик тишины.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T17:55:00+03:00",
+          "stop": "2026-09-24T20:00:00+03:00",
+          "title": "Между нами лето.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T20:00:00+03:00",
+          "stop": "2026-09-24T22:05:00+03:00",
+          "title": "Смотри на меня!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T22:05:00+03:00",
+          "stop": "2026-09-24T23:40:00+03:00",
+          "title": "(НЕ)идеальный мужчина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-24T23:40:00+03:00",
+          "stop": "2026-09-25T00:40:00+03:00",
+          "title": "1993.",
           "description": "L",
           "category": null
         }
