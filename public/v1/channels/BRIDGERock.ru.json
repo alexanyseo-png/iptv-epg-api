@@ -8,148 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-23T04:48:47.836525+00:00",
+  "generatedAt": "2026-09-24T04:56:20.089991+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-09-23",
-      "programs": [
-        {
-          "start": "2026-09-23T00:00:00+03:00",
-          "stop": "2026-09-23T08:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T08:00:00+03:00",
-          "stop": "2026-09-23T08:30:00+03:00",
-          "title": "Rock party time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T08:30:00+03:00",
-          "stop": "2026-09-23T09:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T09:00:00+03:00",
-          "stop": "2026-09-23T09:40:00+03:00",
-          "title": "Рок Чарт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T09:40:00+03:00",
-          "stop": "2026-09-23T10:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T10:00:00+03:00",
-          "stop": "2026-09-23T10:01:00+03:00",
-          "title": "Шкала времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T10:01:00+03:00",
-          "stop": "2026-09-23T12:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T12:00:00+03:00",
-          "stop": "2026-09-23T12:01:00+03:00",
-          "title": "Шкала времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T12:01:00+03:00",
-          "stop": "2026-09-23T13:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T13:00:00+03:00",
-          "stop": "2026-09-23T13:40:00+03:00",
-          "title": "Рок Чарт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T13:40:00+03:00",
-          "stop": "2026-09-23T14:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T14:00:00+03:00",
-          "stop": "2026-09-23T14:01:00+03:00",
-          "title": "Шкала времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T14:01:00+03:00",
-          "stop": "2026-09-23T16:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T16:00:00+03:00",
-          "stop": "2026-09-23T16:01:00+03:00",
-          "title": "Шкала времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T16:01:00+03:00",
-          "stop": "2026-09-23T18:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T18:00:00+03:00",
-          "stop": "2026-09-23T18:01:00+03:00",
-          "title": "Шкала времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T18:01:00+03:00",
-          "stop": "2026-09-23T22:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T22:00:00+03:00",
-          "stop": "2026-09-23T22:30:00+03:00",
-          "title": "Rock party time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-23T22:30:00+03:00",
-          "stop": "2026-09-24T00:00:00+03:00",
-          "title": "Рок Миксер.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-24",
       "programs": [
@@ -272,7 +134,124 @@
       "programs": [
         {
           "start": "2026-09-25T00:00:00+03:00",
-          "stop": "2026-09-25T01:00:00+03:00",
+          "stop": "2026-09-25T08:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T08:00:00+03:00",
+          "stop": "2026-09-25T08:30:00+03:00",
+          "title": "Rock party time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T08:30:00+03:00",
+          "stop": "2026-09-25T10:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T10:00:00+03:00",
+          "stop": "2026-09-25T10:01:00+03:00",
+          "title": "Шкала времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T10:01:00+03:00",
+          "stop": "2026-09-25T12:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T12:00:00+03:00",
+          "stop": "2026-09-25T12:01:00+03:00",
+          "title": "Шкала времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T12:01:00+03:00",
+          "stop": "2026-09-25T14:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T14:00:00+03:00",
+          "stop": "2026-09-25T14:01:00+03:00",
+          "title": "Шкала времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T14:01:00+03:00",
+          "stop": "2026-09-25T16:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T16:00:00+03:00",
+          "stop": "2026-09-25T16:01:00+03:00",
+          "title": "Шкала времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T16:01:00+03:00",
+          "stop": "2026-09-25T16:40:00+03:00",
+          "title": "Рок Чарт.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T16:40:00+03:00",
+          "stop": "2026-09-25T18:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T18:00:00+03:00",
+          "stop": "2026-09-25T18:01:00+03:00",
+          "title": "Шкала времени.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T18:01:00+03:00",
+          "stop": "2026-09-25T22:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T22:00:00+03:00",
+          "stop": "2026-09-25T22:30:00+03:00",
+          "title": "Rock party time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T22:30:00+03:00",
+          "stop": "2026-09-26T00:00:00+03:00",
+          "title": "Рок Миксер.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "programs": [
+        {
+          "start": "2026-09-26T00:00:00+03:00",
+          "stop": "2026-09-26T01:00:00+03:00",
           "title": "Рок Миксер.",
           "description": "L",
           "category": null
