@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-24T04:56:20.089991+00:00",
+  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-09-24",
-      "programs": [
-        {
-          "start": "2026-09-24T00:00:00+03:00",
-          "stop": "2026-09-24T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T05:00:00+03:00",
-          "stop": "2026-09-24T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T07:00:00+03:00",
-          "stop": "2026-09-24T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:00:00+03:00",
-          "stop": "2026-09-24T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T14:00:00+03:00",
-          "stop": "2026-09-24T16:00:00+03:00",
-          "title": "Подробнее с Александром Топориным",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:00:00+03:00",
-          "stop": "2026-09-24T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:00:00+03:00",
-          "stop": "2026-09-24T21:00:00+03:00",
-          "title": "Мардан",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T21:00:00+03:00",
-          "stop": "2026-09-24T22:00:00+03:00",
-          "title": "Newsroom с Александром Валеевым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T22:00:00+03:00",
-          "stop": "2026-09-24T23:00:00+03:00",
-          "title": "На войне как на войне",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T23:00:00+03:00",
-          "stop": "2026-09-25T00:00:00+03:00",
-          "title": "Фейк-контроль",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-25",
       "programs": [
@@ -239,6 +164,95 @@
           "start": "2026-09-26T23:00:00+03:00",
           "stop": "2026-09-27T05:00:00+03:00",
           "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "programs": [
+        {
+          "start": "2026-09-27T05:00:00+03:00",
+          "stop": "2026-09-27T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T07:00:00+03:00",
+          "stop": "2026-09-27T09:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T09:00:00+03:00",
+          "stop": "2026-09-27T11:00:00+03:00",
+          "title": "Подробнее с Иваном Каменевым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T11:00:00+03:00",
+          "stop": "2026-09-27T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T13:00:00+03:00",
+          "stop": "2026-09-27T17:30:00+03:00",
+          "title": "Подробнее с Маратом Булатовым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T17:30:00+03:00",
+          "stop": "2026-09-27T18:00:00+03:00",
+          "title": "Главный вопрос",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T18:00:00+03:00",
+          "stop": "2026-09-27T19:00:00+03:00",
+          "title": "Рассказы из русской истории",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T19:00:00+03:00",
+          "stop": "2026-09-27T20:00:00+03:00",
+          "title": "Геоэнергетика LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T20:00:00+03:00",
+          "stop": "2026-09-27T21:40:00+03:00",
+          "title": "Соловьев LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T21:40:00+03:00",
+          "stop": "2026-09-27T22:00:00+03:00",
+          "title": "Разборы Рыбаря",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T22:00:00+03:00",
+          "stop": "2026-09-27T23:00:00+03:00",
+          "title": "Соловьев LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T23:00:00+03:00",
+          "stop": "2026-09-28T00:00:00+03:00",
+          "title": "СоловьевLive лучшее",
           "description": "L",
           "category": null
         }

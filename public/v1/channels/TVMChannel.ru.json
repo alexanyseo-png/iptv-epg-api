@@ -8,610 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-24T04:56:20.089991+00:00",
+  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
   "available": true,
-  "programmeCount": 169,
+  "programmeCount": 127,
   "days": [
-    {
-      "date": "2026-09-24",
-      "programs": [
-        {
-          "start": "2026-09-24T01:23:00+03:00",
-          "stop": "2026-09-24T03:00:00+03:00",
-          "title": "Художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:00:00+03:00",
-          "stop": "2026-09-24T03:04:00+03:00",
-          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:04:00+03:00",
-          "stop": "2026-09-24T03:08:00+03:00",
-          "title": "Sting Fields Of Gold.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:08:00+03:00",
-          "stop": "2026-09-24T03:13:00+03:00",
-          "title": "Justin Timberlake. Filthy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:13:00+03:00",
-          "stop": "2026-09-24T03:16:00+03:00",
-          "title": "Сергей Лазарев. Как дети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:16:00+03:00",
-          "stop": "2026-09-24T03:19:00+03:00",
-          "title": "Mona. Мама.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:19:00+03:00",
-          "stop": "2026-09-24T03:23:00+03:00",
-          "title": "Alex Lim. Океан.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:23:00+03:00",
-          "stop": "2026-09-24T03:26:00+03:00",
-          "title": "Светлана Лазарева. Ты и я.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:26:00+03:00",
-          "stop": "2026-09-24T03:29:00+03:00",
-          "title": "1R DJ. First.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:29:00+03:00",
-          "stop": "2026-09-24T03:34:00+03:00",
-          "title": "Stephanie De Monaco. Flash.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:34:00+03:00",
-          "stop": "2026-09-24T03:37:00+03:00",
-          "title": "Secret Service Flash In The Night.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:37:00+03:00",
-          "stop": "2026-09-24T03:41:00+03:00",
-          "title": "Stephanie De Monaco. Fleurs du mal.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:41:00+03:00",
-          "stop": "2026-09-24T03:45:00+03:00",
-          "title": "Fancy. Fools Cry.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:45:00+03:00",
-          "stop": "2026-09-24T03:49:00+03:00",
-          "title": "Liam Payne, Rita Ora. For You (Fifty Shades Freed).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:49:00+03:00",
-          "stop": "2026-09-24T03:52:00+03:00",
-          "title": "The Tenors. Forever Young.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:52:00+03:00",
-          "stop": "2026-09-24T03:56:00+03:00",
-          "title": "Alphaville. Forever Young (Dance Version).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T03:56:00+03:00",
-          "stop": "2026-09-24T04:00:00+03:00",
-          "title": "Biagio Antonacci. Fortuna che ci sei.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:00:00+03:00",
-          "stop": "2026-09-24T04:04:00+03:00",
-          "title": "Ivan. Fotonovela.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:04:00+03:00",
-          "stop": "2026-09-24T04:08:00+03:00",
-          "title": "Throttle. Found You (Make Me Yours).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:08:00+03:00",
-          "stop": "2026-09-24T04:11:00+03:00",
-          "title": "R3hab & Quintino. Freak.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:11:00+03:00",
-          "stop": "2026-09-24T04:14:00+03:00",
-          "title": "TJR. Freaks.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:14:00+03:00",
-          "stop": "2026-09-24T04:21:00+03:00",
-          "title": "Avicii ft. Vargas & Lagola. Friend Of Mine.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T04:21:00+03:00",
-          "stop": "2026-09-24T05:10:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T05:10:00+03:00",
-          "stop": "2026-09-24T06:00:00+03:00",
-          "title": "Сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T06:00:00+03:00",
-          "stop": "2026-09-24T07:21:00+03:00",
-          "title": "Многосерийный художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T07:21:00+03:00",
-          "stop": "2026-09-24T08:38:00+03:00",
-          "title": "Многосерийный художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T08:38:00+03:00",
-          "stop": "2026-09-24T09:30:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:30:00+03:00",
-          "stop": "2026-09-24T09:34:00+03:00",
-          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:34:00+03:00",
-          "stop": "2026-09-24T09:37:00+03:00",
-          "title": "Ольга Бузова, 5УТРА. Бесценна.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:37:00+03:00",
-          "stop": "2026-09-24T09:42:00+03:00",
-          "title": "Покров Этно. Благодарю.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:42:00+03:00",
-          "stop": "2026-09-24T09:48:00+03:00",
-          "title": "Покров Этно, Добрыня Сатин, Начын Чореве. Всем живущим.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:48:00+03:00",
-          "stop": "2026-09-24T09:52:00+03:00",
-          "title": "Эмин. Если не любишь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:52:00+03:00",
-          "stop": "2026-09-24T09:56:00+03:00",
-          "title": "Сергей Лазарев. Как дети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T09:56:00+03:00",
-          "stop": "2026-09-24T10:00:00+03:00",
-          "title": "Клава Кока, JONY. Журавли.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T10:00:00+03:00",
-          "stop": "2026-09-24T11:38:00+03:00",
-          "title": "Смокинг.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:38:00+03:00",
-          "stop": "2026-09-24T11:42:00+03:00",
-          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:42:00+03:00",
-          "stop": "2026-09-24T11:46:00+03:00",
-          "title": "Great Traveler (Финляндия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:46:00+03:00",
-          "stop": "2026-09-24T11:51:00+03:00",
-          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:51:00+03:00",
-          "stop": "2026-09-24T11:57:00+03:00",
-          "title": "ArtPicturesReel (Кристина Орбакайте).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T11:57:00+03:00",
-          "stop": "2026-09-24T12:01:00+03:00",
-          "title": "Кинопоэзия (А. Чурина - Сердечные пиксели 3).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:01:00+03:00",
-          "stop": "2026-09-24T12:04:00+03:00",
-          "title": "Katie Melua. The Walls Of The World.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:04:00+03:00",
-          "stop": "2026-09-24T12:08:00+03:00",
-          "title": "F.R. David. This Time I Have To Win.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:08:00+03:00",
-          "stop": "2026-09-24T12:11:00+03:00",
-          "title": "Queen. Time Waits for No One.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:11:00+03:00",
-          "stop": "2026-09-24T12:14:00+03:00",
-          "title": "Jeanette y juan bau toda la noche oliendo a ti.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:14:00+03:00",
-          "stop": "2026-09-24T12:18:00+03:00",
-          "title": "Philip Oakey Together In Electric Dreams.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:18:00+03:00",
-          "stop": "2026-09-24T12:22:00+03:00",
-          "title": "Gina T. Tokyo By Night.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:22:00+03:00",
-          "stop": "2026-09-24T12:25:00+03:00",
-          "title": "Michael Bedford. Tonight.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:25:00+03:00",
-          "stop": "2026-09-24T12:31:00+03:00",
-          "title": "Bonnie Tyler - Total Eclipse Of The Heart.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:31:00+03:00",
-          "stop": "2026-09-24T12:34:00+03:00",
-          "title": "Silent Circle. Touch In The Night.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:34:00+03:00",
-          "stop": "2026-09-24T12:40:00+03:00",
-          "title": "Whitney Houston. Try It on My Own.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:40:00+03:00",
-          "stop": "2026-09-24T12:58:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T12:58:00+03:00",
-          "stop": "2026-09-24T13:02:00+03:00",
-          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T13:02:00+03:00",
-          "stop": "2026-09-24T13:55:00+03:00",
-          "title": "Artem SAINT CODE & Anastasia Sokolova. DJ set _ Pole dance Down tempo Melodic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T13:55:00+03:00",
-          "stop": "2026-09-24T14:00:00+03:00",
-          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T14:00:00+03:00",
-          "stop": "2026-09-24T15:14:00+03:00",
-          "title": "Многосерийный художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T15:14:00+03:00",
-          "stop": "2026-09-24T16:30:00+03:00",
-          "title": "Многосерийный художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:30:00+03:00",
-          "stop": "2026-09-24T16:34:00+03:00",
-          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:34:00+03:00",
-          "stop": "2026-09-24T16:37:00+03:00",
-          "title": "Ольга Бузова, 5УТРА. Бесценна.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:37:00+03:00",
-          "stop": "2026-09-24T16:43:00+03:00",
-          "title": "Покров Этно. Благодарю.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:43:00+03:00",
-          "stop": "2026-09-24T16:48:00+03:00",
-          "title": "Покров Этно, Добрыня Сатин, Начын Чореве. Всем живущим.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:48:00+03:00",
-          "stop": "2026-09-24T16:52:00+03:00",
-          "title": "Эмин. Если не любишь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:52:00+03:00",
-          "stop": "2026-09-24T16:56:00+03:00",
-          "title": "Сергей Лазарев. Как дети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:56:00+03:00",
-          "stop": "2026-09-24T16:59:00+03:00",
-          "title": "Светлана Лазарева. Ты и я.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T16:59:00+03:00",
-          "stop": "2026-09-24T17:05:00+03:00",
-          "title": "Mona. Мама.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T17:05:00+03:00",
-          "stop": "2026-09-24T17:23:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T17:23:00+03:00",
-          "stop": "2026-09-24T17:27:00+03:00",
-          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T17:27:00+03:00",
-          "stop": "2026-09-24T17:56:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T17:56:00+03:00",
-          "stop": "2026-09-24T18:00:00+03:00",
-          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T18:00:00+03:00",
-          "stop": "2026-09-24T18:03:00+03:00",
-          "title": "Great Traveler (Финляндия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T18:03:00+03:00",
-          "stop": "2026-09-24T18:09:00+03:00",
-          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T18:09:00+03:00",
-          "stop": "2026-09-24T18:15:00+03:00",
-          "title": "ArtPicturesReel (Кристина Орбакайте).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T18:15:00+03:00",
-          "stop": "2026-09-24T18:19:00+03:00",
-          "title": "Кинопоэзия (А. Чурина - Сердечные пиксели 3).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T18:19:00+03:00",
-          "stop": "2026-09-24T19:11:00+03:00",
-          "title": "Документальный сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:11:00+03:00",
-          "stop": "2026-09-24T19:15:00+03:00",
-          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:15:00+03:00",
-          "stop": "2026-09-24T19:19:00+03:00",
-          "title": "Лим. Целый мир.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:19:00+03:00",
-          "stop": "2026-09-24T19:22:00+03:00",
-          "title": "Ольга Бузова, 5УТРА. Бесценна.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:22:00+03:00",
-          "stop": "2026-09-24T19:27:00+03:00",
-          "title": "Покров Этно. Благодарю.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:27:00+03:00",
-          "stop": "2026-09-24T19:32:00+03:00",
-          "title": "Покров Этно, Добрыня Сатин, Начын Чореве. Всем живущим.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:32:00+03:00",
-          "stop": "2026-09-24T19:36:00+03:00",
-          "title": "Ева Власова, Ева Польна. Ева Ева.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:36:00+03:00",
-          "stop": "2026-09-24T19:41:00+03:00",
-          "title": "Клава Кока, JONY. Журавли.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T19:41:00+03:00",
-          "stop": "2026-09-24T20:30:00+03:00",
-          "title": "Сериал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T20:30:00+03:00",
-          "stop": "2026-09-24T21:46:00+03:00",
-          "title": "Художественный фильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T21:46:00+03:00",
-          "stop": "2026-09-24T22:55:00+03:00",
-          "title": "Atlantis. Melodic Techno & Progressive House Live Mix DEAD SEA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T22:55:00+03:00",
-          "stop": "2026-09-24T23:00:00+03:00",
-          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T23:00:00+03:00",
-          "stop": "2026-09-25T01:23:00+03:00",
-          "title": "Сериал.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-25",
       "programs": [
@@ -1203,8 +603,314 @@
       "programs": [
         {
           "start": "2026-09-26T01:26:00+03:00",
-          "stop": "2026-09-26T02:26:00+03:00",
+          "stop": "2026-09-26T03:16:00+03:00",
           "title": "Художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T03:16:00+03:00",
+          "stop": "2026-09-26T03:21:00+03:00",
+          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T03:21:00+03:00",
+          "stop": "2026-09-26T04:21:00+03:00",
+          "title": "Африка (Пустыня Калахари).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T04:21:00+03:00",
+          "stop": "2026-09-26T05:22:00+03:00",
+          "title": "Африка Саванна 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T05:22:00+03:00",
+          "stop": "2026-09-26T06:23:00+03:00",
+          "title": "Африка (Джунгли Конго).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T06:23:00+03:00",
+          "stop": "2026-09-26T07:23:00+03:00",
+          "title": "Африка (Мыс Доброй Надежды).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T07:23:00+03:00",
+          "stop": "2026-09-26T08:24:00+03:00",
+          "title": "Африка (Пустыня Сахара).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T08:24:00+03:00",
+          "stop": "2026-09-26T09:28:00+03:00",
+          "title": "Африка Будущее 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:28:00+03:00",
+          "stop": "2026-09-26T09:32:00+03:00",
+          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:32:00+03:00",
+          "stop": "2026-09-26T09:35:00+03:00",
+          "title": "Ольга Бузова, 5УТРА. Бесценна.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:35:00+03:00",
+          "stop": "2026-09-26T09:38:00+03:00",
+          "title": "Daasha. Заплаткой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:38:00+03:00",
+          "stop": "2026-09-26T09:41:00+03:00",
+          "title": "Сергей Лазарев. Как дети.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:41:00+03:00",
+          "stop": "2026-09-26T09:44:00+03:00",
+          "title": "Mona. Мама.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:44:00+03:00",
+          "stop": "2026-09-26T09:48:00+03:00",
+          "title": "Alex Lim. Океан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:48:00+03:00",
+          "stop": "2026-09-26T09:52:00+03:00",
+          "title": "Светлана Лазарева. Ты и я.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:52:00+03:00",
+          "stop": "2026-09-26T09:55:00+03:00",
+          "title": "Лим. Целый мир.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:55:00+03:00",
+          "stop": "2026-09-26T09:58:00+03:00",
+          "title": "Ольга Бузова, 5УТРА. Бесценна.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:58:00+03:00",
+          "stop": "2026-09-26T10:03:00+03:00",
+          "title": "Покров Этно. Благодарю.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:03:00+03:00",
+          "stop": "2026-09-26T10:09:00+03:00",
+          "title": "Покров Этно, Добрыня Сатин, Начын Чореве. Всем живущим.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:09:00+03:00",
+          "stop": "2026-09-26T10:12:00+03:00",
+          "title": "Светлана Лазарева. Ты и я.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:12:00+03:00",
+          "stop": "2026-09-26T10:16:00+03:00",
+          "title": "Лим. Целый мир.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:16:00+03:00",
+          "stop": "2026-09-26T10:19:00+03:00",
+          "title": "Ева Власова, Ева Польна. Ева Ева.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:19:00+03:00",
+          "stop": "2026-09-26T10:23:00+03:00",
+          "title": "Клава Кока, JONY. Журавли.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:23:00+03:00",
+          "stop": "2026-09-26T10:25:00+03:00",
+          "title": "Daasha. Заплаткой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:25:00+03:00",
+          "stop": "2026-09-26T10:37:00+03:00",
+          "title": "DAVA. Колыбельная.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:37:00+03:00",
+          "stop": "2026-09-26T11:10:00+03:00",
+          "title": "До 17 и старше (340-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T11:10:00+03:00",
+          "stop": "2026-09-26T11:14:00+03:00",
+          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T11:14:00+03:00",
+          "stop": "2026-09-26T12:29:00+03:00",
+          "title": "Детский киносеанс.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T12:29:00+03:00",
+          "stop": "2026-09-26T13:15:00+03:00",
+          "title": "Мультики.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T13:15:00+03:00",
+          "stop": "2026-09-26T20:00:00+03:00",
+          "title": "Сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T20:00:00+03:00",
+          "stop": "2026-09-26T20:29:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T20:29:00+03:00",
+          "stop": "2026-09-26T20:33:00+03:00",
+          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T20:33:00+03:00",
+          "stop": "2026-09-26T22:27:00+03:00",
+          "title": "Художественный фильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T22:27:00+03:00",
+          "stop": "2026-09-27T00:13:00+03:00",
+          "title": "Vanessa Paradis. Une nuit a Versailles.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "programs": [
+        {
+          "start": "2026-09-27T00:13:00+03:00",
+          "stop": "2026-09-27T00:17:00+03:00",
+          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T00:17:00+03:00",
+          "stop": "2026-09-27T00:35:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T00:35:00+03:00",
+          "stop": "2026-09-27T00:39:00+03:00",
+          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T00:39:00+03:00",
+          "stop": "2026-09-27T00:57:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T00:57:00+03:00",
+          "stop": "2026-09-27T01:01:00+03:00",
+          "title": "2026. Кабардино-Балкария. Водопады Безенги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:01:00+03:00",
+          "stop": "2026-09-27T01:19:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:19:00+03:00",
+          "stop": "2026-09-27T01:23:00+03:00",
+          "title": "2026. Кабардино-Балкария. Хуламо-Безенгийское ущелье.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:23:00+03:00",
+          "stop": "2026-09-27T01:41:00+03:00",
+          "title": "Документальный сериал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:41:00+03:00",
+          "stop": "2026-09-27T01:45:00+03:00",
+          "title": "2026. Леди Макбет Мценского уезда. Премьера МХАТ им. М. Горького.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:45:00+03:00",
+          "stop": "2026-09-27T02:45:00+03:00",
+          "title": "Документальный сериал.",
           "description": "L",
           "category": null
         }

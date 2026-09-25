@@ -8,73 +8,552 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-24T04:56:20.089991+00:00",
+  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 76,
   "days": [
     {
-      "date": "2026-09-24",
+      "date": "2026-09-25",
       "programs": [
         {
-          "start": "2026-09-24T00:00:00+03:00",
-          "stop": "2026-09-24T00:30:00+03:00",
-          "title": "Mortimer & Whitehouse: Gone Fishing.",
+          "start": "2026-09-25T00:00:00+03:00",
+          "stop": "2026-09-25T00:30:00+03:00",
+          "title": "That Mitchell and Webb Look.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T00:30:00+03:00",
-          "stop": "2026-09-24T00:58:00+03:00",
+          "start": "2026-09-25T00:30:00+03:00",
+          "stop": "2026-09-25T00:58:00+03:00",
           "title": "Newsnight.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T00:58:00+03:00",
-          "stop": "2026-09-24T01:00:00+03:00",
+          "start": "2026-09-25T00:58:00+03:00",
+          "stop": "2026-09-25T01:00:00+03:00",
           "title": "BBC Weather.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T01:00:00+03:00",
-          "stop": "2026-09-24T01:30:00+03:00",
-          "title": "Unspun World with John Simpson.",
+          "start": "2026-09-25T01:00:00+03:00",
+          "stop": "2026-09-25T01:50:00+03:00",
+          "title": "ODI Cricket.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T01:30:00+03:00",
-          "stop": "2026-09-24T02:30:00+03:00",
-          "title": "The Devil's Confession: The Lost Eichmann Tapes. \"Dealing with the Devil\".",
+          "start": "2026-09-25T01:50:00+03:00",
+          "stop": "2026-09-25T02:50:00+03:00",
+          "title": "Emergency 24/7.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T02:30:00+03:00",
-          "stop": "2026-09-24T03:30:00+03:00",
-          "title": "Celebrity MasterChef. \"Final\".",
+          "start": "2026-09-25T02:50:00+03:00",
+          "stop": "2026-09-25T04:20:00+03:00",
+          "title": "Wham! 10 Days in China.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T03:30:00+03:00",
-          "stop": "2026-09-24T04:30:00+03:00",
-          "title": "The Split Up.",
+          "start": "2026-09-25T04:20:00+03:00",
+          "stop": "2026-09-25T05:20:00+03:00",
+          "title": "Saving Lives at Sea.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-24T04:30:00+03:00",
-          "stop": "2026-09-24T05:30:00+03:00",
-          "title": "Ludwig.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-24T05:30:00+03:00",
-          "stop": "2026-09-24T06:30:00+03:00",
+          "start": "2026-09-25T05:20:00+03:00",
+          "stop": "2026-09-25T08:30:00+03:00",
           "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T08:30:00+03:00",
+          "stop": "2026-09-25T09:15:00+03:00",
+          "title": "Garden Rescue.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T09:15:00+03:00",
+          "stop": "2026-09-25T10:00:00+03:00",
+          "title": "Antiques Road Trip.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T10:00:00+03:00",
+          "stop": "2026-09-25T10:30:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T10:30:00+03:00",
+          "stop": "2026-09-25T11:00:00+03:00",
+          "title": "Mastermind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T11:00:00+03:00",
+          "stop": "2026-09-25T14:30:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T14:30:00+03:00",
+          "stop": "2026-09-25T15:00:00+03:00",
+          "title": "Political Thinking with Nick Robinson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T15:00:00+03:00",
+          "stop": "2026-09-25T15:45:00+03:00",
+          "title": "Impossible.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T15:45:00+03:00",
+          "stop": "2026-09-25T16:30:00+03:00",
+          "title": "The Edge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T16:30:00+03:00",
+          "stop": "2026-09-25T17:15:00+03:00",
+          "title": "Unbeatable.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T17:15:00+03:00",
+          "stop": "2026-09-25T17:45:00+03:00",
+          "title": "Beechgrove Garden. \"Beechgrove Repotted\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T17:45:00+03:00",
+          "stop": "2026-09-25T18:45:00+03:00",
+          "title": "The Great British Sewing Bee.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T18:45:00+03:00",
+          "stop": "2026-09-25T21:00:00+03:00",
+          "title": "▶️ Northern Ireland International Football.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T21:00:00+03:00",
+          "stop": "2026-09-25T21:28:00+03:00",
+          "title": "Newsnight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T21:28:00+03:00",
+          "stop": "2026-09-25T21:30:00+03:00",
+          "title": "BBC Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T21:30:00+03:00",
+          "stop": "2026-09-25T22:00:00+03:00",
+          "title": "Beechgrove Garden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T22:00:00+03:00",
+          "stop": "2026-09-25T23:00:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-25T23:00:00+03:00",
+          "stop": "2026-09-26T00:00:00+03:00",
+          "title": "Michael Portillo's 200 Years of the Railways.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-26",
+      "programs": [
+        {
+          "start": "2026-09-26T00:00:00+03:00",
+          "stop": "2026-09-26T01:20:00+03:00",
+          "title": "Film: Immaculate.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T01:20:00+03:00",
+          "stop": "2026-09-26T02:50:00+03:00",
+          "title": "Film: His House.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T02:50:00+03:00",
+          "stop": "2026-09-26T03:50:00+03:00",
+          "title": "Saving Lives at Sea.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T03:50:00+03:00",
+          "stop": "2026-09-26T04:20:00+03:00",
+          "title": "Panorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T04:20:00+03:00",
+          "stop": "2026-09-26T05:30:00+03:00",
+          "title": "The Big Deal with Steph McGovern.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T05:30:00+03:00",
+          "stop": "2026-09-26T08:25:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T08:25:00+03:00",
+          "stop": "2026-09-26T08:35:00+03:00",
+          "title": "Piripenguins. \"Pancake's Big Beak Freakout\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T08:35:00+03:00",
+          "stop": "2026-09-26T08:45:00+03:00",
+          "title": "Big Lizard. \"All About Coral\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T08:45:00+03:00",
+          "stop": "2026-09-26T08:50:00+03:00",
+          "title": "The Weasy Family. \"Mission Calm\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T08:50:00+03:00",
+          "stop": "2026-09-26T09:05:00+03:00",
+          "title": "Super Happy Magic Forest. \"New Broom\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:05:00+03:00",
+          "stop": "2026-09-26T09:10:00+03:00",
+          "title": "Grizzy and the Lemmings. \"Choco-Noodles\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:10:00+03:00",
+          "stop": "2026-09-26T09:20:00+03:00",
+          "title": "Duck and Frog. \"Art Class\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:20:00+03:00",
+          "stop": "2026-09-26T09:40:00+03:00",
+          "title": "Pokémon Horizons. \"Mega Evolution – Roy\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T09:40:00+03:00",
+          "stop": "2026-09-26T10:05:00+03:00",
+          "title": "Winx Club – The Magic Is Back. \"The Truth About Bloom\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:05:00+03:00",
+          "stop": "2026-09-26T10:30:00+03:00",
+          "title": "The Next Step. \"Specials, Anti-Bullying Special: Come Together\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:30:00+03:00",
+          "stop": "2026-09-26T10:35:00+03:00",
+          "title": "Newsround.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T10:35:00+03:00",
+          "stop": "2026-09-26T11:05:00+03:00",
+          "title": "Blue Peter. \"Shaun the Sheep, Pets and Deadly Crafts\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T11:05:00+03:00",
+          "stop": "2026-09-26T12:05:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T12:05:00+03:00",
+          "stop": "2026-09-26T12:35:00+03:00",
+          "title": "This Wild Life. \"The River Crossing\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T12:35:00+03:00",
+          "stop": "2026-09-26T15:15:00+03:00",
+          "title": "Film: The Life and Death of Colonel Blimp.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T15:15:00+03:00",
+          "stop": "2026-09-26T15:45:00+03:00",
+          "title": "Marcus Wareing's Tales from a Kitchen Garden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T15:45:00+03:00",
+          "stop": "2026-09-26T16:15:00+03:00",
+          "title": "Nadiya's Everyday Baking. \"Afternoon Tea\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T16:15:00+03:00",
+          "stop": "2026-09-26T16:45:00+03:00",
+          "title": "Race Against the Tide.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T16:45:00+03:00",
+          "stop": "2026-09-26T18:30:00+03:00",
+          "title": "Film: Lover Come Back.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T18:30:00+03:00",
+          "stop": "2026-09-26T19:15:00+03:00",
+          "title": "Flog It! \"Sheffield 14\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T19:15:00+03:00",
+          "stop": "2026-09-26T21:45:00+03:00",
+          "title": "▶️ Rugby League: Super League. \"Wigan – Wakefield\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T21:45:00+03:00",
+          "stop": "2026-09-26T22:45:00+03:00",
+          "title": "Wilderness with Simon Reeve. \"Papua New Guinea\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-26T22:45:00+03:00",
+          "stop": "2026-09-27T00:00:00+03:00",
+          "title": "Chrissie Hynde and the Pretenders at the BBC.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "programs": [
+        {
+          "start": "2026-09-27T00:00:00+03:00",
+          "stop": "2026-09-27T01:30:00+03:00",
+          "title": "Glastonbury. \"The Pretenders\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T01:30:00+03:00",
+          "stop": "2026-09-27T02:35:00+03:00",
+          "title": "Arena. \"Alone with Chrissie Hynde\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T02:35:00+03:00",
+          "stop": "2026-09-27T04:25:00+03:00",
+          "title": "Film: Nostalgia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T04:25:00+03:00",
+          "stop": "2026-09-27T05:00:00+03:00",
+          "title": "Colin from Accounts. \"Druggy Druggy Sex Party\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T05:00:00+03:00",
+          "stop": "2026-09-27T05:30:00+03:00",
+          "title": "Colin from Accounts. \"Matching Set\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T05:30:00+03:00",
+          "stop": "2026-09-27T08:10:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T08:10:00+03:00",
+          "stop": "2026-09-27T08:55:00+03:00",
+          "title": "The A to Z of TV Gardening.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T08:55:00+03:00",
+          "stop": "2026-09-27T09:40:00+03:00",
+          "title": "Glorious Gardens from Above.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T09:40:00+03:00",
+          "stop": "2026-09-27T10:40:00+03:00",
+          "title": "Countryfile. \"Bayeux Tapestry\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T10:40:00+03:00",
+          "stop": "2026-09-27T11:10:00+03:00",
+          "title": "Landward.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T11:10:00+03:00",
+          "stop": "2026-09-27T11:40:00+03:00",
+          "title": "Beechgrove Garden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T11:40:00+03:00",
+          "stop": "2026-09-27T13:10:00+03:00",
+          "title": "Saturday Kitchen Best Bites.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T13:10:00+03:00",
+          "stop": "2026-09-27T13:40:00+03:00",
+          "title": "Lorraine Pascale: How to Be a Better Cook. \"Travis Francis\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T13:40:00+03:00",
+          "stop": "2026-09-27T14:40:00+03:00",
+          "title": "Nigel and Adam's Farm Kitchen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T14:40:00+03:00",
+          "stop": "2026-09-27T16:05:00+03:00",
+          "title": "Film: The 39 Steps.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T16:05:00+03:00",
+          "stop": "2026-09-27T17:40:00+03:00",
+          "title": "Film: The Lady Vanishes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T17:40:00+03:00",
+          "stop": "2026-09-27T18:25:00+03:00",
+          "title": "Flog It! \"Harrogate 20\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T18:25:00+03:00",
+          "stop": "2026-09-27T19:15:00+03:00",
+          "title": "Kingdom. \"Storm's Retreat\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T19:15:00+03:00",
+          "stop": "2026-09-27T20:15:00+03:00",
+          "title": "This Farming Life.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T20:15:00+03:00",
+          "stop": "2026-09-27T21:15:00+03:00",
+          "title": "Wild Tales From the Village.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T21:15:00+03:00",
+          "stop": "2026-09-27T22:00:00+03:00",
+          "title": "Eva Longoria: Searching for France.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T22:00:00+03:00",
+          "stop": "2026-09-27T23:00:00+03:00",
+          "title": "Pilgrimage.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T23:00:00+03:00",
+          "stop": "2026-09-28T00:00:00+03:00",
+          "title": "Wilderness with Simon Reeve. \"Sea of Cortez\".",
           "description": "L",
           "category": null
         }
