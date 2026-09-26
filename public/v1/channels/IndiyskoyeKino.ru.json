@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
+  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
   "available": true,
-  "programmeCount": 14,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "start": "2026-09-25T03:10:00+03:00",
-          "stop": "2026-09-25T06:30:00+03:00",
-          "title": "Ритмы любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T06:30:00+03:00",
-          "stop": "2026-09-25T09:00:00+03:00",
-          "title": "Брат.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T09:00:00+03:00",
-          "stop": "2026-09-25T12:00:00+03:00",
-          "title": "Виражи судьбы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:00:00+03:00",
-          "stop": "2026-09-25T16:05:00+03:00",
-          "title": "И в печали, и в радости...",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T16:05:00+03:00",
-          "stop": "2026-09-25T20:00:00+03:00",
-          "title": "Я схожу с ума от любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T20:00:00+03:00",
-          "stop": "2026-09-25T23:30:00+03:00",
-          "title": "Месть и закон.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T23:30:00+03:00",
-          "stop": "2026-09-26T02:55:00+03:00",
-          "title": "Мы впятером.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-26",
       "programs": [
@@ -113,8 +59,69 @@
         },
         {
           "start": "2026-09-26T22:40:00+03:00",
-          "stop": "2026-09-26T23:40:00+03:00",
+          "stop": "2026-09-27T02:05:00+03:00",
           "title": "Ритмы любви.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-27",
+      "programs": [
+        {
+          "start": "2026-09-27T02:05:00+03:00",
+          "stop": "2026-09-27T04:30:00+03:00",
+          "title": "Мишень.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T04:30:00+03:00",
+          "stop": "2026-09-27T07:40:00+03:00",
+          "title": "Мы впятером.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T07:40:00+03:00",
+          "stop": "2026-09-27T10:35:00+03:00",
+          "title": "Моя любовь всегда со мной.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T10:35:00+03:00",
+          "stop": "2026-09-27T14:10:00+03:00",
+          "title": "Месть и закон.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T14:10:00+03:00",
+          "stop": "2026-09-27T17:00:00+03:00",
+          "title": "Клянусь памятью мужа.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T17:00:00+03:00",
+          "stop": "2026-09-27T20:00:00+03:00",
+          "title": "Виражи судьбы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T20:00:00+03:00",
+          "stop": "2026-09-27T23:10:00+03:00",
+          "title": "И в печали, и в радости...",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T23:10:00+03:00",
+          "stop": "2026-09-28T00:10:00+03:00",
+          "title": "Моя любовь всегда со мной.",
           "description": "L",
           "category": null
         }

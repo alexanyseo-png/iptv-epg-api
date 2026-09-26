@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
+  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "start": "2026-09-25T01:00:00+03:00",
-          "stop": "2026-09-25T03:00:00+03:00",
-          "title": "Serie A: Roma vs Atalanta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T03:00:00+03:00",
-          "stop": "2026-09-25T05:00:00+03:00",
-          "title": "Serie A: Frosinone vs Venezia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T05:00:00+03:00",
-          "stop": "2026-09-25T07:00:00+03:00",
-          "title": "Serie A: Cagliari vs Lecce",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T07:00:00+03:00",
-          "stop": "2026-09-25T09:00:00+03:00",
-          "title": "Kirin: Japan vs Uruguay",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T09:00:00+03:00",
-          "stop": "2026-09-25T11:00:00+03:00",
-          "title": "Serie A: Bologna vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T11:00:00+03:00",
-          "stop": "2026-09-25T13:00:00+03:00",
-          "title": "Serie A: Juventus vs Milan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T13:00:00+03:00",
-          "stop": "2026-09-25T15:00:00+03:00",
-          "title": "Serie A: Udinese vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T15:00:00+03:00",
-          "stop": "2026-09-25T17:00:00+03:00",
-          "title": "Serie A: Genoa vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T17:00:00+03:00",
-          "stop": "2026-09-25T19:00:00+03:00",
-          "title": "Serie A: Inter vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T19:00:00+03:00",
-          "stop": "2026-09-25T21:00:00+03:00",
-          "title": "Dutch: Ajax vs Excelsior",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T21:00:00+03:00",
-          "stop": "2026-09-25T23:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Utrecht",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T23:00:00+03:00",
-          "stop": "2026-09-26T01:00:00+03:00",
-          "title": "Dutch: Twente vs PSV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-26",
       "programs": [
@@ -288,6 +199,46 @@
           "start": "2026-09-27T23:00:00+03:00",
           "stop": "2026-09-28T01:00:00+03:00",
           "title": "Serie A: Roma vs Fiorentina",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "programs": [
+        {
+          "start": "2026-09-28T01:00:00+03:00",
+          "stop": "2026-09-28T03:00:00+03:00",
+          "title": "Serie A: Lazio vs Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T03:00:00+03:00",
+          "stop": "2026-09-28T05:00:00+03:00",
+          "title": "Serie A: Atalanta vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T05:00:00+03:00",
+          "stop": "2026-09-28T07:00:00+03:00",
+          "title": "Serie A: Torino vs Roma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:00:00+03:00",
+          "stop": "2026-09-28T09:00:00+03:00",
+          "title": "Serie A: Como vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:00:00+03:00",
+          "stop": "2026-09-28T11:00:00+03:00",
+          "title": "DFB: St.Tonis vs Eintracht",
           "description": "L",
           "category": null
         }

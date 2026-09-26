@@ -8,232 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
+  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
   "available": true,
-  "programmeCount": 78,
+  "programmeCount": 52,
   "days": [
-    {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "start": "2026-09-25T00:35:00+03:00",
-          "stop": "2026-09-25T01:15:00+03:00",
-          "title": "Было интересно.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T01:15:00+03:00",
-          "stop": "2026-09-25T01:20:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T01:20:00+03:00",
-          "stop": "2026-09-25T02:10:00+03:00",
-          "title": "Құдаша қыз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T02:10:00+03:00",
-          "stop": "2026-09-25T02:45:00+03:00",
-          "title": "Таза сана.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T02:45:00+03:00",
-          "stop": "2026-09-25T03:30:00+03:00",
-          "title": "Көңіл толқыны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T03:30:00+03:00",
-          "stop": "2026-09-25T03:35:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T03:35:00+03:00",
-          "stop": "2026-09-25T04:00:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T04:00:00+03:00",
-          "stop": "2026-09-25T04:05:00+03:00",
-          "title": "Ақша әліппесі.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T04:05:00+03:00",
-          "stop": "2026-09-25T05:00:00+03:00",
-          "title": "Құдаша қыз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T05:00:00+03:00",
-          "stop": "2026-09-25T07:00:00+03:00",
-          "title": "Таңшолпан.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T07:00:00+03:00",
-          "stop": "2026-09-25T08:00:00+03:00",
-          "title": "30, но 17.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T08:00:00+03:00",
-          "stop": "2026-09-25T08:10:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T08:10:00+03:00",
-          "stop": "2026-09-25T10:10:00+03:00",
-          "title": "Меня зовут Мелек.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T10:10:00+03:00",
-          "stop": "2026-09-25T11:00:00+03:00",
-          "title": "Было интересно.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T11:00:00+03:00",
-          "stop": "2026-09-25T11:10:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T11:10:00+03:00",
-          "stop": "2026-09-25T12:20:00+03:00",
-          "title": "Сезім Толқыны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:20:00+03:00",
-          "stop": "2026-09-25T12:50:00+03:00",
-          "title": "Қарқынды құрылыс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:50:00+03:00",
-          "stop": "2026-09-25T12:55:00+03:00",
-          "title": "Superstar Kz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:55:00+03:00",
-          "stop": "2026-09-25T13:55:00+03:00",
-          "title": "Көңіл толқыны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T13:55:00+03:00",
-          "stop": "2026-09-25T15:00:00+03:00",
-          "title": "Жоғалған есім.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T15:00:00+03:00",
-          "stop": "2026-09-25T15:20:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T15:20:00+03:00",
-          "stop": "2026-09-25T16:00:00+03:00",
-          "title": "Қазір айтайық.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T16:00:00+03:00",
-          "stop": "2026-09-25T18:00:00+03:00",
-          "title": "Меня зовут Мелек.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T18:00:00+03:00",
-          "stop": "2026-09-25T18:30:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T18:30:00+03:00",
-          "stop": "2026-09-25T19:30:00+03:00",
-          "title": "Прощальное письмо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T19:30:00+03:00",
-          "stop": "2026-09-25T20:25:00+03:00",
-          "title": "Жоғалған есім.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T20:25:00+03:00",
-          "stop": "2026-09-25T21:20:00+03:00",
-          "title": "Ашық алаң.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T21:20:00+03:00",
-          "stop": "2026-09-25T22:20:00+03:00",
-          "title": "1001 Түн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T22:20:00+03:00",
-          "stop": "2026-09-25T22:55:00+03:00",
-          "title": "Парасат майданы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T22:55:00+03:00",
-          "stop": "2026-09-25T23:25:00+03:00",
-          "title": "Информация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T23:25:00+03:00",
-          "stop": "2026-09-26T00:15:00+03:00",
-          "title": "Қазір айтайық.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-26",
       "programs": [
@@ -568,6 +346,46 @@
           "start": "2026-09-27T21:30:00+03:00",
           "stop": "2026-09-28T00:00:00+03:00",
           "title": "Дос-Мұқасан.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "programs": [
+        {
+          "start": "2026-09-28T00:00:00+03:00",
+          "stop": "2026-09-28T00:40:00+03:00",
+          "title": "Неделя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T00:40:00+03:00",
+          "stop": "2026-09-28T01:00:00+03:00",
+          "title": "Ақорда.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T01:00:00+03:00",
+          "stop": "2026-09-28T01:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T01:05:00+03:00",
+          "stop": "2026-09-28T02:45:00+03:00",
+          "title": "Құдаша қыз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T02:45:00+03:00",
+          "stop": "2026-09-28T03:45:00+03:00",
+          "title": "Адам тәнінің ғажайыптары.",
           "description": "L",
           "category": null
         }

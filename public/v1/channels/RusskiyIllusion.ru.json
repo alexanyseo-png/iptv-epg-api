@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
+  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "start": "2026-09-25T02:15:00+03:00",
-          "stop": "2026-09-25T03:40:00+03:00",
-          "title": "Большая мечта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T03:40:00+03:00",
-          "stop": "2026-09-25T05:30:00+03:00",
-          "title": "Я остаюсь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T05:30:00+03:00",
-          "stop": "2026-09-25T06:50:00+03:00",
-          "title": "Джунгли.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T06:50:00+03:00",
-          "stop": "2026-09-25T08:30:00+03:00",
-          "title": "Как назло Сибирь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T08:30:00+03:00",
-          "stop": "2026-09-25T11:25:00+03:00",
-          "title": "Контрибуция.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T11:25:00+03:00",
-          "stop": "2026-09-25T12:25:00+03:00",
-          "title": "Счастливый билетик.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:25:00+03:00",
-          "stop": "2026-09-25T14:10:00+03:00",
-          "title": "Крик тишины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T14:10:00+03:00",
-          "stop": "2026-09-25T16:10:00+03:00",
-          "title": "Между нами лето.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T16:10:00+03:00",
-          "stop": "2026-09-25T18:20:00+03:00",
-          "title": "Смотри на меня!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T18:20:00+03:00",
-          "stop": "2026-09-25T20:00:00+03:00",
-          "title": "(НЕ)идеальный мужчина.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T20:00:00+03:00",
-          "stop": "2026-09-25T21:55:00+03:00",
-          "title": "Норвег.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T21:55:00+03:00",
-          "stop": "2026-09-25T23:40:00+03:00",
-          "title": "Уик-Энд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T23:40:00+03:00",
-          "stop": "2026-09-26T01:30:00+03:00",
-          "title": "Я остаюсь.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-26",
       "programs": [
@@ -209,8 +113,85 @@
       "programs": [
         {
           "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T02:00:00+03:00",
+          "stop": "2026-09-27T03:45:00+03:00",
           "title": "Контрибуция.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T03:45:00+03:00",
+          "stop": "2026-09-27T05:25:00+03:00",
+          "title": "Любовь с акцентом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T05:25:00+03:00",
+          "stop": "2026-09-27T07:05:00+03:00",
+          "title": "Крик тишины.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T07:05:00+03:00",
+          "stop": "2026-09-27T09:05:00+03:00",
+          "title": "Между нами лето.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T09:05:00+03:00",
+          "stop": "2026-09-27T11:10:00+03:00",
+          "title": "Смотри на меня!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T11:10:00+03:00",
+          "stop": "2026-09-27T12:50:00+03:00",
+          "title": "(НЕ)идеальный мужчина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T12:50:00+03:00",
+          "stop": "2026-09-27T14:45:00+03:00",
+          "title": "Норвег.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T14:45:00+03:00",
+          "stop": "2026-09-27T16:30:00+03:00",
+          "title": "Уик-Энд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T16:30:00+03:00",
+          "stop": "2026-09-27T18:05:00+03:00",
+          "title": "Дыхание мёртвого леса.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T18:05:00+03:00",
+          "stop": "2026-09-27T20:00:00+03:00",
+          "title": "Последняя цена.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T20:00:00+03:00",
+          "stop": "2026-09-27T21:35:00+03:00",
+          "title": "В небо за мечтой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-27T21:35:00+03:00",
+          "stop": "2026-09-27T22:35:00+03:00",
+          "title": "Территория.",
           "description": "L",
           "category": null
         }

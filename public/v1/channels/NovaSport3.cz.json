@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-25T05:01:30.510799+00:00",
+  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-09-25",
-      "programs": [
-        {
-          "start": "2026-09-25T00:00:00+03:00",
-          "stop": "2026-09-25T02:00:00+03:00",
-          "title": "Energie Cottbus – FC St. Pauli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T02:00:00+03:00",
-          "stop": "2026-09-25T08:00:00+03:00",
-          "title": "Hamburger SV – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T08:00:00+03:00",
-          "stop": "2026-09-25T08:30:00+03:00",
-          "title": "EFL Highlights (8)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T08:30:00+03:00",
-          "stop": "2026-09-25T09:30:00+03:00",
-          "title": "Bundesliga Highlights (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T09:30:00+03:00",
-          "stop": "2026-09-25T10:00:00+03:00",
-          "title": "Bundesliga speciál (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T10:00:00+03:00",
-          "stop": "2026-09-25T12:00:00+03:00",
-          "title": "Hamburger SV – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T12:00:00+03:00",
-          "stop": "2026-09-25T14:00:00+03:00",
-          "title": "Bayern Mnichov – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T14:00:00+03:00",
-          "stop": "2026-09-25T15:50:00+03:00",
-          "title": "Wolverhampton Wanderers – West Bromwich Albion",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T15:50:00+03:00",
-          "stop": "2026-09-25T17:45:00+03:00",
-          "title": "CD Leganés – Granada CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T17:45:00+03:00",
-          "stop": "2026-09-25T19:20:00+03:00",
-          "title": "TIKI-TAKA 26/27 (9)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T19:20:00+03:00",
-          "stop": "2026-09-25T19:50:00+03:00",
-          "title": "Bundesliga speciál (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T19:50:00+03:00",
-          "stop": "2026-09-25T20:50:00+03:00",
-          "title": "Bundesliga Highlights (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T20:50:00+03:00",
-          "stop": "2026-09-25T21:30:00+03:00",
-          "title": "Bundesliga Weekly (6)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T21:30:00+03:00",
-          "stop": "2026-09-25T22:00:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (3)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-25T22:00:00+03:00",
-          "stop": "2026-09-26T00:00:00+03:00",
-          "title": "VfB Stuttgart – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-26",
       "programs": [
@@ -302,6 +192,46 @@
           "start": "2026-09-27T22:15:00+03:00",
           "stop": "2026-09-28T00:05:00+03:00",
           "title": "FC Porto – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-28",
+      "programs": [
+        {
+          "start": "2026-09-28T00:05:00+03:00",
+          "stop": "2026-09-28T01:55:00+03:00",
+          "title": "Liverpool FC – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T01:55:00+03:00",
+          "stop": "2026-09-28T02:20:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T02:20:00+03:00",
+          "stop": "2026-09-28T08:00:00+03:00",
+          "title": "Bayern Mnichov – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:00:00+03:00",
+          "stop": "2026-09-28T10:00:00+03:00",
+          "title": "Borussia Dortmund – Hamburger SV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:00:00+03:00",
+          "stop": "2026-09-28T12:00:00+03:00",
+          "title": "1. FC Köln – TSG Hoffenheim",
           "description": "L",
           "category": null
         }
