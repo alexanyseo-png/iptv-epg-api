@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
+  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-09-26",
-      "programs": [
-        {
-          "start": "2026-09-26T00:50:00+03:00",
-          "stop": "2026-09-26T02:20:00+03:00",
-          "title": "Прощёное воскресенье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T02:20:00+03:00",
-          "stop": "2026-09-26T05:05:00+03:00",
-          "title": "Пластмассовая королева.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T05:05:00+03:00",
-          "stop": "2026-09-26T08:05:00+03:00",
-          "title": "Сладкая месть.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T08:05:00+03:00",
-          "stop": "2026-09-26T11:45:00+03:00",
-          "title": "Синее озеро.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T11:45:00+03:00",
-          "stop": "2026-09-26T15:00:00+03:00",
-          "title": "Не того поля ягода.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T15:00:00+03:00",
-          "stop": "2026-09-26T18:15:00+03:00",
-          "title": "Сводные судьбы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T18:15:00+03:00",
-          "stop": "2026-09-26T21:35:00+03:00",
-          "title": "Любовь как стихийное бедствие.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T21:35:00+03:00",
-          "stop": "2026-09-27T00:55:00+03:00",
-          "title": "Осенняя мелодия любви.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-27",
       "programs": [
@@ -146,8 +85,15 @@
       "programs": [
         {
           "start": "2026-09-28T01:20:00+03:00",
-          "stop": "2026-09-28T02:20:00+03:00",
+          "stop": "2026-09-28T04:20:00+03:00",
           "title": "Любимые женщины Казановы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T04:20:00+03:00",
+          "stop": "2026-09-28T05:20:00+03:00",
+          "title": "Женщина наводит порядок.",
           "description": "L",
           "category": null
         }

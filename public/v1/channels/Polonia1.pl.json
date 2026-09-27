@@ -8,190 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-26T05:03:25.142903+00:00",
+  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
   "available": true,
-  "programmeCount": 64,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-09-26",
-      "programs": [
-        {
-          "start": "2026-09-26T00:20:00+03:00",
-          "stop": "2026-09-26T01:25:00+03:00",
-          "title": "Kabaretowy szał – Ciach | S05E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T01:25:00+03:00",
-          "stop": "2026-09-26T02:25:00+03:00",
-          "title": "Kabaretowy szał bis – Kabaret Moralnego Niepokoju | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T02:25:00+03:00",
-          "stop": "2026-09-26T03:20:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Czesuaf | S02E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T03:20:00+03:00",
-          "stop": "2026-09-26T04:35:00+03:00",
-          "title": "Kabaretowy szał 4 – Tey | S04E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T04:35:00+03:00",
-          "stop": "2026-09-26T05:50:00+03:00",
-          "title": "Kabaretowy szał bis – Fair Play Crew | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T05:50:00+03:00",
-          "stop": "2026-09-26T07:00:00+03:00",
-          "title": "Miłe rozmowy | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T07:00:00+03:00",
-          "stop": "2026-09-26T07:55:00+03:00",
-          "title": "Kabaretowy szał – Jurki | S03E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T07:55:00+03:00",
-          "stop": "2026-09-26T09:00:00+03:00",
-          "title": "Kabaretowy szał 4 – Młodych Panów | S04E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T09:00:00+03:00",
-          "stop": "2026-09-26T09:30:00+03:00",
-          "title": "Straż graniczna 2 | S02E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T09:30:00+03:00",
-          "stop": "2026-09-26T10:05:00+03:00",
-          "title": "Straż graniczna 3 | S03E16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T10:05:00+03:00",
-          "stop": "2026-09-26T10:30:00+03:00",
-          "title": "Straż graniczna | S01E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T10:30:00+03:00",
-          "stop": "2026-09-26T11:00:00+03:00",
-          "title": "Straż graniczna 5 | S05E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T11:00:00+03:00",
-          "stop": "2026-09-26T11:25:00+03:00",
-          "title": "Yattaman – Wyprawa w Alpy | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T11:25:00+03:00",
-          "stop": "2026-09-26T12:00:00+03:00",
-          "title": "Yattaman – Gangsterzy | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T12:00:00+03:00",
-          "stop": "2026-09-26T12:45:00+03:00",
-          "title": "Zagadka tygodnia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T12:45:00+03:00",
-          "stop": "2026-09-26T13:25:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S02E14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T13:25:00+03:00",
-          "stop": "2026-09-26T14:15:00+03:00",
-          "title": "Kabaretowy szał 2026 – Czesuaf | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T14:15:00+03:00",
-          "stop": "2026-09-26T15:10:00+03:00",
-          "title": "Kabaretowy szał 2026 – Trzecia Strona Medalu | E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T15:10:00+03:00",
-          "stop": "2026-09-26T16:05:00+03:00",
-          "title": "Kabaretowy szał 2026 – Kabaret Jurki | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T16:05:00+03:00",
-          "stop": "2026-09-26T18:05:00+03:00",
-          "title": "Klejnot TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T18:05:00+03:00",
-          "stop": "2026-09-26T18:45:00+03:00",
-          "title": "Ale cyrk | S01E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T18:45:00+03:00",
-          "stop": "2026-09-26T18:50:00+03:00",
-          "title": "Coś śmiesznego – Fair_Play_Crew_4 | E39",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T18:50:00+03:00",
-          "stop": "2026-09-26T19:00:00+03:00",
-          "title": "Uśmiechnij się | S01E14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T19:00:00+03:00",
-          "stop": "2026-09-26T22:00:00+03:00",
-          "title": "Klejnot TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-26T22:00:00+03:00",
-          "stop": "2026-09-27T01:00:00+03:00",
-          "title": "Zagadkowy weekend",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-27",
       "programs": [
@@ -470,6 +290,34 @@
           "start": "2026-09-28T10:30:00+03:00",
           "stop": "2026-09-28T11:00:00+03:00",
           "title": "Straż graniczna 5 | S05E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T11:00:00+03:00",
+          "stop": "2026-09-28T12:00:00+03:00",
+          "title": "Gorączka w mieście | S01E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T12:00:00+03:00",
+          "stop": "2026-09-28T13:00:00+03:00",
+          "title": "Gorączka w mieście | S01E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T13:00:00+03:00",
+          "stop": "2026-09-28T14:00:00+03:00",
+          "title": "Gorączka w mieście | S01E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T14:00:00+03:00",
+          "stop": "2026-09-28T15:00:00+03:00",
+          "title": "Kobra – oddział specjalny | S01E32",
           "description": "L",
           "category": null
         }
