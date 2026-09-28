@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 14,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T00:40:00+03:00",
-          "stop": "2026-09-27T01:30:00+03:00",
-          "title": "Дама с собачкой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T01:30:00+03:00",
-          "stop": "2026-09-27T04:55:00+03:00",
-          "title": "Щелкунчик",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T04:55:00+03:00",
-          "stop": "2026-09-27T08:40:00+03:00",
-          "title": "х/ф Приключения Тома Сойера и Гекльберри Финна",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T08:40:00+03:00",
-          "stop": "2026-09-27T12:25:00+03:00",
-          "title": "х/ф Трест, который лопнул",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T12:25:00+03:00",
-          "stop": "2026-09-27T17:30:00+03:00",
-          "title": "х/ф Мост через жизнь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T17:30:00+03:00",
-          "stop": "2026-09-28T00:30:00+03:00",
-          "title": "х/ф Место встречи изменить нельзя",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -115,6 +68,20 @@
           "start": "2026-09-28T13:20:00+03:00",
           "stop": "2026-09-28T16:00:00+03:00",
           "title": "х/ф Ключ",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T16:00:00+03:00",
+          "stop": "2026-09-28T17:20:00+03:00",
+          "title": "х/ф Месяц длинных дней. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:20:00+03:00",
+          "stop": "2026-09-28T19:00:00+03:00",
+          "title": "х/ф Месяц длинных дней. 2 с.",
           "description": "L",
           "category": null
         }

@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T15:50:00+03:00",
-          "title": "Keine Sendungsinformationen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T15:50:00+03:00",
-          "stop": "2026-09-27T18:50:00+03:00",
-          "title": "Fußball 25/26 – TBC – TBC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T18:50:00+03:00",
-          "stop": "2026-09-27T21:35:00+03:00",
-          "title": "Fußball 25/26 – TBC – TBC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T21:35:00+03:00",
-          "stop": "2026-09-28T01:00:00+03:00",
-          "title": "Fußball 25/26 – TBC – TBC",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -66,6 +33,20 @@
           "start": "2026-09-28T11:00:00+03:00",
           "stop": "2026-09-28T15:00:00+03:00",
           "title": "Bundesliga – TBC – TBC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:00:00+03:00",
+          "stop": "2026-09-28T17:00:00+03:00",
+          "title": "Bundesliga – TBC – TBC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:00:00+03:00",
+          "stop": "2026-09-28T18:50:00+03:00",
+          "title": "Fußball 25/26 – TBC – TBC",
           "description": "L",
           "category": null
         }

@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 60,
+  "programmeCount": 56,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T02:00:00+03:00",
-          "title": "▶️ Golf: Ladies PGA - Walmart NW Arkansas Championship presented by P&G, 2. Tag in Rogers, AK (USA).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T02:00:00+03:00",
-          "stop": "2026-09-27T04:00:00+03:00",
-          "title": "Formel 1 - Rennen - GP Aserbaidschan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T04:00:00+03:00",
-          "stop": "2026-09-27T06:00:00+03:00",
-          "title": "Tennis: Laver Cup - Spiel 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T06:00:00+03:00",
-          "stop": "2026-09-27T07:00:00+03:00",
-          "title": "Formel 2 - 2. Rennen - GP Aserbaidschan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T07:00:00+03:00",
-          "stop": "2026-09-27T08:00:00+03:00",
-          "title": "Formel 2 - 2. Rennen - GP Aserbaidschan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T08:00:00+03:00",
-          "stop": "2026-09-27T14:00:00+03:00",
-          "title": "▶️ Tennis: ATP & WTA - Die Topspiele des Tages.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T14:00:00+03:00",
-          "stop": "2026-09-27T16:00:00+03:00",
-          "title": "▶️ Tennis: Laver Cup - Spiel 9 - Doppel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T16:00:00+03:00",
-          "stop": "2026-09-27T18:30:00+03:00",
-          "title": "▶️ Fußball: DFB-Pokal Frauen - Borussia M'gladbach - FC Bayern München, 1. Runde.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T18:30:00+03:00",
-          "stop": "2026-09-27T19:15:00+03:00",
-          "title": "World Surf League - Replay: Lexus Trestles Pro Finals Day.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T19:15:00+03:00",
-          "stop": "2026-09-27T20:00:00+03:00",
-          "title": "▶️ NFL - Guten Abend Football.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T20:00:00+03:00",
-          "stop": "2026-09-28T03:00:00+03:00",
-          "title": "▶️ NFL - Konferenz, Week 3.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -442,6 +360,60 @@
           "start": "2026-09-29T21:30:00+03:00",
           "stop": "2026-09-30T00:00:00+03:00",
           "title": "Tennis: ATP 250 - Finale, Aito Hangzhou Open in Hangzhou (CHN), Finale.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T00:00:00+03:00",
+          "stop": "2026-09-30T03:00:00+03:00",
+          "title": "▶️ Eishockey: NHL - Florida Panthers @ Carolina Hurricanes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T03:00:00+03:00",
+          "stop": "2026-09-30T05:00:00+03:00",
+          "title": "▶️ Basketball: WNBA - Topspiel, Playoffs Viertelfinals, Spiel 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T05:00:00+03:00",
+          "stop": "2026-09-30T07:30:00+03:00",
+          "title": "▶️ Eishockey: NHL - Vancouver Canucks @ Edmonton Oilers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:30:00+03:00",
+          "stop": "2026-09-30T18:00:00+03:00",
+          "title": "▶️ Tennis: ATP & WTA - Die Topspiele des Tages.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:00:00+03:00",
+          "stop": "2026-09-30T20:00:00+03:00",
+          "title": "▶️ Basketball: WNBA - Topspiel, Playoffs Viertelfinals, Spiel 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T20:00:00+03:00",
+          "stop": "2026-09-30T22:00:00+03:00",
+          "title": "Eishockey: NHL - Florida Panthers @ Carolina Hurricanes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T22:00:00+03:00",
+          "stop": "2026-10-01T00:00:00+03:00",
+          "title": "Tennis: ATP 500 - Topspiel.",
           "description": "L",
           "category": null
         }

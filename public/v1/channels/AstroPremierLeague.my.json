@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T03:10:00+03:00",
-          "title": "PL: Everton vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T03:10:00+03:00",
-          "stop": "2026-09-27T05:20:00+03:00",
-          "title": "PL: Man City vs Sunderland",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T05:20:00+03:00",
-          "stop": "2026-09-27T08:10:00+03:00",
-          "title": "PL: Brighton vs Arsenal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T08:10:00+03:00",
-          "stop": "2026-09-27T10:20:00+03:00",
-          "title": "PL: Nottm Forest vs Coventry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T10:20:00+03:00",
-          "stop": "2026-09-27T13:20:00+03:00",
-          "title": "PL: Bournemouth vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T13:20:00+03:00",
-          "stop": "2026-09-27T13:50:00+03:00",
-          "title": "PL Rewind: Denis Irwin: My Premier League Years",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T13:50:00+03:00",
-          "stop": "2026-09-27T17:00:00+03:00",
-          "title": "Game4Hope 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T17:00:00+03:00",
-          "stop": "2026-09-27T20:10:00+03:00",
-          "title": "PL: Man Utd vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T20:10:00+03:00",
-          "stop": "2026-09-27T22:50:00+03:00",
-          "title": "PL: Arsenal vs Chelsea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T22:50:00+03:00",
-          "stop": "2026-09-28T01:00:00+03:00",
-          "title": "PL: Man City vs Sunderland",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -143,6 +68,13 @@
           "start": "2026-09-28T14:30:00+03:00",
           "stop": "2026-09-28T16:00:00+03:00",
           "title": "Final Whistle: Season 2025/26: Ep02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T16:00:00+03:00",
+          "stop": "2026-09-28T18:40:00+03:00",
+          "title": "PL: Tottenham vs Aston Villa",
           "description": "L",
           "category": null
         }

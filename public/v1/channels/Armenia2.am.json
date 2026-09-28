@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 16,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T07:00:00+03:00",
-          "title": "եթերի դադար",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T07:00:00+03:00",
-          "stop": "2026-09-27T10:00:00+03:00",
-          "title": "Концерт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T10:00:00+03:00",
-          "stop": "2026-09-27T11:00:00+03:00",
-          "title": "Магавто+",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T11:00:00+03:00",
-          "stop": "2026-09-27T17:00:00+03:00",
-          "title": "Прямая речь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T17:00:00+03:00",
-          "stop": "2026-09-27T18:30:00+03:00",
-          "title": "Ամբասադոր",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T18:30:00+03:00",
-          "stop": "2026-09-27T19:00:00+03:00",
-          "title": "Փաստաբանի խորհրդով",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T19:00:00+03:00",
-          "stop": "2026-09-27T22:10:00+03:00",
-          "title": "Прямая речь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T22:10:00+03:00",
-          "stop": "2026-09-27T22:45:00+03:00",
-          "title": "Общественная неделя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T22:45:00+03:00",
-          "stop": "2026-09-28T01:00:00+03:00",
-          "title": "Концерт",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -164,6 +96,34 @@
           "start": "2026-09-28T14:15:00+03:00",
           "stop": "2026-09-28T15:00:00+03:00",
           "title": "Проф факт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:00:00+03:00",
+          "stop": "2026-09-28T15:30:00+03:00",
+          "title": "Новости",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:30:00+03:00",
+          "stop": "2026-09-28T16:00:00+03:00",
+          "title": "Право на слово",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T16:00:00+03:00",
+          "stop": "2026-09-28T17:30:00+03:00",
+          "title": "Общественная неделя",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:30:00+03:00",
+          "stop": "2026-09-28T18:15:00+03:00",
+          "title": "Клип",
           "description": "L",
           "category": null
         }

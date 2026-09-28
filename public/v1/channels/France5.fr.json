@@ -8,59 +8,1308 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 184,
   "days": [
     {
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "programs": [
         {
-          "start": "2026-09-27T01:10:00+03:00",
-          "stop": "2026-09-27T01:15:00+03:00",
+          "start": "2026-09-28T00:45:00+03:00",
+          "stop": "2026-09-28T02:20:00+03:00",
+          "title": "Jean Monnet, l'aventurier de l'Europe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T02:20:00+03:00",
+          "stop": "2026-09-28T02:45:00+03:00",
+          "title": "L'oeil et la main. \"L'école bilingue, un héritage fragile\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T02:45:00+03:00",
+          "stop": "2026-09-28T03:40:00+03:00",
+          "title": "Mecaniques du journalisme. Ep.1 \"L'affaire Cahuzac\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T03:40:00+03:00",
+          "stop": "2026-09-28T04:36:00+03:00",
+          "title": "Riviera 76, le Woodstock oublié.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T04:36:00+03:00",
+          "stop": "2026-09-28T05:28:00+03:00",
+          "title": "Quand l'eau sème le trouble.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T05:28:00+03:00",
+          "stop": "2026-09-28T05:42:00+03:00",
+          "title": "Trésors du monde. \"Maroc, de l'Atlantique au Sahara\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T05:42:00+03:00",
+          "stop": "2026-09-28T06:04:00+03:00",
+          "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:04:00+03:00",
+          "stop": "2026-09-28T06:15:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.32/52 \"Le Gazou-Gazou\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:15:00+03:00",
+          "stop": "2026-09-28T06:16:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.33/52 \"La grande fête du partage\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:16:00+03:00",
+          "stop": "2026-09-28T06:36:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.34/52 \"Le concert de Lucie\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:36:00+03:00",
+          "stop": "2026-09-28T06:47:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.35/52 \"Les croquichoux !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:47:00+03:00",
+          "stop": "2026-09-28T06:48:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.36/52 \"Une surprise pour les Bricochons\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T06:48:00+03:00",
+          "stop": "2026-09-28T07:05:00+03:00",
+          "title": "Les mini-héros de la forêt. \"Les règles du jeu\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:05:00+03:00",
+          "stop": "2026-09-28T07:13:00+03:00",
+          "title": "Yétili. Ep.169 \"Regarde papa\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:13:00+03:00",
+          "stop": "2026-09-28T07:16:00+03:00",
+          "title": "Yétili. Ep.171 \"Ni vu, ni connu\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:16:00+03:00",
+          "stop": "2026-09-28T07:20:00+03:00",
+          "title": "Yétili. Ep.119 \"Tuk-tuk express\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:20:00+03:00",
+          "stop": "2026-09-28T07:30:00+03:00",
+          "title": "Monsieur Crocodile. Ep.7 \"Pas de bobo pour le croco\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:30:00+03:00",
+          "stop": "2026-09-28T07:45:00+03:00",
+          "title": "Monsieur Crocodile. Ep.6 \"Un agité du bocal\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:45:00+03:00",
+          "stop": "2026-09-28T07:48:00+03:00",
+          "title": "Taki Tanuki. Ep.51 \"La récolte\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:48:00+03:00",
+          "stop": "2026-09-28T07:55:00+03:00",
+          "title": "Taki Tanuki. Ep.44 \"Le temps des cerises\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:55:00+03:00",
+          "stop": "2026-09-28T08:05:00+03:00",
+          "title": "Taki Tanuki. Ep.46 \"Mi-fruit, mi-Tanuki\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:05:00+03:00",
+          "stop": "2026-09-28T08:10:00+03:00",
+          "title": "Bluey. S.3,Ep.21/50 \"Tina\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:10:00+03:00",
+          "stop": "2026-09-28T08:26:00+03:00",
+          "title": "Bluey. S.3,Ep.25/50 \"La poupée de chiffon\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:26:00+03:00",
+          "stop": "2026-09-28T08:32:00+03:00",
+          "title": "Bluey. S.2,Ep.23/52 \"Les reines\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:32:00+03:00",
+          "stop": "2026-09-28T08:34:00+03:00",
+          "title": "Bluey. S.2,Ep.1/52 \"Le jeu du mode danse\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:34:00+03:00",
+          "stop": "2026-09-28T08:40:00+03:00",
+          "title": "Bluey. S.1,Ep.45/52 \"Le jeu des enfants\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:40:00+03:00",
+          "stop": "2026-09-28T08:41:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.15/52 \"Drôle de blague\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:41:00+03:00",
+          "stop": "2026-09-28T08:56:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.37/52 \"C'est moi qui fais le loup\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:56:00+03:00",
+          "stop": "2026-09-28T08:57:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.1/50 \"Piégés par le loup\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T08:57:00+03:00",
+          "stop": "2026-09-28T09:00:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.8/50 \"Qui a volé la Lune ?\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:00:00+03:00",
+          "stop": "2026-09-28T09:09:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.42/52 \"Chut, Wilf dort !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:09:00+03:00",
+          "stop": "2026-09-28T09:25:00+03:00",
+          "title": "Les trois Bricochons. S.1,Ep.14/52 \"Bonne sieste, les lapinous !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:25:00+03:00",
+          "stop": "2026-09-28T09:31:00+03:00",
+          "title": "Mojo TipTop. Ep.4 \"Le soufflé dynamite\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:31:00+03:00",
+          "stop": "2026-09-28T09:45:00+03:00",
+          "title": "Mojo TipTop. Ep.13 \"Une visite en roue libre\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:45:00+03:00",
+          "stop": "2026-09-28T09:49:00+03:00",
+          "title": "Peppa Pig. S.3,Ep.12/52 \"Delphine l'âne\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:49:00+03:00",
+          "stop": "2026-09-28T10:02:00+03:00",
+          "title": "Peppa Pig. S.2,Ep.41/52 \"Le correspondant\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:02:00+03:00",
+          "stop": "2026-09-28T10:04:00+03:00",
+          "title": "Peppa Pig. S.7,Ep.33/65 \"Les langues étrangères\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:04:00+03:00",
+          "stop": "2026-09-28T10:05:00+03:00",
+          "title": "Peppa Pig. S.4,Ep.8/52 \"La Fête internationale\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:05:00+03:00",
+          "stop": "2026-09-28T10:15:00+03:00",
+          "title": "La bande de Coccoloba. Ep.21 \"Falco star du jour\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:15:00+03:00",
+          "stop": "2026-09-28T10:16:00+03:00",
+          "title": "Trotro et Zaza. Ep.44 \"Trotro et Zaza en équilibre\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:16:00+03:00",
+          "stop": "2026-09-28T10:25:00+03:00",
+          "title": "Trotro et Zaza. Ep.49 \"La fête foraine\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:25:00+03:00",
+          "stop": "2026-09-28T10:26:00+03:00",
+          "title": "Patamuse. \"Nana et Nono les chatons\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:26:00+03:00",
+          "stop": "2026-09-28T10:30:00+03:00",
+          "title": "Bluey Minisodes. Ep.12 \"La batterie\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:30:00+03:00",
+          "stop": "2026-09-28T10:55:00+03:00",
+          "title": "Sale temps pour la planète. Ep.74 \"Vosges, coup de chaud sur le massif\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T10:55:00+03:00",
+          "stop": "2026-09-28T11:00:00+03:00",
           "title": "La p'tite librairie.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T01:15:00+03:00",
-          "stop": "2026-09-27T01:45:00+03:00",
-          "title": "Outremer.story.",
+          "start": "2026-09-28T11:00:00+03:00",
+          "stop": "2026-09-28T11:55:00+03:00",
+          "title": "Les 100 lieux qu'il faut voir. \"Au fil du canal de la Marne au Rhin\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T01:45:00+03:00",
-          "stop": "2026-09-27T02:35:00+03:00",
-          "title": "Mystères du système solaire. Ep.5 \"Les mondes de l'étrange\".",
+          "start": "2026-09-28T11:55:00+03:00",
+          "stop": "2026-09-28T12:55:00+03:00",
+          "title": "Les 100 lieux qu'il faut voir. \"Le chemin de Chartres au Mont-Saint-Michel\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T02:35:00+03:00",
-          "stop": "2026-09-27T03:25:00+03:00",
-          "title": "Vert de rage. Ep.10 \"Métro, alerte à l'air\".",
+          "start": "2026-09-28T12:55:00+03:00",
+          "stop": "2026-09-28T13:43:00+03:00",
+          "title": "Collisions : chasseurs d'astéroïdes.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T03:25:00+03:00",
-          "stop": "2026-09-27T04:23:00+03:00",
-          "title": "Connexions. \"Hopper x Vermeer\".",
+          "start": "2026-09-28T13:43:00+03:00",
+          "stop": "2026-09-28T14:00:00+03:00",
+          "title": "Trésors du monde. \"Yucatan, terre maya\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T04:23:00+03:00",
-          "stop": "2026-09-27T05:46:00+03:00",
-          "title": "Les trésors des ambassades parisiennes.",
+          "start": "2026-09-28T14:00:00+03:00",
+          "stop": "2026-09-28T14:35:00+03:00",
+          "title": "L'oeil et la main. \"Au coeur de la petite enfance\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-27T05:46:00+03:00",
-          "stop": "2026-09-27T06:46:00+03:00",
+          "start": "2026-09-28T14:35:00+03:00",
+          "stop": "2026-09-28T15:35:00+03:00",
+          "title": "Silence, ça pousse !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:35:00+03:00",
+          "stop": "2026-09-28T17:07:00+03:00",
+          "title": "Echappées belles. \"Slovénie, la nature au coeur\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:07:00+03:00",
+          "stop": "2026-09-28T17:20:00+03:00",
+          "title": "Trésors du monde. \"Kyushu, le Japon authentique\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:20:00+03:00",
+          "stop": "2026-09-28T17:55:00+03:00",
+          "title": "Sale temps pour la planète. \"Corse, les possibilités d'une île\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:55:00+03:00",
+          "stop": "2026-09-28T18:25:00+03:00",
+          "title": "C pas si loin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T18:25:00+03:00",
+          "stop": "2026-09-28T18:40:00+03:00",
+          "title": "▶️ C dans l'air l'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T18:40:00+03:00",
+          "stop": "2026-09-28T19:55:00+03:00",
+          "title": "C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T19:55:00+03:00",
+          "stop": "2026-09-28T21:00:00+03:00",
+          "title": "▶️ C à vous.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T21:00:00+03:00",
+          "stop": "2026-09-28T22:00:00+03:00",
+          "title": "▶️ C à vous la suite.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T22:00:00+03:00",
+          "stop": "2026-09-28T22:05:00+03:00",
+          "title": "Bien vivre ensemble.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T22:05:00+03:00",
+          "stop": "2026-09-28T22:55:00+03:00",
+          "title": "Sur le front.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T22:55:00+03:00",
+          "stop": "2026-09-28T23:55:00+03:00",
+          "title": "Sur le front.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T23:55:00+03:00",
+          "stop": "2026-09-29T01:00:00+03:00",
+          "title": "C ce soir.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "programs": [
+        {
+          "start": "2026-09-29T01:00:00+03:00",
+          "stop": "2026-09-29T01:05:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T01:05:00+03:00",
+          "stop": "2026-09-29T02:10:00+03:00",
+          "title": "C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T02:10:00+03:00",
+          "stop": "2026-09-29T03:05:00+03:00",
+          "title": "C à vous.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T03:05:00+03:00",
+          "stop": "2026-09-29T04:01:00+03:00",
+          "title": "C à vous la suite.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T04:01:00+03:00",
+          "stop": "2026-09-29T04:57:00+03:00",
+          "title": "Le roi de Shanghai.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T04:57:00+03:00",
+          "stop": "2026-09-29T05:47:00+03:00",
+          "title": "Les merveilles de l'Océanie. \"L'Est\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T05:47:00+03:00",
+          "stop": "2026-09-29T06:04:00+03:00",
           "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:04:00+03:00",
+          "stop": "2026-09-29T06:15:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.37/52 \"Le tracto-pince est détraqué !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:15:00+03:00",
+          "stop": "2026-09-29T06:16:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.38/52 \"Ding-Dong ! Ding-Dong !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:16:00+03:00",
+          "stop": "2026-09-29T06:36:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.39/52 \"La récolte des Bananadouces\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:36:00+03:00",
+          "stop": "2026-09-29T06:37:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.40/52 \"La grande roue des Lapinous\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:37:00+03:00",
+          "stop": "2026-09-29T06:47:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.41/52 \"Un après-midi avec les Lapinous\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:47:00+03:00",
+          "stop": "2026-09-29T07:05:00+03:00",
+          "title": "Les mini-héros de la forêt. \"La fête du potager\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:05:00+03:00",
+          "stop": "2026-09-29T07:08:00+03:00",
+          "title": "Yétili. Ep.121 \"Tous les mots n'existent pas\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:08:00+03:00",
+          "stop": "2026-09-29T07:20:00+03:00",
+          "title": "Yétili. Ep.118 \"J'en rêvais depuis longtemps\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:20:00+03:00",
+          "stop": "2026-09-29T07:25:00+03:00",
+          "title": "Yétili. Ep.160 \"Deux pour moi un pour toi\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:25:00+03:00",
+          "stop": "2026-09-29T07:39:00+03:00",
+          "title": "Monsieur Crocodile. Ep.14 \"Bon joueur\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:39:00+03:00",
+          "stop": "2026-09-29T07:50:00+03:00",
+          "title": "Monsieur Crocodile. Ep.15 \"Un croco à la rescousse\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:50:00+03:00",
+          "stop": "2026-09-29T07:57:00+03:00",
+          "title": "Taki Tanuki. Ep.8 \"Mochitsuki\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:57:00+03:00",
+          "stop": "2026-09-29T08:04:00+03:00",
+          "title": "Taki Tanuki. Ep.17 \"Le hoquet\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:04:00+03:00",
+          "stop": "2026-09-29T08:10:00+03:00",
+          "title": "Taki Tanuki. Ep.18 \"La fête des enfants\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:10:00+03:00",
+          "stop": "2026-09-29T08:19:00+03:00",
+          "title": "Bluey. S.3,Ep.32/50 \"Les artisans\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:19:00+03:00",
+          "stop": "2026-09-29T08:25:00+03:00",
+          "title": "Bluey. S.2,Ep.2/52 \"La cabane à outils\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:25:00+03:00",
+          "stop": "2026-09-29T08:27:00+03:00",
+          "title": "Bluey. S.2,Ep.24/52 \"Le meuble en kit\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:27:00+03:00",
+          "stop": "2026-09-29T08:38:00+03:00",
+          "title": "Bluey. S.3,Ep.36/50 \"La terre\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:38:00+03:00",
+          "stop": "2026-09-29T08:45:00+03:00",
+          "title": "Bluey. S.1,Ep.5/52 \"La terre à l'ombre\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:45:00+03:00",
+          "stop": "2026-09-29T08:50:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.2/52 \"Touche pas au doudou de Gaspard\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:50:00+03:00",
+          "stop": "2026-09-29T08:55:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.26/52 \"Le trésor de Gaspard\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:55:00+03:00",
+          "stop": "2026-09-29T09:01:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.9/50 \"Le trésor du monstre du bain\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:01:00+03:00",
+          "stop": "2026-09-29T09:05:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.26/50 \"Mission anti-poux\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:05:00+03:00",
+          "stop": "2026-09-29T09:18:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.27/52 \"Le Rebondingo\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:18:00+03:00",
+          "stop": "2026-09-29T09:25:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.28/52 \"Wilf le golfeur\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:25:00+03:00",
+          "stop": "2026-09-29T09:31:00+03:00",
+          "title": "Mojo TipTop. Ep.10 \"Le cadeau de Dot\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:31:00+03:00",
+          "stop": "2026-09-29T09:45:00+03:00",
+          "title": "Mojo TipTop. Ep.9 \"La parade des pirates\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:45:00+03:00",
+          "stop": "2026-09-29T09:47:00+03:00",
+          "title": "Peppa Pig. S.3,Ep.40/52 \"Le club secret\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:47:00+03:00",
+          "stop": "2026-09-29T09:53:00+03:00",
+          "title": "Peppa Pig. S.2,Ep.5/52 \"Mystères\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:53:00+03:00",
+          "stop": "2026-09-29T10:04:00+03:00",
+          "title": "Peppa Pig. S.1,Ep.13/52 \"La boîte à secrets\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:04:00+03:00",
+          "stop": "2026-09-29T10:05:00+03:00",
+          "title": "Peppa Pig. S.7,Ep.11/65 \"Le journal de Peppa\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:05:00+03:00",
+          "stop": "2026-09-29T10:10:00+03:00",
+          "title": "La bande de Coccoloba. Ep.22 \"Chloé a disparu\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:10:00+03:00",
+          "stop": "2026-09-29T10:13:00+03:00",
+          "title": "Trotro et Zaza. Ep.47 \"Le bouquet de fleurs pour Maman\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:13:00+03:00",
+          "stop": "2026-09-29T10:15:00+03:00",
+          "title": "Trotro et Zaza. Ep.46 \"Livreurs de bisous\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:15:00+03:00",
+          "stop": "2026-09-29T10:25:00+03:00",
+          "title": "Patamuse. \"Tonnerre le poulain\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:25:00+03:00",
+          "stop": "2026-09-29T10:50:00+03:00",
+          "title": "Sale temps pour la planète. Ep.73 \"Somme, un littoral en mouvement\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:50:00+03:00",
+          "stop": "2026-09-29T10:55:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:55:00+03:00",
+          "stop": "2026-09-29T12:00:00+03:00",
+          "title": "Enquête de santé.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T12:00:00+03:00",
+          "stop": "2026-09-29T13:40:00+03:00",
+          "title": "Burning Man, le désert de tous les possibles.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T13:40:00+03:00",
+          "stop": "2026-09-29T14:40:00+03:00",
+          "title": "Vivre loin du monde. Ep.101 \"Un sanctuaire canin à Koh Samui\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T14:40:00+03:00",
+          "stop": "2026-09-29T15:40:00+03:00",
+          "title": "Silence, ça pousse !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T15:40:00+03:00",
+          "stop": "2026-09-29T17:08:00+03:00",
+          "title": "Echappées belles. \"Cap sur la Vendée\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T17:08:00+03:00",
+          "stop": "2026-09-29T17:20:00+03:00",
+          "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T17:20:00+03:00",
+          "stop": "2026-09-29T17:55:00+03:00",
+          "title": "Sale temps pour la planète. \"Le Nord, en surchauffe\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T17:55:00+03:00",
+          "stop": "2026-09-29T18:25:00+03:00",
+          "title": "C pas si loin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T18:25:00+03:00",
+          "stop": "2026-09-29T18:40:00+03:00",
+          "title": "▶️ C dans l'air l'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T18:40:00+03:00",
+          "stop": "2026-09-29T19:55:00+03:00",
+          "title": "C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T19:55:00+03:00",
+          "stop": "2026-09-29T21:00:00+03:00",
+          "title": "▶️ C à vous.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T21:00:00+03:00",
+          "stop": "2026-09-29T22:00:00+03:00",
+          "title": "▶️ C à vous la suite.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T22:00:00+03:00",
+          "stop": "2026-09-29T22:05:00+03:00",
+          "title": "Bien vivre ensemble.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T22:05:00+03:00",
+          "stop": "2026-09-29T23:00:00+03:00",
+          "title": "Grignote-moi si tu peux, les dessous de l'apéritif.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:00:00+03:00",
+          "stop": "2026-09-29T23:55:00+03:00",
+          "title": "Sans alcool, la fête est-elle plus folle ?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:55:00+03:00",
+          "stop": "2026-09-30T01:00:00+03:00",
+          "title": "C ce soir.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T01:00:00+03:00",
+          "stop": "2026-09-30T01:05:00+03:00",
+          "title": "Le pitch cinéma.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T01:05:00+03:00",
+          "stop": "2026-09-30T01:10:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T01:10:00+03:00",
+          "stop": "2026-09-30T02:15:00+03:00",
+          "title": "C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T02:15:00+03:00",
+          "stop": "2026-09-30T03:10:00+03:00",
+          "title": "C à vous.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T03:10:00+03:00",
+          "stop": "2026-09-30T04:16:00+03:00",
+          "title": "C à vous la suite.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T04:16:00+03:00",
+          "stop": "2026-09-30T05:36:00+03:00",
+          "title": "La grande librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T05:36:00+03:00",
+          "stop": "2026-09-30T06:04:00+03:00",
+          "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:04:00+03:00",
+          "stop": "2026-09-30T06:15:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.42/52 \"Chut, Wilf dort !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:15:00+03:00",
+          "stop": "2026-09-30T06:16:00+03:00",
+          "title": "Les trois Bricochons. S.1,Ep.12/52 \"A vos marques !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:16:00+03:00",
+          "stop": "2026-09-30T06:36:00+03:00",
+          "title": "Les trois Bricochons. S.1,Ep.13/52 \"Porte qui grince, porte qui coince !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:36:00+03:00",
+          "stop": "2026-09-30T06:47:00+03:00",
+          "title": "Les trois Bricochons. S.1,Ep.14/52 \"Bonne sieste, les lapinous !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:47:00+03:00",
+          "stop": "2026-09-30T06:48:00+03:00",
+          "title": "Les trois Bricochons. S.1,Ep.15/52 \"Le Farfeuillu\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:48:00+03:00",
+          "stop": "2026-09-30T07:05:00+03:00",
+          "title": "Les mini-héros de la forêt. \"Un très grand trésor\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:05:00+03:00",
+          "stop": "2026-09-30T07:08:00+03:00",
+          "title": "Yétili. Ep.164 \"La complainte de gecko\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:08:00+03:00",
+          "stop": "2026-09-30T07:20:00+03:00",
+          "title": "Yétili. Ep.63 \"Interdit aux éléphants\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:20:00+03:00",
+          "stop": "2026-09-30T07:25:00+03:00",
+          "title": "Yétili. Ep.137 \"Un éléphant dans un palais de porcelaine\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:25:00+03:00",
+          "stop": "2026-09-30T07:39:00+03:00",
+          "title": "Monsieur Crocodile. Ep.16 \"Pom Pom\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:39:00+03:00",
+          "stop": "2026-09-30T07:50:00+03:00",
+          "title": "Monsieur Crocodile. Ep.17 \"Prêter et emprunter\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:50:00+03:00",
+          "stop": "2026-09-30T07:57:00+03:00",
+          "title": "Taki Tanuki. Ep.16 \"Tako taki\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T07:57:00+03:00",
+          "stop": "2026-09-30T08:04:00+03:00",
+          "title": "Taki Tanuki. Ep.36 \"La petite grimpette\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:04:00+03:00",
+          "stop": "2026-09-30T08:10:00+03:00",
+          "title": "Taki Tanuki. Ep.21 \"Yokai en pagaille\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:10:00+03:00",
+          "stop": "2026-09-30T08:18:00+03:00",
+          "title": "Bluey. S.3,Ep.42/50 \"Démonstration\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:18:00+03:00",
+          "stop": "2026-09-30T08:20:00+03:00",
+          "title": "Bluey. S.2,Ep.20/52 \"Les crabes-chatouilleurs\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:20:00+03:00",
+          "stop": "2026-09-30T08:31:00+03:00",
+          "title": "Bluey. S.2,Ep.12/52 \"Le gecko collant\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:31:00+03:00",
+          "stop": "2026-09-30T08:38:00+03:00",
+          "title": "Bluey. S.3,Ep.30/50 \"Bébé tortue\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:38:00+03:00",
+          "stop": "2026-09-30T08:45:00+03:00",
+          "title": "Bluey. S.1,Ep.12/52 \"Bob le Bilby\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:45:00+03:00",
+          "stop": "2026-09-30T08:50:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.16/52 \"Gaspard, super boudeur\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:50:00+03:00",
+          "stop": "2026-09-30T08:55:00+03:00",
+          "title": "Simon Superlapin. S.5,Ep.11/52 \"Pas de dispute pour les super héros\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:55:00+03:00",
+          "stop": "2026-09-30T09:01:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.6/50 \"La dispute des super héros\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:01:00+03:00",
+          "stop": "2026-09-30T09:05:00+03:00",
+          "title": "Simon Superlapin. S.4,Ep.47/50 \"Arrêtez de vous faire la tête !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:05:00+03:00",
+          "stop": "2026-09-30T09:18:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.31/52 \"La grande idée de César\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:18:00+03:00",
+          "stop": "2026-09-30T09:25:00+03:00",
+          "title": "Les Trois Bricochons. S.1,Ep.30/52 \"L'attrape-tout\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:25:00+03:00",
+          "stop": "2026-09-30T09:31:00+03:00",
+          "title": "Mojo TipTop. Ep.8 \"Le petit oiseau va sortir !\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:31:00+03:00",
+          "stop": "2026-09-30T09:45:00+03:00",
+          "title": "Mojo TipTop. Ep.23 \"Voler de ses propres ailes\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:45:00+03:00",
+          "stop": "2026-09-30T09:47:00+03:00",
+          "title": "Peppa Pig. S.3,Ep.20/52 \"La journée des jeunes talents\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:47:00+03:00",
+          "stop": "2026-09-30T10:01:00+03:00",
+          "title": "Peppa Pig. S.1,Ep.52/52 \"La pièce de théâtre\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:01:00+03:00",
+          "stop": "2026-09-30T10:03:00+03:00",
+          "title": "Peppa Pig. S.1,Ep.41/52 \"Les marionnettes de Chloé\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:03:00+03:00",
+          "stop": "2026-09-30T10:05:00+03:00",
+          "title": "Peppa Pig. S.8,Ep.49/52 \"Le groupe de musique folk\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:05:00+03:00",
+          "stop": "2026-09-30T10:10:00+03:00",
+          "title": "La bande de Coccoloba. Ep.23 \"La petite réparatrice\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:10:00+03:00",
+          "stop": "2026-09-30T10:14:00+03:00",
+          "title": "Trotro et Zaza. Ep.48 \"La sieste du pantalon\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:14:00+03:00",
+          "stop": "2026-09-30T10:15:00+03:00",
+          "title": "Trotro et Zaza. Ep.50 \"Les bottes neuves\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:15:00+03:00",
+          "stop": "2026-09-30T10:25:00+03:00",
+          "title": "Patamuse. \"Clic la tortue de mer\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:25:00+03:00",
+          "stop": "2026-09-30T10:55:00+03:00",
+          "title": "Sale temps pour la planète. Ep.73 \"Somme, un littoral en mouvement\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:55:00+03:00",
+          "stop": "2026-09-30T11:00:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T11:00:00+03:00",
+          "stop": "2026-09-30T11:55:00+03:00",
+          "title": "Enquête de santé.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T11:55:00+03:00",
+          "stop": "2026-09-30T12:55:00+03:00",
+          "title": "Les familles guépards et moi. Ep.1 \"Premiers contacts\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T12:55:00+03:00",
+          "stop": "2026-09-30T13:37:00+03:00",
+          "title": "Les familles guépards et moi. Ep.2 \"Vers l'indépendance\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T13:37:00+03:00",
+          "stop": "2026-09-30T14:00:00+03:00",
+          "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:00:00+03:00",
+          "stop": "2026-09-30T14:35:00+03:00",
+          "title": "Sale temps pour la planète. Ep.71 \"Camargue, à la croisée des eaux\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:35:00+03:00",
+          "stop": "2026-09-30T15:35:00+03:00",
+          "title": "Silence, ça pousse !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T15:35:00+03:00",
+          "stop": "2026-09-30T17:03:00+03:00",
+          "title": "Echappées belles. \"La Haute-Savoie, de village en village\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T17:03:00+03:00",
+          "stop": "2026-09-30T17:20:00+03:00",
+          "title": "Imprévus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T17:20:00+03:00",
+          "stop": "2026-09-30T17:55:00+03:00",
+          "title": "Sale temps pour la planète. \"Le Nord, en surchauffe\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T17:55:00+03:00",
+          "stop": "2026-09-30T18:25:00+03:00",
+          "title": "C pas si loin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:25:00+03:00",
+          "stop": "2026-09-30T18:40:00+03:00",
+          "title": "▶️ C dans l'air l'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:40:00+03:00",
+          "stop": "2026-09-30T19:55:00+03:00",
+          "title": "C dans l'air.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T19:55:00+03:00",
+          "stop": "2026-09-30T21:00:00+03:00",
+          "title": "▶️ C à vous.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T21:00:00+03:00",
+          "stop": "2026-09-30T22:00:00+03:00",
+          "title": "▶️ C à vous la suite.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T22:00:00+03:00",
+          "stop": "2026-09-30T22:05:00+03:00",
+          "title": "Bien vivre ensemble.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T22:05:00+03:00",
+          "stop": "2026-09-30T23:40:00+03:00",
+          "title": "▶️ La grande librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T23:40:00+03:00",
+          "stop": "2026-10-01T00:45:00+03:00",
+          "title": "C ce soir.",
           "description": "L",
           "category": null
         }

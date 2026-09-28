@@ -8,28 +8,30 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 2,
+  "programmeCount": 3,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T07:00:00+03:00",
-          "stop": "2026-09-28T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
         {
           "start": "2026-09-28T07:00:00+03:00",
           "stop": "2026-09-28T15:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:00:00+03:00",
+          "stop": "2026-09-28T17:00:00+03:00",
+          "title": "TEST: Live 2. BL: SpVgg Greuther Fürth – 1. FC Magdeburg, 21. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:00:00+03:00",
+          "stop": "2026-09-29T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

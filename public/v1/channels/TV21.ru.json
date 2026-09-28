@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-27T05:22:01.953024+00:00",
+  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-09-27",
-      "programs": [
-        {
-          "start": "2026-09-27T01:00:00+03:00",
-          "stop": "2026-09-27T02:50:00+03:00",
-          "title": "Мементо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T02:50:00+03:00",
-          "stop": "2026-09-27T04:15:00+03:00",
-          "title": "Гамбит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T04:15:00+03:00",
-          "stop": "2026-09-27T05:25:00+03:00",
-          "title": "Любовь со взломом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T05:25:00+03:00",
-          "stop": "2026-09-27T07:00:00+03:00",
-          "title": "Неожиданные связи.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T07:00:00+03:00",
-          "stop": "2026-09-27T08:50:00+03:00",
-          "title": "Замёрзшая из Майами.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T08:50:00+03:00",
-          "stop": "2026-09-27T10:45:00+03:00",
-          "title": "Век Адалин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T10:45:00+03:00",
-          "stop": "2026-09-27T12:35:00+03:00",
-          "title": "Свадебный переполох.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T12:35:00+03:00",
-          "stop": "2026-09-27T14:45:00+03:00",
-          "title": "Месть от кутюр.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T14:45:00+03:00",
-          "stop": "2026-09-27T16:30:00+03:00",
-          "title": "Конченая.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T16:30:00+03:00",
-          "stop": "2026-09-27T18:30:00+03:00",
-          "title": "Багровые реки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T18:30:00+03:00",
-          "stop": "2026-09-27T20:20:00+03:00",
-          "title": "Костолом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T20:20:00+03:00",
-          "stop": "2026-09-27T22:00:00+03:00",
-          "title": "Защитник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T22:00:00+03:00",
-          "stop": "2026-09-27T23:45:00+03:00",
-          "title": "Шугалей.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-27T23:45:00+03:00",
-          "stop": "2026-09-28T01:55:00+03:00",
-          "title": "Шугалей 2.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-28",
       "programs": [
@@ -134,8 +31,90 @@
         },
         {
           "start": "2026-09-28T05:20:00+03:00",
-          "stop": "2026-09-28T06:20:00+03:00",
+          "stop": "2026-09-28T07:00:00+03:00",
           "title": "28 Панфиловцев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T07:00:00+03:00",
+          "stop": "2026-09-28T09:10:00+03:00",
+          "title": "На гребне волны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T09:10:00+03:00",
+          "stop": "2026-09-28T11:05:00+03:00",
+          "title": "Крушение.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T11:05:00+03:00",
+          "stop": "2026-09-28T13:05:00+03:00",
+          "title": "Ограбление на Бейкер-стрит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T13:05:00+03:00",
+          "stop": "2026-09-28T15:00:00+03:00",
+          "title": "Герцогиня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T15:00:00+03:00",
+          "stop": "2026-09-28T17:15:00+03:00",
+          "title": "Никита.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T17:15:00+03:00",
+          "stop": "2026-09-28T19:05:00+03:00",
+          "title": "Бык.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T19:05:00+03:00",
+          "stop": "2026-09-28T20:50:00+03:00",
+          "title": "Духless.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T20:50:00+03:00",
+          "stop": "2026-09-28T22:50:00+03:00",
+          "title": "Духless 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-28T22:50:00+03:00",
+          "stop": "2026-09-29T00:55:00+03:00",
+          "title": "Селфи.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-29",
+      "programs": [
+        {
+          "start": "2026-09-29T00:55:00+03:00",
+          "stop": "2026-09-29T02:30:00+03:00",
+          "title": "Купи меня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T02:30:00+03:00",
+          "stop": "2026-09-29T03:30:00+03:00",
+          "title": "ЖАRА.",
           "description": "L",
           "category": null
         }
