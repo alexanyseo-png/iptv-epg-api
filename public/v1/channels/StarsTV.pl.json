@@ -8,38 +8,146 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
+  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 18,
   "days": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "programs": [
         {
-          "start": "2026-09-28T01:00:00+03:00",
-          "stop": "2026-09-28T04:00:00+03:00",
+          "start": "2026-09-29T01:00:00+03:00",
+          "stop": "2026-09-29T04:00:00+03:00",
           "title": "Best Hits",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T04:00:00+03:00",
-          "stop": "2026-09-28T08:00:00+03:00",
+          "start": "2026-09-29T04:00:00+03:00",
+          "stop": "2026-09-29T08:00:00+03:00",
           "title": "Best Polish",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T08:00:00+03:00",
-          "stop": "2026-09-28T09:00:00+03:00",
+          "start": "2026-09-29T08:00:00+03:00",
+          "stop": "2026-09-29T09:00:00+03:00",
           "title": "Best Rock",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T09:00:00+03:00",
-          "stop": "2026-09-29T01:00:00+03:00",
-          "title": "Top 178 Polska 80's vs Polska 90's",
+          "start": "2026-09-29T09:00:00+03:00",
+          "stop": "2026-09-29T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:00:00+03:00",
+          "stop": "2026-09-29T12:00:00+03:00",
+          "title": "Best 80's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T12:00:00+03:00",
+          "stop": "2026-09-29T13:00:00+03:00",
+          "title": "Best 90's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T13:00:00+03:00",
+          "stop": "2026-09-29T14:00:00+03:00",
+          "title": "Best Ballads",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T14:00:00+03:00",
+          "stop": "2026-09-29T23:00:00+03:00",
+          "title": "Top 150 Rock 00's",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:00:00+03:00",
+          "stop": "2026-09-30T01:00:00+03:00",
+          "title": "Best of Pink Floyd",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T01:00:00+03:00",
+          "stop": "2026-09-30T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T04:00:00+03:00",
+          "stop": "2026-09-30T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:00:00+03:00",
+          "stop": "2026-09-30T09:00:00+03:00",
+          "title": "Best Rock",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:00:00+03:00",
+          "stop": "2026-09-30T10:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:00:00+03:00",
+          "stop": "2026-10-01T01:00:00+03:00",
+          "title": "Top 160 ballady 80's vs ballady 90's",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "programs": [
+        {
+          "start": "2026-10-01T01:00:00+03:00",
+          "stop": "2026-10-01T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T04:00:00+03:00",
+          "stop": "2026-10-01T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T08:00:00+03:00",
+          "stop": "2026-10-01T09:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T09:00:00+03:00",
+          "stop": "2026-10-02T01:00:00+03:00",
+          "title": "Dzień Polskiej Muzyki",
           "description": "L",
           "category": null
         }

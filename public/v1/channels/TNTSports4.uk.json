@@ -8,136 +8,692 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
+  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 96,
   "days": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "programs": [
         {
-          "start": "2026-09-28T01:00:00+03:00",
-          "stop": "2026-09-28T02:00:00+03:00",
-          "title": "World Climbing Series. Chongqing",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T02:00:00+03:00",
-          "stop": "2026-09-28T03:00:00+03:00",
+          "start": "2026-09-29T01:00:00+03:00",
+          "stop": "2026-09-29T02:00:00+03:00",
           "title": "One-Day International Cricket. 1st ODI: India v West Indies",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T03:00:00+03:00",
-          "stop": "2026-09-28T04:00:00+03:00",
+          "start": "2026-09-29T02:00:00+03:00",
+          "stop": "2026-09-29T03:00:00+03:00",
+          "title": "FIA Formula E. São Paulo ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T03:00:00+03:00",
+          "stop": "2026-09-29T04:00:00+03:00",
+          "title": "FIA Formula E. Mexico City ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T04:00:00+03:00",
+          "stop": "2026-09-29T05:00:00+03:00",
+          "title": "FIA Formula E. Miami ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T05:00:00+03:00",
+          "stop": "2026-09-29T06:00:00+03:00",
+          "title": "FIA Formula E. Jeddah ePrix: Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:00:00+03:00",
+          "stop": "2026-09-29T07:00:00+03:00",
+          "title": "FIA Formula E. Jeddah ePrix: Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:00:00+03:00",
+          "stop": "2026-09-29T08:00:00+03:00",
+          "title": "FIA Formula E. Madrid ePrix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:00:00+03:00",
+          "stop": "2026-09-29T08:30:00+03:00",
+          "title": "CPL T20. Jamaica Kingsmen v Antigua  Barbuda Falcons",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:30:00+03:00",
+          "stop": "2026-09-29T09:00:00+03:00",
+          "title": "CPL T20. St. Kitts  Nevis Patriots v Trinbago Knight Riders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:00:00+03:00",
+          "stop": "2026-09-29T09:30:00+03:00",
+          "title": "CPL T20. Antigua  Barbuda Falcons v St. Lucia Kings",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:30:00+03:00",
+          "stop": "2026-09-29T10:00:00+03:00",
+          "title": "CPL T20. Jamaica Kingsmen v Barbados Royals",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:00:00+03:00",
+          "stop": "2026-09-29T10:30:00+03:00",
+          "title": "CPL T20. St. Lucia Kings v St. Kitts  Nevis Patriots",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:30:00+03:00",
+          "stop": "2026-09-29T11:00:00+03:00",
+          "title": "CPL T20. Jamaica Kingsmen v Guyana Amazon Warriors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T11:00:00+03:00",
+          "stop": "2026-09-29T11:30:00+03:00",
+          "title": "CPL T20. St. Lucia Kings v Antigua  Barbuda Falcons",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T11:30:00+03:00",
+          "stop": "2026-09-29T12:00:00+03:00",
+          "title": "CPL T20. Jamaica Kingsmen v Trinbago Knight Riders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T12:00:00+03:00",
+          "stop": "2026-09-29T13:00:00+03:00",
+          "title": "LIV Golf League. Korea: Tournament Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T13:00:00+03:00",
+          "stop": "2026-09-29T14:00:00+03:00",
+          "title": "LIV Golf League. Andalucía: Tournament Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T14:00:00+03:00",
+          "stop": "2026-09-29T15:00:00+03:00",
+          "title": "LIV Golf League. United Kingdom: Tournament Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T15:00:00+03:00",
+          "stop": "2026-09-29T16:00:00+03:00",
+          "title": "LIV Golf League. New York: Tournament Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T16:00:00+03:00",
+          "stop": "2026-09-29T17:00:00+03:00",
+          "title": "LIV Golf League. Indianapolis: Tournament Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T17:00:00+03:00",
+          "stop": "2026-09-29T18:00:00+03:00",
           "title": "FEI World Cup Jumping. Williamsburg",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T04:00:00+03:00",
-          "stop": "2026-09-28T06:00:00+03:00",
-          "title": "Laver Cup. Day 3",
+          "start": "2026-09-29T18:00:00+03:00",
+          "stop": "2026-09-29T19:00:00+03:00",
+          "title": "FEI WBFSH Jumping World Breeding Championship. Lanaken",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T06:00:00+03:00",
-          "stop": "2026-09-28T07:00:00+03:00",
-          "title": "The Match That Changed Tennis",
+          "start": "2026-09-29T19:00:00+03:00",
+          "stop": "2026-09-29T19:30:00+03:00",
+          "title": "CPL T20. St. Lucia Kings v Barbados Royals",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T07:00:00+03:00",
-          "stop": "2026-09-28T07:30:00+03:00",
+          "start": "2026-09-29T19:30:00+03:00",
+          "stop": "2026-09-29T20:00:00+03:00",
+          "title": "CPL T20. Jamaica Kingsmen v St. Kitts  Nevis Patriots",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T20:00:00+03:00",
+          "stop": "2026-09-29T20:30:00+03:00",
+          "title": "CPL T20. St. Lucia Kings v Guyana Amazon Warriors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T20:30:00+03:00",
+          "stop": "2026-09-29T21:00:00+03:00",
+          "title": "CPL T20. Antigua  Barbuda Falcons v St. Kitts  Nevis Patriots",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T21:00:00+03:00",
+          "stop": "2026-09-29T21:30:00+03:00",
+          "title": "CPL T20. St. Lucia Kings v Jamaica Kingsmen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T21:30:00+03:00",
+          "stop": "2026-09-29T22:00:00+03:00",
+          "title": "CPL T20. Antigua  Barbuda Falcons v Trinbago Knight Riders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T22:00:00+03:00",
+          "stop": "2026-09-29T22:30:00+03:00",
+          "title": "CPL T20. Antigua  Barbuda Falcons v Guyana Amazon Warriors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T22:30:00+03:00",
+          "stop": "2026-09-29T23:00:00+03:00",
+          "title": "CPL T20. Antigua  Barbuda Falcons v Barbados Tridents",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:00:00+03:00",
+          "stop": "2026-09-29T23:30:00+03:00",
+          "title": "CPL T20. Trinbago Knight Riders v St. Lucia Kings",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:30:00+03:00",
+          "stop": "2026-09-30T00:00:00+03:00",
+          "title": "CPL T20. St. Kitts  Nevis Patriots v Jamaica Kingsmen",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T00:00:00+03:00",
+          "stop": "2026-09-30T00:30:00+03:00",
+          "title": "CPL T20. Trinbago Knight Riders v Barbados Tridents",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T00:30:00+03:00",
+          "stop": "2026-09-30T01:00:00+03:00",
+          "title": "CPL T20. Trinbago Knight Riders v Jamaica Kingsmen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T01:00:00+03:00",
+          "stop": "2026-09-30T01:30:00+03:00",
+          "title": "CPL T20. Trinbago Knight Riders v Guyana Amazon Warriors",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T01:30:00+03:00",
+          "stop": "2026-09-30T02:00:00+03:00",
+          "title": "CPL T20. St. Kitts  Nevis Patriots v Barbados Tridents",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T02:00:00+03:00",
+          "stop": "2026-09-30T02:30:00+03:00",
+          "title": "CPL T20. Trinbago Knight Riders v Antigua  Barbuda Falcons",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T02:30:00+03:00",
+          "stop": "2026-09-30T03:00:00+03:00",
           "title": "The WRC Magazine. Rally Italia Sardegna",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T07:30:00+03:00",
-          "stop": "2026-09-28T08:00:00+03:00",
-          "title": "Roll The Tape. Fran Kirby",
+          "start": "2026-09-30T03:00:00+03:00",
+          "stop": "2026-09-30T04:00:00+03:00",
+          "title": "FIA Formula E. Berlin ePrix: Race 1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T08:00:00+03:00",
-          "stop": "2026-09-28T08:30:00+03:00",
-          "title": "FIM Superbike World Championship Motorcycle Racing. Italian Round: Superbike Race 1",
+          "start": "2026-09-30T04:00:00+03:00",
+          "stop": "2026-09-30T05:00:00+03:00",
+          "title": "FIA Formula E. Berlin ePrix: Race 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T08:30:00+03:00",
-          "stop": "2026-09-28T09:00:00+03:00",
-          "title": "FIM Superbike World Championship Motorcycle Racing. Italian Round: Superbike Superpole Race",
+          "start": "2026-09-30T05:00:00+03:00",
+          "stop": "2026-09-30T06:00:00+03:00",
+          "title": "FIA Formula E. Monaco ePrix: Race 1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T09:00:00+03:00",
-          "stop": "2026-09-28T09:30:00+03:00",
-          "title": "FIM Superbike World Championship Motorcycle Racing. Italian Round: Superbike Race 2",
+          "start": "2026-09-30T06:00:00+03:00",
+          "stop": "2026-09-30T07:00:00+03:00",
+          "title": "FIA Formula E. Monaco ePrix: Race 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T09:30:00+03:00",
-          "stop": "2026-09-28T10:00:00+03:00",
-          "title": "The WRC Magazine. Rally Italia Sardegna",
+          "start": "2026-09-30T07:00:00+03:00",
+          "stop": "2026-09-30T08:00:00+03:00",
+          "title": "FIA Formula E. Sanya ePrix",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T10:00:00+03:00",
-          "stop": "2026-09-28T12:00:00+03:00",
-          "title": "Laver Cup. Day 3",
+          "start": "2026-09-30T08:00:00+03:00",
+          "stop": "2026-09-30T08:30:00+03:00",
+          "title": "CPL T20. St. Kitts  Nevis Patriots v St. Lucia Kings",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T12:00:00+03:00",
-          "stop": "2026-09-28T13:00:00+03:00",
-          "title": "LIV Golf League. Riyadh: Tournament Review",
+          "start": "2026-09-30T08:30:00+03:00",
+          "stop": "2026-09-30T09:00:00+03:00",
+          "title": "CPL T20. Guyana Amazon Warriors v Jamaica Kingsmen",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T13:00:00+03:00",
-          "stop": "2026-09-28T14:00:00+03:00",
-          "title": "LIV Golf League. Adelaide: Tournament Review",
+          "start": "2026-09-30T09:00:00+03:00",
+          "stop": "2026-09-30T09:30:00+03:00",
+          "title": "CPL T20. Barbados Tridents v Trinbago Knight Riders",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T14:00:00+03:00",
-          "stop": "2026-09-28T15:00:00+03:00",
-          "title": "LIV Golf League. Hong Kong: Tournament Review",
+          "start": "2026-09-30T09:30:00+03:00",
+          "stop": "2026-09-30T10:00:00+03:00",
+          "title": "CPL T20. Guyana Amazon Warriors v St. Kitts  Nevis Patriots",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T15:00:00+03:00",
-          "stop": "2026-09-28T16:00:00+03:00",
-          "title": "LIV Golf League. Singapore: Tournament Review",
+          "start": "2026-09-30T10:00:00+03:00",
+          "stop": "2026-09-30T11:00:00+03:00",
+          "title": "Serie A Football. Genoa v Napoli",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T16:00:00+03:00",
-          "stop": "2026-09-28T17:00:00+03:00",
-          "title": "LIV Golf League. South Africa: Tournament Review",
+          "start": "2026-09-30T11:00:00+03:00",
+          "stop": "2026-09-30T12:00:00+03:00",
+          "title": "Serie A Football. Torino v AC Milan",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T17:00:00+03:00",
-          "stop": "2026-09-28T18:00:00+03:00",
-          "title": "LIV Golf League. Mexico City: Tournament Review",
+          "start": "2026-09-30T12:00:00+03:00",
+          "stop": "2026-09-30T13:00:00+03:00",
+          "title": "Serie A Football. Cagliari v Internazionale",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T13:00:00+03:00",
+          "stop": "2026-09-30T14:00:00+03:00",
+          "title": "Serie A Football. Napoli v Como",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:00:00+03:00",
+          "stop": "2026-09-30T15:00:00+03:00",
+          "title": "Serie A Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T15:00:00+03:00",
+          "stop": "2026-09-30T16:00:00+03:00",
+          "title": "Serie A Football. Juventus v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T16:00:00+03:00",
+          "stop": "2026-09-30T17:00:00+03:00",
+          "title": "Serie A Football. SS Lazio v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T17:00:00+03:00",
+          "stop": "2026-09-30T18:00:00+03:00",
+          "title": "Serie A Football. Internazionale v Udinese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:00:00+03:00",
+          "stop": "2026-09-30T19:00:00+03:00",
+          "title": "Serie A Football. Juventus v Atalanta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T19:00:00+03:00",
+          "stop": "2026-09-30T20:00:00+03:00",
+          "title": "Serie A Football. AC Milan v Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T20:00:00+03:00",
+          "stop": "2026-09-30T20:30:00+03:00",
+          "title": "UEFA Champions League Magazine. Series 26 Episode 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T20:30:00+03:00",
+          "stop": "2026-09-30T21:30:00+03:00",
+          "title": "Premier League Stories. Series 6 Episode 18: Roberto Mancini",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T21:30:00+03:00",
+          "stop": "2026-09-30T22:30:00+03:00",
+          "title": "NWSL. Washington Spirit v Angel City FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T22:30:00+03:00",
+          "stop": "2026-09-30T23:30:00+03:00",
+          "title": "NWSL. Bay FC v Orlando Pride",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T23:30:00+03:00",
+          "stop": "2026-10-01T00:00:00+03:00",
+          "title": "TNT Sports Reload. Series 26 Episode 39",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "programs": [
+        {
+          "start": "2026-10-01T00:00:00+03:00",
+          "stop": "2026-10-01T01:00:00+03:00",
+          "title": "FEI World Cup Jumping. Williamsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T01:00:00+03:00",
+          "stop": "2026-10-01T02:00:00+03:00",
+          "title": "FIM Superbike World Championship Motorcycle Racing. Italian Round",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T02:00:00+03:00",
+          "stop": "2026-10-01T03:00:00+03:00",
+          "title": "FIA Formula E. Shanghai ePrix: Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T03:00:00+03:00",
+          "stop": "2026-10-01T04:00:00+03:00",
+          "title": "FIA Formula E. Shanghai ePrix: Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T04:00:00+03:00",
+          "stop": "2026-10-01T05:00:00+03:00",
+          "title": "FIA Formula E. Tokyo ePrix: Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T05:00:00+03:00",
+          "stop": "2026-10-01T06:00:00+03:00",
+          "title": "FIA Formula E. Tokyo ePrix: Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T06:00:00+03:00",
+          "stop": "2026-10-01T07:00:00+03:00",
+          "title": "FIA Formula E. London ePrix: Race 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T07:00:00+03:00",
+          "stop": "2026-10-01T08:00:00+03:00",
+          "title": "FIA Formula E. London ePrix: Race 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T08:00:00+03:00",
+          "stop": "2026-10-01T09:00:00+03:00",
+          "title": "Serie A Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T09:00:00+03:00",
+          "stop": "2026-10-01T10:00:00+03:00",
+          "title": "Serie A Football. Juventus v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T10:00:00+03:00",
+          "stop": "2026-10-01T11:00:00+03:00",
+          "title": "Serie A Football. SS Lazio v AC Milan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T11:00:00+03:00",
+          "stop": "2026-10-01T12:00:00+03:00",
+          "title": "Serie A Football. Internazionale v Udinese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T12:00:00+03:00",
+          "stop": "2026-10-01T13:00:00+03:00",
+          "title": "Serie A Football. Juventus v Atalanta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T13:00:00+03:00",
+          "stop": "2026-10-01T14:00:00+03:00",
+          "title": "Serie A Football. AC Milan v Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T14:00:00+03:00",
+          "stop": "2026-10-01T14:30:00+03:00",
+          "title": "EUROpa League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T14:30:00+03:00",
+          "stop": "2026-10-01T15:00:00+03:00",
+          "title": "EUROpa League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T15:00:00+03:00",
+          "stop": "2026-10-01T15:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T15:30:00+03:00",
+          "stop": "2026-10-01T16:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T16:00:00+03:00",
+          "stop": "2026-10-01T16:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T16:30:00+03:00",
+          "stop": "2026-10-01T17:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T17:00:00+03:00",
+          "stop": "2026-10-01T17:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T17:30:00+03:00",
+          "stop": "2026-10-01T18:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T18:00:00+03:00",
+          "stop": "2026-10-01T18:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T18:30:00+03:00",
+          "stop": "2026-10-01T19:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T19:00:00+03:00",
+          "stop": "2026-10-01T19:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T19:30:00+03:00",
+          "stop": "2026-10-01T20:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T20:00:00+03:00",
+          "stop": "2026-10-01T20:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T20:30:00+03:00",
+          "stop": "2026-10-01T21:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T21:00:00+03:00",
+          "stop": "2026-10-01T21:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T21:30:00+03:00",
+          "stop": "2026-10-01T22:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T22:00:00+03:00",
+          "stop": "2026-10-01T22:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T22:30:00+03:00",
+          "stop": "2026-10-01T23:00:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T23:00:00+03:00",
+          "stop": "2026-10-01T23:30:00+03:00",
+          "title": "UEFA Champions League Football",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T23:30:00+03:00",
+          "stop": "2026-10-02T00:00:00+03:00",
+          "title": "UEFA Champions League Magazine. Series 26 Episode 4",
           "description": "L",
           "category": null
         }

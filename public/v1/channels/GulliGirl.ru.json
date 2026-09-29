@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
+  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
   "available": true,
-  "programmeCount": 14,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-09-28",
-      "programs": [
-        {
-          "start": "2026-09-28T00:00:00+03:00",
-          "stop": "2026-09-28T02:00:00+03:00",
-          "title": "Непоседа Зу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T02:00:00+03:00",
-          "stop": "2026-09-28T04:00:00+03:00",
-          "title": "Лолирок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T04:00:00+03:00",
-          "stop": "2026-09-28T06:00:00+03:00",
-          "title": "Сёстры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T06:00:00+03:00",
-          "stop": "2026-09-28T08:00:00+03:00",
-          "title": "Необычная семья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T08:00:00+03:00",
-          "stop": "2026-09-28T10:00:00+03:00",
-          "title": "Папины дочки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T10:00:00+03:00",
-          "stop": "2026-09-28T12:00:00+03:00",
-          "title": "Мир Винкс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T12:00:00+03:00",
-          "stop": "2026-09-28T14:00:00+03:00",
-          "title": "Зиг и Шарко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T14:00:00+03:00",
-          "stop": "2026-09-28T16:00:00+03:00",
-          "title": "Необычная семья.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T16:00:00+03:00",
-          "stop": "2026-09-28T18:00:00+03:00",
-          "title": "Папины дочки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T18:00:00+03:00",
-          "stop": "2026-09-28T20:00:00+03:00",
-          "title": "Лолирок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T20:00:00+03:00",
-          "stop": "2026-09-28T23:00:00+03:00",
-          "title": "Зиг и Шарко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-28T23:00:00+03:00",
-          "stop": "2026-09-29T00:00:00+03:00",
-          "title": "Сёстры.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-29",
       "programs": [
@@ -113,8 +24,186 @@
         },
         {
           "start": "2026-09-29T02:00:00+03:00",
-          "stop": "2026-09-29T03:00:00+03:00",
+          "stop": "2026-09-29T04:00:00+03:00",
           "title": "Сёстры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T04:00:00+03:00",
+          "stop": "2026-09-29T06:00:00+03:00",
+          "title": "Необычная семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T06:00:00+03:00",
+          "stop": "2026-09-29T08:00:00+03:00",
+          "title": "Папины дочки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T08:00:00+03:00",
+          "stop": "2026-09-29T10:00:00+03:00",
+          "title": "Непоседа Зу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T10:00:00+03:00",
+          "stop": "2026-09-29T12:00:00+03:00",
+          "title": "Зиг и Шарко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T12:00:00+03:00",
+          "stop": "2026-09-29T14:00:00+03:00",
+          "title": "Мир Винкс.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T14:00:00+03:00",
+          "stop": "2026-09-29T16:00:00+03:00",
+          "title": "Лолирок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T16:00:00+03:00",
+          "stop": "2026-09-29T18:00:00+03:00",
+          "title": "Необычная семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T18:00:00+03:00",
+          "stop": "2026-09-29T20:00:00+03:00",
+          "title": "Папины дочки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T20:00:00+03:00",
+          "stop": "2026-09-29T23:00:00+03:00",
+          "title": "Сёстры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:00:00+03:00",
+          "stop": "2026-09-30T00:00:00+03:00",
+          "title": "Зиг и Шарко.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T00:00:00+03:00",
+          "stop": "2026-09-30T02:00:00+03:00",
+          "title": "Сёстры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T02:00:00+03:00",
+          "stop": "2026-09-30T04:00:00+03:00",
+          "title": "Необычная семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T04:00:00+03:00",
+          "stop": "2026-09-30T06:00:00+03:00",
+          "title": "Папины дочки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T06:00:00+03:00",
+          "stop": "2026-09-30T08:00:00+03:00",
+          "title": "Непоседа Зу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T08:00:00+03:00",
+          "stop": "2026-09-30T10:00:00+03:00",
+          "title": "Лолирок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T10:00:00+03:00",
+          "stop": "2026-09-30T12:00:00+03:00",
+          "title": "Мир Винкс.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T12:00:00+03:00",
+          "stop": "2026-09-30T14:00:00+03:00",
+          "title": "Зиг и Шарко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:00:00+03:00",
+          "stop": "2026-09-30T16:00:00+03:00",
+          "title": "Сёстры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T16:00:00+03:00",
+          "stop": "2026-09-30T18:00:00+03:00",
+          "title": "Необычная семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:00:00+03:00",
+          "stop": "2026-09-30T20:00:00+03:00",
+          "title": "Папины дочки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T20:00:00+03:00",
+          "stop": "2026-09-30T23:00:00+03:00",
+          "title": "Лолирок.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T23:00:00+03:00",
+          "stop": "2026-10-01T00:00:00+03:00",
+          "title": "Зиг и Шарко.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "programs": [
+        {
+          "start": "2026-10-01T00:00:00+03:00",
+          "stop": "2026-10-01T02:00:00+03:00",
+          "title": "Необычная семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T02:00:00+03:00",
+          "stop": "2026-10-01T03:00:00+03:00",
+          "title": "Папины дочки.",
           "description": "L",
           "category": null
         }

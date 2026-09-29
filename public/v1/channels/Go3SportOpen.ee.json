@@ -8,66 +8,272 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-28T05:28:36.462067+00:00",
+  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 36,
   "days": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "programs": [
         {
-          "start": "2026-09-28T01:35:00+03:00",
-          "stop": "2026-09-28T04:20:00+03:00",
+          "start": "2026-09-29T00:00:00+03:00",
+          "stop": "2026-09-29T00:30:00+03:00",
+          "title": "Motorsport: MXGP Behind the Gate (Behind the gate (MXGP)), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T00:30:00+03:00",
+          "stop": "2026-09-29T04:05:00+03:00",
+          "title": "Motorsport: FIM Speedway Grand Prix. Round 10 GP of Poland – Torun (Speedway Grand Prix: Poland Toruń), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T04:05:00+03:00",
+          "stop": "2026-09-29T07:00:00+03:00",
+          "title": "FIGHT SPORTS: One Championship. ONE Friday Fights 172 (ONE Championship), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T07:00:00+03:00",
+          "stop": "2026-09-29T09:30:00+03:00",
+          "title": "Fight sports: Zuffa Boxing. Johnny Fisher-Michael Pirotton (Zuffa Boxing), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T09:30:00+03:00",
+          "stop": "2026-09-29T11:30:00+03:00",
           "title": "Ice Hockey: Switzerland National League. Biel – Geneve (National League), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T04:20:00+03:00",
-          "stop": "2026-09-28T07:00:00+03:00",
-          "title": "Boxing: Fujinokuni Professional Boxing 9. Shunpei Ohata-Pete Apolinar (Fujinokuni Professional Boxing), 2026",
+          "start": "2026-09-29T11:30:00+03:00",
+          "stop": "2026-09-29T12:00:00+03:00",
+          "title": "GP Confidential (GP Confidential), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T07:00:00+03:00",
-          "stop": "2026-09-28T08:00:00+03:00",
-          "title": "FIA World Rally Championship. Rally Chile SS14 BioBio 1 (WRC: Rally Chile), Čilė, 2026",
+          "start": "2026-09-29T12:00:00+03:00",
+          "stop": "2026-09-29T12:30:00+03:00",
+          "title": "Motorsport: Fastzone Magazines (Fastzone Magazine), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T08:00:00+03:00",
-          "stop": "2026-09-28T09:00:00+03:00",
-          "title": "FIA World Rally Championship. Rally Chile SS15 Carampangue 2 (WRC: Rally Chile), Čilė, 2026",
+          "start": "2026-09-29T12:30:00+03:00",
+          "stop": "2026-09-29T14:30:00+03:00",
+          "title": "Basketball: ACB league. Burgos – Baskonia (Liga Endesa), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T09:00:00+03:00",
-          "stop": "2026-09-28T10:30:00+03:00",
-          "title": "FIA World Rally Championship. Rally Chile SS16 BioBio 2 (WRC: Rally Chile), Čilė, 2026",
+          "start": "2026-09-29T14:30:00+03:00",
+          "stop": "2026-09-29T16:30:00+03:00",
+          "title": "Tennis: ATP 250 Hangzhou. Singles. Final (Tennis: ATP 250 – Hangzhou Championships), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T10:30:00+03:00",
-          "stop": "2026-09-28T12:30:00+03:00",
-          "title": "Basketball: EuroLeague. FC Barcelona – Anadolu Efes (Basketball: EuroLeague), 2026",
+          "start": "2026-09-29T16:30:00+03:00",
+          "stop": "2026-09-29T18:45:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. Bern – Ajoie (National League), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T12:30:00+03:00",
-          "stop": "2026-09-28T16:30:00+03:00",
-          "title": "Tennis: ATP 250 Hangzhou. Singles. 1/2 final (Tennis: ATP 250 – Hangzhou Championships), 2026",
+          "start": "2026-09-29T18:45:00+03:00",
+          "stop": "2026-09-29T21:15:00+03:00",
+          "title": "Basketball: EuroLeague. Dubai – FC Barcelona (Basketball: EuroLeague), 2026",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-28T16:30:00+03:00",
-          "stop": "2026-09-28T18:30:00+03:00",
-          "title": "Ice Hockey: Switzerland National League. ZSC Lions – Kloten (National League), 2026",
+          "start": "2026-09-29T21:15:00+03:00",
+          "stop": "2026-09-29T23:30:00+03:00",
+          "title": "Basketball: EuroLeague. Olimpia Milano – Virtus (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-29T23:30:00+03:00",
+          "stop": "2026-09-30T00:05:00+03:00",
+          "title": "The WRC Magazine (The WRC Magazine), 2024",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-09-30",
+      "programs": [
+        {
+          "start": "2026-09-30T00:05:00+03:00",
+          "stop": "2026-09-30T03:00:00+03:00",
+          "title": "Ice Hockey: NHL. Panthers – Hurricanes 30/9/26 (National Hockey League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T03:00:00+03:00",
+          "stop": "2026-09-30T05:00:00+03:00",
+          "title": "Basketball: EuroLeague. Žalgiris – Olympiacos (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T05:00:00+03:00",
+          "stop": "2026-09-30T09:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T09:00:00+03:00",
+          "stop": "2026-09-30T13:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T13:00:00+03:00",
+          "stop": "2026-09-30T14:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:00:00+03:00",
+          "stop": "2026-09-30T14:30:00+03:00",
+          "title": "The WRC Magazine (The WRC Magazine), 2024",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T14:30:00+03:00",
+          "stop": "2026-09-30T16:35:00+03:00",
+          "title": "Basketball: EuroLeague. Valencia – Baskonia (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T16:35:00+03:00",
+          "stop": "2026-09-30T18:50:00+03:00",
+          "title": "Basketball: Eurocup. Neptunas Klaipeda – Trento (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T18:50:00+03:00",
+          "stop": "2026-09-30T21:00:00+03:00",
+          "title": "Basketball: Eurocup. Riga Zelli – Derthona (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T21:00:00+03:00",
+          "stop": "2026-09-30T23:15:00+03:00",
+          "title": "Basketball: EuroLeague. Panathinaikos – ASVEL (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-09-30T23:15:00+03:00",
+          "stop": "2026-10-01T01:10:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. Bern – Ajoie (National League), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-01",
+      "programs": [
+        {
+          "start": "2026-10-01T01:10:00+03:00",
+          "stop": "2026-10-01T03:10:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. Lausanne – Geneve (National League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T03:10:00+03:00",
+          "stop": "2026-10-01T05:00:00+03:00",
+          "title": "Basketball: ACB league. Burgos – Baskonia (Liga Endesa), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T05:00:00+03:00",
+          "stop": "2026-10-01T09:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T09:00:00+03:00",
+          "stop": "2026-10-01T13:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T13:00:00+03:00",
+          "stop": "2026-10-01T14:00:00+03:00",
+          "title": "Tennis: ATP 500 Japan Open. Singles. Round 1 (Tennis: ATP 500 – Tokio), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T14:00:00+03:00",
+          "stop": "2026-10-01T14:30:00+03:00",
+          "title": "Motorsport: MXGP Behind the Gate (Behind the gate (MXGP)), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T14:30:00+03:00",
+          "stop": "2026-10-01T15:00:00+03:00",
+          "title": "Motorsport: Fastzone Magazines (Fastzone Magazine), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T15:00:00+03:00",
+          "stop": "2026-10-01T17:00:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. Lausanne – Geneve (National League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T17:00:00+03:00",
+          "stop": "2026-10-01T19:00:00+03:00",
+          "title": "Basketball: Eurocup. Siauliai – London (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T19:00:00+03:00",
+          "stop": "2026-10-01T21:15:00+03:00",
+          "title": "Basketball: EuroLeague. Maccabi – Besiktas (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T21:15:00+03:00",
+          "stop": "2026-10-01T23:30:00+03:00",
+          "title": "Basketball: EuroLeague. Virtus – Olympiacos (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T23:30:00+03:00",
+          "stop": "2026-10-02T00:30:00+03:00",
+          "title": "FIA World Rally Championship. Rally Italia SS1 Ittiri Arena Show (WRC: Rally Italia Sardegna), 2026",
           "description": "L",
           "category": null
         }
