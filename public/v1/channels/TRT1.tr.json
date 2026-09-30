@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
+  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-09-29",
-      "programs": [
-        {
-          "start": "2026-09-29T20:00:00+03:00",
-          "stop": "2026-09-29T22:20:00+03:00",
-          "title": "Evlilik Güzeldir",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T22:20:00+03:00",
-          "stop": "2026-09-30T00:15:00+03:00",
-          "title": "Dizi",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-30",
       "programs": [
@@ -196,6 +177,18 @@
         {
           "start": "2026-10-01T20:00:00+03:00",
           "stop": "2026-10-02T20:00:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "programs": [
+        {
+          "start": "2026-10-02T20:00:00+03:00",
+          "stop": "2026-10-03T00:15:00+03:00",
           "title": "Dizi",
           "description": "L",
           "category": null

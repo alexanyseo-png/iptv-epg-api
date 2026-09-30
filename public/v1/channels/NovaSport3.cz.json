@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
+  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-09-29",
-      "programs": [
-        {
-          "start": "2026-09-29T00:05:00+03:00",
-          "stop": "2026-09-29T02:00:00+03:00",
-          "title": "VfB Stuttgart – Viking FK",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T02:00:00+03:00",
-          "stop": "2026-09-29T08:00:00+03:00",
-          "title": "Fenerbahçe SK – AS Řím",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T08:00:00+03:00",
-          "stop": "2026-09-29T10:00:00+03:00",
-          "title": "CD Leganés – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T10:00:00+03:00",
-          "stop": "2026-09-29T10:30:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T10:30:00+03:00",
-          "stop": "2026-09-29T11:30:00+03:00",
-          "title": "Bundesliga Highlights (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T11:30:00+03:00",
-          "stop": "2026-09-29T12:00:00+03:00",
-          "title": "EFL Highlights (9)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T12:00:00+03:00",
-          "stop": "2026-09-29T14:00:00+03:00",
-          "title": "Bayern Mnichov – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T14:00:00+03:00",
-          "stop": "2026-09-29T16:00:00+03:00",
-          "title": "1. FC Norimberk – Dynamo Drážďany",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T16:00:00+03:00",
-          "stop": "2026-09-29T18:00:00+03:00",
-          "title": "1. FC Magdeburg – Eintracht Braunschweig",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T18:00:00+03:00",
-          "stop": "2026-09-29T20:00:00+03:00",
-          "title": "Energie Cottbus – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T20:00:00+03:00",
-          "stop": "2026-09-29T22:00:00+03:00",
-          "title": "FC Barcelona – Feyenoord Rotterdam",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T22:00:00+03:00",
-          "stop": "2026-09-29T23:50:00+03:00",
-          "title": "Bayern Mnichov – FK Bod?/Glimt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T23:50:00+03:00",
-          "stop": "2026-09-30T01:45:00+03:00",
-          "title": "Real Madrid – Inter Milán",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-30",
       "programs": [
@@ -281,6 +185,123 @@
           "start": "2026-10-01T22:00:00+03:00",
           "stop": "2026-10-02T00:00:00+03:00",
           "title": "VfB Stuttgart – Viking FK",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "programs": [
+        {
+          "start": "2026-10-02T00:00:00+03:00",
+          "stop": "2026-10-02T02:00:00+03:00",
+          "title": "Fenerbahçe SK – AS Řím",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T02:00:00+03:00",
+          "stop": "2026-10-02T08:00:00+03:00",
+          "title": "Hannover 96 – VfL Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T08:00:00+03:00",
+          "stop": "2026-10-02T08:30:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T08:30:00+03:00",
+          "stop": "2026-10-02T09:00:00+03:00",
+          "title": "EFL Highlights (9)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T09:00:00+03:00",
+          "stop": "2026-10-02T09:30:00+03:00",
+          "title": "Bundesliga speciál (3)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T09:30:00+03:00",
+          "stop": "2026-10-02T10:00:00+03:00",
+          "title": "Bundesliga speciál (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T10:00:00+03:00",
+          "stop": "2026-10-02T12:00:00+03:00",
+          "title": "Hamburger SV – 1. FSV Mainz 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T12:00:00+03:00",
+          "stop": "2026-10-02T14:00:00+03:00",
+          "title": "VfB Stuttgart – 1. FC Köln",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T14:00:00+03:00",
+          "stop": "2026-10-02T16:00:00+03:00",
+          "title": "CD Leganés – CD Castellón",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T16:00:00+03:00",
+          "stop": "2026-10-02T17:50:00+03:00",
+          "title": "VfL Osnabrück – 1. FC Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T17:50:00+03:00",
+          "stop": "2026-10-02T19:30:00+03:00",
+          "title": "Dynamo Drážďany – SV Darmstadt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T19:30:00+03:00",
+          "stop": "2026-10-02T20:00:00+03:00",
+          "title": "Bundesliga speciál (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T20:00:00+03:00",
+          "stop": "2026-10-02T21:00:00+03:00",
+          "title": "Bundesliga Highlights (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T21:00:00+03:00",
+          "stop": "2026-10-02T21:30:00+03:00",
+          "title": "Bundesliga Weekly (6)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T21:30:00+03:00",
+          "stop": "2026-10-02T22:00:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (4)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T22:00:00+03:00",
+          "stop": "2026-10-03T00:00:00+03:00",
+          "title": "PSG – Aston Villa",
           "description": "L",
           "category": null
         }

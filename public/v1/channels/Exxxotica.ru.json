@@ -8,351 +8,136 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-29T05:47:31.113930+00:00",
+  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
   "available": true,
-  "programmeCount": 51,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-09-29",
-      "programs": [
-        {
-          "start": "2026-09-29T00:00:00+03:00",
-          "stop": "2026-09-29T01:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T01:00:00+03:00",
-          "stop": "2026-09-29T02:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T02:00:00+03:00",
-          "stop": "2026-09-29T03:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T03:00:00+03:00",
-          "stop": "2026-09-29T04:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T04:00:00+03:00",
-          "stop": "2026-09-29T05:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T05:00:00+03:00",
-          "stop": "2026-09-29T06:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T06:00:00+03:00",
-          "stop": "2026-09-29T07:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T07:00:00+03:00",
-          "stop": "2026-09-29T08:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T08:00:00+03:00",
-          "stop": "2026-09-29T09:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T09:00:00+03:00",
-          "stop": "2026-09-29T10:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T10:00:00+03:00",
-          "stop": "2026-09-29T11:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T11:00:00+03:00",
-          "stop": "2026-09-29T12:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T12:00:00+03:00",
-          "stop": "2026-09-29T13:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T13:00:00+03:00",
-          "stop": "2026-09-29T14:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T14:00:00+03:00",
-          "stop": "2026-09-29T15:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T15:00:00+03:00",
-          "stop": "2026-09-29T16:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T16:00:00+03:00",
-          "stop": "2026-09-29T17:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T17:00:00+03:00",
-          "stop": "2026-09-29T18:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T18:00:00+03:00",
-          "stop": "2026-09-29T19:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T19:00:00+03:00",
-          "stop": "2026-09-29T20:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T20:00:00+03:00",
-          "stop": "2026-09-29T21:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T21:00:00+03:00",
-          "stop": "2026-09-29T22:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T22:00:00+03:00",
-          "stop": "2026-09-29T23:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-29T23:00:00+03:00",
-          "stop": "2026-09-30T00:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-09-30",
       "programs": [
         {
-          "start": "2026-09-30T00:00:00+03:00",
-          "stop": "2026-09-30T01:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T01:00:00+03:00",
+          "start": "2026-09-30T00:24:00+03:00",
           "stop": "2026-09-30T02:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "title": "Порезвимся на природе.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-09-30T02:00:00+03:00",
-          "stop": "2026-09-30T03:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "stop": "2026-09-30T03:24:00+03:00",
+          "title": "Горячая кровь (Часть 2-я).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T03:00:00+03:00",
-          "stop": "2026-09-30T04:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T03:24:00+03:00",
+          "stop": "2026-09-30T04:55:00+03:00",
+          "title": "Вылижи меня нежно.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T04:00:00+03:00",
-          "stop": "2026-09-30T05:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T04:55:00+03:00",
+          "stop": "2026-09-30T06:04:00+03:00",
+          "title": "Клэр Кастель: Сексолог.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T05:00:00+03:00",
-          "stop": "2026-09-30T06:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T06:04:00+03:00",
+          "stop": "2026-09-30T07:19:00+03:00",
+          "title": "Шоколадные ритмы.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T06:00:00+03:00",
-          "stop": "2026-09-30T07:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T07:19:00+03:00",
+          "stop": "2026-09-30T08:35:00+03:00",
+          "title": "Азиатский массаж с проникновением.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T07:00:00+03:00",
-          "stop": "2026-09-30T08:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T08:35:00+03:00",
+          "stop": "2026-09-30T10:04:00+03:00",
+          "title": "Поцелуи в Будапеште.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T08:00:00+03:00",
-          "stop": "2026-09-30T09:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T10:04:00+03:00",
+          "stop": "2026-09-30T11:31:00+03:00",
+          "title": "Темная сторона желаний 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T09:00:00+03:00",
-          "stop": "2026-09-30T10:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T11:31:00+03:00",
+          "stop": "2026-09-30T12:57:00+03:00",
+          "title": "Порочность.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T10:00:00+03:00",
-          "stop": "2026-09-30T11:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T12:57:00+03:00",
+          "stop": "2026-09-30T14:11:00+03:00",
+          "title": "Обмен без обязательств.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T11:00:00+03:00",
-          "stop": "2026-09-30T12:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T14:11:00+03:00",
+          "stop": "2026-09-30T15:41:00+03:00",
+          "title": "Модные и порочные.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T12:00:00+03:00",
-          "stop": "2026-09-30T13:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T15:41:00+03:00",
+          "stop": "2026-09-30T16:28:00+03:00",
+          "title": "Сексапильные мулатки.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T13:00:00+03:00",
-          "stop": "2026-09-30T14:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T16:28:00+03:00",
+          "stop": "2026-09-30T17:32:00+03:00",
+          "title": "Нет пути назад.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T14:00:00+03:00",
-          "stop": "2026-09-30T15:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T17:32:00+03:00",
+          "stop": "2026-09-30T19:05:00+03:00",
+          "title": "Влюбленные девственницы.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T15:00:00+03:00",
-          "stop": "2026-09-30T16:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T19:05:00+03:00",
+          "stop": "2026-09-30T20:42:00+03:00",
+          "title": "Порезвимся на природе.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T16:00:00+03:00",
-          "stop": "2026-09-30T17:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T20:42:00+03:00",
+          "stop": "2026-09-30T21:51:00+03:00",
+          "title": "Любители секса на природе 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T17:00:00+03:00",
-          "stop": "2026-09-30T18:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T21:51:00+03:00",
+          "stop": "2026-09-30T23:01:00+03:00",
+          "title": "Каникулы у родителей.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-09-30T18:00:00+03:00",
-          "stop": "2026-09-30T19:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T19:00:00+03:00",
-          "stop": "2026-09-30T20:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T20:00:00+03:00",
-          "stop": "2026-09-30T21:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T21:00:00+03:00",
-          "stop": "2026-09-30T22:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T22:00:00+03:00",
-          "stop": "2026-09-30T23:00:00+03:00",
-          "title": "Exxxotica HD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T23:00:00+03:00",
-          "stop": "2026-10-01T00:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-09-30T23:01:00+03:00",
+          "stop": "2026-10-01T00:11:00+03:00",
+          "title": "Инес: Медсестра по особому уходу.",
           "description": "L",
           "category": null
         }
@@ -362,23 +147,147 @@
       "date": "2026-10-01",
       "programs": [
         {
-          "start": "2026-10-01T00:00:00+03:00",
-          "stop": "2026-10-01T01:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-10-01T00:11:00+03:00",
+          "stop": "2026-10-01T02:01:00+03:00",
+          "title": "Живая.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-01T01:00:00+03:00",
-          "stop": "2026-10-01T02:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-10-01T02:01:00+03:00",
+          "stop": "2026-10-01T03:16:00+03:00",
+          "title": "Азиатский массаж с проникновением.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-01T02:00:00+03:00",
-          "stop": "2026-10-01T03:00:00+03:00",
-          "title": "Exxxotica HD.",
+          "start": "2026-10-01T03:16:00+03:00",
+          "stop": "2026-10-01T04:46:00+03:00",
+          "title": "Поцелуи в Будапеште.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T04:46:00+03:00",
+          "stop": "2026-10-01T06:13:00+03:00",
+          "title": "Темная сторона желаний 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T06:13:00+03:00",
+          "stop": "2026-10-01T07:39:00+03:00",
+          "title": "Порочность.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T07:39:00+03:00",
+          "stop": "2026-10-01T08:52:00+03:00",
+          "title": "Обмен без обязательств.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T08:52:00+03:00",
+          "stop": "2026-10-01T10:22:00+03:00",
+          "title": "Модные и порочные.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T10:22:00+03:00",
+          "stop": "2026-10-01T11:10:00+03:00",
+          "title": "Сексапильные мулатки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T11:10:00+03:00",
+          "stop": "2026-10-01T12:14:00+03:00",
+          "title": "Нет пути назад.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T12:14:00+03:00",
+          "stop": "2026-10-01T13:47:00+03:00",
+          "title": "Влюбленные девственницы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T13:47:00+03:00",
+          "stop": "2026-10-01T15:24:00+03:00",
+          "title": "Порезвимся на природе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T15:24:00+03:00",
+          "stop": "2026-10-01T16:33:00+03:00",
+          "title": "Любители секса на природе 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T16:33:00+03:00",
+          "stop": "2026-10-01T17:43:00+03:00",
+          "title": "Каникулы у родителей.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T17:43:00+03:00",
+          "stop": "2026-10-01T18:53:00+03:00",
+          "title": "Инес: Медсестра по особому уходу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T18:53:00+03:00",
+          "stop": "2026-10-01T20:43:00+03:00",
+          "title": "Живая.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T20:43:00+03:00",
+          "stop": "2026-10-01T22:06:00+03:00",
+          "title": "Негритянская перегрузка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T22:06:00+03:00",
+          "stop": "2026-10-01T23:31:00+03:00",
+          "title": "Бесславные сучки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-01T23:31:00+03:00",
+          "stop": "2026-10-02T00:44:00+03:00",
+          "title": "Кара и Люси: Эскорт класса люкс.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "programs": [
+        {
+          "start": "2026-10-02T00:44:00+03:00",
+          "stop": "2026-10-02T02:00:00+03:00",
+          "title": "Ночь без компромиссов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T02:00:00+03:00",
+          "stop": "2026-10-02T03:00:00+03:00",
+          "title": "Обмен без обязательств.",
           "description": "L",
           "category": null
         }
