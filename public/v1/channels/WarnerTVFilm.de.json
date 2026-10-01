@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
+  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-09-30",
-      "programs": [
-        {
-          "start": "2026-09-30T01:50:00+03:00",
-          "stop": "2026-09-30T04:00:00+03:00",
-          "title": "Jede Sekunde zählt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T04:00:00+03:00",
-          "stop": "2026-09-30T04:20:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T04:20:00+03:00",
-          "stop": "2026-09-30T07:00:00+03:00",
-          "title": "Transformers: Ära des Untergangs.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T07:00:00+03:00",
-          "stop": "2026-09-30T08:55:00+03:00",
-          "title": "Des Königs Admiral.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T08:55:00+03:00",
-          "stop": "2026-09-30T09:25:00+03:00",
-          "title": "New York on Set - Teil 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T09:25:00+03:00",
-          "stop": "2026-09-30T11:10:00+03:00",
-          "title": "Das erstaunliche Leben des Walter Mitty.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T11:10:00+03:00",
-          "stop": "2026-09-30T12:55:00+03:00",
-          "title": "(500) Days of Summer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T12:55:00+03:00",
-          "stop": "2026-09-30T15:00:00+03:00",
-          "title": "King Arthur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T15:00:00+03:00",
-          "stop": "2026-09-30T17:10:00+03:00",
-          "title": "Men of Honor.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T17:10:00+03:00",
-          "stop": "2026-09-30T18:55:00+03:00",
-          "title": "Ruf der Wildnis.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T18:55:00+03:00",
-          "stop": "2026-09-30T21:15:00+03:00",
-          "title": "Jede Sekunde zählt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T21:15:00+03:00",
-          "stop": "2026-09-30T23:05:00+03:00",
-          "title": "Entgleist.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T23:05:00+03:00",
-          "stop": "2026-10-01T00:30:00+03:00",
-          "title": "Phone Booth - Nicht auflegen!",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-01",
       "programs": [
@@ -295,6 +199,95 @@
           "start": "2026-10-02T23:20:00+03:00",
           "stop": "2026-10-03T01:15:00+03:00",
           "title": "Schütze Benjamin.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "start": "2026-10-03T01:15:00+03:00",
+          "stop": "2026-10-03T03:10:00+03:00",
+          "title": "Monuments Men - Ungewöhnliche Helden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T03:10:00+03:00",
+          "stop": "2026-10-03T05:10:00+03:00",
+          "title": "Willow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T05:10:00+03:00",
+          "stop": "2026-10-03T07:00:00+03:00",
+          "title": "Schütze Benjamin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T07:00:00+03:00",
+          "stop": "2026-10-03T07:20:00+03:00",
+          "title": "Hinter den Kulissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T07:20:00+03:00",
+          "stop": "2026-10-03T10:10:00+03:00",
+          "title": "Abyss - Abgrund des Todes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T10:10:00+03:00",
+          "stop": "2026-10-03T12:05:00+03:00",
+          "title": "Enemy Mine - Geliebter Feind.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T12:05:00+03:00",
+          "stop": "2026-10-03T14:00:00+03:00",
+          "title": "Jeremiah Johnson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T14:00:00+03:00",
+          "stop": "2026-10-03T16:35:00+03:00",
+          "title": "The Last Duel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T16:35:00+03:00",
+          "stop": "2026-10-03T19:25:00+03:00",
+          "title": "Der schmale Grat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T19:25:00+03:00",
+          "stop": "2026-10-03T21:15:00+03:00",
+          "title": "Entgleist.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T21:15:00+03:00",
+          "stop": "2026-10-03T22:55:00+03:00",
+          "title": "Unstoppable - Außer Kontrolle.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T22:55:00+03:00",
+          "stop": "2026-10-04T00:45:00+03:00",
+          "title": "Jack Ryan: Shadow Recruit.",
           "description": "L",
           "category": null
         }

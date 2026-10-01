@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
+  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
   "available": true,
-  "programmeCount": 22,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-09-30",
-      "programs": [
-        {
-          "start": "2026-09-30T00:00:00+03:00",
-          "stop": "2026-09-30T01:45:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T01:45:00+03:00",
-          "stop": "2026-09-30T04:05:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T04:05:00+03:00",
-          "stop": "2026-09-30T07:35:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T07:35:00+03:00",
-          "stop": "2026-09-30T08:00:00+03:00",
-          "title": "Территория.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T08:00:00+03:00",
-          "stop": "2026-09-30T12:00:00+03:00",
-          "title": "ММА.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T12:00:00+03:00",
-          "stop": "2026-09-30T14:20:00+03:00",
-          "title": "MMA Series Names (Н.Бархатов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T14:20:00+03:00",
-          "stop": "2026-09-30T16:00:00+03:00",
-          "title": "MMA Series Names (И.Фигейра).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T16:00:00+03:00",
-          "stop": "2026-09-30T19:40:00+03:00",
-          "title": "MMA Series Names (Д. Засинец).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T19:40:00+03:00",
-          "stop": "2026-09-30T20:00:00+03:00",
-          "title": "Территория.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T20:00:00+03:00",
-          "stop": "2026-10-01T00:00:00+03:00",
-          "title": "MMA Series Teams. Шторм: А.Подмарев, Д.Архиреев, Д.Веженко.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-01",
       "programs": [
@@ -174,8 +99,69 @@
       "programs": [
         {
           "start": "2026-10-02T00:00:00+03:00",
-          "stop": "2026-10-02T01:00:00+03:00",
+          "stop": "2026-10-02T03:40:00+03:00",
           "title": "MMA Series Names (Д. Засинец).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T03:40:00+03:00",
+          "stop": "2026-10-02T04:05:00+03:00",
+          "title": "Территория.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T04:05:00+03:00",
+          "stop": "2026-10-02T07:55:00+03:00",
+          "title": "MMA Series Teams. Шторм: А.Подмарев, Д.Архиреев, Д.Веженко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T07:55:00+03:00",
+          "stop": "2026-10-02T12:00:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T12:00:00+03:00",
+          "stop": "2026-10-02T15:35:00+03:00",
+          "title": "MMA Series. Топ бойцов тяжёлого веса (В.Уокер, В.Клюев, Т.Кардосо).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T15:35:00+03:00",
+          "stop": "2026-10-02T16:00:00+03:00",
+          "title": "Территория.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T16:00:00+03:00",
+          "stop": "2026-10-02T20:00:00+03:00",
+          "title": "MMA Series Teams. Шторм: А.Шуркевич, М.Садыгов, Ю.Островерхова.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-02T20:00:00+03:00",
+          "stop": "2026-10-03T00:55:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-50: Grand Arena. Я.Екимов, С.Бобрышев, А.Подмарев, З.Гаджибабаев.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "start": "2026-10-03T00:55:00+03:00",
+          "stop": "2026-10-03T01:55:00+03:00",
+          "title": "MMA Series Teams. Шторм: А.Шуркевич, М.Садыгов, Ю.Островерхова.",
           "description": "L",
           "category": null
         }

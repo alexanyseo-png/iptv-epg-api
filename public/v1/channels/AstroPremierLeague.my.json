@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
+  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-09-30",
-      "programs": [
-        {
-          "start": "2026-09-30T00:50:00+03:00",
-          "stop": "2026-09-30T03:00:00+03:00",
-          "title": "PL: Arsenal vs Coventry",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T03:00:00+03:00",
-          "stop": "2026-09-30T05:10:00+03:00",
-          "title": "PL: Crystal Palace vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T05:10:00+03:00",
-          "stop": "2026-09-30T07:00:00+03:00",
-          "title": "Classic Match: ARS 5-2 TOT 12/13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T07:00:00+03:00",
-          "stop": "2026-09-30T09:10:00+03:00",
-          "title": "PL: Ipswich vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T09:10:00+03:00",
-          "stop": "2026-09-30T12:20:00+03:00",
-          "title": "PL: Man Utd vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T12:20:00+03:00",
-          "stop": "2026-09-30T14:30:00+03:00",
-          "title": "PL: Leeds vs Crystal Palace",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T14:30:00+03:00",
-          "stop": "2026-09-30T15:00:00+03:00",
-          "title": "Southampton vs Aston Villa 2014/15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T15:00:00+03:00",
-          "stop": "2026-09-30T15:30:00+03:00",
-          "title": "Arsenal vs Manchester City 2000/01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T15:30:00+03:00",
-          "stop": "2026-09-30T16:30:00+03:00",
-          "title": "PL GOATs: North African Goats With Hassan Kachloul",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T16:30:00+03:00",
-          "stop": "2026-09-30T19:30:00+03:00",
-          "title": "PL: Bournemouth vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T19:30:00+03:00",
-          "stop": "2026-09-30T22:50:00+03:00",
-          "title": "PL: Everton vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T22:50:00+03:00",
-          "stop": "2026-10-01T01:00:00+03:00",
-          "title": "PL: Hull vs Aston Villa",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-01",
       "programs": [
@@ -274,6 +185,81 @@
           "start": "2026-10-02T22:50:00+03:00",
           "stop": "2026-10-03T01:00:00+03:00",
           "title": "PL: Brighton vs Leeds",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "start": "2026-10-03T01:00:00+03:00",
+          "stop": "2026-10-03T03:10:00+03:00",
+          "title": "PL: Bournemouth vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T03:10:00+03:00",
+          "stop": "2026-10-03T06:00:00+03:00",
+          "title": "PL: Chelsea vs Brighton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T06:00:00+03:00",
+          "stop": "2026-10-03T07:00:00+03:00",
+          "title": "PL GOATs: North African Goats With Hassan Kachloul",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T07:00:00+03:00",
+          "stop": "2026-10-03T09:50:00+03:00",
+          "title": "PL: Tottenham vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T09:50:00+03:00",
+          "stop": "2026-10-03T12:00:00+03:00",
+          "title": "PL: Leeds vs Newcastle",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T12:00:00+03:00",
+          "stop": "2026-10-03T14:10:00+03:00",
+          "title": "PL: Man City vs Sunderland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T14:10:00+03:00",
+          "stop": "2026-10-03T15:10:00+03:00",
+          "title": "PL Stories 2026/27: Roberto Mancini",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T15:10:00+03:00",
+          "stop": "2026-10-03T15:20:00+03:00",
+          "title": "Ben  Son Bola Tepuk",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T15:20:00+03:00",
+          "stop": "2026-10-03T18:20:00+03:00",
+          "title": "Legends Football Match – Game4Hope 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T18:20:00+03:00",
+          "stop": "2026-10-03T19:20:00+03:00",
+          "title": "PL: Arsenal vs Chelsea",
           "description": "L",
           "category": null
         }

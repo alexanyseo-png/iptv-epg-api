@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-09-30T05:36:46.149464+00:00",
+  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
   "available": true,
-  "programmeCount": 32,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-09-30",
-      "programs": [
-        {
-          "start": "2026-09-30T00:25:00+03:00",
-          "stop": "2026-09-30T02:45:00+03:00",
-          "title": "Смешанные единоборства. Lux Fight League 021 в Мехико, Мексика",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T02:45:00+03:00",
-          "stop": "2026-09-30T05:40:00+03:00",
-          "title": "Кикбоксинг. King of Kings World Series в Каунасе, Литва",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T05:40:00+03:00",
-          "stop": "2026-09-30T06:25:00+03:00",
-          "title": "UK Wrestling Showdown. 18 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T06:25:00+03:00",
-          "stop": "2026-09-30T07:00:00+03:00",
-          "title": "UK Wrestling Showdown. 19 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T07:00:00+03:00",
-          "stop": "2026-09-30T11:25:00+03:00",
-          "title": "Смешанные единоборства. NFC 15 в Эссене, Германия",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T11:25:00+03:00",
-          "stop": "2026-09-30T14:15:00+03:00",
-          "title": "Кикбоксинг. WGP Kickboxing Brazil, 17 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T14:15:00+03:00",
-          "stop": "2026-09-30T15:40:00+03:00",
-          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T15:40:00+03:00",
-          "stop": "2026-09-30T17:35:00+03:00",
-          "title": "Underground Boxing Night 2024. День 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T17:35:00+03:00",
-          "stop": "2026-09-30T20:00:00+03:00",
-          "title": "Боевые искусства. Colosseum Tournament 42 в Плоешти, Румыния",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T20:00:00+03:00",
-          "stop": "2026-09-30T22:50:00+03:00",
-          "title": "Кикбоксинг. King of Kings World Series в Каунасе, Литва",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-09-30T22:50:00+03:00",
-          "stop": "2026-10-01T01:05:00+03:00",
-          "title": "Кикбоксинг. King of Kings World Series в Липтовски-Микулаше, Словакия",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-01",
       "programs": [
@@ -246,6 +164,81 @@
           "start": "2026-10-02T22:00:00+03:00",
           "stop": "2026-10-03T01:55:00+03:00",
           "title": "Бокс голыми кулаками. BKB 33 в Лондоне, Великобритания",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "start": "2026-10-03T01:55:00+03:00",
+          "stop": "2026-10-03T05:20:00+03:00",
+          "title": "Смешанные единоборства. We Love MMA 74 в Штутгарте, Германия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T05:20:00+03:00",
+          "stop": "2026-10-03T06:05:00+03:00",
+          "title": "Кикбоксинг. Fighting Rookies 2014",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T06:05:00+03:00",
+          "stop": "2026-10-03T07:40:00+03:00",
+          "title": "Джиу-джитсу. Большой Шлем Абу-Даби 2019. Этап в Лос-Анджелесе, США",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T07:40:00+03:00",
+          "stop": "2026-10-03T09:20:00+03:00",
+          "title": "Кикбоксинг. Enfusion Talents 112 в Дордрехте, Нидерланды",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T09:20:00+03:00",
+          "stop": "2026-10-03T13:05:00+03:00",
+          "title": "Бокс. LNK Boxing Night 5 в Риге, Латвия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T13:05:00+03:00",
+          "stop": "2026-10-03T15:55:00+03:00",
+          "title": "Кикбоксинг. WGP Kickboxing Brazil, 17 c",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T15:55:00+03:00",
+          "stop": "2026-10-03T20:05:00+03:00",
+          "title": "Бокс. FOX Sports Africa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T20:05:00+03:00",
+          "stop": "2026-10-03T22:00:00+03:00",
+          "title": "Underground Boxing Night 2024. День 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T22:00:00+03:00",
+          "stop": "2026-10-03T23:55:00+03:00",
+          "title": "Смешанные единоборства. Centurion FC 20 в Сан-Паулу, Бразилия",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T23:55:00+03:00",
+          "stop": "2026-10-04T02:30:00+03:00",
+          "title": "Смешанные единоборства. Lux Fight League 022 в Мехико, Мексика",
           "description": "L",
           "category": null
         }
