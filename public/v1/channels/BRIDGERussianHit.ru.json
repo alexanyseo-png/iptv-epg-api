@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
+  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-10-01",
-      "programs": [
-        {
-          "start": "2026-10-01T00:00:00+03:00",
-          "stop": "2026-10-01T06:30:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T06:30:00+03:00",
-          "stop": "2026-10-01T07:30:00+03:00",
-          "title": "Wake Up Call.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T07:30:00+03:00",
-          "stop": "2026-10-01T11:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T11:00:00+03:00",
-          "stop": "2026-10-01T11:35:00+03:00",
-          "title": "Самый русский хит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T11:35:00+03:00",
-          "stop": "2026-10-02T00:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-02",
       "programs": [
@@ -104,7 +64,54 @@
       "programs": [
         {
           "start": "2026-10-03T00:00:00+03:00",
-          "stop": "2026-10-03T01:00:00+03:00",
+          "stop": "2026-10-03T16:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T16:00:00+03:00",
+          "stop": "2026-10-03T16:35:00+03:00",
+          "title": "Самый русский хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T16:35:00+03:00",
+          "stop": "2026-10-03T18:30:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T18:30:00+03:00",
+          "stop": "2026-10-03T20:00:00+03:00",
+          "title": "Bridge in time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T20:00:00+03:00",
+          "stop": "2026-10-03T23:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T23:00:00+03:00",
+          "stop": "2026-10-04T00:00:00+03:00",
+          "title": "Retro dance.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "programs": [
+        {
+          "start": "2026-10-04T00:00:00+03:00",
+          "stop": "2026-10-04T01:00:00+03:00",
           "title": "Лучшие Песни.",
           "description": "L",
           "category": null

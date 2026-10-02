@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
+  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-10-01",
-      "programs": [
-        {
-          "start": "2026-10-01T01:45:00+03:00",
-          "stop": "2026-10-01T04:05:00+03:00",
-          "title": "Сантош.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T04:05:00+03:00",
-          "stop": "2026-10-01T07:00:00+03:00",
-          "title": "Моя любовь всегда со мной.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T07:00:00+03:00",
-          "stop": "2026-10-01T10:35:00+03:00",
-          "title": "Месть и закон.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T10:35:00+03:00",
-          "stop": "2026-10-01T13:45:00+03:00",
-          "title": "Перехитрить судьбу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T13:45:00+03:00",
-          "stop": "2026-10-01T16:45:00+03:00",
-          "title": "Тигр жив.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T16:45:00+03:00",
-          "stop": "2026-10-01T20:00:00+03:00",
-          "title": "Король игроков.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T20:00:00+03:00",
-          "stop": "2026-10-01T22:40:00+03:00",
-          "title": "Патхан. Схватка со смертью.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T22:40:00+03:00",
-          "stop": "2026-10-02T01:10:00+03:00",
-          "title": "Мишень.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-02",
       "programs": [
@@ -127,8 +66,81 @@
         },
         {
           "start": "2026-10-02T22:50:00+03:00",
-          "stop": "2026-10-02T23:50:00+03:00",
+          "stop": "2026-10-03T02:20:00+03:00",
           "title": "Рам и Лакхан.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-03",
+      "programs": [
+        {
+          "start": "2026-10-03T02:20:00+03:00",
+          "stop": "2026-10-03T06:00:00+03:00",
+          "title": "Сдержать клятву.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T06:00:00+03:00",
+          "stop": "2026-10-03T09:10:00+03:00",
+          "title": "Король игроков.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T09:10:00+03:00",
+          "stop": "2026-10-03T11:30:00+03:00",
+          "title": "Сантош.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T11:30:00+03:00",
+          "stop": "2026-10-03T14:25:00+03:00",
+          "title": "Семья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T14:25:00+03:00",
+          "stop": "2026-10-03T17:00:00+03:00",
+          "title": "Жил-был тигр.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T17:00:00+03:00",
+          "stop": "2026-10-03T20:00:00+03:00",
+          "title": "Тигр жив.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T20:00:00+03:00",
+          "stop": "2026-10-03T22:50:00+03:00",
+          "title": "Бой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T22:50:00+03:00",
+          "stop": "2026-10-04T01:15:00+03:00",
+          "title": "Яд любви.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "programs": [
+        {
+          "start": "2026-10-04T01:15:00+03:00",
+          "stop": "2026-10-04T02:15:00+03:00",
+          "title": "Кукловод.",
           "description": "L",
           "category": null
         }

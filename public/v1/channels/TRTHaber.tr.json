@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-10-02",
+      "programs": [
+        {
+          "start": "2026-10-02T00:00:00+03:00",
+          "stop": "2026-10-02T01:00:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

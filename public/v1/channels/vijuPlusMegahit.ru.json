@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
+  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-10-01",
-      "programs": [
-        {
-          "start": "2026-10-01T01:40:00+03:00",
-          "stop": "2026-10-01T03:30:00+03:00",
-          "title": "Либерея: Охотники за сокровищами.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T03:30:00+03:00",
-          "stop": "2026-10-01T05:25:00+03:00",
-          "title": "Золото.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T05:25:00+03:00",
-          "stop": "2026-10-01T07:45:00+03:00",
-          "title": "Затерянный город Z.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T07:45:00+03:00",
-          "stop": "2026-10-01T09:35:00+03:00",
-          "title": "Искупление.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T09:35:00+03:00",
-          "stop": "2026-10-01T11:15:00+03:00",
-          "title": "Водопад ангела.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T11:15:00+03:00",
-          "stop": "2026-10-01T13:10:00+03:00",
-          "title": "Человек из Рима.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T13:10:00+03:00",
-          "stop": "2026-10-01T14:50:00+03:00",
-          "title": "Крушение.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T14:50:00+03:00",
-          "stop": "2026-10-01T16:50:00+03:00",
-          "title": "Черный ящик.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T16:50:00+03:00",
-          "stop": "2026-10-01T18:30:00+03:00",
-          "title": "Шрамы Парижа.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T18:30:00+03:00",
-          "stop": "2026-10-01T20:00:00+03:00",
-          "title": "Четвертый вид.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T20:00:00+03:00",
-          "stop": "2026-10-01T21:25:00+03:00",
-          "title": "Врата тьмы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T21:25:00+03:00",
-          "stop": "2026-10-01T23:00:00+03:00",
-          "title": "Белый шум.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T23:00:00+03:00",
-          "stop": "2026-10-02T00:45:00+03:00",
-          "title": "Белый шум 2: Сияние.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-02",
       "programs": [
@@ -209,8 +113,111 @@
       "programs": [
         {
           "start": "2026-10-03T00:35:00+03:00",
-          "stop": "2026-10-03T01:35:00+03:00",
+          "stop": "2026-10-03T02:20:00+03:00",
           "title": "Рейд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T02:20:00+03:00",
+          "stop": "2026-10-03T04:40:00+03:00",
+          "title": "Рейд 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T04:40:00+03:00",
+          "stop": "2026-10-03T06:40:00+03:00",
+          "title": "Криминальный город.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T06:40:00+03:00",
+          "stop": "2026-10-03T08:30:00+03:00",
+          "title": "Ограбление на Бейкер-стрит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T08:30:00+03:00",
+          "stop": "2026-10-03T10:00:00+03:00",
+          "title": "Неудержимые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T10:00:00+03:00",
+          "stop": "2026-10-03T11:35:00+03:00",
+          "title": "Неудержимые 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T11:35:00+03:00",
+          "stop": "2026-10-03T13:30:00+03:00",
+          "title": "Неудержимые 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T13:30:00+03:00",
+          "stop": "2026-10-03T15:20:00+03:00",
+          "title": "На краю земли.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T15:20:00+03:00",
+          "stop": "2026-10-03T17:00:00+03:00",
+          "title": "Грехи Запада.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T17:00:00+03:00",
+          "stop": "2026-10-03T18:25:00+03:00",
+          "title": "Напролом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T18:25:00+03:00",
+          "stop": "2026-10-03T20:00:00+03:00",
+          "title": "Вавилон Н.Э.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T20:00:00+03:00",
+          "stop": "2026-10-03T21:50:00+03:00",
+          "title": "Риддик.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T21:50:00+03:00",
+          "stop": "2026-10-03T23:20:00+03:00",
+          "title": "Титан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T23:20:00+03:00",
+          "stop": "2026-10-04T00:55:00+03:00",
+          "title": "Кин.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "programs": [
+        {
+          "start": "2026-10-04T00:55:00+03:00",
+          "stop": "2026-10-04T01:55:00+03:00",
+          "title": "Неудержимые.",
           "description": "L",
           "category": null
         }

@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-01T06:00:44.378572+00:00",
+  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
   "available": true,
   "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-10-01",
-      "programs": [
-        {
-          "start": "2026-10-01T01:00:00+03:00",
-          "stop": "2026-10-01T04:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T04:00:00+03:00",
-          "stop": "2026-10-01T08:00:00+03:00",
-          "title": "Best Polish",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T08:00:00+03:00",
-          "stop": "2026-10-01T09:00:00+03:00",
-          "title": "Best Hits",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-01T09:00:00+03:00",
-          "stop": "2026-10-02T01:00:00+03:00",
-          "title": "Dzień Polskiej Muzyki",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-02",
       "programs": [
@@ -274,6 +241,39 @@
           "start": "2026-10-03T22:00:00+03:00",
           "stop": "2026-10-04T01:00:00+03:00",
           "title": "Euro Disco vs Eurodance",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "programs": [
+        {
+          "start": "2026-10-04T01:00:00+03:00",
+          "stop": "2026-10-04T04:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T04:00:00+03:00",
+          "stop": "2026-10-04T08:00:00+03:00",
+          "title": "Best Polish",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T08:00:00+03:00",
+          "stop": "2026-10-04T09:00:00+03:00",
+          "title": "Best Hits",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T09:00:00+03:00",
+          "stop": "2026-10-05T01:00:00+03:00",
+          "title": "Dzień z balladami wszech czasów",
           "description": "L",
           "category": null
         }
