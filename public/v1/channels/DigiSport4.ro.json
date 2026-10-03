@@ -8,31 +8,265 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
+  "generatedAt": "2026-10-03T05:22:27.332825+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 35,
   "days": [
     {
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "programs": [
         {
-          "start": "2026-10-02T01:30:00+03:00",
-          "stop": "2026-10-02T03:15:00+03:00",
-          "title": "Etapa 3 Nations League: Grecia-Tarile de Jos Grupe",
+          "start": "2026-10-03T01:30:00+03:00",
+          "stop": "2026-10-03T03:15:00+03:00",
+          "title": "Fotbal Amical: Rapid-Genoa",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-02T03:15:00+03:00",
-          "stop": "2026-10-02T05:00:00+03:00",
-          "title": "Nations League: Germania-Serbia",
+          "start": "2026-10-03T03:15:00+03:00",
+          "stop": "2026-10-03T06:00:00+03:00",
+          "title": "Kickboxing: Elite Fighting Championship 4 Gala E.F.C",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-02T05:00:00+03:00",
-          "stop": "2026-10-02T06:00:00+03:00",
-          "title": "Interviurile Digi Sport",
+          "start": "2026-10-03T06:00:00+03:00",
+          "stop": "2026-10-03T07:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T07:00:00+03:00",
+          "stop": "2026-10-03T09:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T09:00:00+03:00",
+          "stop": "2026-10-03T11:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T11:00:00+03:00",
+          "stop": "2026-10-03T13:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T13:00:00+03:00",
+          "stop": "2026-10-03T16:30:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T16:30:00+03:00",
+          "stop": "2026-10-03T17:00:00+03:00",
+          "title": "Premiera ATP Tour This Week Episodul 38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T17:00:00+03:00",
+          "stop": "2026-10-03T19:00:00+03:00",
+          "title": "Etapa 1 Baschet: Rapid-Dinamo Liga Nationala",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T19:00:00+03:00",
+          "stop": "2026-10-03T21:00:00+03:00",
+          "title": "Etapa 3 Nations League: Estonia-Luxemburg Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-03T21:00:00+03:00",
+          "stop": "2026-10-04T00:00:00+03:00",
+          "title": "Kickboxing: Elite Fighting Championship 4 Gala E.F.C",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-04",
+      "programs": [
+        {
+          "start": "2026-10-04T00:00:00+03:00",
+          "stop": "2026-10-04T00:30:00+03:00",
+          "title": "Stirile Digi Sport",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T00:30:00+03:00",
+          "stop": "2026-10-04T02:30:00+03:00",
+          "title": "Etapa 3 Nations League: Elvetia-Slovenia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T02:30:00+03:00",
+          "stop": "2026-10-04T04:15:00+03:00",
+          "title": "Etapa 3 Nations League: Islanda-Bulgaria Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T04:15:00+03:00",
+          "stop": "2026-10-04T06:00:00+03:00",
+          "title": "Etapa 3 Nations League: Macedonia de Nord-Scotia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T06:00:00+03:00",
+          "stop": "2026-10-04T07:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T07:00:00+03:00",
+          "stop": "2026-10-04T09:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T09:00:00+03:00",
+          "stop": "2026-10-04T11:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T11:00:00+03:00",
+          "stop": "2026-10-04T13:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T13:00:00+03:00",
+          "stop": "2026-10-04T16:00:00+03:00",
+          "title": "⋗ Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T16:00:00+03:00",
+          "stop": "2026-10-04T18:00:00+03:00",
+          "title": "Etapa 4 Nations League: Azerbaidjan-Lituania Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T18:00:00+03:00",
+          "stop": "2026-10-04T19:00:00+03:00",
+          "title": "Moto: Marele Premiu al Japoniei Cursa MotoGP",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T19:00:00+03:00",
+          "stop": "2026-10-04T21:00:00+03:00",
+          "title": "Etapa 4 Nations League: Malta-Andorra Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T21:00:00+03:00",
+          "stop": "2026-10-04T21:15:00+03:00",
+          "title": "Stirile Digi Sport",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T21:15:00+03:00",
+          "stop": "2026-10-04T21:45:00+03:00",
+          "title": "Premiera Bundesliga: Special Episodul 5 (Olise-When the Game Speaks)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T21:45:00+03:00",
+          "stop": "2026-10-04T23:45:00+03:00",
+          "title": "Etapa 4 Nations League: Tara Galilor-Danemarca Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-04T23:45:00+03:00",
+          "stop": "2026-10-05T01:45:00+03:00",
+          "title": "Etapa 4 Nations League: Kosovo-Austria Grupe",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "programs": [
+        {
+          "start": "2026-10-05T01:45:00+03:00",
+          "stop": "2026-10-05T03:30:00+03:00",
+          "title": "Etapa 4 Nations League: Grecia-Germania Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T03:30:00+03:00",
+          "stop": "2026-10-05T05:15:00+03:00",
+          "title": "Etapa 4 Nations League: Tarile de Jos-Serbia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T05:15:00+03:00",
+          "stop": "2026-10-05T07:00:00+03:00",
+          "title": "Etapa 4 Nations League: Tara Galilor-Danemarca Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T07:00:00+03:00",
+          "stop": "2026-10-05T07:15:00+03:00",
+          "title": "Nations League: Rezumat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T07:15:00+03:00",
+          "stop": "2026-10-05T07:45:00+03:00",
+          "title": "Nations League: Rezumat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T07:45:00+03:00",
+          "stop": "2026-10-05T08:15:00+03:00",
+          "title": "Nations League: Rezumat",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T08:15:00+03:00",
+          "stop": "2026-10-05T10:00:00+03:00",
+          "title": "Etapa 4 Nations League: Portugalia-Norvegia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T10:00:00+03:00",
+          "stop": "2026-10-05T12:00:00+03:00",
+          "title": "⋗ Tenis",
           "description": "L",
           "category": null
         }

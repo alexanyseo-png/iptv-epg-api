@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
+  "generatedAt": "2026-10-03T05:22:27.332825+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 3,
   "days": [
-    {
-      "date": "2026-10-02",
-      "programs": [
-        {
-          "start": "2026-10-02T07:00:00+03:00",
-          "stop": "2026-10-02T15:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-02T15:00:00+03:00",
-          "stop": "2026-10-02T17:00:00+03:00",
-          "title": "TEST: Live 2. BL: SC Paderborn 07 – Hertha BSC, 23. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-02T17:00:00+03:00",
-          "stop": "2026-10-03T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-03",
       "programs": [
@@ -56,6 +30,18 @@
         {
           "start": "2026-10-04T07:00:00+03:00",
           "stop": "2026-10-05T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "programs": [
+        {
+          "start": "2026-10-05T07:00:00+03:00",
+          "stop": "2026-10-06T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

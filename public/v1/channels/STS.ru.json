@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-02T05:43:12.637810+00:00",
+  "generatedAt": "2026-10-03T05:22:27.332825+00:00",
   "available": true,
-  "programmeCount": 29,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-10-02",
-      "programs": [
-        {
-          "start": "2026-10-02T00:15:00+03:00",
-          "stop": "2026-10-02T01:00:00+03:00",
-          "title": "100 мест, где поесть",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-02T01:00:00+03:00",
-          "stop": "2026-10-02T05:00:00+03:00",
-          "title": "С лёгким утром!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-02T05:00:00+03:00",
-          "stop": "2026-10-02T15:30:00+03:00",
-          "title": "Шоу Уральские пельмени. 1 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-02T15:30:00+03:00",
-          "stop": "2026-10-03T04:50:00+03:00",
-          "title": "Шоу Уральские пельмени: 279 серия – Бис попутал",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-03",
       "programs": [
@@ -225,6 +192,18 @@
           "start": "2026-10-04T21:35:00+03:00",
           "stop": "2026-10-05T00:20:00+03:00",
           "title": "Суперниндзя",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "programs": [
+        {
+          "start": "2026-10-05T00:20:00+03:00",
+          "stop": "2026-10-05T01:20:00+03:00",
+          "title": "100 мест, где поесть. 1 c",
           "description": "L",
           "category": null
         }
