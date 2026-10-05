@@ -8,8 +8,98 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-04T05:58:19.351689+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-05T05:46:21.452321+00:00",
+  "available": true,
+  "programmeCount": 12,
+  "days": [
+    {
+      "date": "2026-10-05",
+      "programs": [
+        {
+          "start": "2026-10-05T01:00:00+03:00",
+          "stop": "2026-10-05T03:10:00+03:00",
+          "title": "PL: Hull vs Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T03:10:00+03:00",
+          "stop": "2026-10-05T03:40:00+03:00",
+          "title": "Chelsea vs Arsenal 2018/19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T03:40:00+03:00",
+          "stop": "2026-10-05T04:10:00+03:00",
+          "title": "Chelsea vs Arsenal 2011/12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T04:10:00+03:00",
+          "stop": "2026-10-05T06:20:00+03:00",
+          "title": "PL: Chelsea vs Hull City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T06:20:00+03:00",
+          "stop": "2026-10-05T08:30:00+03:00",
+          "title": "PL: Coventry vs Brighton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T08:30:00+03:00",
+          "stop": "2026-10-05T09:30:00+03:00",
+          "title": "PL Moments: Remembering Kevin Keegan",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T09:30:00+03:00",
+          "stop": "2026-10-05T12:10:00+03:00",
+          "title": "PL: Nottm Forest vs Tottenham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T12:10:00+03:00",
+          "stop": "2026-10-05T14:20:00+03:00",
+          "title": "PL: Brighton vs Leeds",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T14:20:00+03:00",
+          "stop": "2026-10-05T14:50:00+03:00",
+          "title": "Newcastle vs Crystal Palace 2014/15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T14:50:00+03:00",
+          "stop": "2026-10-05T15:20:00+03:00",
+          "title": "Chelsea vs Arsenal 2013/14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T15:20:00+03:00",
+          "stop": "2026-10-05T15:50:00+03:00",
+          "title": "PL Rewind: Denis Irwin: My Premier League Years",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T15:50:00+03:00",
+          "stop": "2026-10-05T18:00:00+03:00",
+          "title": "PL: Brentford vs Chelsea",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

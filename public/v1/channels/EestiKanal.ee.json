@@ -8,225 +8,129 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-04T05:58:19.351689+00:00",
+  "generatedAt": "2026-10-05T05:46:21.452321+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-10-04",
-      "programs": [
-        {
-          "start": "2026-10-04T00:10:00+03:00",
-          "stop": "2026-10-04T01:05:00+03:00",
-          "title": "Viimane võmm | E17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T01:05:00+03:00",
-          "stop": "2026-10-04T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T07:00:00+03:00",
-          "stop": "2026-10-04T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T07:02:00+03:00",
-          "stop": "2026-10-04T07:25:00+03:00",
-          "title": "Lemmikute lemmik | E47",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T07:25:00+03:00",
-          "stop": "2026-10-04T07:55:00+03:00",
-          "title": "Lemmikute lemmik | E48",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T07:55:00+03:00",
-          "stop": "2026-10-04T08:50:00+03:00",
-          "title": "Pilvede all | E175",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T08:50:00+03:00",
-          "stop": "2026-10-04T09:40:00+03:00",
-          "title": "Pilvede all | E176",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T09:40:00+03:00",
-          "stop": "2026-10-04T10:10:00+03:00",
-          "title": "Elu on seiklus | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T10:10:00+03:00",
-          "stop": "2026-10-04T11:00:00+03:00",
-          "title": "Kümnest kümme | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T11:00:00+03:00",
-          "stop": "2026-10-04T11:30:00+03:00",
-          "title": "Leedi Windermere'i lehvik | S01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T11:30:00+03:00",
-          "stop": "2026-10-04T12:10:00+03:00",
-          "title": "Leedi Windermere'i lehvik | S02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T12:10:00+03:00",
-          "stop": "2026-10-04T12:40:00+03:00",
-          "title": "Leedi Windermere'i lehvik | S03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T12:40:00+03:00",
-          "stop": "2026-10-04T13:10:00+03:00",
-          "title": "Leedi Windermere'i lehvik | S04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T13:10:00+03:00",
-          "stop": "2026-10-04T13:40:00+03:00",
-          "title": "Üks teist | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T13:40:00+03:00",
-          "stop": "2026-10-04T14:10:00+03:00",
-          "title": "Üks teist | E21",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T14:10:00+03:00",
-          "stop": "2026-10-04T14:40:00+03:00",
-          "title": "Eestlane ja venelane | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T14:40:00+03:00",
-          "stop": "2026-10-04T15:05:00+03:00",
-          "title": "Eestlane ja venelane | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T15:05:00+03:00",
-          "stop": "2026-10-04T15:30:00+03:00",
-          "title": "Eestlane ja venelane | E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T15:30:00+03:00",
-          "stop": "2026-10-04T16:15:00+03:00",
-          "title": "Marilyn Kerro elamise kunst: Naabrid | E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T16:15:00+03:00",
-          "stop": "2026-10-04T17:10:00+03:00",
-          "title": "Mägede varjud | E26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T17:10:00+03:00",
-          "stop": "2026-10-04T18:00:00+03:00",
-          "title": "Mägede varjud | E27",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T18:00:00+03:00",
-          "stop": "2026-10-04T18:55:00+03:00",
-          "title": "Viimane võmm | E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T18:55:00+03:00",
-          "stop": "2026-10-04T19:50:00+03:00",
-          "title": "Viimane võmm | E19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T19:50:00+03:00",
-          "stop": "2026-10-04T21:20:00+03:00",
-          "title": "Nädalalõpp Kanal 2-ga. Valitud palad | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T21:20:00+03:00",
-          "stop": "2026-10-04T21:50:00+03:00",
-          "title": "Elu on seiklus | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T21:50:00+03:00",
-          "stop": "2026-10-04T22:15:00+03:00",
-          "title": "Ekskursioon | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T22:15:00+03:00",
-          "stop": "2026-10-04T23:05:00+03:00",
-          "title": "Mägede varjud | E28",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T23:05:00+03:00",
-          "stop": "2026-10-04T23:55:00+03:00",
-          "title": "Viimane võmm | E20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-04T23:55:00+03:00",
-          "stop": "2026-10-05T00:55:00+03:00",
-          "title": "Nädalalõpp Kanal 2-ga. Valitud palad | E05",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-05",
       "programs": [
         {
           "start": "2026-10-05T00:55:00+03:00",
-          "stop": "2026-10-05T01:55:00+03:00",
+          "stop": "2026-10-05T07:00:00+03:00",
           "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T07:00:00+03:00",
+          "stop": "2026-10-05T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T07:02:00+03:00",
+          "stop": "2026-10-05T08:05:00+03:00",
+          "title": "Muinaslugu muusikas: Raimond Valgre 80 | S80E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T08:05:00+03:00",
+          "stop": "2026-10-05T09:00:00+03:00",
+          "title": "Pilvede all | E176",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T09:00:00+03:00",
+          "stop": "2026-10-05T09:25:00+03:00",
+          "title": "Mandolino | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T09:25:00+03:00",
+          "stop": "2026-10-05T09:55:00+03:00",
+          "title": "Üks teist | E22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T09:55:00+03:00",
+          "stop": "2026-10-05T10:20:00+03:00",
+          "title": "Eestlane ja venelane | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T10:20:00+03:00",
+          "stop": "2026-10-05T11:10:00+03:00",
+          "title": "Radari reliikviad | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T11:10:00+03:00",
+          "stop": "2026-10-05T11:40:00+03:00",
+          "title": "Kuidas ratas Tallinna katusele sai?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T11:40:00+03:00",
+          "stop": "2026-10-05T12:30:00+03:00",
+          "title": "Mägede varjud | E28",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T12:30:00+03:00",
+          "stop": "2026-10-05T13:15:00+03:00",
+          "title": "Viimane võmm | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T13:15:00+03:00",
+          "stop": "2026-10-05T14:05:00+03:00",
+          "title": "Marilyn Kerro elamise kunst: Raha ja töö | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T14:05:00+03:00",
+          "stop": "2026-10-05T15:30:00+03:00",
+          "title": "Nädalalõpp Kanal 2-ga. Valitud palad | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T15:30:00+03:00",
+          "stop": "2026-10-05T16:25:00+03:00",
+          "title": "Ilvese lugu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T16:25:00+03:00",
+          "stop": "2026-10-05T17:25:00+03:00",
+          "title": "Pilvede all | E177",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T17:25:00+03:00",
+          "stop": "2026-10-05T17:55:00+03:00",
+          "title": "Üks teist | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-05T17:55:00+03:00",
+          "stop": "2026-10-05T18:20:00+03:00",
+          "title": "Lemmikute lemmik | E49",
           "description": "L",
           "category": null
         }
