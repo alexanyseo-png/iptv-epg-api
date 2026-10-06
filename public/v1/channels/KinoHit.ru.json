@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 38,
   "days": [
     {
       "date": "2026-10-06",
@@ -209,8 +209,85 @@
       "programs": [
         {
           "start": "2026-10-08T01:40:00+03:00",
-          "stop": "2026-10-08T02:40:00+03:00",
+          "stop": "2026-10-08T03:55:00+03:00",
           "title": "Беглец.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T03:55:00+03:00",
+          "stop": "2026-10-08T06:00:00+03:00",
+          "title": "Джон Уик 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T06:00:00+03:00",
+          "stop": "2026-10-08T07:35:00+03:00",
+          "title": "Девушка с жемчужной серёжкой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T07:35:00+03:00",
+          "stop": "2026-10-08T09:20:00+03:00",
+          "title": "Сисси - молодая императрица.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T09:20:00+03:00",
+          "stop": "2026-10-08T11:00:00+03:00",
+          "title": "Призрак и Тьма.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T11:00:00+03:00",
+          "stop": "2026-10-08T12:30:00+03:00",
+          "title": "Хорошая женщина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T12:30:00+03:00",
+          "stop": "2026-10-08T15:10:00+03:00",
+          "title": "Голубая бездна.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T15:10:00+03:00",
+          "stop": "2026-10-08T17:15:00+03:00",
+          "title": "Царство.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T17:15:00+03:00",
+          "stop": "2026-10-08T19:00:00+03:00",
+          "title": "Малавита.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T19:00:00+03:00",
+          "stop": "2026-10-08T20:35:00+03:00",
+          "title": "Отчаянные наследники.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T20:35:00+03:00",
+          "stop": "2026-10-08T22:10:00+03:00",
+          "title": "Осторожно! Двери закрываются.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T22:10:00+03:00",
+          "stop": "2026-10-09T00:00:00+03:00",
+          "title": "Достучаться до небес 2.",
           "description": "L",
           "category": null
         }

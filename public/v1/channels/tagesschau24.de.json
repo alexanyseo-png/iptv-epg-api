@@ -8,15 +8,22 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 82,
+  "programmeCount": 83,
   "days": [
     {
       "date": "2026-10-06",
       "programs": [
         {
-          "start": "2026-10-06T01:10:00+03:00",
+          "start": "2026-10-06T00:20:00+03:00",
+          "stop": "2026-10-06T01:05:00+03:00",
+          "title": "Umbau statt Abriss? Zu viele Büros, zu wenig Wohnraum - Zu viele Büros, zu wenig Wohnraum - Film von Hauke Wendler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-06T01:05:00+03:00",
           "stop": "2026-10-06T01:25:00+03:00",
           "title": "Tagesschau vor 20 Jahren.",
           "description": "L",
@@ -39,7 +46,7 @@
         {
           "start": "2026-10-06T02:05:00+03:00",
           "stop": "2026-10-06T02:50:00+03:00",
-          "title": "Markt - Wie gesund ist der Nuss-Snack?",
+          "title": "Markt - Aktuelles Magazin für Wirtschaft und Verbraucher.",
           "description": "L",
           "category": null
         },
@@ -434,7 +441,7 @@
         {
           "start": "2026-10-08T02:00:00+03:00",
           "stop": "2026-10-08T02:45:00+03:00",
-          "title": "markt.",
+          "title": "Markt - Aktuelles Magazin für Wirtschaft und Verbraucher.",
           "description": "L",
           "category": null
         },

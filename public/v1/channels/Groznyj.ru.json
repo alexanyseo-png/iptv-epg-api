@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 39,
   "days": [
     {
       "date": "2026-10-06",
@@ -216,8 +216,85 @@
         },
         {
           "start": "2026-10-08T02:00:00+03:00",
-          "stop": "2026-10-08T03:00:00+03:00",
+          "stop": "2026-10-08T04:00:00+03:00",
           "title": "Зикар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T04:00:00+03:00",
+          "stop": "2026-10-08T06:00:00+03:00",
+          "title": "Земля пророков.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T06:00:00+03:00",
+          "stop": "2026-10-08T09:00:00+03:00",
+          "title": "Утро с Грозным.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T09:00:00+03:00",
+          "stop": "2026-10-08T10:00:00+03:00",
+          "title": "Грозный моторс (Тест-драйв Jaecoo J8).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T10:00:00+03:00",
+          "stop": "2026-10-08T12:00:00+03:00",
+          "title": "Своя ферма.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T12:00:00+03:00",
+          "stop": "2026-10-08T13:00:00+03:00",
+          "title": "Свет Корана.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T13:00:00+03:00",
+          "stop": "2026-10-08T15:00:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T15:00:00+03:00",
+          "stop": "2026-10-08T16:00:00+03:00",
+          "title": "Охота на Кавказе (Все об охоте и рыбалке).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T16:00:00+03:00",
+          "stop": "2026-10-08T19:00:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T19:00:00+03:00",
+          "stop": "2026-10-08T21:00:00+03:00",
+          "title": "Маршрут дня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T21:00:00+03:00",
+          "stop": "2026-10-08T23:00:00+03:00",
+          "title": "Къоман сий (Влияние интернета на подрастающее поколение).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T23:00:00+03:00",
+          "stop": "2026-10-09T00:00:00+03:00",
+          "title": "Назманаш.",
           "description": "L",
           "category": null
         }

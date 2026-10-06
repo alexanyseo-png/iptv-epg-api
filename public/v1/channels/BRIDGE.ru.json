@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 31,
   "days": [
     {
       "date": "2026-10-06",
@@ -181,8 +181,64 @@
         },
         {
           "start": "2026-10-08T01:00:00+03:00",
-          "stop": "2026-10-08T02:00:00+03:00",
+          "stop": "2026-10-08T06:00:00+03:00",
           "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T06:00:00+03:00",
+          "stop": "2026-10-08T09:10:00+03:00",
+          "title": "Wake Up Call.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T09:10:00+03:00",
+          "stop": "2026-10-08T09:40:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T09:40:00+03:00",
+          "stop": "2026-10-08T17:10:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T17:10:00+03:00",
+          "stop": "2026-10-08T17:40:00+03:00",
+          "title": "Горячая десятка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T17:40:00+03:00",
+          "stop": "2026-10-08T19:30:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T19:30:00+03:00",
+          "stop": "2026-10-08T21:00:00+03:00",
+          "title": "Bridge in time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T21:00:00+03:00",
+          "stop": "2026-10-08T23:00:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T23:00:00+03:00",
+          "stop": "2026-10-09T00:00:00+03:00",
+          "title": "Retro dance.",
           "description": "L",
           "category": null
         }

@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 37,
   "days": [
     {
       "date": "2026-10-06",
@@ -156,7 +156,7 @@
         {
           "start": "2026-10-07T14:55:00+03:00",
           "stop": "2026-10-07T16:50:00+03:00",
-          "title": "Старые счеты.",
+          "title": "Старые счёты.",
           "description": "L",
           "category": null
         },
@@ -202,8 +202,85 @@
       "programs": [
         {
           "start": "2026-10-08T01:20:00+03:00",
-          "stop": "2026-10-08T02:20:00+03:00",
+          "stop": "2026-10-08T03:20:00+03:00",
           "title": "Приключения Паддингтона.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T03:20:00+03:00",
+          "stop": "2026-10-08T05:00:00+03:00",
+          "title": "Дикий.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T05:00:00+03:00",
+          "stop": "2026-10-08T08:10:00+03:00",
+          "title": "Александр.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T08:10:00+03:00",
+          "stop": "2026-10-08T10:20:00+03:00",
+          "title": "Профессионал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T10:20:00+03:00",
+          "stop": "2026-10-08T12:05:00+03:00",
+          "title": "В Аду.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T12:05:00+03:00",
+          "stop": "2026-10-08T14:10:00+03:00",
+          "title": "1+1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T14:10:00+03:00",
+          "stop": "2026-10-08T16:25:00+03:00",
+          "title": "Боги Египта.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T16:25:00+03:00",
+          "stop": "2026-10-08T18:00:00+03:00",
+          "title": "Выжившие.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T18:00:00+03:00",
+          "stop": "2026-10-08T20:00:00+03:00",
+          "title": "Хороший, плохой, коп.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T20:00:00+03:00",
+          "stop": "2026-10-08T22:05:00+03:00",
+          "title": "Кулак ярости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T22:05:00+03:00",
+          "stop": "2026-10-08T23:55:00+03:00",
+          "title": "Пятнадцать минут войны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T23:55:00+03:00",
+          "stop": "2026-10-09T01:40:00+03:00",
+          "title": "Тринадцать.",
           "description": "L",
           "category": null
         }

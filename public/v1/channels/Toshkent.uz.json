@@ -8,22 +8,22 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 90,
+  "programmeCount": 65,
   "days": [
     {
       "date": "2026-10-06",
       "programs": [
         {
-          "start": "2026-10-06T01:00:00+03:00",
-          "stop": "2026-10-06T01:30:00+03:00",
-          "title": "Radio Kitob \"Alisher Navoiy\".",
+          "start": "2026-10-06T00:40:00+03:00",
+          "stop": "2026-10-06T01:40:00+03:00",
+          "title": "Temur tuzuklari.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T01:30:00+03:00",
+          "start": "2026-10-06T01:40:00+03:00",
           "stop": "2026-10-06T02:30:00+03:00",
           "title": "Ishq ertagi.",
           "description": "L",
@@ -31,43 +31,50 @@
         },
         {
           "start": "2026-10-06T02:30:00+03:00",
-          "stop": "2026-10-06T04:00:00+03:00",
+          "stop": "2026-10-06T03:00:00+03:00",
           "title": "Fantastik to’rtlik.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T04:00:00+03:00",
+          "start": "2026-10-06T03:00:00+03:00",
           "stop": "2026-10-06T04:30:00+03:00",
-          "title": "Гимн.",
+          "title": "Гравитация.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-06T04:30:00+03:00",
-          "stop": "2026-10-06T05:30:00+03:00",
+          "stop": "2026-10-06T05:00:00+03:00",
           "title": "Жемчужина дворца.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T05:30:00+03:00",
-          "stop": "2026-10-06T07:00:00+03:00",
-          "title": "Заклятие Долины змей.",
+          "start": "2026-10-06T05:00:00+03:00",
+          "stop": "2026-10-06T06:00:00+03:00",
+          "title": "Жемчужина дворца.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T07:00:00+03:00",
-          "stop": "2026-10-06T07:30:00+03:00",
+          "start": "2026-10-06T06:00:00+03:00",
+          "stop": "2026-10-06T06:30:00+03:00",
           "title": "Poytaxt.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T07:30:00+03:00",
+          "start": "2026-10-06T06:30:00+03:00",
+          "stop": "2026-10-06T08:30:00+03:00",
+          "title": "Kino.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-06T08:30:00+03:00",
           "stop": "2026-10-06T09:00:00+03:00",
-          "title": "101 рейс.",
+          "title": "Сказки братьев Гримм.",
           "description": "L",
           "category": null
         },
@@ -80,13 +87,13 @@
         },
         {
           "start": "2026-10-06T09:30:00+03:00",
-          "stop": "2026-10-06T10:00:00+03:00",
+          "stop": "2026-10-06T10:30:00+03:00",
           "title": "Toshkentnoma.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-06T10:00:00+03:00",
+          "start": "2026-10-06T10:30:00+03:00",
           "stop": "2026-10-06T12:00:00+03:00",
           "title": "Salom,Toshkent.",
           "description": "L",
@@ -109,7 +116,7 @@
         {
           "start": "2026-10-06T13:30:00+03:00",
           "stop": "2026-10-06T14:30:00+03:00",
-          "title": "Yaxshi kayfiyat.",
+          "title": "Яхши кафият.",
           "description": "L",
           "category": null
         },
@@ -179,7 +186,7 @@
         {
           "start": "2026-10-06T19:30:00+03:00",
           "stop": "2026-10-06T20:10:00+03:00",
-          "title": "Qo'shnilar.",
+          "title": "Кўшнилар.",
           "description": "L",
           "category": null
         },
@@ -192,15 +199,8 @@
         },
         {
           "start": "2026-10-06T21:40:00+03:00",
-          "stop": "2026-10-06T22:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T22:00:00+03:00",
           "stop": "2026-10-06T22:30:00+03:00",
-          "title": "Гимн.",
+          "title": "Yaxshi kayfiyat.",
           "description": "L",
           "category": null
         },
@@ -232,183 +232,8 @@
       "programs": [
         {
           "start": "2026-10-07T01:00:00+03:00",
-          "stop": "2026-10-07T02:30:00+03:00",
-          "title": "Kino.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T02:30:00+03:00",
-          "stop": "2026-10-07T03:00:00+03:00",
-          "title": "Radio kitob.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T03:00:00+03:00",
-          "stop": "2026-10-07T04:30:00+03:00",
-          "title": "Гравитация.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T04:30:00+03:00",
-          "stop": "2026-10-07T05:00:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T05:00:00+03:00",
-          "stop": "2026-10-07T06:00:00+03:00",
-          "title": "Жемчужина дворца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T06:00:00+03:00",
-          "stop": "2026-10-07T06:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T06:30:00+03:00",
-          "stop": "2026-10-07T08:30:00+03:00",
-          "title": "Kino.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T08:30:00+03:00",
-          "stop": "2026-10-07T09:00:00+03:00",
-          "title": "Сказки братьев Гримм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:00:00+03:00",
-          "stop": "2026-10-07T09:30:00+03:00",
-          "title": "Toshkent manzillari.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:30:00+03:00",
-          "stop": "2026-10-07T10:30:00+03:00",
-          "title": "Прямая трансляция.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T10:30:00+03:00",
-          "stop": "2026-10-07T12:00:00+03:00",
-          "title": "Salom,Toshkent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T12:00:00+03:00",
-          "stop": "2026-10-07T13:00:00+03:00",
-          "title": "Ishq ertagi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T13:00:00+03:00",
-          "stop": "2026-10-07T13:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T13:30:00+03:00",
-          "stop": "2026-10-07T14:30:00+03:00",
-          "title": "Uchrashuv.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T14:30:00+03:00",
-          "stop": "2026-10-07T15:00:00+03:00",
-          "title": "Ustoz va shogird.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T15:00:00+03:00",
-          "stop": "2026-10-07T16:00:00+03:00",
-          "title": "Жемчужина дворца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T16:00:00+03:00",
-          "stop": "2026-10-07T16:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T16:30:00+03:00",
-          "stop": "2026-10-07T17:00:00+03:00",
-          "title": "Poytaxt yo'llarida.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T17:00:00+03:00",
-          "stop": "2026-10-07T17:35:00+03:00",
-          "title": "Toshkentning ilm maskani.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T17:35:00+03:00",
-          "stop": "2026-10-07T18:00:00+03:00",
-          "title": "Toshkentda iste'dodlar ijrosi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T18:00:00+03:00",
-          "stop": "2026-10-07T18:30:00+03:00",
-          "title": "Siz nima deysiz?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T18:30:00+03:00",
-          "stop": "2026-10-07T19:00:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T19:00:00+03:00",
-          "stop": "2026-10-07T19:30:00+03:00",
-          "title": "Sayyor kamera.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T19:30:00+03:00",
-          "stop": "2026-10-07T20:10:00+03:00",
-          "title": "Sakkizinchi mo‘jiza.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T20:10:00+03:00",
-          "stop": "2026-10-07T21:40:00+03:00",
-          "title": "Терминатор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T21:40:00+03:00",
           "stop": "2026-10-07T22:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
+          "title": "Kino.",
           "description": "L",
           "category": null
         },

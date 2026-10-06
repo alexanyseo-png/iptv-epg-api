@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T00:05:32.387020+00:00",
+  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 39,
   "days": [
     {
       "date": "2026-10-06",
@@ -216,8 +216,85 @@
         },
         {
           "start": "2026-10-08T02:00:00+03:00",
-          "stop": "2026-10-08T03:00:00+03:00",
+          "stop": "2026-10-08T03:50:00+03:00",
           "title": "Спенсер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T03:50:00+03:00",
+          "stop": "2026-10-08T05:45:00+03:00",
+          "title": "Семьянин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T05:45:00+03:00",
+          "stop": "2026-10-08T07:35:00+03:00",
+          "title": "На гребне волны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T07:35:00+03:00",
+          "stop": "2026-10-08T09:35:00+03:00",
+          "title": "Белый шквал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T09:35:00+03:00",
+          "stop": "2026-10-08T11:40:00+03:00",
+          "title": "Малышка на миллион.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T11:40:00+03:00",
+          "stop": "2026-10-08T13:20:00+03:00",
+          "title": "Паранойя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T13:20:00+03:00",
+          "stop": "2026-10-08T15:15:00+03:00",
+          "title": "Железный рыцарь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T15:15:00+03:00",
+          "stop": "2026-10-08T17:00:00+03:00",
+          "title": "Игра в имитацию.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T17:00:00+03:00",
+          "stop": "2026-10-08T18:40:00+03:00",
+          "title": "Робин Гуд: Начало.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T18:40:00+03:00",
+          "stop": "2026-10-08T20:30:00+03:00",
+          "title": "План побега.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T20:30:00+03:00",
+          "stop": "2026-10-08T22:20:00+03:00",
+          "title": "Боги Египта.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-08T22:20:00+03:00",
+          "stop": "2026-10-09T00:00:00+03:00",
+          "title": "Основано на реальных событиях.",
           "description": "L",
           "category": null
         }
