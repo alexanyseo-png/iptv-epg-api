@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
+  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-10-06",
-      "programs": [
-        {
-          "start": "2026-10-06T00:30:00+03:00",
-          "stop": "2026-10-06T03:10:00+03:00",
-          "title": "Сколько стоит счастье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T03:10:00+03:00",
-          "stop": "2026-10-06T04:35:00+03:00",
-          "title": "Неверность.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T04:35:00+03:00",
-          "stop": "2026-10-06T07:35:00+03:00",
-          "title": "Самара-городок.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T07:35:00+03:00",
-          "stop": "2026-10-06T09:20:00+03:00",
-          "title": "Куда уходит любовь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T09:20:00+03:00",
-          "stop": "2026-10-06T11:00:00+03:00",
-          "title": "Эхо греха.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T11:00:00+03:00",
-          "stop": "2026-10-06T12:45:00+03:00",
-          "title": "Нужна невеста с проживанием.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T12:45:00+03:00",
-          "stop": "2026-10-06T14:15:00+03:00",
-          "title": "Четверг, 12-е.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T14:15:00+03:00",
-          "stop": "2026-10-06T17:50:00+03:00",
-          "title": "Маруся.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T17:50:00+03:00",
-          "stop": "2026-10-06T19:30:00+03:00",
-          "title": "Берега любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T19:30:00+03:00",
-          "stop": "2026-10-06T22:40:00+03:00",
-          "title": "Перекаты судьбы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T22:40:00+03:00",
-          "stop": "2026-10-07T00:20:00+03:00",
-          "title": "Не говори мне «Прощай!».",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-07",
       "programs": [
@@ -239,6 +157,81 @@
           "start": "2026-10-08T22:50:00+03:00",
           "stop": "2026-10-09T00:30:00+03:00",
           "title": "Дуэль.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "programs": [
+        {
+          "start": "2026-10-09T00:30:00+03:00",
+          "stop": "2026-10-09T03:15:00+03:00",
+          "title": "Фродя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T03:15:00+03:00",
+          "stop": "2026-10-09T04:35:00+03:00",
+          "title": "Посторонняя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T04:35:00+03:00",
+          "stop": "2026-10-09T07:40:00+03:00",
+          "title": "Кассирши.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T07:40:00+03:00",
+          "stop": "2026-10-09T09:30:00+03:00",
+          "title": "Клоуны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T09:30:00+03:00",
+          "stop": "2026-10-09T11:15:00+03:00",
+          "title": "Дуэль.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T11:15:00+03:00",
+          "stop": "2026-10-09T14:30:00+03:00",
+          "title": "Приличная семья сдаст комнату.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T14:30:00+03:00",
+          "stop": "2026-10-09T17:50:00+03:00",
+          "title": "Цвет липы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T17:50:00+03:00",
+          "stop": "2026-10-09T19:30:00+03:00",
+          "title": "Чужие дети.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T19:30:00+03:00",
+          "stop": "2026-10-09T22:40:00+03:00",
+          "title": "Любовь на острие ножа.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T22:40:00+03:00",
+          "stop": "2026-10-10T00:15:00+03:00",
+          "title": "Маняшино озеро.",
           "description": "L",
           "category": null
         }

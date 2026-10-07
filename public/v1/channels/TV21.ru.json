@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
+  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-10-06",
-      "programs": [
-        {
-          "start": "2026-10-06T01:05:00+03:00",
-          "stop": "2026-10-06T02:55:00+03:00",
-          "title": "Снегирь.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T02:55:00+03:00",
-          "stop": "2026-10-06T05:00:00+03:00",
-          "title": "Олигарх.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T05:00:00+03:00",
-          "stop": "2026-10-06T07:00:00+03:00",
-          "title": "Адмиралъ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T07:00:00+03:00",
-          "stop": "2026-10-06T08:40:00+03:00",
-          "title": "Доспехи Бога.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T08:40:00+03:00",
-          "stop": "2026-10-06T10:35:00+03:00",
-          "title": "Доспехи Бога.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T10:35:00+03:00",
-          "stop": "2026-10-06T12:00:00+03:00",
-          "title": "Крокодил Данди.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T12:00:00+03:00",
-          "stop": "2026-10-06T13:55:00+03:00",
-          "title": "Крокодил Данди 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T13:55:00+03:00",
-          "stop": "2026-10-06T16:15:00+03:00",
-          "title": "Зелёная книга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T16:15:00+03:00",
-          "stop": "2026-10-06T18:20:00+03:00",
-          "title": "Король говорит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T18:20:00+03:00",
-          "stop": "2026-10-06T21:40:00+03:00",
-          "title": "Александр.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-06T21:40:00+03:00",
-          "stop": "2026-10-07T00:05:00+03:00",
-          "title": "Апокалипсис.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-07",
       "programs": [
@@ -288,6 +206,102 @@
           "start": "2026-10-08T22:30:00+03:00",
           "stop": "2026-10-09T00:05:00+03:00",
           "title": "Васаби.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "programs": [
+        {
+          "start": "2026-10-09T00:05:00+03:00",
+          "stop": "2026-10-09T02:05:00+03:00",
+          "title": "1+1: Голливудская история.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T02:05:00+03:00",
+          "stop": "2026-10-09T03:45:00+03:00",
+          "title": "Опасный бизнес.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T03:45:00+03:00",
+          "stop": "2026-10-09T05:35:00+03:00",
+          "title": "Сбой сознания.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T05:35:00+03:00",
+          "stop": "2026-10-09T07:00:00+03:00",
+          "title": "Крутые меры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T07:00:00+03:00",
+          "stop": "2026-10-09T08:50:00+03:00",
+          "title": "Универсальный солдат.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T08:50:00+03:00",
+          "stop": "2026-10-09T10:55:00+03:00",
+          "title": "Вспомнить всё.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T10:55:00+03:00",
+          "stop": "2026-10-09T12:40:00+03:00",
+          "title": "Рэмбо: Первая кровь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T12:40:00+03:00",
+          "stop": "2026-10-09T14:20:00+03:00",
+          "title": "Рэмбо: Первая кровь 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T14:20:00+03:00",
+          "stop": "2026-10-09T16:10:00+03:00",
+          "title": "Саботаж.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T16:10:00+03:00",
+          "stop": "2026-10-09T18:10:00+03:00",
+          "title": "Скалолаз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T18:10:00+03:00",
+          "stop": "2026-10-09T20:05:00+03:00",
+          "title": "Самоволка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T20:05:00+03:00",
+          "stop": "2026-10-09T22:35:00+03:00",
+          "title": "Терминатор 2: Судный день.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T22:35:00+03:00",
+          "stop": "2026-10-10T00:20:00+03:00",
+          "title": "Перевозчик 3.",
           "description": "L",
           "category": null
         }

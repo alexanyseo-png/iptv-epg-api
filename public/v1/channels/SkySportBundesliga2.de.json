@@ -8,8 +8,73 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-06T18:24:52.021050+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
+  "available": true,
+  "programmeCount": 7,
+  "days": [
+    {
+      "date": "2026-10-07",
+      "programs": [
+        {
+          "start": "2026-10-07T07:00:00+03:00",
+          "stop": "2026-10-08T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "programs": [
+        {
+          "start": "2026-10-08T07:00:00+03:00",
+          "stop": "2026-10-09T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "programs": [
+        {
+          "start": "2026-10-09T07:00:00+03:00",
+          "stop": "2026-10-09T18:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T18:40:00+03:00",
+          "stop": "2026-10-09T19:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T19:00:00+03:00",
+          "stop": "2026-10-09T21:30:00+03:00",
+          "title": "Live 2. BL: Freitags-Konferenz, 7. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T21:30:00+03:00",
+          "stop": "2026-10-09T22:15:00+03:00",
+          "title": "Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 7. Spieltag, Freitag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-09T22:15:00+03:00",
+          "stop": "2026-10-10T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }
