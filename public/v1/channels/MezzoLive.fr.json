@@ -8,134 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
+  "generatedAt": "2026-10-08T13:35:30.071742+00:00",
   "available": true,
-  "programmeCount": 47,
+  "programmeCount": 49,
   "days": [
-    {
-      "date": "2026-10-07",
-      "programs": [
-        {
-          "start": "2026-10-07T01:05:00+03:00",
-          "stop": "2026-10-07T02:40:00+03:00",
-          "title": "Classical. Hesperion XXI Tembembe Ensemble: Folias antiguas y criollas, from the old to the new world.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T02:40:00+03:00",
-          "stop": "2026-10-07T03:00:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T03:00:00+03:00",
-          "stop": "2026-10-07T05:05:00+03:00",
-          "title": "Dance. Mozart: The Great Mass.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T05:05:00+03:00",
-          "stop": "2026-10-07T06:40:00+03:00",
-          "title": "Classical. Orchestre Philharmonique Royal de Liege, Gergely Madaras: Dvorak, Franck.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T06:40:00+03:00",
-          "stop": "2026-10-07T07:00:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T07:00:00+03:00",
-          "stop": "2026-10-07T08:50:00+03:00",
-          "title": "Opera. Giordano: Fedora – Deutsche Oper, Berlin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T08:50:00+03:00",
-          "stop": "2026-10-07T10:50:00+03:00",
-          "title": "Classical. Orchestre Philharmonique Royal de Liege, Gergely Madaras, Denis Kozhukhin: Rachmaninov, Dohnanyi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T10:50:00+03:00",
-          "stop": "2026-10-07T12:00:00+03:00",
-          "title": "Classical. Czech Philharmonic, Alain Altinoglu, Beatrice Rana: Berlioz, Mendelssohn, Ravel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T12:00:00+03:00",
-          "stop": "2026-10-07T13:50:00+03:00",
-          "title": "Classical. Jakub Hrusa, Augustin Hadelich, Czech Philharmonic – Suk, Sibelius.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T13:50:00+03:00",
-          "stop": "2026-10-07T14:00:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T14:00:00+03:00",
-          "stop": "2026-10-07T16:10:00+03:00",
-          "title": "Opera. Respighi: La fiamma – Deutsche Oper Berlin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T16:10:00+03:00",
-          "stop": "2026-10-07T18:00:00+03:00",
-          "title": "Classical. Mahler: Symphony No. 5 – Orchestre Suisse Romande, Jonathan Nott.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T18:00:00+03:00",
-          "stop": "2026-10-07T19:15:00+03:00",
-          "title": "Classical. Beatrice Rana, Chamber Orchestra of Europe and Yannick Nezet-Seguin: Clara Schumann, Brahms.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T19:15:00+03:00",
-          "stop": "2026-10-07T20:50:00+03:00",
-          "title": "Classical. Beatrice Rana, Chamber Orchestra of Europe, Yannick Nezet-Seguin: Schumann, Brahms.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T20:50:00+03:00",
-          "stop": "2026-10-07T22:00:00+03:00",
-          "title": "Classical. Konzerthausorchester Berlin, Joana Mallwitz: Mozart, Tchaikovsky.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T22:00:00+03:00",
-          "stop": "2026-10-07T23:40:00+03:00",
-          "title": "Jazz. Joey Alexander Trio – Fondation Louis Vuitton.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T23:40:00+03:00",
-          "stop": "2026-10-08T01:25:00+03:00",
-          "title": "Jazz. Shahin Novrasli – Fondation Louis Vuitton.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-08",
       "programs": [
@@ -351,6 +227,144 @@
           "start": "2026-10-09T22:00:00+03:00",
           "stop": "2026-10-10T01:00:00+03:00",
           "title": "Opera. Tchaikovsky: The Queen of Spades – Bayerische Staatsoper.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "programs": [
+        {
+          "start": "2026-10-10T01:00:00+03:00",
+          "stop": "2026-10-10T02:10:00+03:00",
+          "title": "Classical. Renaud Capucon, Stefan Dohr, Orchestre de Chambre de Lausanne – Mozart, Strauss.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T02:10:00+03:00",
+          "stop": "2026-10-10T03:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T03:00:00+03:00",
+          "stop": "2026-10-10T04:35:00+03:00",
+          "title": "Classical. Lang Lang: Faure, Schumann, Chopin – Philharmonie de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T04:35:00+03:00",
+          "stop": "2026-10-10T06:25:00+03:00",
+          "title": "Classical. Lucas Debargue at the Philharmonie de Paris: Mozart, Chopin, Alkan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T06:25:00+03:00",
+          "stop": "2026-10-10T06:45:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T06:45:00+03:00",
+          "stop": "2026-10-10T08:20:00+03:00",
+          "title": "Classical. Alexandre Kantorow – Brahms, Schubert – Philharmonie de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T08:20:00+03:00",
+          "stop": "2026-10-10T10:35:00+03:00",
+          "title": "Classical. Ravel: The piano works – Bertrand Chamayou.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T10:35:00+03:00",
+          "stop": "2026-10-10T12:15:00+03:00",
+          "title": "Classical. The Cleveland Orchestra, Esa-Pekka Salonen – Ravel, Salonen, Sibelius.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T12:15:00+03:00",
+          "stop": "2026-10-10T13:45:00+03:00",
+          "title": "Classical. Philopera, Daniel Harding – Schubert, Mahler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T13:45:00+03:00",
+          "stop": "2026-10-10T14:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T14:00:00+03:00",
+          "stop": "2026-10-10T15:00:00+03:00",
+          "title": "Jazz. Chris Potter Trio – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:00:00+03:00",
+          "stop": "2026-10-10T16:00:00+03:00",
+          "title": "Jazz. Billy Cobham's Time Machine – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T16:00:00+03:00",
+          "stop": "2026-10-10T17:10:00+03:00",
+          "title": "Jazz. Isaiah Collier plays Coltrane – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T17:10:00+03:00",
+          "stop": "2026-10-10T18:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T18:00:00+03:00",
+          "stop": "2026-10-10T19:55:00+03:00",
+          "title": "Opera. Bizet: Les Pecheurs de perles – Opera national du Capitole de Toulouse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T19:55:00+03:00",
+          "stop": "2026-10-10T21:15:00+03:00",
+          "title": "Classical. Mahler: Symphony No. 5 – Orchestre Suisse Romande, Jonathan Nott.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T21:15:00+03:00",
+          "stop": "2026-10-10T22:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T22:00:00+03:00",
+          "stop": "2026-10-10T23:30:00+03:00",
+          "title": "Classical. Les Siecles, Pierre Bleuse: Arancio, Bernstein, Dvorak.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T23:30:00+03:00",
+          "stop": "2026-10-11T01:00:00+03:00",
+          "title": "Classical. Mahler: Symphony No. 9 – Orchestre de la Suisse Romande, Jonathan Nott.",
           "description": "L",
           "category": null
         }

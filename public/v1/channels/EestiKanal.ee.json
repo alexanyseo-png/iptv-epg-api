@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
+  "generatedAt": "2026-10-08T13:35:30.071742+00:00",
   "available": true,
-  "programmeCount": 81,
+  "programmeCount": 79,
   "days": [
-    {
-      "date": "2026-10-07",
-      "programs": [
-        {
-          "start": "2026-10-07T00:10:00+03:00",
-          "stop": "2026-10-07T01:05:00+03:00",
-          "title": "Viimane võmm | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T01:05:00+03:00",
-          "stop": "2026-10-07T07:00:00+03:00",
-          "title": "Elmar TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T07:00:00+03:00",
-          "stop": "2026-10-07T07:02:00+03:00",
-          "title": "Eesti Vabariigi hümn",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T07:02:00+03:00",
-          "stop": "2026-10-07T08:05:00+03:00",
-          "title": "Uurimusfilm doktor Enn Vetemaa märkmeraamatute põhjal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T08:05:00+03:00",
-          "stop": "2026-10-07T09:00:00+03:00",
-          "title": "Pilvede all | E178",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:00:00+03:00",
-          "stop": "2026-10-07T09:25:00+03:00",
-          "title": "Mandolino | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:25:00+03:00",
-          "stop": "2026-10-07T09:55:00+03:00",
-          "title": "Üks teist | E24",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:55:00+03:00",
-          "stop": "2026-10-07T10:25:00+03:00",
-          "title": "Ekskursioon | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T10:25:00+03:00",
-          "stop": "2026-10-07T10:50:00+03:00",
-          "title": "Eestlane ja venelane | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T10:50:00+03:00",
-          "stop": "2026-10-07T11:40:00+03:00",
-          "title": "Radari reliikviad | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T11:40:00+03:00",
-          "stop": "2026-10-07T12:05:00+03:00",
-          "title": "Karussell",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T12:05:00+03:00",
-          "stop": "2026-10-07T12:55:00+03:00",
-          "title": "Mägede varjud | E30",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T12:55:00+03:00",
-          "stop": "2026-10-07T13:50:00+03:00",
-          "title": "Viimane võmm | E22",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T13:50:00+03:00",
-          "stop": "2026-10-07T14:35:00+03:00",
-          "title": "Marilyn Kerro elamise kunst: Eluteenumbrid ja armastuse sümbolid | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T14:35:00+03:00",
-          "stop": "2026-10-07T15:25:00+03:00",
-          "title": "Ob-la-di, Ob-la-da | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T15:25:00+03:00",
-          "stop": "2026-10-07T16:50:00+03:00",
-          "title": "Eesti mees sõdades",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T16:50:00+03:00",
-          "stop": "2026-10-07T17:40:00+03:00",
-          "title": "Pilvede all | E179",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T17:40:00+03:00",
-          "stop": "2026-10-07T18:10:00+03:00",
-          "title": "Üks teist | E25",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T18:10:00+03:00",
-          "stop": "2026-10-07T18:40:00+03:00",
-          "title": "Lemmikute lemmik | E51",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T18:40:00+03:00",
-          "stop": "2026-10-07T19:30:00+03:00",
-          "title": "Naised vormis | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T19:30:00+03:00",
-          "stop": "2026-10-07T20:00:00+03:00",
-          "title": "Mandolino | E26",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T20:00:00+03:00",
-          "stop": "2026-10-07T20:35:00+03:00",
-          "title": "Ekskursioon | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T20:35:00+03:00",
-          "stop": "2026-10-07T21:30:00+03:00",
-          "title": "Radari reliikviad | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T21:30:00+03:00",
-          "stop": "2026-10-07T22:00:00+03:00",
-          "title": "Eestlane ja venelane | E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T22:00:00+03:00",
-          "stop": "2026-10-07T22:55:00+03:00",
-          "title": "Ob-la-di, Ob-la-da | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T22:55:00+03:00",
-          "stop": "2026-10-07T23:50:00+03:00",
-          "title": "Marilyn Kerro elamise kunst: Sõltuvused | E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T23:50:00+03:00",
-          "stop": "2026-10-08T00:35:00+03:00",
-          "title": "Sassis | E01",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-08",
       "programs": [
@@ -589,6 +395,186 @@
           "start": "2026-10-09T23:30:00+03:00",
           "stop": "2026-10-10T00:25:00+03:00",
           "title": "Sassis | E03",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "programs": [
+        {
+          "start": "2026-10-10T00:25:00+03:00",
+          "stop": "2026-10-10T01:15:00+03:00",
+          "title": "Viimane võmm | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T01:15:00+03:00",
+          "stop": "2026-10-10T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T07:00:00+03:00",
+          "stop": "2026-10-10T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T07:02:00+03:00",
+          "stop": "2026-10-10T07:30:00+03:00",
+          "title": "Lemmikute lemmik | E49",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T07:30:00+03:00",
+          "stop": "2026-10-10T07:55:00+03:00",
+          "title": "Lemmikute lemmik | E50",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T07:55:00+03:00",
+          "stop": "2026-10-10T08:50:00+03:00",
+          "title": "Pilvede all | E177",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T08:50:00+03:00",
+          "stop": "2026-10-10T09:40:00+03:00",
+          "title": "Pilvede all | E178",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T09:40:00+03:00",
+          "stop": "2026-10-10T10:35:00+03:00",
+          "title": "Pilvede all | E179",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T10:35:00+03:00",
+          "stop": "2026-10-10T11:25:00+03:00",
+          "title": "Naised vormis | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T11:25:00+03:00",
+          "stop": "2026-10-10T12:20:00+03:00",
+          "title": "Radari reliikviad | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T12:20:00+03:00",
+          "stop": "2026-10-10T14:20:00+03:00",
+          "title": "Viis isamaalist laulu Tartu laululaval",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T14:20:00+03:00",
+          "stop": "2026-10-10T14:50:00+03:00",
+          "title": "Üks teist | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T14:50:00+03:00",
+          "stop": "2026-10-10T15:20:00+03:00",
+          "title": "Üks teist | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:20:00+03:00",
+          "stop": "2026-10-10T15:55:00+03:00",
+          "title": "Matsalu linnuriik",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:55:00+03:00",
+          "stop": "2026-10-10T16:20:00+03:00",
+          "title": "Lemmikute lemmik | E51",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T16:20:00+03:00",
+          "stop": "2026-10-10T16:50:00+03:00",
+          "title": "Eestlane ja venelane | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T16:50:00+03:00",
+          "stop": "2026-10-10T17:15:00+03:00",
+          "title": "Eestlane ja venelane | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T17:15:00+03:00",
+          "stop": "2026-10-10T18:10:00+03:00",
+          "title": "Legend päikesest",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T18:10:00+03:00",
+          "stop": "2026-10-10T19:05:00+03:00",
+          "title": "Marilyn Kerro elamise kunst: Kodu ja asjad | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T19:05:00+03:00",
+          "stop": "2026-10-10T20:00:00+03:00",
+          "title": "Marilyn Kerro elamise kunst: Eluteenumbrid ja armastuse sümbolid | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T20:00:00+03:00",
+          "stop": "2026-10-10T20:50:00+03:00",
+          "title": "Mägede varjud | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T20:50:00+03:00",
+          "stop": "2026-10-10T21:50:00+03:00",
+          "title": "Viimane võmm | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T21:50:00+03:00",
+          "stop": "2026-10-10T22:40:00+03:00",
+          "title": "Ob-la-di, Ob-la-da | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T22:40:00+03:00",
+          "stop": "2026-10-10T23:10:00+03:00",
+          "title": "Ekskursioon | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T23:10:00+03:00",
+          "stop": "2026-10-11T00:00:00+03:00",
+          "title": "Mägede varjud | E30",
           "description": "L",
           "category": null
         }

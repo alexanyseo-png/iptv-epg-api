@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-07T13:29:31.123454+00:00",
+  "generatedAt": "2026-10-08T13:35:30.071742+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 41,
   "days": [
-    {
-      "date": "2026-10-07",
-      "programs": [
-        {
-          "start": "2026-10-07T01:00:00+03:00",
-          "stop": "2026-10-07T03:00:00+03:00",
-          "title": "Serie A: Roma vs Atalanta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T03:00:00+03:00",
-          "stop": "2026-10-07T05:00:00+03:00",
-          "title": "Serie A: Frosinone vs Venezia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T05:00:00+03:00",
-          "stop": "2026-10-07T07:00:00+03:00",
-          "title": "Serie A: Cagliari vs Lecce",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T07:00:00+03:00",
-          "stop": "2026-10-07T09:00:00+03:00",
-          "title": "Serie A: Parma vs Monza",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T09:00:00+03:00",
-          "stop": "2026-10-07T11:00:00+03:00",
-          "title": "Serie A: Bologna vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T11:00:00+03:00",
-          "stop": "2026-10-07T13:00:00+03:00",
-          "title": "Serie A: Juventus vs Milan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T13:00:00+03:00",
-          "stop": "2026-10-07T15:00:00+03:00",
-          "title": "Serie A: Udinese vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T15:00:00+03:00",
-          "stop": "2026-10-07T17:00:00+03:00",
-          "title": "Serie A: Genoa vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T17:00:00+03:00",
-          "stop": "2026-10-07T19:00:00+03:00",
-          "title": "Serie A: Inter vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T19:00:00+03:00",
-          "stop": "2026-10-07T21:00:00+03:00",
-          "title": "Dutch: Ajax vs Excelsior",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T21:00:00+03:00",
-          "stop": "2026-10-07T23:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Utrecht",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-07T23:00:00+03:00",
-          "stop": "2026-10-08T01:00:00+03:00",
-          "title": "Dutch: Twente vs PSV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-08",
       "programs": [
@@ -288,6 +199,116 @@
           "start": "2026-10-09T23:00:00+03:00",
           "stop": "2026-10-10T01:00:00+03:00",
           "title": "Serie A: Roma vs Inter",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-10",
+      "programs": [
+        {
+          "start": "2026-10-10T01:00:00+03:00",
+          "stop": "2026-10-10T03:00:00+03:00",
+          "title": "Serie A: Juventus vs Atalanta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T03:00:00+03:00",
+          "stop": "2026-10-10T05:00:00+03:00",
+          "title": "Serie A: Milan vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T05:00:00+03:00",
+          "stop": "2026-10-10T07:00:00+03:00",
+          "title": "Serie A: Monza vs Sassuolo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T07:00:00+03:00",
+          "stop": "2026-10-10T09:00:00+03:00",
+          "title": "Dutch: PSV vs Heerenveen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T09:00:00+03:00",
+          "stop": "2026-10-10T11:00:00+03:00",
+          "title": "Serie A: Bologna vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T11:00:00+03:00",
+          "stop": "2026-10-10T13:00:00+03:00",
+          "title": "Serie A: Roma vs Inter",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T13:00:00+03:00",
+          "stop": "2026-10-10T15:00:00+03:00",
+          "title": "Serie A: Venezia vs Lazio",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:00:00+03:00",
+          "stop": "2026-10-10T15:20:00+03:00",
+          "title": "This Is Our Time: Ep01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:20:00+03:00",
+          "stop": "2026-10-10T15:50:00+03:00",
+          "title": "Inside Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T15:50:00+03:00",
+          "stop": "2026-10-10T18:00:00+03:00",
+          "title": "⋗ Serie A: Genoa vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T18:00:00+03:00",
+          "stop": "2026-10-10T18:35:00+03:00",
+          "title": "Serie A 2026/27: Full Impact Rd5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T18:35:00+03:00",
+          "stop": "2026-10-10T18:50:00+03:00",
+          "title": "This Is Our Time: Ep03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T18:50:00+03:00",
+          "stop": "2026-10-10T21:00:00+03:00",
+          "title": "⋗ Serie A: Inter vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T21:00:00+03:00",
+          "stop": "2026-10-10T21:35:00+03:00",
+          "title": "Inside Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-10T21:35:00+03:00",
+          "stop": "2026-10-11T00:00:00+03:00",
+          "title": "⋗ Serie A: Napoli vs Frosinone",
           "description": "L",
           "category": null
         }
