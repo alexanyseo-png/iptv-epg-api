@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-08T13:35:30.071742+00:00",
+  "generatedAt": "2026-10-09T13:24:59.008694+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-10-08",
-      "programs": [
-        {
-          "start": "2026-10-08T00:00:00+03:00",
-          "stop": "2026-10-08T02:00:00+03:00",
-          "title": "Eintracht Frankfurt – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T02:00:00+03:00",
-          "stop": "2026-10-08T08:00:00+03:00",
-          "title": "Girona FC – RCD Mallorca",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T08:00:00+03:00",
-          "stop": "2026-10-08T10:00:00+03:00",
-          "title": "Hertha BSC – 1. FC Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T10:00:00+03:00",
-          "stop": "2026-10-08T12:00:00+03:00",
-          "title": "1. FC Kaiserslautern – SV Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T12:00:00+03:00",
-          "stop": "2026-10-08T13:50:00+03:00",
-          "title": "Hannover 96 – Karlsruher SC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T13:50:00+03:00",
-          "stop": "2026-10-08T15:40:00+03:00",
-          "title": "Eintracht Frankfurt – SC Freiburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T15:40:00+03:00",
-          "stop": "2026-10-08T17:30:00+03:00",
-          "title": "Bayern Mnichov – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T17:30:00+03:00",
-          "stop": "2026-10-08T19:20:00+03:00",
-          "title": "SC Paderborn – TSG Hoffenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T19:20:00+03:00",
-          "stop": "2026-10-08T19:45:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (5)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T19:45:00+03:00",
-          "stop": "2026-10-08T20:20:00+03:00",
-          "title": "Bundesliga speciál (5)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T20:20:00+03:00",
-          "stop": "2026-10-08T22:10:00+03:00",
-          "title": "Schalke 04 – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-08T22:10:00+03:00",
-          "stop": "2026-10-09T00:00:00+03:00",
-          "title": "Hamburger SV – 1. FC Köln",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-09",
       "programs": [
@@ -274,6 +185,109 @@
           "start": "2026-10-10T21:40:00+03:00",
           "stop": "2026-10-11T00:00:00+03:00",
           "title": "PSG – Le Mans FC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-11",
+      "programs": [
+        {
+          "start": "2026-10-11T00:00:00+03:00",
+          "stop": "2026-10-11T02:00:00+03:00",
+          "title": "Borussia Dortmund – Werder Brémy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T02:00:00+03:00",
+          "stop": "2026-10-11T08:00:00+03:00",
+          "title": "1. FC Magdeburg – Hannover 96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T08:00:00+03:00",
+          "stop": "2026-10-11T10:00:00+03:00",
+          "title": "PSG – Le Mans FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T10:00:00+03:00",
+          "stop": "2026-10-11T12:00:00+03:00",
+          "title": "RB Lipsko – Eintracht Frankfurt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T12:00:00+03:00",
+          "stop": "2026-10-11T13:50:00+03:00",
+          "title": "FC Augsburg – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T13:50:00+03:00",
+          "stop": "2026-10-11T14:25:00+03:00",
+          "title": "Ve skluzu (134)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T14:25:00+03:00",
+          "stop": "2026-10-11T16:25:00+03:00",
+          "title": "VfL Bochum – Arminia Bielefeld",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T16:25:00+03:00",
+          "stop": "2026-10-11T18:25:00+03:00",
+          "title": "1. FC Köln – Borussia Mönchengladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T18:25:00+03:00",
+          "stop": "2026-10-11T20:35:00+03:00",
+          "title": "SC Freiburg – Schalke 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T20:35:00+03:00",
+          "stop": "2026-10-11T21:05:00+03:00",
+          "title": "Bundesliga speciál (5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T21:05:00+03:00",
+          "stop": "2026-10-11T21:30:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (6)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T21:30:00+03:00",
+          "stop": "2026-10-11T21:40:00+03:00",
+          "title": "Ikony Ligue 1 – Basile Boli",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T21:40:00+03:00",
+          "stop": "2026-10-11T23:50:00+03:00",
+          "title": "ES Troyes – Olympique Marseille",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-11T23:50:00+03:00",
+          "stop": "2026-10-12T01:40:00+03:00",
+          "title": "RB Lipsko – Eintracht Frankfurt",
           "description": "L",
           "category": null
         }
