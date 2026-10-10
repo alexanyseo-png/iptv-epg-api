@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-09T13:24:59.008694+00:00",
+  "generatedAt": "2026-10-10T12:36:52.908537+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 28,
   "days": [
-    {
-      "date": "2026-10-09",
-      "programs": [
-        {
-          "start": "2026-10-09T00:25:00+03:00",
-          "stop": "2026-10-09T01:00:00+03:00",
-          "title": "100 мест, где поесть",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T01:00:00+03:00",
-          "stop": "2026-10-09T05:00:00+03:00",
-          "title": "С лёгким утром!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T05:00:00+03:00",
-          "stop": "2026-10-09T15:30:00+03:00",
-          "title": "Шоу Уральские пельмени. 5–8 c",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T15:30:00+03:00",
-          "stop": "2026-10-10T04:50:00+03:00",
-          "title": "Шоу Уральские пельмени: 236 серия – География пельменей. Австрия",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-10",
       "programs": [
@@ -239,6 +206,18 @@
           "start": "2026-10-11T21:35:00+03:00",
           "stop": "2026-10-12T00:35:00+03:00",
           "title": "Суперниндзя",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "programs": [
+        {
+          "start": "2026-10-12T00:35:00+03:00",
+          "stop": "2026-10-12T01:35:00+03:00",
+          "title": "100 мест, где поесть. 5–8 c",
           "description": "L",
           "category": null
         }

@@ -8,183 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-09T13:24:59.008694+00:00",
+  "generatedAt": "2026-10-10T12:36:52.908537+00:00",
   "available": true,
-  "programmeCount": 73,
+  "programmeCount": 56,
   "days": [
-    {
-      "date": "2026-10-09",
-      "programs": [
-        {
-          "start": "2026-10-09T00:30:00+03:00",
-          "stop": "2026-10-09T01:30:00+03:00",
-          "title": "Kabaretowy szał bis – Kabaret Młodych Panów | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T01:30:00+03:00",
-          "stop": "2026-10-09T02:15:00+03:00",
-          "title": "Kabaretowy szał 2026 – Ani Mru-Mru | E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T02:15:00+03:00",
-          "stop": "2026-10-09T03:15:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S04E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T03:15:00+03:00",
-          "stop": "2026-10-09T04:05:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Ciach | S02E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T04:05:00+03:00",
-          "stop": "2026-10-09T04:55:00+03:00",
-          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S02E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T04:55:00+03:00",
-          "stop": "2026-10-09T05:50:00+03:00",
-          "title": "Kabaretowy szał – Młodych Panów | S03E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T05:50:00+03:00",
-          "stop": "2026-10-09T07:00:00+03:00",
-          "title": "Miłe rozmowy | E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T07:00:00+03:00",
-          "stop": "2026-10-09T08:10:00+03:00",
-          "title": "Wojna Adolfa Hitlera | S01E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T08:10:00+03:00",
-          "stop": "2026-10-09T09:10:00+03:00",
-          "title": "Wojna Adolfa Hitlera | S01E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T09:10:00+03:00",
-          "stop": "2026-10-09T09:40:00+03:00",
-          "title": "Straż graniczna 3 | S03E10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T09:40:00+03:00",
-          "stop": "2026-10-09T10:10:00+03:00",
-          "title": "Straż graniczna | S01E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T10:10:00+03:00",
-          "stop": "2026-10-09T10:35:00+03:00",
-          "title": "Straż graniczna 5 | S05E15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T10:35:00+03:00",
-          "stop": "2026-10-09T11:00:00+03:00",
-          "title": "Droga wolna | S01E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T11:00:00+03:00",
-          "stop": "2026-10-09T12:00:00+03:00",
-          "title": "Gorączka w mieście | S01E30",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T12:00:00+03:00",
-          "stop": "2026-10-09T13:00:00+03:00",
-          "title": "Gorączka w mieście | S01E35",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T13:00:00+03:00",
-          "stop": "2026-10-09T14:00:00+03:00",
-          "title": "Gorączka w mieście | S01E40",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T14:00:00+03:00",
-          "stop": "2026-10-09T15:00:00+03:00",
-          "title": "Kobra – oddział specjalny | S01E08",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T15:00:00+03:00",
-          "stop": "2026-10-09T16:05:00+03:00",
-          "title": "Kobra – oddział specjalny | S01E09",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T16:05:00+03:00",
-          "stop": "2026-10-09T18:05:00+03:00",
-          "title": "Klejnot TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T18:05:00+03:00",
-          "stop": "2026-10-09T19:00:00+03:00",
-          "title": "Francja od kuchni | E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T19:00:00+03:00",
-          "stop": "2026-10-09T22:00:00+03:00",
-          "title": "Klejnot TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T22:00:00+03:00",
-          "stop": "2026-10-09T22:45:00+03:00",
-          "title": "Zagadka tygodnia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T22:45:00+03:00",
-          "stop": "2026-10-09T23:55:00+03:00",
-          "title": "Więzienne dziewczyny – Orange Is the New Black – Więcej mnie nie nabierzesz | S01E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-09T23:55:00+03:00",
-          "stop": "2026-10-10T00:30:00+03:00",
-          "title": "Zagadka tygodnia",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-10",
       "programs": [
@@ -533,6 +360,60 @@
           "start": "2026-10-11T22:00:00+03:00",
           "stop": "2026-10-12T00:25:00+03:00",
           "title": "Tristan i Izolda",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "programs": [
+        {
+          "start": "2026-10-12T00:25:00+03:00",
+          "stop": "2026-10-12T01:05:00+03:00",
+          "title": "Zagadka tygodnia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T01:05:00+03:00",
+          "stop": "2026-10-12T02:05:00+03:00",
+          "title": "Kabaretowy szał bis – Łowcy.B | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T02:05:00+03:00",
+          "stop": "2026-10-12T02:55:00+03:00",
+          "title": "Kabaretowy szał 5 – Kabaret Moralnego Niepokoju | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T02:55:00+03:00",
+          "stop": "2026-10-12T03:40:00+03:00",
+          "title": "Kabaretowy szał 4 – Trzecia Strona Medalu | S04E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T03:40:00+03:00",
+          "stop": "2026-10-12T04:35:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Chyba | S02E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T04:35:00+03:00",
+          "stop": "2026-10-12T05:50:00+03:00",
+          "title": "Kabaretowy szał – Kabaret Moralnego Niepokoju | S02E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T05:50:00+03:00",
+          "stop": "2026-10-12T06:50:00+03:00",
+          "title": "Miłe rozmowy | E07",
           "description": "L",
           "category": null
         }

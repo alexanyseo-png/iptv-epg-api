@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-09T13:24:59.008694+00:00",
+  "generatedAt": "2026-10-10T12:36:52.908537+00:00",
   "available": true,
-  "programmeCount": 19,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-10-09",
-      "programs": [
-        {
-          "start": "2026-10-09T20:00:00+03:00",
-          "stop": "2026-10-10T00:15:00+03:00",
-          "title": "Dizi",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-10",
       "programs": [
@@ -155,6 +143,39 @@
           "start": "2026-10-11T20:00:00+03:00",
           "stop": "2026-10-12T00:15:00+03:00",
           "title": "Gönül Dağı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "programs": [
+        {
+          "start": "2026-10-12T00:15:00+03:00",
+          "stop": "2026-10-12T01:30:00+03:00",
+          "title": "Pelin Çift İle Gündem Ötesi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T01:30:00+03:00",
+          "stop": "2026-10-12T04:20:00+03:00",
+          "title": "Pelin Çift İle Gündem Ötesi Artı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T04:20:00+03:00",
+          "stop": "2026-10-12T06:55:00+03:00",
+          "title": "Dizi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T06:55:00+03:00",
+          "stop": "2026-10-12T11:45:00+03:00",
+          "title": "Kalk Gidelim",
           "description": "L",
           "category": null
         }
