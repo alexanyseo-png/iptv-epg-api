@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-10T12:36:52.908537+00:00",
+  "generatedAt": "2026-10-11T12:55:41.512040+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-10-10",
-      "programs": [
-        {
-          "start": "2026-10-10T01:00:00+03:00",
-          "stop": "2026-10-10T02:25:00+03:00",
-          "title": "На прицеле.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T02:25:00+03:00",
-          "stop": "2026-10-10T03:35:00+03:00",
-          "title": "Призраки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T03:35:00+03:00",
-          "stop": "2026-10-10T06:05:00+03:00",
-          "title": "Территория.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T06:05:00+03:00",
-          "stop": "2026-10-10T08:00:00+03:00",
-          "title": "На краю земли.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T08:00:00+03:00",
-          "stop": "2026-10-10T10:10:00+03:00",
-          "title": "Тёмная долина.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T10:10:00+03:00",
-          "stop": "2026-10-10T12:00:00+03:00",
-          "title": "Страна грёз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T12:00:00+03:00",
-          "stop": "2026-10-10T15:00:00+03:00",
-          "title": "Территория.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T15:00:00+03:00",
-          "stop": "2026-10-10T17:05:00+03:00",
-          "title": "На краю земли.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T17:05:00+03:00",
-          "stop": "2026-10-10T19:10:00+03:00",
-          "title": "Рэд 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T19:10:00+03:00",
-          "stop": "2026-10-10T21:00:00+03:00",
-          "title": "Крепость.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T21:00:00+03:00",
-          "stop": "2026-10-10T22:45:00+03:00",
-          "title": "Крепость 2: Глаз снайпера.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-10T22:45:00+03:00",
-          "stop": "2026-10-11T00:35:00+03:00",
-          "title": "За гранью жизни.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-11",
       "programs": [
@@ -197,8 +108,123 @@
         },
         {
           "start": "2026-10-11T23:20:00+03:00",
-          "stop": "2026-10-12T00:20:00+03:00",
+          "stop": "2026-10-12T00:00:00+03:00",
           "title": "Кикбоксёр-3: Искусство войны.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-12",
+      "programs": [
+        {
+          "start": "2026-10-12T00:00:00+03:00",
+          "stop": "2026-10-12T02:00:00+03:00",
+          "title": "Выжить в игре.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T02:00:00+03:00",
+          "stop": "2026-10-12T04:00:00+03:00",
+          "title": "Рэд 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T04:00:00+03:00",
+          "stop": "2026-10-12T06:00:00+03:00",
+          "title": "Крепость.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T06:00:00+03:00",
+          "stop": "2026-10-12T08:00:00+03:00",
+          "title": "Крепость 2: Глаз снайпера.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T08:00:00+03:00",
+          "stop": "2026-10-12T10:00:00+03:00",
+          "title": "За гранью жизни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T10:00:00+03:00",
+          "stop": "2026-10-12T12:00:00+03:00",
+          "title": "Территория.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T12:00:00+03:00",
+          "stop": "2026-10-12T14:00:00+03:00",
+          "title": "На краю земли.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T14:00:00+03:00",
+          "stop": "2026-10-12T16:00:00+03:00",
+          "title": "Тёмная долина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T16:00:00+03:00",
+          "stop": "2026-10-12T18:00:00+03:00",
+          "title": "Страна грёз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T18:00:00+03:00",
+          "stop": "2026-10-12T20:00:00+03:00",
+          "title": "На прицеле.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T20:00:00+03:00",
+          "stop": "2026-10-12T22:00:00+03:00",
+          "title": "Призраки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T22:00:00+03:00",
+          "stop": "2026-10-12T23:00:00+03:00",
+          "title": "Волчий остров.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-12T23:00:00+03:00",
+          "stop": "2026-10-13T00:00:00+03:00",
+          "title": "Рэкетир.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "programs": [
+        {
+          "start": "2026-10-13T00:00:00+03:00",
+          "stop": "2026-10-13T02:00:00+03:00",
+          "title": "Рэкетир-2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T02:00:00+03:00",
+          "stop": "2026-10-13T03:00:00+03:00",
+          "title": "Бык.",
           "description": "L",
           "category": null
         }
