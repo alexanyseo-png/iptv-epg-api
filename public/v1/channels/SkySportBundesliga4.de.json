@@ -8,37 +8,40 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-11T12:55:41.512040+00:00",
+  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 3,
   "days": [
     {
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "programs": [
         {
-          "start": "2026-10-11T07:00:00+03:00",
-          "stop": "2026-10-11T13:40:00+03:00",
+          "start": "2026-10-12T07:00:00+03:00",
+          "stop": "2026-10-13T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-10-13",
+      "programs": [
         {
-          "start": "2026-10-11T13:40:00+03:00",
-          "stop": "2026-10-11T14:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "start": "2026-10-13T07:00:00+03:00",
+          "stop": "2026-10-14T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "programs": [
         {
-          "start": "2026-10-11T14:00:00+03:00",
-          "stop": "2026-10-11T16:30:00+03:00",
-          "title": "Live 2. BL: 7. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-11T16:30:00+03:00",
-          "stop": "2026-10-11T17:30:00+03:00",
+          "start": "2026-10-14T07:00:00+03:00",
+          "stop": "2026-10-15T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
