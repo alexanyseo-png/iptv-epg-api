@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-10-12",
-      "programs": [
-        {
-          "start": "2026-10-12T04:05:00+03:00",
-          "stop": "2026-10-12T07:00:00+03:00",
-          "title": "MMA: ONE Championship. ONE Championship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T07:00:00+03:00",
-          "stop": "2026-10-12T08:55:00+03:00",
-          "title": "Futbols: La Liga. Alaves – Atlético Madrid. LaLiga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T08:55:00+03:00",
-          "stop": "2026-10-12T10:50:00+03:00",
-          "title": "Futbols – Itālijas līga. Cagliari – Juventus. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T10:50:00+03:00",
-          "stop": "2026-10-12T12:45:00+03:00",
-          "title": "Hokejs: Šveices Nacionālā līga. Lugano – ZSC Lions. National League",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T12:45:00+03:00",
-          "stop": "2026-10-12T14:45:00+03:00",
-          "title": "Basketbols: Eirolīga. Baskonia – Besiktas. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T14:45:00+03:00",
-          "stop": "2026-10-12T16:40:00+03:00",
-          "title": "Futbols. Bundeslīga. Augsburg – Bayern. 1. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T16:40:00+03:00",
-          "stop": "2026-10-12T18:35:00+03:00",
-          "title": "Futbols – Itālijas līga. Sassuolo – Milan. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T18:35:00+03:00",
-          "stop": "2026-10-12T20:30:00+03:00",
-          "title": "Basketbols: ACB līga. Baskonia – Joventut. Liga Endesa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T20:30:00+03:00",
-          "stop": "2026-10-12T22:25:00+03:00",
-          "title": "Basketbols: ACB līga. Barcelona – Valencia. Liga Endesa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T22:25:00+03:00",
-          "stop": "2026-10-13T00:20:00+03:00",
-          "title": "Hokejs: Šveices Nacionālā līga. ZSC Lions – FR Gotteron. National League",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-13",
       "programs": [
@@ -274,6 +199,95 @@
           "start": "2026-10-14T22:30:00+03:00",
           "stop": "2026-10-15T00:30:00+03:00",
           "title": "Basketbols. ULEB Eirokauss. Basketball: EuroCup",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T00:30:00+03:00",
+          "stop": "2026-10-15T02:30:00+03:00",
+          "title": "Basketbols. ULEB Eirokauss. Basketball: EuroCup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:30:00+03:00",
+          "stop": "2026-10-15T04:55:00+03:00",
+          "title": "Basketbols. FIBA Čempionu līga. Basketball Champions League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:55:00+03:00",
+          "stop": "2026-10-15T07:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T07:00:00+03:00",
+          "stop": "2026-10-15T09:00:00+03:00",
+          "title": "Futbols: La Liga. Alaves – Atlético Madrid. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T09:00:00+03:00",
+          "stop": "2026-10-15T11:00:00+03:00",
+          "title": "Futbols: La Liga. Real Madrid – Villarreal. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T11:00:00+03:00",
+          "stop": "2026-10-15T13:05:00+03:00",
+          "title": "Basketbols. ULEB Eirokauss. Basketball: EuroCup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T13:05:00+03:00",
+          "stop": "2026-10-15T15:10:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T15:10:00+03:00",
+          "stop": "2026-10-15T17:10:00+03:00",
+          "title": "Futbols: La Liga. Real Sociedad – Deportivo. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T17:10:00+03:00",
+          "stop": "2026-10-15T19:10:00+03:00",
+          "title": "Futbols – Itālijas līga. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T19:10:00+03:00",
+          "stop": "2026-10-15T21:15:00+03:00",
+          "title": "Basketbols. ULEB Eirokauss. «Rīgas Zeļļi» – Ļubļanas «Cedevita Olimpija». Basketball: EuroCup",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T21:15:00+03:00",
+          "stop": "2026-10-15T23:30:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T23:30:00+03:00",
+          "stop": "2026-10-16T01:25:00+03:00",
+          "title": "Basketbols: ACB līga. Baskonia – Joventut. Liga Endesa",
           "description": "L",
           "category": null
         }

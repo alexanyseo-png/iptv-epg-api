@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
-  "programmeCount": 56,
+  "programmeCount": 76,
   "days": [
-    {
-      "date": "2026-10-12",
-      "programs": [
-        {
-          "start": "2026-10-12T00:20:00+03:00",
-          "stop": "2026-10-12T01:20:00+03:00",
-          "title": "Жаңа казахи.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T01:20:00+03:00",
-          "stop": "2026-10-12T02:00:00+03:00",
-          "title": "Ұ- Night Show.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T02:00:00+03:00",
-          "stop": "2026-10-12T02:20:00+03:00",
-          "title": "Insta TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T02:20:00+03:00",
-          "stop": "2026-10-12T23:00:00+03:00",
-          "title": "Екі езу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T23:00:00+03:00",
-          "stop": "2026-10-13T00:00:00+03:00",
-          "title": "Қызық Live.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-13",
       "programs": [
@@ -219,7 +179,7 @@
         {
           "start": "2026-10-13T20:10:00+03:00",
           "stop": "2026-10-13T23:00:00+03:00",
-          "title": "Астрал 5: Красная дверь.",
+          "title": "Астрал 5.",
           "description": "L",
           "category": null
         },
@@ -413,6 +373,186 @@
         {
           "start": "2026-10-14T23:40:00+03:00",
           "stop": "2026-10-15T00:40:00+03:00",
+          "title": "Жаңа казахи.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T00:40:00+03:00",
+          "stop": "2026-10-15T01:20:00+03:00",
+          "title": "Ұ- Night Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T01:20:00+03:00",
+          "stop": "2026-10-15T02:00:00+03:00",
+          "title": "Insta TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:00:00+03:00",
+          "stop": "2026-10-15T04:55:00+03:00",
+          "title": "Екі езу.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:55:00+03:00",
+          "stop": "2026-10-15T05:00:00+03:00",
+          "title": "Гимн РК.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T05:00:00+03:00",
+          "stop": "2026-10-15T05:15:00+03:00",
+          "title": "Разминка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T05:15:00+03:00",
+          "stop": "2026-10-15T06:20:00+03:00",
+          "title": "Қызық Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T06:20:00+03:00",
+          "stop": "2026-10-15T06:50:00+03:00",
+          "title": "Insta Like.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T06:50:00+03:00",
+          "stop": "2026-10-15T07:00:00+03:00",
+          "title": "Armankids.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T07:00:00+03:00",
+          "stop": "2026-10-15T07:10:00+03:00",
+          "title": "Alexgam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T07:10:00+03:00",
+          "stop": "2026-10-15T08:10:00+03:00",
+          "title": "Агент 203.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T08:10:00+03:00",
+          "stop": "2026-10-15T09:20:00+03:00",
+          "title": "Мир наизнанку. Индонезия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T09:20:00+03:00",
+          "stop": "2026-10-15T10:00:00+03:00",
+          "title": "105.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T10:00:00+03:00",
+          "stop": "2026-10-15T12:00:00+03:00",
+          "title": "Не дейді?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T12:00:00+03:00",
+          "stop": "2026-10-15T13:00:00+03:00",
+          "title": "Дәм дода.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T13:00:00+03:00",
+          "stop": "2026-10-15T14:00:00+03:00",
+          "title": "Қала сыры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T14:00:00+03:00",
+          "stop": "2026-10-15T15:00:00+03:00",
+          "title": "Бір көргеннен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T15:00:00+03:00",
+          "stop": "2026-10-15T15:40:00+03:00",
+          "title": "Қашан туасың.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T15:40:00+03:00",
+          "stop": "2026-10-15T16:00:00+03:00",
+          "title": "Insta TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T16:00:00+03:00",
+          "stop": "2026-10-15T17:00:00+03:00",
+          "title": "Мир наизнанку. Индонезия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T17:00:00+03:00",
+          "stop": "2026-10-15T17:30:00+03:00",
+          "title": "105.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T17:30:00+03:00",
+          "stop": "2026-10-15T18:30:00+03:00",
+          "title": "Однажды в России.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T18:30:00+03:00",
+          "stop": "2026-10-15T20:10:00+03:00",
+          "title": "Спецназ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T20:10:00+03:00",
+          "stop": "2026-10-15T22:40:00+03:00",
+          "title": "Нулевой пациент.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T22:40:00+03:00",
+          "stop": "2026-10-15T23:40:00+03:00",
+          "title": "Қызық Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T23:40:00+03:00",
+          "stop": "2026-10-16T00:40:00+03:00",
           "title": "Жаңа казахи.",
           "description": "L",
           "category": null

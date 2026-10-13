@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
   "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-10-12",
-      "programs": [
-        {
-          "start": "2026-10-12T01:00:00+03:00",
-          "stop": "2026-10-12T02:15:00+03:00",
-          "title": "Gece Haberleri.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T02:15:00+03:00",
-          "stop": "2026-10-12T06:00:00+03:00",
-          "title": "Ne Oluyor?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T06:00:00+03:00",
-          "stop": "2026-10-12T09:00:00+03:00",
-          "title": "A'dan Z'ye.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T09:00:00+03:00",
-          "stop": "2026-10-12T12:00:00+03:00",
-          "title": "Gündem.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T12:00:00+03:00",
-          "stop": "2026-10-12T14:00:00+03:00",
-          "title": "Gün Ortası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T14:00:00+03:00",
-          "stop": "2026-10-12T16:00:00+03:00",
-          "title": "Bugün.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T16:00:00+03:00",
-          "stop": "2026-10-12T18:00:00+03:00",
-          "title": "Günlük.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T18:00:00+03:00",
-          "stop": "2026-10-12T20:30:00+03:00",
-          "title": "Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T20:30:00+03:00",
-          "stop": "2026-10-13T01:00:00+03:00",
-          "title": "Tarafsız Bölge.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-13",
       "programs": [
@@ -211,6 +143,74 @@
           "start": "2026-10-14T20:45:00+03:00",
           "stop": "2026-10-15T01:00:00+03:00",
           "title": "Akıl Çemberi.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T01:00:00+03:00",
+          "stop": "2026-10-15T02:00:00+03:00",
+          "title": "Gece Haberleri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:00:00+03:00",
+          "stop": "2026-10-15T06:00:00+03:00",
+          "title": "Akıl Çemberi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T06:00:00+03:00",
+          "stop": "2026-10-15T09:00:00+03:00",
+          "title": "A'dan Z'ye.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T09:00:00+03:00",
+          "stop": "2026-10-15T12:00:00+03:00",
+          "title": "Gündem.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T12:00:00+03:00",
+          "stop": "2026-10-15T14:00:00+03:00",
+          "title": "Gün Ortası.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T14:00:00+03:00",
+          "stop": "2026-10-15T16:00:00+03:00",
+          "title": "Bugün.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T16:00:00+03:00",
+          "stop": "2026-10-15T18:00:00+03:00",
+          "title": "Günlük.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T18:00:00+03:00",
+          "stop": "2026-10-15T20:45:00+03:00",
+          "title": "Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T20:45:00+03:00",
+          "stop": "2026-10-16T00:00:00+03:00",
+          "title": "CNN TÜRK Masası.",
           "description": "L",
           "category": null
         }

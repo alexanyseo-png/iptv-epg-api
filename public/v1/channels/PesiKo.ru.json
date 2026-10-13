@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-10-12",
-      "programs": [
-        {
-          "start": "2026-10-12T01:00:00+03:00",
-          "stop": "2026-10-12T01:45:00+03:00",
-          "title": "Моя собака – гений!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T01:45:00+03:00",
-          "stop": "2026-10-12T02:30:00+03:00",
-          "title": "д/с Прогулки с моей собакой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T02:30:00+03:00",
-          "stop": "2026-10-12T03:00:00+03:00",
-          "title": "Собачья работа",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T03:00:00+03:00",
-          "stop": "2026-10-12T03:30:00+03:00",
-          "title": "Такая порода",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T03:30:00+03:00",
-          "stop": "2026-10-12T03:55:00+03:00",
-          "title": "д/с Лучшие друзья",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T03:55:00+03:00",
-          "stop": "2026-10-12T04:15:00+03:00",
-          "title": "д/с Медвежата на прогулке",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T04:15:00+03:00",
-          "stop": "2026-10-12T05:00:00+03:00",
-          "title": "Такая порода",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T05:00:00+03:00",
-          "stop": "2026-10-12T06:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T06:00:00+03:00",
-          "stop": "2026-10-12T09:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T09:00:00+03:00",
-          "stop": "2026-10-12T23:00:00+03:00",
-          "title": "⋗ Телемагазин «Магнат»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T23:00:00+03:00",
-          "stop": "2026-10-13T01:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-13",
       "programs": [
@@ -301,6 +219,116 @@
         {
           "start": "2026-10-14T23:00:00+03:00",
           "stop": "2026-10-15T01:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T01:00:00+03:00",
+          "stop": "2026-10-15T01:25:00+03:00",
+          "title": "Второй шанс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T01:25:00+03:00",
+          "stop": "2026-10-15T01:30:00+03:00",
+          "title": "Собака.NET",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T01:30:00+03:00",
+          "stop": "2026-10-15T02:00:00+03:00",
+          "title": "Такая порода",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:00:00+03:00",
+          "stop": "2026-10-15T02:25:00+03:00",
+          "title": "Служба спасения",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:25:00+03:00",
+          "stop": "2026-10-15T03:05:00+03:00",
+          "title": "д/с Кто выпустил собак?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:05:00+03:00",
+          "stop": "2026-10-15T03:25:00+03:00",
+          "title": "д/с Медвежата на прогулке",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:25:00+03:00",
+          "stop": "2026-10-15T03:30:00+03:00",
+          "title": "Собака.NET",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:30:00+03:00",
+          "stop": "2026-10-15T03:50:00+03:00",
+          "title": "д/с Доктор Лиза",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:50:00+03:00",
+          "stop": "2026-10-15T04:00:00+03:00",
+          "title": "Собака.NET",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:00:00+03:00",
+          "stop": "2026-10-15T04:30:00+03:00",
+          "title": "Такая порода",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:30:00+03:00",
+          "stop": "2026-10-15T05:00:00+03:00",
+          "title": "Собачья работа",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T05:00:00+03:00",
+          "stop": "2026-10-15T06:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T06:00:00+03:00",
+          "stop": "2026-10-15T09:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T09:00:00+03:00",
+          "stop": "2026-10-15T23:00:00+03:00",
+          "title": "⋗ Телемагазин «Магнат»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T23:00:00+03:00",
+          "stop": "2026-10-16T01:00:00+03:00",
           "title": "⋗ Леомакс",
           "description": "L",
           "category": null

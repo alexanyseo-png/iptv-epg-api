@@ -8,87 +8,405 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 55,
   "days": [
     {
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "programs": [
         {
-          "start": "2026-10-12T01:00:00+03:00",
-          "stop": "2026-10-12T02:50:00+03:00",
-          "title": "Classical. London Symphony Orchestra, Simon Rattle: Sibelius, Bruckner.",
+          "start": "2026-10-13T01:00:00+03:00",
+          "stop": "2026-10-13T02:50:00+03:00",
+          "title": "Classical. Lucerne Festival Orchestra, Riccardo Chailly, Mao Fujita – Rachmaninov.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T02:50:00+03:00",
-          "stop": "2026-10-12T03:00:00+03:00",
+          "start": "2026-10-13T02:50:00+03:00",
+          "stop": "2026-10-13T03:00:00+03:00",
           "title": "Intermezzo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T03:00:00+03:00",
-          "stop": "2026-10-12T04:20:00+03:00",
-          "title": "Classical. Chamber Orchestra of Europe, Yannick Nezet-Seguin: Brahms, symphonies 3 4.",
+          "start": "2026-10-13T03:00:00+03:00",
+          "stop": "2026-10-13T04:00:00+03:00",
+          "title": "Jazz. Chris Potter Trio – Jazz Middelheim.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T04:20:00+03:00",
-          "stop": "2026-10-12T06:05:00+03:00",
-          "title": "Classical. Cleveland Orchestra, Franz Welser-Most, Simon Keenlyside – Mahler.",
+          "start": "2026-10-13T04:00:00+03:00",
+          "stop": "2026-10-13T05:00:00+03:00",
+          "title": "Jazz. Billy Cobham's Time Machine – Jazz Middelheim.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T06:05:00+03:00",
-          "stop": "2026-10-12T06:30:00+03:00",
+          "start": "2026-10-13T05:00:00+03:00",
+          "stop": "2026-10-13T06:10:00+03:00",
+          "title": "Jazz. Isaiah Collier plays Coltrane – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T06:10:00+03:00",
+          "stop": "2026-10-13T07:00:00+03:00",
           "title": "Intermezzo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T06:30:00+03:00",
-          "stop": "2026-10-12T10:30:00+03:00",
-          "title": "Opera. Wagner: Tristan und Isolde – Staatsoper Dresden.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T10:30:00+03:00",
-          "stop": "2026-10-12T12:05:00+03:00",
-          "title": "Classical. Lang Lang: Faure, Schumann, Chopin – Philharmonie de Paris.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T12:05:00+03:00",
-          "stop": "2026-10-12T14:00:00+03:00",
-          "title": "Classical. Lucas Debargue at the Philharmonie de Paris: Mozart, Chopin, Alkan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-12T14:00:00+03:00",
-          "stop": "2026-10-12T15:40:00+03:00",
+          "start": "2026-10-13T07:00:00+03:00",
+          "stop": "2026-10-13T08:40:00+03:00",
           "title": "Classical. The Cleveland Orchestra, Esa-Pekka Salonen – Ravel, Salonen, Sibelius.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T15:40:00+03:00",
-          "stop": "2026-10-12T17:10:00+03:00",
+          "start": "2026-10-13T08:40:00+03:00",
+          "stop": "2026-10-13T10:10:00+03:00",
           "title": "Classical. Philopera, Daniel Harding – Schubert, Mahler.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-12T17:10:00+03:00",
-          "stop": "2026-10-12T18:10:00+03:00",
+          "start": "2026-10-13T10:10:00+03:00",
+          "stop": "2026-10-13T10:30:00+03:00",
           "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T10:30:00+03:00",
+          "stop": "2026-10-13T12:00:00+03:00",
+          "title": "Dance. A Thousand and One Nights / Scheherazade – Fatma Said.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T12:00:00+03:00",
+          "stop": "2026-10-13T13:25:00+03:00",
+          "title": "Dance. Mauro Bigonzetti's 'The Trial' by the Czech National Ballet.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T13:25:00+03:00",
+          "stop": "2026-10-13T14:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T14:00:00+03:00",
+          "stop": "2026-10-13T15:15:00+03:00",
+          "title": "Classical. Beatrice Rana, Chamber Orchestra of Europe and Yannick Nezet-Seguin: Clara Schumann, Brahms.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T15:15:00+03:00",
+          "stop": "2026-10-13T16:50:00+03:00",
+          "title": "Classical. Beatrice Rana, Chamber Orchestra of Europe, Yannick Nezet-Seguin: Schumann, Brahms.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T16:50:00+03:00",
+          "stop": "2026-10-13T18:00:00+03:00",
+          "title": "Classical. Konzerthausorchester Berlin, Joana Mallwitz: Mozart, Tchaikovsky.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T18:00:00+03:00",
+          "stop": "2026-10-13T20:55:00+03:00",
+          "title": "Opera. Weinberg: The Passenger – Opera national du Capitole, Toulouse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T20:55:00+03:00",
+          "stop": "2026-10-13T22:00:00+03:00",
+          "title": "Classical. Orchestre Philharmonique de Monte-Carlo, Gil Shaham, Fabien Gabel: Mahler, Korngold, Ravel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T22:00:00+03:00",
+          "stop": "2026-10-13T23:35:00+03:00",
+          "title": "Classical. Alexandre Kantorow – Brahms, Schubert – Philharmonie de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-13T23:35:00+03:00",
+          "stop": "2026-10-14T01:00:00+03:00",
+          "title": "Classical. Ravel: The piano works – Bertrand Chamayou.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-14",
+      "programs": [
+        {
+          "start": "2026-10-14T01:00:00+03:00",
+          "stop": "2026-10-14T02:35:00+03:00",
+          "title": "Classical. Renaud Capucon, Martha Argerich, Orchestre de Chambre de Lausanne: Prokofiev Beethoven Faure Ravel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T02:35:00+03:00",
+          "stop": "2026-10-14T03:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T03:00:00+03:00",
+          "stop": "2026-10-14T04:30:00+03:00",
+          "title": "Dance. A Thousand and One Nights / Scheherazade – Fatma Said.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T04:30:00+03:00",
+          "stop": "2026-10-14T05:55:00+03:00",
+          "title": "Dance. Mauro Bigonzetti's 'The Trial' by the Czech National Ballet.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T05:55:00+03:00",
+          "stop": "2026-10-14T07:00:00+03:00",
+          "title": "Classical. Orchestre Philharmonique de Monte-Carlo, Gil Shaham, Fabien Gabel: Mahler, Korngold, Ravel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T07:00:00+03:00",
+          "stop": "2026-10-14T09:50:00+03:00",
+          "title": "Opera. Tchaikovsky: The Queen of Spades – Bayerische Staatsoper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T09:50:00+03:00",
+          "stop": "2026-10-14T10:30:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T10:30:00+03:00",
+          "stop": "2026-10-14T11:50:00+03:00",
+          "title": "Classical. Chamber Orchestra of Europe, Yannick Nezet-Seguin: Brahms, symphonies 3 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T11:50:00+03:00",
+          "stop": "2026-10-14T13:35:00+03:00",
+          "title": "Classical. Cleveland Orchestra, Franz Welser-Most, Simon Keenlyside – Mahler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T13:35:00+03:00",
+          "stop": "2026-10-14T14:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T14:00:00+03:00",
+          "stop": "2026-10-14T18:00:00+03:00",
+          "title": "Opera. Wagner: Tristan und Isolde – Staatsoper Dresden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T18:00:00+03:00",
+          "stop": "2026-10-14T19:35:00+03:00",
+          "title": "Classical. Lang Lang: Faure, Schumann, Chopin – Philharmonie de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T19:35:00+03:00",
+          "stop": "2026-10-14T21:25:00+03:00",
+          "title": "Classical. Lucas Debargue at the Philharmonie de Paris: Mozart, Chopin, Alkan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T21:25:00+03:00",
+          "stop": "2026-10-14T22:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T22:00:00+03:00",
+          "stop": "2026-10-14T23:00:00+03:00",
+          "title": "Jazz. Chris Potter Trio – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-14T23:00:00+03:00",
+          "stop": "2026-10-15T00:00:00+03:00",
+          "title": "Jazz. Billy Cobham's Time Machine – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T00:00:00+03:00",
+          "stop": "2026-10-15T01:10:00+03:00",
+          "title": "Jazz. Isaiah Collier plays Coltrane – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T01:10:00+03:00",
+          "stop": "2026-10-15T02:40:00+03:00",
+          "title": "Classical. Hesperion XXI Tembembe Ensemble: Folias antiguas y criollas, from the old to the new world.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:40:00+03:00",
+          "stop": "2026-10-15T03:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:00:00+03:00",
+          "stop": "2026-10-15T04:25:00+03:00",
+          "title": "Classical. Mahler: Symphony No. 9 – Orchestre de la Suisse Romande, Jonathan Nott.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:25:00+03:00",
+          "stop": "2026-10-15T05:55:00+03:00",
+          "title": "Classical. Les Siecles, Pierre Bleuse: Arancio, Dvorak.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T05:55:00+03:00",
+          "stop": "2026-10-15T07:00:00+03:00",
+          "title": "Classical. Wiener Philharmoniker, Yannick Nezet-Seguin: Berlioz – Salzburg.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T07:00:00+03:00",
+          "stop": "2026-10-15T08:30:00+03:00",
+          "title": "Dance. A Thousand and One Nights / Scheherazade – Fatma Said.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T08:30:00+03:00",
+          "stop": "2026-10-15T09:55:00+03:00",
+          "title": "Dance. Mauro Bigonzetti's 'The Trial' by the Czech National Ballet.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T09:55:00+03:00",
+          "stop": "2026-10-15T10:30:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T10:30:00+03:00",
+          "stop": "2026-10-15T11:30:00+03:00",
+          "title": "Jazz. Chris Potter Trio – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T11:30:00+03:00",
+          "stop": "2026-10-15T12:30:00+03:00",
+          "title": "Jazz. Billy Cobham's Time Machine – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T12:30:00+03:00",
+          "stop": "2026-10-15T13:40:00+03:00",
+          "title": "Jazz. Isaiah Collier plays Coltrane – Jazz Middelheim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T13:40:00+03:00",
+          "stop": "2026-10-15T14:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T14:00:00+03:00",
+          "stop": "2026-10-15T16:50:00+03:00",
+          "title": "Opera. Tchaikovsky: The Queen of Spades – Bayerische Staatsoper.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T16:50:00+03:00",
+          "stop": "2026-10-15T18:00:00+03:00",
+          "title": "Classical. Orchestre Philharmonique de Monte-Carlo, Gil Shaham, Fabien Gabel: Mahler, Korngold, Ravel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T18:00:00+03:00",
+          "stop": "2026-10-15T19:20:00+03:00",
+          "title": "Classical. Chamber Orchestra of Europe, Yannick Nezet-Seguin: Brahms, symphonies 3 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T19:20:00+03:00",
+          "stop": "2026-10-15T21:05:00+03:00",
+          "title": "Classical. Cleveland Orchestra, Franz Welser-Most, Simon Keenlyside – Mahler.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T21:05:00+03:00",
+          "stop": "2026-10-15T22:00:00+03:00",
+          "title": "Intermezzo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T22:00:00+03:00",
+          "stop": "2026-10-15T23:35:00+03:00",
+          "title": "Classical. Lang Lang: Faure, Schumann, Chopin – Philharmonie de Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T23:35:00+03:00",
+          "stop": "2026-10-16T01:25:00+03:00",
+          "title": "Classical. Lucas Debargue at the Philharmonie de Paris: Mozart, Chopin, Alkan.",
           "description": "L",
           "category": null
         }

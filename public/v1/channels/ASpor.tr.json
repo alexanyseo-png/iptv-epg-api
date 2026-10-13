@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-12T15:33:04.425579+00:00",
+  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-10-12",
-      "programs": [
-        {
-          "start": "2026-10-12T00:00:00+03:00",
-          "stop": "2026-10-13T00:00:00+03:00",
-          "title": "Takım Oyunu",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-13",
       "programs": [
@@ -232,6 +220,109 @@
           "start": "2026-10-14T22:00:00+03:00",
           "stop": "2026-10-15T00:00:00+03:00",
           "title": "91",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-15",
+      "programs": [
+        {
+          "start": "2026-10-15T00:00:00+03:00",
+          "stop": "2026-10-15T02:00:00+03:00",
+          "title": "Artı Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T02:00:00+03:00",
+          "stop": "2026-10-15T03:00:00+03:00",
+          "title": "91",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T03:00:00+03:00",
+          "stop": "2026-10-15T04:00:00+03:00",
+          "title": "Avrupa'da Türk Takımları",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T04:00:00+03:00",
+          "stop": "2026-10-15T05:00:00+03:00",
+          "title": "Arşiv Odası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T05:00:00+03:00",
+          "stop": "2026-10-15T07:00:00+03:00",
+          "title": "Artı Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T07:00:00+03:00",
+          "stop": "2026-10-15T08:00:00+03:00",
+          "title": "Avrupa'dan Futbol",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T08:00:00+03:00",
+          "stop": "2026-10-15T11:00:00+03:00",
+          "title": "Sabah Sporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T11:00:00+03:00",
+          "stop": "2026-10-15T14:00:00+03:00",
+          "title": "Spor Ajansı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T14:00:00+03:00",
+          "stop": "2026-10-15T15:00:00+03:00",
+          "title": "Gün Ortası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T15:00:00+03:00",
+          "stop": "2026-10-15T17:00:00+03:00",
+          "title": "Spor Gündemi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T17:00:00+03:00",
+          "stop": "2026-10-15T19:00:00+03:00",
+          "title": "Futbol: Türkiye Kupası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T19:00:00+03:00",
+          "stop": "2026-10-15T20:00:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T20:00:00+03:00",
+          "stop": "2026-10-15T22:00:00+03:00",
+          "title": "Futbol: Türkiye Kupası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-15T22:00:00+03:00",
+          "stop": "2026-10-16T00:00:00+03:00",
+          "title": "Süper Lig Analiz",
           "description": "L",
           "category": null
         }
