@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
+  "generatedAt": "2026-10-14T11:58:11.646350+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-10-13",
-      "programs": [
-        {
-          "start": "2026-10-13T00:35:00+03:00",
-          "stop": "2026-10-13T03:10:00+03:00",
-          "title": "Непослушники.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T03:10:00+03:00",
-          "stop": "2026-10-13T05:00:00+03:00",
-          "title": "Супербратья Марио.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T05:00:00+03:00",
-          "stop": "2026-10-13T06:50:00+03:00",
-          "title": "Как я стал русским.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T06:50:00+03:00",
-          "stop": "2026-10-13T08:45:00+03:00",
-          "title": "Начни сначала.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T08:45:00+03:00",
-          "stop": "2026-10-13T10:35:00+03:00",
-          "title": "Большая белая обуза.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T10:35:00+03:00",
-          "stop": "2026-10-13T12:20:00+03:00",
-          "title": "Добрый доктор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T12:20:00+03:00",
-          "stop": "2026-10-13T14:10:00+03:00",
-          "title": "Замёрзшая из Майами.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T14:10:00+03:00",
-          "stop": "2026-10-13T15:45:00+03:00",
-          "title": "Дракулов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T15:45:00+03:00",
-          "stop": "2026-10-13T17:40:00+03:00",
-          "title": "Сказка о царе Салтане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T17:40:00+03:00",
-          "stop": "2026-10-13T19:30:00+03:00",
-          "title": "Ждун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T19:30:00+03:00",
-          "stop": "2026-10-13T21:25:00+03:00",
-          "title": "Летучий корабль.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T21:25:00+03:00",
-          "stop": "2026-10-13T23:00:00+03:00",
-          "title": "Нейробатя.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T23:00:00+03:00",
-          "stop": "2026-10-14T00:55:00+03:00",
-          "title": "Козёл отпущения.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-14",
       "programs": [
@@ -295,6 +199,18 @@
           "start": "2026-10-15T22:55:00+03:00",
           "stop": "2026-10-16T00:45:00+03:00",
           "title": "Четверо против банка.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "programs": [
+        {
+          "start": "2026-10-16T00:45:00+03:00",
+          "stop": "2026-10-16T01:45:00+03:00",
+          "title": "Жмот.",
           "description": "L",
           "category": null
         }

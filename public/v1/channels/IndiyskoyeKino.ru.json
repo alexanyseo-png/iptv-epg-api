@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
+  "generatedAt": "2026-10-14T11:58:11.646350+00:00",
   "available": true,
-  "programmeCount": 25,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-10-13",
-      "programs": [
-        {
-          "start": "2026-10-13T00:45:00+03:00",
-          "stop": "2026-10-13T03:40:00+03:00",
-          "title": "Рамая, ты вернёшься.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T03:40:00+03:00",
-          "stop": "2026-10-13T06:45:00+03:00",
-          "title": "Расплата за преступление.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T06:45:00+03:00",
-          "stop": "2026-10-13T09:40:00+03:00",
-          "title": "Гонка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T09:40:00+03:00",
-          "stop": "2026-10-13T11:55:00+03:00",
-          "title": "Вспомнить всё...",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T11:55:00+03:00",
-          "stop": "2026-10-13T14:20:00+03:00",
-          "title": "Кукловод.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T14:20:00+03:00",
-          "stop": "2026-10-13T16:35:00+03:00",
-          "title": "Доктор Г.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T16:35:00+03:00",
-          "stop": "2026-10-13T20:00:00+03:00",
-          "title": "Каран и Арджун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T20:00:00+03:00",
-          "stop": "2026-10-13T23:35:00+03:00",
-          "title": "Обманутые надежды.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T23:35:00+03:00",
-          "stop": "2026-10-14T02:05:00+03:00",
-          "title": "Бхола.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-14",
       "programs": [
@@ -197,6 +129,18 @@
           "start": "2026-10-15T22:35:00+03:00",
           "stop": "2026-10-16T01:35:00+03:00",
           "title": "Приди, любовь моя.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "programs": [
+        {
+          "start": "2026-10-16T01:35:00+03:00",
+          "stop": "2026-10-16T02:35:00+03:00",
+          "title": "Кукловод.",
           "description": "L",
           "category": null
         }

@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-13T14:16:30.090459+00:00",
+  "generatedAt": "2026-10-14T11:58:11.646350+00:00",
   "available": true,
-  "programmeCount": 45,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-10-13",
-      "programs": [
-        {
-          "start": "2026-10-13T00:20:00+03:00",
-          "stop": "2026-10-13T02:00:00+03:00",
-          "title": "Огниво.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T02:00:00+03:00",
-          "stop": "2026-10-13T04:00:00+03:00",
-          "title": "Златовласка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T04:00:00+03:00",
-          "stop": "2026-10-13T05:50:00+03:00",
-          "title": "По щучьему велению.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T05:50:00+03:00",
-          "stop": "2026-10-13T07:05:00+03:00",
-          "title": "Маша и Медведи.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T07:05:00+03:00",
-          "stop": "2026-10-13T08:40:00+03:00",
-          "title": "Влюблённый наследник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T08:40:00+03:00",
-          "stop": "2026-10-13T10:20:00+03:00",
-          "title": "Ангелы Ладоги.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T10:20:00+03:00",
-          "stop": "2026-10-13T11:55:00+03:00",
-          "title": "Красавица.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T11:55:00+03:00",
-          "stop": "2026-10-13T13:25:00+03:00",
-          "title": "Сент-Экзюпери.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T13:25:00+03:00",
-          "stop": "2026-10-13T14:50:00+03:00",
-          "title": "Стрела возмездия.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T14:50:00+03:00",
-          "stop": "2026-10-13T17:50:00+03:00",
-          "title": "Сломанная стрела.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T17:50:00+03:00",
-          "stop": "2026-10-13T19:50:00+03:00",
-          "title": "Уцелевший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T19:50:00+03:00",
-          "stop": "2026-10-13T21:00:00+03:00",
-          "title": "Бездна страха.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T21:00:00+03:00",
-          "stop": "2026-10-13T22:25:00+03:00",
-          "title": "Из глубины.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T22:25:00+03:00",
-          "stop": "2026-10-13T23:55:00+03:00",
-          "title": "Опасные воды.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-13T23:55:00+03:00",
-          "stop": "2026-10-14T01:20:00+03:00",
-          "title": "Наводнение.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-14",
       "programs": [
@@ -337,6 +227,18 @@
           "start": "2026-10-15T23:55:00+03:00",
           "stop": "2026-10-16T01:40:00+03:00",
           "title": "Теория простых чисел.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "programs": [
+        {
+          "start": "2026-10-16T01:40:00+03:00",
+          "stop": "2026-10-16T02:40:00+03:00",
+          "title": "Сломанная стрела.",
           "description": "L",
           "category": null
         }
