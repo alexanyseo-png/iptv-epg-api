@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-15T11:34:32.811105+00:00",
+  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-10-15",
-      "programs": [
-        {
-          "start": "2026-10-15T01:05:00+03:00",
-          "stop": "2026-10-15T02:45:00+03:00",
-          "title": "х/ф Сестренка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T02:45:00+03:00",
-          "stop": "2026-10-15T04:20:00+03:00",
-          "title": "х/ф Два Федора",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T04:20:00+03:00",
-          "stop": "2026-10-15T05:20:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:20:00+03:00",
-          "stop": "2026-10-15T07:00:00+03:00",
-          "title": "х/ф Живи и помни",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T07:00:00+03:00",
-          "stop": "2026-10-15T09:50:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T09:50:00+03:00",
-          "stop": "2026-10-15T13:40:00+03:00",
-          "title": "т/с Военная разведка. Первый удар",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T13:40:00+03:00",
-          "stop": "2026-10-15T23:40:00+03:00",
-          "title": "т/с Черные кошки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T23:40:00+03:00",
-          "stop": "2026-10-16T01:20:00+03:00",
-          "title": "х/ф Воры в законе",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programs": [
@@ -218,6 +157,46 @@
           "start": "2026-10-17T23:20:00+03:00",
           "stop": "2026-10-18T01:00:00+03:00",
           "title": "х/ф Танки",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programs": [
+        {
+          "start": "2026-10-18T01:00:00+03:00",
+          "stop": "2026-10-18T02:40:00+03:00",
+          "title": "х/ф Кукушка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T02:40:00+03:00",
+          "stop": "2026-10-18T05:00:00+03:00",
+          "title": "т/с СМЕРШ",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T05:00:00+03:00",
+          "stop": "2026-10-18T07:00:00+03:00",
+          "title": "х/ф Ржев",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T07:00:00+03:00",
+          "stop": "2026-10-18T14:30:00+03:00",
+          "title": "т/с Мятеж",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T14:30:00+03:00",
+          "stop": "2026-10-18T15:30:00+03:00",
+          "title": "т/с Подкидыш",
           "description": "L",
           "category": null
         }

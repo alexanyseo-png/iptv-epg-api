@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-15T11:34:32.811105+00:00",
+  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-10-15",
-      "programs": [
-        {
-          "start": "2026-10-15T00:00:00+03:00",
-          "stop": "2026-10-15T00:15:00+03:00",
-          "title": "Remembers... \"Janet Suzman The Singing Detective\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T00:15:00+03:00",
-          "stop": "2026-10-15T01:25:00+03:00",
-          "title": "The Singing Detective. \"Skin\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T01:25:00+03:00",
-          "stop": "2026-10-15T02:35:00+03:00",
-          "title": "The Singing Detective. \"Heat\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T02:35:00+03:00",
-          "stop": "2026-10-15T03:05:00+03:00",
-          "title": "Secrets of Bones.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T03:05:00+03:00",
-          "stop": "2026-10-15T03:35:00+03:00",
-          "title": "Timothy Spall: Back at Sea. \"Scotch Mist\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T03:35:00+03:00",
-          "stop": "2026-10-15T04:35:00+03:00",
-          "title": "Timeshift.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T04:35:00+03:00",
-          "stop": "2026-10-15T05:35:00+03:00",
-          "title": "The Planets.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:35:00+03:00",
-          "stop": "2026-10-15T21:00:00+03:00",
-          "title": "Close.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T21:00:00+03:00",
-          "stop": "2026-10-15T21:30:00+03:00",
-          "title": "Secrets of Bones.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T21:30:00+03:00",
-          "stop": "2026-10-15T22:00:00+03:00",
-          "title": "Gareth Edwards's Great Welsh Adventure. \"Machynlleth\".",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T22:00:00+03:00",
-          "stop": "2026-10-16T00:45:00+03:00",
-          "title": "The Great Escape.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programs": [
@@ -260,6 +178,81 @@
           "start": "2026-10-17T23:45:00+03:00",
           "stop": "2026-10-18T01:15:00+03:00",
           "title": "TBA.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programs": [
+        {
+          "start": "2026-10-18T01:15:00+03:00",
+          "stop": "2026-10-18T01:45:00+03:00",
+          "title": "To the Manor Born.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T01:45:00+03:00",
+          "stop": "2026-10-18T02:15:00+03:00",
+          "title": "Keeping Up Appearances.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T02:15:00+03:00",
+          "stop": "2026-10-18T02:45:00+03:00",
+          "title": "City Lights.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T02:45:00+03:00",
+          "stop": "2026-10-18T03:45:00+03:00",
+          "title": "The Unnatural History of London: Natural World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T03:45:00+03:00",
+          "stop": "2026-10-18T04:35:00+03:00",
+          "title": "Full Circle with Michael Palin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T04:35:00+03:00",
+          "stop": "2026-10-18T05:20:00+03:00",
+          "title": "TBA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T05:20:00+03:00",
+          "stop": "2026-10-18T21:00:00+03:00",
+          "title": "Close.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T21:00:00+03:00",
+          "stop": "2026-10-18T21:30:00+03:00",
+          "title": "A Stitch in Time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T21:30:00+03:00",
+          "stop": "2026-10-18T23:00:00+03:00",
+          "title": "BBC Young Musician Quarter-final.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T23:00:00+03:00",
+          "stop": "2026-10-19T00:00:00+03:00",
+          "title": "Shakespeare: Rise of a Genius.",
           "description": "L",
           "category": null
         }

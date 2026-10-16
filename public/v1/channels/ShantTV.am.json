@@ -8,267 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-15T11:34:32.811105+00:00",
+  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
   "available": true,
-  "programmeCount": 104,
+  "programmeCount": 87,
   "days": [
-    {
-      "date": "2026-10-15",
-      "programs": [
-        {
-          "start": "2026-10-15T00:30:00+03:00",
-          "stop": "2026-10-15T01:15:00+03:00",
-          "title": "Вельвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T01:15:00+03:00",
-          "stop": "2026-10-15T02:20:00+03:00",
-          "title": "В один прекрасный день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T02:20:00+03:00",
-          "stop": "2026-10-15T02:50:00+03:00",
-          "title": "Горизонт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T02:50:00+03:00",
-          "stop": "2026-10-15T03:10:00+03:00",
-          "title": "Автопарад.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T03:10:00+03:00",
-          "stop": "2026-10-15T03:35:00+03:00",
-          "title": "Աշխարհի հայեր.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T03:35:00+03:00",
-          "stop": "2026-10-15T04:20:00+03:00",
-          "title": "В городе.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T04:20:00+03:00",
-          "stop": "2026-10-15T05:00:00+03:00",
-          "title": "По жизненным путям.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:00:00+03:00",
-          "stop": "2026-10-15T05:30:00+03:00",
-          "title": "Автопарад.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:30:00+03:00",
-          "stop": "2026-10-15T06:05:00+03:00",
-          "title": "В один прекрасный день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T06:05:00+03:00",
-          "stop": "2026-10-15T06:50:00+03:00",
-          "title": "Вельвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T06:50:00+03:00",
-          "stop": "2026-10-15T07:35:00+03:00",
-          "title": "Отряд Хваран.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T07:35:00+03:00",
-          "stop": "2026-10-15T08:10:00+03:00",
-          "title": "МедИнфо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T08:10:00+03:00",
-          "stop": "2026-10-15T08:30:00+03:00",
-          "title": "Могучие рейнджеры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T08:30:00+03:00",
-          "stop": "2026-10-15T09:15:00+03:00",
-          "title": "Узел любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T09:15:00+03:00",
-          "stop": "2026-10-15T11:00:00+03:00",
-          "title": "Утро на Шанте.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T11:00:00+03:00",
-          "stop": "2026-10-15T11:20:00+03:00",
-          "title": "Горизонт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T11:20:00+03:00",
-          "stop": "2026-10-15T12:00:00+03:00",
-          "title": "В один прекрасный день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T12:00:00+03:00",
-          "stop": "2026-10-15T12:50:00+03:00",
-          "title": "Вельвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T12:50:00+03:00",
-          "stop": "2026-10-15T13:35:00+03:00",
-          "title": "В городе.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T13:35:00+03:00",
-          "stop": "2026-10-15T14:00:00+03:00",
-          "title": "Могучие рейнджеры.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T14:00:00+03:00",
-          "stop": "2026-10-15T14:20:00+03:00",
-          "title": "Горизонт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T14:20:00+03:00",
-          "stop": "2026-10-15T15:20:00+03:00",
-          "title": "МедИнфо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T15:20:00+03:00",
-          "stop": "2026-10-15T16:10:00+03:00",
-          "title": "Vitamin club.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T16:10:00+03:00",
-          "stop": "2026-10-15T17:00:00+03:00",
-          "title": "Узел любви.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T17:00:00+03:00",
-          "stop": "2026-10-15T17:20:00+03:00",
-          "title": "Горизонт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T17:20:00+03:00",
-          "stop": "2026-10-15T18:10:00+03:00",
-          "title": "Сладкая суббота, вкусное воскресенье.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T18:10:00+03:00",
-          "stop": "2026-10-15T19:00:00+03:00",
-          "title": "Вельвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T19:00:00+03:00",
-          "stop": "2026-10-15T19:30:00+03:00",
-          "title": "Горизонт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T19:30:00+03:00",
-          "stop": "2026-10-15T20:20:00+03:00",
-          "title": "В один прекрасный день.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T20:20:00+03:00",
-          "stop": "2026-10-15T21:00:00+03:00",
-          "title": "Womens club.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T21:00:00+03:00",
-          "stop": "2026-10-15T21:50:00+03:00",
-          "title": "Горизонт (Главный выпуск новостей).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T21:50:00+03:00",
-          "stop": "2026-10-15T22:05:00+03:00",
-          "title": "Подкаст.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T22:05:00+03:00",
-          "stop": "2026-10-15T22:30:00+03:00",
-          "title": "TV Travel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T22:30:00+03:00",
-          "stop": "2026-10-15T23:10:00+03:00",
-          "title": "По жизненным путям.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T23:10:00+03:00",
-          "stop": "2026-10-15T23:50:00+03:00",
-          "title": "В городе.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T23:50:00+03:00",
-          "stop": "2026-10-16T00:25:00+03:00",
-          "title": "Сладкая суббота, вкусное воскресенье.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programs": [
@@ -750,6 +493,144 @@
           "start": "2026-10-17T23:25:00+03:00",
           "stop": "2026-10-18T00:20:00+03:00",
           "title": "HD Stand up.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programs": [
+        {
+          "start": "2026-10-18T00:20:00+03:00",
+          "stop": "2026-10-18T00:45:00+03:00",
+          "title": "Աշխարհի հայեր.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T00:45:00+03:00",
+          "stop": "2026-10-18T01:10:00+03:00",
+          "title": "TV Travel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T01:10:00+03:00",
+          "stop": "2026-10-18T01:50:00+03:00",
+          "title": "Горизонт.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T01:50:00+03:00",
+          "stop": "2026-10-18T05:00:00+03:00",
+          "title": "В городе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T05:00:00+03:00",
+          "stop": "2026-10-18T07:00:00+03:00",
+          "title": "В один прекрасный день.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T07:00:00+03:00",
+          "stop": "2026-10-18T09:10:00+03:00",
+          "title": "Вельвет.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T09:10:00+03:00",
+          "stop": "2026-10-18T09:40:00+03:00",
+          "title": "HD Stand up.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T09:40:00+03:00",
+          "stop": "2026-10-18T10:25:00+03:00",
+          "title": "Сладкая суббота, вкусное воскресенье.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T10:25:00+03:00",
+          "stop": "2026-10-18T12:25:00+03:00",
+          "title": "X Factor Kids.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T12:25:00+03:00",
+          "stop": "2026-10-18T13:20:00+03:00",
+          "title": "МедИнфо.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T13:20:00+03:00",
+          "stop": "2026-10-18T14:00:00+03:00",
+          "title": "Автопарад.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T14:00:00+03:00",
+          "stop": "2026-10-18T15:00:00+03:00",
+          "title": "Womens club.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T15:00:00+03:00",
+          "stop": "2026-10-18T16:20:00+03:00",
+          "title": "Могучие рейнджеры.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T16:20:00+03:00",
+          "stop": "2026-10-18T17:40:00+03:00",
+          "title": "В городе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T17:40:00+03:00",
+          "stop": "2026-10-18T18:10:00+03:00",
+          "title": "HD Stand up.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T18:10:00+03:00",
+          "stop": "2026-10-18T19:00:00+03:00",
+          "title": "Сладкая суббота, вкусное воскресенье.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T19:00:00+03:00",
+          "stop": "2026-10-18T21:00:00+03:00",
+          "title": "X Factor Kids.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T21:00:00+03:00",
+          "stop": "2026-10-18T22:55:00+03:00",
+          "title": "Вечер на Шанте.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T22:55:00+03:00",
+          "stop": "2026-10-18T23:55:00+03:00",
+          "title": "Womens club.",
           "description": "L",
           "category": null
         }

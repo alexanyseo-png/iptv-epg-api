@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-15T11:34:32.811105+00:00",
+  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-10-15",
-      "programs": [
-        {
-          "start": "2026-10-15T00:55:00+03:00",
-          "stop": "2026-10-15T02:20:00+03:00",
-          "title": "х/ф Юра дворник",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T02:20:00+03:00",
-          "stop": "2026-10-15T03:50:00+03:00",
-          "title": "х/ф Карп отмороженный",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T03:50:00+03:00",
-          "stop": "2026-10-15T05:20:00+03:00",
-          "title": "х/ф Девушка с косой",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:20:00+03:00",
-          "stop": "2026-10-15T07:10:00+03:00",
-          "title": "х/ф Молодой человек",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T07:10:00+03:00",
-          "stop": "2026-10-15T08:45:00+03:00",
-          "title": "х/ф Успех",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T08:45:00+03:00",
-          "stop": "2026-10-15T10:15:00+03:00",
-          "title": "х/ф На крючке",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T10:15:00+03:00",
-          "stop": "2026-10-15T11:55:00+03:00",
-          "title": "х/ф Горько!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T11:55:00+03:00",
-          "stop": "2026-10-15T13:35:00+03:00",
-          "title": "х/ф Горько! 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T13:35:00+03:00",
-          "stop": "2026-10-15T15:00:00+03:00",
-          "title": "х/ф Батя",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T15:00:00+03:00",
-          "stop": "2026-10-15T19:00:00+03:00",
-          "title": "т/с Чужая кровь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T19:00:00+03:00",
-          "stop": "2026-10-15T22:45:00+03:00",
-          "title": "т/с Заступники",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T22:45:00+03:00",
-          "stop": "2026-10-16T00:50:00+03:00",
-          "title": "х/ф Плагиатор",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programs": [
@@ -309,6 +220,60 @@
           "start": "2026-10-17T22:40:00+03:00",
           "stop": "2026-10-18T00:30:00+03:00",
           "title": "т/с Черная молния",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programs": [
+        {
+          "start": "2026-10-18T00:30:00+03:00",
+          "stop": "2026-10-18T01:45:00+03:00",
+          "title": "х/ф Брат во всем",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T01:45:00+03:00",
+          "stop": "2026-10-18T03:20:00+03:00",
+          "title": "т/с Человек ниоткуда",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T03:20:00+03:00",
+          "stop": "2026-10-18T04:55:00+03:00",
+          "title": "х/ф Чемпионы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T04:55:00+03:00",
+          "stop": "2026-10-18T06:10:00+03:00",
+          "title": "х/ф Лавстори",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T06:10:00+03:00",
+          "stop": "2026-10-18T07:30:00+03:00",
+          "title": "х/ф Блокбастер",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T07:30:00+03:00",
+          "stop": "2026-10-18T10:00:00+03:00",
+          "title": "х/ф Тренер",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T10:00:00+03:00",
+          "stop": "2026-10-18T11:00:00+03:00",
+          "title": "т/с Триггер. 2 с.",
           "description": "L",
           "category": null
         }

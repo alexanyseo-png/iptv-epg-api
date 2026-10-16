@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-15T11:34:32.811105+00:00",
+  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
   "available": true,
-  "programmeCount": 18,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-10-15",
-      "programs": [
-        {
-          "start": "2026-10-15T01:00:00+03:00",
-          "stop": "2026-10-15T05:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T05:00:00+03:00",
-          "stop": "2026-10-15T09:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T09:00:00+03:00",
-          "stop": "2026-10-15T13:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T13:00:00+03:00",
-          "stop": "2026-10-15T17:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T17:00:00+03:00",
-          "stop": "2026-10-15T21:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-15T21:00:00+03:00",
-          "stop": "2026-10-16T01:00:00+03:00",
-          "title": "Real Madrid TV",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-16",
       "programs": [
@@ -148,6 +101,109 @@
           "start": "2026-10-17T21:00:00+03:00",
           "stop": "2026-10-18T01:00:00+03:00",
           "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "programs": [
+        {
+          "start": "2026-10-18T01:00:00+03:00",
+          "stop": "2026-10-18T05:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T05:00:00+03:00",
+          "stop": "2026-10-18T07:00:00+03:00",
+          "title": "Real Madrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T07:00:00+03:00",
+          "stop": "2026-10-18T09:00:00+03:00",
+          "title": "Historia que tú hiciste: La Decimocuarta. Final Champions League 2022. Liverpool – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T09:00:00+03:00",
+          "stop": "2026-10-18T09:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T09:15:00+03:00",
+          "stop": "2026-10-18T10:45:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T10:45:00+03:00",
+          "stop": "2026-10-18T11:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T11:00:00+03:00",
+          "stop": "2026-10-18T12:25:00+03:00",
+          "title": "La cantera (T26/27): RM Infantil A – Periso",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T12:25:00+03:00",
+          "stop": "2026-10-18T14:30:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T14:30:00+03:00",
+          "stop": "2026-10-18T16:20:00+03:00",
+          "title": "La cantera (T26/27): Rivas – RM Juvenil B",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T16:20:00+03:00",
+          "stop": "2026-10-18T16:40:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T16:40:00+03:00",
+          "stop": "2026-10-18T18:15:00+03:00",
+          "title": "Shanghai Surprise",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T18:15:00+03:00",
+          "stop": "2026-10-18T22:15:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T22:15:00+03:00",
+          "stop": "2026-10-18T22:45:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-18T22:45:00+03:00",
+          "stop": "2026-10-19T01:25:00+03:00",
+          "title": "Nacido el cuatro de julio",
           "description": "L",
           "category": null
         }
