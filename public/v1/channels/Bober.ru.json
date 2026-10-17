@@ -8,127 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
+  "generatedAt": "2026-10-17T10:49:22.514803+00:00",
   "available": true,
-  "programmeCount": 51,
+  "programmeCount": 41,
   "days": [
-    {
-      "date": "2026-10-16",
-      "programs": [
-        {
-          "start": "2026-10-16T02:30:00+03:00",
-          "stop": "2026-10-16T06:30:00+03:00",
-          "title": "Фазенда",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T06:30:00+03:00",
-          "stop": "2026-10-16T06:45:00+03:00",
-          "title": "Бобер на час",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T06:45:00+03:00",
-          "stop": "2026-10-16T07:15:00+03:00",
-          "title": "Дачные феи (Кулинарные истории)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T07:15:00+03:00",
-          "stop": "2026-10-16T09:00:00+03:00",
-          "title": "Дачные феи",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T09:00:00+03:00",
-          "stop": "2026-10-16T10:05:00+03:00",
-          "title": "Строим дом",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T10:05:00+03:00",
-          "stop": "2026-10-16T10:30:00+03:00",
-          "title": "Цветок и нож",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T10:30:00+03:00",
-          "stop": "2026-10-16T13:15:00+03:00",
-          "title": "Фазенда",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T13:15:00+03:00",
-          "stop": "2026-10-16T14:15:00+03:00",
-          "title": "День перемен",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T14:15:00+03:00",
-          "stop": "2026-10-16T16:20:00+03:00",
-          "title": "Ура Бобру!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T16:20:00+03:00",
-          "stop": "2026-10-16T17:20:00+03:00",
-          "title": "Строим дом: квартира холостяка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T17:20:00+03:00",
-          "stop": "2026-10-16T18:05:00+03:00",
-          "title": "ПроУют",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T18:05:00+03:00",
-          "stop": "2026-10-16T18:50:00+03:00",
-          "title": "ПроУют",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T18:50:00+03:00",
-          "stop": "2026-10-16T21:00:00+03:00",
-          "title": "День перемен",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T21:00:00+03:00",
-          "stop": "2026-10-16T21:30:00+03:00",
-          "title": "Бобер.клуб. Видеодневник",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T21:30:00+03:00",
-          "stop": "2026-10-16T22:30:00+03:00",
-          "title": "Цветок и нож",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T22:30:00+03:00",
-          "stop": "2026-10-17T02:30:00+03:00",
-          "title": "Фазенда",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-17",
       "programs": [
@@ -377,8 +260,55 @@
         },
         {
           "start": "2026-10-18T23:45:00+03:00",
-          "stop": "2026-10-19T00:45:00+03:00",
+          "stop": "2026-10-19T02:35:00+03:00",
           "title": "Лапки-шоу",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "programs": [
+        {
+          "start": "2026-10-19T02:35:00+03:00",
+          "stop": "2026-10-19T06:30:00+03:00",
+          "title": "ПроУют",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T06:30:00+03:00",
+          "stop": "2026-10-19T06:45:00+03:00",
+          "title": "Мастер-класс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T06:45:00+03:00",
+          "stop": "2026-10-19T07:15:00+03:00",
+          "title": "Дачные феи (Кулинарные истории)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T07:15:00+03:00",
+          "stop": "2026-10-19T09:00:00+03:00",
+          "title": "Дачные феи",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T09:00:00+03:00",
+          "stop": "2026-10-19T10:00:00+03:00",
+          "title": "Строим дом: новые приключения!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T10:00:00+03:00",
+          "stop": "2026-10-19T12:30:00+03:00",
+          "title": "Фазенда",
           "description": "L",
           "category": null
         }

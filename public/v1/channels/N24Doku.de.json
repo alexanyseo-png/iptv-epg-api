@@ -8,302 +8,80 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-16T11:29:02.502398+00:00",
+  "generatedAt": "2026-10-17T10:49:22.514803+00:00",
   "available": true,
-  "programmeCount": 94,
+  "programmeCount": 93,
   "days": [
-    {
-      "date": "2026-10-16",
-      "programs": [
-        {
-          "start": "2026-10-16T00:05:00+03:00",
-          "stop": "2026-10-16T01:00:00+03:00",
-          "title": "Lost Places: Folge 127. S: 14 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T01:00:00+03:00",
-          "stop": "2026-10-16T01:50:00+03:00",
-          "title": "Lost Places: Folge 128. S: 14 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T01:50:00+03:00",
-          "stop": "2026-10-16T02:20:00+03:00",
-          "title": "Lost Places. S: 8 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T02:20:00+03:00",
-          "stop": "2026-10-16T02:50:00+03:00",
-          "title": "Lost Places. S: 9 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T02:50:00+03:00",
-          "stop": "2026-10-16T03:35:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T03:35:00+03:00",
-          "stop": "2026-10-16T04:05:00+03:00",
-          "title": "Mayday - Alarm im Cockpit. S: 23 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T04:05:00+03:00",
-          "stop": "2026-10-16T04:35:00+03:00",
-          "title": "Mayday. S: 22 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T04:35:00+03:00",
-          "stop": "2026-10-16T05:05:00+03:00",
-          "title": "Mayday. S: 19 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T05:05:00+03:00",
-          "stop": "2026-10-16T05:50:00+03:00",
-          "title": "Lost Places: Folge 127. S: 14 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T05:50:00+03:00",
-          "stop": "2026-10-16T06:30:00+03:00",
-          "title": "Lost Places: Folge 128. S: 14 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T06:30:00+03:00",
-          "stop": "2026-10-16T07:15:00+03:00",
-          "title": "Lost Places. S: 8 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T07:15:00+03:00",
-          "stop": "2026-10-16T08:00:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T08:00:00+03:00",
-          "stop": "2026-10-16T08:30:00+03:00",
-          "title": "Border Patrol Neuseeland. S: 11 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T08:30:00+03:00",
-          "stop": "2026-10-16T09:00:00+03:00",
-          "title": "Border Patrol Neuseeland. S: 11 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T09:00:00+03:00",
-          "stop": "2026-10-16T09:25:00+03:00",
-          "title": "Border Patrol Neuseeland. S: 11 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T09:25:00+03:00",
-          "stop": "2026-10-16T09:55:00+03:00",
-          "title": "Border Patrol Neuseeland. S: 11 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T09:55:00+03:00",
-          "stop": "2026-10-16T10:50:00+03:00",
-          "title": "Mayday. S: 19 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T10:50:00+03:00",
-          "stop": "2026-10-16T11:30:00+03:00",
-          "title": "Mayday - Alarm im Cockpit. S: 23 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T11:30:00+03:00",
-          "stop": "2026-10-16T12:20:00+03:00",
-          "title": "Mayday. S: 22 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T12:20:00+03:00",
-          "stop": "2026-10-16T13:15:00+03:00",
-          "title": "Lost Places: Folge 127. S: 14 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T13:15:00+03:00",
-          "stop": "2026-10-16T14:10:00+03:00",
-          "title": "Lost Places: Folge 128. S: 14 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T14:10:00+03:00",
-          "stop": "2026-10-16T15:00:00+03:00",
-          "title": "Lost Places. S: 8 / Ep: 12.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T15:00:00+03:00",
-          "stop": "2026-10-16T15:55:00+03:00",
-          "title": "Lost Places. S: 10 / Ep: 8.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T15:55:00+03:00",
-          "stop": "2026-10-16T16:50:00+03:00",
-          "title": "Deutschlands Millionäre - Dem Reichtum auf der Spur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T16:50:00+03:00",
-          "stop": "2026-10-16T17:45:00+03:00",
-          "title": "Die Edelmanufakturen - Unikate aus Handarbeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T17:45:00+03:00",
-          "stop": "2026-10-16T18:40:00+03:00",
-          "title": "Meisterwerke am Handgelenk - Kunst und Kult der Luxusuhren.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T18:40:00+03:00",
-          "stop": "2026-10-16T19:30:00+03:00",
-          "title": "Luxuslimousinen aus der Hightech-Fabrik.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T19:30:00+03:00",
-          "stop": "2026-10-16T20:15:00+03:00",
-          "title": "Dream Cars.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T20:15:00+03:00",
-          "stop": "2026-10-16T21:15:00+03:00",
-          "title": "Dream Cars.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T21:15:00+03:00",
-          "stop": "2026-10-16T22:10:00+03:00",
-          "title": "Der neue Zeppelin - Rückkehr einer Legende.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T22:10:00+03:00",
-          "stop": "2026-10-16T23:05:00+03:00",
-          "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 3. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-16T23:05:00+03:00",
-          "stop": "2026-10-17T00:05:00+03:00",
-          "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 4. S: 1 / Ep: 4.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-17",
       "programs": [
         {
           "start": "2026-10-17T00:05:00+03:00",
-          "stop": "2026-10-17T01:05:00+03:00",
+          "stop": "2026-10-17T01:00:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 5. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T01:05:00+03:00",
-          "stop": "2026-10-17T02:00:00+03:00",
+          "start": "2026-10-17T01:00:00+03:00",
+          "stop": "2026-10-17T01:55:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 6. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T02:00:00+03:00",
-          "stop": "2026-10-17T02:45:00+03:00",
+          "start": "2026-10-17T01:55:00+03:00",
+          "stop": "2026-10-17T02:35:00+03:00",
           "title": "Abgefahren - Die spektakulärsten Dashcam Clips (1.5). S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T02:45:00+03:00",
-          "stop": "2026-10-17T03:30:00+03:00",
+          "start": "2026-10-17T02:35:00+03:00",
+          "stop": "2026-10-17T03:20:00+03:00",
           "title": "Abgefahren - Die spektakulärsten Dashcam Clips (1.6). S: 2 / Ep: 4.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T03:30:00+03:00",
-          "stop": "2026-10-17T04:10:00+03:00",
+          "start": "2026-10-17T03:20:00+03:00",
+          "stop": "2026-10-17T04:00:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 3. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T04:10:00+03:00",
-          "stop": "2026-10-17T04:55:00+03:00",
+          "start": "2026-10-17T04:00:00+03:00",
+          "stop": "2026-10-17T04:45:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 4. S: 1 / Ep: 4.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T04:55:00+03:00",
-          "stop": "2026-10-17T05:40:00+03:00",
+          "start": "2026-10-17T04:45:00+03:00",
+          "stop": "2026-10-17T05:30:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 5. S: 1 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T05:40:00+03:00",
-          "stop": "2026-10-17T06:30:00+03:00",
+          "start": "2026-10-17T05:30:00+03:00",
+          "stop": "2026-10-17T06:15:00+03:00",
           "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 6. S: 1 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T06:30:00+03:00",
+          "start": "2026-10-17T06:15:00+03:00",
+          "stop": "2026-10-17T06:45:00+03:00",
+          "title": "Was wirklich geschah - Folge 2. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-17T06:45:00+03:00",
           "stop": "2026-10-17T07:15:00+03:00",
-          "title": "Was wirklich geschah - Folge 5. S: 1 / Ep: 3.",
+          "title": "Was wirklich geschah. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
@@ -316,15 +94,15 @@
         },
         {
           "start": "2026-10-17T08:05:00+03:00",
-          "stop": "2026-10-17T09:00:00+03:00",
-          "title": "Lost Places. S: 9 / Ep: 9.",
+          "stop": "2026-10-17T08:55:00+03:00",
+          "title": "Lost Places - Folge 87. S: 9 / Ep: 9.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T09:00:00+03:00",
+          "start": "2026-10-17T08:55:00+03:00",
           "stop": "2026-10-17T09:50:00+03:00",
-          "title": "Lost Places - Folge 84. S: 9 / Ep: 6.",
+          "title": "Lost Places. S: 9 / Ep: 6.",
           "description": "L",
           "category": null
         },
@@ -351,34 +129,34 @@
         },
         {
           "start": "2026-10-17T12:20:00+03:00",
-          "stop": "2026-10-17T13:15:00+03:00",
+          "stop": "2026-10-17T13:10:00+03:00",
           "title": "Der Luxus-Camper - Freiheit auf Rädern.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T13:15:00+03:00",
-          "stop": "2026-10-17T14:10:00+03:00",
+          "start": "2026-10-17T13:10:00+03:00",
+          "stop": "2026-10-17T14:05:00+03:00",
           "title": "Urlaubsspaß de luxe - Ein Ferienpark entsteht.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T14:10:00+03:00",
-          "stop": "2026-10-17T15:05:00+03:00",
+          "start": "2026-10-17T14:05:00+03:00",
+          "stop": "2026-10-17T15:00:00+03:00",
           "title": "Nur die Harten kommen in den Garten - Hightech-Gartengeräte.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T15:05:00+03:00",
-          "stop": "2026-10-17T16:00:00+03:00",
+          "start": "2026-10-17T15:00:00+03:00",
+          "stop": "2026-10-17T15:55:00+03:00",
           "title": "Der Traum vom eigenen Pool - Vom Eigenbau bis zum Luxus-Schwimmbad.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T16:00:00+03:00",
+          "start": "2026-10-17T15:55:00+03:00",
           "stop": "2026-10-17T16:50:00+03:00",
           "title": "Fertighäuser - Vom Baum zum Eigenheim.",
           "description": "L",
@@ -386,13 +164,13 @@
         },
         {
           "start": "2026-10-17T16:50:00+03:00",
-          "stop": "2026-10-17T17:20:00+03:00",
+          "stop": "2026-10-17T17:15:00+03:00",
           "title": "Border Patrol Neuseeland. S: 11 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-17T17:20:00+03:00",
+          "start": "2026-10-17T17:15:00+03:00",
           "stop": "2026-10-17T17:45:00+03:00",
           "title": "Border Patrol Neuseeland. S: 11 / Ep: 6.",
           "description": "L",
@@ -468,27 +246,27 @@
       "programs": [
         {
           "start": "2026-10-18T00:05:00+03:00",
-          "stop": "2026-10-18T01:05:00+03:00",
+          "stop": "2026-10-18T01:10:00+03:00",
           "title": "Power auf Achsen - Der Schwerlast-Selbstfahrer.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T01:05:00+03:00",
-          "stop": "2026-10-18T01:55:00+03:00",
+          "start": "2026-10-18T01:10:00+03:00",
+          "stop": "2026-10-18T02:05:00+03:00",
           "title": "PS-Riesen im Einsatz - Landmaschinen.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T01:55:00+03:00",
-          "stop": "2026-10-18T02:40:00+03:00",
+          "start": "2026-10-18T02:05:00+03:00",
+          "stop": "2026-10-18T02:45:00+03:00",
           "title": "Vom Passagierjet zum Cargo-Flieger.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T02:40:00+03:00",
+          "start": "2026-10-18T02:45:00+03:00",
           "stop": "2026-10-18T03:25:00+03:00",
           "title": "Landen, Löschen, Laden - Cargo-Drehkreuz Leipzig.",
           "description": "L",
@@ -496,20 +274,20 @@
         },
         {
           "start": "2026-10-18T03:25:00+03:00",
-          "stop": "2026-10-18T04:10:00+03:00",
+          "stop": "2026-10-18T04:15:00+03:00",
           "title": "Burger-Alarm - Der Siegeszug des Hamburgers.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T04:10:00+03:00",
-          "stop": "2026-10-18T04:50:00+03:00",
+          "start": "2026-10-18T04:15:00+03:00",
+          "stop": "2026-10-18T05:05:00+03:00",
           "title": "Besser als das Original - Ford Mustang Restaurierung.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T04:50:00+03:00",
+          "start": "2026-10-18T05:05:00+03:00",
           "stop": "2026-10-18T05:45:00+03:00",
           "title": "Power auf Achsen - Der Schwerlast-Selbstfahrer.",
           "description": "L",
@@ -517,13 +295,13 @@
         },
         {
           "start": "2026-10-18T05:45:00+03:00",
-          "stop": "2026-10-18T06:35:00+03:00",
+          "stop": "2026-10-18T06:30:00+03:00",
           "title": "PS-Riesen im Einsatz - Landmaschinen.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T06:35:00+03:00",
+          "start": "2026-10-18T06:30:00+03:00",
           "stop": "2026-10-18T07:15:00+03:00",
           "title": "Vom Passagierjet zum Cargo-Flieger.",
           "description": "L",
@@ -680,6 +458,221 @@
           "start": "2026-10-18T23:05:00+03:00",
           "stop": "2026-10-19T00:05:00+03:00",
           "title": "Lost Places - Folge 76. S: 8 / Ep: 10.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-19",
+      "programs": [
+        {
+          "start": "2026-10-19T00:05:00+03:00",
+          "stop": "2026-10-19T01:05:00+03:00",
+          "title": "Hitlers Krieg im Osten - 1941-1943 (1).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T01:05:00+03:00",
+          "stop": "2026-10-19T01:55:00+03:00",
+          "title": "Hitlers Krieg im Osten - 1941-1943 (2).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T01:55:00+03:00",
+          "stop": "2026-10-19T02:40:00+03:00",
+          "title": "Geheime Nazi-Expeditionen. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T02:40:00+03:00",
+          "stop": "2026-10-19T03:25:00+03:00",
+          "title": "Geheime Nazi-Expeditionen. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T03:25:00+03:00",
+          "stop": "2026-10-19T04:05:00+03:00",
+          "title": "Lost Places - Folge 75. S: 8 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T04:05:00+03:00",
+          "stop": "2026-10-19T04:45:00+03:00",
+          "title": "Lost Places - Folge 76. S: 8 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T04:45:00+03:00",
+          "stop": "2026-10-19T05:45:00+03:00",
+          "title": "Hitlers Krieg im Osten - 1941-1943 (1).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T05:45:00+03:00",
+          "stop": "2026-10-19T06:30:00+03:00",
+          "title": "Hitlers Krieg im Osten - 1941-1943 (2).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T06:30:00+03:00",
+          "stop": "2026-10-19T07:15:00+03:00",
+          "title": "Geheime Nazi-Expeditionen. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T07:15:00+03:00",
+          "stop": "2026-10-19T08:05:00+03:00",
+          "title": "Geheime Nazi-Expeditionen. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T08:05:00+03:00",
+          "stop": "2026-10-19T08:35:00+03:00",
+          "title": "Border Patrol Südamerika. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T08:35:00+03:00",
+          "stop": "2026-10-19T09:05:00+03:00",
+          "title": "Border Patrol Südamerika. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T09:05:00+03:00",
+          "stop": "2026-10-19T09:30:00+03:00",
+          "title": "Border Patrol Südamerika. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T09:30:00+03:00",
+          "stop": "2026-10-19T10:00:00+03:00",
+          "title": "Border Patrol Südamerika. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T10:00:00+03:00",
+          "stop": "2026-10-19T10:45:00+03:00",
+          "title": "Lost Places. S: 8 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T10:45:00+03:00",
+          "stop": "2026-10-19T11:30:00+03:00",
+          "title": "Lost Places - Folge 72. S: 8 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T11:30:00+03:00",
+          "stop": "2026-10-19T12:20:00+03:00",
+          "title": "Lost Places - Folge 73. S: 8 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T12:20:00+03:00",
+          "stop": "2026-10-19T13:10:00+03:00",
+          "title": "Lost Places - Folge 74. S: 8 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T13:10:00+03:00",
+          "stop": "2026-10-19T14:10:00+03:00",
+          "title": "Lost Places - Folge 75. S: 8 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T14:10:00+03:00",
+          "stop": "2026-10-19T15:05:00+03:00",
+          "title": "Lost Places - Folge 76. S: 8 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T15:05:00+03:00",
+          "stop": "2026-10-19T15:55:00+03:00",
+          "title": "Traumzüge. S: 2 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T15:55:00+03:00",
+          "stop": "2026-10-19T16:50:00+03:00",
+          "title": "Traumzüge. S: 2 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T16:50:00+03:00",
+          "stop": "2026-10-19T17:45:00+03:00",
+          "title": "Das große Backen - Milliardengeschäft mit Brot und Gebäck.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T17:45:00+03:00",
+          "stop": "2026-10-19T18:35:00+03:00",
+          "title": "Burger-Alarm - Der Siegeszug des Hamburgers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T18:35:00+03:00",
+          "stop": "2026-10-19T19:25:00+03:00",
+          "title": "Besser als das Original - Ford Mustang Restaurierung.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T19:25:00+03:00",
+          "stop": "2026-10-19T20:15:00+03:00",
+          "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 15. S: 2 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T20:15:00+03:00",
+          "stop": "2026-10-19T21:15:00+03:00",
+          "title": "Border Patrol USA - Einsatz an Mexikos Grenze: Folge 16. S: 2 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T21:15:00+03:00",
+          "stop": "2026-10-19T22:10:00+03:00",
+          "title": "Gefängnisse. S: 3 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T22:10:00+03:00",
+          "stop": "2026-10-19T23:05:00+03:00",
+          "title": "Die Bundespolizei. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T23:05:00+03:00",
+          "stop": "2026-10-20T00:05:00+03:00",
+          "title": "Die Bundespolizei. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         }
