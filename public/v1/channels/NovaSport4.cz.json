@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-18T11:12:17.699349+00:00",
+  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-10-18",
-      "programs": [
-        {
-          "start": "2026-10-18T00:05:00+03:00",
-          "stop": "2026-10-18T02:00:00+03:00",
-          "title": "RB Lipsko – PSV Eindhoven",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T02:00:00+03:00",
-          "stop": "2026-10-18T08:00:00+03:00",
-          "title": "Mansfield Town – Oxford United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T08:00:00+03:00",
-          "stop": "2026-10-18T10:00:00+03:00",
-          "title": "Valencia CF – Athletic Bilbao",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T10:00:00+03:00",
-          "stop": "2026-10-18T12:00:00+03:00",
-          "title": "Real Betis – FC Barcelona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T12:00:00+03:00",
-          "stop": "2026-10-18T14:00:00+03:00",
-          "title": "Villarreal CF – Elche CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T14:00:00+03:00",
-          "stop": "2026-10-18T14:55:00+03:00",
-          "title": "La Liga 2 Highlights (9)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T14:55:00+03:00",
-          "stop": "2026-10-18T17:10:00+03:00",
-          "title": "CA Osasuna – Racing Santander",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T17:10:00+03:00",
-          "stop": "2026-10-18T19:25:00+03:00",
-          "title": "Celta Vigo – Deportivo Alavés",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T19:25:00+03:00",
-          "stop": "2026-10-18T21:55:00+03:00",
-          "title": "Málaga CF – Real Sociedad",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T21:55:00+03:00",
-          "stop": "2026-10-19T00:05:00+03:00",
-          "title": "Real Madrid – Sevilla FC",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-19",
       "programs": [
@@ -99,8 +24,249 @@
         },
         {
           "start": "2026-10-19T02:00:00+03:00",
-          "stop": "2026-10-19T03:00:00+03:00",
+          "stop": "2026-10-19T08:00:00+03:00",
           "title": "Villarreal CF – Elche CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T08:00:00+03:00",
+          "stop": "2026-10-19T10:00:00+03:00",
+          "title": "Real Madrid – Sevilla FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T10:00:00+03:00",
+          "stop": "2026-10-19T12:00:00+03:00",
+          "title": "Málaga CF – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T12:00:00+03:00",
+          "stop": "2026-10-19T14:00:00+03:00",
+          "title": "Celta Vigo – Deportivo Alavés",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T14:00:00+03:00",
+          "stop": "2026-10-19T15:50:00+03:00",
+          "title": "CA Osasuna – Racing Santander",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T15:50:00+03:00",
+          "stop": "2026-10-19T17:40:00+03:00",
+          "title": "Energie Cottbus – 1. FC Norimberk",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T17:40:00+03:00",
+          "stop": "2026-10-19T19:30:00+03:00",
+          "title": "Espanyol Barcelona – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T19:30:00+03:00",
+          "stop": "2026-10-19T21:20:00+03:00",
+          "title": "Real Betis – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T21:20:00+03:00",
+          "stop": "2026-10-19T21:55:00+03:00",
+          "title": "Ve skluzu (136)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T21:55:00+03:00",
+          "stop": "2026-10-20T00:05:00+03:00",
+          "title": "Getafe CF – Rayo Vallecano",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "programs": [
+        {
+          "start": "2026-10-20T00:05:00+03:00",
+          "stop": "2026-10-20T02:00:00+03:00",
+          "title": "Valencia CF – Athletic Bilbao",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T02:00:00+03:00",
+          "stop": "2026-10-20T03:50:00+03:00",
+          "title": "Celta Vigo – Deportivo Alavés",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T03:50:00+03:00",
+          "stop": "2026-10-20T08:00:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (7)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T08:00:00+03:00",
+          "stop": "2026-10-20T10:00:00+03:00",
+          "title": "Getafe CF – Rayo Vallecano",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T10:00:00+03:00",
+          "stop": "2026-10-20T11:50:00+03:00",
+          "title": "Celta Vigo – Deportivo Alavés",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T11:50:00+03:00",
+          "stop": "2026-10-20T13:40:00+03:00",
+          "title": "CA Osasuna – Racing Santander",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T13:40:00+03:00",
+          "stop": "2026-10-20T14:20:00+03:00",
+          "title": "Ve skluzu (136)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T14:20:00+03:00",
+          "stop": "2026-10-20T14:55:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (7)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T14:55:00+03:00",
+          "stop": "2026-10-20T17:05:00+03:00",
+          "title": "PSG U19 – FC Barcelona U19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T17:05:00+03:00",
+          "stop": "2026-10-20T19:05:00+03:00",
+          "title": "Real Madrid – Sevilla FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T19:05:00+03:00",
+          "stop": "2026-10-20T19:30:00+03:00",
+          "title": "Finále Ligy mistrů – film",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T19:30:00+03:00",
+          "stop": "2026-10-20T21:45:00+03:00",
+          "title": "Sabah FK – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T21:45:00+03:00",
+          "stop": "2026-10-21T00:05:00+03:00",
+          "title": "Liverpool FC – Villarreal CF",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T00:05:00+03:00",
+          "stop": "2026-10-21T02:00:00+03:00",
+          "title": "Málaga CF – Real Sociedad",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T02:00:00+03:00",
+          "stop": "2026-10-21T03:50:00+03:00",
+          "title": "Le Mans FC – Toulouse FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T03:50:00+03:00",
+          "stop": "2026-10-21T08:00:00+03:00",
+          "title": "Ve skluzu (136)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T08:00:00+03:00",
+          "stop": "2026-10-21T10:00:00+03:00",
+          "title": "Liverpool FC – Villarreal CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T10:00:00+03:00",
+          "stop": "2026-10-21T12:00:00+03:00",
+          "title": "Sabah FK – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T12:00:00+03:00",
+          "stop": "2026-10-21T14:00:00+03:00",
+          "title": "PSG U19 – FC Barcelona U19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T14:00:00+03:00",
+          "stop": "2026-10-21T15:50:00+03:00",
+          "title": "Union Berlín – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T15:50:00+03:00",
+          "stop": "2026-10-21T17:40:00+03:00",
+          "title": "Bayern Mnichov – RB Lipsko",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T17:40:00+03:00",
+          "stop": "2026-10-21T19:30:00+03:00",
+          "title": "Getafe CF – Rayo Vallecano",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T19:30:00+03:00",
+          "stop": "2026-10-21T21:45:00+03:00",
+          "title": "Como 1907 – Manchester United",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T21:45:00+03:00",
+          "stop": "2026-10-22T00:05:00+03:00",
+          "title": "Aston Villa – Viking FK",
           "description": "L",
           "category": null
         }

@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-18T11:12:17.699349+00:00",
+  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 20,
   "days": [
-    {
-      "date": "2026-10-18",
-      "programs": [
-        {
-          "start": "2026-10-18T00:55:00+03:00",
-          "stop": "2026-10-18T02:40:00+03:00",
-          "title": "х/ф Кукушка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T01:00:00+03:00",
-          "stop": "2026-10-18T02:40:00+03:00",
-          "title": "х/ф Кукушка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T02:40:00+03:00",
-          "stop": "2026-10-18T05:00:00+03:00",
-          "title": "т/с СМЕРШ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T05:00:00+03:00",
-          "stop": "2026-10-18T06:50:00+03:00",
-          "title": "х/ф Ржев",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T06:50:00+03:00",
-          "stop": "2026-10-18T07:00:00+03:00",
-          "title": "х/ф Смотри на меня!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T07:00:00+03:00",
-          "stop": "2026-10-18T09:00:00+03:00",
-          "title": "т/с Мятеж",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T09:00:00+03:00",
-          "stop": "2026-10-18T13:00:00+03:00",
-          "title": "х/ф Батальонъ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T13:00:00+03:00",
-          "stop": "2026-10-19T00:00:00+03:00",
-          "title": "т/с Мурка",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-19",
       "programs": [
@@ -129,6 +68,100 @@
           "start": "2026-10-19T13:40:00+03:00",
           "stop": "2026-10-20T00:30:00+03:00",
           "title": "т/с Разведчицы",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "programs": [
+        {
+          "start": "2026-10-20T00:30:00+03:00",
+          "stop": "2026-10-20T02:15:00+03:00",
+          "title": "х/ф Осенью 41-го",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T02:15:00+03:00",
+          "stop": "2026-10-20T04:05:00+03:00",
+          "title": "х/ф Помилование",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T04:05:00+03:00",
+          "stop": "2026-10-20T05:05:00+03:00",
+          "title": "Путь к Победе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T05:05:00+03:00",
+          "stop": "2026-10-20T07:00:00+03:00",
+          "title": "х/ф Судьба диверсанта",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T07:00:00+03:00",
+          "stop": "2026-10-20T09:50:00+03:00",
+          "title": "т/с Балабол",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T09:50:00+03:00",
+          "stop": "2026-10-20T13:40:00+03:00",
+          "title": "т/с Военная разведка. Первый удар",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T13:40:00+03:00",
+          "stop": "2026-10-20T17:10:00+03:00",
+          "title": "т/с Снайпер. Офицер СМЕРШ",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T17:10:00+03:00",
+          "stop": "2026-10-20T21:00:00+03:00",
+          "title": "х/ф Кремень",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T21:00:00+03:00",
+          "stop": "2026-10-21T00:50:00+03:00",
+          "title": "х/ф Кремень. Освобождение",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T00:50:00+03:00",
+          "stop": "2026-10-21T02:40:00+03:00",
+          "title": "х/ф Свидетели",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T02:40:00+03:00",
+          "stop": "2026-10-21T04:20:00+03:00",
+          "title": "х/ф Спасти Ленинград",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T04:20:00+03:00",
+          "stop": "2026-10-21T05:20:00+03:00",
+          "title": "Путь к Победе",
           "description": "L",
           "category": null
         }

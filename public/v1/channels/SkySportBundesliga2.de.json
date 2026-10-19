@@ -8,79 +8,16 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-18T11:12:17.699349+00:00",
+  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 3,
   "days": [
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "programs": [
         {
-          "start": "2026-10-18T00:00:00+03:00",
-          "stop": "2026-10-18T01:00:00+03:00",
-          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Samstag komplett",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T01:00:00+03:00",
-          "stop": "2026-10-18T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T07:00:00+03:00",
-          "stop": "2026-10-18T13:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T13:40:00+03:00",
-          "stop": "2026-10-18T14:00:00+03:00",
-          "title": "Es folgt: LIVE 2. BL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T14:00:00+03:00",
-          "stop": "2026-10-18T16:30:00+03:00",
-          "title": "Live 2. BL: Karlsruher SC – SV Darmstadt 98, 8. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T16:30:00+03:00",
-          "stop": "2026-10-18T18:10:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T18:10:00+03:00",
-          "stop": "2026-10-18T18:30:00+03:00",
-          "title": "Es folgt: BL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T18:30:00+03:00",
-          "stop": "2026-10-18T20:30:00+03:00",
-          "title": "BL: Bayer Leverkusen – SC Freiburg, 6. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T20:30:00+03:00",
-          "stop": "2026-10-18T22:30:00+03:00",
-          "title": "BL: Borussia M'gladbach – TSG Hoffenheim, 6. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T22:30:00+03:00",
-          "stop": "2026-10-19T07:00:00+03:00",
+          "start": "2026-10-19T07:00:00+03:00",
+          "stop": "2026-10-20T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
@@ -88,11 +25,23 @@
       ]
     },
     {
-      "date": "2026-10-19",
+      "date": "2026-10-20",
       "programs": [
         {
-          "start": "2026-10-19T07:00:00+03:00",
-          "stop": "2026-10-20T07:00:00+03:00",
+          "start": "2026-10-20T07:00:00+03:00",
+          "stop": "2026-10-21T07:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T07:00:00+03:00",
+          "stop": "2026-10-22T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

@@ -8,122 +8,335 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-18T11:12:17.699349+00:00",
+  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 45,
   "days": [
     {
-      "date": "2026-10-18",
+      "date": "2026-10-19",
       "programs": [
         {
-          "start": "2026-10-18T01:00:00+03:00",
-          "stop": "2026-10-18T02:00:00+03:00",
-          "title": "Generation XG 2026/27: Ep06",
+          "start": "2026-10-19T01:00:00+03:00",
+          "stop": "2026-10-19T01:50:00+03:00",
+          "title": "PL GOATs: North African Goats With Hassan Kachloul",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T02:00:00+03:00",
-          "stop": "2026-10-18T04:10:00+03:00",
-          "title": "(D) PL: Fulham vs Hull City",
+          "start": "2026-10-19T01:50:00+03:00",
+          "stop": "2026-10-19T04:00:00+03:00",
+          "title": "(D) PL: Brighton vs Crystal Palace",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T04:10:00+03:00",
-          "stop": "2026-10-18T07:00:00+03:00",
+          "start": "2026-10-19T04:00:00+03:00",
+          "stop": "2026-10-19T07:20:00+03:00",
+          "title": "PL: Leeds vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T07:20:00+03:00",
+          "stop": "2026-10-19T08:20:00+03:00",
+          "title": "The Weekend Wrap 2026/27 – Week 7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T08:20:00+03:00",
+          "stop": "2026-10-19T10:30:00+03:00",
+          "title": "(D) PL: Bournemouth vs Sunderland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T10:30:00+03:00",
+          "stop": "2026-10-19T12:40:00+03:00",
+          "title": "(D) PL: Nottm Forest vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T12:40:00+03:00",
+          "stop": "2026-10-19T14:50:00+03:00",
+          "title": "PL: Fulham vs Hull City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T14:50:00+03:00",
+          "stop": "2026-10-19T15:20:00+03:00",
+          "title": "Match HL 2026/27: WK7: LEE vs MUN",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T15:20:00+03:00",
+          "stop": "2026-10-19T15:50:00+03:00",
+          "title": "Match HL 2026/27: WK7: BHA vs CRY",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T15:50:00+03:00",
+          "stop": "2026-10-19T16:20:00+03:00",
+          "title": "Match HL 2026/27: WK7: BOU vs SUN",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T16:20:00+03:00",
+          "stop": "2026-10-19T16:50:00+03:00",
+          "title": "Match HL 2026/27: WK7: NFO vs ARS",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-19T16:50:00+03:00",
+          "stop": "2026-10-19T19:40:00+03:00",
           "title": "PL: Everton vs Chelsea",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T07:00:00+03:00",
-          "stop": "2026-10-18T09:10:00+03:00",
-          "title": "PL: Newcastle vs Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T09:10:00+03:00",
-          "stop": "2026-10-18T11:20:00+03:00",
-          "title": "(D) PL: Man City vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T11:20:00+03:00",
-          "stop": "2026-10-18T11:50:00+03:00",
-          "title": "Match HL 2026/27: WK7: NEW vs AVL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T11:50:00+03:00",
-          "stop": "2026-10-18T12:20:00+03:00",
-          "title": "Match HL 2026/27: WK7: FUL vs HUL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T12:20:00+03:00",
-          "stop": "2026-10-18T12:50:00+03:00",
-          "title": "Match HL 2026/27: WK7: MCI vs IPS",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T12:50:00+03:00",
-          "stop": "2026-10-18T13:20:00+03:00",
-          "title": "Match HL 2026/27: WK7: EVE vs CHE",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T13:20:00+03:00",
-          "stop": "2026-10-18T15:30:00+03:00",
+          "start": "2026-10-19T19:40:00+03:00",
+          "stop": "2026-10-19T21:50:00+03:00",
           "title": "PL: Brentford vs Liverpool",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T15:30:00+03:00",
-          "stop": "2026-10-18T16:00:00+03:00",
-          "title": "⋗ Preshow",
+          "start": "2026-10-19T21:50:00+03:00",
+          "stop": "2026-10-20T00:00:00+03:00",
+          "title": "⋗ PL: Tottenham vs Coventry",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-20",
+      "programs": [
+        {
+          "start": "2026-10-20T00:00:00+03:00",
+          "stop": "2026-10-20T01:00:00+03:00",
+          "title": "The Weekend Wrap 2026/27 – Week 7",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T16:00:00+03:00",
-          "stop": "2026-10-18T18:00:00+03:00",
-          "title": "⋗ PL: Leeds vs Man Utd",
+          "start": "2026-10-20T01:00:00+03:00",
+          "stop": "2026-10-20T03:10:00+03:00",
+          "title": "PL: Bournemouth vs Sunderland",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T18:00:00+03:00",
-          "stop": "2026-10-18T18:45:00+03:00",
-          "title": "⋗ Postshow",
+          "start": "2026-10-20T03:10:00+03:00",
+          "stop": "2026-10-20T05:20:00+03:00",
+          "title": "PL: Newcastle vs Aston Villa",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T18:45:00+03:00",
-          "stop": "2026-10-18T19:20:00+03:00",
-          "title": "Match HL 2026/27: WK7: BRE vs LIV",
+          "start": "2026-10-20T05:20:00+03:00",
+          "stop": "2026-10-20T07:30:00+03:00",
+          "title": "PL: Tottenham vs Coventry",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T19:20:00+03:00",
-          "stop": "2026-10-18T22:10:00+03:00",
+          "start": "2026-10-20T07:30:00+03:00",
+          "stop": "2026-10-20T09:40:00+03:00",
+          "title": "PL: Nottm Forest vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T09:40:00+03:00",
+          "stop": "2026-10-20T11:50:00+03:00",
+          "title": "PL: Man City vs Ipswich",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T11:50:00+03:00",
+          "stop": "2026-10-20T14:00:00+03:00",
+          "title": "PL: Brighton vs Crystal Palace",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T14:00:00+03:00",
+          "stop": "2026-10-20T14:30:00+03:00",
+          "title": "Match HL 2026/27: WK7: TOT vs COV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T14:30:00+03:00",
+          "stop": "2026-10-20T15:00:00+03:00",
+          "title": "PL Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T15:00:00+03:00",
+          "stop": "2026-10-20T16:00:00+03:00",
+          "title": "PL Review 2026/27: Week 7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T16:00:00+03:00",
+          "stop": "2026-10-20T16:30:00+03:00",
+          "title": "Netbusters 2026/27: Ep07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T16:30:00+03:00",
+          "stop": "2026-10-20T19:40:00+03:00",
+          "title": "PL: Leeds vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T19:40:00+03:00",
+          "stop": "2026-10-20T21:50:00+03:00",
+          "title": "PL: Tottenham vs Coventry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-20T21:50:00+03:00",
+          "stop": "2026-10-21T00:00:00+03:00",
+          "title": "PL: Fulham vs Hull City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T00:00:00+03:00",
+          "stop": "2026-10-21T00:30:00+03:00",
+          "title": "Match HL 2026/27: WK7: NEW vs AVL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T00:30:00+03:00",
+          "stop": "2026-10-21T01:00:00+03:00",
+          "title": "Match HL 2026/27: WK7: FUL vs HUL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T01:00:00+03:00",
+          "stop": "2026-10-21T03:10:00+03:00",
+          "title": "PL: Brighton vs Crystal Palace",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T03:10:00+03:00",
+          "stop": "2026-10-21T06:00:00+03:00",
           "title": "PL: Everton vs Chelsea",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-18T22:10:00+03:00",
-          "stop": "2026-10-18T23:10:00+03:00",
-          "title": "PL: Arsenal vs Chelsea",
+          "start": "2026-10-21T06:00:00+03:00",
+          "stop": "2026-10-21T06:30:00+03:00",
+          "title": "PL Extra Time",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T06:30:00+03:00",
+          "stop": "2026-10-21T07:30:00+03:00",
+          "title": "PL Review 2026/27: Week 7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T07:30:00+03:00",
+          "stop": "2026-10-21T08:00:00+03:00",
+          "title": "Netbusters 2026/27: Ep07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T08:00:00+03:00",
+          "stop": "2026-10-21T10:10:00+03:00",
+          "title": "PL: Tottenham vs Coventry",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T10:10:00+03:00",
+          "stop": "2026-10-21T12:20:00+03:00",
+          "title": "PL: Bournemouth vs Sunderland",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T12:20:00+03:00",
+          "stop": "2026-10-21T14:30:00+03:00",
+          "title": "PL: Brentford vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T14:30:00+03:00",
+          "stop": "2026-10-21T15:00:00+03:00",
+          "title": "The Final Word",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T15:00:00+03:00",
+          "stop": "2026-10-21T16:00:00+03:00",
+          "title": "Generation XG 2026/27: Ep07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T16:00:00+03:00",
+          "stop": "2026-10-21T17:00:00+03:00",
+          "title": "PL Review 2026/27: Week 7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T17:00:00+03:00",
+          "stop": "2026-10-21T19:10:00+03:00",
+          "title": "PL: Nottm Forest vs Arsenal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T19:10:00+03:00",
+          "stop": "2026-10-21T21:20:00+03:00",
+          "title": "PL: Man City vs Ipswich",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T21:20:00+03:00",
+          "stop": "2026-10-21T23:30:00+03:00",
+          "title": "PL: Newcastle vs Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T23:30:00+03:00",
+          "stop": "2026-10-22T00:00:00+03:00",
+          "title": "Match HL 2026/27: WK7: MCI vs IPS",
           "description": "L",
           "category": null
         }

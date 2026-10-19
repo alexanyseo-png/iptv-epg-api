@@ -8,102 +8,13 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-18T11:12:17.699349+00:00",
+  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
   "available": true,
-  "programmeCount": 32,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-10-18",
-      "programs": [
-        {
-          "start": "2026-10-18T00:00:00+03:00",
-          "stop": "2026-10-18T01:00:00+03:00",
-          "title": "▶️ Basketball: WNBA - Atlanta Dream @ Golden State Valkyries, Finals, Spiel 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T01:00:00+03:00",
-          "stop": "2026-10-18T02:00:00+03:00",
-          "title": "▶️ Eishockey: NHL - Vancouver Canucks @ Tampa Bay Lightning.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T02:00:00+03:00",
-          "stop": "2026-10-18T05:00:00+03:00",
-          "title": "▶️ Eishockey: NHL - San Jose Sharks @ Detroit Red Wings.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T05:00:00+03:00",
-          "stop": "2026-10-18T08:00:00+03:00",
-          "title": "▶️ Eishockey: NHL - Edmonton Oilers @ Utah Mammoth.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T08:00:00+03:00",
-          "stop": "2026-10-18T11:00:00+03:00",
-          "title": "▶️ Golf: Ladies PGA - Buick LPGA Shanghai, 4. Tag in Shanghai (China).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T11:00:00+03:00",
-          "stop": "2026-10-18T11:55:00+03:00",
-          "title": "Fußball: Bundesliga - Alle Spiele, alle Stimmen, 6. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T11:55:00+03:00",
-          "stop": "2026-10-18T14:00:00+03:00",
-          "title": "▶️ Fußball: DFB-Nachwuchsliga - Hamburger SV U19 - FC St. Pauli U19, 8. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T14:00:00+03:00",
-          "stop": "2026-10-18T16:30:00+03:00",
-          "title": "▶️ Fußball: 2. Bundesliga - Sonntags-Konferenz, 8. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T16:30:00+03:00",
-          "stop": "2026-10-18T18:00:00+03:00",
-          "title": "▶️ Fußball: England, PL - Goal Rush, LEE - MUN, PL Konferenz, 7. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T18:00:00+03:00",
-          "stop": "2026-10-18T20:30:00+03:00",
-          "title": "▶️ Fußball: England, PL - Nottingham Forest - FC Arsenal, Match of the Week, 7. Spieltag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-18T20:30:00+03:00",
-          "stop": "2026-10-19T03:00:00+03:00",
-          "title": "▶️ NFL - Konferenz, Week 6.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-19",
       "programs": [
-        {
-          "start": "2026-10-19T03:00:00+03:00",
-          "stop": "2026-10-19T06:30:00+03:00",
-          "title": "▶️ NFL - Dallas Cowboys @ Green Bay Packers, Week 6 (Sunday Night Football).",
-          "description": "L",
-          "category": null
-        },
         {
           "start": "2026-10-19T06:30:00+03:00",
           "stop": "2026-10-19T08:30:00+03:00",
@@ -246,6 +157,53 @@
           "start": "2026-10-20T21:45:00+03:00",
           "stop": "2026-10-21T01:00:00+03:00",
           "title": "▶️ Basketball: NBA - Boston Celtics @ Detroit Pistons.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T01:00:00+03:00",
+          "stop": "2026-10-21T01:30:00+03:00",
+          "title": "Fußball - scooore Niederlande! Alle Tore.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T01:30:00+03:00",
+          "stop": "2026-10-21T02:00:00+03:00",
+          "title": "Eishockey: NHL - On the Fly.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T02:00:00+03:00",
+          "stop": "2026-10-21T04:30:00+03:00",
+          "title": "▶️ Basketball: NBA - Philadelphia 76ers @ New York Knicks.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T04:30:00+03:00",
+          "stop": "2026-10-21T07:30:00+03:00",
+          "title": "▶️ Basketball: NBA - Oklahoma City Thunder @ San Antonio Spurs.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T07:30:00+03:00",
+          "stop": "2026-10-21T08:00:00+03:00",
+          "title": "Tennis: ATP - This Week.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T08:00:00+03:00",
+          "stop": "2026-10-22T00:00:00+03:00",
+          "title": "▶️ Tennis: ATP & WTA - Die Topspiele des Tages.",
           "description": "L",
           "category": null
         }
