@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
+  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-10-19",
-      "programs": [
-        {
-          "start": "2026-10-19T11:00:00+03:00",
-          "stop": "2026-10-19T19:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T19:00:00+03:00",
-          "stop": "2026-10-19T22:00:00+03:00",
-          "title": "Formula 1: Singaporen GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T22:00:00+03:00",
-          "stop": "2026-10-20T11:00:00+03:00",
-          "title": "Valioliiga: Leeds – Manchester United",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-20",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-10-21T21:55:00+03:00",
           "stop": "2026-10-22T11:00:00+03:00",
           "title": "Ei lähetystä",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "programs": [
+        {
+          "start": "2026-10-22T11:00:00+03:00",
+          "stop": "2026-10-22T19:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T19:30:00+03:00",
+          "stop": "2026-10-22T21:55:00+03:00",
+          "title": "Valioliiga: Newcastle – Aston Villa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T21:55:00+03:00",
+          "stop": "2026-10-23T11:00:00+03:00",
+          "title": "EUROpa League: Bournemouth – Milan",
           "description": "L",
           "category": null
         }

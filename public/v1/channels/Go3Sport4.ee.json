@@ -8,17 +8,29 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
+  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 2,
   "days": [
     {
       "date": "2026-10-20",
       "programs": [
         {
           "start": "2026-10-20T19:00:00+03:00",
-          "stop": "2026-10-20T20:00:00+03:00",
+          "stop": "2026-10-21T11:30:00+03:00",
           "title": "⋗ ATP 250 Lyon. Singles R1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T11:30:00+03:00",
+          "stop": "2026-10-21T12:30:00+03:00",
+          "title": "⋗ ATP 250 Brussels. Singles R12",
           "description": "L",
           "category": null
         }

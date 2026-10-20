@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-19T13:23:56.730537+00:00",
+  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-10-19",
-      "programs": [
-        {
-          "start": "2026-10-19T00:45:00+03:00",
-          "stop": "2026-10-19T02:40:00+03:00",
-          "title": "Ice Hockey: Switzerland National League. Davos – ZSC Lions (National League), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T02:40:00+03:00",
-          "stop": "2026-10-19T05:05:00+03:00",
-          "title": "Tennis: ATP Shanghai Masters 2026. Singles. Final (Tennis: ATP Masters 1000 – Rolex Shanghai Masters), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T05:05:00+03:00",
-          "stop": "2026-10-19T07:00:00+03:00",
-          "title": "Football: Ligue 1. Strasbourg – PSG (Ligue 1 McDonald's), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T07:00:00+03:00",
-          "stop": "2026-10-19T09:10:00+03:00",
-          "title": "Basketball: EuroLeague. Olimpia Milano – Dubai (Basketball: EuroLeague), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T09:10:00+03:00",
-          "stop": "2026-10-19T11:05:00+03:00",
-          "title": "Football: Serie A. Juventus – Lazio (Calcio: Campionato Italiano Serie A), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T11:05:00+03:00",
-          "stop": "2026-10-19T13:00:00+03:00",
-          "title": "Football: LaLiga. Real Madrid – Sevilla (LaLiga), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T13:00:00+03:00",
-          "stop": "2026-10-19T17:00:00+03:00",
-          "title": "Tennis: ATP 250 Brussels. Singles. Round 1 (Tennis: ATP 250 – European Open), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T17:00:00+03:00",
-          "stop": "2026-10-19T21:00:00+03:00",
-          "title": "Tennis: ATP 250 Brussels. Singles. Round 1 (Tennis: ATP 250 – European Open), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T21:00:00+03:00",
-          "stop": "2026-10-19T22:55:00+03:00",
-          "title": "Ice Hockey: Switzerland National League. Davos – ZSC Lions (National League), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-19T22:55:00+03:00",
-          "stop": "2026-10-20T00:50:00+03:00",
-          "title": "Basketball: ACB league. Real Madrid – Bilbao Basket (Liga Endesa), 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-20",
       "programs": [
@@ -267,6 +192,95 @@
           "start": "2026-10-21T23:00:00+03:00",
           "stop": "2026-10-22T01:00:00+03:00",
           "title": "Basketball: Eurocup. Balkan – Lietkabelis (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-22",
+      "programs": [
+        {
+          "start": "2026-10-22T01:00:00+03:00",
+          "stop": "2026-10-22T03:00:00+03:00",
+          "title": "Basketball: BCL. Reggiana – Juventus Utena (Basketball Champions League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T03:00:00+03:00",
+          "stop": "2026-10-22T06:00:00+03:00",
+          "title": "Basketball: WNBA. Finals Game 3. Valkyries – Dream (WNBA), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T06:00:00+03:00",
+          "stop": "2026-10-22T07:00:00+03:00",
+          "title": "Rodeo: Pro Bull Riders Teams. Ep.9 Ft. Worth (Rodeo: Pro Bull Riders Teams), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T07:00:00+03:00",
+          "stop": "2026-10-22T09:00:00+03:00",
+          "title": "Football: LaLiga. Espanyol – Atlético Madrid (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T09:00:00+03:00",
+          "stop": "2026-10-22T11:00:00+03:00",
+          "title": "Football: LaLiga. Real Betis – Barcelona (LaLiga), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T11:00:00+03:00",
+          "stop": "2026-10-22T13:00:00+03:00",
+          "title": "Ice Hockey: Switzerland National League. ZSC Lions – Davos (National League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T13:00:00+03:00",
+          "stop": "2026-10-22T14:00:00+03:00",
+          "title": "Rodeo: Pro Bull Riders Teams. Ep.9 Ft. Worth (Rodeo: Pro Bull Riders Teams), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T14:00:00+03:00",
+          "stop": "2026-10-22T16:05:00+03:00",
+          "title": "Basketball: EuroLeague. Hapoel TA – Virtus (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T16:05:00+03:00",
+          "stop": "2026-10-22T18:05:00+03:00",
+          "title": "BASKET: NBA. Timberwolves – Heat (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T18:05:00+03:00",
+          "stop": "2026-10-22T20:15:00+03:00",
+          "title": "BASKET: NBA. Warriors – Lakers (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T20:15:00+03:00",
+          "stop": "2026-10-22T22:30:00+03:00",
+          "title": "Basketball: EuroLeague. Anadolu Efes – Besiktas (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-22T22:30:00+03:00",
+          "stop": "2026-10-23T00:25:00+03:00",
+          "title": "Basketball: ACB league. Real Madrid – Bilbao Basket (Liga Endesa), 2026",
           "description": "L",
           "category": null
         }
