@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-10-20",
-      "programs": [
-        {
-          "start": "2026-10-20T00:00:00+03:00",
-          "stop": "2026-10-20T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T05:00:00+03:00",
-          "stop": "2026-10-20T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T07:00:00+03:00",
-          "stop": "2026-10-20T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T11:00:00+03:00",
-          "stop": "2026-10-20T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T14:00:00+03:00",
-          "stop": "2026-10-20T16:00:00+03:00",
-          "title": "Подробнее с Александром Топориным",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T16:00:00+03:00",
-          "stop": "2026-10-20T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:00:00+03:00",
-          "stop": "2026-10-20T21:00:00+03:00",
-          "title": "Михеев Говорит",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T21:00:00+03:00",
-          "stop": "2026-10-20T22:00:00+03:00",
-          "title": "Newsroom",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T22:00:00+03:00",
-          "stop": "2026-10-20T22:30:00+03:00",
-          "title": "Опасный бизнес",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T22:30:00+03:00",
-          "stop": "2026-10-21T00:00:00+03:00",
-          "title": "Игры для взрослых с Кристиной Бусаровой",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "programs": [
@@ -218,6 +143,74 @@
           "start": "2026-10-22T21:00:00+03:00",
           "stop": "2026-10-23T05:00:00+03:00",
           "title": "Это – Гудошников",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programs": [
+        {
+          "start": "2026-10-23T05:00:00+03:00",
+          "stop": "2026-10-23T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T07:00:00+03:00",
+          "stop": "2026-10-23T11:00:00+03:00",
+          "title": "Формула смысла",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T11:00:00+03:00",
+          "stop": "2026-10-23T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T14:00:00+03:00",
+          "stop": "2026-10-23T16:00:00+03:00",
+          "title": "АК-81 81 ┊ 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T16:00:00+03:00",
+          "stop": "2026-10-23T19:00:00+03:00",
+          "title": "Лабиринт Карнаухова",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T19:00:00+03:00",
+          "stop": "2026-10-23T21:00:00+03:00",
+          "title": "Мардан",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T21:00:00+03:00",
+          "stop": "2026-10-23T22:00:00+03:00",
+          "title": "Newsroom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T22:00:00+03:00",
+          "stop": "2026-10-23T23:00:00+03:00",
+          "title": "Диванный штаб",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T23:00:00+03:00",
+          "stop": "2026-10-24T00:00:00+03:00",
+          "title": "Курс",
           "description": "L",
           "category": null
         }

@@ -8,8 +8,84 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
+  "available": true,
+  "programmeCount": 10,
+  "days": [
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T06:24:00+03:00",
+          "stop": "2026-10-21T08:02:00+03:00",
+          "title": "Щасливе число 5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T08:02:00+03:00",
+          "stop": "2026-10-21T09:52:00+03:00",
+          "title": "Римські пригоди",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T09:52:00+03:00",
+          "stop": "2026-10-21T11:31:00+03:00",
+          "title": "Гаррі Браун",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T11:31:00+03:00",
+          "stop": "2026-10-21T13:05:00+03:00",
+          "title": "Без компромісів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T13:05:00+03:00",
+          "stop": "2026-10-21T15:09:00+03:00",
+          "title": "Темні води",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T15:09:00+03:00",
+          "stop": "2026-10-21T16:42:00+03:00",
+          "title": "Шість хвилин до півночі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T16:42:00+03:00",
+          "stop": "2026-10-21T18:39:00+03:00",
+          "title": "Мізантроп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T18:39:00+03:00",
+          "stop": "2026-10-21T20:14:00+03:00",
+          "title": "Не говори зі злом",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T20:14:00+03:00",
+          "stop": "2026-10-21T21:56:00+03:00",
+          "title": "Жага смерті",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T21:56:00+03:00",
+          "stop": "2026-10-21T22:56:00+03:00",
+          "title": "Одного разу в Марселі",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

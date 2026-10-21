@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
   "available": true,
   "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-10-20",
-      "programs": [
-        {
-          "start": "2026-10-20T00:05:00+03:00",
-          "stop": "2026-10-20T02:00:00+03:00",
-          "title": "Union Berlín – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T02:00:00+03:00",
-          "stop": "2026-10-20T08:00:00+03:00",
-          "title": "VfL Wolfsburg – 1. FC Heidenheim",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T08:00:00+03:00",
-          "stop": "2026-10-20T10:00:00+03:00",
-          "title": "UD Las Palmas – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T10:00:00+03:00",
-          "stop": "2026-10-20T10:30:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T10:30:00+03:00",
-          "stop": "2026-10-20T11:30:00+03:00",
-          "title": "Bundesliga Highlights (6)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T11:30:00+03:00",
-          "stop": "2026-10-20T12:00:00+03:00",
-          "title": "EFL Highlights (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T12:00:00+03:00",
-          "stop": "2026-10-20T14:00:00+03:00",
-          "title": "Dynamo Drážďany – 1. FC Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T14:00:00+03:00",
-          "stop": "2026-10-20T16:00:00+03:00",
-          "title": "Espanyol Barcelona – Atlético Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T16:00:00+03:00",
-          "stop": "2026-10-20T18:00:00+03:00",
-          "title": "Villarreal CF – Elche CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T18:00:00+03:00",
-          "stop": "2026-10-20T18:30:00+03:00",
-          "title": "Bundesliga speciál (5)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T18:30:00+03:00",
-          "stop": "2026-10-20T19:00:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:00:00+03:00",
-          "stop": "2026-10-20T19:40:00+03:00",
-          "title": "Studio Ligy mistrů UEFA",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:40:00+03:00",
-          "stop": "2026-10-20T22:00:00+03:00",
-          "title": "Fenerbahçe SK – SK Slavia Praha",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T22:00:00+03:00",
-          "stop": "2026-10-21T00:15:00+03:00",
-          "title": "VfB Stuttgart – Atlético Madrid",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "programs": [
@@ -330,6 +227,109 @@
           "start": "2026-10-22T23:30:00+03:00",
           "stop": "2026-10-23T01:20:00+03:00",
           "title": "FC Porto – PSV Eindhoven",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programs": [
+        {
+          "start": "2026-10-23T01:20:00+03:00",
+          "stop": "2026-10-23T03:10:00+03:00",
+          "title": "Sabah FK – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T03:10:00+03:00",
+          "stop": "2026-10-23T08:00:00+03:00",
+          "title": "Bayer Leverkusen – SC Freiburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T08:00:00+03:00",
+          "stop": "2026-10-23T10:00:00+03:00",
+          "title": "FC Porto – PSV Eindhoven",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T10:00:00+03:00",
+          "stop": "2026-10-23T12:00:00+03:00",
+          "title": "Manchester City – AEK Atény",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T12:00:00+03:00",
+          "stop": "2026-10-23T14:00:00+03:00",
+          "title": "SSC Neapol – FK Bod?/Glimt",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T14:00:00+03:00",
+          "stop": "2026-10-23T14:30:00+03:00",
+          "title": "Liga mistrů UEFA Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T14:30:00+03:00",
+          "stop": "2026-10-23T15:00:00+03:00",
+          "title": "Liga mistrů UEFA Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T15:00:00+03:00",
+          "stop": "2026-10-23T15:30:00+03:00",
+          "title": "EFL Highlights (11)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T15:30:00+03:00",
+          "stop": "2026-10-23T17:00:00+03:00",
+          "title": "TIKI-TAKA (326)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T17:00:00+03:00",
+          "stop": "2026-10-23T19:00:00+03:00",
+          "title": "Sporting CP – LASK Linz",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T19:00:00+03:00",
+          "stop": "2026-10-23T20:50:00+03:00",
+          "title": "Real Betis – Feyenoord Rotterdam",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T20:50:00+03:00",
+          "stop": "2026-10-23T21:20:00+03:00",
+          "title": "Bundesliga Weekly (9)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T21:20:00+03:00",
+          "stop": "2026-10-23T23:35:00+03:00",
+          "title": "VfB Stuttgart – Borussia Mönchengladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T23:35:00+03:00",
+          "stop": "2026-10-24T01:25:00+03:00",
+          "title": "Club Bruggy – RC Lens",
           "description": "L",
           "category": null
         }

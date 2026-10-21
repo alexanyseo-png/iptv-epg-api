@@ -8,8 +8,84 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
+  "available": true,
+  "programmeCount": 10,
+  "days": [
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T06:00:00+03:00",
+          "stop": "2026-10-21T07:45:00+03:00",
+          "title": "Юппі-Ду",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T07:45:00+03:00",
+          "stop": "2026-10-21T09:23:00+03:00",
+          "title": "Блакитне небо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T09:23:00+03:00",
+          "stop": "2026-10-21T11:30:00+03:00",
+          "title": "Ностальгія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T11:30:00+03:00",
+          "stop": "2026-10-21T13:18:00+03:00",
+          "title": "Диявол і Деніел Вебстер",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T13:18:00+03:00",
+          "stop": "2026-10-21T15:28:00+03:00",
+          "title": "Труффальдіно з Бергамо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T15:28:00+03:00",
+          "stop": "2026-10-21T17:16:00+03:00",
+          "title": "Зловмисники, як завжди, залишилися невідомими",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T17:16:00+03:00",
+          "stop": "2026-10-21T18:41:00+03:00",
+          "title": "Битва статей",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T18:41:00+03:00",
+          "stop": "2026-10-21T20:56:00+03:00",
+          "title": "Меч і ваги",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T20:56:00+03:00",
+          "stop": "2026-10-21T22:16:00+03:00",
+          "title": "Однолітки",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T22:16:00+03:00",
+          "stop": "2026-10-21T23:16:00+03:00",
+          "title": "Жандарм у Нью-Йорку",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

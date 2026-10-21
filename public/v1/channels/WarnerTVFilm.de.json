@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-10-20",
-      "programs": [
-        {
-          "start": "2026-10-20T00:50:00+03:00",
-          "stop": "2026-10-20T03:10:00+03:00",
-          "title": "Forrest Gump.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T03:10:00+03:00",
-          "stop": "2026-10-20T04:55:00+03:00",
-          "title": "Iron Will: Volonta' di vincere.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T04:55:00+03:00",
-          "stop": "2026-10-20T06:40:00+03:00",
-          "title": "Jack Ryan: Shadow Recruit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T06:40:00+03:00",
-          "stop": "2026-10-20T07:00:00+03:00",
-          "title": "Hinter den Kulissen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T07:00:00+03:00",
-          "stop": "2026-10-20T09:20:00+03:00",
-          "title": "Der Flug des Phoenix.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T09:20:00+03:00",
-          "stop": "2026-10-20T11:05:00+03:00",
-          "title": "Six Days, Seven Nights.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T11:05:00+03:00",
-          "stop": "2026-10-20T13:00:00+03:00",
-          "title": "Iron Will: Volonta' di vincere.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T13:00:00+03:00",
-          "stop": "2026-10-20T15:25:00+03:00",
-          "title": "Forrest Gump.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T15:25:00+03:00",
-          "stop": "2026-10-20T16:50:00+03:00",
-          "title": "16 Uhr 50 ab Paddington.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T16:50:00+03:00",
-          "stop": "2026-10-20T19:25:00+03:00",
-          "title": "Nightmare Alley.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:25:00+03:00",
-          "stop": "2026-10-20T21:15:00+03:00",
-          "title": "The Village - Das Dorf.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T21:15:00+03:00",
-          "stop": "2026-10-20T23:30:00+03:00",
-          "title": "Walk The Line.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T23:30:00+03:00",
-          "stop": "2026-10-21T01:25:00+03:00",
-          "title": "Sweet Home Alabama - Liebe auf Umwegen.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "programs": [
@@ -288,6 +192,95 @@
           "start": "2026-10-22T23:15:00+03:00",
           "stop": "2026-10-23T01:15:00+03:00",
           "title": "Taffe Mädels.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programs": [
+        {
+          "start": "2026-10-23T01:15:00+03:00",
+          "stop": "2026-10-23T03:05:00+03:00",
+          "title": "The East.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T03:05:00+03:00",
+          "stop": "2026-10-23T05:35:00+03:00",
+          "title": "Das Reich der Sonne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T05:35:00+03:00",
+          "stop": "2026-10-23T07:00:00+03:00",
+          "title": "16 Uhr 50 ab Paddington.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T07:00:00+03:00",
+          "stop": "2026-10-23T09:00:00+03:00",
+          "title": "Die Braut, die sich nicht traut.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T09:00:00+03:00",
+          "stop": "2026-10-23T11:05:00+03:00",
+          "title": "Sideways.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T11:05:00+03:00",
+          "stop": "2026-10-23T13:05:00+03:00",
+          "title": "Taffe Mädels.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T13:05:00+03:00",
+          "stop": "2026-10-23T14:55:00+03:00",
+          "title": "Selbst ist die Braut.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T14:55:00+03:00",
+          "stop": "2026-10-23T17:25:00+03:00",
+          "title": "Help, The.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T17:25:00+03:00",
+          "stop": "2026-10-23T19:10:00+03:00",
+          "title": "Eddie the Eagle - Alles ist möglich.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T19:10:00+03:00",
+          "stop": "2026-10-23T21:15:00+03:00",
+          "title": "Kevin - Allein in New York.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T21:15:00+03:00",
+          "stop": "2026-10-23T22:55:00+03:00",
+          "title": "Sister Act - Eine himmlische Karriere.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T22:55:00+03:00",
+          "stop": "2026-10-24T00:40:00+03:00",
+          "title": "10 Dinge, die ich an dir hasse.",
           "description": "L",
           "category": null
         }

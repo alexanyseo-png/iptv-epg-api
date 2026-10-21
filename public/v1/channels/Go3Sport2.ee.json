@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-10-20",
-      "programs": [
-        {
-          "start": "2026-10-20T01:50:00+03:00",
-          "stop": "2026-10-20T04:55:00+03:00",
-          "title": "Futbols – Itālijas līga. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T04:55:00+03:00",
-          "stop": "2026-10-20T07:00:00+03:00",
-          "title": "Teniss: ATP 1000 Rolex Shanghai Masters. Vienspēles. Fināls. Tennis: ATP Masters 1000 – Rolex Shanghai Masters",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T07:00:00+03:00",
-          "stop": "2026-10-20T09:00:00+03:00",
-          "title": "Hokejs: NHL. Tampabejas «Lightning» – Vankūveras «Canucks». National Hockey League",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T09:00:00+03:00",
-          "stop": "2026-10-20T11:00:00+03:00",
-          "title": "Hokejs: Šveices Nacionālā līga. Davos – ZSC Lions. National League",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T11:00:00+03:00",
-          "stop": "2026-10-20T13:00:00+03:00",
-          "title": "Futbols: La Liga. Espanyol – Atlético Madrid. LaLiga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T13:00:00+03:00",
-          "stop": "2026-10-20T15:00:00+03:00",
-          "title": "Futbols – Itālijas līga. Roma – Genoa. Calcio: Campionato Italiano Serie A",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T15:00:00+03:00",
-          "stop": "2026-10-20T19:00:00+03:00",
-          "title": "Teniss: ATP 250 Liona. Tennis: ATP 250 Lyon Open",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:00:00+03:00",
-          "stop": "2026-10-20T19:50:00+03:00",
-          "title": "Motorsports: Fastzone žurnāls. Fastzone Magazine",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T19:50:00+03:00",
-          "stop": "2026-10-20T22:00:00+03:00",
-          "title": "Basketbols. ULEB Eirokauss. Basketball: EuroCup",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-20T22:00:00+03:00",
-          "stop": "2026-10-21T00:00:00+03:00",
-          "title": "Basketbols. WNBA. WNBA",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "programs": [
@@ -238,6 +163,109 @@
         {
           "start": "2026-10-22T23:15:00+03:00",
           "stop": "2026-10-23T01:15:00+03:00",
+          "title": "Basketbols. NBA. NBA Basketball",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programs": [
+        {
+          "start": "2026-10-23T01:15:00+03:00",
+          "stop": "2026-10-23T01:45:00+03:00",
+          "title": "Aiz kadra. MXGP. Behind the gate (MXGP)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T01:45:00+03:00",
+          "stop": "2026-10-23T02:40:00+03:00",
+          "title": "GP Confidential. GP Confidential",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T02:40:00+03:00",
+          "stop": "2026-10-23T03:55:00+03:00",
+          "title": "Motorsports: Austrālijas GP. MotoGP: Australian Motocycle Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T03:55:00+03:00",
+          "stop": "2026-10-23T06:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T06:00:00+03:00",
+          "stop": "2026-10-23T06:55:00+03:00",
+          "title": "Rodeo: Pro Bull Riders komandu sacensības. Rodeo: Pro Bull Riders Teams",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T06:55:00+03:00",
+          "stop": "2026-10-23T08:05:00+03:00",
+          "title": "Motorsports: Austrālijas GP. MotoGP: Australian Motocycle Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T08:05:00+03:00",
+          "stop": "2026-10-23T08:35:00+03:00",
+          "title": "Futbolsl: Bundesliga. Sportschau – Bundesliga am Sonntag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T08:35:00+03:00",
+          "stop": "2026-10-23T10:35:00+03:00",
+          "title": "Futbols – Itālijas līga. Juventus – Lazio. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T10:35:00+03:00",
+          "stop": "2026-10-23T12:35:00+03:00",
+          "title": "Hokejs: Šveices Nacionālā līga. National League",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T12:35:00+03:00",
+          "stop": "2026-10-23T15:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T15:00:00+03:00",
+          "stop": "2026-10-23T19:00:00+03:00",
+          "title": "Teniss: ATP 250 Liona. Tennis: ATP 250 Lyon Open",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T19:00:00+03:00",
+          "stop": "2026-10-23T21:00:00+03:00",
+          "title": "Basketbols. WNBA. WNBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T21:00:00+03:00",
+          "stop": "2026-10-23T23:15:00+03:00",
+          "title": "Basketbols: Eirolīga. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T23:15:00+03:00",
+          "stop": "2026-10-24T01:20:00+03:00",
           "title": "Basketbols. NBA. NBA Basketball",
           "description": "L",
           "category": null

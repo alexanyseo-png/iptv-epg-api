@@ -8,8 +8,84 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
+  "available": true,
+  "programmeCount": 10,
+  "days": [
+    {
+      "date": "2026-10-21",
+      "programs": [
+        {
+          "start": "2026-10-21T06:22:00+03:00",
+          "stop": "2026-10-21T07:42:00+03:00",
+          "title": "Непристойна поведінка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T07:42:00+03:00",
+          "stop": "2026-10-21T09:21:00+03:00",
+          "title": "Фатальна вісімка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T09:21:00+03:00",
+          "stop": "2026-10-21T11:37:00+03:00",
+          "title": "Роб Рой",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T11:37:00+03:00",
+          "stop": "2026-10-21T13:33:00+03:00",
+          "title": "Вікінги",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T13:33:00+03:00",
+          "stop": "2026-10-21T15:29:00+03:00",
+          "title": "Огидні, брудні, злі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T15:29:00+03:00",
+          "stop": "2026-10-21T17:25:00+03:00",
+          "title": "Шулери",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T17:25:00+03:00",
+          "stop": "2026-10-21T18:58:00+03:00",
+          "title": "Лише найсильніші",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T18:58:00+03:00",
+          "stop": "2026-10-21T20:36:00+03:00",
+          "title": "Містер Крутий",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T20:36:00+03:00",
+          "stop": "2026-10-21T22:12:00+03:00",
+          "title": "Поцілунок перед смертю",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-21T22:12:00+03:00",
+          "stop": "2026-10-21T23:12:00+03:00",
+          "title": "Ромео спливає кров’ю",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

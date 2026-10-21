@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-20T11:43:33.852445+00:00",
+  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-10-20",
-      "programs": [
-        {
-          "start": "2026-10-20T07:00:00+03:00",
-          "stop": "2026-10-21T07:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "programs": [
@@ -43,6 +31,32 @@
           "start": "2026-10-22T07:00:00+03:00",
           "stop": "2026-10-23T07:00:00+03:00",
           "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "programs": [
+        {
+          "start": "2026-10-23T07:00:00+03:00",
+          "stop": "2026-10-23T20:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T20:10:00+03:00",
+          "stop": "2026-10-23T20:30:00+03:00",
+          "title": "Es folgt: Live Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-23T20:30:00+03:00",
+          "stop": "2026-10-24T00:15:00+03:00",
+          "title": "Live BL: VfB Stuttgart – Borussia M'gladbach, Flutlicht-Freitag, 7. Spieltag",
           "description": "L",
           "category": null
         }
