@@ -8,141 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-21T11:55:20.107844+00:00",
+  "generatedAt": "2026-10-22T11:58:00.496538+00:00",
   "available": true,
-  "programmeCount": 51,
+  "programmeCount": 47,
   "days": [
-    {
-      "date": "2026-10-21",
-      "programs": [
-        {
-          "start": "2026-10-21T00:35:00+03:00",
-          "stop": "2026-10-21T01:00:00+03:00",
-          "title": "Let's go Ballin'",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T01:00:00+03:00",
-          "stop": "2026-10-21T09:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T09:00:00+03:00",
-          "stop": "2026-10-21T09:20:00+03:00",
-          "title": "Let's go Ballin'",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T09:20:00+03:00",
-          "stop": "2026-10-21T09:45:00+03:00",
-          "title": "Let's go Ballin'",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T09:45:00+03:00",
-          "stop": "2026-10-21T10:00:00+03:00",
-          "title": "LALIGA Top Goals 26/27 – Episode 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T10:00:00+03:00",
-          "stop": "2026-10-21T10:30:00+03:00",
-          "title": "LALIGA Highlightshow 26/27 – 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T10:30:00+03:00",
-          "stop": "2026-10-21T12:20:00+03:00",
-          "title": "Frauen Bundesliga 26/27 – FC Bayern München – VFB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T12:20:00+03:00",
-          "stop": "2026-10-21T14:10:00+03:00",
-          "title": "Bundesliga 26/27 – Eintracht Frankfurt – 1. FC Köln",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T14:10:00+03:00",
-          "stop": "2026-10-21T14:40:00+03:00",
-          "title": "LALIGA Highlightshow 26/27 – 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T14:40:00+03:00",
-          "stop": "2026-10-21T16:35:00+03:00",
-          "title": "Bundesliga 26/27 – 1. FC Union Berlin – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T16:35:00+03:00",
-          "stop": "2026-10-21T16:50:00+03:00",
-          "title": "Bundesliga Features 26/27 – Königsblau – Wir leben dich I Folge 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T16:50:00+03:00",
-          "stop": "2026-10-21T19:05:00+03:00",
-          "title": "UEFA Youth League 26/27 – Real Madrid U19 – RB Leipzig U19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T19:05:00+03:00",
-          "stop": "2026-10-21T19:25:00+03:00",
-          "title": "LALIGA Top Goals 26/27 – Episode 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T19:25:00+03:00",
-          "stop": "2026-10-21T19:40:00+03:00",
-          "title": "Serie A Top Goals 26/27 – Episode 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T19:40:00+03:00",
-          "stop": "2026-10-21T20:20:00+03:00",
-          "title": "Google Pixel Frauen-Bundesliga Highlightshow 26/27 – 5. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T20:20:00+03:00",
-          "stop": "2026-10-21T20:50:00+03:00",
-          "title": "LALIGA Highlightshow 26/27 – 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T20:50:00+03:00",
-          "stop": "2026-10-21T21:15:00+03:00",
-          "title": "UCL Magazine Show 26/27 – 2./3. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-21T21:15:00+03:00",
-          "stop": "2026-10-22T00:30:00+03:00",
-          "title": "UEFA Champions League 26/27 – FC Bayern München – FC Arsenal",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-22",
       "programs": [
@@ -379,6 +248,109 @@
           "start": "2026-10-23T21:55:00+03:00",
           "stop": "2026-10-24T00:05:00+03:00",
           "title": "LaLiga 26/27 – Deportivo Alavés – FC Málaga",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "programs": [
+        {
+          "start": "2026-10-24T00:05:00+03:00",
+          "stop": "2026-10-24T02:15:00+03:00",
+          "title": "Bundesliga 26/27 – VFB Stuttgart – Borussia M'gladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T02:15:00+03:00",
+          "stop": "2026-10-24T09:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T09:00:00+03:00",
+          "stop": "2026-10-24T09:20:00+03:00",
+          "title": "Let's go Ballin'",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T09:20:00+03:00",
+          "stop": "2026-10-24T09:50:00+03:00",
+          "title": "Let's go Ballin'",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T09:50:00+03:00",
+          "stop": "2026-10-24T10:15:00+03:00",
+          "title": "Let's go Ballin'",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T10:15:00+03:00",
+          "stop": "2026-10-24T12:15:00+03:00",
+          "title": "LaLiga 26/27 – Real Betis Sevilla – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T12:15:00+03:00",
+          "stop": "2026-10-24T12:35:00+03:00",
+          "title": "LALIGA Top Goals 26/27 – Episode 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T12:35:00+03:00",
+          "stop": "2026-10-24T12:50:00+03:00",
+          "title": "Serie A Top Goals 26/27 – Episode 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T12:50:00+03:00",
+          "stop": "2026-10-24T15:00:00+03:00",
+          "title": "Bundesliga 26/27 – VFB Stuttgart – Borussia M'gladbach",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T15:00:00+03:00",
+          "stop": "2026-10-24T18:30:00+03:00",
+          "title": "Bundesliga Konferenz 26/27 – 7. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T18:30:00+03:00",
+          "stop": "2026-10-24T19:15:00+03:00",
+          "title": "All In – Bundesliga Highlights Show 26/27 – 7. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T19:15:00+03:00",
+          "stop": "2026-10-24T21:25:00+03:00",
+          "title": "Bundesliga 26/27 – 1. FC Köln – FC Schalke 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T21:25:00+03:00",
+          "stop": "2026-10-24T22:10:00+03:00",
+          "title": "All In – Bundesliga Highlights Show 26/27 – 7. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-24T22:10:00+03:00",
+          "stop": "2026-10-25T00:20:00+03:00",
+          "title": "Bundesliga 26/27 – Borussia Dortmund – Eintracht Frankfurt",
           "description": "L",
           "category": null
         }
