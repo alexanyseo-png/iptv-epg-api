@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-22T11:58:00.496538+00:00",
+  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 48,
   "days": [
-    {
-      "date": "2026-10-22",
-      "programs": [
-        {
-          "start": "2026-10-22T00:00:00+03:00",
-          "stop": "2026-10-22T00:30:00+03:00",
-          "title": "Match HL 2026/27: WK7: EVE vs CHE",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T00:30:00+03:00",
-          "stop": "2026-10-22T01:00:00+03:00",
-          "title": "Match HL 2026/27: WK7: BRE vs LIV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T01:00:00+03:00",
-          "stop": "2026-10-22T03:10:00+03:00",
-          "title": "PL: Chelsea vs Bournemouth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T03:10:00+03:00",
-          "stop": "2026-10-22T06:20:00+03:00",
-          "title": "PL: Leeds vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T06:20:00+03:00",
-          "stop": "2026-10-22T06:50:00+03:00",
-          "title": "Netbusters 2026/27: Ep07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T06:50:00+03:00",
-          "stop": "2026-10-22T07:50:00+03:00",
-          "title": "Generation XG 2026/27: Ep07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T07:50:00+03:00",
-          "stop": "2026-10-22T08:20:00+03:00",
-          "title": "PL Rewind: Theo Walcott: My Premier League Years",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T08:20:00+03:00",
-          "stop": "2026-10-22T10:30:00+03:00",
-          "title": "PL: Man City vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T10:30:00+03:00",
-          "stop": "2026-10-22T12:40:00+03:00",
-          "title": "PL: Brighton vs Crystal Palace",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T12:40:00+03:00",
-          "stop": "2026-10-22T14:50:00+03:00",
-          "title": "PL: Nottm Forest vs Arsenal",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T14:50:00+03:00",
-          "stop": "2026-10-22T15:50:00+03:00",
-          "title": "PL Stories: Marcus Stewart – The Fight Of My Life",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T15:50:00+03:00",
-          "stop": "2026-10-22T16:50:00+03:00",
-          "title": "The Weekend Wrap 2026/27 – Week 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T16:50:00+03:00",
-          "stop": "2026-10-22T19:00:00+03:00",
-          "title": "PL: Fulham vs Hull City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T19:00:00+03:00",
-          "stop": "2026-10-22T21:10:00+03:00",
-          "title": "PL: Bournemouth vs Sunderland",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T21:10:00+03:00",
-          "stop": "2026-10-23T00:00:00+03:00",
-          "title": "PL: Everton vs Chelsea",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-23",
       "programs": [
@@ -365,6 +255,109 @@
           "start": "2026-10-24T22:15:00+03:00",
           "stop": "2026-10-25T01:00:00+03:00",
           "title": "PL: Everton vs Chelsea",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "programs": [
+        {
+          "start": "2026-10-25T01:00:00+03:00",
+          "stop": "2026-10-25T01:30:00+03:00",
+          "title": "PL Rewind: Theo Walcott: My Premier League Years",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T01:30:00+03:00",
+          "stop": "2026-10-25T02:00:00+03:00",
+          "title": "The Final Word",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T02:00:00+03:00",
+          "stop": "2026-10-25T04:10:00+03:00",
+          "title": "(D) PL: Arsenal vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T04:10:00+03:00",
+          "stop": "2026-10-25T07:30:00+03:00",
+          "title": "PL: Chelsea vs Tottenham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T07:30:00+03:00",
+          "stop": "2026-10-25T09:40:00+03:00",
+          "title": "PL: Aston Villa vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T09:40:00+03:00",
+          "stop": "2026-10-25T11:50:00+03:00",
+          "title": "PL: Coventry vs Fulham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T11:50:00+03:00",
+          "stop": "2026-10-25T14:00:00+03:00",
+          "title": "(D) PL: Arsenal vs Everton",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T14:00:00+03:00",
+          "stop": "2026-10-25T14:30:00+03:00",
+          "title": "PL Preview 2026/27: Week 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T14:30:00+03:00",
+          "stop": "2026-10-25T15:00:00+03:00",
+          "title": "Match HL 2026/27: WK8: AVL vs MCI",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T15:00:00+03:00",
+          "stop": "2026-10-25T15:30:00+03:00",
+          "title": "Match HL 2026/27: WK8: ARS vs EVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T15:30:00+03:00",
+          "stop": "2026-10-25T16:00:00+03:00",
+          "title": "Match HL 2026/27: WK8: COV vs FUL",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T16:00:00+03:00",
+          "stop": "2026-10-25T16:30:00+03:00",
+          "title": "Match HL 2026/27: WK8: CHE vs TOT",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T16:30:00+03:00",
+          "stop": "2026-10-25T17:00:00+03:00",
+          "title": "⋗ Preshow",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T17:00:00+03:00",
+          "stop": "2026-10-25T18:00:00+03:00",
+          "title": "⋗ PL: Liverpool vs Brighton",
           "description": "L",
           "category": null
         }

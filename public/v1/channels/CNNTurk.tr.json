@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-22T11:58:00.496538+00:00",
+  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 13,
   "days": [
     {
       "date": "2026-10-24",
@@ -82,6 +82,32 @@
           "start": "2026-10-24T20:45:00+03:00",
           "stop": "2026-10-25T01:00:00+03:00",
           "title": "CNN TÜRK Masası.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "programs": [
+        {
+          "start": "2026-10-25T01:00:00+03:00",
+          "stop": "2026-10-25T02:15:00+03:00",
+          "title": "Gece Haberleri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T02:15:00+03:00",
+          "stop": "2026-10-25T05:00:00+03:00",
+          "title": "CNN TÜRK Masası.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T05:00:00+03:00",
+          "stop": "2026-10-25T06:00:00+03:00",
+          "title": "Haber.",
           "description": "L",
           "category": null
         }

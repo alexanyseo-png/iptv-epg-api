@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-22T11:58:00.496538+00:00",
+  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-10-22",
-      "programs": [
-        {
-          "start": "2026-10-22T11:00:00+03:00",
-          "stop": "2026-10-22T19:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T19:30:00+03:00",
-          "stop": "2026-10-22T21:55:00+03:00",
-          "title": "Valioliiga: Newcastle – Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T21:55:00+03:00",
-          "stop": "2026-10-23T11:00:00+03:00",
-          "title": "EUROpa League: Bournemouth – Milan",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-23",
       "programs": [
@@ -85,6 +59,39 @@
           "start": "2026-10-24T22:30:00+03:00",
           "stop": "2026-10-25T11:00:00+03:00",
           "title": "Formula 1: Singaporen GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "programs": [
+        {
+          "start": "2026-10-25T11:00:00+03:00",
+          "stop": "2026-10-25T15:55:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T15:55:00+03:00",
+          "stop": "2026-10-25T19:00:00+03:00",
+          "title": "Valioliiga: Manchester United – Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T19:00:00+03:00",
+          "stop": "2026-10-25T21:55:00+03:00",
+          "title": "Valioliiga: Chelsea – Tottenham",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T21:55:00+03:00",
+          "stop": "2026-10-25T22:55:00+03:00",
+          "title": "Formula 1: USA:n GP – Osakilpailu",
           "description": "L",
           "category": null
         }

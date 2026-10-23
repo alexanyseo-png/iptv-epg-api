@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-22T11:58:00.496538+00:00",
+  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-10-22",
-      "programs": [
-        {
-          "start": "2026-10-22T00:00:00+03:00",
-          "stop": "2026-10-22T05:00:00+03:00",
-          "title": "Ночь Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T05:00:00+03:00",
-          "stop": "2026-10-22T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T07:00:00+03:00",
-          "stop": "2026-10-22T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T11:00:00+03:00",
-          "stop": "2026-10-22T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T14:00:00+03:00",
-          "stop": "2026-10-22T16:00:00+03:00",
-          "title": "Подробнее с Александром Топориным",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T16:00:00+03:00",
-          "stop": "2026-10-22T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T19:00:00+03:00",
-          "stop": "2026-10-22T21:00:00+03:00",
-          "title": "Мардан",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-22T21:00:00+03:00",
-          "stop": "2026-10-23T05:00:00+03:00",
-          "title": "Это – Гудошников",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-23",
       "programs": [
@@ -210,6 +149,102 @@
         {
           "start": "2026-10-24T23:00:00+03:00",
           "stop": "2026-10-25T00:00:00+03:00",
+          "title": "ГАРные новости",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-25",
+      "programs": [
+        {
+          "start": "2026-10-25T00:00:00+03:00",
+          "stop": "2026-10-25T05:00:00+03:00",
+          "title": "Соловьев LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T05:00:00+03:00",
+          "stop": "2026-10-25T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T07:00:00+03:00",
+          "stop": "2026-10-25T11:00:00+03:00",
+          "title": "Утро",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T11:00:00+03:00",
+          "stop": "2026-10-25T11:30:00+03:00",
+          "title": "Большая рыба с Гией Саралидзе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T11:30:00+03:00",
+          "stop": "2026-10-25T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T13:00:00+03:00",
+          "stop": "2026-10-25T15:00:00+03:00",
+          "title": "Подробнее с Маратом Булатовым",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T15:00:00+03:00",
+          "stop": "2026-10-25T16:30:00+03:00",
+          "title": "Азаренок. Напрямую",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T16:30:00+03:00",
+          "stop": "2026-10-25T17:00:00+03:00",
+          "title": "Опасный бизнес",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T17:00:00+03:00",
+          "stop": "2026-10-25T18:00:00+03:00",
+          "title": "Геоэнергетика LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T18:00:00+03:00",
+          "stop": "2026-10-25T20:00:00+03:00",
+          "title": "Между народами с Аббасом Джума",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T20:00:00+03:00",
+          "stop": "2026-10-25T22:00:00+03:00",
+          "title": "Генри шоу",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T22:00:00+03:00",
+          "stop": "2026-10-25T23:00:00+03:00",
+          "title": "Триста! Тридцать! Три!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T23:00:00+03:00",
+          "stop": "2026-10-26T00:00:00+03:00",
           "title": "ГАРные новости",
           "description": "L",
           "category": null
