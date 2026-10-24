@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
+  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 29,
   "days": [
-    {
-      "date": "2026-10-23",
-      "programs": [
-        {
-          "start": "2026-10-23T00:00:00+03:00",
-          "stop": "2026-10-23T01:00:00+03:00",
-          "title": "⋗ NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T01:00:00+03:00",
-          "stop": "2026-10-23T02:00:00+03:00",
-          "title": "⋗ NFL Gameday Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T02:00:00+03:00",
-          "stop": "2026-10-23T03:00:00+03:00",
-          "title": "America's Game «1985 Chicago Bears». EP.2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T03:00:00+03:00",
-          "stop": "2026-10-23T06:00:00+03:00",
-          "title": "NFL Football «Teams TBA»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T06:00:00+03:00",
-          "stop": "2026-10-23T06:30:00+03:00",
-          "title": "NFL Mic'd Up «Best of Tom Brady»",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T06:30:00+03:00",
-          "stop": "2026-10-23T07:30:00+03:00",
-          "title": "⋗ NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T07:30:00+03:00",
-          "stop": "2026-10-23T10:00:00+03:00",
-          "title": "NFL Football «New England Patriots at Chicago Bears» (Soldier Field, Chicago, IL, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T10:00:00+03:00",
-          "stop": "2026-10-23T11:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T11:00:00+03:00",
-          "stop": "2026-10-23T12:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T12:00:00+03:00",
-          "stop": "2026-10-23T15:00:00+03:00",
-          "title": "NFL Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T15:00:00+03:00",
-          "stop": "2026-10-23T17:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T17:00:00+03:00",
-          "stop": "2026-10-23T19:00:00+03:00",
-          "title": "Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T19:00:00+03:00",
-          "stop": "2026-10-23T21:00:00+03:00",
-          "title": "⋗ NFL Total Access",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T21:00:00+03:00",
-          "stop": "2026-10-24T00:00:00+03:00",
-          "title": "NFL Football «New England Patriots at Chicago Bears» (Soldier Field, Chicago, IL, USA)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-24",
       "programs": [
@@ -316,6 +213,18 @@
           "start": "2026-10-25T23:30:00+03:00",
           "stop": "2026-10-26T02:30:00+03:00",
           "title": "⋗ NFL GameDay Live",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T02:30:00+03:00",
+          "stop": "2026-10-26T03:30:00+03:00",
+          "title": "⋗ NFL GameDay Highlights",
           "description": "L",
           "category": null
         }

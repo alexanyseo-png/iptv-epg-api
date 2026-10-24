@@ -8,204 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
+  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
   "available": true,
-  "programmeCount": 117,
+  "programmeCount": 119,
   "days": [
-    {
-      "date": "2026-10-23",
-      "programs": [
-        {
-          "start": "2026-10-23T01:05:00+03:00",
-          "stop": "2026-10-23T01:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T01:15:00+03:00",
-          "stop": "2026-10-23T02:00:00+03:00",
-          "title": "Nächster Halt: Auf die Fresse? - Angst in Bus und Bahn.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T02:00:00+03:00",
-          "stop": "2026-10-23T02:50:00+03:00",
-          "title": "Exakt - Das Nachrichtenmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T02:50:00+03:00",
-          "stop": "2026-10-23T03:00:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T03:00:00+03:00",
-          "stop": "2026-10-23T03:03:00+03:00",
-          "title": "Nachrichten - um 2.00 Uhr.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T03:03:00+03:00",
-          "stop": "2026-10-23T03:30:00+03:00",
-          "title": "Weltbilder - Malta - Wüste oder Wasserlabor der Zukunft?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T03:30:00+03:00",
-          "stop": "2026-10-23T04:00:00+03:00",
-          "title": "MDR SACHSENSPIEGEL.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:00:00+03:00",
-          "stop": "2026-10-23T04:03:00+03:00",
-          "title": "Nachrichten - um 3.00 Uhr.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:03:00+03:00",
-          "stop": "2026-10-23T04:48:00+03:00",
-          "title": "Aktuelle Stunde.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:48:00+03:00",
-          "stop": "2026-10-23T05:00:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T05:00:00+03:00",
-          "stop": "2026-10-23T05:03:00+03:00",
-          "title": "Nachrichten - um 4.00 Uhr.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T05:03:00+03:00",
-          "stop": "2026-10-23T06:25:00+03:00",
-          "title": "Landesschau Rheinland-Pfalz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T06:25:00+03:00",
-          "stop": "2026-10-23T06:30:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T06:30:00+03:00",
-          "stop": "2026-10-23T10:00:00+03:00",
-          "title": "ARD-Morgenmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T10:00:00+03:00",
-          "stop": "2026-10-23T13:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T13:00:00+03:00",
-          "stop": "2026-10-23T15:00:00+03:00",
-          "title": "ZDF-Mittagsmagazin - mit heute Xpress.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T15:00:00+03:00",
-          "stop": "2026-10-23T20:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T20:00:00+03:00",
-          "stop": "2026-10-23T20:08:00+03:00",
-          "title": "Tagesschau in Einfacher Sprache.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T20:08:00+03:00",
-          "stop": "2026-10-23T20:45:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T20:45:00+03:00",
-          "stop": "2026-10-23T21:00:00+03:00",
-          "title": "KlimaZeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T21:00:00+03:00",
-          "stop": "2026-10-23T21:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T21:15:00+03:00",
-          "stop": "2026-10-23T21:30:00+03:00",
-          "title": "tagesschau24 TOP-THEMA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T21:30:00+03:00",
-          "stop": "2026-10-23T22:00:00+03:00",
-          "title": "Kontraste: Der Angermayer-Trip - Geschäfte, Macht und Pilze.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T22:00:00+03:00",
-          "stop": "2026-10-23T22:02:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T22:02:00+03:00",
-          "stop": "2026-10-23T22:45:00+03:00",
-          "title": "Deutschland, deine Beamten: Zeit für Reformen?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T22:45:00+03:00",
-          "stop": "2026-10-23T23:20:00+03:00",
-          "title": "Tagesthemen - Mit Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T23:20:00+03:00",
-          "stop": "2026-10-24T00:05:00+03:00",
-          "title": "Nächster Halt: Auf die Fresse? - Angst in Bus und Bahn.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-24",
       "programs": [
@@ -594,27 +400,20 @@
         },
         {
           "start": "2026-10-25T04:55:00+03:00",
-          "stop": "2026-10-25T05:00:00+03:00",
-          "title": "Extra.",
+          "stop": "2026-10-25T05:25:00+03:00",
+          "title": "rbb24 Brandenburg aktuell.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T05:00:00+03:00",
-          "stop": "2026-10-25T05:15:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T05:15:00+03:00",
-          "stop": "2026-10-25T05:45:00+03:00",
+          "start": "2026-10-25T05:25:00+03:00",
+          "stop": "2026-10-25T05:55:00+03:00",
           "title": "buten un binnen | regionalmagazin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T05:45:00+03:00",
+          "start": "2026-10-25T05:55:00+03:00",
           "stop": "2026-10-25T06:00:00+03:00",
           "title": "Extra.",
           "description": "L",
@@ -735,7 +534,7 @@
         {
           "start": "2026-10-25T15:15:00+03:00",
           "stop": "2026-10-25T16:00:00+03:00",
-          "title": "Presseclub.",
+          "title": "Presseclub - Wenn Wut eskaliert: Ist Frankreich Vorbote für Deutschland?",
           "description": "L",
           "category": null
         },
@@ -826,14 +625,14 @@
         {
           "start": "2026-10-25T22:02:00+03:00",
           "stop": "2026-10-25T22:47:00+03:00",
-          "title": "Fit sein! Der Preis der Gesundheit. S: 4 / Ep: 2.",
+          "title": "Wer kann das bezahlen? S: 4 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T22:47:00+03:00",
           "stop": "2026-10-25T23:32:00+03:00",
-          "title": "Wer kann das bezahlen? S: 4 / Ep: 1.",
+          "title": "Wer kann das bezahlen? Unser Auto! Zwischen Kult und Krise. S: 4 / Ep: 1.",
           "description": "L",
           "category": null
         },
@@ -841,6 +640,221 @@
           "start": "2026-10-25T23:32:00+03:00",
           "stop": "2026-10-26T00:02:00+03:00",
           "title": "Bericht aus Berlin.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T00:02:00+03:00",
+          "stop": "2026-10-26T00:15:00+03:00",
+          "title": "Extra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T00:15:00+03:00",
+          "stop": "2026-10-26T00:35:00+03:00",
+          "title": "Tagesthemen - Mit Sport und Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T00:35:00+03:00",
+          "stop": "2026-10-26T01:20:00+03:00",
+          "title": "Weltspiegel - Auslandskorrespondenten berichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T01:20:00+03:00",
+          "stop": "2026-10-26T01:35:00+03:00",
+          "title": "Tagesschau vor 20 Jahren.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T01:35:00+03:00",
+          "stop": "2026-10-26T02:20:00+03:00",
+          "title": "Wer kann das bezahlen? S: 3 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T02:20:00+03:00",
+          "stop": "2026-10-26T03:05:00+03:00",
+          "title": "Wer kann das bezahlen? S: 4 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T03:05:00+03:00",
+          "stop": "2026-10-26T03:07:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T03:07:00+03:00",
+          "stop": "2026-10-26T03:52:00+03:00",
+          "title": "Wer kann das bezahlen? Unser Auto! Zwischen Kult und Krise. S: 4 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T03:52:00+03:00",
+          "stop": "2026-10-26T04:05:00+03:00",
+          "title": "Shift - Digitales Glücksspiel - wie hoch ist Dein Risiko?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:05:00+03:00",
+          "stop": "2026-10-26T04:15:00+03:00",
+          "title": "Extra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:15:00+03:00",
+          "stop": "2026-10-26T04:30:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:30:00+03:00",
+          "stop": "2026-10-26T05:15:00+03:00",
+          "title": "Presseclub - Wenn Wut eskaliert: Ist Frankreich Vorbote für Deutschland?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T05:15:00+03:00",
+          "stop": "2026-10-26T05:45:00+03:00",
+          "title": "buten un binnen mit sportblitz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T05:45:00+03:00",
+          "stop": "2026-10-26T06:00:00+03:00",
+          "title": "Am Limit - Die Hansestadt Gardelegen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T06:00:00+03:00",
+          "stop": "2026-10-26T06:02:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T06:02:00+03:00",
+          "stop": "2026-10-26T06:30:00+03:00",
+          "title": "hessenschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T06:30:00+03:00",
+          "stop": "2026-10-26T10:00:00+03:00",
+          "title": "▶️ ZDF-Morgenmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T10:00:00+03:00",
+          "stop": "2026-10-26T13:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T13:00:00+03:00",
+          "stop": "2026-10-26T15:00:00+03:00",
+          "title": "ARD-Mittagsmagazin - Mit Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T15:00:00+03:00",
+          "stop": "2026-10-26T20:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:00:00+03:00",
+          "stop": "2026-10-26T20:08:00+03:00",
+          "title": "Tagesschau in Einfacher Sprache.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:08:00+03:00",
+          "stop": "2026-10-26T21:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T21:00:00+03:00",
+          "stop": "2026-10-26T21:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T21:15:00+03:00",
+          "stop": "2026-10-26T21:30:00+03:00",
+          "title": "tagesschau24 TOP-THEMA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T21:30:00+03:00",
+          "stop": "2026-10-26T22:15:00+03:00",
+          "title": "Zwischen Schulbank und Schießstand.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:15:00+03:00",
+          "stop": "2026-10-26T22:17:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:17:00+03:00",
+          "stop": "2026-10-26T22:47:00+03:00",
+          "title": "Ulrich Timm im Gespräch mit Jörg Lau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:47:00+03:00",
+          "stop": "2026-10-26T23:15:00+03:00",
+          "title": "Westpol.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T23:15:00+03:00",
+          "stop": "2026-10-26T23:50:00+03:00",
+          "title": "Tagesthemen - Mit Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T23:50:00+03:00",
+          "stop": "2026-10-27T00:05:00+03:00",
+          "title": "Weltspiegel extra: Wahl in Israel: Alle gegen Netanjahu?",
           "description": "L",
           "category": null
         }

@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
+  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-10-23",
-      "programs": [
-        {
-          "start": "2026-10-23T00:54:00+03:00",
-          "stop": "2026-10-23T01:55:00+03:00",
-          "title": "100Янов",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T01:55:00+03:00",
-          "stop": "2026-10-23T04:02:00+03:00",
-          "title": "Измайловский парк",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:02:00+03:00",
-          "stop": "2026-10-23T05:00:00+03:00",
-          "title": "Городок. Дайджест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T05:00:00+03:00",
-          "stop": "2026-10-23T06:00:00+03:00",
-          "title": "Улыбка на ночь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T06:00:00+03:00",
-          "stop": "2026-10-23T08:00:00+03:00",
-          "title": "Петросян-шоу",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T08:00:00+03:00",
-          "stop": "2026-10-23T11:58:00+03:00",
-          "title": "Поймай меня, если сможешь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T11:58:00+03:00",
-          "stop": "2026-10-23T13:02:00+03:00",
-          "title": "100Янов",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T13:02:00+03:00",
-          "stop": "2026-10-23T14:48:00+03:00",
-          "title": "Аншлаг и КО",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T14:48:00+03:00",
-          "stop": "2026-10-23T16:30:00+03:00",
-          "title": "Петросян-шоу",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T16:30:00+03:00",
-          "stop": "2026-10-23T18:03:00+03:00",
-          "title": "Веселья час",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T18:03:00+03:00",
-          "stop": "2026-10-23T20:00:00+03:00",
-          "title": "Парад юмора",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T20:00:00+03:00",
-          "stop": "2026-10-24T00:19:00+03:00",
-          "title": "Измайловский парк",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-24",
       "programs": [
@@ -267,6 +178,18 @@
           "start": "2026-10-25T20:00:00+03:00",
           "stop": "2026-10-26T03:37:00+03:00",
           "title": "Поймай меня, если сможешь",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T03:37:00+03:00",
+          "stop": "2026-10-26T04:37:00+03:00",
+          "title": "Веселья час",
           "description": "L",
           "category": null
         }

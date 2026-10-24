@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-23T11:43:49.561720+00:00",
+  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
   "available": true,
-  "programmeCount": 47,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-10-23",
-      "programs": [
-        {
-          "start": "2026-10-23T01:00:00+03:00",
-          "stop": "2026-10-23T02:30:00+03:00",
-          "title": "Ultimate Pool Leagues. Semi-Final 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T02:30:00+03:00",
-          "stop": "2026-10-23T03:30:00+03:00",
-          "title": "FIA World Rally-Raid Championship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T03:30:00+03:00",
-          "stop": "2026-10-23T04:00:00+03:00",
-          "title": "UIM F1H2O World Championship Powerboat Racing. Grand Prix of Shanghai, China",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:00:00+03:00",
-          "stop": "2026-10-23T04:30:00+03:00",
-          "title": "The Breakdown. UFC 333",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T04:30:00+03:00",
-          "stop": "2026-10-23T05:30:00+03:00",
-          "title": "UFC Countdown. 333",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T05:30:00+03:00",
-          "stop": "2026-10-23T08:00:00+03:00",
-          "title": "Major League Baseball. World Series, Game 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T08:00:00+03:00",
-          "stop": "2026-10-23T10:30:00+03:00",
-          "title": "Major League Baseball. World Series, Game 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T10:30:00+03:00",
-          "stop": "2026-10-23T13:00:00+03:00",
-          "title": "Major League Baseball. World Series, Game 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T13:00:00+03:00",
-          "stop": "2026-10-23T15:00:00+03:00",
-          "title": "Australia Championship Supercars. Bathurst 1000",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T15:00:00+03:00",
-          "stop": "2026-10-23T18:30:00+03:00",
-          "title": "⋗ Northern Ireland Open Snooker. Quarter-Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T18:30:00+03:00",
-          "stop": "2026-10-23T20:00:00+03:00",
-          "title": "Ultimate Pool Leagues. Semi-Final 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T20:00:00+03:00",
-          "stop": "2026-10-23T21:00:00+03:00",
-          "title": "FIA World Rally-Raid Championship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-23T21:00:00+03:00",
-          "stop": "2026-10-24T00:30:00+03:00",
-          "title": "⋗ Northern Ireland Open Snooker. Quarter-Final",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-24",
       "programs": [
@@ -351,6 +255,53 @@
           "start": "2026-10-25T23:00:00+03:00",
           "stop": "2026-10-26T00:00:00+03:00",
           "title": "MotoGP. Australian Grand Prix: MotoGP Race",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T00:00:00+03:00",
+          "stop": "2026-10-26T01:00:00+03:00",
+          "title": "Women's One-Day International Cricket. 2nd ODI: India v Zimbabwe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T01:00:00+03:00",
+          "stop": "2026-10-26T02:00:00+03:00",
+          "title": "PREM Rugby. Harlequins v Saracens",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T02:00:00+03:00",
+          "stop": "2026-10-26T03:30:00+03:00",
+          "title": "Ultimate Pool Leagues. Semi-Final 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T03:30:00+03:00",
+          "stop": "2026-10-26T04:00:00+03:00",
+          "title": "UIM F1H2O World Championship Powerboat Racing. Grand Prix of Shanghai, China",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:00:00+03:00",
+          "stop": "2026-10-26T04:30:00+03:00",
+          "title": "UCI Mountain Bike Enduro World Championships. Ligure",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:30:00+03:00",
+          "stop": "2026-10-26T05:30:00+03:00",
+          "title": "Major League Baseball. World Series, Game 2",
           "description": "L",
           "category": null
         }
