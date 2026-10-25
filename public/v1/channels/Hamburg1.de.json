@@ -8,498 +8,101 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
+  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
   "available": true,
-  "programmeCount": 158,
+  "programmeCount": 153,
   "days": [
-    {
-      "date": "2026-10-24",
-      "programs": [
-        {
-          "start": "2026-10-24T00:00:00+03:00",
-          "stop": "2026-10-24T01:00:00+03:00",
-          "title": "Moin Moin - Frühcafé.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T01:00:00+03:00",
-          "stop": "2026-10-24T01:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T01:15:00+03:00",
-          "stop": "2026-10-24T01:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T01:45:00+03:00",
-          "stop": "2026-10-24T02:00:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T02:00:00+03:00",
-          "stop": "2026-10-24T02:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T02:15:00+03:00",
-          "stop": "2026-10-24T02:30:00+03:00",
-          "title": "Hamburg im Wandel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T02:30:00+03:00",
-          "stop": "2026-10-24T03:00:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T03:00:00+03:00",
-          "stop": "2026-10-24T03:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T03:15:00+03:00",
-          "stop": "2026-10-24T03:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T03:45:00+03:00",
-          "stop": "2026-10-24T04:00:00+03:00",
-          "title": "# Hamburg is boarding.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T04:00:00+03:00",
-          "stop": "2026-10-24T04:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T04:15:00+03:00",
-          "stop": "2026-10-24T04:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T04:45:00+03:00",
-          "stop": "2026-10-24T05:00:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:00:00+03:00",
-          "stop": "2026-10-24T05:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:15:00+03:00",
-          "stop": "2026-10-24T05:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:45:00+03:00",
-          "stop": "2026-10-24T06:00:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T06:00:00+03:00",
-          "stop": "2026-10-24T06:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T06:15:00+03:00",
-          "stop": "2026-10-24T06:30:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T06:30:00+03:00",
-          "stop": "2026-10-24T07:00:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T07:00:00+03:00",
-          "stop": "2026-10-24T07:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T07:15:00+03:00",
-          "stop": "2026-10-24T07:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T07:45:00+03:00",
-          "stop": "2026-10-24T08:00:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:00:00+03:00",
-          "stop": "2026-10-24T08:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:15:00+03:00",
-          "stop": "2026-10-24T08:30:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:30:00+03:00",
-          "stop": "2026-10-24T08:45:00+03:00",
-          "title": "# Hamburg is boarding.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:45:00+03:00",
-          "stop": "2026-10-24T09:00:00+03:00",
-          "title": "Hamburg im Wandel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T09:00:00+03:00",
-          "stop": "2026-10-24T09:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T09:15:00+03:00",
-          "stop": "2026-10-24T10:00:00+03:00",
-          "title": "Kalles Halbzeit im Verlies.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T10:00:00+03:00",
-          "stop": "2026-10-24T11:00:00+03:00",
-          "title": "Q24.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:00:00+03:00",
-          "stop": "2026-10-24T11:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:15:00+03:00",
-          "stop": "2026-10-24T11:30:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:30:00+03:00",
-          "stop": "2026-10-24T11:45:00+03:00",
-          "title": "Auf den Punkt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:45:00+03:00",
-          "stop": "2026-10-24T12:00:00+03:00",
-          "title": "Knobi Vital.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T12:00:00+03:00",
-          "stop": "2026-10-24T13:00:00+03:00",
-          "title": "Sonnenklar TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T13:00:00+03:00",
-          "stop": "2026-10-24T14:00:00+03:00",
-          "title": "Der Medientalk.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T14:00:00+03:00",
-          "stop": "2026-10-24T14:45:00+03:00",
-          "title": "Lighthouse Hamburg.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T14:45:00+03:00",
-          "stop": "2026-10-24T16:00:00+03:00",
-          "title": "Nachgefragt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T16:00:00+03:00",
-          "stop": "2026-10-24T17:00:00+03:00",
-          "title": "Experts TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T17:00:00+03:00",
-          "stop": "2026-10-24T18:00:00+03:00",
-          "title": "Berge & Meer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:00:00+03:00",
-          "stop": "2026-10-24T18:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:15:00+03:00",
-          "stop": "2026-10-24T18:30:00+03:00",
-          "title": "Wir lieben Tiere.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:30:00+03:00",
-          "stop": "2026-10-24T19:00:00+03:00",
-          "title": "Bubble Gum TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:00:00+03:00",
-          "stop": "2026-10-24T19:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:15:00+03:00",
-          "stop": "2026-10-24T20:00:00+03:00",
-          "title": "First Moments - Wie alles begann.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:00:00+03:00",
-          "stop": "2026-10-24T20:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:15:00+03:00",
-          "stop": "2026-10-24T20:30:00+03:00",
-          "title": "Vorsorge. Einfach. Besser.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:30:00+03:00",
-          "stop": "2026-10-24T20:45:00+03:00",
-          "title": "Lifestyle TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:45:00+03:00",
-          "stop": "2026-10-24T21:00:00+03:00",
-          "title": "Rosaxan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T21:00:00+03:00",
-          "stop": "2026-10-24T21:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T21:15:00+03:00",
-          "stop": "2026-10-24T21:45:00+03:00",
-          "title": "Genussmanege.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T21:45:00+03:00",
-          "stop": "2026-10-24T22:00:00+03:00",
-          "title": "Nachgefragt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T22:00:00+03:00",
-          "stop": "2026-10-24T22:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T22:15:00+03:00",
-          "stop": "2026-10-24T23:15:00+03:00",
-          "title": "By Bedo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T23:15:00+03:00",
-          "stop": "2026-10-24T23:30:00+03:00",
-          "title": "# Hamburg is boarding.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T23:30:00+03:00",
-          "stop": "2026-10-24T23:45:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T23:45:00+03:00",
-          "stop": "2026-10-25T00:00:00+03:00",
-          "title": "Nachgefragt.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "programs": [
         {
-          "start": "2026-10-25T00:00:00+03:00",
-          "stop": "2026-10-25T00:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
+          "start": "2026-10-25T00:15:00+03:00",
+          "stop": "2026-10-25T00:30:00+03:00",
+          "title": "# Hamburg is boarding.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T00:15:00+03:00",
+          "start": "2026-10-25T00:30:00+03:00",
+          "stop": "2026-10-25T00:45:00+03:00",
+          "title": "Das Tor zur Zukunft.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T00:45:00+03:00",
+          "stop": "2026-10-25T01:00:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T01:00:00+03:00",
           "stop": "2026-10-25T01:15:00+03:00",
-          "title": "By Bedo.",
+          "title": "Hamburg 1 - Die Woche.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T01:15:00+03:00",
-          "stop": "2026-10-25T01:45:00+03:00",
-          "title": "Kuno's.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T01:45:00+03:00",
-          "stop": "2026-10-25T02:00:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T02:00:00+03:00",
           "stop": "2026-10-25T02:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T02:15:00+03:00",
-          "stop": "2026-10-25T04:00:00+03:00",
           "title": "By Bedo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T04:00:00+03:00",
-          "stop": "2026-10-25T04:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T04:15:00+03:00",
-          "stop": "2026-10-25T04:45:00+03:00",
+          "start": "2026-10-25T02:15:00+03:00",
+          "stop": "2026-10-25T02:45:00+03:00",
           "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T04:45:00+03:00",
+          "start": "2026-10-25T02:45:00+03:00",
+          "stop": "2026-10-25T03:00:00+03:00",
+          "title": "car port.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T03:00:00+03:00",
+          "stop": "2026-10-25T03:15:00+03:00",
+          "title": "Hamburg 1 - Die Woche.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T03:15:00+03:00",
+          "stop": "2026-10-25T05:00:00+03:00",
+          "title": "By Bedo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T05:00:00+03:00",
           "stop": "2026-10-25T05:15:00+03:00",
-          "title": "# Hamburg is boarding.",
+          "title": "Hamburg 1 - Die Woche.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T05:15:00+03:00",
-          "stop": "2026-10-25T05:30:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T05:30:00+03:00",
-          "stop": "2026-10-25T06:00:00+03:00",
+          "stop": "2026-10-25T05:45:00+03:00",
           "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T06:00:00+03:00",
+          "start": "2026-10-25T05:45:00+03:00",
           "stop": "2026-10-25T06:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
+          "title": "# Hamburg is boarding.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T06:15:00+03:00",
           "stop": "2026-10-25T06:30:00+03:00",
-          "title": "car port.",
+          "title": "Das Tor zur Zukunft.",
           "description": "L",
           "category": null
         },
@@ -519,13 +122,13 @@
         },
         {
           "start": "2026-10-25T07:15:00+03:00",
-          "stop": "2026-10-25T07:45:00+03:00",
-          "title": "Hamburg im Wandel.",
+          "stop": "2026-10-25T07:30:00+03:00",
+          "title": "car port.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T07:45:00+03:00",
+          "start": "2026-10-25T07:30:00+03:00",
           "stop": "2026-10-25T08:00:00+03:00",
           "title": "Kuno's.",
           "description": "L",
@@ -541,105 +144,98 @@
         {
           "start": "2026-10-25T08:15:00+03:00",
           "stop": "2026-10-25T08:45:00+03:00",
-          "title": "Kuno's.",
+          "title": "Hamburg im Wandel.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T08:45:00+03:00",
           "stop": "2026-10-25T09:00:00+03:00",
-          "title": "car port.",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T09:00:00+03:00",
+          "stop": "2026-10-25T09:15:00+03:00",
+          "title": "Hamburg 1 - Die Woche.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T09:15:00+03:00",
           "stop": "2026-10-25T09:45:00+03:00",
-          "title": "Arche TV.",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T09:45:00+03:00",
-          "stop": "2026-10-25T12:00:00+03:00",
-          "title": "Hella Halbmarathon.",
+          "stop": "2026-10-25T10:00:00+03:00",
+          "title": "car port.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T12:00:00+03:00",
+          "start": "2026-10-25T10:00:00+03:00",
+          "stop": "2026-10-25T10:45:00+03:00",
+          "title": "Arche TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T10:45:00+03:00",
           "stop": "2026-10-25T13:00:00+03:00",
-          "title": "Sonnenklar TV.",
+          "title": "Hella Halbmarathon.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T13:00:00+03:00",
           "stop": "2026-10-25T14:00:00+03:00",
-          "title": "Der Medientalk.",
+          "title": "Sonnenklar TV.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T14:00:00+03:00",
           "stop": "2026-10-25T15:00:00+03:00",
-          "title": "Lighthouse Hamburg.",
+          "title": "Der Medientalk.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T15:00:00+03:00",
-          "stop": "2026-10-25T15:30:00+03:00",
-          "title": "Bubble Gum TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T15:30:00+03:00",
-          "stop": "2026-10-25T15:45:00+03:00",
-          "title": "Vorsorge. Einfach. Besser.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T15:45:00+03:00",
           "stop": "2026-10-25T16:00:00+03:00",
-          "title": "Nachgefragt.",
+          "title": "Lighthouse Hamburg.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T16:00:00+03:00",
+          "stop": "2026-10-25T16:30:00+03:00",
+          "title": "Bubble Gum TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T16:30:00+03:00",
+          "stop": "2026-10-25T16:45:00+03:00",
+          "title": "Vorsorge. Einfach. Besser.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T16:45:00+03:00",
           "stop": "2026-10-25T17:00:00+03:00",
-          "title": "Experts TV.",
+          "title": "Nachgefragt.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T17:00:00+03:00",
-          "stop": "2026-10-25T17:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T17:15:00+03:00",
-          "stop": "2026-10-25T17:30:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T17:30:00+03:00",
-          "stop": "2026-10-25T17:45:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T17:45:00+03:00",
           "stop": "2026-10-25T18:00:00+03:00",
-          "title": "KnobiVital.",
+          "title": "Experts TV.",
           "description": "L",
           "category": null
         },
@@ -652,8 +248,22 @@
         },
         {
           "start": "2026-10-25T18:15:00+03:00",
+          "stop": "2026-10-25T18:30:00+03:00",
+          "title": "car port.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T18:30:00+03:00",
+          "stop": "2026-10-25T18:45:00+03:00",
+          "title": "Das Tor zur Zukunft.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T18:45:00+03:00",
           "stop": "2026-10-25T19:00:00+03:00",
-          "title": "Andruck.",
+          "title": "KnobiVital.",
           "description": "L",
           "category": null
         },
@@ -666,64 +276,57 @@
         },
         {
           "start": "2026-10-25T19:15:00+03:00",
-          "stop": "2026-10-25T19:30:00+03:00",
-          "title": "First Moments - Wie alles begann.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T19:30:00+03:00",
           "stop": "2026-10-25T20:00:00+03:00",
-          "title": "Kuno's.",
+          "title": "Andruck.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T20:00:00+03:00",
           "stop": "2026-10-25T20:15:00+03:00",
-          "title": "KnobiVital.",
+          "title": "Hamburg 1 - Die Woche.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T20:15:00+03:00",
           "stop": "2026-10-25T20:30:00+03:00",
-          "title": "Rosaxan.",
+          "title": "First Moments - Wie alles begann.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T20:30:00+03:00",
-          "stop": "2026-10-25T20:45:00+03:00",
-          "title": "Auf den Punkt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T20:45:00+03:00",
           "stop": "2026-10-25T21:00:00+03:00",
-          "title": "Ellermann's Welt.",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T21:00:00+03:00",
           "stop": "2026-10-25T21:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
+          "title": "KnobiVital.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T21:15:00+03:00",
+          "stop": "2026-10-25T21:30:00+03:00",
+          "title": "Rosaxan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T21:30:00+03:00",
           "stop": "2026-10-25T21:45:00+03:00",
-          "title": "Genussmanege.",
+          "title": "Auf den Punkt.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T21:45:00+03:00",
           "stop": "2026-10-25T22:00:00+03:00",
-          "title": "Nachgefragt.",
+          "title": "Ellermann's Welt.",
           "description": "L",
           "category": null
         },
@@ -736,29 +339,43 @@
         },
         {
           "start": "2026-10-25T22:15:00+03:00",
-          "stop": "2026-10-25T22:30:00+03:00",
-          "title": "car port.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T22:30:00+03:00",
           "stop": "2026-10-25T22:45:00+03:00",
-          "title": "Nachgefragt.",
+          "title": "Genussmanege.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T22:45:00+03:00",
           "stop": "2026-10-25T23:00:00+03:00",
-          "title": "Ellermann's Welt.",
+          "title": "Nachgefragt.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T23:00:00+03:00",
-          "stop": "2026-10-26T00:00:00+03:00",
+          "stop": "2026-10-25T23:15:00+03:00",
           "title": "Hamburg 1 - Die Woche.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T23:15:00+03:00",
+          "stop": "2026-10-25T23:30:00+03:00",
+          "title": "car port.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T23:30:00+03:00",
+          "stop": "2026-10-25T23:45:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T23:45:00+03:00",
+          "stop": "2026-10-26T00:00:00+03:00",
+          "title": "Ellermann's Welt.",
           "description": "L",
           "category": null
         }
@@ -769,22 +386,8 @@
       "programs": [
         {
           "start": "2026-10-26T00:00:00+03:00",
-          "stop": "2026-10-26T00:15:00+03:00",
-          "title": "Hamburg 1 - Die Woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T00:15:00+03:00",
-          "stop": "2026-10-26T00:30:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T00:30:00+03:00",
           "stop": "2026-10-26T01:00:00+03:00",
-          "title": "Berlin.Boxx.",
+          "title": "Hamburg 1 - Die Woche.",
           "description": "L",
           "category": null
         },
@@ -798,14 +401,14 @@
         {
           "start": "2026-10-26T01:15:00+03:00",
           "stop": "2026-10-26T01:30:00+03:00",
-          "title": "car port.",
+          "title": "Das Tor zur Zukunft.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T01:30:00+03:00",
           "stop": "2026-10-26T02:00:00+03:00",
-          "title": "Kuno's.",
+          "title": "Berlin.Boxx.",
           "description": "L",
           "category": null
         },
@@ -818,15 +421,15 @@
         },
         {
           "start": "2026-10-26T02:15:00+03:00",
-          "stop": "2026-10-26T02:45:00+03:00",
-          "title": "Kuno's.",
+          "stop": "2026-10-26T02:30:00+03:00",
+          "title": "car port.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T02:45:00+03:00",
+          "start": "2026-10-26T02:30:00+03:00",
           "stop": "2026-10-26T03:00:00+03:00",
-          "title": "Auf den Punkt.",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
@@ -839,15 +442,15 @@
         },
         {
           "start": "2026-10-26T03:15:00+03:00",
-          "stop": "2026-10-26T03:30:00+03:00",
-          "title": "Das Tor zur Zukunft.",
+          "stop": "2026-10-26T03:45:00+03:00",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T03:30:00+03:00",
+          "start": "2026-10-26T03:45:00+03:00",
           "stop": "2026-10-26T04:00:00+03:00",
-          "title": "Kuno's.",
+          "title": "Auf den Punkt.",
           "description": "L",
           "category": null
         },
@@ -861,7 +464,7 @@
         {
           "start": "2026-10-26T04:15:00+03:00",
           "stop": "2026-10-26T04:30:00+03:00",
-          "title": "# Hamburg is boarding.",
+          "title": "Das Tor zur Zukunft.",
           "description": "L",
           "category": null
         },
@@ -881,15 +484,15 @@
         },
         {
           "start": "2026-10-26T05:15:00+03:00",
-          "stop": "2026-10-26T05:45:00+03:00",
-          "title": "Kuno's.",
+          "stop": "2026-10-26T05:30:00+03:00",
+          "title": "# Hamburg is boarding.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T05:45:00+03:00",
+          "start": "2026-10-26T05:30:00+03:00",
           "stop": "2026-10-26T06:00:00+03:00",
-          "title": "car port.",
+          "title": "Kuno's.",
           "description": "L",
           "category": null
         },
@@ -902,169 +505,169 @@
         },
         {
           "start": "2026-10-26T06:15:00+03:00",
-          "stop": "2026-10-26T06:30:00+03:00",
-          "title": "Das Tor zur Zukunft.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T06:30:00+03:00",
-          "stop": "2026-10-26T07:00:00+03:00",
+          "stop": "2026-10-26T06:45:00+03:00",
           "title": "Kuno's.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T07:00:00+03:00",
-          "stop": "2026-10-26T07:45:00+03:00",
-          "title": "Spielfilm.",
+          "start": "2026-10-26T06:45:00+03:00",
+          "stop": "2026-10-26T07:00:00+03:00",
+          "title": "car port.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T07:45:00+03:00",
-          "stop": "2026-10-26T08:00:00+03:00",
+          "start": "2026-10-26T07:00:00+03:00",
+          "stop": "2026-10-26T07:15:00+03:00",
           "title": "Hamburg 1 - Die Woche.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-10-26T07:15:00+03:00",
+          "stop": "2026-10-26T07:30:00+03:00",
+          "title": "Das Tor zur Zukunft.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T07:30:00+03:00",
+          "stop": "2026-10-26T08:00:00+03:00",
+          "title": "Kuno's.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-10-26T08:00:00+03:00",
-          "stop": "2026-10-26T10:00:00+03:00",
+          "stop": "2026-10-26T08:45:00+03:00",
+          "title": "Spielfilm.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T08:45:00+03:00",
+          "stop": "2026-10-26T09:00:00+03:00",
+          "title": "Hamburg 1 - Die Woche.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T09:00:00+03:00",
+          "stop": "2026-10-26T11:00:00+03:00",
           "title": "Moin Moin - Frühcafé.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T10:00:00+03:00",
-          "stop": "2026-10-26T11:00:00+03:00",
+          "start": "2026-10-26T11:00:00+03:00",
+          "stop": "2026-10-26T12:00:00+03:00",
           "title": "Q24.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T11:00:00+03:00",
-          "stop": "2026-10-26T11:15:00+03:00",
+          "start": "2026-10-26T12:00:00+03:00",
+          "stop": "2026-10-26T12:15:00+03:00",
           "title": "Hamburg im Wandel.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T11:15:00+03:00",
-          "stop": "2026-10-26T11:30:00+03:00",
+          "start": "2026-10-26T12:15:00+03:00",
+          "stop": "2026-10-26T12:30:00+03:00",
           "title": "# Hamburg is boarding.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T11:30:00+03:00",
-          "stop": "2026-10-26T11:45:00+03:00",
+          "start": "2026-10-26T12:30:00+03:00",
+          "stop": "2026-10-26T12:45:00+03:00",
           "title": "Rosaxan.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T11:45:00+03:00",
-          "stop": "2026-10-26T12:00:00+03:00",
-          "title": "Nachgefragt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T12:00:00+03:00",
+          "start": "2026-10-26T12:45:00+03:00",
           "stop": "2026-10-26T13:00:00+03:00",
-          "title": "Sonnenklar TV.",
+          "title": "Nachgefragt.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T13:00:00+03:00",
           "stop": "2026-10-26T14:00:00+03:00",
-          "title": "Der Medientalk.",
+          "title": "Sonnenklar TV.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T14:00:00+03:00",
-          "stop": "2026-10-26T14:45:00+03:00",
-          "title": "Lighthouse Hamburg.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T14:45:00+03:00",
           "stop": "2026-10-26T15:00:00+03:00",
-          "title": "Nachgefragt.",
+          "title": "Der Medientalk.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T15:00:00+03:00",
+          "stop": "2026-10-26T15:45:00+03:00",
+          "title": "Lighthouse Hamburg.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T15:45:00+03:00",
           "stop": "2026-10-26T16:00:00+03:00",
-          "title": "Moin Moin - Frühcafé.",
+          "title": "Nachgefragt.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T16:00:00+03:00",
           "stop": "2026-10-26T17:00:00+03:00",
-          "title": "Experts TV.",
+          "title": "Moin Moin - Frühcafé.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T17:00:00+03:00",
           "stop": "2026-10-26T18:00:00+03:00",
-          "title": "Berge & Meer.",
+          "title": "Experts TV.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T18:00:00+03:00",
-          "stop": "2026-10-26T18:15:00+03:00",
-          "title": "Hamburg 1 Aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T18:15:00+03:00",
-          "stop": "2026-10-26T18:30:00+03:00",
-          "title": "Hamburg im Wandel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T18:30:00+03:00",
-          "stop": "2026-10-26T18:45:00+03:00",
-          "title": "Knobi Vital.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T18:45:00+03:00",
           "stop": "2026-10-26T19:00:00+03:00",
-          "title": "Rosaxan.",
+          "title": "Berge & Meer.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T19:00:00+03:00",
-          "stop": "2026-10-26T19:30:00+03:00",
+          "stop": "2026-10-26T19:15:00+03:00",
           "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T19:15:00+03:00",
+          "stop": "2026-10-26T19:30:00+03:00",
+          "title": "Hamburg im Wandel.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T19:30:00+03:00",
           "stop": "2026-10-26T19:45:00+03:00",
-          "title": "Nachgefragt.",
+          "title": "Knobi Vital.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T19:45:00+03:00",
           "stop": "2026-10-26T20:00:00+03:00",
-          "title": "Hamburg im Wandel.",
+          "title": "Rosaxan.",
           "description": "L",
           "category": null
         },
@@ -1077,22 +680,29 @@
         },
         {
           "start": "2026-10-26T20:30:00+03:00",
+          "stop": "2026-10-26T20:45:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:45:00+03:00",
           "stop": "2026-10-26T21:00:00+03:00",
-          "title": "Rasant.",
+          "title": "Hamburg im Wandel.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T21:00:00+03:00",
-          "stop": "2026-10-26T21:15:00+03:00",
+          "stop": "2026-10-26T21:30:00+03:00",
           "title": "Hamburg 1 Aktuell.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T21:15:00+03:00",
+          "start": "2026-10-26T21:30:00+03:00",
           "stop": "2026-10-26T22:00:00+03:00",
-          "title": "Kalles Halbzeit im Verlies.",
+          "title": "Rasant.",
           "description": "L",
           "category": null
         },
@@ -1105,15 +715,8 @@
         },
         {
           "start": "2026-10-26T22:15:00+03:00",
-          "stop": "2026-10-26T22:45:00+03:00",
-          "title": "Aus dem Bundestag.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T22:45:00+03:00",
           "stop": "2026-10-26T23:00:00+03:00",
-          "title": "Hamburg im Wandel.",
+          "title": "Kalles Halbzeit im Verlies.",
           "description": "L",
           "category": null
         },
@@ -1126,8 +729,370 @@
         },
         {
           "start": "2026-10-26T23:15:00+03:00",
+          "stop": "2026-10-26T23:45:00+03:00",
+          "title": "Aus dem Bundestag.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T23:45:00+03:00",
           "stop": "2026-10-27T00:00:00+03:00",
+          "title": "Hamburg im Wandel.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T00:00:00+03:00",
+          "stop": "2026-10-27T00:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T00:15:00+03:00",
+          "stop": "2026-10-27T01:00:00+03:00",
           "title": "Kalles Halbzeit im Verlies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T01:00:00+03:00",
+          "stop": "2026-10-27T02:00:00+03:00",
+          "title": "Moin Moin - Frühcafé.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T02:00:00+03:00",
+          "stop": "2026-10-27T02:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T02:15:00+03:00",
+          "stop": "2026-10-27T02:30:00+03:00",
+          "title": "Hamburg im Wandel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T02:30:00+03:00",
+          "stop": "2026-10-27T03:00:00+03:00",
+          "title": "Kuno's.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T03:00:00+03:00",
+          "stop": "2026-10-27T03:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T03:15:00+03:00",
+          "stop": "2026-10-27T03:30:00+03:00",
+          "title": "Das Tor zur Zukunft.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T03:30:00+03:00",
+          "stop": "2026-10-27T03:45:00+03:00",
+          "title": "car port.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T03:45:00+03:00",
+          "stop": "2026-10-27T04:00:00+03:00",
+          "title": "# Hamburg is boarding.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T04:00:00+03:00",
+          "stop": "2026-10-27T04:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T04:15:00+03:00",
+          "stop": "2026-10-27T05:00:00+03:00",
+          "title": "Kalles Halbzeit im Verlies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T05:00:00+03:00",
+          "stop": "2026-10-27T05:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T05:15:00+03:00",
+          "stop": "2026-10-27T05:45:00+03:00",
+          "title": "Kuno's.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T05:45:00+03:00",
+          "stop": "2026-10-27T06:00:00+03:00",
+          "title": "Das Tor zur Zukunft.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T06:00:00+03:00",
+          "stop": "2026-10-27T06:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T06:15:00+03:00",
+          "stop": "2026-10-27T07:00:00+03:00",
+          "title": "Kalles Halbzeit im Verlies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:00:00+03:00",
+          "stop": "2026-10-27T07:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:15:00+03:00",
+          "stop": "2026-10-27T07:30:00+03:00",
+          "title": "car port.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:30:00+03:00",
+          "stop": "2026-10-27T07:45:00+03:00",
+          "title": "Hamburg im Wandel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:45:00+03:00",
+          "stop": "2026-10-27T08:00:00+03:00",
+          "title": "Auf den Punkt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:00:00+03:00",
+          "stop": "2026-10-27T08:45:00+03:00",
+          "title": "Spielfilm.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:45:00+03:00",
+          "stop": "2026-10-27T09:00:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T09:00:00+03:00",
+          "stop": "2026-10-27T10:00:00+03:00",
+          "title": "Spielfilm.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T10:00:00+03:00",
+          "stop": "2026-10-27T11:00:00+03:00",
+          "title": "Deeptalk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T11:00:00+03:00",
+          "stop": "2026-10-27T12:00:00+03:00",
+          "title": "Q24.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T12:00:00+03:00",
+          "stop": "2026-10-27T12:30:00+03:00",
+          "title": "Rasant.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T12:30:00+03:00",
+          "stop": "2026-10-27T12:45:00+03:00",
+          "title": "Magazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T12:45:00+03:00",
+          "stop": "2026-10-27T13:00:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T13:00:00+03:00",
+          "stop": "2026-10-27T14:00:00+03:00",
+          "title": "Sonnenklar TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T14:00:00+03:00",
+          "stop": "2026-10-27T15:00:00+03:00",
+          "title": "Der Medientalk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:00:00+03:00",
+          "stop": "2026-10-27T15:45:00+03:00",
+          "title": "Kalles Halbzeit im Verlies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:45:00+03:00",
+          "stop": "2026-10-27T16:00:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T16:00:00+03:00",
+          "stop": "2026-10-27T17:00:00+03:00",
+          "title": "Moin Moin - Frühcafé.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T17:00:00+03:00",
+          "stop": "2026-10-27T18:00:00+03:00",
+          "title": "Experts TV.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:00:00+03:00",
+          "stop": "2026-10-27T18:15:00+03:00",
+          "title": "Rosaxan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:15:00+03:00",
+          "stop": "2026-10-27T18:30:00+03:00",
+          "title": "Kalles Halbzeit im Verlies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:30:00+03:00",
+          "stop": "2026-10-27T19:00:00+03:00",
+          "title": "Kuno's.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:00:00+03:00",
+          "stop": "2026-10-27T19:30:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:30:00+03:00",
+          "stop": "2026-10-27T19:45:00+03:00",
+          "title": "Rosaxan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:45:00+03:00",
+          "stop": "2026-10-27T20:00:00+03:00",
+          "title": "KnobiVital.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:00:00+03:00",
+          "stop": "2026-10-27T20:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:15:00+03:00",
+          "stop": "2026-10-27T20:30:00+03:00",
+          "title": "Nachgefragt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:30:00+03:00",
+          "stop": "2026-10-27T21:00:00+03:00",
+          "title": "Hamburg im Wandel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T21:00:00+03:00",
+          "stop": "2026-10-27T21:30:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T21:30:00+03:00",
+          "stop": "2026-10-27T22:00:00+03:00",
+          "title": "Meine Meinung.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T22:00:00+03:00",
+          "stop": "2026-10-27T22:15:00+03:00",
+          "title": "Hamburg 1 Aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T22:15:00+03:00",
+          "stop": "2026-10-27T23:00:00+03:00",
+          "title": "Lighthouse Hamburg.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T23:00:00+03:00",
+          "stop": "2026-10-27T23:15:00+03:00",
+          "title": "Magazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T23:15:00+03:00",
+          "stop": "2026-10-28T00:00:00+03:00",
+          "title": "First Moments - Wie alles begann.",
           "description": "L",
           "category": null
         }

@@ -8,253 +8,31 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
+  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
   "available": true,
-  "programmeCount": 102,
+  "programmeCount": 99,
   "days": [
-    {
-      "date": "2026-10-24",
-      "programs": [
-        {
-          "start": "2026-10-24T00:00:00+03:00",
-          "stop": "2026-10-24T00:30:00+03:00",
-          "title": "The Lead with Jake Tapper.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T00:30:00+03:00",
-          "stop": "2026-10-24T01:00:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T01:00:00+03:00",
-          "stop": "2026-10-24T02:00:00+03:00",
-          "title": "The Brief with Jim Sciutto.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T02:00:00+03:00",
-          "stop": "2026-10-24T03:00:00+03:00",
-          "title": "Erin Burnett OutFront.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T03:00:00+03:00",
-          "stop": "2026-10-24T04:00:00+03:00",
-          "title": "Anderson Cooper 360.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T04:00:00+03:00",
-          "stop": "2026-10-24T05:00:00+03:00",
-          "title": "The Source with Kaitlan Collins.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:00:00+03:00",
-          "stop": "2026-10-24T06:00:00+03:00",
-          "title": "CNN NewsNight.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T06:00:00+03:00",
-          "stop": "2026-10-24T07:00:00+03:00",
-          "title": "Laura Coates Live.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T07:00:00+03:00",
-          "stop": "2026-10-24T08:00:00+03:00",
-          "title": "The Story Is: With Elex Michaelson.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:00:00+03:00",
-          "stop": "2026-10-24T09:00:00+03:00",
-          "title": "The Story Is: With Elex Michaelson.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T09:00:00+03:00",
-          "stop": "2026-10-24T09:30:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T09:30:00+03:00",
-          "stop": "2026-10-24T10:00:00+03:00",
-          "title": "African Voices.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T10:00:00+03:00",
-          "stop": "2026-10-24T10:30:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T10:30:00+03:00",
-          "stop": "2026-10-24T11:00:00+03:00",
-          "title": "Seasons.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:00:00+03:00",
-          "stop": "2026-10-24T11:30:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:30:00+03:00",
-          "stop": "2026-10-24T12:00:00+03:00",
-          "title": "CNN Creators.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T12:00:00+03:00",
-          "stop": "2026-10-24T13:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T13:00:00+03:00",
-          "stop": "2026-10-24T13:30:00+03:00",
-          "title": "African Voices.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T13:30:00+03:00",
-          "stop": "2026-10-24T14:00:00+03:00",
-          "title": "Inside Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T14:00:00+03:00",
-          "stop": "2026-10-24T15:00:00+03:00",
-          "title": "CNN This Morning Weekend.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T15:00:00+03:00",
-          "stop": "2026-10-24T16:00:00+03:00",
-          "title": "First Of All With Victor Blackwell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T16:00:00+03:00",
-          "stop": "2026-10-24T17:00:00+03:00",
-          "title": "Smerconish.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T17:00:00+03:00",
-          "stop": "2026-10-24T17:30:00+03:00",
-          "title": "CNN Creators.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T17:30:00+03:00",
-          "stop": "2026-10-24T18:00:00+03:00",
-          "title": "Inside Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:00:00+03:00",
-          "stop": "2026-10-24T19:00:00+03:00",
-          "title": "The Amanpour Hour.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:00:00+03:00",
-          "stop": "2026-10-24T19:30:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:30:00+03:00",
-          "stop": "2026-10-24T20:00:00+03:00",
-          "title": "Quest's World of Wonder.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:00:00+03:00",
-          "stop": "2026-10-24T21:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T21:00:00+03:00",
-          "stop": "2026-10-24T22:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T22:00:00+03:00",
-          "stop": "2026-10-24T23:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T23:00:00+03:00",
-          "stop": "2026-10-25T00:00:00+03:00",
-          "title": "Zuckerberg: Facebook and the Cost of Connection.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "programs": [
         {
           "start": "2026-10-25T00:00:00+03:00",
-          "stop": "2026-10-25T00:30:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T00:30:00+03:00",
           "stop": "2026-10-25T01:00:00+03:00",
-          "title": "CNN Creators.",
+          "title": "Zuckerberg: Facebook and the Cost of Connection.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T01:00:00+03:00",
+          "stop": "2026-10-25T01:30:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T01:30:00+03:00",
           "stop": "2026-10-25T02:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
+          "title": "CNN Creators.",
           "description": "L",
           "category": null
         },
@@ -267,22 +45,15 @@
         },
         {
           "start": "2026-10-25T03:00:00+03:00",
-          "stop": "2026-10-25T03:30:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T03:30:00+03:00",
           "stop": "2026-10-25T04:00:00+03:00",
-          "title": "African Voices.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T04:00:00+03:00",
           "stop": "2026-10-25T04:30:00+03:00",
-          "title": "Inside Africa.",
+          "title": "World Sport.",
           "description": "L",
           "category": null
         },
@@ -296,35 +67,35 @@
         {
           "start": "2026-10-25T05:00:00+03:00",
           "stop": "2026-10-25T05:30:00+03:00",
-          "title": "Connecting Africa.",
+          "title": "Inside Africa.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T05:30:00+03:00",
-          "stop": "2026-10-25T05:45:00+03:00",
-          "title": "CNN Marketplace Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T05:45:00+03:00",
           "stop": "2026-10-25T06:00:00+03:00",
-          "title": "CNN Marketplace Europe.",
+          "title": "African Voices.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T06:00:00+03:00",
           "stop": "2026-10-25T06:30:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
+          "title": "Connecting Africa.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T06:30:00+03:00",
+          "stop": "2026-10-25T06:45:00+03:00",
+          "title": "CNN Marketplace Africa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T06:45:00+03:00",
           "stop": "2026-10-25T07:00:00+03:00",
-          "title": "World Sport.",
+          "title": "CNN Marketplace Europe.",
           "description": "L",
           "category": null
         },
@@ -338,7 +109,7 @@
         {
           "start": "2026-10-25T07:30:00+03:00",
           "stop": "2026-10-25T08:00:00+03:00",
-          "title": "Inside Africa.",
+          "title": "World Sport.",
           "description": "L",
           "category": null
         },
@@ -351,15 +122,8 @@
         },
         {
           "start": "2026-10-25T08:30:00+03:00",
-          "stop": "2026-10-25T08:45:00+03:00",
-          "title": "CNN Marketplace Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T08:45:00+03:00",
           "stop": "2026-10-25T09:00:00+03:00",
-          "title": "CNN Marketplace Europe.",
+          "title": "Inside Africa.",
           "description": "L",
           "category": null
         },
@@ -372,15 +136,29 @@
         },
         {
           "start": "2026-10-25T09:30:00+03:00",
+          "stop": "2026-10-25T09:45:00+03:00",
+          "title": "CNN Marketplace Africa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T09:45:00+03:00",
           "stop": "2026-10-25T10:00:00+03:00",
-          "title": "Quest's World of Wonder.",
+          "title": "CNN Marketplace Europe.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T10:00:00+03:00",
-          "stop": "2026-10-25T11:00:00+03:00",
+          "stop": "2026-10-25T10:30:00+03:00",
           "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T10:30:00+03:00",
+          "stop": "2026-10-25T11:00:00+03:00",
+          "title": "Quest's World of Wonder.",
           "description": "L",
           "category": null
         },
@@ -393,92 +171,92 @@
         },
         {
           "start": "2026-10-25T12:00:00+03:00",
-          "stop": "2026-10-25T12:30:00+03:00",
-          "title": "Seasons.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T12:30:00+03:00",
           "stop": "2026-10-25T13:00:00+03:00",
-          "title": "Inside Africa.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T13:00:00+03:00",
+          "stop": "2026-10-25T13:30:00+03:00",
+          "title": "Seasons.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T13:30:00+03:00",
           "stop": "2026-10-25T14:00:00+03:00",
-          "title": "CNN This Morning Weekend.",
+          "title": "Inside Africa.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T14:00:00+03:00",
           "stop": "2026-10-25T15:00:00+03:00",
-          "title": "Inside Politics.",
+          "title": "CNN This Morning Weekend.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T15:00:00+03:00",
           "stop": "2026-10-25T16:00:00+03:00",
-          "title": "State of the Union - with Jake Tapper and Dana Bash.",
+          "title": "Inside Politics.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T16:00:00+03:00",
           "stop": "2026-10-25T17:00:00+03:00",
-          "title": "Fareed Zakaria GPS.",
+          "title": "State of the Union - with Jake Tapper and Dana Bash.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T17:00:00+03:00",
           "stop": "2026-10-25T18:00:00+03:00",
-          "title": "Inside Politics.",
+          "title": "Fareed Zakaria GPS.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T18:00:00+03:00",
-          "stop": "2026-10-25T18:30:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T18:30:00+03:00",
           "stop": "2026-10-25T19:00:00+03:00",
-          "title": "Inside Africa.",
+          "title": "Inside Politics.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T19:00:00+03:00",
           "stop": "2026-10-25T19:30:00+03:00",
-          "title": "African Voices.",
+          "title": "World Sport.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T19:30:00+03:00",
-          "stop": "2026-10-25T19:45:00+03:00",
-          "title": "CNN Marketplace Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T19:45:00+03:00",
           "stop": "2026-10-25T20:00:00+03:00",
-          "title": "CNN Marketplace Europe.",
+          "title": "Inside Africa.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-25T20:00:00+03:00",
+          "stop": "2026-10-25T20:30:00+03:00",
+          "title": "African Voices.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T20:30:00+03:00",
+          "stop": "2026-10-25T20:45:00+03:00",
+          "title": "CNN Marketplace Africa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-25T20:45:00+03:00",
           "stop": "2026-10-25T21:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
+          "title": "CNN Marketplace Europe.",
           "description": "L",
           "category": null
         },
@@ -498,15 +276,8 @@
         },
         {
           "start": "2026-10-25T23:00:00+03:00",
-          "stop": "2026-10-25T23:30:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T23:30:00+03:00",
           "stop": "2026-10-26T00:00:00+03:00",
-          "title": "Quest's World of Wonder.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         }
@@ -517,8 +288,15 @@
       "programs": [
         {
           "start": "2026-10-26T00:00:00+03:00",
+          "stop": "2026-10-26T00:30:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T00:30:00+03:00",
           "stop": "2026-10-26T01:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
+          "title": "Quest's World of Wonder.",
           "description": "L",
           "category": null
         },
@@ -532,7 +310,7 @@
         {
           "start": "2026-10-26T02:00:00+03:00",
           "stop": "2026-10-26T03:00:00+03:00",
-          "title": "Midterms 2026: Countdown to Election Night.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         },
@@ -545,132 +323,125 @@
         },
         {
           "start": "2026-10-26T04:00:00+03:00",
-          "stop": "2026-10-26T04:30:00+03:00",
-          "title": "African Voices.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T04:30:00+03:00",
-          "stop": "2026-10-26T04:45:00+03:00",
-          "title": "CNN Marketplace Africa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T04:45:00+03:00",
           "stop": "2026-10-26T05:00:00+03:00",
-          "title": "CNN Marketplace Europe.",
+          "title": "Midterms 2026: Countdown to Election Night.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T05:00:00+03:00",
           "stop": "2026-10-26T05:30:00+03:00",
-          "title": "Seasons.",
+          "title": "African Voices.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T05:30:00+03:00",
+          "stop": "2026-10-26T05:45:00+03:00",
+          "title": "CNN Marketplace Africa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T05:45:00+03:00",
           "stop": "2026-10-26T06:00:00+03:00",
-          "title": "Inside Africa.",
+          "title": "CNN Marketplace Europe.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T06:00:00+03:00",
+          "stop": "2026-10-26T06:30:00+03:00",
+          "title": "Seasons.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T06:30:00+03:00",
           "stop": "2026-10-26T07:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
+          "title": "Inside Africa.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T07:00:00+03:00",
-          "stop": "2026-10-26T07:45:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T07:45:00+03:00",
           "stop": "2026-10-26T08:00:00+03:00",
-          "title": "World Sport.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T08:00:00+03:00",
+          "stop": "2026-10-26T08:45:00+03:00",
+          "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T08:45:00+03:00",
           "stop": "2026-10-26T09:00:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T09:00:00+03:00",
-          "stop": "2026-10-26T09:45:00+03:00",
-          "title": "CNN Newsroom (CNN/US).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T09:45:00+03:00",
-          "stop": "2026-10-26T10:00:00+03:00",
           "title": "World Sport.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T10:00:00+03:00",
-          "stop": "2026-10-26T11:00:00+03:00",
+          "start": "2026-10-26T09:00:00+03:00",
+          "stop": "2026-10-26T10:00:00+03:00",
           "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T10:00:00+03:00",
+          "stop": "2026-10-26T10:45:00+03:00",
+          "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T10:45:00+03:00",
+          "stop": "2026-10-26T11:00:00+03:00",
+          "title": "World Sport.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T11:00:00+03:00",
           "stop": "2026-10-26T12:00:00+03:00",
-          "title": "CNN Headline Express.",
+          "title": "CNN Newsroom (CNN/US).",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T12:00:00+03:00",
           "stop": "2026-10-26T13:00:00+03:00",
-          "title": "CNN This Morning.",
+          "title": "CNN Headline Express.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T13:00:00+03:00",
           "stop": "2026-10-26T14:00:00+03:00",
-          "title": "CNN News Central.",
+          "title": "CNN This Morning.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T14:00:00+03:00",
-          "stop": "2026-10-26T14:30:00+03:00",
+          "stop": "2026-10-26T15:00:00+03:00",
           "title": "CNN News Central.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T14:30:00+03:00",
-          "stop": "2026-10-26T15:00:00+03:00",
-          "title": "World Sport.",
-          "description": "L",
-          "category": null
-        },
-        {
           "start": "2026-10-26T15:00:00+03:00",
-          "stop": "2026-10-26T15:45:00+03:00",
-          "title": "Connect the World with Becky Anderson.",
+          "stop": "2026-10-26T15:30:00+03:00",
+          "title": "CNN News Central.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T15:45:00+03:00",
+          "start": "2026-10-26T15:30:00+03:00",
           "stop": "2026-10-26T16:00:00+03:00",
           "title": "World Sport.",
           "description": "L",
@@ -678,15 +449,22 @@
         },
         {
           "start": "2026-10-26T16:00:00+03:00",
-          "stop": "2026-10-26T17:00:00+03:00",
+          "stop": "2026-10-26T16:45:00+03:00",
           "title": "Connect the World with Becky Anderson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T16:45:00+03:00",
+          "stop": "2026-10-26T17:00:00+03:00",
+          "title": "World Sport.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T17:00:00+03:00",
           "stop": "2026-10-26T18:00:00+03:00",
-          "title": "One World.",
+          "title": "Connect the World with Becky Anderson.",
           "description": "L",
           "category": null
         },
@@ -700,42 +478,243 @@
         {
           "start": "2026-10-26T19:00:00+03:00",
           "stop": "2026-10-26T20:00:00+03:00",
-          "title": "Amanpour.",
+          "title": "One World.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T20:00:00+03:00",
           "stop": "2026-10-26T21:00:00+03:00",
-          "title": "Isa Soares Tonight.",
+          "title": "Amanpour.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T21:00:00+03:00",
           "stop": "2026-10-26T22:00:00+03:00",
-          "title": "What We Know with Max Foster.",
+          "title": "Isa Soares Tonight.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T22:00:00+03:00",
           "stop": "2026-10-26T23:00:00+03:00",
-          "title": "Quest Means Business.",
+          "title": "What We Know with Max Foster.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-26T23:00:00+03:00",
-          "stop": "2026-10-26T23:30:00+03:00",
+          "stop": "2026-10-27T00:00:00+03:00",
+          "title": "Quest Means Business.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T00:00:00+03:00",
+          "stop": "2026-10-27T00:30:00+03:00",
           "title": "The Lead with Jake Tapper.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-26T23:30:00+03:00",
-          "stop": "2026-10-27T00:00:00+03:00",
+          "start": "2026-10-27T00:30:00+03:00",
+          "stop": "2026-10-27T01:00:00+03:00",
           "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T01:00:00+03:00",
+          "stop": "2026-10-27T02:00:00+03:00",
+          "title": "The Brief with Jim Sciutto.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T02:00:00+03:00",
+          "stop": "2026-10-27T03:00:00+03:00",
+          "title": "Erin Burnett OutFront.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T03:00:00+03:00",
+          "stop": "2026-10-27T04:00:00+03:00",
+          "title": "Anderson Cooper 360.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T04:00:00+03:00",
+          "stop": "2026-10-27T05:00:00+03:00",
+          "title": "The Source with Kaitlan Collins.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T05:00:00+03:00",
+          "stop": "2026-10-27T06:00:00+03:00",
+          "title": "CNN NewsNight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T06:00:00+03:00",
+          "stop": "2026-10-27T07:00:00+03:00",
+          "title": "Laura Coates Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:00:00+03:00",
+          "stop": "2026-10-27T08:00:00+03:00",
+          "title": "The Story Is: With Elex Michaelson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:00:00+03:00",
+          "stop": "2026-10-27T08:45:00+03:00",
+          "title": "The Story Is: With Elex Michaelson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:45:00+03:00",
+          "stop": "2026-10-27T09:00:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T09:00:00+03:00",
+          "stop": "2026-10-27T10:00:00+03:00",
+          "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T10:00:00+03:00",
+          "stop": "2026-10-27T10:45:00+03:00",
+          "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T10:45:00+03:00",
+          "stop": "2026-10-27T11:00:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T11:00:00+03:00",
+          "stop": "2026-10-27T12:00:00+03:00",
+          "title": "CNN Newsroom (CNN/US).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T12:00:00+03:00",
+          "stop": "2026-10-27T13:00:00+03:00",
+          "title": "CNN Headline Express.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T13:00:00+03:00",
+          "stop": "2026-10-27T14:00:00+03:00",
+          "title": "CNN This Morning.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T14:00:00+03:00",
+          "stop": "2026-10-27T15:00:00+03:00",
+          "title": "CNN News Central.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:00:00+03:00",
+          "stop": "2026-10-27T15:30:00+03:00",
+          "title": "CNN News Central.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:30:00+03:00",
+          "stop": "2026-10-27T16:00:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T16:00:00+03:00",
+          "stop": "2026-10-27T16:45:00+03:00",
+          "title": "Connect the World with Becky Anderson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T16:45:00+03:00",
+          "stop": "2026-10-27T17:00:00+03:00",
+          "title": "World Sport.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T17:00:00+03:00",
+          "stop": "2026-10-27T18:00:00+03:00",
+          "title": "Connect the World with Becky Anderson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:00:00+03:00",
+          "stop": "2026-10-27T19:00:00+03:00",
+          "title": "One World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:00:00+03:00",
+          "stop": "2026-10-27T20:00:00+03:00",
+          "title": "One World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:00:00+03:00",
+          "stop": "2026-10-27T21:00:00+03:00",
+          "title": "Amanpour.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T21:00:00+03:00",
+          "stop": "2026-10-27T22:00:00+03:00",
+          "title": "Isa Soares Tonight.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T22:00:00+03:00",
+          "stop": "2026-10-27T23:00:00+03:00",
+          "title": "What We Know with Max Foster.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T23:00:00+03:00",
+          "stop": "2026-10-28T00:00:00+03:00",
+          "title": "Quest Means Business.",
           "description": "L",
           "category": null
         }

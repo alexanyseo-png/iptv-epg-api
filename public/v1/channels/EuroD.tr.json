@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
+  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 24,
   "days": [
-    {
-      "date": "2026-10-24",
-      "programs": [
-        {
-          "start": "2026-10-24T00:00:00+03:00",
-          "stop": "2026-10-24T02:40:00+03:00",
-          "title": "Yerli Dizi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T02:40:00+03:00",
-          "stop": "2026-10-24T05:10:00+03:00",
-          "title": "Gelinim Mutfakta.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:10:00+03:00",
-          "stop": "2026-10-24T07:00:00+03:00",
-          "title": "Üç Kız Kardeş.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T07:00:00+03:00",
-          "stop": "2026-10-24T08:30:00+03:00",
-          "title": "Küçük Ağa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:30:00+03:00",
-          "stop": "2026-10-24T10:00:00+03:00",
-          "title": "Konuştukça.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T10:00:00+03:00",
-          "stop": "2026-10-24T13:00:00+03:00",
-          "title": "Magazin D Cumartesi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T13:00:00+03:00",
-          "stop": "2026-10-24T14:00:00+03:00",
-          "title": "Arda'nın Mutfağı.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T14:00:00+03:00",
-          "stop": "2026-10-24T15:50:00+03:00",
-          "title": "Yerli Dizi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T15:50:00+03:00",
-          "stop": "2026-10-24T18:15:00+03:00",
-          "title": "Yerli Dizi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:15:00+03:00",
-          "stop": "2026-10-24T19:00:00+03:00",
-          "title": "Sıcak Gelişme.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:00:00+03:00",
-          "stop": "2026-10-24T20:00:00+03:00",
-          "title": "Kanal D Haber Hafta Sonu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:00:00+03:00",
-          "stop": "2026-10-25T00:30:00+03:00",
-          "title": "Güller Ve Günahlar.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "programs": [
@@ -211,6 +122,74 @@
           "start": "2026-10-26T04:55:00+03:00",
           "stop": "2026-10-27T06:00:00+03:00",
           "title": "Üç Kız Kardeş.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T06:00:00+03:00",
+          "stop": "2026-10-27T08:00:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:00:00+03:00",
+          "stop": "2026-10-27T11:00:00+03:00",
+          "title": "▶️ Neler Oluyor Hayatta?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T11:00:00+03:00",
+          "stop": "2026-10-27T13:00:00+03:00",
+          "title": "Yaprak Dökümü.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T13:00:00+03:00",
+          "stop": "2026-10-27T15:30:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:30:00+03:00",
+          "stop": "2026-10-27T17:15:00+03:00",
+          "title": "Yerli Dizi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T17:15:00+03:00",
+          "stop": "2026-10-27T18:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:00:00+03:00",
+          "stop": "2026-10-27T19:00:00+03:00",
+          "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:00:00+03:00",
+          "stop": "2026-10-27T23:30:00+03:00",
+          "title": "Haysiyet.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T23:30:00+03:00",
+          "stop": "2026-10-28T02:20:00+03:00",
+          "title": "Yerli Dizi.",
           "description": "L",
           "category": null
         }

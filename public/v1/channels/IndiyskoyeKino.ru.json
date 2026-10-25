@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
+  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-10-24",
-      "programs": [
-        {
-          "start": "2026-10-24T02:05:00+03:00",
-          "stop": "2026-10-24T05:35:00+03:00",
-          "title": "Обольстительница.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T05:35:00+03:00",
-          "stop": "2026-10-24T08:45:00+03:00",
-          "title": "Истина, любовь и красота.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:45:00+03:00",
-          "stop": "2026-10-24T11:50:00+03:00",
-          "title": "Три друга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T11:50:00+03:00",
-          "stop": "2026-10-24T15:00:00+03:00",
-          "title": "Голубая река.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T15:00:00+03:00",
-          "stop": "2026-10-24T17:00:00+03:00",
-          "title": "Невеста и предрассудки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T17:00:00+03:00",
-          "stop": "2026-10-24T20:00:00+03:00",
-          "title": "Воды Ганга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T20:00:00+03:00",
-          "stop": "2026-10-24T22:55:00+03:00",
-          "title": "Симмба.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T22:55:00+03:00",
-          "stop": "2026-10-25T01:40:00+03:00",
-          "title": "Прощание. Глава 2: Агни Парикша.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "programs": [
@@ -134,8 +73,81 @@
         },
         {
           "start": "2026-10-25T23:15:00+03:00",
-          "stop": "2026-10-26T00:15:00+03:00",
+          "stop": "2026-10-26T02:00:00+03:00",
           "title": "Акаш и Вани.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T02:00:00+03:00",
+          "stop": "2026-10-26T05:00:00+03:00",
+          "title": "Истина, любовь и красота.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T05:00:00+03:00",
+          "stop": "2026-10-26T08:15:00+03:00",
+          "title": "Обольстительница.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T08:15:00+03:00",
+          "stop": "2026-10-26T11:20:00+03:00",
+          "title": "Голубая река.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T11:20:00+03:00",
+          "stop": "2026-10-26T14:30:00+03:00",
+          "title": "Медальон.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T14:30:00+03:00",
+          "stop": "2026-10-26T16:55:00+03:00",
+          "title": "Яд любви.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T16:55:00+03:00",
+          "stop": "2026-10-26T20:00:00+03:00",
+          "title": "Танцовщица кабаре.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:00:00+03:00",
+          "stop": "2026-10-26T22:25:00+03:00",
+          "title": "Кукловод.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:25:00+03:00",
+          "stop": "2026-10-27T01:25:00+03:00",
+          "title": "Воды Ганга.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T01:25:00+03:00",
+          "stop": "2026-10-27T02:25:00+03:00",
+          "title": "Полный дом.",
           "description": "L",
           "category": null
         }

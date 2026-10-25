@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-24T11:06:53.867796+00:00",
+  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
   "available": true,
-  "programmeCount": 20,
+  "programmeCount": 23,
   "days": [
-    {
-      "date": "2026-10-24",
-      "programs": [
-        {
-          "start": "2026-10-24T00:00:00+03:00",
-          "stop": "2026-10-24T03:55:00+03:00",
-          "title": "MMA Series Teams. Кузня: В.Колесник, А.Дурыманов, М.Колосов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T03:55:00+03:00",
-          "stop": "2026-10-24T04:15:00+03:00",
-          "title": "Территория MMA-TV.COM (169-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T04:15:00+03:00",
-          "stop": "2026-10-24T08:00:00+03:00",
-          "title": "MMA Series.Топ бойцов наилегчайшего веса. М.Артюхина, Г.Мишин, И.Чернышова.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T08:00:00+03:00",
-          "stop": "2026-10-24T12:00:00+03:00",
-          "title": "MMA Series Classic. О.Попов, А.Маслов, В.Уокер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T12:00:00+03:00",
-          "stop": "2026-10-24T14:50:00+03:00",
-          "title": "ММА Серия - 89: Elite Fights. Д.Гонсалвес vs С.Бобрышев.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T14:50:00+03:00",
-          "stop": "2026-10-24T18:35:00+03:00",
-          "title": "ММА Series Names. C.Дьяконов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T18:35:00+03:00",
-          "stop": "2026-10-24T19:00:00+03:00",
-          "title": "Территория MMA-TV.COM (170-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T19:00:00+03:00",
-          "stop": "2026-10-24T22:45:00+03:00",
-          "title": "ММА Серия - 90: Все Звёзды. Н.Бархатов vs И.Фигейра.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T22:45:00+03:00",
-          "stop": "2026-10-24T23:15:00+03:00",
-          "title": "Клетка Виктории Ицеховской (MMA Серия - 90: Все Звёзды).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-24T23:15:00+03:00",
-          "stop": "2026-10-25T00:00:00+03:00",
-          "title": "MMA Series Names (И.Фигейра).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-25",
       "programs": [
@@ -155,8 +80,109 @@
         },
         {
           "start": "2026-10-25T23:35:00+03:00",
-          "stop": "2026-10-26T00:35:00+03:00",
+          "stop": "2026-10-26T00:00:00+03:00",
           "title": "Территория MMA-TV.COM (170-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-26",
+      "programs": [
+        {
+          "start": "2026-10-26T00:00:00+03:00",
+          "stop": "2026-10-26T01:40:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T01:40:00+03:00",
+          "stop": "2026-10-26T04:10:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T04:10:00+03:00",
+          "stop": "2026-10-26T07:40:00+03:00",
+          "title": "MMA Series.Топ бойцов наилегчайшего веса. М.Артюхина, Г.Мишин, И.Чернышова.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T07:40:00+03:00",
+          "stop": "2026-10-26T08:00:00+03:00",
+          "title": "Территория MMA-TV.COM (170-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T08:00:00+03:00",
+          "stop": "2026-10-26T12:00:00+03:00",
+          "title": "ММА Series Names. C.Дьяконов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T12:00:00+03:00",
+          "stop": "2026-10-26T15:35:00+03:00",
+          "title": "MMA Series. Вечер нокаутов: Б.Гуськов, В.Колесник, В.Скотников.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T15:35:00+03:00",
+          "stop": "2026-10-26T16:00:00+03:00",
+          "title": "Территория MMA-TV.COM (170-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T16:00:00+03:00",
+          "stop": "2026-10-26T18:50:00+03:00",
+          "title": "ММА Серия - 89: Elite Fights. Д.Гонсалвес vs С.Бобрышев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T18:50:00+03:00",
+          "stop": "2026-10-26T19:25:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Серия - 89: Elite Fights).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T19:25:00+03:00",
+          "stop": "2026-10-26T20:00:00+03:00",
+          "title": "MMA Series Names (С.Бурастов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:00:00+03:00",
+          "stop": "2026-10-27T00:00:00+03:00",
+          "title": "MMA Series Classic. Б.Гуськов, С.Бобрышев, В.Уокер.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T00:00:00+03:00",
+          "stop": "2026-10-27T01:35:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T01:35:00+03:00",
+          "stop": "2026-10-27T02:35:00+03:00",
+          "title": "MMA Series Main Card.",
           "description": "L",
           "category": null
         }
