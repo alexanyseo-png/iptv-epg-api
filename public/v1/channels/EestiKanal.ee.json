@@ -8,192 +8,608 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
+  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 84,
   "days": [
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "programs": [
         {
-          "start": "2026-10-25T00:05:00+03:00",
-          "stop": "2026-10-25T01:00:00+03:00",
-          "title": "Viimane võmm | E32",
+          "start": "2026-10-26T00:05:00+03:00",
+          "stop": "2026-10-26T01:05:00+03:00",
+          "title": "Ob-la-di, Ob-la-da | E14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T01:00:00+03:00",
-          "stop": "2026-10-25T07:00:00+03:00",
+          "start": "2026-10-26T01:05:00+03:00",
+          "stop": "2026-10-26T07:00:00+03:00",
           "title": "Elmar TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T07:00:00+03:00",
-          "stop": "2026-10-25T07:02:00+03:00",
+          "start": "2026-10-26T07:00:00+03:00",
+          "stop": "2026-10-26T07:02:00+03:00",
           "title": "Eesti Vabariigi hümn",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T07:02:00+03:00",
-          "stop": "2026-10-25T07:30:00+03:00",
-          "title": "Vanad torisejad | E04",
+          "start": "2026-10-26T07:02:00+03:00",
+          "stop": "2026-10-26T08:05:00+03:00",
+          "title": "Salmonid | E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T07:30:00+03:00",
-          "stop": "2026-10-25T07:55:00+03:00",
-          "title": "Vanad torisejad | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T07:55:00+03:00",
-          "stop": "2026-10-25T08:50:00+03:00",
-          "title": "Pilvede all | E190",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T08:50:00+03:00",
-          "stop": "2026-10-25T09:40:00+03:00",
+          "start": "2026-10-26T08:05:00+03:00",
+          "stop": "2026-10-26T09:00:00+03:00",
           "title": "Pilvede all | E191",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T09:40:00+03:00",
-          "stop": "2026-10-25T10:30:00+03:00",
-          "title": "Naised vormis | E13",
+          "start": "2026-10-26T09:00:00+03:00",
+          "stop": "2026-10-26T09:30:00+03:00",
+          "title": "Vanad torisejad | E05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T10:30:00+03:00",
-          "stop": "2026-10-25T11:25:00+03:00",
-          "title": "Radari reliikviad | E13",
+          "start": "2026-10-26T09:30:00+03:00",
+          "stop": "2026-10-26T10:05:00+03:00",
+          "title": "Stuudio 4 | S04E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T11:25:00+03:00",
-          "stop": "2026-10-25T12:50:00+03:00",
-          "title": "Kahe kodu ballaad | E01",
+          "start": "2026-10-26T10:05:00+03:00",
+          "stop": "2026-10-26T10:30:00+03:00",
+          "title": "Üks teist | E37",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T12:50:00+03:00",
-          "stop": "2026-10-25T14:15:00+03:00",
-          "title": "Kahe kodu ballaad | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T14:15:00+03:00",
-          "stop": "2026-10-25T14:45:00+03:00",
-          "title": "Üks teist | E35",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T14:45:00+03:00",
-          "stop": "2026-10-25T15:15:00+03:00",
-          "title": "Üks teist | E36",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T15:15:00+03:00",
-          "stop": "2026-10-25T15:40:00+03:00",
-          "title": "Meistrite linn: Paas | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T15:40:00+03:00",
-          "stop": "2026-10-25T16:00:00+03:00",
-          "title": "Meistrite linn: Paas | E05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T16:00:00+03:00",
-          "stop": "2026-10-25T16:30:00+03:00",
-          "title": "Laulab Voldemar Kuslap",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T16:30:00+03:00",
-          "stop": "2026-10-25T16:55:00+03:00",
-          "title": "ETV Huumori kuld | E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T16:55:00+03:00",
-          "stop": "2026-10-25T17:50:00+03:00",
-          "title": "Sassis | E11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T17:50:00+03:00",
-          "stop": "2026-10-25T18:35:00+03:00",
-          "title": "Sassis | E12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T18:35:00+03:00",
-          "stop": "2026-10-25T19:30:00+03:00",
-          "title": "Viimane võmm | E33",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T19:30:00+03:00",
-          "stop": "2026-10-25T20:30:00+03:00",
-          "title": "Viimane võmm | E34",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T20:30:00+03:00",
-          "stop": "2026-10-25T21:20:00+03:00",
-          "title": "Ob-la-di, Ob-la-da | E13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T21:20:00+03:00",
-          "stop": "2026-10-25T21:50:00+03:00",
-          "title": "Klaver põõsas | E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-25T21:50:00+03:00",
-          "stop": "2026-10-25T22:20:00+03:00",
+          "start": "2026-10-26T10:30:00+03:00",
+          "stop": "2026-10-26T11:05:00+03:00",
           "title": "Klaver põõsas | E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T22:20:00+03:00",
-          "stop": "2026-10-25T23:10:00+03:00",
+          "start": "2026-10-26T11:05:00+03:00",
+          "stop": "2026-10-26T11:25:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T11:25:00+03:00",
+          "stop": "2026-10-26T12:20:00+03:00",
+          "title": "Radar | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T12:20:00+03:00",
+          "stop": "2026-10-26T12:30:00+03:00",
+          "title": "Tallinn, mu Tallinn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T12:30:00+03:00",
+          "stop": "2026-10-26T13:15:00+03:00",
           "title": "Restart | E01",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T23:10:00+03:00",
-          "stop": "2026-10-26T00:10:00+03:00",
+          "start": "2026-10-26T13:15:00+03:00",
+          "stop": "2026-10-26T14:10:00+03:00",
           "title": "Viimane võmm | E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T14:10:00+03:00",
+          "stop": "2026-10-26T14:40:00+03:00",
+          "title": "ETV Huumori kuld | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T14:40:00+03:00",
+          "stop": "2026-10-26T15:35:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Hooaja lõpusaade | E16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T15:35:00+03:00",
+          "stop": "2026-10-26T16:40:00+03:00",
+          "title": "Salmonid | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T16:40:00+03:00",
+          "stop": "2026-10-26T17:35:00+03:00",
+          "title": "Pilvede all | E192",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T17:35:00+03:00",
+          "stop": "2026-10-26T18:05:00+03:00",
+          "title": "Üks teist | E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T18:05:00+03:00",
+          "stop": "2026-10-26T18:35:00+03:00",
+          "title": "Vanad torisejad | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T18:35:00+03:00",
+          "stop": "2026-10-26T19:30:00+03:00",
+          "title": "Naised vormis | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T19:30:00+03:00",
+          "stop": "2026-10-26T20:05:00+03:00",
+          "title": "Stuudio 4 | S04E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:05:00+03:00",
+          "stop": "2026-10-26T20:35:00+03:00",
+          "title": "Klaver põõsas | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T20:35:00+03:00",
+          "stop": "2026-10-26T21:35:00+03:00",
+          "title": "Radar | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T21:35:00+03:00",
+          "stop": "2026-10-26T22:00:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:00:00+03:00",
+          "stop": "2026-10-26T22:35:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Meloodia 66, 67 | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T22:35:00+03:00",
+          "stop": "2026-10-26T23:05:00+03:00",
+          "title": "ETV Huumori kuld | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-26T23:05:00+03:00",
+          "stop": "2026-10-27T00:00:00+03:00",
+          "title": "Restart | E02",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T00:00:00+03:00",
+          "stop": "2026-10-27T00:55:00+03:00",
+          "title": "Viimane võmm | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T00:55:00+03:00",
+          "stop": "2026-10-27T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:00:00+03:00",
+          "stop": "2026-10-27T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T07:02:00+03:00",
+          "stop": "2026-10-27T08:05:00+03:00",
+          "title": "Salmonid | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T08:05:00+03:00",
+          "stop": "2026-10-27T09:05:00+03:00",
+          "title": "Pilvede all | E192",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T09:05:00+03:00",
+          "stop": "2026-10-27T09:30:00+03:00",
+          "title": "Vanad torisejad | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T09:30:00+03:00",
+          "stop": "2026-10-27T10:05:00+03:00",
+          "title": "Stuudio 4 | S04E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T10:05:00+03:00",
+          "stop": "2026-10-27T10:35:00+03:00",
+          "title": "Üks teist | E38",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T10:35:00+03:00",
+          "stop": "2026-10-27T11:05:00+03:00",
+          "title": "Klaver põõsas | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T11:05:00+03:00",
+          "stop": "2026-10-27T11:25:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T11:25:00+03:00",
+          "stop": "2026-10-27T12:25:00+03:00",
+          "title": "Radar | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T12:25:00+03:00",
+          "stop": "2026-10-27T13:10:00+03:00",
+          "title": "Operatsioon «Lagrits»",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T13:10:00+03:00",
+          "stop": "2026-10-27T14:00:00+03:00",
+          "title": "Restart | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T14:00:00+03:00",
+          "stop": "2026-10-27T14:55:00+03:00",
+          "title": "Viimane võmm | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T14:55:00+03:00",
+          "stop": "2026-10-27T15:25:00+03:00",
+          "title": "ETV Huumori kuld | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T15:25:00+03:00",
+          "stop": "2026-10-27T16:00:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Meloodia 66, 67 | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T16:00:00+03:00",
+          "stop": "2026-10-27T17:00:00+03:00",
+          "title": "Salmonid | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T17:00:00+03:00",
+          "stop": "2026-10-27T17:55:00+03:00",
+          "title": "Pilvede all | E193",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T17:55:00+03:00",
+          "stop": "2026-10-27T18:30:00+03:00",
+          "title": "Üks teist | E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:30:00+03:00",
+          "stop": "2026-10-27T18:55:00+03:00",
+          "title": "Vanad torisejad | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T18:55:00+03:00",
+          "stop": "2026-10-27T19:50:00+03:00",
+          "title": "Naised vormis | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T19:50:00+03:00",
+          "stop": "2026-10-27T20:25:00+03:00",
+          "title": "Stuudio 4 | S04E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:25:00+03:00",
+          "stop": "2026-10-27T20:55:00+03:00",
+          "title": "Klaver põõsas | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:55:00+03:00",
+          "stop": "2026-10-27T21:55:00+03:00",
+          "title": "Radar | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T21:55:00+03:00",
+          "stop": "2026-10-27T22:20:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T22:20:00+03:00",
+          "stop": "2026-10-27T22:55:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Tantsu eri | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T22:55:00+03:00",
+          "stop": "2026-10-27T23:25:00+03:00",
+          "title": "Sipelga 14 | S14E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T23:25:00+03:00",
+          "stop": "2026-10-28T00:15:00+03:00",
+          "title": "Restart | E03",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "programs": [
+        {
+          "start": "2026-10-28T00:15:00+03:00",
+          "stop": "2026-10-28T01:10:00+03:00",
+          "title": "Viimane võmm | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T01:10:00+03:00",
+          "stop": "2026-10-28T07:00:00+03:00",
+          "title": "Elmar TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T07:00:00+03:00",
+          "stop": "2026-10-28T07:02:00+03:00",
+          "title": "Eesti Vabariigi hümn",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T07:02:00+03:00",
+          "stop": "2026-10-28T08:00:00+03:00",
+          "title": "Salmonid | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T08:00:00+03:00",
+          "stop": "2026-10-28T08:55:00+03:00",
+          "title": "Pilvede all | E193",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T08:55:00+03:00",
+          "stop": "2026-10-28T09:25:00+03:00",
+          "title": "Vanad torisejad | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T09:25:00+03:00",
+          "stop": "2026-10-28T10:00:00+03:00",
+          "title": "Stuudio 4 | S04E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T10:00:00+03:00",
+          "stop": "2026-10-28T10:30:00+03:00",
+          "title": "Üks teist | E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T10:30:00+03:00",
+          "stop": "2026-10-28T11:00:00+03:00",
+          "title": "Klaver põõsas | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T11:00:00+03:00",
+          "stop": "2026-10-28T11:20:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T11:20:00+03:00",
+          "stop": "2026-10-28T12:10:00+03:00",
+          "title": "Radar | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T12:10:00+03:00",
+          "stop": "2026-10-28T13:10:00+03:00",
+          "title": "Ülle Ulla",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T13:10:00+03:00",
+          "stop": "2026-10-28T14:00:00+03:00",
+          "title": "Restart | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T14:00:00+03:00",
+          "stop": "2026-10-28T14:55:00+03:00",
+          "title": "Viimane võmm | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T14:55:00+03:00",
+          "stop": "2026-10-28T15:25:00+03:00",
+          "title": "Sipelga 14 | S14E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T15:25:00+03:00",
+          "stop": "2026-10-28T16:00:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Tantsu eri | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T16:00:00+03:00",
+          "stop": "2026-10-28T16:55:00+03:00",
+          "title": "Salmonid | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T16:55:00+03:00",
+          "stop": "2026-10-28T17:50:00+03:00",
+          "title": "Pilvede all | E194",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T17:50:00+03:00",
+          "stop": "2026-10-28T18:20:00+03:00",
+          "title": "Üks teist | E40",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T18:20:00+03:00",
+          "stop": "2026-10-28T18:50:00+03:00",
+          "title": "Vanad torisejad | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T18:50:00+03:00",
+          "stop": "2026-10-28T19:45:00+03:00",
+          "title": "Naised vormis | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T19:45:00+03:00",
+          "stop": "2026-10-28T20:20:00+03:00",
+          "title": "Stuudio 4 | S04E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T20:20:00+03:00",
+          "stop": "2026-10-28T20:55:00+03:00",
+          "title": "Klaver põõsas | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T20:55:00+03:00",
+          "stop": "2026-10-28T21:40:00+03:00",
+          "title": "Radar | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T21:40:00+03:00",
+          "stop": "2026-10-28T22:05:00+03:00",
+          "title": "Meistrite linn: Paas | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T22:05:00+03:00",
+          "stop": "2026-10-28T22:55:00+03:00",
+          "title": "Ob-la-di, Ob-la-da: Kalmer Tennosaar | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T22:55:00+03:00",
+          "stop": "2026-10-28T23:25:00+03:00",
+          "title": "Sipelga 14 | S14E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T23:25:00+03:00",
+          "stop": "2026-10-29T00:10:00+03:00",
+          "title": "Restart | E04",
           "description": "L",
           "category": null
         }

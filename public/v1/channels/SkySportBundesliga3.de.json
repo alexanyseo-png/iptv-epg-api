@@ -8,37 +8,47 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-25T11:37:10.646562+00:00",
+  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
   "available": true,
   "programmeCount": 4,
   "days": [
     {
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "programs": [
         {
-          "start": "2026-10-25T07:00:00+03:00",
-          "stop": "2026-10-25T13:40:00+03:00",
+          "start": "2026-10-26T07:00:00+03:00",
+          "stop": "2026-10-26T16:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-25T13:40:00+03:00",
-          "stop": "2026-10-25T14:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "start": "2026-10-26T16:00:00+03:00",
+          "stop": "2026-10-27T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-10-27",
+      "programs": [
         {
-          "start": "2026-10-25T14:00:00+03:00",
-          "stop": "2026-10-25T16:30:00+03:00",
-          "title": "Live 2. BL: Eintracht Braunschweig – Hannover 96, 9. Spieltag",
+          "start": "2026-10-27T07:00:00+03:00",
+          "stop": "2026-10-28T07:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "programs": [
         {
-          "start": "2026-10-25T16:30:00+03:00",
-          "stop": "2026-10-25T17:30:00+03:00",
+          "start": "2026-10-28T07:00:00+03:00",
+          "stop": "2026-10-29T07:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
