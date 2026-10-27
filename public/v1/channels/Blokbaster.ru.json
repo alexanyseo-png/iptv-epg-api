@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-10-26",
-      "programs": [
-        {
-          "start": "2026-10-26T01:20:00+03:00",
-          "stop": "2026-10-26T03:05:00+03:00",
-          "title": "Петля времени.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T03:05:00+03:00",
-          "stop": "2026-10-26T04:45:00+03:00",
-          "title": "Кто я.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T04:45:00+03:00",
-          "stop": "2026-10-26T06:25:00+03:00",
-          "title": "Иллюзия обмана.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T06:25:00+03:00",
-          "stop": "2026-10-26T08:40:00+03:00",
-          "title": "Иллюзия обмана 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T08:40:00+03:00",
-          "stop": "2026-10-26T10:40:00+03:00",
-          "title": "Красивый, плохой, злой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T10:40:00+03:00",
-          "stop": "2026-10-26T12:40:00+03:00",
-          "title": "Кто я.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T12:40:00+03:00",
-          "stop": "2026-10-26T14:40:00+03:00",
-          "title": "Иллюзия обмана.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T14:40:00+03:00",
-          "stop": "2026-10-26T17:00:00+03:00",
-          "title": "Иллюзия обмана 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T17:00:00+03:00",
-          "stop": "2026-10-26T19:10:00+03:00",
-          "title": "Город тайн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T19:10:00+03:00",
-          "stop": "2026-10-26T21:00:00+03:00",
-          "title": "Игра Ганнибала.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T21:00:00+03:00",
-          "stop": "2026-10-26T22:45:00+03:00",
-          "title": "Исчезнувший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T22:45:00+03:00",
-          "stop": "2026-10-27T00:40:00+03:00",
-          "title": "Кресент-Сити.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "programs": [
@@ -288,6 +199,102 @@
           "start": "2026-10-28T23:30:00+03:00",
           "stop": "2026-10-29T01:20:00+03:00",
           "title": "Волна.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T01:20:00+03:00",
+          "stop": "2026-10-29T03:50:00+03:00",
+          "title": "Территория.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T03:50:00+03:00",
+          "stop": "2026-10-29T05:45:00+03:00",
+          "title": "Амундсен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T05:45:00+03:00",
+          "stop": "2026-10-29T07:05:00+03:00",
+          "title": "22 минуты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T07:05:00+03:00",
+          "stop": "2026-10-29T09:30:00+03:00",
+          "title": "Дело храбрых.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T09:30:00+03:00",
+          "stop": "2026-10-29T11:25:00+03:00",
+          "title": "Волна.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T11:25:00+03:00",
+          "stop": "2026-10-29T13:45:00+03:00",
+          "title": "Амундсен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T13:45:00+03:00",
+          "stop": "2026-10-29T15:20:00+03:00",
+          "title": "22 минуты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T15:20:00+03:00",
+          "stop": "2026-10-29T17:45:00+03:00",
+          "title": "Дело храбрых.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T17:45:00+03:00",
+          "stop": "2026-10-29T19:25:00+03:00",
+          "title": "Что скрывает ложь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T19:25:00+03:00",
+          "stop": "2026-10-29T21:00:00+03:00",
+          "title": "Монстр: Начало.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:00:00+03:00",
+          "stop": "2026-10-29T22:35:00+03:00",
+          "title": "Прятки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T22:35:00+03:00",
+          "stop": "2026-10-29T23:55:00+03:00",
+          "title": "Дом на Чёрной горе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T23:55:00+03:00",
+          "stop": "2026-10-30T01:20:00+03:00",
+          "title": "Призраки.",
           "description": "L",
           "category": null
         }

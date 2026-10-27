@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 3,
   "days": [
-    {
-      "date": "2026-10-26",
-      "programs": [
-        {
-          "start": "2026-10-26T08:00:00+03:00",
-          "stop": "2026-10-26T17:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T17:00:00+03:00",
-          "stop": "2026-10-27T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "programs": [
@@ -49,6 +30,18 @@
         {
           "start": "2026-10-28T08:00:00+03:00",
           "stop": "2026-10-29T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T08:00:00+03:00",
+          "stop": "2026-10-30T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

@@ -8,8 +8,59 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "available": true,
+  "programmeCount": 5,
+  "days": [
+    {
+      "date": "2026-10-27",
+      "programs": [
+        {
+          "start": "2026-10-27T19:45:00+03:00",
+          "stop": "2026-10-27T20:35:00+03:00",
+          "title": "⋗ EuroLeague. Crvena Zvezda – Maccabi",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-27T20:35:00+03:00",
+          "stop": "2026-10-28T17:50:00+03:00",
+          "title": "⋗ DFB-Pokal. FC Köln – FC Union Berlin",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-28",
+      "programs": [
+        {
+          "start": "2026-10-28T17:50:00+03:00",
+          "stop": "2026-10-28T18:15:00+03:00",
+          "title": "⋗ DFB-Pokal. SC Freiburg – VfL Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-28T18:15:00+03:00",
+          "stop": "2026-10-29T19:50:00+03:00",
+          "title": "⋗ Euroleague. Besiktas Istanbul – Olympiacos Piraeus",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T19:50:00+03:00",
+          "stop": "2026-10-30T19:45:00+03:00",
+          "title": "⋗ EuroLeague. Maccabi – Paris",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

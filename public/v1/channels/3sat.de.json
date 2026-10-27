@@ -8,272 +8,71 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
   "available": true,
-  "programmeCount": 106,
+  "programmeCount": 118,
   "days": [
-    {
-      "date": "2026-10-26",
-      "programs": [
-        {
-          "start": "2026-10-26T07:15:00+03:00",
-          "stop": "2026-10-26T08:05:00+03:00",
-          "title": "Österreichs Welterbe - Schlösser, Kaiser und die Eisenbahn.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T08:05:00+03:00",
-          "stop": "2026-10-26T08:20:00+03:00",
-          "title": "Sendepause.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T08:20:00+03:00",
-          "stop": "2026-10-26T09:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T09:00:00+03:00",
-          "stop": "2026-10-26T09:30:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T09:30:00+03:00",
-          "stop": "2026-10-26T11:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T11:00:00+03:00",
-          "stop": "2026-10-26T11:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T11:05:00+03:00",
-          "stop": "2026-10-26T11:45:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T11:45:00+03:00",
-          "stop": "2026-10-26T12:15:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T12:15:00+03:00",
-          "stop": "2026-10-26T13:00:00+03:00",
-          "title": "Naturerbe Österreich. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T13:00:00+03:00",
-          "stop": "2026-10-26T13:45:00+03:00",
-          "title": "Naturerbe Österreich - Die Nationalparks. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T13:45:00+03:00",
-          "stop": "2026-10-26T14:15:00+03:00",
-          "title": "Traumziel Albanien - Vom Geheimtipp zum Publikumsliebling.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T14:15:00+03:00",
-          "stop": "2026-10-26T14:45:00+03:00",
-          "title": "Servicezeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T14:45:00+03:00",
-          "stop": "2026-10-26T15:15:00+03:00",
-          "title": "Stockholm, da will ich hin! - mit Michael Friemel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T15:15:00+03:00",
-          "stop": "2026-10-26T16:05:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 3 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T16:05:00+03:00",
-          "stop": "2026-10-26T16:45:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T16:45:00+03:00",
-          "stop": "2026-10-26T17:30:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T17:30:00+03:00",
-          "stop": "2026-10-26T18:15:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 2 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T18:15:00+03:00",
-          "stop": "2026-10-26T19:00:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T19:00:00+03:00",
-          "stop": "2026-10-26T19:45:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 3 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T19:45:00+03:00",
-          "stop": "2026-10-26T20:30:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 3 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T20:30:00+03:00",
-          "stop": "2026-10-26T21:00:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T21:00:00+03:00",
-          "stop": "2026-10-26T21:18:00+03:00",
-          "title": "heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T21:18:00+03:00",
-          "stop": "2026-10-26T21:20:00+03:00",
-          "title": "3sat-Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T21:20:00+03:00",
-          "stop": "2026-10-26T22:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T22:00:00+03:00",
-          "stop": "2026-10-26T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T22:15:00+03:00",
-          "stop": "2026-10-26T23:05:00+03:00",
-          "title": "Bergwetter - Faszinierende Urgewalt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T23:05:00+03:00",
-          "stop": "2026-10-26T23:55:00+03:00",
-          "title": "Bergwetter - Bedrohliche Urgewalten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T23:55:00+03:00",
-          "stop": "2026-10-27T00:25:00+03:00",
-          "title": "WeltWeit: Countdown. Warten auf das Desaster.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "programs": [
         {
-          "start": "2026-10-27T00:25:00+03:00",
-          "stop": "2026-10-27T02:05:00+03:00",
+          "start": "2026-10-27T00:29:00+03:00",
+          "stop": "2026-10-27T02:07:00+03:00",
           "title": "Wir Erben.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T02:05:00+03:00",
-          "stop": "2026-10-27T02:35:00+03:00",
+          "start": "2026-10-27T02:07:00+03:00",
+          "stop": "2026-10-27T02:36:00+03:00",
           "title": "Unsere Klasse.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T02:35:00+03:00",
-          "stop": "2026-10-27T03:00:00+03:00",
+          "start": "2026-10-27T02:36:00+03:00",
+          "stop": "2026-10-27T03:03:00+03:00",
           "title": "10 vor 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T03:00:00+03:00",
-          "stop": "2026-10-27T03:45:00+03:00",
+          "start": "2026-10-27T03:03:00+03:00",
+          "stop": "2026-10-27T03:48:00+03:00",
           "title": "SWR3 New Pop Festival - Gentleman.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T03:45:00+03:00",
-          "stop": "2026-10-27T04:30:00+03:00",
+          "start": "2026-10-27T03:48:00+03:00",
+          "stop": "2026-10-27T04:33:00+03:00",
           "title": "SWR3 New Pop Festival - Clueso & SWR Big Band.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T04:30:00+03:00",
-          "stop": "2026-10-27T05:15:00+03:00",
+          "start": "2026-10-27T04:33:00+03:00",
+          "stop": "2026-10-27T05:18:00+03:00",
           "title": "SWR3 New Pop Festival - Charlotte Cardin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T05:15:00+03:00",
-          "stop": "2026-10-27T06:00:00+03:00",
+          "start": "2026-10-27T05:18:00+03:00",
+          "stop": "2026-10-27T06:02:00+03:00",
           "title": "SWR3 New Pop Festival - FAYAN.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T06:00:00+03:00",
-          "stop": "2026-10-27T06:45:00+03:00",
+          "start": "2026-10-27T06:02:00+03:00",
+          "stop": "2026-10-27T06:47:00+03:00",
           "title": "SWR3 New Pop Festival - ADMT.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-27T06:45:00+03:00",
+          "start": "2026-10-27T06:47:00+03:00",
           "stop": "2026-10-27T08:10:00+03:00",
           "title": "SWR3 New Pop Festival - Mit BOY LOCO, Nectar Woode, Argyle und Tiffany Aris.",
           "description": "L",
@@ -755,15 +554,300 @@
         },
         {
           "start": "2026-10-28T22:15:00+03:00",
-          "stop": "2026-10-28T23:45:00+03:00",
+          "stop": "2026-10-28T23:50:00+03:00",
           "title": "Midterms - Wie Trump seine Macht sichern will.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T23:45:00+03:00",
+          "start": "2026-10-28T23:50:00+03:00",
           "stop": "2026-10-29T00:00:00+03:00",
-          "title": "Unsere wilde Schweiz. S: 1 / Ep: 1.",
+          "title": "Bahnhöfe dieser Welt - Nächster Halt Zukunft. S: 1 / Ep: 7.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T00:00:00+03:00",
+          "stop": "2026-10-29T00:25:00+03:00",
+          "title": "ZIB 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T00:25:00+03:00",
+          "stop": "2026-10-29T01:55:00+03:00",
+          "title": "Einfach Nina.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T01:55:00+03:00",
+          "stop": "2026-10-29T02:25:00+03:00",
+          "title": "10 vor 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T02:25:00+03:00",
+          "stop": "2026-10-29T03:25:00+03:00",
+          "title": "STÖCKL.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T03:25:00+03:00",
+          "stop": "2026-10-29T03:50:00+03:00",
+          "title": "Kanzel aus Stein - Passion im Burgenland.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T03:50:00+03:00",
+          "stop": "2026-10-29T05:20:00+03:00",
+          "title": "We are all Detroit - Bochum, eine Stadt im Wandel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T05:20:00+03:00",
+          "stop": "2026-10-29T06:05:00+03:00",
+          "title": "Die Bergwelt Mallorcas. S: 1 / Ep: 18.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T06:05:00+03:00",
+          "stop": "2026-10-29T06:50:00+03:00",
+          "title": "Eine Reise in den Südosten Portugals. S: 1 / Ep: 77.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T06:50:00+03:00",
+          "stop": "2026-10-29T07:35:00+03:00",
+          "title": "MareTV - Die goldene Schöne der Kanaren.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T07:35:00+03:00",
+          "stop": "2026-10-29T08:05:00+03:00",
+          "title": "freizeit - Schmidt Max und der deutsche Rotwein.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T08:05:00+03:00",
+          "stop": "2026-10-29T08:20:00+03:00",
+          "title": "Sendepause.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T08:20:00+03:00",
+          "stop": "2026-10-29T09:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T09:00:00+03:00",
+          "stop": "2026-10-29T09:30:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T09:30:00+03:00",
+          "stop": "2026-10-29T10:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:00:00+03:00",
+          "stop": "2026-10-29T10:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:05:00+03:00",
+          "stop": "2026-10-29T10:30:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:30:00+03:00",
+          "stop": "2026-10-29T10:33:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:33:00+03:00",
+          "stop": "2026-10-29T11:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T11:00:00+03:00",
+          "stop": "2026-10-29T11:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T11:05:00+03:00",
+          "stop": "2026-10-29T11:45:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T11:45:00+03:00",
+          "stop": "2026-10-29T12:15:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T12:15:00+03:00",
+          "stop": "2026-10-29T13:45:00+03:00",
+          "title": "La Gomera - Wandern über dem Meer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T13:45:00+03:00",
+          "stop": "2026-10-29T14:10:00+03:00",
+          "title": "Klimawandel in Vorarlberg - Halb so schlimm oder doch gefährlich?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T14:10:00+03:00",
+          "stop": "2026-10-29T14:40:00+03:00",
+          "title": "Servicezeit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T14:40:00+03:00",
+          "stop": "2026-10-29T15:10:00+03:00",
+          "title": "Unkraut - Artenspürhunde - Schnüffeln für den Artenschutz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T15:10:00+03:00",
+          "stop": "2026-10-29T15:55:00+03:00",
+          "title": "Fernweh: Karibik. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T15:55:00+03:00",
+          "stop": "2026-10-29T16:40:00+03:00",
+          "title": "Fernweh: Karibik: Martinique, Guadeloupe, Grenada. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T16:40:00+03:00",
+          "stop": "2026-10-29T17:25:00+03:00",
+          "title": "Fernweh: Karibik: Dominica, Montserrat. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T17:25:00+03:00",
+          "stop": "2026-10-29T18:10:00+03:00",
+          "title": "Fernweh: Karibik: Costa Rica Antille St. Martin. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T18:10:00+03:00",
+          "stop": "2026-10-29T18:55:00+03:00",
+          "title": "Fernweh: Karibik: Venezuela, St. Domingo, St. Martin. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T18:55:00+03:00",
+          "stop": "2026-10-29T19:45:00+03:00",
+          "title": "Fernweh: Karibik. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T19:45:00+03:00",
+          "stop": "2026-10-29T20:30:00+03:00",
+          "title": "Fernweh: Karibik. S: 1 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T20:30:00+03:00",
+          "stop": "2026-10-29T21:00:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:00:00+03:00",
+          "stop": "2026-10-29T21:18:00+03:00",
+          "title": "heute.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:18:00+03:00",
+          "stop": "2026-10-29T21:20:00+03:00",
+          "title": "3sat-Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:20:00+03:00",
+          "stop": "2026-10-29T22:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T22:00:00+03:00",
+          "stop": "2026-10-29T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T22:15:00+03:00",
+          "stop": "2026-10-29T23:00:00+03:00",
+          "title": "Die geheime Macht des Geschmacks - Bedürfnis und Begierde.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T23:00:00+03:00",
+          "stop": "2026-10-29T23:45:00+03:00",
+          "title": "Die geheime Macht des Geschmacks - Genuss und Gefahr.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T23:45:00+03:00",
+          "stop": "2026-10-30T00:00:00+03:00",
+          "title": "Antwerpen - Modemacher und Meistermaler.",
           "description": "L",
           "category": null
         }

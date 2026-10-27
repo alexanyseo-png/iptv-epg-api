@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
   "available": true,
-  "programmeCount": 12,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-10-26",
-      "programs": [
-        {
-          "start": "2026-10-26T00:05:00+03:00",
-          "stop": "2026-10-26T01:30:00+03:00",
-          "title": "Kerran veljiä",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T01:30:00+03:00",
-          "stop": "2026-10-26T03:40:00+03:00",
-          "title": "Handu pumpulla",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T03:40:00+03:00",
-          "stop": "2026-10-26T12:00:00+03:00",
-          "title": "Kuolettava kultakuume",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T12:00:00+03:00",
-          "stop": "2026-10-26T20:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T20:00:00+03:00",
-          "stop": "2026-10-26T23:00:00+03:00",
-          "title": "Formula 1: USA:n GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T23:00:00+03:00",
-          "stop": "2026-10-27T12:00:00+03:00",
-          "title": "Valioliiga: Chelsea – Tottenham",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "programs": [
@@ -106,6 +59,32 @@
           "start": "2026-10-28T23:00:00+03:00",
           "stop": "2026-10-29T12:00:00+03:00",
           "title": "Valioliiga: Manchester United – Bournemouth",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T12:00:00+03:00",
+          "stop": "2026-10-29T20:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T20:30:00+03:00",
+          "stop": "2026-10-29T23:00:00+03:00",
+          "title": "Valioliiga: Manchester United – Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T23:00:00+03:00",
+          "stop": "2026-10-30T12:00:00+03:00",
+          "title": "Formula 1: USA:n GP – Osakilpailu",
           "description": "L",
           "category": null
         }

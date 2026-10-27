@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-26T13:09:35.246990+00:00",
+  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 41,
   "days": [
-    {
-      "date": "2026-10-26",
-      "programs": [
-        {
-          "start": "2026-10-26T05:00:00+03:00",
-          "stop": "2026-10-26T06:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T06:00:00+03:00",
-          "stop": "2026-10-26T07:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T07:00:00+03:00",
-          "stop": "2026-10-26T13:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T13:00:00+03:00",
-          "stop": "2026-10-26T15:00:00+03:00",
-          "title": "Статус: в сети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T15:00:00+03:00",
-          "stop": "2026-10-26T16:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T16:00:00+03:00",
-          "stop": "2026-10-26T17:00:00+03:00",
-          "title": "Тема.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T17:00:00+03:00",
-          "stop": "2026-10-26T18:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T18:00:00+03:00",
-          "stop": "2026-10-26T20:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T20:00:00+03:00",
-          "stop": "2026-10-26T21:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T21:00:00+03:00",
-          "stop": "2026-10-26T22:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-26T22:00:00+03:00",
-          "stop": "2026-10-27T05:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-27",
       "programs": [
@@ -293,7 +211,103 @@
         },
         {
           "start": "2026-10-28T22:00:00+03:00",
-          "stop": "2026-10-28T23:00:00+03:00",
+          "stop": "2026-10-29T05:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T05:00:00+03:00",
+          "stop": "2026-10-29T06:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T06:00:00+03:00",
+          "stop": "2026-10-29T07:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T07:00:00+03:00",
+          "stop": "2026-10-29T10:20:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:20:00+03:00",
+          "stop": "2026-10-29T10:25:00+03:00",
+          "title": "РУТВ. 20 лет в эфире.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:25:00+03:00",
+          "stop": "2026-10-29T13:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T13:00:00+03:00",
+          "stop": "2026-10-29T15:00:00+03:00",
+          "title": "Статус: в сети.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T15:00:00+03:00",
+          "stop": "2026-10-29T16:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T16:00:00+03:00",
+          "stop": "2026-10-29T17:00:00+03:00",
+          "title": "Тема.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T17:00:00+03:00",
+          "stop": "2026-10-29T18:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T18:00:00+03:00",
+          "stop": "2026-10-29T20:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T20:00:00+03:00",
+          "stop": "2026-10-29T21:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:00:00+03:00",
+          "stop": "2026-10-29T22:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T22:00:00+03:00",
+          "stop": "2026-10-29T23:00:00+03:00",
           "title": "Хит за хитом.",
           "description": "L",
           "category": null
