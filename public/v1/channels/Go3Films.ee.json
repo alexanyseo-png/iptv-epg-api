@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T01:00:00+03:00",
-          "stop": "2026-10-27T03:00:00+03:00",
-          "title": "Пушки Акимбо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T03:00:00+03:00",
-          "stop": "2026-10-27T05:00:00+03:00",
-          "title": "Леди Бёрд",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T05:00:00+03:00",
-          "stop": "2026-10-27T07:00:00+03:00",
-          "title": "Гренландия: Миграция",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T07:00:00+03:00",
-          "stop": "2026-10-27T09:00:00+03:00",
-          "title": "Фердинанд",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:00:00+03:00",
-          "stop": "2026-10-27T11:00:00+03:00",
-          "title": "Игра теней",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T11:00:00+03:00",
-          "stop": "2026-10-27T12:30:00+03:00",
-          "title": "Флибубу",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T12:30:00+03:00",
-          "stop": "2026-10-27T15:00:00+03:00",
-          "title": "Как приручить дракона",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T15:00:00+03:00",
-          "stop": "2026-10-27T17:00:00+03:00",
-          "title": "Рио – 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T17:00:00+03:00",
-          "stop": "2026-10-27T19:00:00+03:00",
-          "title": "Убийство в Восточном экспрессе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T19:00:00+03:00",
-          "stop": "2026-10-27T21:00:00+03:00",
-          "title": "Роботы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T21:00:00+03:00",
-          "stop": "2026-10-27T23:00:00+03:00",
-          "title": "Она – мужчина",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T23:00:00+03:00",
-          "stop": "2026-10-28T01:00:00+03:00",
-          "title": "Мир в огне",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -288,6 +199,109 @@
           "start": "2026-10-29T23:00:00+03:00",
           "stop": "2026-10-30T01:20:00+03:00",
           "title": "Хокум",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T01:20:00+03:00",
+          "stop": "2026-10-30T03:30:00+03:00",
+          "title": "Звук свободы",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T03:30:00+03:00",
+          "stop": "2026-10-30T05:30:00+03:00",
+          "title": "Шпионская свадьба",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T05:30:00+03:00",
+          "stop": "2026-10-30T07:00:00+03:00",
+          "title": "Упс… Приплыли!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T07:00:00+03:00",
+          "stop": "2026-10-30T08:40:00+03:00",
+          "title": "Магия четырех стихий",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:40:00+03:00",
+          "stop": "2026-10-30T10:10:00+03:00",
+          "title": "Догмен: Пушистая справедливость",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T10:10:00+03:00",
+          "stop": "2026-10-30T11:40:00+03:00",
+          "title": "Снупи и мелочь пузатая в кино",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:40:00+03:00",
+          "stop": "2026-10-30T13:10:00+03:00",
+          "title": "Сам дома 5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T13:10:00+03:00",
+          "stop": "2026-10-30T14:40:00+03:00",
+          "title": "Мадагаскар 2: Побег в Африку",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T14:40:00+03:00",
+          "stop": "2026-10-30T16:20:00+03:00",
+          "title": "Гадкий я",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T16:20:00+03:00",
+          "stop": "2026-10-30T18:00:00+03:00",
+          "title": "Super Grand Prix",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T18:00:00+03:00",
+          "stop": "2026-10-30T19:20:00+03:00",
+          "title": "Хейди",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T19:20:00+03:00",
+          "stop": "2026-10-30T21:00:00+03:00",
+          "title": "Марсупилами. Пушистый круиз",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:00:00+03:00",
+          "stop": "2026-10-30T23:00:00+03:00",
+          "title": "Сделано в Америке",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T23:00:00+03:00",
+          "stop": "2026-10-31T01:00:00+03:00",
+          "title": "Щелкунчики",
           "description": "L",
           "category": null
         }

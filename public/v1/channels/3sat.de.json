@@ -8,356 +8,78 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 118,
+  "programmeCount": 120,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T00:29:00+03:00",
-          "stop": "2026-10-27T02:07:00+03:00",
-          "title": "Wir Erben.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T02:07:00+03:00",
-          "stop": "2026-10-27T02:36:00+03:00",
-          "title": "Unsere Klasse.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T02:36:00+03:00",
-          "stop": "2026-10-27T03:03:00+03:00",
-          "title": "10 vor 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T03:03:00+03:00",
-          "stop": "2026-10-27T03:48:00+03:00",
-          "title": "SWR3 New Pop Festival - Gentleman.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T03:48:00+03:00",
-          "stop": "2026-10-27T04:33:00+03:00",
-          "title": "SWR3 New Pop Festival - Clueso & SWR Big Band.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T04:33:00+03:00",
-          "stop": "2026-10-27T05:18:00+03:00",
-          "title": "SWR3 New Pop Festival - Charlotte Cardin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T05:18:00+03:00",
-          "stop": "2026-10-27T06:02:00+03:00",
-          "title": "SWR3 New Pop Festival - FAYAN.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T06:02:00+03:00",
-          "stop": "2026-10-27T06:47:00+03:00",
-          "title": "SWR3 New Pop Festival - ADMT.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T06:47:00+03:00",
-          "stop": "2026-10-27T08:10:00+03:00",
-          "title": "SWR3 New Pop Festival - Mit BOY LOCO, Nectar Woode, Argyle und Tiffany Aris.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T08:10:00+03:00",
-          "stop": "2026-10-27T08:20:00+03:00",
-          "title": "Sendepause.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T08:20:00+03:00",
-          "stop": "2026-10-27T09:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:00:00+03:00",
-          "stop": "2026-10-27T09:30:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:30:00+03:00",
-          "stop": "2026-10-27T10:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T10:00:00+03:00",
-          "stop": "2026-10-27T10:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T10:05:00+03:00",
-          "stop": "2026-10-27T10:30:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T10:30:00+03:00",
-          "stop": "2026-10-27T10:33:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T10:33:00+03:00",
-          "stop": "2026-10-27T11:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T11:00:00+03:00",
-          "stop": "2026-10-27T11:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T11:05:00+03:00",
-          "stop": "2026-10-27T11:45:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T11:45:00+03:00",
-          "stop": "2026-10-27T12:25:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T12:25:00+03:00",
-          "stop": "2026-10-27T13:10:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 3 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T13:10:00+03:00",
-          "stop": "2026-10-27T13:55:00+03:00",
-          "title": "Traumschlösser und Ritterburgen. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T13:55:00+03:00",
-          "stop": "2026-10-27T14:25:00+03:00",
-          "title": "Am Pass. S: 3 / Ep: 7.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T14:25:00+03:00",
-          "stop": "2026-10-27T14:55:00+03:00",
-          "title": "Servicezeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T14:55:00+03:00",
-          "stop": "2026-10-27T15:20:00+03:00",
-          "title": "Ein Stück Österreich: Das Gesäuse.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T15:20:00+03:00",
-          "stop": "2026-10-27T16:05:00+03:00",
-          "title": "Uferschnepfen - Unterschätztes Federvieh.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T16:05:00+03:00",
-          "stop": "2026-10-27T16:45:00+03:00",
-          "title": "Cairngorms - Schottlands raues Hochland. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T16:45:00+03:00",
-          "stop": "2026-10-27T17:30:00+03:00",
-          "title": "Nationalparks - Geschützte Naturwunder. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T17:30:00+03:00",
-          "stop": "2026-10-27T18:15:00+03:00",
-          "title": "Eryri - Das Bergland von Wales. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T18:15:00+03:00",
-          "stop": "2026-10-27T19:00:00+03:00",
-          "title": "Göreme - Die Felsen der Türkei. S: 1 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T19:00:00+03:00",
-          "stop": "2026-10-27T19:45:00+03:00",
-          "title": "Los Glaciares - Argentiniens ewiges Eis. S: 1 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T19:45:00+03:00",
-          "stop": "2026-10-27T20:30:00+03:00",
-          "title": "Cévennen - Frankreichs wilder Süden. S: 1 / Ep: 6.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T20:30:00+03:00",
-          "stop": "2026-10-27T21:00:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T21:00:00+03:00",
-          "stop": "2026-10-27T21:18:00+03:00",
-          "title": "heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T21:18:00+03:00",
-          "stop": "2026-10-27T21:20:00+03:00",
-          "title": "3sat-Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T21:20:00+03:00",
-          "stop": "2026-10-27T22:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T22:00:00+03:00",
-          "stop": "2026-10-27T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T22:15:00+03:00",
-          "stop": "2026-10-27T23:50:00+03:00",
-          "title": "Vienna Blood. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T23:50:00+03:00",
-          "stop": "2026-10-28T00:00:00+03:00",
-          "title": "Pop Secrets Stories. S: 1 / Ep: 22.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
         {
           "start": "2026-10-28T00:00:00+03:00",
-          "stop": "2026-10-28T00:25:00+03:00",
+          "stop": "2026-10-28T00:29:00+03:00",
           "title": "ZIB 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T00:25:00+03:00",
-          "stop": "2026-10-28T01:10:00+03:00",
+          "start": "2026-10-28T00:29:00+03:00",
+          "stop": "2026-10-28T01:12:00+03:00",
           "title": "Die wundersame Rettung einer Tora - Jüdisches Leben in Amberg und Sulzbach-Rosenberg.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T01:10:00+03:00",
-          "stop": "2026-10-28T01:55:00+03:00",
+          "start": "2026-10-28T01:12:00+03:00",
+          "stop": "2026-10-28T01:57:00+03:00",
           "title": "Die Vertreibung der Juden aus Prag. S: 11 / Ep: 18.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T01:55:00+03:00",
-          "stop": "2026-10-28T02:30:00+03:00",
+          "start": "2026-10-28T01:57:00+03:00",
+          "stop": "2026-10-28T02:31:00+03:00",
           "title": "Russlands Zukunft - Leben in der Ungewissheit - Russlands Zukunft - Leben in der Ungewissheit (Teil 1).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T02:30:00+03:00",
-          "stop": "2026-10-28T02:55:00+03:00",
+          "start": "2026-10-28T02:31:00+03:00",
+          "stop": "2026-10-28T02:57:00+03:00",
           "title": "10 vor 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T02:55:00+03:00",
-          "stop": "2026-10-28T04:10:00+03:00",
+          "start": "2026-10-28T02:57:00+03:00",
+          "stop": "2026-10-28T04:12:00+03:00",
           "title": "Hart aber fair - Pflege zu Hause: Lässt die Politik Angehörige allein?",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T04:10:00+03:00",
-          "stop": "2026-10-28T05:45:00+03:00",
+          "start": "2026-10-28T04:12:00+03:00",
+          "stop": "2026-10-28T05:48:00+03:00",
           "title": "Vienna Blood. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T05:45:00+03:00",
-          "stop": "2026-10-28T06:30:00+03:00",
+          "start": "2026-10-28T05:48:00+03:00",
+          "stop": "2026-10-28T06:32:00+03:00",
           "title": "Die wundersame Rettung einer Tora - Jüdisches Leben in Amberg und Sulzbach-Rosenberg.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T06:30:00+03:00",
-          "stop": "2026-10-28T07:15:00+03:00",
+          "start": "2026-10-28T06:32:00+03:00",
+          "stop": "2026-10-28T07:16:00+03:00",
           "title": "Die Vertreibung der Juden aus Prag. S: 11 / Ep: 18.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-28T07:15:00+03:00",
+          "start": "2026-10-28T07:16:00+03:00",
           "stop": "2026-10-28T08:00:00+03:00",
           "title": "Uferschnepfen - Unterschätztes Federvieh.",
           "description": "L",
@@ -848,6 +570,298 @@
           "start": "2026-10-29T23:45:00+03:00",
           "stop": "2026-10-30T00:00:00+03:00",
           "title": "Antwerpen - Modemacher und Meistermaler.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T00:00:00+03:00",
+          "stop": "2026-10-30T00:25:00+03:00",
+          "title": "ZIB 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T00:25:00+03:00",
+          "stop": "2026-10-30T00:55:00+03:00",
+          "title": "auslandsjournal extra - ZDF-Korrespondenten berichten aus aller Welt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T00:55:00+03:00",
+          "stop": "2026-10-30T02:30:00+03:00",
+          "title": "Hund und Katze - Haustiere Himmel oder Hölle?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T02:30:00+03:00",
+          "stop": "2026-10-30T03:00:00+03:00",
+          "title": "WeltWeit - Verbannen, verbieten verzweifeln. Was tun gegen die Social Media-Falle?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T03:00:00+03:00",
+          "stop": "2026-10-30T03:25:00+03:00",
+          "title": "10 vor 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T03:25:00+03:00",
+          "stop": "2026-10-30T03:55:00+03:00",
+          "title": "Die Nordreportage: Leben retten im Verborgenen - Die unsichtbaren OP-Helfer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T03:55:00+03:00",
+          "stop": "2026-10-30T04:40:00+03:00",
+          "title": "Fernweh: Karibik. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T04:40:00+03:00",
+          "stop": "2026-10-30T05:25:00+03:00",
+          "title": "Fernweh: Karibik: Martinique, Guadeloupe, Grenada. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T05:25:00+03:00",
+          "stop": "2026-10-30T06:10:00+03:00",
+          "title": "Fernweh: Karibik: Dominica, Montserrat. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:10:00+03:00",
+          "stop": "2026-10-30T06:55:00+03:00",
+          "title": "Fernweh: Karibik: Costa Rica Antille St. Martin. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:55:00+03:00",
+          "stop": "2026-10-30T07:40:00+03:00",
+          "title": "Fernweh: Karibik: Venezuela, St. Domingo, St. Martin. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T07:40:00+03:00",
+          "stop": "2026-10-30T08:10:00+03:00",
+          "title": "Wunderwelt Schweiz. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:10:00+03:00",
+          "stop": "2026-10-30T08:20:00+03:00",
+          "title": "Sendepause.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:20:00+03:00",
+          "stop": "2026-10-30T09:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T09:00:00+03:00",
+          "stop": "2026-10-30T09:30:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T09:30:00+03:00",
+          "stop": "2026-10-30T10:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T10:00:00+03:00",
+          "stop": "2026-10-30T10:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T10:05:00+03:00",
+          "stop": "2026-10-30T10:30:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T10:30:00+03:00",
+          "stop": "2026-10-30T10:33:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T10:33:00+03:00",
+          "stop": "2026-10-30T11:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:00:00+03:00",
+          "stop": "2026-10-30T11:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:05:00+03:00",
+          "stop": "2026-10-30T11:45:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:45:00+03:00",
+          "stop": "2026-10-30T12:15:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T12:15:00+03:00",
+          "stop": "2026-10-30T13:05:00+03:00",
+          "title": "Rundschau - Das Schweizer Politmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T13:05:00+03:00",
+          "stop": "2026-10-30T13:35:00+03:00",
+          "title": "Russlands Zukunft - Leben in der Ungewissheit - Russlands Zukunft - Leben in der Ungewissheit (Teil 1).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T13:35:00+03:00",
+          "stop": "2026-10-30T14:05:00+03:00",
+          "title": "Sehen statt Hören - Magazin in Gebärdensprache.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T14:05:00+03:00",
+          "stop": "2026-10-30T14:50:00+03:00",
+          "title": "Mit dem Herzen sehen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T14:50:00+03:00",
+          "stop": "2026-10-30T15:20:00+03:00",
+          "title": "Against all Gods.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T15:20:00+03:00",
+          "stop": "2026-10-30T15:50:00+03:00",
+          "title": "Andalusien - Spaniens maurischer Süden.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T15:50:00+03:00",
+          "stop": "2026-10-30T16:30:00+03:00",
+          "title": "Bulgariens letzte Schmalspurbahn. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T16:30:00+03:00",
+          "stop": "2026-10-30T17:15:00+03:00",
+          "title": "Rumäniens älteste Gebirgsbahn. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T17:15:00+03:00",
+          "stop": "2026-10-30T18:00:00+03:00",
+          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T18:00:00+03:00",
+          "stop": "2026-10-30T18:45:00+03:00",
+          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T18:45:00+03:00",
+          "stop": "2026-10-30T19:30:00+03:00",
+          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T19:30:00+03:00",
+          "stop": "2026-10-30T20:15:00+03:00",
+          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:15:00+03:00",
+          "stop": "2026-10-30T21:00:00+03:00",
+          "title": "NANO: Artenvielfalt - Wie viele Arten brauchen wir?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:00:00+03:00",
+          "stop": "2026-10-30T21:18:00+03:00",
+          "title": "heute.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:18:00+03:00",
+          "stop": "2026-10-30T21:20:00+03:00",
+          "title": "3sat-Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:20:00+03:00",
+          "stop": "2026-10-30T22:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T22:00:00+03:00",
+          "stop": "2026-10-30T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T22:15:00+03:00",
+          "stop": "2026-10-31T00:15:00+03:00",
+          "title": "Zwingli - Der Reformator.",
           "description": "L",
           "category": null
         }

@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
   "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T19:45:00+03:00",
-          "stop": "2026-10-27T20:35:00+03:00",
-          "title": "⋗ EuroLeague. Crvena Zvezda – Maccabi",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T20:35:00+03:00",
-          "stop": "2026-10-28T17:50:00+03:00",
-          "title": "⋗ DFB-Pokal. FC Köln – FC Union Berlin",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -57,6 +38,25 @@
           "start": "2026-10-29T19:50:00+03:00",
           "stop": "2026-10-30T19:45:00+03:00",
           "title": "⋗ EuroLeague. Maccabi – Paris",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T19:45:00+03:00",
+          "stop": "2026-10-30T20:15:00+03:00",
+          "title": "⋗ EuroLeague. Asvel – Baskonia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:15:00+03:00",
+          "stop": "2026-10-30T21:15:00+03:00",
+          "title": "⋗ EuroLeague. Virtus Bologna – Besiktas Istanbul",
           "description": "L",
           "category": null
         }

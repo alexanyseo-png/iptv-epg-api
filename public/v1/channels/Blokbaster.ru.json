@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T00:40:00+03:00",
-          "stop": "2026-10-27T02:55:00+03:00",
-          "title": "Чемпион мира.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T02:55:00+03:00",
-          "stop": "2026-10-27T04:45:00+03:00",
-          "title": "Город тайн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T04:45:00+03:00",
-          "stop": "2026-10-27T06:15:00+03:00",
-          "title": "Игра Ганнибала.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T06:15:00+03:00",
-          "stop": "2026-10-27T07:55:00+03:00",
-          "title": "Исчезнувший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T07:55:00+03:00",
-          "stop": "2026-10-27T09:45:00+03:00",
-          "title": "Кресент-Сити.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:45:00+03:00",
-          "stop": "2026-10-27T11:55:00+03:00",
-          "title": "Город тайн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T11:55:00+03:00",
-          "stop": "2026-10-27T13:45:00+03:00",
-          "title": "Игра Ганнибала.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T13:45:00+03:00",
-          "stop": "2026-10-27T15:25:00+03:00",
-          "title": "Исчезнувший.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T15:25:00+03:00",
-          "stop": "2026-10-27T17:20:00+03:00",
-          "title": "Кресент-Сити.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T17:20:00+03:00",
-          "stop": "2026-10-27T19:05:00+03:00",
-          "title": "Коммандо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T19:05:00+03:00",
-          "stop": "2026-10-27T21:00:00+03:00",
-          "title": "Мачете.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T21:00:00+03:00",
-          "stop": "2026-10-27T23:00:00+03:00",
-          "title": "Мачете убивает.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T23:00:00+03:00",
-          "stop": "2026-10-28T00:55:00+03:00",
-          "title": "Убийство Салазара.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -295,6 +199,109 @@
           "start": "2026-10-29T23:55:00+03:00",
           "stop": "2026-10-30T01:20:00+03:00",
           "title": "Призраки.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T01:20:00+03:00",
+          "stop": "2026-10-30T02:40:00+03:00",
+          "title": "Что скрывает ложь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T02:40:00+03:00",
+          "stop": "2026-10-30T04:00:00+03:00",
+          "title": "Монстр: Начало.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T04:00:00+03:00",
+          "stop": "2026-10-30T05:20:00+03:00",
+          "title": "Прятки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T05:20:00+03:00",
+          "stop": "2026-10-30T06:30:00+03:00",
+          "title": "Дом на Чёрной горе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:30:00+03:00",
+          "stop": "2026-10-30T08:05:00+03:00",
+          "title": "Что скрывает ложь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:05:00+03:00",
+          "stop": "2026-10-30T09:40:00+03:00",
+          "title": "Монстр: Начало.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T09:40:00+03:00",
+          "stop": "2026-10-30T11:10:00+03:00",
+          "title": "Прятки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:10:00+03:00",
+          "stop": "2026-10-30T12:40:00+03:00",
+          "title": "Дом на Чёрной горе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T12:40:00+03:00",
+          "stop": "2026-10-30T14:15:00+03:00",
+          "title": "Что скрывает ложь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T14:15:00+03:00",
+          "stop": "2026-10-30T15:50:00+03:00",
+          "title": "Монстр: Начало.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T15:50:00+03:00",
+          "stop": "2026-10-30T18:30:00+03:00",
+          "title": "Коридор бессмертия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T18:30:00+03:00",
+          "stop": "2026-10-30T21:00:00+03:00",
+          "title": "Корни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:00:00+03:00",
+          "stop": "2026-10-30T23:40:00+03:00",
+          "title": "СМЕРШ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T23:40:00+03:00",
+          "stop": "2026-10-31T01:35:00+03:00",
+          "title": "28 панфиловцев.",
           "description": "L",
           "category": null
         }

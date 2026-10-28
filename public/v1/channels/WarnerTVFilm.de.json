@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T01:45:00+03:00",
-          "stop": "2026-10-27T04:35:00+03:00",
-          "title": "The Wolf of Wall Street.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T04:35:00+03:00",
-          "stop": "2026-10-27T06:30:00+03:00",
-          "title": "Con Air.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T06:30:00+03:00",
-          "stop": "2026-10-27T08:00:00+03:00",
-          "title": "Mörder ahoi!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T08:00:00+03:00",
-          "stop": "2026-10-27T09:45:00+03:00",
-          "title": "Der 13. Krieger.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:45:00+03:00",
-          "stop": "2026-10-27T10:50:00+03:00",
-          "title": "Der Wilde Westen: Die ersten 100 Jahre.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T10:50:00+03:00",
-          "stop": "2026-10-27T12:45:00+03:00",
-          "title": "Casanova.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T12:45:00+03:00",
-          "stop": "2026-10-27T14:25:00+03:00",
-          "title": "The Grand Budapest Hotel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T14:25:00+03:00",
-          "stop": "2026-10-27T16:10:00+03:00",
-          "title": "Sister Act - Eine himmlische Karriere.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T16:10:00+03:00",
-          "stop": "2026-10-27T17:55:00+03:00",
-          "title": "The Watch - Nachbarn der 3. Art.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T17:55:00+03:00",
-          "stop": "2026-10-27T19:50:00+03:00",
-          "title": "Das erstaunliche Leben des Walter Mitty.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T19:50:00+03:00",
-          "stop": "2026-10-27T22:15:00+03:00",
-          "title": "True Lies - Wahre Lügen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T22:15:00+03:00",
-          "stop": "2026-10-28T00:40:00+03:00",
-          "title": "Im Auftrag des Teufels.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -281,6 +192,109 @@
           "start": "2026-10-29T22:15:00+03:00",
           "stop": "2026-10-30T00:05:00+03:00",
           "title": "Ich bin Nummer Vier.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T00:05:00+03:00",
+          "stop": "2026-10-30T02:05:00+03:00",
+          "title": "I, Robot.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T02:05:00+03:00",
+          "stop": "2026-10-30T03:55:00+03:00",
+          "title": "The Gift.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T03:55:00+03:00",
+          "stop": "2026-10-30T05:35:00+03:00",
+          "title": "Stoker.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T05:35:00+03:00",
+          "stop": "2026-10-30T06:05:00+03:00",
+          "title": "Ein Abend mit... - Til Schweiger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:05:00+03:00",
+          "stop": "2026-10-30T08:00:00+03:00",
+          "title": "Bad Company.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:00:00+03:00",
+          "stop": "2026-10-30T08:55:00+03:00",
+          "title": "Lutz van der Horst - Der Filmtalker.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T08:55:00+03:00",
+          "stop": "2026-10-30T11:00:00+03:00",
+          "title": "Star Trek.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T11:00:00+03:00",
+          "stop": "2026-10-30T13:00:00+03:00",
+          "title": "I, Robot.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T13:00:00+03:00",
+          "stop": "2026-10-30T15:20:00+03:00",
+          "title": "True Lies - Wahre Lügen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T15:20:00+03:00",
+          "stop": "2026-10-30T17:00:00+03:00",
+          "title": "Das gibt Ärger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T17:00:00+03:00",
+          "stop": "2026-10-30T18:50:00+03:00",
+          "title": "Die Jones - Spione von nebenan.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T18:50:00+03:00",
+          "stop": "2026-10-30T20:30:00+03:00",
+          "title": "10 Dinge, die ich an dir hasse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:30:00+03:00",
+          "stop": "2026-10-30T22:15:00+03:00",
+          "title": "Sister Act - Eine himmlische Karriere.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T22:15:00+03:00",
+          "stop": "2026-10-31T00:05:00+03:00",
+          "title": "Sister Act 2 - In göttlicher Mission.",
           "description": "L",
           "category": null
         }

@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 16,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T00:00:00+03:00",
-          "stop": "2026-10-27T06:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T06:00:00+03:00",
-          "stop": "2026-10-27T09:00:00+03:00",
-          "title": "Wake Up Call.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T09:00:00+03:00",
-          "stop": "2026-10-27T15:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T15:00:00+03:00",
-          "stop": "2026-10-27T15:35:00+03:00",
-          "title": "Самый русский хит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T15:35:00+03:00",
-          "stop": "2026-10-28T00:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -127,6 +87,53 @@
           "start": "2026-10-29T11:35:00+03:00",
           "stop": "2026-10-30T00:00:00+03:00",
           "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T00:00:00+03:00",
+          "stop": "2026-10-30T06:30:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:30:00+03:00",
+          "stop": "2026-10-30T07:30:00+03:00",
+          "title": "Wake Up Call.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T07:30:00+03:00",
+          "stop": "2026-10-30T20:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:00:00+03:00",
+          "stop": "2026-10-30T20:35:00+03:00",
+          "title": "Самый русский хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:35:00+03:00",
+          "stop": "2026-10-30T23:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T23:00:00+03:00",
+          "stop": "2026-10-31T00:00:00+03:00",
+          "title": "Retro dance.",
           "description": "L",
           "category": null
         }

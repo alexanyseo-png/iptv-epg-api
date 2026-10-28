@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T12:00:00+03:00",
-          "stop": "2026-10-27T20:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T20:30:00+03:00",
-          "stop": "2026-10-27T23:00:00+03:00",
-          "title": "Valioliiga: Chelsea – Tottenham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-27T23:00:00+03:00",
-          "stop": "2026-10-28T12:00:00+03:00",
-          "title": "Formula 1: USA:n GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-10-29T23:00:00+03:00",
           "stop": "2026-10-30T12:00:00+03:00",
           "title": "Formula 1: USA:n GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T12:00:00+03:00",
+          "stop": "2026-10-30T20:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T20:00:00+03:00",
+          "stop": "2026-10-30T23:00:00+03:00",
+          "title": "Formula 1: USA:n GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T23:00:00+03:00",
+          "stop": "2026-10-31T12:00:00+03:00",
+          "title": "Valioliiga: Chelsea – Tottenham",
           "description": "L",
           "category": null
         }

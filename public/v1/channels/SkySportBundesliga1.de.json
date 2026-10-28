@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-27T12:17:38.541866+00:00",
+  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 5,
   "days": [
-    {
-      "date": "2026-10-27",
-      "programs": [
-        {
-          "start": "2026-10-27T08:00:00+03:00",
-          "stop": "2026-10-28T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-28",
       "programs": [
@@ -43,6 +31,32 @@
           "start": "2026-10-29T08:00:00+03:00",
           "stop": "2026-10-30T08:00:00+03:00",
           "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-30",
+      "programs": [
+        {
+          "start": "2026-10-30T08:00:00+03:00",
+          "stop": "2026-10-30T21:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:10:00+03:00",
+          "stop": "2026-10-30T21:30:00+03:00",
+          "title": "Es folgt: Live Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T21:30:00+03:00",
+          "stop": "2026-10-31T01:15:00+03:00",
+          "title": "Live BL: Flutlicht-Freitag, 8. Spieltag",
           "description": "L",
           "category": null
         }
