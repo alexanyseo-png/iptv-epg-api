@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T00:00:00+03:00",
-          "stop": "2026-10-28T01:00:00+03:00",
-          "title": "Bridge to Nightlife.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T01:00:00+03:00",
-          "stop": "2026-10-28T06:00:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T06:00:00+03:00",
-          "stop": "2026-10-28T09:10:00+03:00",
-          "title": "Wake Up Call.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T09:10:00+03:00",
-          "stop": "2026-10-28T09:40:00+03:00",
-          "title": "Горячая десятка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T09:40:00+03:00",
-          "stop": "2026-10-28T13:10:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T13:10:00+03:00",
-          "stop": "2026-10-28T13:40:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T13:40:00+03:00",
-          "stop": "2026-10-28T19:30:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T19:30:00+03:00",
-          "stop": "2026-10-28T21:00:00+03:00",
-          "title": "Bridge in time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T21:00:00+03:00",
-          "stop": "2026-10-28T23:00:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T23:00:00+03:00",
-          "stop": "2026-10-29T00:00:00+03:00",
-          "title": "Retro dance.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -231,6 +156,88 @@
         {
           "start": "2026-10-30T23:00:00+03:00",
           "stop": "2026-10-31T00:00:00+03:00",
+          "title": "Retro dance.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T00:00:00+03:00",
+          "stop": "2026-10-31T01:00:00+03:00",
+          "title": "Bridge to Nightlife.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T01:00:00+03:00",
+          "stop": "2026-10-31T06:00:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T06:00:00+03:00",
+          "stop": "2026-10-31T09:00:00+03:00",
+          "title": "Wake Up Call.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T09:00:00+03:00",
+          "stop": "2026-10-31T13:10:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T13:10:00+03:00",
+          "stop": "2026-10-31T13:40:00+03:00",
+          "title": "Горячая десятка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T13:40:00+03:00",
+          "stop": "2026-10-31T17:10:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:10:00+03:00",
+          "stop": "2026-10-31T17:40:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:40:00+03:00",
+          "stop": "2026-10-31T19:30:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T19:30:00+03:00",
+          "stop": "2026-10-31T21:00:00+03:00",
+          "title": "Bridge in time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T21:00:00+03:00",
+          "stop": "2026-10-31T23:00:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T23:00:00+03:00",
+          "stop": "2026-11-01T00:00:00+03:00",
           "title": "Retro dance.",
           "description": "L",
           "category": null

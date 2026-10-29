@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T08:00:00+03:00",
-          "stop": "2026-10-29T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -71,6 +59,74 @@
           "start": "2026-10-30T23:15:00+03:00",
           "stop": "2026-10-31T08:00:00+03:00",
           "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T08:00:00+03:00",
+          "stop": "2026-10-31T14:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:10:00+03:00",
+          "stop": "2026-10-31T14:30:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:30:00+03:00",
+          "stop": "2026-10-31T17:00:00+03:00",
+          "title": "Live 2. BL: Samstags-Konferenz, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:00:00+03:00",
+          "stop": "2026-10-31T17:15:00+03:00",
+          "title": "Live BL: FCA – SCF: NEO.bet Countdown, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:15:00+03:00",
+          "stop": "2026-10-31T19:30:00+03:00",
+          "title": "Live BL: FC Augsburg – SC Freiburg, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T19:30:00+03:00",
+          "stop": "2026-10-31T20:45:00+03:00",
+          "title": "Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 8. Spieltag, Samstag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T20:45:00+03:00",
+          "stop": "2026-10-31T21:00:00+03:00",
+          "title": "BL: Highlights XXL: ELV – M05, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T21:00:00+03:00",
+          "stop": "2026-10-31T22:00:00+03:00",
+          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Samstag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T22:00:00+03:00",
+          "stop": "2026-11-01T01:00:00+03:00",
+          "title": "Live 2. BL: Karlsruher SC – 1. FC Heidenheim, tipico Topspiel der Woche, 10. Spieltag",
           "description": "L",
           "category": null
         }

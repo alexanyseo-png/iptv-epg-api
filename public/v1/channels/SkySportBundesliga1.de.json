@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 5,
+  "programmeCount": 12,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T08:00:00+03:00",
-          "stop": "2026-10-29T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -57,6 +45,67 @@
           "start": "2026-10-30T21:30:00+03:00",
           "stop": "2026-10-31T01:15:00+03:00",
           "title": "Live BL: Flutlicht-Freitag, 8. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T01:15:00+03:00",
+          "stop": "2026-10-31T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T08:00:00+03:00",
+          "stop": "2026-10-31T15:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T15:40:00+03:00",
+          "stop": "2026-10-31T16:00:00+03:00",
+          "title": "Es folgt: Live Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T16:00:00+03:00",
+          "stop": "2026-10-31T17:00:00+03:00",
+          "title": "Live BL: NEO.bet Countdown, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:00:00+03:00",
+          "stop": "2026-10-31T17:15:00+03:00",
+          "title": "Live BL: S04 – RBL: NEO.bet Countdown, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:15:00+03:00",
+          "stop": "2026-10-31T19:45:00+03:00",
+          "title": "Live BL: FC Schalke 04 – RB Leipzig, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T19:45:00+03:00",
+          "stop": "2026-10-31T23:30:00+03:00",
+          "title": "Live BL: FC Bayern München – Borussia Dortmund, tipico Topspiel der Woche, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T23:30:00+03:00",
+          "stop": "2026-11-01T00:30:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

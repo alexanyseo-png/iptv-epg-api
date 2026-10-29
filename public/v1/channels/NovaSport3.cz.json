@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T01:30:00+03:00",
-          "stop": "2026-10-28T02:00:00+03:00",
-          "title": "EFL Highlights (12)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T02:00:00+03:00",
-          "stop": "2026-10-28T03:00:00+03:00",
-          "title": "Bundesliga Highlights (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T03:00:00+03:00",
-          "stop": "2026-10-28T09:00:00+03:00",
-          "title": "Eintracht Braunschweig – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T09:00:00+03:00",
-          "stop": "2026-10-28T10:45:00+03:00",
-          "title": "Borussia Dortmund – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T10:45:00+03:00",
-          "stop": "2026-10-28T12:35:00+03:00",
-          "title": "Hamburger SV – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T12:35:00+03:00",
-          "stop": "2026-10-28T14:25:00+03:00",
-          "title": "Borussia Dortmund – Eintracht Frankfurt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T14:25:00+03:00",
-          "stop": "2026-10-28T16:15:00+03:00",
-          "title": "Atlético Madrid – Deportivo A Coruna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T16:15:00+03:00",
-          "stop": "2026-10-28T18:05:00+03:00",
-          "title": "Athletic Bilbao – Getafe CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T18:05:00+03:00",
-          "stop": "2026-10-28T19:55:00+03:00",
-          "title": "PSG – Olympique Lyon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T19:55:00+03:00",
-          "stop": "2026-10-28T22:40:00+03:00",
-          "title": "Dynamo Drážďany – Schalke 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T22:40:00+03:00",
-          "stop": "2026-10-29T01:30:00+03:00",
-          "title": "Bayern Mnichov – 1. FC Magdeburg",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -281,6 +199,95 @@
           "start": "2026-10-30T22:20:00+03:00",
           "stop": "2026-10-31T00:35:00+03:00",
           "title": "SV Elversberg – 1. FSV Mainz 05",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T00:35:00+03:00",
+          "stop": "2026-10-31T01:00:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (8)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T01:00:00+03:00",
+          "stop": "2026-10-31T03:00:00+03:00",
+          "title": "Borussia Dortmund – Werder Brémy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T03:00:00+03:00",
+          "stop": "2026-10-31T09:00:00+03:00",
+          "title": "1. FC Köln – Union Berlín",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T09:00:00+03:00",
+          "stop": "2026-10-31T10:50:00+03:00",
+          "title": "SV Elversberg – 1. FSV Mainz 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T10:50:00+03:00",
+          "stop": "2026-10-31T12:40:00+03:00",
+          "title": "Liverpool FC – Villarreal CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T12:40:00+03:00",
+          "stop": "2026-10-31T14:25:00+03:00",
+          "title": "Aston Villa – Viking FK",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:25:00+03:00",
+          "stop": "2026-10-31T14:55:00+03:00",
+          "title": "Bundesliga Weekly (10)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:55:00+03:00",
+          "stop": "2026-10-31T17:20:00+03:00",
+          "title": "1. FC Kaiserslautern – Hertha BSC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:20:00+03:00",
+          "stop": "2026-10-31T19:45:00+03:00",
+          "title": "Bayer Leverkusen – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T19:45:00+03:00",
+          "stop": "2026-10-31T20:25:00+03:00",
+          "title": "Studio Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T20:25:00+03:00",
+          "stop": "2026-10-31T22:55:00+03:00",
+          "title": "Bayern Mnichov – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T22:55:00+03:00",
+          "stop": "2026-11-01T01:05:00+03:00",
+          "title": "FC Barcelona – Deportivo Alavés",
           "description": "L",
           "category": null
         }

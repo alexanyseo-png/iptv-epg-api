@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T01:30:00+03:00",
-          "stop": "2026-10-28T03:20:00+03:00",
-          "title": "FC Barcelona – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T03:20:00+03:00",
-          "stop": "2026-10-28T09:00:00+03:00",
-          "title": "Stade Brestois – OGC Nice",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T09:00:00+03:00",
-          "stop": "2026-10-28T10:45:00+03:00",
-          "title": "1. FC Köln – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T10:45:00+03:00",
-          "stop": "2026-10-28T12:35:00+03:00",
-          "title": "Rot-Weiss Essen – RB Lipsko",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T12:35:00+03:00",
-          "stop": "2026-10-28T14:30:00+03:00",
-          "title": "Sevilla FC – CA Osasuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T14:30:00+03:00",
-          "stop": "2026-10-28T16:25:00+03:00",
-          "title": "SC Freiburg – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T16:25:00+03:00",
-          "stop": "2026-10-28T18:20:00+03:00",
-          "title": "Eintracht Braunschweig – Hannover 96",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T18:20:00+03:00",
-          "stop": "2026-10-28T19:00:00+03:00",
-          "title": "Ve skluzu (137)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T19:00:00+03:00",
-          "stop": "2026-10-28T19:55:00+03:00",
-          "title": "La Liga 2 Highlights (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T19:55:00+03:00",
-          "stop": "2026-10-28T22:40:00+03:00",
-          "title": "SC Paderborn 07 – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T22:40:00+03:00",
-          "stop": "2026-10-29T01:30:00+03:00",
-          "title": "Bayer Leverkusen – 1. FC Norimberk",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -281,6 +199,81 @@
           "start": "2026-10-30T23:00:00+03:00",
           "stop": "2026-10-31T01:10:00+03:00",
           "title": "Lille OSC – RC Lens",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T01:10:00+03:00",
+          "stop": "2026-10-31T03:00:00+03:00",
+          "title": "Dynamo Drážďany – Schalke 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T03:00:00+03:00",
+          "stop": "2026-10-31T09:00:00+03:00",
+          "title": "SC Paderborn 07 – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T09:00:00+03:00",
+          "stop": "2026-10-31T11:00:00+03:00",
+          "title": "Lille OSC – RC Lens",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T11:00:00+03:00",
+          "stop": "2026-10-31T13:00:00+03:00",
+          "title": "Energie Cottbus – VfL Bochum",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T13:00:00+03:00",
+          "stop": "2026-10-31T15:00:00+03:00",
+          "title": "Fenerbahçe SK – SK Slavia Praha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T15:00:00+03:00",
+          "stop": "2026-10-31T15:55:00+03:00",
+          "title": "La Liga Highlights (10)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T15:55:00+03:00",
+          "stop": "2026-10-31T18:10:00+03:00",
+          "title": "Levante UD – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T18:10:00+03:00",
+          "stop": "2026-10-31T20:25:00+03:00",
+          "title": "Rayo Vallecano – Celta Vigo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T20:25:00+03:00",
+          "stop": "2026-10-31T22:40:00+03:00",
+          "title": "Real Betis – Málaga CF",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T22:40:00+03:00",
+          "stop": "2026-11-01T01:05:00+03:00",
+          "title": "Olympique Lyon – Angers SCO",
           "description": "L",
           "category": null
         }

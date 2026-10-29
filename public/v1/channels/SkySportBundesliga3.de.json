@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T08:00:00+03:00",
-          "stop": "2026-10-29T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -64,6 +52,74 @@
           "start": "2026-10-30T22:30:00+03:00",
           "stop": "2026-10-31T00:30:00+03:00",
           "title": "Live BL: Sky Sport Fantasy: ELV – M05, 8. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T00:30:00+03:00",
+          "stop": "2026-10-31T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T08:00:00+03:00",
+          "stop": "2026-10-31T14:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:10:00+03:00",
+          "stop": "2026-10-31T14:30:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T14:30:00+03:00",
+          "stop": "2026-10-31T17:00:00+03:00",
+          "title": "Live 2. BL: VfL Wolfsburg – VfL Osnabrück, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:00:00+03:00",
+          "stop": "2026-10-31T17:15:00+03:00",
+          "title": "Live BL: BMG – SCP: NEO.bet Countdown, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T17:15:00+03:00",
+          "stop": "2026-10-31T19:45:00+03:00",
+          "title": "Live BL: Borussia M'gladbach – SC Paderborn 07, 8. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T19:45:00+03:00",
+          "stop": "2026-10-31T20:00:00+03:00",
+          "title": "Es folgt: Live Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T20:00:00+03:00",
+          "stop": "2026-10-31T22:30:00+03:00",
+          "title": "Live BL: Sky Sport Spezial – Next Level",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T22:30:00+03:00",
+          "stop": "2026-10-31T23:30:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

@@ -8,8 +8,91 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
+  "available": true,
+  "programmeCount": 11,
+  "days": [
+    {
+      "date": "2026-10-29",
+      "programs": [
+        {
+          "start": "2026-10-29T05:39:00+03:00",
+          "stop": "2026-10-29T07:10:00+03:00",
+          "title": "Шафер",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T07:10:00+03:00",
+          "stop": "2026-10-29T08:44:00+03:00",
+          "title": "Блейз",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T08:44:00+03:00",
+          "stop": "2026-10-29T10:13:00+03:00",
+          "title": "Під гіпнозом",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T10:13:00+03:00",
+          "stop": "2026-10-29T12:24:00+03:00",
+          "title": "Мене там немає",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T12:24:00+03:00",
+          "stop": "2026-10-29T13:55:00+03:00",
+          "title": "Білявка в ефірі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T13:55:00+03:00",
+          "stop": "2026-10-29T15:43:00+03:00",
+          "title": "Дівчина у потягу",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T15:43:00+03:00",
+          "stop": "2026-10-29T17:24:00+03:00",
+          "title": "Області темряви",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T17:24:00+03:00",
+          "stop": "2026-10-29T19:08:00+03:00",
+          "title": "Білий матеріал",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T19:08:00+03:00",
+          "stop": "2026-10-29T21:09:00+03:00",
+          "title": "Шульга",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T21:09:00+03:00",
+          "stop": "2026-10-29T23:26:00+03:00",
+          "title": "Відкритий простір",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-29T23:26:00+03:00",
+          "stop": "2026-10-30T00:26:00+03:00",
+          "title": "Коротко кажучи",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

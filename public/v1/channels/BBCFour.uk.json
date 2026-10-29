@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-10-28",
-      "programs": [
-        {
-          "start": "2026-10-28T00:00:00+03:00",
-          "stop": "2026-10-28T01:40:00+03:00",
-          "title": "Storyville.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T01:40:00+03:00",
-          "stop": "2026-10-28T02:40:00+03:00",
-          "title": "Light and Dark.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T02:40:00+03:00",
-          "stop": "2026-10-28T03:10:00+03:00",
-          "title": "Secrets of Skin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T03:10:00+03:00",
-          "stop": "2026-10-28T03:40:00+03:00",
-          "title": "Gareth Edwards's Great Welsh Adventure.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T03:40:00+03:00",
-          "stop": "2026-10-28T04:40:00+03:00",
-          "title": "Ancient Worlds.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T04:40:00+03:00",
-          "stop": "2026-10-28T05:40:00+03:00",
-          "title": "The Normans.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T05:40:00+03:00",
-          "stop": "2026-10-28T21:00:00+03:00",
-          "title": "Close.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T21:00:00+03:00",
-          "stop": "2026-10-28T21:30:00+03:00",
-          "title": "Secrets of Skin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T21:30:00+03:00",
-          "stop": "2026-10-28T22:00:00+03:00",
-          "title": "Gareth Edwards's Great Welsh Adventure.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T22:00:00+03:00",
-          "stop": "2026-10-28T22:50:00+03:00",
-          "title": "How the Romans Conquered the Alps.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T22:50:00+03:00",
-          "stop": "2026-10-28T23:00:00+03:00",
-          "title": "Building Sights.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-28T23:00:00+03:00",
-          "stop": "2026-10-29T00:00:00+03:00",
-          "title": "The Planets.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-29",
       "programs": [
@@ -253,6 +164,88 @@
           "start": "2026-10-30T23:50:00+03:00",
           "stop": "2026-10-31T00:50:00+03:00",
           "title": "Disco at the BBC.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T00:50:00+03:00",
+          "stop": "2026-10-31T02:25:00+03:00",
+          "title": "Studio 54.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T02:25:00+03:00",
+          "stop": "2026-10-31T03:25:00+03:00",
+          "title": "Disco: Soundtrack of a Revolution.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T03:25:00+03:00",
+          "stop": "2026-10-31T03:55:00+03:00",
+          "title": "Sounds of the Seventies. \"Disco: Ain't No Stopping Us Now\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T03:55:00+03:00",
+          "stop": "2026-10-31T04:30:00+03:00",
+          "title": "Top of the Pops. \"01/11/1996\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T04:30:00+03:00",
+          "stop": "2026-10-31T05:10:00+03:00",
+          "title": "Top of the Pops. \"26/08/1976\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T05:10:00+03:00",
+          "stop": "2026-10-31T05:40:00+03:00",
+          "title": "Top of the Pops. \"07/07/2000\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T05:40:00+03:00",
+          "stop": "2026-10-31T21:00:00+03:00",
+          "title": "Close.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T21:00:00+03:00",
+          "stop": "2026-10-31T21:40:00+03:00",
+          "title": "Fungi: The Web of Life.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T21:40:00+03:00",
+          "stop": "2026-10-31T22:30:00+03:00",
+          "title": "Full Circle with Michael Palin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T22:30:00+03:00",
+          "stop": "2026-10-31T23:20:00+03:00",
+          "title": "Miss Marple: The Body in the Library.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T23:20:00+03:00",
+          "stop": "2026-11-01T02:20:00+03:00",
+          "title": "Film: Fanny And Alexander.",
           "description": "L",
           "category": null
         }

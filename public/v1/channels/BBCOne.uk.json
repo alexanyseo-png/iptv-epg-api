@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-28T13:00:46.427181+00:00",
+  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
   "available": true,
-  "programmeCount": 45,
+  "programmeCount": 51,
   "days": [
     {
       "date": "2026-10-29",
@@ -332,6 +332,53 @@
           "start": "2026-10-30T23:20:00+03:00",
           "stop": "2026-10-31T00:00:00+03:00",
           "title": "The Celebrity Traitors: Uncloaked. \"Finale\".",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-10-31",
+      "programs": [
+        {
+          "start": "2026-10-31T00:00:00+03:00",
+          "stop": "2026-10-31T00:30:00+03:00",
+          "title": "BBC News and Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T00:30:00+03:00",
+          "stop": "2026-10-31T00:40:00+03:00",
+          "title": "BBC London.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T00:40:00+03:00",
+          "stop": "2026-10-31T01:30:00+03:00",
+          "title": "The Graham Norton Show.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T01:30:00+03:00",
+          "stop": "2026-10-31T02:40:00+03:00",
+          "title": "RuPaul's Drag Race UK.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T02:40:00+03:00",
+          "stop": "2026-10-31T02:45:00+03:00",
+          "title": "Weather For the Week Ahead.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-31T02:45:00+03:00",
+          "stop": "2026-10-31T03:45:00+03:00",
+          "title": "BBC News.",
           "description": "L",
           "category": null
         }
