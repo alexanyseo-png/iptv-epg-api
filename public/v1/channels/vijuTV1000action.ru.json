@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
+  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-10-29",
-      "programs": [
-        {
-          "start": "2026-10-29T00:30:00+03:00",
-          "stop": "2026-10-29T02:35:00+03:00",
-          "title": "Легенда.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T02:35:00+03:00",
-          "stop": "2026-10-29T05:40:00+03:00",
-          "title": "Горизонты: Часть 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T05:40:00+03:00",
-          "stop": "2026-10-29T07:45:00+03:00",
-          "title": "Поезд на Юму.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T07:45:00+03:00",
-          "stop": "2026-10-29T09:35:00+03:00",
-          "title": "Водопад ангела.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T09:35:00+03:00",
-          "stop": "2026-10-29T11:55:00+03:00",
-          "title": "Валериан и город тысячи планет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T11:55:00+03:00",
-          "stop": "2026-10-29T14:05:00+03:00",
-          "title": "Пятый элемент.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T14:05:00+03:00",
-          "stop": "2026-10-29T15:40:00+03:00",
-          "title": "Бордерлендс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T15:40:00+03:00",
-          "stop": "2026-10-29T17:20:00+03:00",
-          "title": "Вавилон Н.Э.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T17:20:00+03:00",
-          "stop": "2026-10-29T19:00:00+03:00",
-          "title": "Джонни Мнемоник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T19:00:00+03:00",
-          "stop": "2026-10-29T20:35:00+03:00",
-          "title": "Зона 414.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T20:35:00+03:00",
-          "stop": "2026-10-29T22:30:00+03:00",
-          "title": "Сбой сознания.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T22:30:00+03:00",
-          "stop": "2026-10-30T00:20:00+03:00",
-          "title": "Преступник.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-30",
       "programs": [
@@ -295,6 +206,102 @@
           "start": "2026-10-31T22:25:00+03:00",
           "stop": "2026-11-01T00:25:00+03:00",
           "title": "Горец.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "start": "2026-11-01T00:25:00+03:00",
+          "stop": "2026-11-01T01:50:00+03:00",
+          "title": "Горец 2: Оживление.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T01:50:00+03:00",
+          "stop": "2026-11-01T03:20:00+03:00",
+          "title": "Горец 3: Последнее измерение.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:20:00+03:00",
+          "stop": "2026-11-01T04:50:00+03:00",
+          "title": "Машина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T04:50:00+03:00",
+          "stop": "2026-11-01T06:55:00+03:00",
+          "title": "Боевой робот номер 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T06:55:00+03:00",
+          "stop": "2026-11-01T08:35:00+03:00",
+          "title": "Кин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T08:35:00+03:00",
+          "stop": "2026-11-01T10:10:00+03:00",
+          "title": "Громобой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T10:10:00+03:00",
+          "stop": "2026-11-01T11:40:00+03:00",
+          "title": "Макс Стил.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T11:40:00+03:00",
+          "stop": "2026-11-01T13:25:00+03:00",
+          "title": "Конан-Варвар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T13:25:00+03:00",
+          "stop": "2026-11-01T15:05:00+03:00",
+          "title": "Последний ронин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T15:05:00+03:00",
+          "stop": "2026-11-01T16:50:00+03:00",
+          "title": "Рыжая Соня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T16:50:00+03:00",
+          "stop": "2026-11-01T19:00:00+03:00",
+          "title": "Легенда.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T19:00:00+03:00",
+          "stop": "2026-11-01T22:40:00+03:00",
+          "title": "Однажды в Америке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T22:40:00+03:00",
+          "stop": "2026-11-01T23:40:00+03:00",
+          "title": "Вдовы.",
           "description": "L",
           "category": null
         }

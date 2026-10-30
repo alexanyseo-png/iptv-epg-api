@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
+  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-10-29",
-      "programs": [
-        {
-          "start": "2026-10-29T00:00:00+03:00",
-          "stop": "2026-10-29T03:00:00+03:00",
-          "title": "Tarafsız Bölge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T03:00:00+03:00",
-          "stop": "2026-10-29T06:00:00+03:00",
-          "title": "Gece Haberleri.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T06:00:00+03:00",
-          "stop": "2026-10-29T09:00:00+03:00",
-          "title": "A'dan Z'ye.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T09:00:00+03:00",
-          "stop": "2026-10-29T12:00:00+03:00",
-          "title": "Gündem.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T12:00:00+03:00",
-          "stop": "2026-10-29T14:00:00+03:00",
-          "title": "Gün Ortası.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T14:00:00+03:00",
-          "stop": "2026-10-29T16:00:00+03:00",
-          "title": "Bugün.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T16:00:00+03:00",
-          "stop": "2026-10-29T18:00:00+03:00",
-          "title": "Günlük.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T18:00:00+03:00",
-          "stop": "2026-10-29T20:45:00+03:00",
-          "title": "Ana Haber.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T20:45:00+03:00",
-          "stop": "2026-10-30T00:00:00+03:00",
-          "title": "Gece Görüşü.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-30",
       "programs": [
@@ -232,6 +164,88 @@
           "start": "2026-10-31T20:45:00+03:00",
           "stop": "2026-11-01T01:00:00+03:00",
           "title": "CNN TÜRK Masası.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "start": "2026-11-01T01:00:00+03:00",
+          "stop": "2026-11-01T02:15:00+03:00",
+          "title": "Gece Haberleri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T02:15:00+03:00",
+          "stop": "2026-11-01T06:00:00+03:00",
+          "title": "CNN TÜRK Masası.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T06:00:00+03:00",
+          "stop": "2026-11-01T07:00:00+03:00",
+          "title": "Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T07:00:00+03:00",
+          "stop": "2026-11-01T09:00:00+03:00",
+          "title": "Güne Merhaba Hafta Sonu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T09:00:00+03:00",
+          "stop": "2026-11-01T10:00:00+03:00",
+          "title": "Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T10:00:00+03:00",
+          "stop": "2026-11-01T11:15:00+03:00",
+          "title": "Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T11:15:00+03:00",
+          "stop": "2026-11-01T15:00:00+03:00",
+          "title": "5N1K.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T15:00:00+03:00",
+          "stop": "2026-11-01T16:00:00+03:00",
+          "title": "Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T16:00:00+03:00",
+          "stop": "2026-11-01T18:00:00+03:00",
+          "title": "Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T18:00:00+03:00",
+          "stop": "2026-11-01T20:45:00+03:00",
+          "title": "Hafta Sonu Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T20:45:00+03:00",
+          "stop": "2026-11-02T01:00:00+03:00",
+          "title": "Ne Oluyor?",
           "description": "L",
           "category": null
         }

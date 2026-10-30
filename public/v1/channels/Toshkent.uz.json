@@ -8,85 +8,38 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
+  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
   "available": true,
-  "programmeCount": 65,
+  "programmeCount": 58,
   "days": [
-    {
-      "date": "2026-10-29",
-      "programs": [
-        {
-          "start": "2026-10-29T00:30:00+03:00",
-          "stop": "2026-10-29T02:00:00+03:00",
-          "title": "Toshkent oqshomi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T02:00:00+03:00",
-          "stop": "2026-10-29T02:30:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T02:30:00+03:00",
-          "stop": "2026-10-29T22:00:00+03:00",
-          "title": "Полёт навигатора.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T22:00:00+03:00",
-          "stop": "2026-10-29T22:05:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T22:05:00+03:00",
-          "stop": "2026-10-29T22:30:00+03:00",
-          "title": "Tungi toshkent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T22:30:00+03:00",
-          "stop": "2026-10-29T23:00:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T23:00:00+03:00",
-          "stop": "2026-10-30T00:40:00+03:00",
-          "title": "Nahotki Sen.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-30",
       "programs": [
         {
-          "start": "2026-10-30T00:40:00+03:00",
-          "stop": "2026-10-30T01:40:00+03:00",
+          "start": "2026-10-30T00:30:00+03:00",
+          "stop": "2026-10-30T01:30:00+03:00",
           "title": "Uch Dugona, Uch Begona.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-30T01:40:00+03:00",
-          "stop": "2026-10-30T02:30:00+03:00",
+          "start": "2026-10-30T01:30:00+03:00",
+          "stop": "2026-10-30T02:20:00+03:00",
           "title": "Odamlar orasida.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T02:20:00+03:00",
+          "stop": "2026-10-30T02:30:00+03:00",
+          "title": "Qaqnus parvozi.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T02:30:00+03:00",
           "stop": "2026-10-30T04:00:00+03:00",
-          "title": "Судья Дредд.",
+          "title": "Госпожа горничная.",
           "description": "L",
           "category": null
         },
@@ -99,15 +52,22 @@
         },
         {
           "start": "2026-10-30T04:05:00+03:00",
-          "stop": "2026-10-30T05:15:00+03:00",
+          "stop": "2026-10-30T05:10:00+03:00",
           "title": "Жемчужина дворца.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-30T05:15:00+03:00",
+          "start": "2026-10-30T05:10:00+03:00",
+          "stop": "2026-10-30T06:40:00+03:00",
+          "title": "Ishq sururi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T06:40:00+03:00",
           "stop": "2026-10-30T07:00:00+03:00",
-          "title": "Приключения на берегах Онтарио.",
+          "title": "Yaxshi kayfiyat.",
           "description": "L",
           "category": null
         },
@@ -121,147 +81,105 @@
         {
           "start": "2026-10-30T07:30:00+03:00",
           "stop": "2026-10-30T09:00:00+03:00",
-          "title": "Привет любовь, пока любовь.",
+          "title": "Две тысячи песен Фариды.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T09:00:00+03:00",
-          "stop": "2026-10-30T09:30:00+03:00",
-          "title": "Poytaxt.",
+          "stop": "2026-10-30T09:20:00+03:00",
+          "title": "Yaxshi kayfiyat.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-30T09:30:00+03:00",
+          "start": "2026-10-30T09:20:00+03:00",
           "stop": "2026-10-30T10:00:00+03:00",
-          "title": "Сказки братьев Гримм.",
+          "title": "Chapani choyxona.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T10:00:00+03:00",
-          "stop": "2026-10-30T10:30:00+03:00",
-          "title": "Toshkentning yangi manzillari.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T10:30:00+03:00",
-          "stop": "2026-10-30T11:30:00+03:00",
+          "stop": "2026-10-30T11:00:00+03:00",
           "title": "Ҳикматлп дунё.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-10-30T11:00:00+03:00",
+          "stop": "2026-10-30T11:30:00+03:00",
+          "title": "Sanamjon.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-10-30T11:30:00+03:00",
-          "stop": "2026-10-30T12:00:00+03:00",
-          "title": "Sayyor kamera.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T12:00:00+03:00",
-          "stop": "2026-10-30T13:00:00+03:00",
-          "title": "Ishq ertagi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T13:00:00+03:00",
-          "stop": "2026-10-30T13:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T13:30:00+03:00",
           "stop": "2026-10-30T14:30:00+03:00",
-          "title": "Uchrashuv Toshkentda.",
+          "title": "Ishq ertagi.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T14:30:00+03:00",
           "stop": "2026-10-30T15:00:00+03:00",
-          "title": "Mening mahallam.",
+          "title": "Backstage.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T15:00:00+03:00",
+          "stop": "2026-10-30T15:30:00+03:00",
+          "title": "Jamuljam.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-10-30T15:30:00+03:00",
           "stop": "2026-10-30T16:00:00+03:00",
-          "title": "Жемчужина дворца.",
+          "title": "Toshkent Qizlari.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T16:00:00+03:00",
           "stop": "2026-10-30T16:30:00+03:00",
-          "title": "Poytaxt.",
+          "title": "Gost stolisi.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T16:30:00+03:00",
           "stop": "2026-10-30T17:00:00+03:00",
-          "title": "Taomnoma.",
+          "title": "Qalpoq.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T17:00:00+03:00",
-          "stop": "2026-10-30T17:35:00+03:00",
-          "title": "Toshkentning ilm maskani.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T17:35:00+03:00",
           "stop": "2026-10-30T18:00:00+03:00",
-          "title": "Toshkentda iste'dodlar ijrosi.",
+          "title": "Mahallaning Piru-Badavlati.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T18:00:00+03:00",
-          "stop": "2026-10-30T18:30:00+03:00",
-          "title": "Тошкентда подкаст.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T18:30:00+03:00",
-          "stop": "2026-10-30T19:00:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T19:00:00+03:00",
           "stop": "2026-10-30T19:30:00+03:00",
-          "title": "Nadomat.",
+          "title": "Toshkent oqshomi.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-10-30T19:30:00+03:00",
-          "stop": "2026-10-30T20:10:00+03:00",
-          "title": "Qo‘shnilar.",
+          "stop": "2026-10-30T20:30:00+03:00",
+          "title": "Uch Dugona, Uch Begona.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-30T20:10:00+03:00",
-          "stop": "2026-10-30T22:00:00+03:00",
-          "title": "Passajir.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T22:00:00+03:00",
+          "start": "2026-10-30T20:30:00+03:00",
           "stop": "2026-10-30T22:05:00+03:00",
-          "title": "Гимн.",
+          "title": "Toshkentda iste'dodlar ijrosi.",
           "description": "L",
           "category": null
         },
@@ -300,155 +218,8 @@
         },
         {
           "start": "2026-10-31T02:00:00+03:00",
-          "stop": "2026-10-31T02:30:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T02:30:00+03:00",
-          "stop": "2026-10-31T04:00:00+03:00",
-          "title": "Госпожа горничная.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T04:00:00+03:00",
-          "stop": "2026-10-31T04:05:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T04:05:00+03:00",
-          "stop": "2026-10-31T05:10:00+03:00",
-          "title": "Жемчужина дворца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T05:10:00+03:00",
-          "stop": "2026-10-31T06:40:00+03:00",
-          "title": "Ishq sururi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T06:40:00+03:00",
-          "stop": "2026-10-31T07:00:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:00:00+03:00",
-          "stop": "2026-10-31T07:30:00+03:00",
-          "title": "Poytaxt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:30:00+03:00",
-          "stop": "2026-10-31T09:00:00+03:00",
-          "title": "Две тысячи песен Фариды.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:00:00+03:00",
-          "stop": "2026-10-31T09:20:00+03:00",
-          "title": "Yaxshi kayfiyat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:20:00+03:00",
-          "stop": "2026-10-31T10:00:00+03:00",
-          "title": "Chapani choyxona.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T10:00:00+03:00",
-          "stop": "2026-10-31T11:00:00+03:00",
-          "title": "Ҳикматлп дунё.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:00:00+03:00",
-          "stop": "2026-10-31T11:30:00+03:00",
-          "title": "Sanamjon.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:30:00+03:00",
-          "stop": "2026-10-31T14:30:00+03:00",
-          "title": "Ishq ertagi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T14:30:00+03:00",
-          "stop": "2026-10-31T15:00:00+03:00",
-          "title": "Backstage.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T15:00:00+03:00",
-          "stop": "2026-10-31T15:30:00+03:00",
-          "title": "Jamuljam.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T15:30:00+03:00",
-          "stop": "2026-10-31T16:00:00+03:00",
-          "title": "Toshkent Qizlari.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T16:00:00+03:00",
-          "stop": "2026-10-31T16:30:00+03:00",
-          "title": "Gost stolisi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T16:30:00+03:00",
-          "stop": "2026-10-31T17:00:00+03:00",
-          "title": "Qalpoq.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T17:00:00+03:00",
-          "stop": "2026-10-31T18:00:00+03:00",
-          "title": "Mahallaning Piru-Badavlati.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T18:00:00+03:00",
-          "stop": "2026-10-31T19:30:00+03:00",
-          "title": "Toshkent oqshomi.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T19:30:00+03:00",
-          "stop": "2026-10-31T20:30:00+03:00",
-          "title": "Uch Dugona, Uch Begona.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:30:00+03:00",
           "stop": "2026-10-31T22:00:00+03:00",
-          "title": "Toshkentda iste'dodlar ijrosi.",
+          "title": "Yaxshi kayfiyat.",
           "description": "L",
           "category": null
         },
@@ -477,6 +248,186 @@
           "start": "2026-10-31T23:00:00+03:00",
           "stop": "2026-11-01T00:30:00+03:00",
           "title": "Жемчужина дворца.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "start": "2026-11-01T00:30:00+03:00",
+          "stop": "2026-11-01T02:00:00+03:00",
+          "title": "Ностальгия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T02:00:00+03:00",
+          "stop": "2026-11-01T03:15:00+03:00",
+          "title": "Рейд: Искупление.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:15:00+03:00",
+          "stop": "2026-11-01T03:30:00+03:00",
+          "title": "Qadrdon qo'shiq.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:30:00+03:00",
+          "stop": "2026-11-01T04:00:00+03:00",
+          "title": "Ta'm siri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T04:00:00+03:00",
+          "stop": "2026-11-01T04:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T04:05:00+03:00",
+          "stop": "2026-11-01T06:00:00+03:00",
+          "title": "Папаша.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T06:00:00+03:00",
+          "stop": "2026-11-01T07:00:00+03:00",
+          "title": "Ҳикматлп дунё.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T07:00:00+03:00",
+          "stop": "2026-11-01T08:00:00+03:00",
+          "title": "Mahallaning Piru-Badavlati.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T08:00:00+03:00",
+          "stop": "2026-11-01T09:30:00+03:00",
+          "title": "Сокровище Амазонки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T09:30:00+03:00",
+          "stop": "2026-11-01T10:00:00+03:00",
+          "title": "Kadr Ortida.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T10:00:00+03:00",
+          "stop": "2026-11-01T15:00:00+03:00",
+          "title": "Жемчужина дворца.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T15:00:00+03:00",
+          "stop": "2026-11-01T15:30:00+03:00",
+          "title": "Sanamjon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T15:30:00+03:00",
+          "stop": "2026-11-01T16:00:00+03:00",
+          "title": "Взгляд изнутри.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T16:00:00+03:00",
+          "stop": "2026-11-01T16:30:00+03:00",
+          "title": "Kinotaqdim.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T16:30:00+03:00",
+          "stop": "2026-11-01T17:00:00+03:00",
+          "title": "Kutilmagan Mehmond.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T17:00:00+03:00",
+          "stop": "2026-11-01T18:00:00+03:00",
+          "title": "Toshkentda Duel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T18:00:00+03:00",
+          "stop": "2026-11-01T18:25:00+03:00",
+          "title": "Тошкентда истеъдодлар ижроси.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T18:25:00+03:00",
+          "stop": "2026-11-01T19:10:00+03:00",
+          "title": "Jumboqli quti.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T19:10:00+03:00",
+          "stop": "2026-11-01T19:50:00+03:00",
+          "title": "Odamlar orasida.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T19:50:00+03:00",
+          "stop": "2026-11-01T20:30:00+03:00",
+          "title": "Ko‘rganlarimiz Haqida.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T20:30:00+03:00",
+          "stop": "2026-11-01T22:00:00+03:00",
+          "title": "Toshkent oqshomi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T22:00:00+03:00",
+          "stop": "2026-11-01T22:05:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T22:05:00+03:00",
+          "stop": "2026-11-01T22:30:00+03:00",
+          "title": "Tungi toshkent.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T22:30:00+03:00",
+          "stop": "2026-11-01T23:00:00+03:00",
+          "title": "Yaxshi kayfiyat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T23:00:00+03:00",
+          "stop": "2026-11-02T00:00:00+03:00",
+          "title": "Ishq ertagi.",
           "description": "L",
           "category": null
         }

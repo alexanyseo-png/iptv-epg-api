@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-29T13:08:05.229044+00:00",
+  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
   "available": true,
-  "programmeCount": 44,
+  "programmeCount": 47,
   "days": [
-    {
-      "date": "2026-10-29",
-      "programs": [
-        {
-          "start": "2026-10-29T01:00:00+03:00",
-          "stop": "2026-10-29T01:25:00+03:00",
-          "title": "Служба спасения",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T01:25:00+03:00",
-          "stop": "2026-10-29T01:50:00+03:00",
-          "title": "Жизнь на рифе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T01:50:00+03:00",
-          "stop": "2026-10-29T02:20:00+03:00",
-          "title": "Собачья работа",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T02:20:00+03:00",
-          "stop": "2026-10-29T03:05:00+03:00",
-          "title": "Моя собака – гений!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T03:05:00+03:00",
-          "stop": "2026-10-29T03:35:00+03:00",
-          "title": "Такая порода",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T03:35:00+03:00",
-          "stop": "2026-10-29T04:00:00+03:00",
-          "title": "Аутсайдер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T04:00:00+03:00",
-          "stop": "2026-10-29T04:20:00+03:00",
-          "title": "Создавая собак",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T04:20:00+03:00",
-          "stop": "2026-10-29T04:30:00+03:00",
-          "title": "Собака.NET",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T04:30:00+03:00",
-          "stop": "2026-10-29T05:00:00+03:00",
-          "title": "Собачья работа",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T05:00:00+03:00",
-          "stop": "2026-10-29T06:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T06:00:00+03:00",
-          "stop": "2026-10-29T09:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T09:00:00+03:00",
-          "stop": "2026-10-29T23:00:00+03:00",
-          "title": "⋗ Телемагазин Магнат",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-29T23:00:00+03:00",
-          "stop": "2026-10-30T01:00:00+03:00",
-          "title": "⋗ Леомакс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-30",
       "programs": [
@@ -329,6 +233,123 @@
         {
           "start": "2026-10-31T23:00:00+03:00",
           "stop": "2026-11-01T01:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "start": "2026-11-01T01:00:00+03:00",
+          "stop": "2026-11-01T01:05:00+03:00",
+          "title": "Собака.NET",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T01:05:00+03:00",
+          "stop": "2026-11-01T01:30:00+03:00",
+          "title": "Собачья работа",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T01:30:00+03:00",
+          "stop": "2026-11-01T02:00:00+03:00",
+          "title": "Жизнь на рифе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T02:00:00+03:00",
+          "stop": "2026-11-01T02:20:00+03:00",
+          "title": "д/с Доктор Лиза",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T02:20:00+03:00",
+          "stop": "2026-11-01T02:50:00+03:00",
+          "title": "Такая порода",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T02:50:00+03:00",
+          "stop": "2026-11-01T03:15:00+03:00",
+          "title": "д/с Профессия: заводчик собак",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:15:00+03:00",
+          "stop": "2026-11-01T03:20:00+03:00",
+          "title": "Место!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:20:00+03:00",
+          "stop": "2026-11-01T03:40:00+03:00",
+          "title": "Служба спасения",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:40:00+03:00",
+          "stop": "2026-11-01T03:55:00+03:00",
+          "title": "День Zoo Днем",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T03:55:00+03:00",
+          "stop": "2026-11-01T04:05:00+03:00",
+          "title": "Собака.NET",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T04:05:00+03:00",
+          "stop": "2026-11-01T04:15:00+03:00",
+          "title": "д/с Медвежата на прогулке",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T04:15:00+03:00",
+          "stop": "2026-11-01T05:00:00+03:00",
+          "title": "Мартин Клунс: человек и его собаки",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T05:00:00+03:00",
+          "stop": "2026-11-01T06:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T06:00:00+03:00",
+          "stop": "2026-11-01T09:00:00+03:00",
+          "title": "⋗ Леомакс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T09:00:00+03:00",
+          "stop": "2026-11-01T23:00:00+03:00",
+          "title": "⋗ Телемагазин Магнат",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-01T23:00:00+03:00",
+          "stop": "2026-11-02T00:00:00+03:00",
           "title": "⋗ Леомакс",
           "description": "L",
           "category": null
