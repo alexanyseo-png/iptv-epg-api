@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
+  "generatedAt": "2026-10-31T12:38:44.909197+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 39,
   "days": [
-    {
-      "date": "2026-10-30",
-      "programs": [
-        {
-          "start": "2026-10-30T01:15:00+03:00",
-          "stop": "2026-10-30T03:00:00+03:00",
-          "title": "Fleetwood Town – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T03:00:00+03:00",
-          "stop": "2026-10-30T05:05:00+03:00",
-          "title": "New York Knicks – Detroit Pistons",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T05:05:00+03:00",
-          "stop": "2026-10-30T09:00:00+03:00",
-          "title": "Anaheim Ducks – Buffalo Sabres",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T09:00:00+03:00",
-          "stop": "2026-10-30T11:00:00+03:00",
-          "title": "Everton FC – Newcastle United",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T11:00:00+03:00",
-          "stop": "2026-10-30T11:30:00+03:00",
-          "title": "Red Bull Romaniacs – Hard Endruro Part 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T11:30:00+03:00",
-          "stop": "2026-10-30T12:00:00+03:00",
-          "title": "Ötztaler Cycle Marathon",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T12:00:00+03:00",
-          "stop": "2026-10-30T15:00:00+03:00",
-          "title": "SAMSON Superfinále nohejbalu mužů 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T15:00:00+03:00",
-          "stop": "2026-10-30T15:35:00+03:00",
-          "title": "NFL GameDay (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T15:35:00+03:00",
-          "stop": "2026-10-30T18:35:00+03:00",
-          "title": "Green Bay Packers – Carolina Panthers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T18:35:00+03:00",
-          "stop": "2026-10-30T20:25:00+03:00",
-          "title": "Rytas Vilnius – Trabzonspor",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T20:25:00+03:00",
-          "stop": "2026-10-30T20:55:00+03:00",
-          "title": "Ligue 1 Preview (9)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T20:55:00+03:00",
-          "stop": "2026-10-30T23:05:00+03:00",
-          "title": "Le Havre AC – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T23:05:00+03:00",
-          "stop": "2026-10-30T23:35:00+03:00",
-          "title": "Carabao Cup Highlights (4)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T23:35:00+03:00",
-          "stop": "2026-10-31T00:00:00+03:00",
-          "title": "Magazín NBA Action (2)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-10-31",
       "programs": [
@@ -365,6 +262,39 @@
           "start": "2026-11-01T20:55:00+03:00",
           "stop": "2026-11-02T00:20:00+03:00",
           "title": "Buffalo Bills – Baltimore Ravens",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "programs": [
+        {
+          "start": "2026-11-02T00:20:00+03:00",
+          "stop": "2026-11-02T03:45:00+03:00",
+          "title": "Denver Broncos – Kansas City Chiefs",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T03:45:00+03:00",
+          "stop": "2026-11-02T04:00:00+03:00",
+          "title": "Běhej lesy – Lednice",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T04:00:00+03:00",
+          "stop": "2026-11-02T04:15:00+03:00",
+          "title": "ČEZ RunTour 2026 – Pardubice",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T04:15:00+03:00",
+          "stop": "2026-11-02T05:15:00+03:00",
+          "title": "Washington Commanders – Philadelphia Eagles",
           "description": "L",
           "category": null
         }

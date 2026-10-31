@@ -8,356 +8,64 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-30T13:00:42.972000+00:00",
+  "generatedAt": "2026-10-31T12:38:44.909197+00:00",
   "available": true,
   "programmeCount": 110,
   "days": [
     {
-      "date": "2026-10-30",
-      "programs": [
-        {
-          "start": "2026-10-30T00:00:00+03:00",
-          "stop": "2026-10-30T00:29:00+03:00",
-          "title": "ZIB 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T00:29:00+03:00",
-          "stop": "2026-10-30T00:58:00+03:00",
-          "title": "auslandsjournal extra - ZDF-Korrespondenten berichten aus aller Welt.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T00:58:00+03:00",
-          "stop": "2026-10-30T02:30:00+03:00",
-          "title": "Hund und Katze - Haustiere Himmel oder Hölle?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T02:30:00+03:00",
-          "stop": "2026-10-30T03:02:00+03:00",
-          "title": "WeltWeit - Verbannen, verbieten verzweifeln. Was tun gegen die Social Media-Falle?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T03:02:00+03:00",
-          "stop": "2026-10-30T03:28:00+03:00",
-          "title": "10 vor 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T03:28:00+03:00",
-          "stop": "2026-10-30T03:57:00+03:00",
-          "title": "Die Nordreportage: Leben retten im Verborgenen - Die unsichtbaren OP-Helfer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T03:57:00+03:00",
-          "stop": "2026-10-30T04:42:00+03:00",
-          "title": "Fernweh: Karibik. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T04:42:00+03:00",
-          "stop": "2026-10-30T05:27:00+03:00",
-          "title": "Fernweh: Karibik. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T05:27:00+03:00",
-          "stop": "2026-10-30T06:11:00+03:00",
-          "title": "Fernweh: Karibik. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T06:11:00+03:00",
-          "stop": "2026-10-30T06:57:00+03:00",
-          "title": "Fernweh: Karibik. S: 1 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T06:57:00+03:00",
-          "stop": "2026-10-30T07:42:00+03:00",
-          "title": "Fernweh: Karibik. S: 1 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T07:42:00+03:00",
-          "stop": "2026-10-30T08:10:00+03:00",
-          "title": "Wunderwelt Schweiz. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T08:10:00+03:00",
-          "stop": "2026-10-30T08:20:00+03:00",
-          "title": "Sendepause.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T08:20:00+03:00",
-          "stop": "2026-10-30T09:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T09:00:00+03:00",
-          "stop": "2026-10-30T09:30:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T09:30:00+03:00",
-          "stop": "2026-10-30T10:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T10:00:00+03:00",
-          "stop": "2026-10-30T10:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T10:05:00+03:00",
-          "stop": "2026-10-30T10:30:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T10:30:00+03:00",
-          "stop": "2026-10-30T10:33:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T10:33:00+03:00",
-          "stop": "2026-10-30T11:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T11:00:00+03:00",
-          "stop": "2026-10-30T11:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T11:05:00+03:00",
-          "stop": "2026-10-30T11:45:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T11:45:00+03:00",
-          "stop": "2026-10-30T12:15:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T12:15:00+03:00",
-          "stop": "2026-10-30T13:05:00+03:00",
-          "title": "Rundschau - Bauern mit Parkinson - Welche Rolle spielen Pestizide?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T13:05:00+03:00",
-          "stop": "2026-10-30T13:35:00+03:00",
-          "title": "Russlands Zukunft - Leben in der Ungewissheit - Russlands Zukunft - Leben in der Ungewissheit (Teil 1).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T13:35:00+03:00",
-          "stop": "2026-10-30T14:05:00+03:00",
-          "title": "Sehen statt Hören - Fernsehen in Gebärdensprache.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T14:05:00+03:00",
-          "stop": "2026-10-30T14:50:00+03:00",
-          "title": "Mit dem Herzen sehen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T14:50:00+03:00",
-          "stop": "2026-10-30T15:20:00+03:00",
-          "title": "Against all Gods.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T15:20:00+03:00",
-          "stop": "2026-10-30T15:50:00+03:00",
-          "title": "Andalusien - Spaniens maurischer Süden.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T15:50:00+03:00",
-          "stop": "2026-10-30T16:30:00+03:00",
-          "title": "Bulgariens letzte Schmalspurbahn. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T16:30:00+03:00",
-          "stop": "2026-10-30T17:15:00+03:00",
-          "title": "Rumäniens älteste Gebirgsbahn. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T17:15:00+03:00",
-          "stop": "2026-10-30T18:00:00+03:00",
-          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T18:00:00+03:00",
-          "stop": "2026-10-30T18:45:00+03:00",
-          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T18:45:00+03:00",
-          "stop": "2026-10-30T19:30:00+03:00",
-          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T19:30:00+03:00",
-          "stop": "2026-10-30T20:15:00+03:00",
-          "title": "Legendäre Zugabenteuer. S: 1 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T20:15:00+03:00",
-          "stop": "2026-10-30T21:00:00+03:00",
-          "title": "NANO: Artenvielfalt - Wie viele Arten brauchen wir?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T21:00:00+03:00",
-          "stop": "2026-10-30T21:18:00+03:00",
-          "title": "heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T21:18:00+03:00",
-          "stop": "2026-10-30T21:20:00+03:00",
-          "title": "3sat-Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T21:20:00+03:00",
-          "stop": "2026-10-30T22:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T22:00:00+03:00",
-          "stop": "2026-10-30T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-30T22:15:00+03:00",
-          "stop": "2026-10-31T00:15:00+03:00",
-          "title": "Zwingli - Der Reformator.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
       "date": "2026-10-31",
       "programs": [
         {
-          "start": "2026-10-31T00:15:00+03:00",
-          "stop": "2026-10-31T02:05:00+03:00",
+          "start": "2026-10-31T00:16:00+03:00",
+          "stop": "2026-10-31T02:07:00+03:00",
           "title": "Luther.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T02:05:00+03:00",
-          "stop": "2026-10-31T02:50:00+03:00",
+          "start": "2026-10-31T02:07:00+03:00",
+          "stop": "2026-10-31T02:52:00+03:00",
           "title": "Journal deluxe - Mit Florian Schroeder.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T02:50:00+03:00",
-          "stop": "2026-10-31T03:15:00+03:00",
+          "start": "2026-10-31T02:52:00+03:00",
+          "stop": "2026-10-31T03:18:00+03:00",
           "title": "10 vor 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T03:15:00+03:00",
-          "stop": "2026-10-31T04:00:00+03:00",
+          "start": "2026-10-31T03:18:00+03:00",
+          "stop": "2026-10-31T04:02:00+03:00",
           "title": "extra 3 - Satiresendung.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T04:00:00+03:00",
-          "stop": "2026-10-31T04:55:00+03:00",
+          "start": "2026-10-31T04:02:00+03:00",
+          "stop": "2026-10-31T04:59:00+03:00",
           "title": "Willkommen Österreich - Late-Night-Satire-Talkshow mit Stermann & Grissemann.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T04:55:00+03:00",
-          "stop": "2026-10-31T05:40:00+03:00",
+          "start": "2026-10-31T04:59:00+03:00",
+          "stop": "2026-10-31T05:42:00+03:00",
           "title": "schlachthof - Kabarett mit Michael Altinger und Christian Springer.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T05:40:00+03:00",
-          "stop": "2026-10-31T06:25:00+03:00",
+          "start": "2026-10-31T05:42:00+03:00",
+          "stop": "2026-10-31T06:26:00+03:00",
           "title": "Nachsitzen mit Christine Eixenberger - Mit Wigald Boning, Claudia Pichler und Robert Alan.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-10-31T06:25:00+03:00",
+          "start": "2026-10-31T06:26:00+03:00",
           "stop": "2026-10-31T07:10:00+03:00",
           "title": "Karlsplatz.",
           "description": "L",
@@ -792,6 +500,298 @@
           "start": "2026-11-01T23:40:00+03:00",
           "stop": "2026-11-02T00:25:00+03:00",
           "title": "Entlang der Cambrian Coast in Wales - Ein Gleis und viele Drachen.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "programs": [
+        {
+          "start": "2026-11-02T00:25:00+03:00",
+          "stop": "2026-11-02T00:55:00+03:00",
+          "title": "Eisenbahn-Romantik - Die Inselbahn Wangerooge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T00:55:00+03:00",
+          "stop": "2026-11-02T01:40:00+03:00",
+          "title": "Peloponnes - Schmalspurbahnen zwischen Meer und Olivenhainen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T01:40:00+03:00",
+          "stop": "2026-11-02T03:05:00+03:00",
+          "title": "Eine Dame verschwindet - The Lady Vanishes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T03:05:00+03:00",
+          "stop": "2026-11-02T03:50:00+03:00",
+          "title": "Bahnen in Südtirol und der Lombardei.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T03:50:00+03:00",
+          "stop": "2026-11-02T04:35:00+03:00",
+          "title": "Mit dem Zug an die Hudson Bay. S: 17 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T04:35:00+03:00",
+          "stop": "2026-11-02T05:20:00+03:00",
+          "title": "Mit dem Zug zum Mont Blanc. S: 8 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T05:20:00+03:00",
+          "stop": "2026-11-02T06:05:00+03:00",
+          "title": "Peloponnes - Schmalspurbahnen zwischen Meer und Olivenhainen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T06:05:00+03:00",
+          "stop": "2026-11-02T06:50:00+03:00",
+          "title": "Mit dem Zug durch Kamerun. S: 10 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T06:50:00+03:00",
+          "stop": "2026-11-02T07:20:00+03:00",
+          "title": "Kenias moderne Magistrale.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T07:20:00+03:00",
+          "stop": "2026-11-02T08:05:00+03:00",
+          "title": "Mit dem Zug durch Sabah auf Borneo. S: 13 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T08:05:00+03:00",
+          "stop": "2026-11-02T08:20:00+03:00",
+          "title": "Bhutan - Unterwegs im Land des Glücks.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T08:20:00+03:00",
+          "stop": "2026-11-02T09:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T09:00:00+03:00",
+          "stop": "2026-11-02T09:30:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T09:30:00+03:00",
+          "stop": "2026-11-02T10:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:00:00+03:00",
+          "stop": "2026-11-02T10:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:05:00+03:00",
+          "stop": "2026-11-02T10:30:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:30:00+03:00",
+          "stop": "2026-11-02T10:33:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:33:00+03:00",
+          "stop": "2026-11-02T11:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T11:00:00+03:00",
+          "stop": "2026-11-02T11:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T11:05:00+03:00",
+          "stop": "2026-11-02T11:45:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T11:45:00+03:00",
+          "stop": "2026-11-02T12:20:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T12:20:00+03:00",
+          "stop": "2026-11-02T12:50:00+03:00",
+          "title": "Tren Maya - Unterwegs in Mexico.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T12:50:00+03:00",
+          "stop": "2026-11-02T13:20:00+03:00",
+          "title": "Hokkaido - Von Hakodate nach Sapporo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T13:20:00+03:00",
+          "stop": "2026-11-02T13:50:00+03:00",
+          "title": "Japans Nordinsel - Einmal quer durch Hokkaido.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T13:50:00+03:00",
+          "stop": "2026-11-02T14:20:00+03:00",
+          "title": "Vorbereitet für den Ernstfall - Notstrom, Wasser, Dosenbrot.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T14:20:00+03:00",
+          "stop": "2026-11-02T14:50:00+03:00",
+          "title": "Servicezeit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T14:50:00+03:00",
+          "stop": "2026-11-02T15:20:00+03:00",
+          "title": "Frankreich, da will ich hin! Spezial - Paris und Champagne - mit Simin Sadeghi und Michael Friemel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T15:20:00+03:00",
+          "stop": "2026-11-02T16:00:00+03:00",
+          "title": "Herbst im Allgäu - Das Rappenalptal.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T16:00:00+03:00",
+          "stop": "2026-11-02T16:45:00+03:00",
+          "title": "Herbst im Zabergäu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T16:45:00+03:00",
+          "stop": "2026-11-02T18:15:00+03:00",
+          "title": "Südtirol im Herbst.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T18:15:00+03:00",
+          "stop": "2026-11-02T19:00:00+03:00",
+          "title": "Tierische Heimkehrer - Zurück in der Natur.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T19:00:00+03:00",
+          "stop": "2026-11-02T19:45:00+03:00",
+          "title": "Dachse - Unsere unbekannten Nachbarn.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T19:45:00+03:00",
+          "stop": "2026-11-02T20:30:00+03:00",
+          "title": "Herbstwelten - Der Spätherbst.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T20:30:00+03:00",
+          "stop": "2026-11-02T21:00:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T21:00:00+03:00",
+          "stop": "2026-11-02T21:18:00+03:00",
+          "title": "heute.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T21:18:00+03:00",
+          "stop": "2026-11-02T21:20:00+03:00",
+          "title": "3sat-Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T21:20:00+03:00",
+          "stop": "2026-11-02T22:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T22:00:00+03:00",
+          "stop": "2026-11-02T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T22:15:00+03:00",
+          "stop": "2026-11-02T23:00:00+03:00",
+          "title": "An den smaragdgrünen Flüssen - Im Süden der Alpen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T23:00:00+03:00",
+          "stop": "2026-11-02T23:45:00+03:00",
+          "title": "An den smaragdgrünen Flüssen - Zwischen Bergen und Meer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T23:45:00+03:00",
+          "stop": "2026-11-03T00:00:00+03:00",
+          "title": "Villengärten in der Toskana. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         }
