@@ -8,496 +8,50 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-31T12:38:44.909197+00:00",
+  "generatedAt": "2026-11-01T13:30:32.759768+00:00",
   "available": true,
-  "programmeCount": 178,
+  "programmeCount": 176,
   "days": [
-    {
-      "date": "2026-10-31",
-      "programs": [
-        {
-          "start": "2026-10-31T00:31:00+03:00",
-          "stop": "2026-10-31T01:01:00+03:00",
-          "title": "L'actu news.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T01:01:00+03:00",
-          "stop": "2026-10-31T01:04:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T01:04:00+03:00",
-          "stop": "2026-10-31T01:46:00+03:00",
-          "title": "Fragments. S: 1 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T01:46:00+03:00",
-          "stop": "2026-10-31T02:30:00+03:00",
-          "title": "Fragments. S: 1 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T02:30:00+03:00",
-          "stop": "2026-10-31T02:56:00+03:00",
-          "title": "TV5MONDE, le journal Afrique.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T02:56:00+03:00",
-          "stop": "2026-10-31T03:01:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T03:01:00+03:00",
-          "stop": "2026-10-31T04:32:00+03:00",
-          "title": "#Investigation - Pompes funèbres: quand la mort rapporte gros.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T04:32:00+03:00",
-          "stop": "2026-10-31T04:59:00+03:00",
-          "title": "Rassemblance - Jérôme Aké Béda (Côte d'Ivoire).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T04:59:00+03:00",
-          "stop": "2026-10-31T05:50:00+03:00",
-          "title": "Le Point - Au sommaire.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T05:50:00+03:00",
-          "stop": "2026-10-31T06:00:00+03:00",
-          "title": "Tendance XXI.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T06:00:00+03:00",
-          "stop": "2026-10-31T07:00:00+03:00",
-          "title": "Le 23h.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:00:00+03:00",
-          "stop": "2026-10-31T07:22:00+03:00",
-          "title": "Un si grand soleil. S: 4 / Ep: 957.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:22:00+03:00",
-          "stop": "2026-10-31T07:27:00+03:00",
-          "title": "Safran & Saveurs by Chef Simo - Tiramisu revisité à la marocaine.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:27:00+03:00",
-          "stop": "2026-10-31T07:54:00+03:00",
-          "title": "Les Maternelles d'Afrique - Nounou, mode d'emploi !",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:54:00+03:00",
-          "stop": "2026-10-31T07:59:00+03:00",
-          "title": "Tarmac Comedy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:59:00+03:00",
-          "stop": "2026-10-31T08:06:00+03:00",
-          "title": "Tarmac Comedy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T08:06:00+03:00",
-          "stop": "2026-10-31T08:35:00+03:00",
-          "title": "A bon entendeur.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T08:35:00+03:00",
-          "stop": "2026-10-31T09:01:00+03:00",
-          "title": "basik - Villa à tout prix.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:01:00+03:00",
-          "stop": "2026-10-31T09:27:00+03:00",
-          "title": "Géopolitis - Jeux d'influence.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:27:00+03:00",
-          "stop": "2026-10-31T09:30:00+03:00",
-          "title": "La p'tite librairie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:30:00+03:00",
-          "stop": "2026-10-31T09:58:00+03:00",
-          "title": "Nous, les Européens.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T09:58:00+03:00",
-          "stop": "2026-10-31T10:46:00+03:00",
-          "title": "La table du fermier - Les jardins, le coeur du Old Mill.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T10:46:00+03:00",
-          "stop": "2026-10-31T11:00:00+03:00",
-          "title": "Embarquement - Macau: porte d'entrée de la Grande Baie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:00:00+03:00",
-          "stop": "2026-10-31T11:26:00+03:00",
-          "title": "Le téléjournal de Radio-Canada.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:26:00+03:00",
-          "stop": "2026-10-31T11:30:00+03:00",
-          "title": "Histoires et morales. S: 1 / Ep: 15.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:30:00+03:00",
-          "stop": "2026-10-31T11:37:00+03:00",
-          "title": "La cabane à histoires. S: 4 / Ep: 15.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:37:00+03:00",
-          "stop": "2026-10-31T11:50:00+03:00",
-          "title": "My Class.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:50:00+03:00",
-          "stop": "2026-10-31T11:59:00+03:00",
-          "title": "Les nouvelles aventures de Kaeloo. S: 5 / Ep: 6.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T11:59:00+03:00",
-          "stop": "2026-10-31T12:04:00+03:00",
-          "title": "Dessine les animaux avec Koumi. S: 2 / Ep: 6.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:04:00+03:00",
-          "stop": "2026-10-31T12:07:00+03:00",
-          "title": "Ta vie sans ça. S: 2 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:07:00+03:00",
-          "stop": "2026-10-31T12:10:00+03:00",
-          "title": "Jad et ses soeurs. S: 1 / Ep: 15.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:10:00+03:00",
-          "stop": "2026-10-31T12:33:00+03:00",
-          "title": "Comme des têtes pas de poule. S: 3 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:33:00+03:00",
-          "stop": "2026-10-31T12:40:00+03:00",
-          "title": "Drôlement débrouillards.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:40:00+03:00",
-          "stop": "2026-10-31T12:50:00+03:00",
-          "title": "Le Roi Keita. S: 3 / Ep: 4.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T12:50:00+03:00",
-          "stop": "2026-10-31T13:11:00+03:00",
-          "title": "Hiveraganza.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T13:11:00+03:00",
-          "stop": "2026-10-31T13:22:00+03:00",
-          "title": "Foot GO. S: 2 / Ep: 9.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T13:22:00+03:00",
-          "stop": "2026-10-31T13:36:00+03:00",
-          "title": "Foot GO. S: 2 / Ep: 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T13:36:00+03:00",
-          "stop": "2026-10-31T14:07:00+03:00",
-          "title": "Destination francophonie - Danemark (partie 1).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T14:07:00+03:00",
-          "stop": "2026-10-31T14:35:00+03:00",
-          "title": "basik - Villa à tout prix.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T14:35:00+03:00",
-          "stop": "2026-10-31T15:04:00+03:00",
-          "title": "Objectif Monde - Indonésie: les aventuriers d'un monde perdu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T15:04:00+03:00",
-          "stop": "2026-10-31T15:30:00+03:00",
-          "title": "Maghreb-Orient Express.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T15:30:00+03:00",
-          "stop": "2026-10-31T16:00:00+03:00",
-          "title": "JT 19h30.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T16:00:00+03:00",
-          "stop": "2026-10-31T16:54:00+03:00",
-          "title": "Destination francophonie - Destination Danemark.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T16:54:00+03:00",
-          "stop": "2026-10-31T17:42:00+03:00",
-          "title": "Partir autrement entre amis. S: 2 / Ep: 5.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T17:42:00+03:00",
-          "stop": "2026-10-31T17:55:00+03:00",
-          "title": "Le dessous des cartes - Démographie: un monde de vieux ?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T17:55:00+03:00",
-          "stop": "2026-10-31T18:01:00+03:00",
-          "title": "#VF - Le musée Yves Saint Laurent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T18:01:00+03:00",
-          "stop": "2026-10-31T18:30:00+03:00",
-          "title": "100 châteaux - Amboise / Troussay.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T18:30:00+03:00",
-          "stop": "2026-10-31T19:03:00+03:00",
-          "title": "Questions pour un champion.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T19:03:00+03:00",
-          "stop": "2026-10-31T19:50:00+03:00",
-          "title": "La table du fermier - Les jardins, le coeur du Old Mill.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T19:50:00+03:00",
-          "stop": "2026-10-31T20:00:00+03:00",
-          "title": "#VF - Le chef Hugo Bourny au Lucas Carton.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:00:00+03:00",
-          "stop": "2026-10-31T20:23:00+03:00",
-          "title": "64': Actu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:23:00+03:00",
-          "stop": "2026-10-31T20:27:00+03:00",
-          "title": "Terriennes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:27:00+03:00",
-          "stop": "2026-10-31T20:30:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:30:00+03:00",
-          "stop": "2026-10-31T20:50:00+03:00",
-          "title": "64': Débat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:50:00+03:00",
-          "stop": "2026-10-31T21:05:00+03:00",
-          "title": "Parlons Eco.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T21:05:00+03:00",
-          "stop": "2026-10-31T21:31:00+03:00",
-          "title": "Papilles - Marseille avec Gérald Passedat.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T21:31:00+03:00",
-          "stop": "2026-10-31T22:00:00+03:00",
-          "title": "Rassemblance - Océane Dassé (Cameroun).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:00:00+03:00",
-          "stop": "2026-10-31T22:25:00+03:00",
-          "title": "Le Journal de la RTS.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:25:00+03:00",
-          "stop": "2026-10-31T22:26:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:26:00+03:00",
-          "stop": "2026-10-31T22:28:00+03:00",
-          "title": "La p'tite librairie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:28:00+03:00",
-          "stop": "2026-10-31T22:40:00+03:00",
-          "title": "L'invité.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:40:00+03:00",
-          "stop": "2026-11-01T00:44:00+03:00",
-          "title": "▶️ Football Championnat De France Ligue 1 - 9e journée: Angers SCO - Olympique Lyonnais.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-01",
       "programs": [
         {
           "start": "2026-11-01T00:44:00+03:00",
-          "stop": "2026-11-01T00:47:00+03:00",
+          "stop": "2026-11-01T00:48:00+03:00",
           "title": "La Route du Rhum - Destination Guadeloupe.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T00:47:00+03:00",
-          "stop": "2026-11-01T01:13:00+03:00",
+          "start": "2026-11-01T00:48:00+03:00",
+          "stop": "2026-11-01T01:14:00+03:00",
           "title": "Le Journal de France 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T01:13:00+03:00",
-          "stop": "2026-11-01T01:15:00+03:00",
+          "start": "2026-11-01T01:14:00+03:00",
+          "stop": "2026-11-01T01:16:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T01:15:00+03:00",
-          "stop": "2026-11-01T03:22:00+03:00",
+          "start": "2026-11-01T01:16:00+03:00",
+          "stop": "2026-11-01T03:23:00+03:00",
           "title": "100 % logique: la réponse est sous vos yeux.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T03:22:00+03:00",
-          "stop": "2026-11-01T03:48:00+03:00",
+          "start": "2026-11-01T03:23:00+03:00",
+          "stop": "2026-11-01T03:50:00+03:00",
           "title": "TV5MONDE, le journal Afrique.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T03:48:00+03:00",
-          "stop": "2026-11-01T03:49:00+03:00",
-          "title": "Météo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T03:49:00+03:00",
+          "start": "2026-11-01T03:50:00+03:00",
           "stop": "2026-11-01T04:42:00+03:00",
           "title": "OPJ, Pacifique Sud. S: 4 / Ep: 3.",
           "description": "L",
@@ -526,20 +80,20 @@
         },
         {
           "start": "2026-11-01T07:00:00+03:00",
-          "stop": "2026-11-01T07:22:00+03:00",
+          "stop": "2026-11-01T07:23:00+03:00",
           "title": "Un si grand soleil. S: 4 / Ep: 958.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T07:22:00+03:00",
-          "stop": "2026-11-01T07:28:00+03:00",
+          "start": "2026-11-01T07:23:00+03:00",
+          "stop": "2026-11-01T07:31:00+03:00",
           "title": "Safran & Saveurs by Chef Simo - Yassa poulet sénégalais et zaalouk parfumé marocain.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T07:28:00+03:00",
+          "start": "2026-11-01T07:31:00+03:00",
           "stop": "2026-11-01T07:54:00+03:00",
           "title": "Population d'Afrique.",
           "description": "L",
@@ -547,13 +101,13 @@
         },
         {
           "start": "2026-11-01T07:54:00+03:00",
-          "stop": "2026-11-01T08:00:00+03:00",
+          "stop": "2026-11-01T07:59:00+03:00",
           "title": "Tarmac Comedy.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T08:00:00+03:00",
+          "start": "2026-11-01T07:59:00+03:00",
           "stop": "2026-11-01T08:06:00+03:00",
           "title": "Tarmac Comedy.",
           "description": "L",
@@ -568,13 +122,13 @@
         },
         {
           "start": "2026-11-01T08:33:00+03:00",
-          "stop": "2026-11-01T09:00:00+03:00",
+          "stop": "2026-11-01T08:59:00+03:00",
           "title": "Mediterraneo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T09:00:00+03:00",
+          "start": "2026-11-01T08:59:00+03:00",
           "stop": "2026-11-01T09:39:00+03:00",
           "title": "Savourer - Fêtons Halloween.",
           "description": "L",
@@ -603,15 +157,15 @@
         },
         {
           "start": "2026-11-01T09:58:00+03:00",
-          "stop": "2026-11-01T10:01:00+03:00",
+          "stop": "2026-11-01T10:02:00+03:00",
           "title": "Klass. S: 1 / Ep: 32.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T10:01:00+03:00",
+          "start": "2026-11-01T10:02:00+03:00",
           "stop": "2026-11-01T10:56:00+03:00",
-          "title": "Ça va l'faire !",
+          "title": "Destination francophonie - Destination Danemark.",
           "description": "L",
           "category": null
         },
@@ -624,97 +178,104 @@
         },
         {
           "start": "2026-11-01T11:00:00+03:00",
-          "stop": "2026-11-01T11:21:00+03:00",
+          "stop": "2026-11-01T11:23:00+03:00",
           "title": "Le téléjournal de Radio-Canada.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:21:00+03:00",
-          "stop": "2026-11-01T11:26:00+03:00",
+          "start": "2026-11-01T11:23:00+03:00",
+          "stop": "2026-11-01T11:27:00+03:00",
           "title": "Histoires et morales. S: 1 / Ep: 16.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:26:00+03:00",
-          "stop": "2026-11-01T11:35:00+03:00",
+          "start": "2026-11-01T11:27:00+03:00",
+          "stop": "2026-11-01T11:34:00+03:00",
           "title": "La cabane à histoires. S: 4 / Ep: 16.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:35:00+03:00",
-          "stop": "2026-11-01T11:48:00+03:00",
+          "start": "2026-11-01T11:34:00+03:00",
+          "stop": "2026-11-01T11:45:00+03:00",
           "title": "My Class.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:48:00+03:00",
-          "stop": "2026-11-01T11:58:00+03:00",
+          "start": "2026-11-01T11:45:00+03:00",
+          "stop": "2026-11-01T11:52:00+03:00",
           "title": "Les nouvelles aventures de Kaeloo. S: 5 / Ep: 7.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:58:00+03:00",
-          "stop": "2026-11-01T12:03:00+03:00",
+          "start": "2026-11-01T11:52:00+03:00",
+          "stop": "2026-11-01T11:57:00+03:00",
           "title": "Dessine les animaux avec Koumi. S: 2 / Ep: 7.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:03:00+03:00",
-          "stop": "2026-11-01T12:06:00+03:00",
+          "start": "2026-11-01T11:57:00+03:00",
+          "stop": "2026-11-01T12:00:00+03:00",
           "title": "Ta vie sans ça. S: 2 / Ep: 6.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:06:00+03:00",
-          "stop": "2026-11-01T12:09:00+03:00",
+          "start": "2026-11-01T12:00:00+03:00",
+          "stop": "2026-11-01T12:03:00+03:00",
           "title": "Jad et ses soeurs. S: 1 / Ep: 16.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:09:00+03:00",
-          "stop": "2026-11-01T12:32:00+03:00",
+          "start": "2026-11-01T12:03:00+03:00",
+          "stop": "2026-11-01T12:27:00+03:00",
           "title": "Comme des têtes pas de poule. S: 3 / Ep: 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:32:00+03:00",
-          "stop": "2026-11-01T12:39:00+03:00",
+          "start": "2026-11-01T12:27:00+03:00",
+          "stop": "2026-11-01T12:34:00+03:00",
           "title": "Drôlement débrouillards.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:39:00+03:00",
-          "stop": "2026-11-01T12:49:00+03:00",
+          "start": "2026-11-01T12:34:00+03:00",
+          "stop": "2026-11-01T12:44:00+03:00",
           "title": "Le Roi Keita. S: 3 / Ep: 5.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:49:00+03:00",
-          "stop": "2026-11-01T13:13:00+03:00",
+          "start": "2026-11-01T12:44:00+03:00",
+          "stop": "2026-11-01T13:06:00+03:00",
           "title": "Hiveraganza.",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-11-01T13:06:00+03:00",
+          "stop": "2026-11-01T13:13:00+03:00",
+          "title": "Tarmac Comedy.",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-11-01T13:13:00+03:00",
-          "stop": "2026-11-01T14:34:00+03:00",
+          "stop": "2026-11-01T14:35:00+03:00",
           "title": "Vizorek raconte Brel.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T14:34:00+03:00",
+          "start": "2026-11-01T14:35:00+03:00",
           "stop": "2026-11-01T15:30:00+03:00",
           "title": "Vivement dimanche.",
           "description": "L",
@@ -722,41 +283,41 @@
         },
         {
           "start": "2026-11-01T15:30:00+03:00",
-          "stop": "2026-11-01T16:00:00+03:00",
+          "stop": "2026-11-01T15:59:00+03:00",
           "title": "JT 19h30.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T16:00:00+03:00",
-          "stop": "2026-11-01T17:34:00+03:00",
+          "start": "2026-11-01T15:59:00+03:00",
+          "stop": "2026-11-01T17:32:00+03:00",
           "title": "Echappées belles - Colorado, retour aux sources.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T17:34:00+03:00",
-          "stop": "2026-11-01T18:00:00+03:00",
+          "start": "2026-11-01T17:32:00+03:00",
+          "stop": "2026-11-01T17:59:00+03:00",
           "title": "Top 14 Rugby le Mag.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T18:00:00+03:00",
-          "stop": "2026-11-01T18:26:00+03:00",
+          "start": "2026-11-01T17:59:00+03:00",
+          "stop": "2026-11-01T18:27:00+03:00",
           "title": "100 châteaux - Maintenon - Saché.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T18:26:00+03:00",
-          "stop": "2026-11-01T18:58:00+03:00",
+          "start": "2026-11-01T18:27:00+03:00",
+          "stop": "2026-11-01T19:00:00+03:00",
           "title": "Questions pour un champion.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T18:58:00+03:00",
+          "start": "2026-11-01T19:00:00+03:00",
           "stop": "2026-11-01T19:40:00+03:00",
           "title": "Franc-jeu.",
           "description": "L",
@@ -764,27 +325,27 @@
         },
         {
           "start": "2026-11-01T19:40:00+03:00",
-          "stop": "2026-11-01T19:56:00+03:00",
+          "stop": "2026-11-01T19:55:00+03:00",
           "title": "Le dessous des cartes - Démographie: un monde de vieux ?",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T19:56:00+03:00",
+          "start": "2026-11-01T19:55:00+03:00",
           "stop": "2026-11-01T20:00:00+03:00",
-          "title": "Un pays, un livre. S: 1 / Ep: 1.",
+          "title": "Un pays, un livre. S: 1 / Ep: 27.",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-01T20:00:00+03:00",
-          "stop": "2026-11-01T20:27:00+03:00",
+          "stop": "2026-11-01T20:26:00+03:00",
           "title": "64': Actu.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T20:27:00+03:00",
+          "start": "2026-11-01T20:26:00+03:00",
           "stop": "2026-11-01T20:30:00+03:00",
           "title": "Météo.",
           "description": "L",
@@ -792,13 +353,13 @@
         },
         {
           "start": "2026-11-01T20:30:00+03:00",
-          "stop": "2026-11-01T20:53:00+03:00",
+          "stop": "2026-11-01T20:54:00+03:00",
           "title": "64': Débat.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T20:53:00+03:00",
+          "start": "2026-11-01T20:54:00+03:00",
           "stop": "2026-11-01T21:02:00+03:00",
           "title": "L'invité.",
           "description": "L",
@@ -820,13 +381,13 @@
         },
         {
           "start": "2026-11-01T22:00:00+03:00",
-          "stop": "2026-11-01T22:26:00+03:00",
+          "stop": "2026-11-01T22:27:00+03:00",
           "title": "Le Journal de la RTS.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T22:26:00+03:00",
+          "start": "2026-11-01T22:27:00+03:00",
           "stop": "2026-11-01T22:30:00+03:00",
           "title": "La p'tite librairie.",
           "description": "L",
@@ -848,7 +409,7 @@
         },
         {
           "start": "2026-11-01T23:00:00+03:00",
-          "stop": "2026-11-02T00:54:00+03:00",
+          "stop": "2026-11-02T00:55:00+03:00",
           "title": "La (très) grande évasion.",
           "description": "L",
           "category": null
@@ -859,7 +420,7 @@
       "date": "2026-11-02",
       "programs": [
         {
-          "start": "2026-11-02T00:54:00+03:00",
+          "start": "2026-11-02T00:55:00+03:00",
           "stop": "2026-11-02T02:33:00+03:00",
           "title": "Le roi de Paris.",
           "description": "L",
@@ -867,41 +428,48 @@
         },
         {
           "start": "2026-11-02T02:33:00+03:00",
-          "stop": "2026-11-02T02:59:00+03:00",
+          "stop": "2026-11-02T02:37:00+03:00",
+          "title": "Un pays, un livre. S: 1 / Ep: 27.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T02:37:00+03:00",
+          "stop": "2026-11-02T03:03:00+03:00",
           "title": "TV5MONDE, le journal Afrique.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T02:59:00+03:00",
-          "stop": "2026-11-02T03:01:00+03:00",
+          "start": "2026-11-02T03:03:00+03:00",
+          "stop": "2026-11-02T03:06:00+03:00",
           "title": "Météo.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T03:01:00+03:00",
-          "stop": "2026-11-02T03:53:00+03:00",
+          "start": "2026-11-02T03:06:00+03:00",
+          "stop": "2026-11-02T03:58:00+03:00",
           "title": "Destination francophonie - Destination Danemark.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T03:53:00+03:00",
-          "stop": "2026-11-02T04:43:00+03:00",
-          "title": "Partir autrement entre amis. S: 2 / Ep: 5.",
+          "start": "2026-11-02T03:58:00+03:00",
+          "stop": "2026-11-02T04:45:00+03:00",
+          "title": "Fracture américaine. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T04:43:00+03:00",
-          "stop": "2026-11-02T05:13:00+03:00",
+          "start": "2026-11-02T04:45:00+03:00",
+          "stop": "2026-11-02T05:12:00+03:00",
           "title": "Papilles - Marseille avec Gérald Passedat.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T05:13:00+03:00",
+          "start": "2026-11-02T05:12:00+03:00",
           "stop": "2026-11-02T06:00:00+03:00",
           "title": "Cousu. S: 1 / Ep: 2.",
           "description": "L",
@@ -923,13 +491,13 @@
         },
         {
           "start": "2026-11-02T07:22:00+03:00",
-          "stop": "2026-11-02T07:30:00+03:00",
-          "title": "Safran & Saveurs by Chef Simo - Tajine d'agneau aux poires et prunes caramélisées.",
+          "stop": "2026-11-02T07:32:00+03:00",
+          "title": "Safran & Saveurs by Chef Simo - Couscous au boeuf bourguignon à la tfaya des Touaregs.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T07:30:00+03:00",
+          "start": "2026-11-02T07:32:00+03:00",
           "stop": "2026-11-02T07:58:00+03:00",
           "title": "Escapades en Suisse Italienne - Val Poschiavo.",
           "description": "L",
@@ -1175,15 +743,15 @@
         },
         {
           "start": "2026-11-02T19:00:00+03:00",
-          "stop": "2026-11-02T19:56:00+03:00",
+          "stop": "2026-11-02T19:55:00+03:00",
           "title": "Le Point - Noyer les gaz à effet de serre.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T19:56:00+03:00",
+          "start": "2026-11-02T19:55:00+03:00",
           "stop": "2026-11-02T20:00:00+03:00",
-          "title": "Un pays, un livre. S: 1 / Ep: 2.",
+          "title": "Un pays, un livre. S: 1 / Ep: 30.",
           "description": "L",
           "category": null
         },
@@ -1268,6 +836,424 @@
           "start": "2026-11-02T23:05:00+03:00",
           "stop": "2026-11-03T00:39:00+03:00",
           "title": "Echappées belles - Bolivie, le défi des sommets.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "programs": [
+        {
+          "start": "2026-11-03T00:39:00+03:00",
+          "stop": "2026-11-03T01:09:00+03:00",
+          "title": "L'actu news.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T01:09:00+03:00",
+          "stop": "2026-11-03T01:11:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T01:11:00+03:00",
+          "stop": "2026-11-03T02:13:00+03:00",
+          "title": "La montagne des géants.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T02:13:00+03:00",
+          "stop": "2026-11-03T03:06:00+03:00",
+          "title": "Le dernier flip: Démarchandiser l'immobilier.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T03:06:00+03:00",
+          "stop": "2026-11-03T03:32:00+03:00",
+          "title": "TV5MONDE, le journal Afrique.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T03:32:00+03:00",
+          "stop": "2026-11-03T03:35:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T03:35:00+03:00",
+          "stop": "2026-11-03T06:00:00+03:00",
+          "title": "Quelle époque !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T06:00:00+03:00",
+          "stop": "2026-11-03T07:00:00+03:00",
+          "title": "Le 23h.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:00:00+03:00",
+          "stop": "2026-11-03T07:21:00+03:00",
+          "title": "Un si grand soleil. S: 4 / Ep: 960.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:21:00+03:00",
+          "stop": "2026-11-03T07:30:00+03:00",
+          "title": "Safran & Saveurs by Chef Simo - Mille trous farcis façon Casa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:30:00+03:00",
+          "stop": "2026-11-03T07:58:00+03:00",
+          "title": "C'est du belge - Capsules - Comme chez soi, un siècle d'une histoire gastronomique.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:58:00+03:00",
+          "stop": "2026-11-03T08:24:00+03:00",
+          "title": "Le 6h info.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T08:24:00+03:00",
+          "stop": "2026-11-03T08:25:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T08:25:00+03:00",
+          "stop": "2026-11-03T08:37:00+03:00",
+          "title": "Oum le dauphin. S: 3 / Ep: 28.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T08:37:00+03:00",
+          "stop": "2026-11-03T09:01:00+03:00",
+          "title": "Les Millimus. S: 1 / Ep: 39.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:01:00+03:00",
+          "stop": "2026-11-03T09:27:00+03:00",
+          "title": "Alix et les Merveilleux. S: 2 / Ep: 54.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:27:00+03:00",
+          "stop": "2026-11-03T09:30:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:30:00+03:00",
+          "stop": "2026-11-03T09:50:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:50:00+03:00",
+          "stop": "2026-11-03T10:22:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:22:00+03:00",
+          "stop": "2026-11-03T10:30:00+03:00",
+          "title": "Vous avez 1 nouveau message - \" Diab'-la \", de Joseph Zobel, lu par Christian Julien.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:30:00+03:00",
+          "stop": "2026-11-03T10:38:00+03:00",
+          "title": "Télématin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:38:00+03:00",
+          "stop": "2026-11-03T10:46:00+03:00",
+          "title": "L'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:46:00+03:00",
+          "stop": "2026-11-03T10:50:00+03:00",
+          "title": "VF.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:50:00+03:00",
+          "stop": "2026-11-03T10:57:00+03:00",
+          "title": "#VF - Adrian Appiolaza pour Moschino, automn-hiver 2024.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:57:00+03:00",
+          "stop": "2026-11-03T11:00:00+03:00",
+          "title": "Hiro'a tumu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T11:00:00+03:00",
+          "stop": "2026-11-03T11:26:00+03:00",
+          "title": "Le téléjournal de Radio-Canada.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T11:26:00+03:00",
+          "stop": "2026-11-03T11:58:00+03:00",
+          "title": "Le jardin extraordinaire - Notre jardin extraordinaire: le safari du minuscule.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T11:58:00+03:00",
+          "stop": "2026-11-03T12:24:00+03:00",
+          "title": "Pistes vertes - Éco-construction.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T12:24:00+03:00",
+          "stop": "2026-11-03T12:54:00+03:00",
+          "title": "A travers champs. S: 3 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T12:54:00+03:00",
+          "stop": "2026-11-03T13:21:00+03:00",
+          "title": "Vroum - Pays d'Auge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T13:21:00+03:00",
+          "stop": "2026-11-03T14:05:00+03:00",
+          "title": "Fragments. S: 1 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T14:05:00+03:00",
+          "stop": "2026-11-03T14:17:00+03:00",
+          "title": "100 châteaux - Montigny-le-Gannelon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T14:17:00+03:00",
+          "stop": "2026-11-03T14:40:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1932.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T14:40:00+03:00",
+          "stop": "2026-11-03T14:42:00+03:00",
+          "title": "Stances la poésie est dans la vie: la p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T14:42:00+03:00",
+          "stop": "2026-11-03T15:30:00+03:00",
+          "title": "Tout le monde veut prendre sa place.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T15:30:00+03:00",
+          "stop": "2026-11-03T16:00:00+03:00",
+          "title": "JT 19h30.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T16:00:00+03:00",
+          "stop": "2026-11-03T17:54:00+03:00",
+          "title": "La (très) grande évasion.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T17:54:00+03:00",
+          "stop": "2026-11-03T18:00:00+03:00",
+          "title": "#VF - Thom Bowne, automne-hiver 2024.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:00:00+03:00",
+          "stop": "2026-11-03T18:11:00+03:00",
+          "title": "Les trois Bricochons. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:11:00+03:00",
+          "stop": "2026-11-03T18:22:00+03:00",
+          "title": "Les Croquemoutard. S: 1 / Ep: 51.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:22:00+03:00",
+          "stop": "2026-11-03T18:33:00+03:00",
+          "title": "Idéfix & les Irréductibles. S: 2 / Ep: 31.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:33:00+03:00",
+          "stop": "2026-11-03T18:44:00+03:00",
+          "title": "Idéfix & les Irréductibles. S: 2 / Ep: 32.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:44:00+03:00",
+          "stop": "2026-11-03T19:00:00+03:00",
+          "title": "Partie de campagne. S: 1 / Ep: 14.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T19:00:00+03:00",
+          "stop": "2026-11-03T19:55:00+03:00",
+          "title": "Temps présent - Saumon, comment on nous enfume.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T19:55:00+03:00",
+          "stop": "2026-11-03T20:00:00+03:00",
+          "title": "Un pays, un livre. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T20:00:00+03:00",
+          "stop": "2026-11-03T20:27:00+03:00",
+          "title": "64': Actu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T20:27:00+03:00",
+          "stop": "2026-11-03T20:30:00+03:00",
+          "title": "Météo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T20:30:00+03:00",
+          "stop": "2026-11-03T20:53:00+03:00",
+          "title": "64': Débat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T20:53:00+03:00",
+          "stop": "2026-11-03T21:01:00+03:00",
+          "title": "L'invité.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:01:00+03:00",
+          "stop": "2026-11-03T21:23:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1932.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:23:00+03:00",
+          "stop": "2026-11-03T21:46:00+03:00",
+          "title": "Un si grand soleil. S: 8 / Ep: 1933.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:46:00+03:00",
+          "stop": "2026-11-03T21:55:00+03:00",
+          "title": "Tendance XXI.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:55:00+03:00",
+          "stop": "2026-11-03T22:00:00+03:00",
+          "title": "Tendance XXI.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T22:00:00+03:00",
+          "stop": "2026-11-03T22:26:00+03:00",
+          "title": "Le Journal de la RTS.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T22:26:00+03:00",
+          "stop": "2026-11-03T22:30:00+03:00",
+          "title": "La p'tite librairie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T22:30:00+03:00",
+          "stop": "2026-11-03T23:00:00+03:00",
+          "title": "Le Journal de France 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T23:00:00+03:00",
+          "stop": "2026-11-03T23:04:00+03:00",
+          "title": "La Route du Rhum - Destination Guadeloupe.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T23:04:00+03:00",
+          "stop": "2026-11-03T23:59:00+03:00",
+          "title": "Jeux d'influence, les combattantes. S: 2 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T23:59:00+03:00",
+          "stop": "2026-11-04T01:01:00+03:00",
+          "title": "Jeux d'influence, les combattantes. S: 2 / Ep: 6.",
           "description": "L",
           "category": null
         }

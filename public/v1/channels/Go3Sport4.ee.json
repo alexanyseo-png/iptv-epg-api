@@ -8,8 +8,21 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-31T12:38:44.909197+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-11-01T13:30:32.759768+00:00",
+  "available": true,
+  "programmeCount": 1,
+  "days": [
+    {
+      "date": "2026-11-01",
+      "programs": [
+        {
+          "start": "2026-11-01T01:00:00+03:00",
+          "stop": "2026-11-01T02:00:00+03:00",
+          "title": "⋗ UFC. Renato Moicano – Tom Nolan (ENG)",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

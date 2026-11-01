@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-10-31T12:38:44.909197+00:00",
+  "generatedAt": "2026-11-01T13:30:32.759768+00:00",
   "available": true,
-  "programmeCount": 17,
+  "programmeCount": 18,
   "days": [
-    {
-      "date": "2026-10-31",
-      "programs": [
-        {
-          "start": "2026-10-31T01:05:00+03:00",
-          "stop": "2026-10-31T04:15:00+03:00",
-          "title": "Две души.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T04:15:00+03:00",
-          "stop": "2026-10-31T07:05:00+03:00",
-          "title": "Кишан и Канхайя.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T07:05:00+03:00",
-          "stop": "2026-10-31T10:20:00+03:00",
-          "title": "Пой, Радха, пой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T10:20:00+03:00",
-          "stop": "2026-10-31T13:40:00+03:00",
-          "title": "Бродяга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T13:40:00+03:00",
-          "stop": "2026-10-31T16:40:00+03:00",
-          "title": "Танцовщица кабаре.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T16:40:00+03:00",
-          "stop": "2026-10-31T20:00:00+03:00",
-          "title": "Возвращение домой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T20:00:00+03:00",
-          "stop": "2026-10-31T22:25:00+03:00",
-          "title": "Кукловод.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-10-31T22:25:00+03:00",
-          "stop": "2026-11-01T01:40:00+03:00",
-          "title": "Солдат.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-01",
       "programs": [
@@ -134,8 +73,81 @@
         },
         {
           "start": "2026-11-01T22:40:00+03:00",
-          "stop": "2026-11-01T23:40:00+03:00",
+          "stop": "2026-11-02T01:20:00+03:00",
           "title": "Король Сингх.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-02",
+      "programs": [
+        {
+          "start": "2026-11-02T01:20:00+03:00",
+          "stop": "2026-11-02T04:35:00+03:00",
+          "title": "Две души.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T04:35:00+03:00",
+          "stop": "2026-11-02T07:50:00+03:00",
+          "title": "Бродяга.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T07:50:00+03:00",
+          "stop": "2026-11-02T10:55:00+03:00",
+          "title": "Танцовщица кабаре.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:55:00+03:00",
+          "stop": "2026-11-02T13:30:00+03:00",
+          "title": "Чужой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T13:30:00+03:00",
+          "stop": "2026-11-02T16:50:00+03:00",
+          "title": "Возвращение домой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T16:50:00+03:00",
+          "stop": "2026-11-02T20:00:00+03:00",
+          "title": "Помолвка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T20:00:00+03:00",
+          "stop": "2026-11-02T22:45:00+03:00",
+          "title": "Когда мы встретились.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T22:45:00+03:00",
+          "stop": "2026-11-03T00:55:00+03:00",
+          "title": "Доктор Г.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "programs": [
+        {
+          "start": "2026-11-03T00:55:00+03:00",
+          "stop": "2026-11-03T01:55:00+03:00",
+          "title": "Сатьяпрем и Катха.",
           "description": "L",
           "category": null
         }
