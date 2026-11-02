@@ -8,115 +8,293 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-01T13:30:32.759768+00:00",
+  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 39,
   "days": [
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "programs": [
         {
-          "start": "2026-11-01T01:30:00+03:00",
-          "stop": "2026-11-01T03:30:00+03:00",
-          "title": "FIA WEC. Round 7. 6 Hours of Barcelona",
+          "start": "2026-11-02T05:00:00+03:00",
+          "stop": "2026-11-02T06:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 1 раунд. Сессия 5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T03:30:00+03:00",
-          "stop": "2026-11-01T04:30:00+03:00",
-          "title": "Скалолазание: World Series Santiago De Chile Мужчины и женщины Лазание на скорость Финал",
+          "start": "2026-11-02T06:00:00+03:00",
+          "stop": "2026-11-02T07:30:00+03:00",
+          "title": "Тур Фландрии. Мужчины",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T04:30:00+03:00",
-          "stop": "2026-11-01T05:30:00+03:00",
-          "title": "Скалолазание. Мужчины и женщины. Лазание на трудность. Финал. Мировая серия. Сантьяго-де-Чили",
+          "start": "2026-11-02T07:30:00+03:00",
+          "stop": "2026-11-02T09:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 1 раунд. Сессия 5",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T05:30:00+03:00",
-          "stop": "2026-11-01T07:00:00+03:00",
-          "title": "Снукер. International Championship 2026. 1 раунд. Сессия 3",
+          "start": "2026-11-02T09:00:00+03:00",
+          "stop": "2026-11-02T12:30:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T07:00:00+03:00",
-          "stop": "2026-11-01T10:30:00+03:00",
-          "title": "⋗ Снукер. International Championship 2026. 1 раунд. Сессия 5",
+          "start": "2026-11-02T12:30:00+03:00",
+          "stop": "2026-11-02T14:30:00+03:00",
+          "title": "Тур Фландрии. Мужчины",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T10:30:00+03:00",
-          "stop": "2026-11-01T11:30:00+03:00",
+          "start": "2026-11-02T14:30:00+03:00",
+          "stop": "2026-11-02T18:00:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T18:00:00+03:00",
+          "stop": "2026-11-02T19:00:00+03:00",
+          "title": "Curling: Europameisterschaft in Ostrava Final Men",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T19:00:00+03:00",
+          "stop": "2026-11-02T20:00:00+03:00",
+          "title": "Curling: Campeonato de Europa (Ostrava) Final Women",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T20:00:00+03:00",
+          "stop": "2026-11-02T22:00:00+03:00",
+          "title": "Конкур: Global Champions Tour Рабат",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T22:00:00+03:00",
+          "stop": "2026-11-03T00:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 3",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "programs": [
+        {
+          "start": "2026-11-03T00:00:00+03:00",
+          "stop": "2026-11-03T00:30:00+03:00",
+          "title": "Гонка на грани",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T00:30:00+03:00",
+          "stop": "2026-11-03T02:00:00+03:00",
+          "title": "Тур Фландрии. Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T02:00:00+03:00",
+          "stop": "2026-11-03T03:30:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T03:30:00+03:00",
+          "stop": "2026-11-03T05:00:00+03:00",
+          "title": "Мотогонки на выносливость: World Championship 6 часов Спа-Фракоршама",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T05:00:00+03:00",
+          "stop": "2026-11-03T06:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T06:00:00+03:00",
+          "stop": "2026-11-03T07:30:00+03:00",
+          "title": "Велоспорт World Tour Париж – Рубе, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:30:00+03:00",
+          "stop": "2026-11-03T09:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 2 раунд. Сессия 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:00:00+03:00",
+          "stop": "2026-11-03T12:30:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T12:30:00+03:00",
+          "stop": "2026-11-03T14:30:00+03:00",
+          "title": "Велоспорт World Tour Париж – Рубе, Мужчины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T14:30:00+03:00",
+          "stop": "2026-11-03T18:00:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:00:00+03:00",
+          "stop": "2026-11-03T18:30:00+03:00",
+          "title": "Гонка на грани",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:30:00+03:00",
+          "stop": "2026-11-03T19:30:00+03:00",
           "title": "Горные лыжи: World cup Зельден Гигантский слалом Run 02 Женщины",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T11:30:00+03:00",
-          "stop": "2026-11-01T12:30:00+03:00",
-          "title": "Горные лыжи: World cup Зельден Гигантский слалом Run 02 Мужчины",
+          "start": "2026-11-03T19:30:00+03:00",
+          "stop": "2026-11-03T21:00:00+03:00",
+          "title": "Мотогонки на выносливость: World Championship 6 часов Спа-Фракоршама",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T12:30:00+03:00",
-          "stop": "2026-11-01T14:30:00+03:00",
-          "title": "⋗ Снукер. International Championship 2026. 1 раунд. Сессия 6",
+          "start": "2026-11-03T21:00:00+03:00",
+          "stop": "2026-11-03T21:30:00+03:00",
+          "title": "Секрет выносливости: Гонка за совершенством",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T14:30:00+03:00",
-          "stop": "2026-11-01T17:15:00+03:00",
-          "title": "⋗ Легкая атлетика. Нью-Йоркский марафон 2026",
+          "start": "2026-11-03T21:30:00+03:00",
+          "stop": "2026-11-03T22:00:00+03:00",
+          "title": "Кузовные автогонки World Tour Zhuzou Review",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T17:15:00+03:00",
-          "stop": "2026-11-01T18:00:00+03:00",
-          "title": "Керлинг. Чемпионат Европы 2026. Мужчины. Полуфинал",
+          "start": "2026-11-03T22:00:00+03:00",
+          "stop": "2026-11-04T00:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 2",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "programs": [
+        {
+          "start": "2026-11-04T00:00:00+03:00",
+          "stop": "2026-11-04T02:00:00+03:00",
+          "title": "Велоспорт World Tour Париж – Рубе, Мужчины",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T18:00:00+03:00",
-          "stop": "2026-11-01T20:00:00+03:00",
-          "title": "Керлинг. Чемпионат Европы 2026. Мужчины. Финал",
+          "start": "2026-11-04T02:00:00+03:00",
+          "stop": "2026-11-04T03:30:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T20:00:00+03:00",
-          "stop": "2026-11-01T21:00:00+03:00",
-          "title": "Фигурное катание. Гран-при ISU. Grand Prix 2026. Келоуна, Канада. Мужчины. Произвольная программа",
+          "start": "2026-11-04T03:30:00+03:00",
+          "stop": "2026-11-04T05:00:00+03:00",
+          "title": "Гонки на выносливость: World Championship 24 Hours of Le Mans Round 1",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T21:00:00+03:00",
-          "stop": "2026-11-01T22:50:00+03:00",
-          "title": "⋗ Фигурное катание. Гран-при ISU. Grand Prix 2026. Келоуна, Канада. Женщины. Произвольная программа",
+          "start": "2026-11-04T05:00:00+03:00",
+          "stop": "2026-11-04T06:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 2",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T22:50:00+03:00",
-          "stop": "2026-11-01T23:15:00+03:00",
-          "title": "Горные лыжи: World cup Зельден Гигантский слалом Run 02 Мужчины",
+          "start": "2026-11-04T06:00:00+03:00",
+          "stop": "2026-11-04T07:30:00+03:00",
+          "title": "Велоспорт: World Tour Amstel Gold Race Men",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T23:15:00+03:00",
-          "stop": "2026-11-02T00:15:00+03:00",
-          "title": "⋗ Фигурное катание. Гран-при ISU. Grand Prix 2026. Келоуна, Канада. Танцы на льду. Произвольный танец",
+          "start": "2026-11-04T07:30:00+03:00",
+          "stop": "2026-11-04T09:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. 3 раунд. Сессия 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T09:00:00+03:00",
+          "stop": "2026-11-04T12:30:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. Четвертьфинал. Сессия 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T12:30:00+03:00",
+          "stop": "2026-11-04T14:30:00+03:00",
+          "title": "Велоспорт: World Tour Amstel Gold Race Men",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T14:30:00+03:00",
+          "stop": "2026-11-04T18:00:00+03:00",
+          "title": "⋗ Снукер. Northern Ireland Open 2026. Четвертьфинал. Сессия 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T18:00:00+03:00",
+          "stop": "2026-11-04T19:30:00+03:00",
+          "title": "Велоспорт: World Tour Amstel Gold Race Men",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T19:30:00+03:00",
+          "stop": "2026-11-04T21:00:00+03:00",
+          "title": "Гонки на выносливость: World Championship 24 Hours of Le Mans Round 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T21:00:00+03:00",
+          "stop": "2026-11-04T22:00:00+03:00",
+          "title": "Скалолазание. Кубок мира. Этап 12 в Солт-Лейк-Сити, США. Женщины. Болдеринг. Финал",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T22:00:00+03:00",
+          "stop": "2026-11-05T00:00:00+03:00",
+          "title": "Снукер. Northern Ireland Open 2026. Четвертьфинал. Сессия 2",
           "description": "L",
           "category": null
         }

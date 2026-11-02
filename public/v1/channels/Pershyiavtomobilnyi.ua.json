@@ -8,65 +8,168 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-01T13:30:32.759768+00:00",
+  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 35,
   "days": [
     {
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "programs": [
         {
-          "start": "2026-11-01T01:00:00+03:00",
-          "stop": "2026-11-01T08:00:00+03:00",
-          "title": "Бойові сили",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T08:00:00+03:00",
-          "stop": "2026-11-01T10:00:00+03:00",
-          "title": "Авто року 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T10:00:00+03:00",
-          "stop": "2026-11-01T11:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T11:00:00+03:00",
-          "stop": "2026-11-01T13:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T13:00:00+03:00",
-          "stop": "2026-11-01T14:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-01T14:00:00+03:00",
-          "stop": "2026-11-01T18:30:00+03:00",
+          "start": "2026-11-02T00:00:00+03:00",
+          "stop": "2026-11-02T01:00:00+03:00",
           "title": "Мотоспорт. MotoGP. 2026 с-н",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T18:30:00+03:00",
-          "stop": "2026-11-01T21:00:00+03:00",
+          "start": "2026-11-02T08:00:00+03:00",
+          "stop": "2026-11-02T09:00:00+03:00",
+          "title": "Авто року 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T09:00:00+03:00",
+          "stop": "2026-11-02T10:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T10:00:00+03:00",
+          "stop": "2026-11-02T12:00:00+03:00",
           "title": "Сімейний тест-драйв",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-01T21:00:00+03:00",
-          "stop": "2026-11-02T00:00:00+03:00",
+          "start": "2026-11-02T12:00:00+03:00",
+          "stop": "2026-11-02T13:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T13:00:00+03:00",
+          "stop": "2026-11-02T14:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T14:00:00+03:00",
+          "stop": "2026-11-02T16:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T16:00:00+03:00",
+          "stop": "2026-11-02T19:00:00+03:00",
+          "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T19:00:00+03:00",
+          "stop": "2026-11-02T20:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T20:00:00+03:00",
+          "stop": "2026-11-02T21:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T21:00:00+03:00",
+          "stop": "2026-11-02T22:00:00+03:00",
+          "title": "ByCar батл",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-02T22:00:00+03:00",
+          "stop": "2026-11-03T00:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-03",
+      "programs": [
+        {
+          "start": "2026-11-03T00:00:00+03:00",
+          "stop": "2026-11-03T08:00:00+03:00",
+          "title": "Мотоспорт. MotoGP. 2026 с-н",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T08:00:00+03:00",
+          "stop": "2026-11-03T10:00:00+03:00",
+          "title": "Авто року 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:00:00+03:00",
+          "stop": "2026-11-03T12:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T12:00:00+03:00",
+          "stop": "2026-11-03T13:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T13:00:00+03:00",
+          "stop": "2026-11-03T15:00:00+03:00",
+          "title": "ByCar батл",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T15:00:00+03:00",
+          "stop": "2026-11-03T18:00:00+03:00",
+          "title": "Бойові сили",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:00:00+03:00",
+          "stop": "2026-11-03T19:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T19:00:00+03:00",
+          "stop": "2026-11-03T21:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:00:00+03:00",
+          "stop": "2026-11-03T22:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T22:00:00+03:00",
+          "stop": "2026-11-04T00:00:00+03:00",
           "title": "Перший тест",
           "description": "L",
           "category": null
@@ -74,11 +177,95 @@
       ]
     },
     {
-      "date": "2026-11-02",
+      "date": "2026-11-04",
       "programs": [
         {
-          "start": "2026-11-02T00:00:00+03:00",
-          "stop": "2026-11-02T01:00:00+03:00",
+          "start": "2026-11-04T00:00:00+03:00",
+          "stop": "2026-11-04T08:00:00+03:00",
+          "title": "Бойові сили",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T08:00:00+03:00",
+          "stop": "2026-11-04T09:00:00+03:00",
+          "title": "Авто року 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T09:00:00+03:00",
+          "stop": "2026-11-04T10:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T10:00:00+03:00",
+          "stop": "2026-11-04T11:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T11:00:00+03:00",
+          "stop": "2026-11-04T12:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T12:00:00+03:00",
+          "stop": "2026-11-04T13:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T13:00:00+03:00",
+          "stop": "2026-11-04T15:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T15:00:00+03:00",
+          "stop": "2026-11-04T17:30:00+03:00",
+          "title": "Мотоспорт. MotoGP. 2026 с-н",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T17:30:00+03:00",
+          "stop": "2026-11-04T20:00:00+03:00",
+          "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T20:00:00+03:00",
+          "stop": "2026-11-04T21:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T21:00:00+03:00",
+          "stop": "2026-11-04T22:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T22:00:00+03:00",
+          "stop": "2026-11-04T23:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T23:00:00+03:00",
+          "stop": "2026-11-05T08:00:00+03:00",
           "title": "Мотоспорт. MotoGP. 2026 с-н",
           "description": "L",
           "category": null
