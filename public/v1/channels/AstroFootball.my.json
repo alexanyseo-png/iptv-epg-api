@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 40,
+  "programmeCount": 41,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T01:00:00+03:00",
-          "stop": "2026-11-02T03:00:00+03:00",
-          "title": "Serie A: Como vs Venezia",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T03:00:00+03:00",
-          "stop": "2026-11-02T05:00:00+03:00",
-          "title": "Serie A: Lazio vs Cagliari",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T05:00:00+03:00",
-          "stop": "2026-11-02T07:00:00+03:00",
-          "title": "Serie A: Lecce vs Genoa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T07:00:00+03:00",
-          "stop": "2026-11-02T09:00:00+03:00",
-          "title": "Serie A: Juventus vs Napoli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T09:00:00+03:00",
-          "stop": "2026-11-02T11:00:00+03:00",
-          "title": "Serie A: Frosinone vs Torino",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T11:00:00+03:00",
-          "stop": "2026-11-02T13:00:00+03:00",
-          "title": "Dutch: Feyenoord vs Fortuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T13:00:00+03:00",
-          "stop": "2026-11-02T15:00:00+03:00",
-          "title": "Dutch: PSV vs Willem II",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T15:00:00+03:00",
-          "stop": "2026-11-02T16:00:00+03:00",
-          "title": "DFB: Round 2 Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T16:00:00+03:00",
-          "stop": "2026-11-02T16:35:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd8",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T16:35:00+03:00",
-          "stop": "2026-11-02T18:50:00+03:00",
-          "title": "⋗ AFC Elite: Pakhtakor vs Al Nassr",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T18:50:00+03:00",
-          "stop": "2026-11-02T21:05:00+03:00",
-          "title": "⋗ AFC Elite: Al Sadd vs Al Ahli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T21:05:00+03:00",
-          "stop": "2026-11-02T23:30:00+03:00",
-          "title": "⋗ AFC Elite: Al Ittihad vs Al Ain",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T23:30:00+03:00",
-          "stop": "2026-11-03T00:00:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd8",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -302,6 +206,109 @@
           "start": "2026-11-04T23:00:00+03:00",
           "stop": "2026-11-05T01:00:00+03:00",
           "title": "Dutch: PSV vs Willem II",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T01:00:00+03:00",
+          "stop": "2026-11-05T03:00:00+03:00",
+          "title": "DFB: Rot-Weiss vs Leipzig",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:00:00+03:00",
+          "stop": "2026-11-05T05:00:00+03:00",
+          "title": "DFB: Hamburger vs Eintracht",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T05:00:00+03:00",
+          "stop": "2026-11-05T07:00:00+03:00",
+          "title": "DFB: Freiburg vs Wolfsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T07:00:00+03:00",
+          "stop": "2026-11-05T08:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:00:00+03:00",
+          "stop": "2026-11-05T10:00:00+03:00",
+          "title": "DFB: Dortmund vs Bremen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:00:00+03:00",
+          "stop": "2026-11-05T12:00:00+03:00",
+          "title": "DFB: Leverkusen vs Nurnberg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:00:00+03:00",
+          "stop": "2026-11-05T14:00:00+03:00",
+          "title": "DFB: Paderborn vs Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T14:00:00+03:00",
+          "stop": "2026-11-05T15:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T15:00:00+03:00",
+          "stop": "2026-11-05T17:00:00+03:00",
+          "title": "DFB: Bayern vs Magdeburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:00:00+03:00",
+          "stop": "2026-11-05T19:00:00+03:00",
+          "title": "DFB: Sonnenhof vs Augsburg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T19:00:00+03:00",
+          "stop": "2026-11-05T19:30:00+03:00",
+          "title": "Inside Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T19:30:00+03:00",
+          "stop": "2026-11-05T20:00:00+03:00",
+          "title": "Serie A 2026/27: Full Impact Rd8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:00:00+03:00",
+          "stop": "2026-11-05T22:00:00+03:00",
+          "title": "AFC Elite: Shanghai vs Cong Ha",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:00:00+03:00",
+          "stop": "2026-11-06T00:00:00+03:00",
+          "title": "AFC Elite: Pakhtakor vs Al Nassr",
           "description": "L",
           "category": null
         }

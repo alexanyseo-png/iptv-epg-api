@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 51,
+  "programmeCount": 66,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T07:25:00+03:00",
-          "stop": "2026-11-02T09:25:00+03:00",
-          "title": "Rugby: National Rugby League - 6. Spieltag: St. George Illawara Dragons - Gold Coast Titans.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T09:25:00+03:00",
-          "stop": "2026-11-02T11:25:00+03:00",
-          "title": "Rugby: Super League - 19. Spieltag: Castleford Tigers - Warrington Wolves.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T11:25:00+03:00",
-          "stop": "2026-11-02T13:05:00+03:00",
-          "title": "Isle of Man Tourist Trophy - Film - Tourist Trophy Film.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T13:05:00+03:00",
-          "stop": "2026-11-02T15:00:00+03:00",
-          "title": "Rugby: National Rugby League - 8. Spieltag: Melbourne Storm - South Sydney Rabbitohs.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T15:00:00+03:00",
-          "stop": "2026-11-02T16:40:00+03:00",
-          "title": "Rugby: Super League - 16. Spieltag: Hull FC - Wigan Warriors.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T16:40:00+03:00",
-          "stop": "2026-11-02T17:05:00+03:00",
-          "title": "Gearing Up.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T17:05:00+03:00",
-          "stop": "2026-11-02T18:00:00+03:00",
-          "title": "Top Speed Classic - Top Speed im Fokus - Runde 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T18:00:00+03:00",
-          "stop": "2026-11-02T18:50:00+03:00",
-          "title": "Top Speed Classic - Im Fokus - Das Finale.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T18:50:00+03:00",
-          "stop": "2026-11-02T20:30:00+03:00",
-          "title": "Rugby: Super League - 11. Spieltag: Wigan Warriors - Leeds Rhinos.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T20:30:00+03:00",
-          "stop": "2026-11-02T21:25:00+03:00",
-          "title": "PSP New Zealand Jetsprint Championship - NZ Championship 2, Featherston.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T21:25:00+03:00",
-          "stop": "2026-11-02T22:15:00+03:00",
-          "title": "Australian Boat Racing - Offshore, Lake Macquarie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T22:15:00+03:00",
-          "stop": "2026-11-03T00:55:00+03:00",
-          "title": "Australian Football: AFL - 22. Spieltag: Brisbane Lions - Hawthorn Hawks.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -379,6 +290,200 @@
           "start": "2026-11-04T22:15:00+03:00",
           "stop": "2026-11-05T00:10:00+03:00",
           "title": "Rugby: Top 14 - RC Toulon - Vannes.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T00:10:00+03:00",
+          "stop": "2026-11-05T01:15:00+03:00",
+          "title": "IndyNXT 2026 - Barber 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T01:15:00+03:00",
+          "stop": "2026-11-05T01:45:00+03:00",
+          "title": "Gearing Up.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T01:45:00+03:00",
+          "stop": "2026-11-05T03:30:00+03:00",
+          "title": "Rugby: National Rugby League - 8. Spieltag: Penrith Panthers - Manly-Warringah Sea Eagles.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:30:00+03:00",
+          "stop": "2026-11-05T03:50:00+03:00",
+          "title": "Top Speed Classic - Franken Classic 2026.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:50:00+03:00",
+          "stop": "2026-11-05T04:15:00+03:00",
+          "title": "Top Speed Classic - Wilder Kaiser Classic 2026.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T04:15:00+03:00",
+          "stop": "2026-11-05T06:00:00+03:00",
+          "title": "Rugby: National Rugby League - Melbourne Storm - Sydney Roosters.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T06:00:00+03:00",
+          "stop": "2026-11-05T06:30:00+03:00",
+          "title": "World Downhill Skateboarding Championship - Open Skate + Women Skate Highlights, El Salvador.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T06:30:00+03:00",
+          "stop": "2026-11-05T07:30:00+03:00",
+          "title": "IndyNXT 2026 - Indianapolis Motor Speedway Road Course, Indiana 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T07:30:00+03:00",
+          "stop": "2026-11-05T08:00:00+03:00",
+          "title": "FastZone.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:00:00+03:00",
+          "stop": "2026-11-05T08:25:00+03:00",
+          "title": "Going Pro.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:25:00+03:00",
+          "stop": "2026-11-05T09:15:00+03:00",
+          "title": "Deep Time History. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T09:15:00+03:00",
+          "stop": "2026-11-05T11:20:00+03:00",
+          "title": "Rugby: Top 14 - Union Bordeaux Begles - Stade Francais Paris.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T11:20:00+03:00",
+          "stop": "2026-11-05T12:10:00+03:00",
+          "title": "Isle of Man Tourist Trophy - John McGuinness: TT Winner.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:10:00+03:00",
+          "stop": "2026-11-05T12:35:00+03:00",
+          "title": "Fastzone - Motorsport-Highlights (Folge 17): Fastzone.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:35:00+03:00",
+          "stop": "2026-11-05T13:25:00+03:00",
+          "title": "Faultless - The riders, their horses, and the pursuit of excellence - Faultless - Episode 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T13:25:00+03:00",
+          "stop": "2026-11-05T15:30:00+03:00",
+          "title": "Rugby: Super League - 18. Spieltag: Wigan Warriors - Warrington Wolves.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T15:30:00+03:00",
+          "stop": "2026-11-05T17:25:00+03:00",
+          "title": "Rugby: National Rugby League - NRL Premiership, 15. Spieltag: Wests Tigers - Gold Coast Titans.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:25:00+03:00",
+          "stop": "2026-11-05T17:50:00+03:00",
+          "title": "Inside New York. S: 1 / Ep: 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:50:00+03:00",
+          "stop": "2026-11-05T18:15:00+03:00",
+          "title": "The History of Home präsentiert. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:15:00+03:00",
+          "stop": "2026-11-05T18:45:00+03:00",
+          "title": "Stephen Hawking: Reise durchs All - Hinter der Sonne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:45:00+03:00",
+          "stop": "2026-11-05T19:10:00+03:00",
+          "title": "Wissenschaft mit Wow-Effekt. S: 1 / Ep: 5.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T19:10:00+03:00",
+          "stop": "2026-11-05T20:05:00+03:00",
+          "title": "Deep Time History. S: 1 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:05:00+03:00",
+          "stop": "2026-11-05T21:05:00+03:00",
+          "title": "Geniale Zufälle. S: 1 / Ep: 6.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:05:00+03:00",
+          "stop": "2026-11-05T21:25:00+03:00",
+          "title": "Das Aha-Erlebnis. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:25:00+03:00",
+          "stop": "2026-11-05T21:50:00+03:00",
+          "title": "Bright Now. S: 3 / Ep: 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:50:00+03:00",
+          "stop": "2026-11-05T22:15:00+03:00",
+          "title": "Breakthrough - Aufbruch in unsere Zukunft. S: 1 / Ep: 56.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:15:00+03:00",
+          "stop": "2026-11-06T00:15:00+03:00",
+          "title": "Rugby: National Rugby League - New Zealand Warriors - Dolphins.",
           "description": "L",
           "category": null
         }

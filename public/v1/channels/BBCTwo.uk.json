@@ -8,59 +8,566 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 78,
   "days": [
     {
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "programs": [
         {
-          "start": "2026-11-02T00:00:00+03:00",
-          "stop": "2026-11-02T00:30:00+03:00",
-          "title": "New: Mortimer & Whitehouse: Gone Fishing. \"Breckland Lakes, Norfolk – Bream\".",
+          "start": "2026-11-03T00:00:00+03:00",
+          "stop": "2026-11-03T01:00:00+03:00",
+          "title": "Escaping Idi Amin.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T00:30:00+03:00",
-          "stop": "2026-11-02T01:00:00+03:00",
+          "start": "2026-11-03T01:00:00+03:00",
+          "stop": "2026-11-03T01:30:00+03:00",
+          "title": "Live at the Apollo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T01:30:00+03:00",
+          "stop": "2026-11-03T02:00:00+03:00",
+          "title": "Newsnight, followed by Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T02:00:00+03:00",
+          "stop": "2026-11-03T03:00:00+03:00",
+          "title": "Highland Cops.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T03:00:00+03:00",
+          "stop": "2026-11-03T04:20:00+03:00",
+          "title": "Film: Fallen Leaves.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T04:20:00+03:00",
+          "stop": "2026-11-03T05:30:00+03:00",
+          "title": "Countryfile Ramble for BBC Children in Need 2026.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T05:30:00+03:00",
+          "stop": "2026-11-03T05:40:00+03:00",
+          "title": "Lifeline.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T05:40:00+03:00",
+          "stop": "2026-11-03T06:45:00+03:00",
+          "title": "The Celebrity Traitors.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T06:45:00+03:00",
+          "stop": "2026-11-03T07:10:00+03:00",
+          "title": "The Celebrity Traitors: Uncloaked.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T07:10:00+03:00",
+          "stop": "2026-11-03T09:45:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T09:45:00+03:00",
+          "stop": "2026-11-03T10:30:00+03:00",
+          "title": "Bargain Hunt. \"Ardingly 17\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T10:30:00+03:00",
+          "stop": "2026-11-03T11:00:00+03:00",
+          "title": "House of Games. \"Week 6: Monday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T11:00:00+03:00",
+          "stop": "2026-11-03T11:30:00+03:00",
+          "title": "Clive Myrie's Caribbean Adventure.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T11:30:00+03:00",
+          "stop": "2026-11-03T12:00:00+03:00",
+          "title": "Only Connect. \"Double Features v Colonial Geese\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T12:00:00+03:00",
+          "stop": "2026-11-03T15:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T15:15:00+03:00",
+          "stop": "2026-11-03T16:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T16:00:00+03:00",
+          "stop": "2026-11-03T16:45:00+03:00",
+          "title": "Impossible.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T16:45:00+03:00",
+          "stop": "2026-11-03T17:30:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T17:30:00+03:00",
+          "stop": "2026-11-03T18:00:00+03:00",
+          "title": "Coast to Coast Food Festival.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:00:00+03:00",
+          "stop": "2026-11-03T18:30:00+03:00",
+          "title": "Great Coastal Railway Journeys. \"Leith to Culross\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T18:30:00+03:00",
+          "stop": "2026-11-03T19:30:00+03:00",
+          "title": "Secrets of the Aquarium. \"If It Goes Wrong, I'll Blame Him\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T19:30:00+03:00",
+          "stop": "2026-11-03T20:15:00+03:00",
+          "title": "Vintage Antiques Roadshow. \"Dartington Hall 2\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T20:15:00+03:00",
+          "stop": "2026-11-03T21:00:00+03:00",
+          "title": "Flog It! \"Rochester\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:00:00+03:00",
+          "stop": "2026-11-03T21:30:00+03:00",
+          "title": "New: House of Games. \"Week 6: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T21:30:00+03:00",
+          "stop": "2026-11-03T22:00:00+03:00",
+          "title": "Strictly It Takes Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T22:00:00+03:00",
+          "stop": "2026-11-03T23:00:00+03:00",
+          "title": "The Hairy Bikers Go West.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-03T23:00:00+03:00",
+          "stop": "2026-11-04T00:00:00+03:00",
+          "title": "Highland Cops.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-04",
+      "programs": [
+        {
+          "start": "2026-11-04T00:00:00+03:00",
+          "stop": "2026-11-04T00:45:00+03:00",
+          "title": "New: QI XL. \"XL XS XL\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T00:45:00+03:00",
+          "stop": "2026-11-04T01:30:00+03:00",
+          "title": "Pointless Celebrities.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T01:30:00+03:00",
+          "stop": "2026-11-04T02:00:00+03:00",
+          "title": "Newsnight, followed by Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T02:00:00+03:00",
+          "stop": "2026-11-04T02:30:00+03:00",
           "title": "A Course Called Ireland.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T01:00:00+03:00",
-          "stop": "2026-11-02T01:45:00+03:00",
-          "title": "Later.",
+          "start": "2026-11-04T02:30:00+03:00",
+          "stop": "2026-11-04T04:40:00+03:00",
+          "title": "Film: Queer.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T01:45:00+03:00",
-          "stop": "2026-11-02T03:55:00+03:00",
-          "title": "Walk the Line.",
+          "start": "2026-11-04T04:40:00+03:00",
+          "stop": "2026-11-04T06:00:00+03:00",
+          "title": "The Celebrity Traitors. \"Finale\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T03:55:00+03:00",
-          "stop": "2026-11-02T04:25:00+03:00",
-          "title": "Signed: Ellie & Natasia.",
+          "start": "2026-11-04T06:00:00+03:00",
+          "stop": "2026-11-04T06:40:00+03:00",
+          "title": "The Celebrity Traitors: Uncloaked. \"Finale\".",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-02T04:25:00+03:00",
-          "stop": "2026-11-02T05:25:00+03:00",
-          "title": "Question Time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T05:25:00+03:00",
-          "stop": "2026-11-02T06:25:00+03:00",
+          "start": "2026-11-04T06:40:00+03:00",
+          "stop": "2026-11-04T09:30:00+03:00",
           "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T09:30:00+03:00",
+          "stop": "2026-11-04T10:30:00+03:00",
+          "title": "Homes Under the Hammer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T10:30:00+03:00",
+          "stop": "2026-11-04T11:00:00+03:00",
+          "title": "House of Games. \"Week 6: Tuesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T11:00:00+03:00",
+          "stop": "2026-11-04T11:30:00+03:00",
+          "title": "The Reluctant Vampire.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T11:30:00+03:00",
+          "stop": "2026-11-04T12:00:00+03:00",
+          "title": "Only Connect. \"Accrual World v Knitwits\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T12:00:00+03:00",
+          "stop": "2026-11-04T14:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T14:15:00+03:00",
+          "stop": "2026-11-04T16:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T16:00:00+03:00",
+          "stop": "2026-11-04T16:45:00+03:00",
+          "title": "Impossible.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T16:45:00+03:00",
+          "stop": "2026-11-04T17:30:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T17:30:00+03:00",
+          "stop": "2026-11-04T18:00:00+03:00",
+          "title": "Coast to Coast Food Festival.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T18:00:00+03:00",
+          "stop": "2026-11-04T18:30:00+03:00",
+          "title": "Great Coastal Railway Journeys. \"Stirling to East Neuk\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T18:30:00+03:00",
+          "stop": "2026-11-04T19:30:00+03:00",
+          "title": "Secrets of the Aquarium. \"OMG These Animals Are So Smart\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T19:30:00+03:00",
+          "stop": "2026-11-04T20:15:00+03:00",
+          "title": "Vintage Antiques Roadshow. \"Lichfield\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T20:15:00+03:00",
+          "stop": "2026-11-04T21:00:00+03:00",
+          "title": "Flog It!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T21:00:00+03:00",
+          "stop": "2026-11-04T21:30:00+03:00",
+          "title": "New: House of Games. \"Week 6: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T21:30:00+03:00",
+          "stop": "2026-11-04T22:00:00+03:00",
+          "title": "Strictly It Takes Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T22:00:00+03:00",
+          "stop": "2026-11-04T22:30:00+03:00",
+          "title": "Mortimer & Whitehouse: Gone Fishing. \"Breckland Lakes, Norfolk – Bream\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T22:30:00+03:00",
+          "stop": "2026-11-04T22:55:00+03:00",
+          "title": "The Future with Hannah Fry.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T22:55:00+03:00",
+          "stop": "2026-11-04T23:00:00+03:00",
+          "title": "The Secret Genius of Modern Life: The Best Bits. \"Vacuum Cleaner\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-04T23:00:00+03:00",
+          "stop": "2026-11-05T00:00:00+03:00",
+          "title": "The Repair Shop.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T00:00:00+03:00",
+          "stop": "2026-11-05T01:00:00+03:00",
+          "title": "Murder in Belfast – Sisters Seeking Justice. \"Murder in Belfast – Sisters Seeking Justice, Part 2\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T01:00:00+03:00",
+          "stop": "2026-11-05T01:30:00+03:00",
+          "title": "Ellie & Natasia.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T01:30:00+03:00",
+          "stop": "2026-11-05T02:00:00+03:00",
+          "title": "Newsnight, followed by Weather.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T02:00:00+03:00",
+          "stop": "2026-11-05T02:30:00+03:00",
+          "title": "Unspun World with John Simpson.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T02:30:00+03:00",
+          "stop": "2026-11-05T03:30:00+03:00",
+          "title": "Escaping Idi Amin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:30:00+03:00",
+          "stop": "2026-11-05T04:30:00+03:00",
+          "title": "The Book That Changed My Life.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T04:30:00+03:00",
+          "stop": "2026-11-05T05:10:00+03:00",
+          "title": "Eva Longoria: Searching for France.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T05:10:00+03:00",
+          "stop": "2026-11-05T09:45:00+03:00",
+          "title": "This is BBC Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T09:45:00+03:00",
+          "stop": "2026-11-05T10:30:00+03:00",
+          "title": "The Bidding Room.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:30:00+03:00",
+          "stop": "2026-11-05T11:00:00+03:00",
+          "title": "House of Games. \"Week 6: Wednesday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T11:00:00+03:00",
+          "stop": "2026-11-05T12:00:00+03:00",
+          "title": "Gardeners' World.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:00:00+03:00",
+          "stop": "2026-11-05T15:15:00+03:00",
+          "title": "BBC News.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T15:15:00+03:00",
+          "stop": "2026-11-05T16:00:00+03:00",
+          "title": "▶️ Politics Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:00:00+03:00",
+          "stop": "2026-11-05T16:45:00+03:00",
+          "title": "Impossible.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:45:00+03:00",
+          "stop": "2026-11-05T17:30:00+03:00",
+          "title": "The Answer Run.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:30:00+03:00",
+          "stop": "2026-11-05T18:00:00+03:00",
+          "title": "Coast to Coast Food Festival.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:00:00+03:00",
+          "stop": "2026-11-05T18:30:00+03:00",
+          "title": "Great Coastal Railway Journeys. \"St Andrews to Stonehaven\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:30:00+03:00",
+          "stop": "2026-11-05T19:30:00+03:00",
+          "title": "Secrets of the Aquarium. \"Florence the Shark Is Looking Round\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T19:30:00+03:00",
+          "stop": "2026-11-05T20:15:00+03:00",
+          "title": "Vintage Antiques Roadshow. \"Lampeter\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:15:00+03:00",
+          "stop": "2026-11-05T21:00:00+03:00",
+          "title": "Flog It!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:00:00+03:00",
+          "stop": "2026-11-05T21:30:00+03:00",
+          "title": "New: House of Games. \"Week 6: Thursday\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:30:00+03:00",
+          "stop": "2026-11-05T22:00:00+03:00",
+          "title": "Strictly It Takes Two.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:00:00+03:00",
+          "stop": "2026-11-05T23:00:00+03:00",
+          "title": "Escape to the Country.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T23:00:00+03:00",
+          "stop": "2026-11-06T00:00:00+03:00",
+          "title": "Monty Don's British Gardens.",
           "description": "L",
           "category": null
         }

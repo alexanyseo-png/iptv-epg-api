@@ -8,78 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
   "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T01:00:00+03:00",
-          "stop": "2026-11-02T03:50:00+03:00",
-          "title": "UFC. Renato Moicano-Tom Nolan (UFC), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T03:50:00+03:00",
-          "stop": "2026-11-02T06:00:00+03:00",
-          "title": "Tennis: ATP 500 Vienna. Singles. Final (Tennis: ATP 500 – Vienna Open), Austrija, 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T05:55:00+03:00",
-          "stop": "2026-11-02T08:00:00+03:00",
-          "title": "BASKET: NBA. Celtics – Magic (NBA Basketball), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T08:00:00+03:00",
-          "stop": "2026-11-02T10:15:00+03:00",
-          "title": "Ice Hockey: Switzerland National League. Kloten – ZSC Lions (National League), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T10:15:00+03:00",
-          "stop": "2026-11-02T11:35:00+03:00",
-          "title": "MotoGP. Malaysia GP. Moto2 Race (Moto2: Grand Prix of Malaysia), Malaizija, 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T11:35:00+03:00",
-          "stop": "2026-11-02T13:00:00+03:00",
-          "title": "MotoGP. Malaysia GP. MotoGP Race (MotoGP: Grand Prix Malaysia), Malaizija, 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T13:00:00+03:00",
-          "stop": "2026-11-02T17:00:00+03:00",
-          "title": "Tennis: ATP Masters Paris 2026. Singles Round 1 (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T17:00:00+03:00",
-          "stop": "2026-11-02T21:00:00+03:00",
-          "title": "Tennis: ATP Masters Paris 2026. Singles Round 1 (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T21:00:00+03:00",
-          "stop": "2026-11-03T01:00:00+03:00",
-          "title": "Tennis: ATP Masters Paris 2026. Singles Round 1 (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -239,6 +171,74 @@
           "start": "2026-11-04T21:00:00+03:00",
           "stop": "2026-11-05T01:00:00+03:00",
           "title": "Tennis: ATP Masters Paris 2026. Singles Round 2 (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T01:00:00+03:00",
+          "stop": "2026-11-05T03:00:00+03:00",
+          "title": "Basketball: Eurocup. Lietkabelis – Manresa (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:00:00+03:00",
+          "stop": "2026-11-05T06:00:00+03:00",
+          "title": "Basketball: Eurocup. Venice – Siauliai (Basketball: EuroCup), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T06:00:00+03:00",
+          "stop": "2026-11-05T08:00:00+03:00",
+          "title": "Basketball: BCL. Juventus Utena – Pardubice (Basketball Champions League), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:00:00+03:00",
+          "stop": "2026-11-05T08:30:00+03:00",
+          "title": "Basketball: NBA on Fire (NBA on Fire), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:30:00+03:00",
+          "stop": "2026-11-05T10:40:00+03:00",
+          "title": "BASKET: NBA. 76ers – Pistons (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:40:00+03:00",
+          "stop": "2026-11-05T13:00:00+03:00",
+          "title": "BASKET: NBA. Mavericks – Spurs (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T13:00:00+03:00",
+          "stop": "2026-11-05T17:00:00+03:00",
+          "title": "Tennis: ATP Masters Paris 2026. Singles 1/8 final (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:00:00+03:00",
+          "stop": "2026-11-05T21:00:00+03:00",
+          "title": "Tennis: ATP Masters Paris 2026. Singles 1/8 final (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:00:00+03:00",
+          "stop": "2026-11-06T01:00:00+03:00",
+          "title": "Tennis: ATP Masters Paris 2026. Singles 1/8 final (Tennis: ATP Masters 1000 – Rolex Paris Masters), 2026",
           "description": "L",
           "category": null
         }

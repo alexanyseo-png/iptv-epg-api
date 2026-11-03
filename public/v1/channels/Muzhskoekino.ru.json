@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T01:05:00+03:00",
-          "stop": "2026-11-02T04:10:00+03:00",
-          "title": "Не говори никому.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T04:10:00+03:00",
-          "stop": "2026-11-02T06:20:00+03:00",
-          "title": "Гонка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T06:20:00+03:00",
-          "stop": "2026-11-02T08:00:00+03:00",
-          "title": "Шальная карта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T08:00:00+03:00",
-          "stop": "2026-11-02T10:05:00+03:00",
-          "title": "Битва при Лонгтане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T10:05:00+03:00",
-          "stop": "2026-11-02T12:30:00+03:00",
-          "title": "Боец. Лучший из лучших.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T12:30:00+03:00",
-          "stop": "2026-11-02T14:05:00+03:00",
-          "title": "На прицеле.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T14:05:00+03:00",
-          "stop": "2026-11-02T15:45:00+03:00",
-          "title": "Кровавый рассвет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T15:45:00+03:00",
-          "stop": "2026-11-02T18:00:00+03:00",
-          "title": "В конце туннеля.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T18:00:00+03:00",
-          "stop": "2026-11-02T20:00:00+03:00",
-          "title": "Профессионал.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T20:00:00+03:00",
-          "stop": "2026-11-02T21:30:00+03:00",
-          "title": "Укрытие номер один.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T21:30:00+03:00",
-          "stop": "2026-11-02T23:35:00+03:00",
-          "title": "Тюряга.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T23:35:00+03:00",
-          "stop": "2026-11-03T01:30:00+03:00",
-          "title": "Универсальный солдат.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -281,6 +192,88 @@
           "start": "2026-11-04T23:25:00+03:00",
           "stop": "2026-11-05T01:20:00+03:00",
           "title": "Пекарь.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T01:20:00+03:00",
+          "stop": "2026-11-05T05:10:00+03:00",
+          "title": "Горизонты: Часть 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T05:10:00+03:00",
+          "stop": "2026-11-05T06:55:00+03:00",
+          "title": "Реальные парни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T06:55:00+03:00",
+          "stop": "2026-11-05T08:35:00+03:00",
+          "title": "Ценный груз.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:35:00+03:00",
+          "stop": "2026-11-05T10:15:00+03:00",
+          "title": "Укрытие номер один.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:15:00+03:00",
+          "stop": "2026-11-05T12:25:00+03:00",
+          "title": "Побег невозможен.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:25:00+03:00",
+          "stop": "2026-11-05T14:10:00+03:00",
+          "title": "В Аду.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T14:10:00+03:00",
+          "stop": "2026-11-05T16:05:00+03:00",
+          "title": "1941. Крылья над Берлином.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:05:00+03:00",
+          "stop": "2026-11-05T17:55:00+03:00",
+          "title": "Час тишины.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:55:00+03:00",
+          "stop": "2026-11-05T20:00:00+03:00",
+          "title": "Бумер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:00:00+03:00",
+          "stop": "2026-11-05T21:55:00+03:00",
+          "title": "Лучшие в аду.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T21:55:00+03:00",
+          "stop": "2026-11-06T00:10:00+03:00",
+          "title": "В конце туннеля.",
           "description": "L",
           "category": null
         }

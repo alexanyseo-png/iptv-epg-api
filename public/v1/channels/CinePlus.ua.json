@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 40,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T00:10:00+03:00",
-          "stop": "2026-11-02T01:45:00+03:00",
-          "title": "х/ф Крокодил Данді в Голлівуді",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T01:45:00+03:00",
-          "stop": "2026-11-02T03:45:00+03:00",
-          "title": "д/ф 2000 метрів до Андріївки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T03:45:00+03:00",
-          "stop": "2026-11-02T04:45:00+03:00",
-          "title": "Нічне промо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T07:55:00+03:00",
-          "stop": "2026-11-02T10:00:00+03:00",
-          "title": "х/ф Мій карпатський дідусь",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T10:00:00+03:00",
-          "stop": "2026-11-02T10:25:00+03:00",
-          "title": "Cine+ Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T10:25:00+03:00",
-          "stop": "2026-11-02T12:00:00+03:00",
-          "title": "х/ф Потяг у 31 грудня",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T12:00:00+03:00",
-          "stop": "2026-11-02T13:55:00+03:00",
-          "title": "х/ф Все, чим ти є",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T13:55:00+03:00",
-          "stop": "2026-11-02T15:35:00+03:00",
-          "title": "х/ф За мрією",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T15:35:00+03:00",
-          "stop": "2026-11-02T17:15:00+03:00",
-          "title": "х/ф Сімейне пограбування",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T17:15:00+03:00",
-          "stop": "2026-11-02T19:05:00+03:00",
-          "title": "х/ф Гаспар їде на весілля",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T19:05:00+03:00",
-          "stop": "2026-11-02T20:35:00+03:00",
-          "title": "х/ф Кохання без контракту",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T20:35:00+03:00",
-          "stop": "2026-11-02T22:15:00+03:00",
-          "title": "х/ф Тут і там",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T22:15:00+03:00",
-          "stop": "2026-11-03T00:15:00+03:00",
-          "title": "х/ф Кохатися втрьох",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -295,6 +199,109 @@
           "start": "2026-11-04T22:30:00+03:00",
           "stop": "2026-11-05T00:05:00+03:00",
           "title": "х/ф Наречений напрокат",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T00:05:00+03:00",
+          "stop": "2026-11-05T01:45:00+03:00",
+          "title": "х/ф Сімейне пограбування",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T01:45:00+03:00",
+          "stop": "2026-11-05T03:30:00+03:00",
+          "title": "х/ф Найкращі вихідні",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T03:30:00+03:00",
+          "stop": "2026-11-05T07:55:00+03:00",
+          "title": "Нічне промо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T07:55:00+03:00",
+          "stop": "2026-11-05T08:10:00+03:00",
+          "title": "Cine+ Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:10:00+03:00",
+          "stop": "2026-11-05T10:00:00+03:00",
+          "title": "х/ф Мої думки тихі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:00:00+03:00",
+          "stop": "2026-11-05T10:40:00+03:00",
+          "title": "Cine+ Stories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:40:00+03:00",
+          "stop": "2026-11-05T12:30:00+03:00",
+          "title": "х/ф Віддана",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:30:00+03:00",
+          "stop": "2026-11-05T14:40:00+03:00",
+          "title": "х/ф Три мушкетери: Д'Артаньян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T14:40:00+03:00",
+          "stop": "2026-11-05T16:40:00+03:00",
+          "title": "х/ф Чорна течія",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:40:00+03:00",
+          "stop": "2026-11-05T18:20:00+03:00",
+          "title": "х/ф За мрією",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:20:00+03:00",
+          "stop": "2026-11-05T20:20:00+03:00",
+          "title": "х/ф Кохатися втрьох",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:20:00+03:00",
+          "stop": "2026-11-05T22:05:00+03:00",
+          "title": "х/ф Дім за склом",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:05:00+03:00",
+          "stop": "2026-11-05T23:45:00+03:00",
+          "title": "х/ф Будь моєю нареченою",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T23:45:00+03:00",
+          "stop": "2026-11-06T01:40:00+03:00",
+          "title": "х/ф У пошуках короля",
           "description": "L",
           "category": null
         }

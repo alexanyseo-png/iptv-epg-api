@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-02T16:06:46.264378+00:00",
+  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 51,
   "days": [
-    {
-      "date": "2026-11-02",
-      "programs": [
-        {
-          "start": "2026-11-02T06:00:00+03:00",
-          "stop": "2026-11-02T08:00:00+03:00",
-          "title": "Оян.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T08:00:00+03:00",
-          "stop": "2026-11-02T10:00:00+03:00",
-          "title": "Covershow.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T10:00:00+03:00",
-          "stop": "2026-11-02T11:00:00+03:00",
-          "title": "Тұсаукесер!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T11:00:00+03:00",
-          "stop": "2026-11-02T12:00:00+03:00",
-          "title": "ОйнаIQ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T12:00:00+03:00",
-          "stop": "2026-11-02T12:30:00+03:00",
-          "title": "т/с Цифровой код.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T12:30:00+03:00",
-          "stop": "2026-11-02T14:00:00+03:00",
-          "title": "т/с Рауза.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T14:00:00+03:00",
-          "stop": "2026-11-02T16:00:00+03:00",
-          "title": "х/ф Брат или брак.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T16:00:00+03:00",
-          "stop": "2026-11-02T16:30:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T16:30:00+03:00",
-          "stop": "2026-11-02T17:00:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T17:00:00+03:00",
-          "stop": "2026-11-02T18:00:00+03:00",
-          "title": "Тұсаукесер!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T18:00:00+03:00",
-          "stop": "2026-11-02T20:00:00+03:00",
-          "title": "т/с Үзілген жапырақтар.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T20:00:00+03:00",
-          "stop": "2026-11-02T22:00:00+03:00",
-          "title": "т/с Келінжан.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T22:00:00+03:00",
-          "stop": "2026-11-02T22:45:00+03:00",
-          "title": "т/с Ловушка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T22:45:00+03:00",
-          "stop": "2026-11-02T23:30:00+03:00",
-          "title": "т/с Самый лучший муж.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-02T23:30:00+03:00",
-          "stop": "2026-11-03T03:00:00+03:00",
-          "title": "Гимн.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-03",
       "programs": [
@@ -364,6 +254,130 @@
         {
           "start": "2026-11-04T23:30:00+03:00",
           "stop": "2026-11-05T03:00:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "programs": [
+        {
+          "start": "2026-11-05T03:00:00+03:00",
+          "stop": "2026-11-05T04:00:00+03:00",
+          "title": "Гимн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T04:00:00+03:00",
+          "stop": "2026-11-05T06:00:00+03:00",
+          "title": "т/с Үзілген жапырақтар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T06:00:00+03:00",
+          "stop": "2026-11-05T08:00:00+03:00",
+          "title": "Оян.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T08:00:00+03:00",
+          "stop": "2026-11-05T10:00:00+03:00",
+          "title": "Covershow.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T10:00:00+03:00",
+          "stop": "2026-11-05T11:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T11:00:00+03:00",
+          "stop": "2026-11-05T12:00:00+03:00",
+          "title": "ОйнаIQ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:00:00+03:00",
+          "stop": "2026-11-05T12:30:00+03:00",
+          "title": "Өзекті.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T12:30:00+03:00",
+          "stop": "2026-11-05T14:15:00+03:00",
+          "title": "т/с Рауза.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T14:15:00+03:00",
+          "stop": "2026-11-05T16:00:00+03:00",
+          "title": "х/ф Періште.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:00:00+03:00",
+          "stop": "2026-11-05T16:30:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T16:30:00+03:00",
+          "stop": "2026-11-05T17:00:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T17:00:00+03:00",
+          "stop": "2026-11-05T18:00:00+03:00",
+          "title": "т/с Келінжан.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T18:00:00+03:00",
+          "stop": "2026-11-05T20:00:00+03:00",
+          "title": "т/с Үзілген жапырақтар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T20:00:00+03:00",
+          "stop": "2026-11-05T22:00:00+03:00",
+          "title": "х/ф Сакура. Иц май лайф.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:00:00+03:00",
+          "stop": "2026-11-05T22:45:00+03:00",
+          "title": "т/с Ловушка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T22:45:00+03:00",
+          "stop": "2026-11-05T23:30:00+03:00",
+          "title": "т/с Самый лучший муж.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-05T23:30:00+03:00",
+          "stop": "2026-11-06T03:00:00+03:00",
           "title": "Гимн.",
           "description": "L",
           "category": null
