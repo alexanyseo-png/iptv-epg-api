@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
+  "generatedAt": "2026-11-04T19:48:42.563369+00:00",
   "available": true,
-  "programmeCount": 43,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-11-03",
-      "programs": [
-        {
-          "start": "2026-11-03T01:00:00+03:00",
-          "stop": "2026-11-03T02:45:00+03:00",
-          "title": "Serie A: Juventus-Napoli Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T02:45:00+03:00",
-          "stop": "2026-11-03T04:30:00+03:00",
-          "title": "Serie A: Sassuolo-Fiorentina Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T04:30:00+03:00",
-          "stop": "2026-11-03T06:15:00+03:00",
-          "title": "Liga Portugal: Benfica-Alverca Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T06:15:00+03:00",
-          "stop": "2026-11-03T08:00:00+03:00",
-          "title": "Serie A: Atalanta-Parma Etapa 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T08:00:00+03:00",
-          "stop": "2026-11-03T09:00:00+03:00",
-          "title": "Bundesliga: Rezumat Etapa 8",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T09:00:00+03:00",
-          "stop": "2026-11-03T09:30:00+03:00",
-          "title": "Champions League: Magazin Episodul 9",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T09:30:00+03:00",
-          "stop": "2026-11-03T11:15:00+03:00",
-          "title": "Superliga: Voluntari-Farul Constanta Etapa 14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T11:15:00+03:00",
-          "stop": "2026-11-03T13:00:00+03:00",
-          "title": "Superliga: Universitatea Cluj-FCSB Etapa 14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T13:00:00+03:00",
-          "stop": "2026-11-03T15:00:00+03:00",
-          "title": "⋗ Tenis Ziua 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T15:00:00+03:00",
-          "stop": "2026-11-03T17:00:00+03:00",
-          "title": "⋗ Tenis Ziua 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T17:00:00+03:00",
-          "stop": "2026-11-03T19:00:00+03:00",
-          "title": "⋗ Tenis Ziua 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T19:00:00+03:00",
-          "stop": "2026-11-03T21:00:00+03:00",
-          "title": "⋗ Tenis Ziua 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T21:00:00+03:00",
-          "stop": "2026-11-03T22:55:00+03:00",
-          "title": "⋗ Tenis Ziua 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T22:55:00+03:00",
-          "stop": "2026-11-04T01:00:00+03:00",
-          "title": "⋗ Champions League: Feyenoord-Inter Etapa 4",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-04",
       "programs": [
@@ -323,6 +220,39 @@
           "start": "2026-11-05T22:55:00+03:00",
           "stop": "2026-11-06T01:00:00+03:00",
           "title": "⋗ Europa League: Celtic-Besiktas Etapa 4",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "programs": [
+        {
+          "start": "2026-11-06T01:00:00+03:00",
+          "stop": "2026-11-06T02:45:00+03:00",
+          "title": "Europa League: Milan-Ferencvaros Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T02:45:00+03:00",
+          "stop": "2026-11-06T04:30:00+03:00",
+          "title": "Conference League: Trabzonspor-Freiburg Etapa 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T04:30:00+03:00",
+          "stop": "2026-11-06T06:15:00+03:00",
+          "title": "Europa League: Celta Vigo-Union Saint-Gilloise Etapa 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T06:15:00+03:00",
+          "stop": "2026-11-06T07:15:00+03:00",
+          "title": "Europa League: AZ Alkmaar-Juventus Etapa 4",
           "description": "L",
           "category": null
         }

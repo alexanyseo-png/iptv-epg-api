@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-03T14:21:36.251013+00:00",
+  "generatedAt": "2026-11-04T19:48:42.563369+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-11-03",
-      "programs": [
-        {
-          "start": "2026-11-03T01:20:00+03:00",
-          "stop": "2026-11-03T05:00:00+03:00",
-          "title": "Соловьев LIVE",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T05:00:00+03:00",
-          "stop": "2026-11-03T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T07:00:00+03:00",
-          "stop": "2026-11-03T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T11:00:00+03:00",
-          "stop": "2026-11-03T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T14:00:00+03:00",
-          "stop": "2026-11-03T16:00:00+03:00",
-          "title": "Подробнее",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T16:00:00+03:00",
-          "stop": "2026-11-03T19:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T19:00:00+03:00",
-          "stop": "2026-11-03T21:00:00+03:00",
-          "title": "Михеев Говорит",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T21:00:00+03:00",
-          "stop": "2026-11-03T23:00:00+03:00",
-          "title": "Это – Гудошников",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T23:00:00+03:00",
-          "stop": "2026-11-03T23:30:00+03:00",
-          "title": "Опасный бизнес",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-03T23:30:00+03:00",
-          "stop": "2026-11-04T01:00:00+03:00",
-          "title": "Игры для взрослых с Кристиной Бусаровой",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-04",
       "programs": [
@@ -232,6 +157,88 @@
           "start": "2026-11-05T23:00:00+03:00",
           "stop": "2026-11-06T00:00:00+03:00",
           "title": "Бог Есть!",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-06",
+      "programs": [
+        {
+          "start": "2026-11-06T00:00:00+03:00",
+          "stop": "2026-11-06T01:00:00+03:00",
+          "title": "Вечер Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T01:00:00+03:00",
+          "stop": "2026-11-06T05:00:00+03:00",
+          "title": "Соловьев LIVE",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T05:00:00+03:00",
+          "stop": "2026-11-06T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T07:00:00+03:00",
+          "stop": "2026-11-06T11:00:00+03:00",
+          "title": "Формула смысла",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T11:00:00+03:00",
+          "stop": "2026-11-06T14:00:00+03:00",
+          "title": "Гаспарян",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T14:00:00+03:00",
+          "stop": "2026-11-06T16:00:00+03:00",
+          "title": "АК-81 81 ┊ 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T16:00:00+03:00",
+          "stop": "2026-11-06T19:00:00+03:00",
+          "title": "Лабиринт Карнаухова",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T19:00:00+03:00",
+          "stop": "2026-11-06T21:00:00+03:00",
+          "title": "Мардан",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T21:00:00+03:00",
+          "stop": "2026-11-06T22:00:00+03:00",
+          "title": "Newsroom",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T22:00:00+03:00",
+          "stop": "2026-11-06T23:00:00+03:00",
+          "title": "Диванный штаб",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-06T23:00:00+03:00",
+          "stop": "2026-11-07T00:00:00+03:00",
+          "title": "Курс",
           "description": "L",
           "category": null
         }
