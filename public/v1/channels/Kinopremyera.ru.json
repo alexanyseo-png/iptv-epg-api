@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-04T19:48:42.563369+00:00",
+  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-11-04",
-      "programs": [
-        {
-          "start": "2026-11-04T01:00:00+03:00",
-          "stop": "2026-11-04T03:15:00+03:00",
-          "title": "Долгая прогулка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T03:15:00+03:00",
-          "stop": "2026-11-04T05:25:00+03:00",
-          "title": "Легенда.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T05:25:00+03:00",
-          "stop": "2026-11-04T07:00:00+03:00",
-          "title": "Вторая жертва.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T07:00:00+03:00",
-          "stop": "2026-11-04T08:45:00+03:00",
-          "title": "Одержимый местью.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T08:45:00+03:00",
-          "stop": "2026-11-04T10:10:00+03:00",
-          "title": "Любовный переполох.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T10:10:00+03:00",
-          "stop": "2026-11-04T11:45:00+03:00",
-          "title": "Мой друг Барри.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T11:45:00+03:00",
-          "stop": "2026-11-04T13:15:00+03:00",
-          "title": "Папа может.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T13:15:00+03:00",
-          "stop": "2026-11-04T14:45:00+03:00",
-          "title": "Ужастики. Ожившие рисунки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T14:45:00+03:00",
-          "stop": "2026-11-04T16:15:00+03:00",
-          "title": "Петрушка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T16:15:00+03:00",
-          "stop": "2026-11-04T18:55:00+03:00",
-          "title": "Литвяк.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T18:55:00+03:00",
-          "stop": "2026-11-04T20:30:00+03:00",
-          "title": "Мой любимый двортерьер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T20:30:00+03:00",
-          "stop": "2026-11-04T22:35:00+03:00",
-          "title": "Майкл.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T22:35:00+03:00",
-          "stop": "2026-11-05T00:20:00+03:00",
-          "title": "Ужин.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-05",
       "programs": [
@@ -309,6 +213,116 @@
           "start": "2026-11-06T22:10:00+03:00",
           "stop": "2026-11-07T00:00:00+03:00",
           "title": "Гуантанамера.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "programs": [
+        {
+          "start": "2026-11-07T00:00:00+03:00",
+          "stop": "2026-11-07T02:05:00+03:00",
+          "title": "Кровь на границе.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T02:05:00+03:00",
+          "stop": "2026-11-07T03:45:00+03:00",
+          "title": "Трофей.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T03:45:00+03:00",
+          "stop": "2026-11-07T05:35:00+03:00",
+          "title": "Одержимый местью.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T05:35:00+03:00",
+          "stop": "2026-11-07T07:10:00+03:00",
+          "title": "Мой друг Барри.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T07:10:00+03:00",
+          "stop": "2026-11-07T08:55:00+03:00",
+          "title": "Ужин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T08:55:00+03:00",
+          "stop": "2026-11-07T11:00:00+03:00",
+          "title": "Легенда.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T11:00:00+03:00",
+          "stop": "2026-11-07T12:35:00+03:00",
+          "title": "Вторая жертва.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T12:35:00+03:00",
+          "stop": "2026-11-07T14:30:00+03:00",
+          "title": "Гуантанамера.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T14:30:00+03:00",
+          "stop": "2026-11-07T16:00:00+03:00",
+          "title": "Комментируй это.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T16:00:00+03:00",
+          "stop": "2026-11-07T17:30:00+03:00",
+          "title": "Петрушка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T17:30:00+03:00",
+          "stop": "2026-11-07T19:00:00+03:00",
+          "title": "Степные боги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T19:00:00+03:00",
+          "stop": "2026-11-07T20:25:00+03:00",
+          "title": "Папа может.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T20:25:00+03:00",
+          "stop": "2026-11-07T21:55:00+03:00",
+          "title": "Мыслить как убийца.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T21:55:00+03:00",
+          "stop": "2026-11-07T23:45:00+03:00",
+          "title": "Одержимый местью.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T23:45:00+03:00",
+          "stop": "2026-11-08T01:50:00+03:00",
+          "title": "Легенда.",
           "description": "L",
           "category": null
         }

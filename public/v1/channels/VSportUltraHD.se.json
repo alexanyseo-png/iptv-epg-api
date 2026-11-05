@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-04T19:48:42.563369+00:00",
+  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 8,
   "days": [
-    {
-      "date": "2026-11-04",
-      "programs": [
-        {
-          "start": "2026-11-04T12:00:00+03:00",
-          "stop": "2026-11-04T20:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T20:00:00+03:00",
-          "stop": "2026-11-04T22:55:00+03:00",
-          "title": "Formula 1: Meksikon GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T22:55:00+03:00",
-          "stop": "2026-11-05T12:00:00+03:00",
-          "title": "Ei lähetystä",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-05",
       "programs": [
@@ -85,6 +59,25 @@
           "start": "2026-11-06T23:00:00+03:00",
           "stop": "2026-11-07T12:00:00+03:00",
           "title": "Valioliiga: Liverpool – Arsenal",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "programs": [
+        {
+          "start": "2026-11-07T12:00:00+03:00",
+          "stop": "2026-11-07T23:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T23:30:00+03:00",
+          "stop": "2026-11-08T12:00:00+03:00",
+          "title": "Formula 1: Meksikon GP – Osakilpailu",
           "description": "L",
           "category": null
         }

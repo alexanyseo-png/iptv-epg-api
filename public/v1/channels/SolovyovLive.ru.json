@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-04T19:48:42.563369+00:00",
+  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
   "available": true,
   "programmeCount": 31,
   "days": [
-    {
-      "date": "2026-11-04",
-      "programs": [
-        {
-          "start": "2026-11-04T01:00:00+03:00",
-          "stop": "2026-11-04T05:00:00+03:00",
-          "title": "Соловьев LIVE",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T05:00:00+03:00",
-          "stop": "2026-11-04T07:00:00+03:00",
-          "title": "На заре",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T07:00:00+03:00",
-          "stop": "2026-11-04T11:00:00+03:00",
-          "title": "Полный контакт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T11:00:00+03:00",
-          "stop": "2026-11-04T14:00:00+03:00",
-          "title": "Гаспарян",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T14:00:00+03:00",
-          "stop": "2026-11-04T15:00:00+03:00",
-          "title": "Тема с Алексеем Бобровским",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T15:00:00+03:00",
-          "stop": "2026-11-04T16:00:00+03:00",
-          "title": "Адвокат с Павлом Астаховым",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T16:00:00+03:00",
-          "stop": "2026-11-04T18:00:00+03:00",
-          "title": "Лабиринт Карнаухова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T18:00:00+03:00",
-          "stop": "2026-11-04T21:00:00+03:00",
-          "title": "Поле Куликова",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T21:00:00+03:00",
-          "stop": "2026-11-04T23:00:00+03:00",
-          "title": "Это – Гудошников",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-04T23:00:00+03:00",
-          "stop": "2026-11-05T00:00:00+03:00",
-          "title": "Дежурные с Гией Саралидзе и Ксенией Мишоновой",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-05",
       "programs": [
@@ -239,6 +164,81 @@
           "start": "2026-11-06T23:00:00+03:00",
           "stop": "2026-11-07T00:00:00+03:00",
           "title": "Курс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "programs": [
+        {
+          "start": "2026-11-07T00:00:00+03:00",
+          "stop": "2026-11-07T05:00:00+03:00",
+          "title": "Ночь Live",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T05:00:00+03:00",
+          "stop": "2026-11-07T07:00:00+03:00",
+          "title": "На заре",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T07:00:00+03:00",
+          "stop": "2026-11-07T11:00:00+03:00",
+          "title": "Утро Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T11:00:00+03:00",
+          "stop": "2026-11-07T11:30:00+03:00",
+          "title": "Большая рыба",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T11:30:00+03:00",
+          "stop": "2026-11-07T13:00:00+03:00",
+          "title": "День Z",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T13:00:00+03:00",
+          "stop": "2026-11-07T17:00:00+03:00",
+          "title": "Подробнее",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T17:00:00+03:00",
+          "stop": "2026-11-07T18:00:00+03:00",
+          "title": "Опасный бизнес",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T18:00:00+03:00",
+          "stop": "2026-11-07T20:00:00+03:00",
+          "title": "Между народами с Аббасом Джума",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T20:00:00+03:00",
+          "stop": "2026-11-07T23:00:00+03:00",
+          "title": "Мардан",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-07T23:00:00+03:00",
+          "stop": "2026-11-08T00:00:00+03:00",
+          "title": "ГАРные новости",
           "description": "L",
           "category": null
         }
