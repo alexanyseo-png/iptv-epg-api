@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
+  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 32,
   "days": [
-    {
-      "date": "2026-11-05",
-      "programs": [
-        {
-          "start": "2026-11-05T00:55:00+03:00",
-          "stop": "2026-11-05T02:20:00+03:00",
-          "title": "х/ф Клевый УLove",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T02:20:00+03:00",
-          "stop": "2026-11-05T03:45:00+03:00",
-          "title": "х/ф Семь ужинов",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T03:45:00+03:00",
-          "stop": "2026-11-05T04:55:00+03:00",
-          "title": "х/ф Снегурочка против всех",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T04:55:00+03:00",
-          "stop": "2026-11-05T06:10:00+03:00",
-          "title": "х/ф Легок на помине",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T06:10:00+03:00",
-          "stop": "2026-11-05T07:30:00+03:00",
-          "title": "х/ф Блокбастер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T07:30:00+03:00",
-          "stop": "2026-11-05T08:40:00+03:00",
-          "title": "х/ф Килиманджара",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T08:40:00+03:00",
-          "stop": "2026-11-05T10:30:00+03:00",
-          "title": "х/ф Елки-иголки",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T10:30:00+03:00",
-          "stop": "2026-11-05T12:00:00+03:00",
-          "title": "х/ф Новогодний шеф",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T12:00:00+03:00",
-          "stop": "2026-11-05T23:20:00+03:00",
-          "title": "т/с Мажор",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T23:20:00+03:00",
-          "stop": "2026-11-06T01:00:00+03:00",
-          "title": "х/ф Любовники",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-06",
       "programs": [
@@ -260,6 +185,67 @@
           "start": "2026-11-07T13:30:00+03:00",
           "stop": "2026-11-08T00:10:00+03:00",
           "title": "т/с СССР",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "programs": [
+        {
+          "start": "2026-11-08T00:10:00+03:00",
+          "stop": "2026-11-08T01:50:00+03:00",
+          "title": "х/ф Человек ниоткуда",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T01:50:00+03:00",
+          "stop": "2026-11-08T03:35:00+03:00",
+          "title": "х/ф Гагарин. Первый в космосе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T03:35:00+03:00",
+          "stop": "2026-11-08T05:50:00+03:00",
+          "title": "х/ф Чудо",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T05:50:00+03:00",
+          "stop": "2026-11-08T07:25:00+03:00",
+          "title": "х/ф Волшебники",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T07:25:00+03:00",
+          "stop": "2026-11-08T09:20:00+03:00",
+          "title": "х/ф Черная молния",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T09:20:00+03:00",
+          "stop": "2026-11-08T11:00:00+03:00",
+          "title": "х/ф Ночные стражи",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T11:00:00+03:00",
+          "stop": "2026-11-08T13:00:00+03:00",
+          "title": "х/ф Смертельные иллюзии",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T13:00:00+03:00",
+          "stop": "2026-11-09T00:00:00+03:00",
+          "title": "т/с Ангел мести",
           "description": "L",
           "category": null
         }

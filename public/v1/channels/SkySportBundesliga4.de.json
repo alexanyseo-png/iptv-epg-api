@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
+  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-11-05",
-      "programs": [
-        {
-          "start": "2026-11-05T08:00:00+03:00",
-          "stop": "2026-11-06T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-06",
       "programs": [
@@ -98,6 +86,39 @@
         {
           "start": "2026-11-07T19:45:00+03:00",
           "stop": "2026-11-08T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "programs": [
+        {
+          "start": "2026-11-08T08:00:00+03:00",
+          "stop": "2026-11-08T14:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T14:40:00+03:00",
+          "stop": "2026-11-08T15:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T15:00:00+03:00",
+          "stop": "2026-11-08T17:30:00+03:00",
+          "title": "Live 2. BL: VfL Bochum – Karlsruher SC, 11. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T17:30:00+03:00",
+          "stop": "2026-11-09T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

@@ -8,155 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-05T19:59:23.404715+00:00",
+  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
   "available": true,
-  "programmeCount": 53,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-11-05",
-      "programs": [
-        {
-          "start": "2026-11-05T00:30:00+03:00",
-          "stop": "2026-11-05T00:55:00+03:00",
-          "title": "Важные новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T00:55:00+03:00",
-          "stop": "2026-11-05T01:45:00+03:00",
-          "title": "Köremiz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T01:45:00+03:00",
-          "stop": "2026-11-05T04:00:00+03:00",
-          "title": "П@утina+.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T04:00:00+03:00",
-          "stop": "2026-11-05T04:55:00+03:00",
-          "title": "т/с Падение ордена.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T04:55:00+03:00",
-          "stop": "2026-11-05T06:00:00+03:00",
-          "title": "т/с Принц Сибири.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T06:00:00+03:00",
-          "stop": "2026-11-05T07:30:00+03:00",
-          "title": "Доброе утро, Казахстан!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T07:30:00+03:00",
-          "stop": "2026-11-05T09:10:00+03:00",
-          "title": "Доброе утро, Казахстан!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T09:10:00+03:00",
-          "stop": "2026-11-05T10:05:00+03:00",
-          "title": "Модный приговор.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T10:05:00+03:00",
-          "stop": "2026-11-05T10:55:00+03:00",
-          "title": "Жить здорово!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T10:55:00+03:00",
-          "stop": "2026-11-05T12:00:00+03:00",
-          "title": "т/с Чудо.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T12:00:00+03:00",
-          "stop": "2026-11-05T12:20:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T12:20:00+03:00",
-          "stop": "2026-11-05T12:30:00+03:00",
-          "title": "Новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T12:30:00+03:00",
-          "stop": "2026-11-05T16:30:00+03:00",
-          "title": "Qoslike.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T16:30:00+03:00",
-          "stop": "2026-11-05T17:00:00+03:00",
-          "title": "Важные новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T17:00:00+03:00",
-          "stop": "2026-11-05T18:00:00+03:00",
-          "title": "Köremiz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T18:00:00+03:00",
-          "stop": "2026-11-05T18:35:00+03:00",
-          "title": "Главные новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T18:35:00+03:00",
-          "stop": "2026-11-05T21:00:00+03:00",
-          "title": "т/с Пять минут тишины. Новые горизонты.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T21:00:00+03:00",
-          "stop": "2026-11-05T23:15:00+03:00",
-          "title": "т/с Пять минут тишины. Симбирские морозы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T23:15:00+03:00",
-          "stop": "2026-11-05T23:45:00+03:00",
-          "title": "Главные новости.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-05T23:45:00+03:00",
-          "stop": "2026-11-06T00:30:00+03:00",
-          "title": "х/ф Подкидыш.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-06",
       "programs": [
@@ -393,6 +248,81 @@
           "start": "2026-11-07T23:10:00+03:00",
           "stop": "2026-11-08T01:30:00+03:00",
           "title": "т/с Формула преступления.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "programs": [
+        {
+          "start": "2026-11-08T01:30:00+03:00",
+          "stop": "2026-11-08T04:00:00+03:00",
+          "title": "Qaйmaқ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T04:00:00+03:00",
+          "stop": "2026-11-08T06:05:00+03:00",
+          "title": "Qaйmaқ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T06:05:00+03:00",
+          "stop": "2026-11-08T07:00:00+03:00",
+          "title": "Basty prime.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T07:00:00+03:00",
+          "stop": "2026-11-08T08:00:00+03:00",
+          "title": "т/с Ауыл мұғалімі.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T08:00:00+03:00",
+          "stop": "2026-11-08T09:50:00+03:00",
+          "title": "х/ф Мираж.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T09:50:00+03:00",
+          "stop": "2026-11-08T11:05:00+03:00",
+          "title": "Пусть говорят.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T11:05:00+03:00",
+          "stop": "2026-11-08T15:35:00+03:00",
+          "title": "х/ф Пока брак не разлучит нас.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T15:35:00+03:00",
+          "stop": "2026-11-08T18:00:00+03:00",
+          "title": "х/ф 110.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T18:00:00+03:00",
+          "stop": "2026-11-08T18:50:00+03:00",
+          "title": "Аналитика.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-08T18:50:00+03:00",
+          "stop": "2026-11-08T19:50:00+03:00",
+          "title": "х/ф Чужая жизнь.",
           "description": "L",
           "category": null
         }
