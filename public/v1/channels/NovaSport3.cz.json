@@ -8,216 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
+  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-11-06",
-      "programs": [
-        {
-          "start": "2026-11-06T00:20:00+03:00",
-          "stop": "2026-11-06T02:10:00+03:00",
-          "title": "Villarreal CF – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T02:10:00+03:00",
-          "stop": "2026-11-06T04:00:00+03:00",
-          "title": "SK Slavia Praha – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T04:00:00+03:00",
-          "stop": "2026-11-06T09:00:00+03:00",
-          "title": "Eintracht Frankfurt – Hamburger SV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T09:00:00+03:00",
-          "stop": "2026-11-06T11:00:00+03:00",
-          "title": "Villarreal CF – PSG",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T11:00:00+03:00",
-          "stop": "2026-11-06T13:00:00+03:00",
-          "title": "Feyenoord Rotterdam – Inter Milán",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T13:00:00+03:00",
-          "stop": "2026-11-06T15:00:00+03:00",
-          "title": "FK Bod?/Glimt – Lille OSC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T15:00:00+03:00",
-          "stop": "2026-11-06T15:30:00+03:00",
-          "title": "Liga mistrů UEFA Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T15:30:00+03:00",
-          "stop": "2026-11-06T16:00:00+03:00",
-          "title": "Liga mistrů UEFA Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T16:00:00+03:00",
-          "stop": "2026-11-06T16:30:00+03:00",
-          "title": "EFL Highlights (13)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T16:30:00+03:00",
-          "stop": "2026-11-06T18:00:00+03:00",
-          "title": "TIKI-TAKA (328)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T18:00:00+03:00",
-          "stop": "2026-11-06T20:00:00+03:00",
-          "title": "Viking FK – Sabah FK",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T20:00:00+03:00",
-          "stop": "2026-11-06T21:50:00+03:00",
-          "title": "RC Lens – Como 1907",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T21:50:00+03:00",
-          "stop": "2026-11-06T22:20:00+03:00",
-          "title": "Bundesliga Weekly (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T22:20:00+03:00",
-          "stop": "2026-11-07T00:35:00+03:00",
-          "title": "Hamburger SV – Borussia Mönchengladbach",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "programs": [
-        {
-          "start": "2026-11-07T00:35:00+03:00",
-          "stop": "2026-11-07T01:05:00+03:00",
-          "title": "EFL Highlights (14)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T01:05:00+03:00",
-          "stop": "2026-11-07T02:55:00+03:00",
-          "title": "PSV Eindhoven – Club Bruggy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T02:55:00+03:00",
-          "stop": "2026-11-07T03:25:00+03:00",
-          "title": "Liga mistrů UEFA Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T03:25:00+03:00",
-          "stop": "2026-11-07T03:55:00+03:00",
-          "title": "Liga mistrů UEFA Highlights",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T03:55:00+03:00",
-          "stop": "2026-11-07T09:00:00+03:00",
-          "title": "Viking FK – Sabah FK",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T09:00:00+03:00",
-          "stop": "2026-11-07T10:50:00+03:00",
-          "title": "Hamburger SV – Borussia Mönchengladbach",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T10:50:00+03:00",
-          "stop": "2026-11-07T12:40:00+03:00",
-          "title": "Galatasaray SK – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T12:40:00+03:00",
-          "stop": "2026-11-07T14:25:00+03:00",
-          "title": "SK Slavia Praha – Arsenal FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T14:25:00+03:00",
-          "stop": "2026-11-07T14:55:00+03:00",
-          "title": "Bundesliga Weekly (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T14:55:00+03:00",
-          "stop": "2026-11-07T17:20:00+03:00",
-          "title": "1. FC Norimberk – SV Darmstadt",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T17:20:00+03:00",
-          "stop": "2026-11-07T19:45:00+03:00",
-          "title": "1. FSV Mainz 05 – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T19:45:00+03:00",
-          "stop": "2026-11-07T20:20:00+03:00",
-          "title": "Bundesliga speciál (7)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T20:20:00+03:00",
-          "stop": "2026-11-07T22:40:00+03:00",
-          "title": "VfB Stuttgart – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T22:40:00+03:00",
-          "stop": "2026-11-08T00:50:00+03:00",
-          "title": "PSG – ES Troyes",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-08",
       "programs": [
@@ -309,6 +103,39 @@
           "start": "2026-11-08T22:40:00+03:00",
           "stop": "2026-11-09T00:50:00+03:00",
           "title": "RC Lens – Olympique Marseille",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "programs": [
+        {
+          "start": "2026-11-09T00:50:00+03:00",
+          "stop": "2026-11-09T02:40:00+03:00",
+          "title": "VfB Stuttgart – Werder Brémy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T02:40:00+03:00",
+          "stop": "2026-11-09T03:05:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (10)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T03:05:00+03:00",
+          "stop": "2026-11-09T04:55:00+03:00",
+          "title": "1. FC Heidenheim – Hannover 96",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T04:55:00+03:00",
+          "stop": "2026-11-09T05:55:00+03:00",
+          "title": "EFL Highlights (14)",
           "description": "L",
           "category": null
         }

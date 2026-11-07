@@ -8,118 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
+  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
   "available": true,
-  "programmeCount": 23,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-11-06",
-      "programs": [
-        {
-          "start": "2026-11-06T08:00:00+03:00",
-          "stop": "2026-11-06T19:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T19:40:00+03:00",
-          "stop": "2026-11-06T20:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T20:00:00+03:00",
-          "stop": "2026-11-06T22:30:00+03:00",
-          "title": "Live 2. BL: Freitags-Konferenz, 11. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T22:30:00+03:00",
-          "stop": "2026-11-06T23:15:00+03:00",
-          "title": "Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 11. Spieltag, Freitag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T23:15:00+03:00",
-          "stop": "2026-11-07T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "programs": [
-        {
-          "start": "2026-11-07T08:00:00+03:00",
-          "stop": "2026-11-07T14:10:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T14:10:00+03:00",
-          "stop": "2026-11-07T14:30:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T14:30:00+03:00",
-          "stop": "2026-11-07T17:00:00+03:00",
-          "title": "Live 2. BL: Samstags-Konferenz, 11. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T17:00:00+03:00",
-          "stop": "2026-11-07T17:15:00+03:00",
-          "title": "Live BL: RBL – FCA: NEO.bet Countdown, 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T17:15:00+03:00",
-          "stop": "2026-11-07T19:30:00+03:00",
-          "title": "Live BL: RB Leipzig – FC Augsburg, 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T19:30:00+03:00",
-          "stop": "2026-11-07T20:45:00+03:00",
-          "title": "Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 9. Spieltag, Samstag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T20:45:00+03:00",
-          "stop": "2026-11-07T21:00:00+03:00",
-          "title": "BL: Highlights XXL: HSV – BMG, 9. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T21:00:00+03:00",
-          "stop": "2026-11-07T22:00:00+03:00",
-          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 11. Spieltag, Samstag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T22:00:00+03:00",
-          "stop": "2026-11-08T01:00:00+03:00",
-          "title": "Live 2. BL: Hertha BSC – VfL Wolfsburg, tipico Topspiel der Woche, 11. Spieltag",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-08",
       "programs": [
@@ -183,6 +75,25 @@
           "start": "2026-11-08T23:30:00+03:00",
           "stop": "2026-11-09T01:30:00+03:00",
           "title": "BL: TSG Hoffenheim – FC Schalke 04, 9. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "programs": [
+        {
+          "start": "2026-11-09T01:30:00+03:00",
+          "stop": "2026-11-09T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T08:00:00+03:00",
+          "stop": "2026-11-10T08:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

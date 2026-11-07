@@ -8,188 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-06T19:27:16.873626+00:00",
+  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-11-06",
-      "programs": [
-        {
-          "start": "2026-11-06T01:00:00+03:00",
-          "stop": "2026-11-06T03:00:00+03:00",
-          "title": "FC Barcelona – Aston Villa",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T03:00:00+03:00",
-          "stop": "2026-11-06T04:00:00+03:00",
-          "title": "La Liga Highlights (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T04:00:00+03:00",
-          "stop": "2026-11-06T09:00:00+03:00",
-          "title": "La Liga 2 Highlights (12)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T09:00:00+03:00",
-          "stop": "2026-11-06T11:00:00+03:00",
-          "title": "Elche CF – Valencia CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T11:00:00+03:00",
-          "stop": "2026-11-06T12:50:00+03:00",
-          "title": "Deportivo A Coruna – CA Osasuna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T12:50:00+03:00",
-          "stop": "2026-11-06T14:50:00+03:00",
-          "title": "ES Troyes – Le Mans FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T14:50:00+03:00",
-          "stop": "2026-11-06T16:40:00+03:00",
-          "title": "Hannover 96 – Dynamo Drážďany",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T16:40:00+03:00",
-          "stop": "2026-11-06T18:30:00+03:00",
-          "title": "Racing Santander – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T18:30:00+03:00",
-          "stop": "2026-11-06T19:30:00+03:00",
-          "title": "La Liga Highlights (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T19:30:00+03:00",
-          "stop": "2026-11-06T20:25:00+03:00",
-          "title": "La Liga 2 Highlights (12)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T20:25:00+03:00",
-          "stop": "2026-11-06T22:40:00+03:00",
-          "title": "Dynamo Drážďany – Greuther Fürth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-06T22:40:00+03:00",
-          "stop": "2026-11-07T01:00:00+03:00",
-          "title": "Toulouse FC – Racing Strasbourg",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "programs": [
-        {
-          "start": "2026-11-07T01:00:00+03:00",
-          "stop": "2026-11-07T03:00:00+03:00",
-          "title": "RB Lipsko – Manchester City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T03:00:00+03:00",
-          "stop": "2026-11-07T09:00:00+03:00",
-          "title": "AEK Atény – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T09:00:00+03:00",
-          "stop": "2026-11-07T10:50:00+03:00",
-          "title": "Toulouse FC – Racing Strasbourg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T10:50:00+03:00",
-          "stop": "2026-11-07T12:40:00+03:00",
-          "title": "Dynamo Drážďany – Greuther Fürth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T12:40:00+03:00",
-          "stop": "2026-11-07T14:30:00+03:00",
-          "title": "RB Lipsko – Manchester City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T14:30:00+03:00",
-          "stop": "2026-11-07T15:25:00+03:00",
-          "title": "La Liga Highlights (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T15:25:00+03:00",
-          "stop": "2026-11-07T17:25:00+03:00",
-          "title": "Wrexham FC – Wolverhampton Wanderers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T17:25:00+03:00",
-          "stop": "2026-11-07T19:45:00+03:00",
-          "title": "Borussia Dortmund – SV Elversberg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T19:45:00+03:00",
-          "stop": "2026-11-07T20:25:00+03:00",
-          "title": "Ve skluzu (138)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T20:25:00+03:00",
-          "stop": "2026-11-07T22:40:00+03:00",
-          "title": "CA Osasuna – Athletic Bilbao",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T22:40:00+03:00",
-          "stop": "2026-11-07T22:55:00+03:00",
-          "title": "LaLiga Experience – Atlético Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-07T22:55:00+03:00",
-          "stop": "2026-11-08T01:05:00+03:00",
-          "title": "Valencia CF – Real Madrid",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-08",
       "programs": [
@@ -267,6 +89,25 @@
           "start": "2026-11-08T22:55:00+03:00",
           "stop": "2026-11-09T01:30:00+03:00",
           "title": "Atlético Madrid – FC Barcelona",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-09",
+      "programs": [
+        {
+          "start": "2026-11-09T01:30:00+03:00",
+          "stop": "2026-11-09T03:20:00+03:00",
+          "title": "Manchester United – AS Řím",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T03:20:00+03:00",
+          "stop": "2026-11-09T04:20:00+03:00",
+          "title": "Wrexham FC – Wolverhampton Wanderers",
           "description": "L",
           "category": null
         }
