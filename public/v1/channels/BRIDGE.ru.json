@@ -8,80 +8,99 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
+  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 12,
   "days": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "programs": [
         {
-          "start": "2026-11-08T00:00:00+03:00",
-          "stop": "2026-11-08T01:00:00+03:00",
+          "start": "2026-11-09T00:00:00+03:00",
+          "stop": "2026-11-09T01:00:00+03:00",
           "title": "Bridge to Nightlife.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T01:00:00+03:00",
-          "stop": "2026-11-08T06:00:00+03:00",
+          "start": "2026-11-09T01:00:00+03:00",
+          "stop": "2026-11-09T06:00:00+03:00",
           "title": "Bridge.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T06:00:00+03:00",
-          "stop": "2026-11-08T09:10:00+03:00",
+          "start": "2026-11-09T06:00:00+03:00",
+          "stop": "2026-11-09T09:10:00+03:00",
           "title": "Wake Up Call.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T09:10:00+03:00",
-          "stop": "2026-11-08T09:40:00+03:00",
+          "start": "2026-11-09T09:10:00+03:00",
+          "stop": "2026-11-09T09:40:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T09:40:00+03:00",
+          "stop": "2026-11-09T17:10:00+03:00",
+          "title": "Bridge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T17:10:00+03:00",
+          "stop": "2026-11-09T17:40:00+03:00",
           "title": "Горячая десятка.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T09:40:00+03:00",
-          "stop": "2026-11-08T13:10:00+03:00",
+          "start": "2026-11-09T17:40:00+03:00",
+          "stop": "2026-11-09T19:30:00+03:00",
           "title": "Bridge.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T13:10:00+03:00",
-          "stop": "2026-11-08T13:40:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T13:40:00+03:00",
-          "stop": "2026-11-08T19:30:00+03:00",
-          "title": "Bridge.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T19:30:00+03:00",
-          "stop": "2026-11-08T21:00:00+03:00",
+          "start": "2026-11-09T19:30:00+03:00",
+          "stop": "2026-11-09T21:00:00+03:00",
           "title": "Bridge in time.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T21:00:00+03:00",
-          "stop": "2026-11-08T23:00:00+03:00",
+          "start": "2026-11-09T21:00:00+03:00",
+          "stop": "2026-11-09T23:00:00+03:00",
           "title": "Bridge.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T23:00:00+03:00",
-          "stop": "2026-11-09T00:00:00+03:00",
+          "start": "2026-11-09T23:00:00+03:00",
+          "stop": "2026-11-10T00:00:00+03:00",
           "title": "Retro dance.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-10",
+      "programs": [
+        {
+          "start": "2026-11-10T00:00:00+03:00",
+          "stop": "2026-11-10T01:00:00+03:00",
+          "title": "Bridge to Nightlife.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T01:00:00+03:00",
+          "stop": "2026-11-10T02:00:00+03:00",
+          "title": "Bridge.",
           "description": "L",
           "category": null
         }

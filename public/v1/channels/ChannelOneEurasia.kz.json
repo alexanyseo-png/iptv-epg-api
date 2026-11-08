@@ -8,80 +8,66 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
+  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 8,
   "days": [
     {
-      "date": "2026-11-08",
+      "date": "2026-11-09",
       "programs": [
         {
-          "start": "2026-11-08T01:30:00+03:00",
-          "stop": "2026-11-08T04:00:00+03:00",
+          "start": "2026-11-09T00:25:00+03:00",
+          "stop": "2026-11-09T01:30:00+03:00",
+          "title": "т/с Формула преступления.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T01:30:00+03:00",
+          "stop": "2026-11-09T04:00:00+03:00",
           "title": "Qaйmaқ.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-08T04:00:00+03:00",
-          "stop": "2026-11-08T06:05:00+03:00",
-          "title": "Qaйmaқ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T06:05:00+03:00",
-          "stop": "2026-11-08T07:00:00+03:00",
-          "title": "Basty prime.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T07:00:00+03:00",
-          "stop": "2026-11-08T08:00:00+03:00",
-          "title": "т/с Ауыл мұғалімі.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T08:00:00+03:00",
-          "stop": "2026-11-08T09:50:00+03:00",
-          "title": "х/ф Мираж.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T09:50:00+03:00",
-          "stop": "2026-11-08T11:05:00+03:00",
-          "title": "Пусть говорят.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T11:05:00+03:00",
-          "stop": "2026-11-08T15:35:00+03:00",
-          "title": "х/ф Пока брак не разлучит нас.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T15:35:00+03:00",
-          "stop": "2026-11-08T18:00:00+03:00",
-          "title": "х/ф 110.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T18:00:00+03:00",
-          "stop": "2026-11-08T18:50:00+03:00",
-          "title": "Аналитика.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T18:50:00+03:00",
-          "stop": "2026-11-08T19:50:00+03:00",
+          "start": "2026-11-09T04:00:00+03:00",
+          "stop": "2026-11-09T06:00:00+03:00",
           "title": "х/ф Чужая жизнь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T06:00:00+03:00",
+          "stop": "2026-11-09T07:30:00+03:00",
+          "title": "Доброе утро, Казахстан!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T07:30:00+03:00",
+          "stop": "2026-11-09T09:05:00+03:00",
+          "title": "Доброе утро, Казахстан!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T09:05:00+03:00",
+          "stop": "2026-11-09T10:00:00+03:00",
+          "title": "Модный приговор.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T10:00:00+03:00",
+          "stop": "2026-11-09T11:00:00+03:00",
+          "title": "Жить здорово!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T11:00:00+03:00",
+          "stop": "2026-11-09T12:00:00+03:00",
+          "title": "Аналитика.",
           "description": "L",
           "category": null
         }

@@ -8,127 +8,87 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-07T21:54:27.625613+00:00",
+  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 11,
   "days": [
-    {
-      "date": "2026-11-08",
-      "programs": [
-        {
-          "start": "2026-11-08T05:00:00+03:00",
-          "stop": "2026-11-08T06:20:00+03:00",
-          "title": "Ұмытылмас әндер.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T06:20:00+03:00",
-          "stop": "2026-11-08T07:30:00+03:00",
-          "title": "Көңіл толқыны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T07:30:00+03:00",
-          "stop": "2026-11-08T09:30:00+03:00",
-          "title": "КТА.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T09:30:00+03:00",
-          "stop": "2026-11-08T10:10:00+03:00",
-          "title": "Было интересно.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T10:10:00+03:00",
-          "stop": "2026-11-08T10:45:00+03:00",
-          "title": "Әйел әлемі.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T10:45:00+03:00",
-          "stop": "2026-11-08T11:50:00+03:00",
-          "title": "Ұлы дала баласы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T11:50:00+03:00",
-          "stop": "2026-11-08T12:25:00+03:00",
-          "title": "Ана болғым келеді.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T12:25:00+03:00",
-          "stop": "2026-11-08T13:50:00+03:00",
-          "title": "Көңілашар.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T13:50:00+03:00",
-          "stop": "2026-11-08T15:50:00+03:00",
-          "title": "КТА.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T15:50:00+03:00",
-          "stop": "2026-11-08T17:15:00+03:00",
-          "title": "Беу.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T17:15:00+03:00",
-          "stop": "2026-11-08T19:00:00+03:00",
-          "title": "Екі жұлдыз.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T19:00:00+03:00",
-          "stop": "2026-11-08T20:45:00+03:00",
-          "title": "Жұбаныш Жексенұлы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T20:45:00+03:00",
-          "stop": "2026-11-08T21:50:00+03:00",
-          "title": "Ұлы дала баласы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T21:50:00+03:00",
-          "stop": "2026-11-08T22:55:00+03:00",
-          "title": "Көңіл толқыны.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-08T22:55:00+03:00",
-          "stop": "2026-11-09T00:20:00+03:00",
-          "title": "Көңілашар.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-09",
       "programs": [
         {
           "start": "2026-11-09T00:20:00+03:00",
-          "stop": "2026-11-09T01:20:00+03:00",
+          "stop": "2026-11-09T05:00:00+03:00",
           "title": "Было интересно.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T05:00:00+03:00",
+          "stop": "2026-11-09T06:20:00+03:00",
+          "title": "Ұмытылмас әндер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T06:20:00+03:00",
+          "stop": "2026-11-09T06:40:00+03:00",
+          "title": "Көңіл толқыны.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T06:40:00+03:00",
+          "stop": "2026-11-09T07:15:00+03:00",
+          "title": "Ас болсын.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T07:15:00+03:00",
+          "stop": "2026-11-09T07:55:00+03:00",
+          "title": "Кім білгір?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T07:55:00+03:00",
+          "stop": "2026-11-09T09:20:00+03:00",
+          "title": "Көңілашар.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T09:20:00+03:00",
+          "stop": "2026-11-09T11:15:00+03:00",
+          "title": "КТА.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T11:15:00+03:00",
+          "stop": "2026-11-09T12:00:00+03:00",
+          "title": "Білгірлер бәйгесі.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T12:00:00+03:00",
+          "stop": "2026-11-09T14:05:00+03:00",
+          "title": "Егіз лебіз. 3-я серия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T14:05:00+03:00",
+          "stop": "2026-11-09T14:40:00+03:00",
+          "title": "Тапқыр Отбасы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-09T14:40:00+03:00",
+          "stop": "2026-11-09T15:40:00+03:00",
+          "title": "Көңілашар.",
           "description": "L",
           "category": null
         }
