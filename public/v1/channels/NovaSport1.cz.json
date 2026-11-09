@@ -8,73 +8,211 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
+  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
   "available": true,
-  "programmeCount": 9,
+  "programmeCount": 28,
   "days": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "programs": [
         {
-          "start": "2026-11-09T00:00:00+03:00",
-          "stop": "2026-11-09T00:05:00+03:00",
+          "start": "2026-11-10T01:00:00+03:00",
+          "stop": "2026-11-10T01:05:00+03:00",
           "title": "Sportovní noviny",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T00:05:00+03:00",
-          "stop": "2026-11-09T01:00:00+03:00",
-          "title": "DFB-Pokal Highlights (2)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T01:00:00+03:00",
-          "stop": "2026-11-09T01:05:00+03:00",
-          "title": "Sportovní noviny",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T01:05:00+03:00",
-          "stop": "2026-11-09T01:20:00+03:00",
+          "start": "2026-11-10T01:05:00+03:00",
+          "stop": "2026-11-10T01:20:00+03:00",
           "title": "NHL News",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T01:20:00+03:00",
-          "stop": "2026-11-09T03:05:00+03:00",
-          "title": "Nashville Predators – St. Louis Blues",
+          "start": "2026-11-10T01:20:00+03:00",
+          "stop": "2026-11-10T03:00:00+03:00",
+          "title": "Boston Bruins – Florida Panthers",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T03:05:00+03:00",
-          "stop": "2026-11-09T03:35:00+03:00",
+          "start": "2026-11-10T03:00:00+03:00",
+          "stop": "2026-11-10T05:00:00+03:00",
+          "title": "Edmonton Oilers – Vancouver Canucks",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T05:00:00+03:00",
+          "stop": "2026-11-10T05:35:00+03:00",
           "title": "Ötztaler Cycle Marathon",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T03:35:00+03:00",
-          "stop": "2026-11-09T04:05:00+03:00",
-          "title": "GKA Kite-Surf  Hydro Big Air World Cup",
+          "start": "2026-11-10T05:35:00+03:00",
+          "stop": "2026-11-10T09:00:00+03:00",
+          "title": "Vancouver Canucks – Philadelphia Flyers",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T04:05:00+03:00",
-          "stop": "2026-11-09T06:45:00+03:00",
+          "start": "2026-11-10T09:00:00+03:00",
+          "stop": "2026-11-10T09:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T09:05:00+03:00",
+          "stop": "2026-11-10T10:45:00+03:00",
+          "title": "Anglie – Austrálie",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T10:45:00+03:00",
+          "stop": "2026-11-10T11:15:00+03:00",
+          "title": "Ötztaler Cycle Marathon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T11:15:00+03:00",
+          "stop": "2026-11-10T13:00:00+03:00",
+          "title": "Boston Bruins – Florida Panthers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T13:00:00+03:00",
+          "stop": "2026-11-10T15:00:00+03:00",
+          "title": "Vancouver Canucks – Philadelphia Flyers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T15:00:00+03:00",
+          "stop": "2026-11-10T15:05:00+03:00",
+          "title": "Polední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T15:05:00+03:00",
+          "stop": "2026-11-10T17:00:00+03:00",
+          "title": "San Jose Sharks – New York Islanders",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T17:00:00+03:00",
+          "stop": "2026-11-10T19:00:00+03:00",
+          "title": "Itálie – JAR",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T19:00:00+03:00",
+          "stop": "2026-11-10T20:45:00+03:00",
           "title": "Anaheim Ducks – Pittsburgh Penguins",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T06:45:00+03:00",
-          "stop": "2026-11-09T07:45:00+03:00",
-          "title": "Toronto Maple Leafs – Montreal Canadiens",
+          "start": "2026-11-10T20:45:00+03:00",
+          "stop": "2026-11-10T21:00:00+03:00",
+          "title": "NHL News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:00:00+03:00",
+          "stop": "2026-11-10T21:05:00+03:00",
+          "title": "Odpolední Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:05:00+03:00",
+          "stop": "2026-11-10T21:30:00+03:00",
+          "title": "Red Bull Romaniacs – Hard Endruro Part 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:30:00+03:00",
+          "stop": "2026-11-10T21:40:00+03:00",
+          "title": "ČEZ RunTour 2026 – Pardubice",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:40:00+03:00",
+          "stop": "2026-11-10T21:55:00+03:00",
+          "title": "Run Aréna (12)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:55:00+03:00",
+          "stop": "2026-11-11T00:00:00+03:00",
+          "title": "Surne Bilbao – ALBA Berlin",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "programs": [
+        {
+          "start": "2026-11-11T00:00:00+03:00",
+          "stop": "2026-11-11T00:30:00+03:00",
+          "title": "World´s First: Ride on a hot air balloon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T00:30:00+03:00",
+          "stop": "2026-11-11T01:00:00+03:00",
+          "title": "Epic Series – SPAR Swiss Epis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T01:00:00+03:00",
+          "stop": "2026-11-11T01:05:00+03:00",
+          "title": "Sportovní noviny",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T01:05:00+03:00",
+          "stop": "2026-11-11T01:20:00+03:00",
+          "title": "NHL News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T01:20:00+03:00",
+          "stop": "2026-11-11T03:05:00+03:00",
+          "title": "Vancouver Canucks – Philadelphia Flyers",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T03:05:00+03:00",
+          "stop": "2026-11-11T06:05:00+03:00",
+          "title": "Montreal Canadiens – Minnesota Wild",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T06:05:00+03:00",
+          "stop": "2026-11-11T07:05:00+03:00",
+          "title": "Los Angeles Kings – Nashville Predators",
           "description": "L",
           "category": null
         }

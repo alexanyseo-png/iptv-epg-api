@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
+  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-11-09",
-      "programs": [
-        {
-          "start": "2026-11-09T00:00:00+03:00",
-          "stop": "2026-11-09T01:35:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T01:35:00+03:00",
-          "stop": "2026-11-09T03:40:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T03:40:00+03:00",
-          "stop": "2026-11-09T04:05:00+03:00",
-          "title": "Территория MMA-TV.COM (172-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T04:05:00+03:00",
-          "stop": "2026-11-09T08:00:00+03:00",
-          "title": "MMA Series Classic. И.Варварский.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T08:00:00+03:00",
-          "stop": "2026-11-09T09:30:00+03:00",
-          "title": "MMA Series Names (Н.Бархатов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T09:30:00+03:00",
-          "stop": "2026-11-09T12:00:00+03:00",
-          "title": "MMA Series Names (Д.Михайлиди).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T12:00:00+03:00",
-          "stop": "2026-11-09T15:35:00+03:00",
-          "title": "MMA Series. Вечер нокаутов: С.Дьяконов, В.Руденко, С.Бобрышев.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T15:35:00+03:00",
-          "stop": "2026-11-09T16:00:00+03:00",
-          "title": "Территория MMA-TV.COM (172-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T16:00:00+03:00",
-          "stop": "2026-11-09T19:40:00+03:00",
-          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T19:40:00+03:00",
-          "stop": "2026-11-09T20:05:00+03:00",
-          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T20:05:00+03:00",
-          "stop": "2026-11-09T21:45:00+03:00",
-          "title": "ММА Series Classic. М.Вологдин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T21:45:00+03:00",
-          "stop": "2026-11-09T23:35:00+03:00",
-          "title": "MMA Series Classic. И.Фрейманов, А.Дурыманов, С.Маслов.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-09T23:35:00+03:00",
-          "stop": "2026-11-10T00:00:00+03:00",
-          "title": "Территория MMA-TV.COM (172-я серия).",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-10",
       "programs": [
@@ -120,7 +24,192 @@
         },
         {
           "start": "2026-11-10T01:30:00+03:00",
-          "stop": "2026-11-10T02:30:00+03:00",
+          "stop": "2026-11-10T04:00:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T04:00:00+03:00",
+          "stop": "2026-11-10T07:35:00+03:00",
+          "title": "ММА Серия - 93: Все звезды. С.Дьяконов - Д.Андрюшко.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T07:35:00+03:00",
+          "stop": "2026-11-10T08:05:00+03:00",
+          "title": "Клетка Виктории Ицеховской (MMA Series - 93).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T08:05:00+03:00",
+          "stop": "2026-11-10T11:50:00+03:00",
+          "title": "MMA Series. Вечер нокаутов: С.Дьяконов, В.Руденко, С.Бобрышев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T11:50:00+03:00",
+          "stop": "2026-11-10T12:10:00+03:00",
+          "title": "Территория MMA-TV.COM (172-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T12:10:00+03:00",
+          "stop": "2026-11-10T14:10:00+03:00",
+          "title": "ММА Series Classic. М.Вологдин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T14:10:00+03:00",
+          "stop": "2026-11-10T16:00:00+03:00",
+          "title": "MMA Series Classic. И.Фрейманов, А.Дурыманов, С.Маслов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T16:00:00+03:00",
+          "stop": "2026-11-10T19:40:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T19:40:00+03:00",
+          "stop": "2026-11-10T20:00:00+03:00",
+          "title": "Территория MMA-TV.COM (172-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T20:00:00+03:00",
+          "stop": "2026-11-10T22:00:00+03:00",
+          "title": "MMA Series Names (А.Подмарев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T22:00:00+03:00",
+          "stop": "2026-11-11T00:00:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "programs": [
+        {
+          "start": "2026-11-11T00:00:00+03:00",
+          "stop": "2026-11-11T01:40:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T01:40:00+03:00",
+          "stop": "2026-11-11T04:05:00+03:00",
+          "title": "MMA Series Main Card.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T04:05:00+03:00",
+          "stop": "2026-11-11T04:25:00+03:00",
+          "title": "Территория MMA-TV.COM (172-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T04:25:00+03:00",
+          "stop": "2026-11-11T06:15:00+03:00",
+          "title": "ММА Series Classic. М.Вологдин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T06:15:00+03:00",
+          "stop": "2026-11-11T08:05:00+03:00",
+          "title": "MMA Series Classic. И.Фрейманов, А.Дурыманов, С.Маслов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T08:05:00+03:00",
+          "stop": "2026-11-11T11:40:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. Э.Мартиросян, И.Харитонов, М.Сантос.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T11:40:00+03:00",
+          "stop": "2026-11-11T12:05:00+03:00",
+          "title": "Территория MMA-TV.COM (172-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T12:05:00+03:00",
+          "stop": "2026-11-11T14:05:00+03:00",
+          "title": "MMA Series Names (А.Подмарев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T14:05:00+03:00",
+          "stop": "2026-11-11T16:00:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T16:00:00+03:00",
+          "stop": "2026-11-11T17:30:00+03:00",
+          "title": "MMA Series Names (Н.Бархатов).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T17:30:00+03:00",
+          "stop": "2026-11-11T20:00:00+03:00",
+          "title": "MMA Series Names (Д.Михайлиди).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T20:00:00+03:00",
+          "stop": "2026-11-11T23:40:00+03:00",
+          "title": "Made by MMA Series. Выпускники MMA Серии. Б.Гуськов, О.Попов, В.Уокер, И.Фрейманов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T23:40:00+03:00",
+          "stop": "2026-11-12T00:00:00+03:00",
+          "title": "Территория MMA-TV.COM (172-я серия).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "programs": [
+        {
+          "start": "2026-11-12T00:00:00+03:00",
+          "stop": "2026-11-12T01:35:00+03:00",
+          "title": "MMA Series Classic.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T01:35:00+03:00",
+          "stop": "2026-11-12T02:35:00+03:00",
           "title": "MMA Series Main Card.",
           "description": "L",
           "category": null

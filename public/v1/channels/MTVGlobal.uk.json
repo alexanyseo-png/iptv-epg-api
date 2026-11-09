@@ -8,220 +8,895 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-08T22:10:21.188711+00:00",
+  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 125,
   "days": [
     {
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "programs": [
         {
-          "start": "2026-11-09T00:00:00+03:00",
-          "stop": "2026-11-09T00:45:00+03:00",
-          "title": "Storytellers 11 – Storytellers: Snoop Dogg | E02",
+          "start": "2026-11-10T00:00:00+03:00",
+          "stop": "2026-11-10T00:45:00+03:00",
+          "title": "Geordie Shore 26 – Chloe's Dirty-Thirtieth! | E05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T00:45:00+03:00",
-          "stop": "2026-11-09T01:30:00+03:00",
-          "title": "Unplugged (MTV) : 1993 – Arrested Development: Unplugged | E48",
+          "start": "2026-11-10T00:45:00+03:00",
+          "stop": "2026-11-10T01:30:00+03:00",
+          "title": "The Challenge All Stars Season 5: Rivals 5 – A Race for the Stars | E11",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T01:30:00+03:00",
-          "stop": "2026-11-09T02:15:00+03:00",
+          "start": "2026-11-10T01:30:00+03:00",
+          "stop": "2026-11-10T01:50:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXI | E35",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T01:50:00+03:00",
+          "stop": "2026-11-10T02:10:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXII | E36",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T02:10:00+03:00",
+          "stop": "2026-11-10T02:35:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXIII | E37",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T02:35:00+03:00",
+          "stop": "2026-11-10T03:20:00+03:00",
+          "title": "Unplugged (MTV) : 1993 – Nirvana: Unplugged | E66",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T03:20:00+03:00",
+          "stop": "2026-11-10T03:40:00+03:00",
+          "title": "Ink Master Redemption 2 – Cheetah Print Pain | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T03:40:00+03:00",
+          "stop": "2026-11-10T04:25:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – The Game Begins | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T04:25:00+03:00",
+          "stop": "2026-11-10T05:05:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – Ruffled Feathers | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T05:05:00+03:00",
+          "stop": "2026-11-10T05:25:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXVII | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T05:25:00+03:00",
+          "stop": "2026-11-10T05:50:00+03:00",
+          "title": "Ridiculousness 43 – Matt Rife | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T05:50:00+03:00",
+          "stop": "2026-11-10T06:30:00+03:00",
+          "title": "Geordie Shore 26 – Chloe's Dirty-Thirtieth! | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T06:30:00+03:00",
+          "stop": "2026-11-10T07:10:00+03:00",
+          "title": "Celeb Ex In The City 2 – Lisa Mason and Callum Izzard | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T07:10:00+03:00",
+          "stop": "2026-11-10T08:00:00+03:00",
+          "title": "Geordie Shore 24 – The Geordie's Are Back! | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T08:00:00+03:00",
+          "stop": "2026-11-10T08:20:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCIX | E31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T08:20:00+03:00",
+          "stop": "2026-11-10T08:45:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Kristy Sarah X | E32",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T08:45:00+03:00",
+          "stop": "2026-11-10T09:05:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood C | E33",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T09:05:00+03:00",
+          "stop": "2026-11-10T09:30:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood CI | E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T09:30:00+03:00",
+          "stop": "2026-11-10T09:50:00+03:00",
+          "title": "Ridiculousness 42 – Sterling and Lolo Wood CV | E39",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T09:50:00+03:00",
+          "stop": "2026-11-10T10:10:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CIX | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T10:10:00+03:00",
+          "stop": "2026-11-10T10:35:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CX | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T10:35:00+03:00",
+          "stop": "2026-11-10T10:55:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXI | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T10:55:00+03:00",
+          "stop": "2026-11-10T11:40:00+03:00",
+          "title": "Teen Mom: The Next Chapter – I'm Tired But I'm Fired Up | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T11:40:00+03:00",
+          "stop": "2026-11-10T12:20:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Welcome to Adulthood | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T12:20:00+03:00",
+          "stop": "2026-11-10T13:05:00+03:00",
+          "title": "Teen Mom: The Next Chapter – You Guys Mated | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T13:05:00+03:00",
+          "stop": "2026-11-10T13:45:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – We Have Dogs at Home | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T13:45:00+03:00",
+          "stop": "2026-11-10T14:25:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – No Way to Treat a Lady | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T14:25:00+03:00",
+          "stop": "2026-11-10T15:10:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – You Gave Up the Cookies! | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T15:10:00+03:00",
+          "stop": "2026-11-10T15:50:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – Non-Sense  Sensibility | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T15:50:00+03:00",
+          "stop": "2026-11-10T16:35:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Fill'er Up | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T16:35:00+03:00",
+          "stop": "2026-11-10T17:15:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Divine Proportion | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T17:15:00+03:00",
+          "stop": "2026-11-10T17:40:00+03:00",
+          "title": "Ink Master Redemption 4 – Close Encounters of the Redemption Kind | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T17:40:00+03:00",
+          "stop": "2026-11-10T18:25:00+03:00",
+          "title": "Catfish: The TV Show 6 – Jose  Jay | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T18:25:00+03:00",
+          "stop": "2026-11-10T19:05:00+03:00",
+          "title": "Catfish: The TV Show 7 – Angel  Jordan | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T19:05:00+03:00",
+          "stop": "2026-11-10T19:50:00+03:00",
+          "title": "Catfish: The TV Show 7 – Deven  James | E28",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T19:50:00+03:00",
+          "stop": "2026-11-10T20:30:00+03:00",
+          "title": "Catfish: The TV Show 7 – Mathan  Leah | E29",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T20:30:00+03:00",
+          "stop": "2026-11-10T21:05:00+03:00",
+          "title": "Catfish: The TV Show 7 – Taylor  Christian | E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T21:05:00+03:00",
+          "stop": "2026-11-10T22:00:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – Redd, White,  Bleu | E22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T22:00:00+03:00",
+          "stop": "2026-11-10T22:40:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – Is That Your Auntie? | E17",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T22:40:00+03:00",
+          "stop": "2026-11-10T23:15:00+03:00",
+          "title": "Ghosted: Love Gone Missing – Kayla  Shawn | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-10T23:15:00+03:00",
+          "stop": "2026-11-11T00:00:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – You Will NEVER Touch Me Again | E18",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "programs": [
+        {
+          "start": "2026-11-11T00:00:00+03:00",
+          "stop": "2026-11-11T00:45:00+03:00",
+          "title": "Caught In The Act: Double Life – Everybody Calm the Eff Down! | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T00:45:00+03:00",
+          "stop": "2026-11-11T01:30:00+03:00",
           "title": "Ink Master 17 – Gut Check | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T02:15:00+03:00",
-          "stop": "2026-11-09T02:35:00+03:00",
-          "title": "Revenge Prank with DJ Pauly D  Vinny – The Prank With A Pig | E04",
+          "start": "2026-11-11T01:30:00+03:00",
+          "stop": "2026-11-11T01:50:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXIV | E38",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T02:35:00+03:00",
-          "stop": "2026-11-09T03:20:00+03:00",
-          "title": "Unplugged (MTV) : 1995 – Kiss: Unplugged | E85",
+          "start": "2026-11-11T01:50:00+03:00",
+          "stop": "2026-11-11T02:10:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXV | E39",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T03:20:00+03:00",
-          "stop": "2026-11-09T04:05:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Lake Jersey | E03",
+          "start": "2026-11-11T02:10:00+03:00",
+          "stop": "2026-11-11T02:35:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Rocsi Diaz XXVI | E40",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T04:05:00+03:00",
-          "stop": "2026-11-09T04:50:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Life Of A Cornstar | E04",
+          "start": "2026-11-11T02:35:00+03:00",
+          "stop": "2026-11-11T03:20:00+03:00",
+          "title": "Unplugged (MTV) : 1996 – Oasis: Unplugged | E93",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T04:50:00+03:00",
-          "stop": "2026-11-09T05:40:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Get Your Sack In The Hole | E05",
+          "start": "2026-11-11T03:20:00+03:00",
+          "stop": "2026-11-11T03:40:00+03:00",
+          "title": "Ink Master Redemption 2 – Two Right Feet | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T05:40:00+03:00",
-          "stop": "2026-11-09T06:25:00+03:00",
-          "title": "Jersey Shore Family Vacation 6 – Messy Mawmas | E06",
+          "start": "2026-11-11T03:40:00+03:00",
+          "stop": "2026-11-11T04:25:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – Put On Your Armor | E04",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T06:25:00+03:00",
-          "stop": "2026-11-09T07:10:00+03:00",
-          "title": "Celeb Ex In The City 2 – Freddie Bentley and Arabella Chi | E01",
+          "start": "2026-11-11T04:25:00+03:00",
+          "stop": "2026-11-11T05:05:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – Sparks Fly | E05",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T07:10:00+03:00",
-          "stop": "2026-11-09T08:00:00+03:00",
-          "title": "Geordie Shore: Hot Single Summer 22 – End Of The Road | E10",
+          "start": "2026-11-11T05:05:00+03:00",
+          "stop": "2026-11-11T05:25:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXIX | E22",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T08:00:00+03:00",
-          "stop": "2026-11-09T08:20:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Lolo Wood XC | E13",
+          "start": "2026-11-11T05:25:00+03:00",
+          "stop": "2026-11-11T05:50:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXX | E23",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T08:20:00+03:00",
-          "stop": "2026-11-09T08:45:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCII | E15",
+          "start": "2026-11-11T05:50:00+03:00",
+          "stop": "2026-11-11T06:10:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXI | E24",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T08:45:00+03:00",
-          "stop": "2026-11-09T09:05:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCV | E19",
+          "start": "2026-11-11T06:10:00+03:00",
+          "stop": "2026-11-11T06:30:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXII | E25",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T09:05:00+03:00",
-          "stop": "2026-11-09T09:30:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCVI | E20",
+          "start": "2026-11-11T06:30:00+03:00",
+          "stop": "2026-11-11T07:10:00+03:00",
+          "title": "Celeb Ex In The City 2 – Manrika Khaira and Jack Fincham | E03",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T09:30:00+03:00",
-          "stop": "2026-11-09T09:50:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Kristy Sarah IV | E24",
+          "start": "2026-11-11T07:10:00+03:00",
+          "stop": "2026-11-11T08:00:00+03:00",
+          "title": "Geordie Shore 24 – The Big Day! | E02",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T09:50:00+03:00",
-          "stop": "2026-11-09T10:10:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Kristy Sarah V | E25",
+          "start": "2026-11-11T08:00:00+03:00",
+          "stop": "2026-11-11T08:20:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXII | E04",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T10:10:00+03:00",
-          "stop": "2026-11-09T10:35:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Kristy Sarah VI | E26",
+          "start": "2026-11-11T08:20:00+03:00",
+          "stop": "2026-11-11T08:45:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXV | E07",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T10:35:00+03:00",
-          "stop": "2026-11-09T10:55:00+03:00",
-          "title": "Ridiculousness 42 – Sterling and Lolo Wood XCVIII | E30",
+          "start": "2026-11-11T08:45:00+03:00",
+          "stop": "2026-11-11T09:05:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXVI | E08",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T10:55:00+03:00",
-          "stop": "2026-11-09T11:40:00+03:00",
-          "title": "Teen Mom: The Next Chapter – Your Body Your Choice | E04",
+          "start": "2026-11-11T09:05:00+03:00",
+          "stop": "2026-11-11T09:30:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXVIII | E10",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T11:40:00+03:00",
-          "stop": "2026-11-09T12:20:00+03:00",
-          "title": "Teen Mom: The Next Chapter – Make Good Choices | E05",
+          "start": "2026-11-11T09:30:00+03:00",
+          "stop": "2026-11-11T09:50:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXI | E13",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T12:20:00+03:00",
-          "stop": "2026-11-09T13:05:00+03:00",
-          "title": "Teen Mom: The Next Chapter – Teen Mom Sisters for Life | E06",
+          "start": "2026-11-11T09:50:00+03:00",
+          "stop": "2026-11-11T10:10:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXII | E14",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T13:05:00+03:00",
-          "stop": "2026-11-09T13:45:00+03:00",
-          "title": "Caught In The Act: Unfaithful 2 – It's Giving Very Much Fraudulent | E01",
+          "start": "2026-11-11T10:10:00+03:00",
+          "stop": "2026-11-11T10:35:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXIII | E15",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T13:45:00+03:00",
-          "stop": "2026-11-09T14:25:00+03:00",
-          "title": "Caught In The Act: Unfaithful 2 – It's Giving Very Much Fraudulent | E01",
+          "start": "2026-11-11T10:35:00+03:00",
+          "stop": "2026-11-11T10:55:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXV | E17",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T14:25:00+03:00",
-          "stop": "2026-11-09T15:10:00+03:00",
-          "title": "Caught In The Act: Unfaithful 2 – He Proposed to Both of Us | E02",
+          "start": "2026-11-11T10:55:00+03:00",
+          "stop": "2026-11-11T11:40:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Co-parenting Rocks | E10",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T15:10:00+03:00",
-          "stop": "2026-11-09T15:50:00+03:00",
-          "title": "Unplugged (MTV) : 1993 – Arrested Development: Unplugged | E48",
+          "start": "2026-11-11T11:40:00+03:00",
+          "stop": "2026-11-11T12:20:00+03:00",
+          "title": "Teen Mom: The Next Chapter – You're His Keeper | E11",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T15:50:00+03:00",
-          "stop": "2026-11-09T16:35:00+03:00",
-          "title": "Ink Master: Shop Wars 9 – Shop Wars Finale | E16",
+          "start": "2026-11-11T12:20:00+03:00",
+          "stop": "2026-11-11T13:05:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Beautiful Chaos | E12",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T16:35:00+03:00",
-          "stop": "2026-11-09T17:15:00+03:00",
-          "title": "Ink Master: Return of the Masters 10 – Pick Your Side | E01",
+          "start": "2026-11-11T13:05:00+03:00",
+          "stop": "2026-11-11T13:45:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – Any Old D Will Do | E06",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T17:15:00+03:00",
-          "stop": "2026-11-09T17:40:00+03:00",
-          "title": "Ink Master Redemption 4 – Bury the Redemption Hatchet | E02",
+          "start": "2026-11-11T13:45:00+03:00",
+          "stop": "2026-11-11T14:25:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – He Said That Was His Cousin | E07",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-09T17:40:00+03:00",
-          "stop": "2026-11-09T18:25:00+03:00",
-          "title": "Catfish: The TV Show 2 – Aaliyah  Alicia | E15",
+          "start": "2026-11-11T14:25:00+03:00",
+          "stop": "2026-11-11T15:10:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – I Just Don't Feel That Bad | E08",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T15:10:00+03:00",
+          "stop": "2026-11-11T15:50:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – Disstopia | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T15:50:00+03:00",
+          "stop": "2026-11-11T16:35:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Step It Up | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T16:35:00+03:00",
+          "stop": "2026-11-11T17:15:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Ink On The Dotted Line | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T17:15:00+03:00",
+          "stop": "2026-11-11T17:40:00+03:00",
+          "title": "Ink Master Redemption 4 – Tuff Redemption | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T17:40:00+03:00",
+          "stop": "2026-11-11T18:25:00+03:00",
+          "title": "Catfish: The TV Show 8 – Red  Jalissa | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T18:25:00+03:00",
+          "stop": "2026-11-11T19:05:00+03:00",
+          "title": "Catfish: The TV Show 8 – Gemini  Myranda | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T19:05:00+03:00",
+          "stop": "2026-11-11T19:50:00+03:00",
+          "title": "Catfish: The TV Show 8 – Jason  Keith | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T19:50:00+03:00",
+          "stop": "2026-11-11T20:30:00+03:00",
+          "title": "Catfish: The TV Show 8 – Ryan  Micah | E18",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T20:30:00+03:00",
+          "stop": "2026-11-11T21:05:00+03:00",
+          "title": "Catfish: The TV Show 2 – Artis  Jess | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T21:05:00+03:00",
+          "stop": "2026-11-11T22:00:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – Screenshots Fired | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T22:00:00+03:00",
+          "stop": "2026-11-11T22:40:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – Unfortunately… She's My Wife | E19",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T22:40:00+03:00",
+          "stop": "2026-11-11T23:15:00+03:00",
+          "title": "Ghosted: Love Gone Missing – Russell  Destiney | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T23:15:00+03:00",
+          "stop": "2026-11-12T00:00:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – He Done Knocked Ken Down | E20",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "programs": [
+        {
+          "start": "2026-11-12T00:00:00+03:00",
+          "stop": "2026-11-12T00:45:00+03:00",
+          "title": "The Challenge All Stars Season 5: Rivals 5 – An Un-Rivaled Twist | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T00:45:00+03:00",
+          "stop": "2026-11-12T01:30:00+03:00",
+          "title": "Ink Master 17 – Back to the Drawing Board | E02",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T01:30:00+03:00",
+          "stop": "2026-11-12T01:50:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Lolo Wood XXXIII | E41",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T01:50:00+03:00",
+          "stop": "2026-11-12T02:10:00+03:00",
+          "title": "Ridiculousness 39 – Sterling and Lolo Wood XXXIV | E42",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T02:10:00+03:00",
+          "stop": "2026-11-12T02:35:00+03:00",
+          "title": "Ridiculousness 40 – Sterling and Lolo Wood XXXV | E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T02:35:00+03:00",
+          "stop": "2026-11-12T03:15:00+03:00",
+          "title": "Unplugged (MTV) – Alicia Keys: Unplugged | E301",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:15:00+03:00",
+          "stop": "2026-11-12T03:20:00+03:00",
+          "title": "Ink Master Redemption 2 – Behind Every Inked Man… | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:20:00+03:00",
+          "stop": "2026-11-12T03:40:00+03:00",
+          "title": "Ink Master Redemption 2 – Stained Glass From the Past | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:40:00+03:00",
+          "stop": "2026-11-12T04:25:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – Sticky Situation | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T04:25:00+03:00",
+          "stop": "2026-11-12T05:05:00+03:00",
+          "title": "Ink Master: Peck vs Nunez 8 – New School, Old Scars | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T05:05:00+03:00",
+          "stop": "2026-11-12T05:25:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXIV | E27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T05:25:00+03:00",
+          "stop": "2026-11-12T05:50:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXV | E28",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T05:50:00+03:00",
+          "stop": "2026-11-12T06:30:00+03:00",
+          "title": "The Challenge All Stars Season 5: Rivals 5 – An Un-Rivaled Twist | E12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T06:30:00+03:00",
+          "stop": "2026-11-12T07:10:00+03:00",
+          "title": "Celeb Ex In The City 2 – Josh Ritchie and Bobby Norris | E04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T07:10:00+03:00",
+          "stop": "2026-11-12T08:00:00+03:00",
+          "title": "Geordie Shore 24 – Ground Rules | E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T08:00:00+03:00",
+          "stop": "2026-11-12T08:20:00+03:00",
+          "title": "Ridiculousness 43 – Matt Rife | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T08:20:00+03:00",
+          "stop": "2026-11-12T08:45:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXIX | E22",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T08:45:00+03:00",
+          "stop": "2026-11-12T09:05:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXX | E23",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:05:00+03:00",
+          "stop": "2026-11-12T09:30:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXII | E25",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:30:00+03:00",
+          "stop": "2026-11-12T09:50:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXVII | E30",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:50:00+03:00",
+          "stop": "2026-11-12T10:10:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXXXVIII | E31",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:10:00+03:00",
+          "stop": "2026-11-12T10:35:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXL | E33",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:35:00+03:00",
+          "stop": "2026-11-12T10:55:00+03:00",
+          "title": "Ridiculousness 43 – Sterling and Lolo Wood CXLI | E34",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:55:00+03:00",
+          "stop": "2026-11-12T11:40:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Pumping the Brakes | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T11:40:00+03:00",
+          "stop": "2026-11-12T12:20:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Admit What You Have Done | E14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T12:20:00+03:00",
+          "stop": "2026-11-12T13:05:00+03:00",
+          "title": "Teen Mom: The Next Chapter – Patient Love | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T13:05:00+03:00",
+          "stop": "2026-11-12T13:45:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – Dropping All Kinds of Eggplants | E09",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T13:45:00+03:00",
+          "stop": "2026-11-12T14:25:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – I Feel Like a Side Chick Almost | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T14:25:00+03:00",
+          "stop": "2026-11-12T15:10:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – What is the Gardener Doing Here? | E11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T15:10:00+03:00",
+          "stop": "2026-11-12T15:50:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – It's All about the Big Benjamins, Baby! | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T15:50:00+03:00",
+          "stop": "2026-11-12T16:35:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Chin Up | E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T16:35:00+03:00",
+          "stop": "2026-11-12T17:15:00+03:00",
+          "title": "Ink Master: Return of the Masters 10 – Eye of the Tiger | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:15:00+03:00",
+          "stop": "2026-11-12T17:40:00+03:00",
+          "title": "Ink Master Redemption 4 – Redemption Showdown | E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:40:00+03:00",
+          "stop": "2026-11-12T18:25:00+03:00",
+          "title": "Catfish: The TV Show 4 – Prophet  Trinity | E20",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T18:25:00+03:00",
+          "stop": "2026-11-12T19:05:00+03:00",
+          "title": "Catfish: The TV Show 5 – Kayla  Courtney | E10",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T19:05:00+03:00",
+          "stop": "2026-11-12T19:50:00+03:00",
+          "title": "Catfish: The TV Show 5 – Lucas  Many | E13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T19:50:00+03:00",
+          "stop": "2026-11-12T20:30:00+03:00",
+          "title": "Catfish: The TV Show 5 – Spencer  Katy | E15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T20:30:00+03:00",
+          "stop": "2026-11-12T21:05:00+03:00",
+          "title": "Catfish: The TV Show 7 – Sheila  Rich Dollaz | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T21:05:00+03:00",
+          "stop": "2026-11-12T22:00:00+03:00",
+          "title": "Love  Hip Hop Atlanta 12 – Run It Back | E24",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T22:00:00+03:00",
+          "stop": "2026-11-12T22:40:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – She Must Not Know About Me | E21",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T22:40:00+03:00",
+          "stop": "2026-11-12T23:15:00+03:00",
+          "title": "Ghosted: Love Gone Missing – Whitney  Tahira | E07",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T23:15:00+03:00",
+          "stop": "2026-11-13T00:00:00+03:00",
+          "title": "Caught In The Act: Unfaithful 2 – Toxic, Dysfunctional Love | E22",
           "description": "L",
           "category": null
         }
