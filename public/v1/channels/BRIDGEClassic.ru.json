@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
+  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 15,
   "days": [
     {
       "date": "2026-11-10",
@@ -97,7 +97,35 @@
       "programs": [
         {
           "start": "2026-11-12T00:00:00+03:00",
-          "stop": "2026-11-12T01:00:00+03:00",
+          "stop": "2026-11-12T08:00:00+03:00",
+          "title": "Золотая коллекция клипов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T08:00:00+03:00",
+          "stop": "2026-11-12T09:30:00+03:00",
+          "title": "Wake Up Call.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:30:00+03:00",
+          "stop": "2026-11-12T21:00:00+03:00",
+          "title": "Золотая коллекция клипов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T21:00:00+03:00",
+          "stop": "2026-11-12T23:00:00+03:00",
+          "title": "Лаунж Тайм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T23:00:00+03:00",
+          "stop": "2026-11-13T00:00:00+03:00",
           "title": "Золотая коллекция клипов.",
           "description": "L",
           "category": null

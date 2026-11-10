@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
+  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 23,
   "days": [
     {
       "date": "2026-11-10",
@@ -132,8 +132,57 @@
       "programs": [
         {
           "start": "2026-11-12T01:40:00+03:00",
-          "stop": "2026-11-12T02:40:00+03:00",
+          "stop": "2026-11-12T04:15:00+03:00",
           "title": "Одна ошибка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T04:15:00+03:00",
+          "stop": "2026-11-12T09:00:00+03:00",
+          "title": "Моё имя-Клоун.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:00:00+03:00",
+          "stop": "2026-11-12T12:00:00+03:00",
+          "title": "Шахматы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T12:00:00+03:00",
+          "stop": "2026-11-12T14:45:00+03:00",
+          "title": "Жажда мести.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T14:45:00+03:00",
+          "stop": "2026-11-12T17:40:00+03:00",
+          "title": "Легкомысленная девчонка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:40:00+03:00",
+          "stop": "2026-11-12T20:00:00+03:00",
+          "title": "Коммандо 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T20:00:00+03:00",
+          "stop": "2026-11-12T22:55:00+03:00",
+          "title": "В тисках предательства.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T22:55:00+03:00",
+          "stop": "2026-11-12T23:55:00+03:00",
+          "title": "Влюблённый король.",
           "description": "L",
           "category": null
         }

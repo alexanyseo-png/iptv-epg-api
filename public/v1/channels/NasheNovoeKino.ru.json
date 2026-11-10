@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
+  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 39,
   "days": [
     {
       "date": "2026-11-10",
@@ -202,8 +202,99 @@
       "programs": [
         {
           "start": "2026-11-12T01:15:00+03:00",
-          "stop": "2026-11-12T02:15:00+03:00",
+          "stop": "2026-11-12T03:05:00+03:00",
           "title": "Легенды о Круге.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:05:00+03:00",
+          "stop": "2026-11-12T04:40:00+03:00",
+          "title": "Тополиный пух.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T04:40:00+03:00",
+          "stop": "2026-11-12T06:15:00+03:00",
+          "title": "Приговорённый.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T06:15:00+03:00",
+          "stop": "2026-11-12T07:50:00+03:00",
+          "title": "Нейробатя.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T07:50:00+03:00",
+          "stop": "2026-11-12T09:50:00+03:00",
+          "title": "Руки Вверх!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:50:00+03:00",
+          "stop": "2026-11-12T10:55:00+03:00",
+          "title": "Позывной «Журавли» (3-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:55:00+03:00",
+          "stop": "2026-11-12T12:05:00+03:00",
+          "title": "Позывной «Журавли» (4-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T12:05:00+03:00",
+          "stop": "2026-11-12T13:55:00+03:00",
+          "title": "Донбасс. Окраина.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T13:55:00+03:00",
+          "stop": "2026-11-12T15:35:00+03:00",
+          "title": "9 секунд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T15:35:00+03:00",
+          "stop": "2026-11-12T17:30:00+03:00",
+          "title": "Сказка о царе Салтане.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:30:00+03:00",
+          "stop": "2026-11-12T19:30:00+03:00",
+          "title": "Архипелаг.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T19:30:00+03:00",
+          "stop": "2026-11-12T21:25:00+03:00",
+          "title": "Арлан. Решающий раунд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T21:25:00+03:00",
+          "stop": "2026-11-12T23:10:00+03:00",
+          "title": "Нулевые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T23:10:00+03:00",
+          "stop": "2026-11-13T01:05:00+03:00",
+          "title": "Ненормальный.",
           "description": "L",
           "category": null
         }

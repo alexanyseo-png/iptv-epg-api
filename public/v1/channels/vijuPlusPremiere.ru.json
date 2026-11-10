@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-09T22:25:05.461755+00:00",
+  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 43,
   "days": [
     {
       "date": "2026-11-10",
@@ -230,8 +230,99 @@
         },
         {
           "start": "2026-11-12T01:40:00+03:00",
-          "stop": "2026-11-12T02:40:00+03:00",
+          "stop": "2026-11-12T03:15:00+03:00",
           "title": "Простоквашино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:15:00+03:00",
+          "stop": "2026-11-12T04:50:00+03:00",
+          "title": "Буратино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T04:50:00+03:00",
+          "stop": "2026-11-12T06:15:00+03:00",
+          "title": "Мой папа - медведь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T06:15:00+03:00",
+          "stop": "2026-11-12T07:40:00+03:00",
+          "title": "Затерянные.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T07:40:00+03:00",
+          "stop": "2026-11-12T09:25:00+03:00",
+          "title": "Глубокие воды.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T09:25:00+03:00",
+          "stop": "2026-11-12T11:10:00+03:00",
+          "title": "Плохая девочка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T11:10:00+03:00",
+          "stop": "2026-11-12T12:30:00+03:00",
+          "title": "Цена соблазна.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T12:30:00+03:00",
+          "stop": "2026-11-12T14:15:00+03:00",
+          "title": "Хитмен. Последнее дело.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T14:15:00+03:00",
+          "stop": "2026-11-12T15:55:00+03:00",
+          "title": "Дорога отчаяния.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T15:55:00+03:00",
+          "stop": "2026-11-12T17:15:00+03:00",
+          "title": "Время расплаты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:15:00+03:00",
+          "stop": "2026-11-12T18:55:00+03:00",
+          "title": "Пять фунтов искупления.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T18:55:00+03:00",
+          "stop": "2026-11-12T21:00:00+03:00",
+          "title": "Стальная хватка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T21:00:00+03:00",
+          "stop": "2026-11-12T22:50:00+03:00",
+          "title": "Гигант.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T22:50:00+03:00",
+          "stop": "2026-11-13T00:35:00+03:00",
+          "title": "Джойка.",
           "description": "L",
           "category": null
         }
