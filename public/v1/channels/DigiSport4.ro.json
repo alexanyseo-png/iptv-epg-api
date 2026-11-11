@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
-  "programmeCount": 43,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T01:00:00+03:00",
-          "stop": "2026-11-10T02:45:00+03:00",
-          "title": "Serie A: Inter-Como Etapa 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T02:45:00+03:00",
-          "stop": "2026-11-10T04:30:00+03:00",
-          "title": "Liga Portugal: Estrela Amadora-Benfica Etapa 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T04:30:00+03:00",
-          "stop": "2026-11-10T06:15:00+03:00",
-          "title": "Serie A: Genoa-Milan Etapa 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T06:15:00+03:00",
-          "stop": "2026-11-10T08:00:00+03:00",
-          "title": "Bundesliga: Borussia Dortmund-Elversberg Etapa 9",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:00:00+03:00",
-          "stop": "2026-11-10T09:00:00+03:00",
-          "title": "Bundesliga: Rezumat Etapa 9",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T09:00:00+03:00",
-          "stop": "2026-11-10T10:45:00+03:00",
-          "title": "Liga a 2-a: Politehnica Timisoara-CSM Resita Etapa 13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:45:00+03:00",
-          "stop": "2026-11-10T12:45:00+03:00",
-          "title": "Liga a 2-a: CS Dinamo-SCM Rm. Valcea Etapa 13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T12:45:00+03:00",
-          "stop": "2026-11-10T14:30:00+03:00",
-          "title": "Superliga: Botosani-Otelul Galati Etapa 15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:30:00+03:00",
-          "stop": "2026-11-10T16:30:00+03:00",
-          "title": "Bundesliga: Mainz-Bayern Munchen Etapa 9",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T16:30:00+03:00",
-          "stop": "2026-11-10T18:15:00+03:00",
-          "title": "Serie A: Inter-Como Etapa 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T18:15:00+03:00",
-          "stop": "2026-11-10T20:15:00+03:00",
-          "title": "La Liga: Valencia-Real Madrid Etapa 12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T20:15:00+03:00",
-          "stop": "2026-11-10T22:00:00+03:00",
-          "title": "Etapa 4 Rugby: Scotia-Noua Zeelanda Nations Championship",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T22:00:00+03:00",
-          "stop": "2026-11-11T01:00:00+03:00",
-          "title": "Patinaj Artistic: ISU Grand Prix Shenzen Ice Dance (Rhythm Dance) / Women (Short Program)",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
@@ -322,6 +226,95 @@
         {
           "start": "2026-11-12T23:00:00+03:00",
           "stop": "2026-11-13T00:45:00+03:00",
+          "title": "⋗ Tenis: WTA Finals Indian Wells",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T00:45:00+03:00",
+          "stop": "2026-11-13T02:45:00+03:00",
+          "title": "Etapa 5 Nations League: Turcia-Belgia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T02:45:00+03:00",
+          "stop": "2026-11-13T04:30:00+03:00",
+          "title": "Etapa 5 Nations League: Cehia-Spania Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T04:30:00+03:00",
+          "stop": "2026-11-13T06:15:00+03:00",
+          "title": "Etapa 5 Nations League: Armenia-Cipru Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T06:15:00+03:00",
+          "stop": "2026-11-13T09:45:00+03:00",
+          "title": "Etapa 5 Nations League: Anglia-Croatia Grupe",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T09:45:00+03:00",
+          "stop": "2026-11-13T11:30:00+03:00",
+          "title": "Nations League: Armenia-Cipru Grupe (etapa 5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T11:30:00+03:00",
+          "stop": "2026-11-13T13:30:00+03:00",
+          "title": "Nations League: Turcia-Belgia Grupe (etapa 5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T13:30:00+03:00",
+          "stop": "2026-11-13T15:15:00+03:00",
+          "title": "Nations League: Anglia-Croatia Grupe (etapa 5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T15:15:00+03:00",
+          "stop": "2026-11-13T17:15:00+03:00",
+          "title": "Nations League: Cehia-Spania Grupe (etapa 5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T17:15:00+03:00",
+          "stop": "2026-11-13T19:00:00+03:00",
+          "title": "Nations League: Italia-Franta Grupe (etapa 5)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T19:00:00+03:00",
+          "stop": "2026-11-13T21:00:00+03:00",
+          "title": "⋗ Tenis: ATP Stockholm Semifinale",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:00:00+03:00",
+          "stop": "2026-11-13T23:00:00+03:00",
+          "title": "Tenis",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T23:00:00+03:00",
+          "stop": "2026-11-14T01:00:00+03:00",
           "title": "⋗ Tenis: WTA Finals Indian Wells",
           "description": "L",
           "category": null

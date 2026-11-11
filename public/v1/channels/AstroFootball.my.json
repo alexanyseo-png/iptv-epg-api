@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
-  "programmeCount": 39,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T01:00:00+03:00",
-          "stop": "2026-11-10T03:00:00+03:00",
-          "title": "Dutch: PSV vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T03:00:00+03:00",
-          "stop": "2026-11-10T05:00:00+03:00",
-          "title": "AFC Elite: Al Sadd vs Al Ahli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T05:00:00+03:00",
-          "stop": "2026-11-10T07:00:00+03:00",
-          "title": "(D) FA Cup: Cray vs Stockport",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T07:00:00+03:00",
-          "stop": "2026-11-10T08:00:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:00:00+03:00",
-          "stop": "2026-11-10T10:00:00+03:00",
-          "title": "(D) FA Cup: Wimborne vs Crawley",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:00:00+03:00",
-          "stop": "2026-11-10T10:30:00+03:00",
-          "title": "Emirates FA Cup: RD1 Preview",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:30:00+03:00",
-          "stop": "2026-11-10T12:30:00+03:00",
-          "title": "(D) FA Cup: Oldham vs Sheffield",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T12:30:00+03:00",
-          "stop": "2026-11-10T13:00:00+03:00",
-          "title": "Serie A 2026/27: Full Impact Rd10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T13:00:00+03:00",
-          "stop": "2026-11-10T15:00:00+03:00",
-          "title": "(D) FA Cup: Plymouth vs Berkhamsted",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T15:00:00+03:00",
-          "stop": "2026-11-10T17:00:00+03:00",
-          "title": "Serie A: Cagliari vs Frosinone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T17:00:00+03:00",
-          "stop": "2026-11-10T19:00:00+03:00",
-          "title": "Serie A: Parma vs Bologna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T19:00:00+03:00",
-          "stop": "2026-11-10T21:00:00+03:00",
-          "title": "Serie A: Roma vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:00:00+03:00",
-          "stop": "2026-11-10T23:00:00+03:00",
-          "title": "Serie A: Venezia vs Udinese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T23:00:00+03:00",
-          "stop": "2026-11-11T01:00:00+03:00",
-          "title": "DFB: Bayern vs Magdeburg",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
@@ -295,6 +192,102 @@
           "start": "2026-11-12T23:00:00+03:00",
           "stop": "2026-11-13T01:00:00+03:00",
           "title": "Dutch: PSV vs Willem II",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T01:00:00+03:00",
+          "stop": "2026-11-13T03:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Fiorentina",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T03:00:00+03:00",
+          "stop": "2026-11-13T05:00:00+03:00",
+          "title": "Serie A: Atalanta vs Parma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T05:00:00+03:00",
+          "stop": "2026-11-13T07:00:00+03:00",
+          "title": "DFB: Leverkusen vs Nurnberg",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T07:00:00+03:00",
+          "stop": "2026-11-13T09:00:00+03:00",
+          "title": "DFB: Paderborn vs Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T09:00:00+03:00",
+          "stop": "2026-11-13T10:00:00+03:00",
+          "title": "Emirates FA Cup: RD1 Review",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:00:00+03:00",
+          "stop": "2026-11-13T12:00:00+03:00",
+          "title": "Dutch: Feyenoord vs Alkmaar",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T12:00:00+03:00",
+          "stop": "2026-11-13T14:00:00+03:00",
+          "title": "Dutch: Ajax vs NEC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T14:00:00+03:00",
+          "stop": "2026-11-13T16:00:00+03:00",
+          "title": "Dutch: PSV vs Heerenveen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T16:00:00+03:00",
+          "stop": "2026-11-13T18:00:00+03:00",
+          "title": "DFB: Osnabruck vs Bayern",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T18:00:00+03:00",
+          "stop": "2026-11-13T20:00:00+03:00",
+          "title": "DFB: Rostock vs Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T20:00:00+03:00",
+          "stop": "2026-11-13T22:00:00+03:00",
+          "title": "DFB: St.Tonis vs Eintracht",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T22:00:00+03:00",
+          "stop": "2026-11-13T23:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T23:00:00+03:00",
+          "stop": "2026-11-14T01:00:00+03:00",
+          "title": "Kirin: Japan vs Uruguay",
           "description": "L",
           "category": null
         }

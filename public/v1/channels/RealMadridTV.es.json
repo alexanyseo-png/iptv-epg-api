@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 36,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T01:00:00+03:00",
-          "stop": "2026-11-10T02:55:00+03:00",
-          "title": "Cazador de medianoche",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T02:55:00+03:00",
-          "stop": "2026-11-10T04:50:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T04:50:00+03:00",
-          "stop": "2026-11-10T06:45:00+03:00",
-          "title": "LALIGA EA SPORTS (T26/27): Real Madrid – Sevilla FC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T06:45:00+03:00",
-          "stop": "2026-11-10T08:00:00+03:00",
-          "title": "Bernabéu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:00:00+03:00",
-          "stop": "2026-11-10T10:00:00+03:00",
-          "title": "Historia que tú hiciste: La Decimocuarta. Final Champions League 2022. Liverpool – Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:00:00+03:00",
-          "stop": "2026-11-10T10:15:00+03:00",
-          "title": "Aprende inglés con Vaughan en Realmadrid TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:15:00+03:00",
-          "stop": "2026-11-10T14:15:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:15:00+03:00",
-          "stop": "2026-11-10T16:30:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T16:30:00+03:00",
-          "stop": "2026-11-10T17:35:00+03:00",
-          "title": "Conecta Informativo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T17:35:00+03:00",
-          "stop": "2026-11-10T19:30:00+03:00",
-          "title": "El corsario",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T19:30:00+03:00",
-          "stop": "2026-11-10T21:30:00+03:00",
-          "title": "Ciudad Real Madrid",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:30:00+03:00",
-          "stop": "2026-11-10T23:30:00+03:00",
-          "title": "Real Madrid Conecta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T23:30:00+03:00",
-          "stop": "2026-11-11T01:20:00+03:00",
-          "title": "Fuga suicida",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
@@ -126,9 +30,250 @@
           "category": null
         },
         {
-          "start": "2026-11-11T07:30:00+03:00",
-          "stop": "2026-11-11T08:30:00+03:00",
+          "start": "2026-11-11T07:20:00+03:00",
+          "stop": "2026-11-11T10:00:00+03:00",
+          "title": "Historia que tú hiciste: La Décima: Real Madrid-Atlético de Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T10:00:00+03:00",
+          "stop": "2026-11-11T10:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T10:15:00+03:00",
+          "stop": "2026-11-11T10:45:00+03:00",
+          "title": "30 minutos (T21/22): La Decimocuarta. Final Champions 21/22. Liverpool-R. Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T10:45:00+03:00",
+          "stop": "2026-11-11T12:35:00+03:00",
+          "title": "LALIGA EA SPORTS (T26/27): FC Barcelona – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T12:35:00+03:00",
+          "stop": "2026-11-11T14:35:00+03:00",
+          "title": "LALIGA EA SPORTS (T26/27): R. Racing Club – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T14:35:00+03:00",
+          "stop": "2026-11-11T16:30:00+03:00",
+          "title": "UEFA Champions League (T26/27): AEK Atenas – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T16:30:00+03:00",
+          "stop": "2026-11-11T17:35:00+03:00",
+          "title": "Conecta Informativo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T17:35:00+03:00",
+          "stop": "2026-11-11T19:35:00+03:00",
+          "title": "Mi nombre es Thomas",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T19:35:00+03:00",
+          "stop": "2026-11-11T21:30:00+03:00",
+          "title": "LALIGA EA SPORTS (T26/27): Valencia CF – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T21:30:00+03:00",
+          "stop": "2026-11-11T23:30:00+03:00",
+          "title": "Real Madrid Conecta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-11T23:30:00+03:00",
+          "stop": "2026-11-12T01:20:00+03:00",
+          "title": "Rompiendo las reglas 3",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "programs": [
+        {
+          "start": "2026-11-12T01:20:00+03:00",
+          "stop": "2026-11-12T03:30:00+03:00",
+          "title": "Red Scorpion, programado para destruir",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T03:30:00+03:00",
+          "stop": "2026-11-12T05:25:00+03:00",
+          "title": "LALIGA EA SPORTS (T26/27): Valencia CF – Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T05:25:00+03:00",
+          "stop": "2026-11-12T08:10:00+03:00",
+          "title": "Historia que tú hiciste: Champions League 15/16: La Undécima: Real Madrid-Atlético de Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T08:10:00+03:00",
+          "stop": "2026-11-12T10:00:00+03:00",
+          "title": "Liga Endesa (T26/27): Real Madrid – UCAM Murcia",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:00:00+03:00",
+          "stop": "2026-11-12T10:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T10:15:00+03:00",
+          "stop": "2026-11-12T14:15:00+03:00",
           "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T14:15:00+03:00",
+          "stop": "2026-11-12T16:30:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T16:30:00+03:00",
+          "stop": "2026-11-12T17:35:00+03:00",
+          "title": "Conecta Informativo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T17:35:00+03:00",
+          "stop": "2026-11-12T19:30:00+03:00",
+          "title": "Warbus II Afganistán",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T19:30:00+03:00",
+          "stop": "2026-11-12T21:30:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T21:30:00+03:00",
+          "stop": "2026-11-12T23:30:00+03:00",
+          "title": "Real Madrid Conecta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-12T23:30:00+03:00",
+          "stop": "2026-11-13T01:30:00+03:00",
+          "title": "Agentes secretos",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T01:30:00+03:00",
+          "stop": "2026-11-13T03:45:00+03:00",
+          "title": "El señor de la guerra (Lord of War)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T03:45:00+03:00",
+          "stop": "2026-11-13T07:45:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T07:45:00+03:00",
+          "stop": "2026-11-13T10:00:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:00:00+03:00",
+          "stop": "2026-11-13T10:15:00+03:00",
+          "title": "Aprende inglés con Vaughan en Realmadrid TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:15:00+03:00",
+          "stop": "2026-11-13T14:15:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T14:15:00+03:00",
+          "stop": "2026-11-13T16:30:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T16:30:00+03:00",
+          "stop": "2026-11-13T17:35:00+03:00",
+          "title": "Conecta Informativo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T17:35:00+03:00",
+          "stop": "2026-11-13T19:40:00+03:00",
+          "title": "Simbad el Marino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T19:40:00+03:00",
+          "stop": "2026-11-13T21:30:00+03:00",
+          "title": "Ciudad Real Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:30:00+03:00",
+          "stop": "2026-11-13T23:30:00+03:00",
+          "title": "Real Madrid Conecta",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T23:30:00+03:00",
+          "stop": "2026-11-14T01:15:00+03:00",
+          "title": "Manos torpes",
           "description": "L",
           "category": null
         }

@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
-  "programmeCount": 33,
+  "programmeCount": 34,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T00:00:00+03:00",
-          "stop": "2026-11-10T08:00:00+03:00",
-          "title": "Мотоспорт. MotoGP. 2026 с-н",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:00:00+03:00",
-          "stop": "2026-11-10T10:00:00+03:00",
-          "title": "Авто року 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:00:00+03:00",
-          "stop": "2026-11-10T12:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T12:00:00+03:00",
-          "stop": "2026-11-10T13:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T13:00:00+03:00",
-          "stop": "2026-11-10T15:00:00+03:00",
-          "title": "ByCar батл",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T15:00:00+03:00",
-          "stop": "2026-11-10T18:00:00+03:00",
-          "title": "Бойові сили",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T18:00:00+03:00",
-          "stop": "2026-11-10T19:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T19:00:00+03:00",
-          "stop": "2026-11-10T21:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:00:00+03:00",
-          "stop": "2026-11-10T22:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T22:00:00+03:00",
-          "stop": "2026-11-11T00:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
@@ -253,6 +178,88 @@
           "start": "2026-11-12T22:00:00+03:00",
           "stop": "2026-11-13T00:00:00+03:00",
           "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T00:00:00+03:00",
+          "stop": "2026-11-13T08:00:00+03:00",
+          "title": "Бойові сили",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T08:00:00+03:00",
+          "stop": "2026-11-13T10:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:00:00+03:00",
+          "stop": "2026-11-13T12:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T12:00:00+03:00",
+          "stop": "2026-11-13T13:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T13:00:00+03:00",
+          "stop": "2026-11-13T14:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T14:00:00+03:00",
+          "stop": "2026-11-13T16:00:00+03:00",
+          "title": "ByCar батл",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T16:00:00+03:00",
+          "stop": "2026-11-13T17:00:00+03:00",
+          "title": "Адреналін Драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T17:00:00+03:00",
+          "stop": "2026-11-13T20:00:00+03:00",
+          "title": "Історії автомобілів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T20:00:00+03:00",
+          "stop": "2026-11-13T21:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:00:00+03:00",
+          "stop": "2026-11-13T22:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T22:00:00+03:00",
+          "stop": "2026-11-14T00:00:00+03:00",
+          "title": "Сімейний тест-драйв",
           "description": "L",
           "category": null
         }

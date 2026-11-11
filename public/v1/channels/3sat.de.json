@@ -8,335 +8,64 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
-  "programmeCount": 118,
+  "programmeCount": 122,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T00:00:00+03:00",
-          "stop": "2026-11-10T00:29:00+03:00",
-          "title": "ZIB 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T00:29:00+03:00",
-          "stop": "2026-11-10T02:17:00+03:00",
-          "title": "Soldaten des Lichts.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T02:17:00+03:00",
-          "stop": "2026-11-10T04:11:00+03:00",
-          "title": "Unrecht und Widerstand - Romani Rose und die Bürgerrechtsbewegung.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T04:11:00+03:00",
-          "stop": "2026-11-10T04:40:00+03:00",
-          "title": "37°: Euer Schmutz ist unser Job.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T04:40:00+03:00",
-          "stop": "2026-11-10T05:06:00+03:00",
-          "title": "10 vor 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T05:06:00+03:00",
-          "stop": "2026-11-10T06:06:00+03:00",
-          "title": "Caren Miosga - Trumps Niederlage - Chance oder Risiko für uns?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T06:06:00+03:00",
-          "stop": "2026-11-10T06:59:00+03:00",
-          "title": "Rockpalast Festival - Engin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T06:59:00+03:00",
-          "stop": "2026-11-10T08:15:00+03:00",
-          "title": "Rockpalast Festival - Personal Trainer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:15:00+03:00",
-          "stop": "2026-11-10T08:20:00+03:00",
-          "title": "Sendepause.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T08:20:00+03:00",
-          "stop": "2026-11-10T09:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T09:00:00+03:00",
-          "stop": "2026-11-10T09:30:00+03:00",
-          "title": "NANO spezial: Macht die Klimapolitik endlich ernst?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T09:30:00+03:00",
-          "stop": "2026-11-10T10:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:00:00+03:00",
-          "stop": "2026-11-10T10:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:05:00+03:00",
-          "stop": "2026-11-10T10:30:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:30:00+03:00",
-          "stop": "2026-11-10T10:33:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T10:33:00+03:00",
-          "stop": "2026-11-10T11:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T11:00:00+03:00",
-          "stop": "2026-11-10T11:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T11:05:00+03:00",
-          "stop": "2026-11-10T11:45:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T11:45:00+03:00",
-          "stop": "2026-11-10T12:20:00+03:00",
-          "title": "NANO spezial: Macht die Klimapolitik endlich ernst?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T12:20:00+03:00",
-          "stop": "2026-11-10T13:00:00+03:00",
-          "title": "Bhutan - Dem Himmel so nah - Eine Reise in den unbekannten Süden.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T13:00:00+03:00",
-          "stop": "2026-11-10T13:45:00+03:00",
-          "title": "Verwunschene Tempel und schwimmende Dörfer - Faszinierendes Kambodscha.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T13:45:00+03:00",
-          "stop": "2026-11-10T14:15:00+03:00",
-          "title": "Landfrauenküche. S: 15 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:15:00+03:00",
-          "stop": "2026-11-10T14:45:00+03:00",
-          "title": "Servicezeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:45:00+03:00",
-          "stop": "2026-11-10T15:15:00+03:00",
-          "title": "Natur im Garten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T15:15:00+03:00",
-          "stop": "2026-11-10T15:55:00+03:00",
-          "title": "Die Großkatzen der Masai Mara. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T15:55:00+03:00",
-          "stop": "2026-11-10T16:40:00+03:00",
-          "title": "Die Großkatzen der Masai Mara. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T16:40:00+03:00",
-          "stop": "2026-11-10T17:25:00+03:00",
-          "title": "Freche Viecher. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T17:25:00+03:00",
-          "stop": "2026-11-10T18:15:00+03:00",
-          "title": "Freche Viecher. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T18:15:00+03:00",
-          "stop": "2026-11-10T19:00:00+03:00",
-          "title": "Freche Viecher. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T19:00:00+03:00",
-          "stop": "2026-11-10T19:45:00+03:00",
-          "title": "Blaues Wunder Pazifik. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T19:45:00+03:00",
-          "stop": "2026-11-10T20:30:00+03:00",
-          "title": "Blaues Wunder Pazifik. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T20:30:00+03:00",
-          "stop": "2026-11-10T21:00:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:00:00+03:00",
-          "stop": "2026-11-10T21:18:00+03:00",
-          "title": "heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:18:00+03:00",
-          "stop": "2026-11-10T21:20:00+03:00",
-          "title": "3sat-Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T21:20:00+03:00",
-          "stop": "2026-11-10T22:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T22:00:00+03:00",
-          "stop": "2026-11-10T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T22:15:00+03:00",
-          "stop": "2026-11-10T23:45:00+03:00",
-          "title": "Vienna Blood. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T23:45:00+03:00",
-          "stop": "2026-11-11T00:00:00+03:00",
-          "title": "kinokino - Das Filmmagazin.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
         {
           "start": "2026-11-11T00:00:00+03:00",
-          "stop": "2026-11-11T00:25:00+03:00",
+          "stop": "2026-11-11T00:29:00+03:00",
           "title": "ZIB 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T00:25:00+03:00",
-          "stop": "2026-11-11T03:20:00+03:00",
+          "start": "2026-11-11T00:29:00+03:00",
+          "stop": "2026-11-11T03:22:00+03:00",
           "title": "Gambling, Gods and LSD.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T03:20:00+03:00",
-          "stop": "2026-11-11T03:55:00+03:00",
+          "start": "2026-11-11T03:22:00+03:00",
+          "stop": "2026-11-11T03:57:00+03:00",
           "title": "Russlands Zukunft - Leben in der Ungewissheit - Russlands Zukunft - Leben in der Ungewissheit (Teil 3).",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T03:55:00+03:00",
-          "stop": "2026-11-11T04:20:00+03:00",
+          "start": "2026-11-11T03:57:00+03:00",
+          "stop": "2026-11-11T04:23:00+03:00",
           "title": "10 vor 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T04:20:00+03:00",
-          "stop": "2026-11-11T05:40:00+03:00",
+          "start": "2026-11-11T04:23:00+03:00",
+          "stop": "2026-11-11T05:39:00+03:00",
           "title": "Arena - Ihre Fragen an Steffen Bilger.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T05:40:00+03:00",
-          "stop": "2026-11-11T07:10:00+03:00",
+          "start": "2026-11-11T05:39:00+03:00",
+          "stop": "2026-11-11T07:09:00+03:00",
           "title": "Vienna Blood. S: 1 / Ep: 3.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T07:10:00+03:00",
-          "stop": "2026-11-11T07:50:00+03:00",
+          "start": "2026-11-11T07:09:00+03:00",
+          "stop": "2026-11-11T07:53:00+03:00",
           "title": "Blaues Wunder Pazifik. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-11T07:50:00+03:00",
+          "start": "2026-11-11T07:53:00+03:00",
           "stop": "2026-11-11T08:10:00+03:00",
           "title": "Sansibar - Afrikas wilde Schönheit.",
           "description": "L",
@@ -848,6 +577,305 @@
           "start": "2026-11-12T23:00:00+03:00",
           "stop": "2026-11-13T00:00:00+03:00",
           "title": "NANO Talk - Klimakrise - Unser neues Normal?",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T00:00:00+03:00",
+          "stop": "2026-11-13T00:25:00+03:00",
+          "title": "ZIB 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T00:25:00+03:00",
+          "stop": "2026-11-13T00:55:00+03:00",
+          "title": "auslandsjournal extra - ZDF-Korrespondenten berichten aus aller Welt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T00:55:00+03:00",
+          "stop": "2026-11-13T01:45:00+03:00",
+          "title": "Hanf ohne High.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T01:45:00+03:00",
+          "stop": "2026-11-13T02:20:00+03:00",
+          "title": "WeltWeit - Süßer Trost, bittere Folgen. Wie Zucker den Alltag bestimmt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T02:20:00+03:00",
+          "stop": "2026-11-13T02:45:00+03:00",
+          "title": "10 vor 10.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T02:45:00+03:00",
+          "stop": "2026-11-13T04:00:00+03:00",
+          "title": "maischberger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T04:00:00+03:00",
+          "stop": "2026-11-13T04:30:00+03:00",
+          "title": "Die Nordreportage: Notruf auf Fehmarn - Die Retter von der Sonneninsel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T04:30:00+03:00",
+          "stop": "2026-11-13T04:50:00+03:00",
+          "title": "Spektakuläre Bergbahnen der Schweiz II. S: 1 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T04:50:00+03:00",
+          "stop": "2026-11-13T05:40:00+03:00",
+          "title": "Spektakuläre Bergbahnen der Schweiz II. S: 1 / Ep: 7.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T05:40:00+03:00",
+          "stop": "2026-11-13T06:30:00+03:00",
+          "title": "Winterwunderland Schweiz per Bahn - \"Glacier-Express\" - Der Luxuriöse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T06:30:00+03:00",
+          "stop": "2026-11-13T07:20:00+03:00",
+          "title": "Winterwunderland Schweiz per Bahn - \"Bernina-Bahn\" - Die Gegensätzliche.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T07:20:00+03:00",
+          "stop": "2026-11-13T08:15:00+03:00",
+          "title": "Winterwunderland Schweiz per Bahn - \"Arosa-Bahn\" - Die Wandelbare.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T08:15:00+03:00",
+          "stop": "2026-11-13T08:20:00+03:00",
+          "title": "Sendepause.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T08:20:00+03:00",
+          "stop": "2026-11-13T09:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T09:00:00+03:00",
+          "stop": "2026-11-13T09:30:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T09:30:00+03:00",
+          "stop": "2026-11-13T10:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:00:00+03:00",
+          "stop": "2026-11-13T10:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:05:00+03:00",
+          "stop": "2026-11-13T10:30:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:30:00+03:00",
+          "stop": "2026-11-13T10:33:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:33:00+03:00",
+          "stop": "2026-11-13T11:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T11:00:00+03:00",
+          "stop": "2026-11-13T11:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T11:05:00+03:00",
+          "stop": "2026-11-13T11:45:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T11:45:00+03:00",
+          "stop": "2026-11-13T12:25:00+03:00",
+          "title": "nano - Die Welt von morgen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T12:25:00+03:00",
+          "stop": "2026-11-13T13:05:00+03:00",
+          "title": "Rundschau - Das Schweizer Politmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T13:05:00+03:00",
+          "stop": "2026-11-13T13:15:00+03:00",
+          "title": "Bahnhöfe dieser Welt - Nächster Halt Zukunft. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T13:15:00+03:00",
+          "stop": "2026-11-13T13:50:00+03:00",
+          "title": "Russlands Zukunft - Leben in der Ungewissheit - Russlands Zukunft - Leben in der Ungewissheit (Teil 3).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T13:50:00+03:00",
+          "stop": "2026-11-13T14:20:00+03:00",
+          "title": "Sehen statt Hören - Ein Wochenmagazin für Hörgeschädigte.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T14:20:00+03:00",
+          "stop": "2026-11-13T14:50:00+03:00",
+          "title": "Leben mit Downsyndrom - Janusch und seine Familie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T14:50:00+03:00",
+          "stop": "2026-11-13T15:20:00+03:00",
+          "title": "Against all Gods. S: 2 / Ep: 9.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T15:20:00+03:00",
+          "stop": "2026-11-13T15:50:00+03:00",
+          "title": "Queensland - Australiens Sonnenstaat.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T15:50:00+03:00",
+          "stop": "2026-11-13T16:35:00+03:00",
+          "title": "West-Sumatra - Indonesiens grünes Paradies. S: 1 / Ep: 48.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T16:35:00+03:00",
+          "stop": "2026-11-13T17:20:00+03:00",
+          "title": "Süd-Vietnam - Naturparadies am Mekong. S: 1 / Ep: 47.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T17:20:00+03:00",
+          "stop": "2026-11-13T18:00:00+03:00",
+          "title": "Entlang der Happiness Road - In den Bergen Vietnams.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T18:00:00+03:00",
+          "stop": "2026-11-13T18:45:00+03:00",
+          "title": "Kambodschas größter Regenwald - Die Rückkehr der Königsschildkröte.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T18:45:00+03:00",
+          "stop": "2026-11-13T19:30:00+03:00",
+          "title": "Kambodschas größter Regenwald - Die Orchideen der Kardamomberge.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T19:30:00+03:00",
+          "stop": "2026-11-13T20:15:00+03:00",
+          "title": "Die gefährlichsten Bahnstrecken der Welt: Der Rameswaram-Express. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T20:15:00+03:00",
+          "stop": "2026-11-13T21:00:00+03:00",
+          "title": "Game of Drones - Was fliegt da am Himmel?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:00:00+03:00",
+          "stop": "2026-11-13T21:18:00+03:00",
+          "title": "heute.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:18:00+03:00",
+          "stop": "2026-11-13T21:20:00+03:00",
+          "title": "3sat-Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T21:20:00+03:00",
+          "stop": "2026-11-13T22:00:00+03:00",
+          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T22:00:00+03:00",
+          "stop": "2026-11-13T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T22:15:00+03:00",
+          "stop": "2026-11-14T00:00:00+03:00",
+          "title": "Honecker und der Pastor.",
           "description": "L",
           "category": null
         }

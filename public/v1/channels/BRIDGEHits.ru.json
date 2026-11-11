@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-10T19:46:31.772598+00:00",
+  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
   "available": true,
   "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-11-10",
-      "programs": [
-        {
-          "start": "2026-11-10T00:00:00+03:00",
-          "stop": "2026-11-10T11:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T11:00:00+03:00",
-          "stop": "2026-11-10T11:30:00+03:00",
-          "title": "Горячая десятка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T11:30:00+03:00",
-          "stop": "2026-11-10T14:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:00:00+03:00",
-          "stop": "2026-11-10T14:30:00+03:00",
-          "title": "Лайм Тайм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-10T14:30:00+03:00",
-          "stop": "2026-11-11T00:00:00+03:00",
-          "title": "Горячие хиты!",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-11",
       "programs": [
@@ -126,6 +86,46 @@
         {
           "start": "2026-11-12T14:30:00+03:00",
           "stop": "2026-11-13T00:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "programs": [
+        {
+          "start": "2026-11-13T00:00:00+03:00",
+          "stop": "2026-11-13T10:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:00:00+03:00",
+          "stop": "2026-11-13T10:30:00+03:00",
+          "title": "Горячая десятка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T10:30:00+03:00",
+          "stop": "2026-11-13T12:00:00+03:00",
+          "title": "Горячие хиты!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T12:00:00+03:00",
+          "stop": "2026-11-13T12:30:00+03:00",
+          "title": "Лайм Тайм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-13T12:30:00+03:00",
+          "stop": "2026-11-14T00:00:00+03:00",
           "title": "Горячие хиты!",
           "description": "L",
           "category": null
