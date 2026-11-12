@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
+  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
   "available": true,
-  "programmeCount": 38,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-11-11",
-      "programs": [
-        {
-          "start": "2026-11-11T00:55:00+03:00",
-          "stop": "2026-11-11T03:00:00+03:00",
-          "title": "Ice Hockey: NHL. Bruins – Panthers (National Hockey League), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T03:00:00+03:00",
-          "stop": "2026-11-11T05:00:00+03:00",
-          "title": "Basketball: NCAA. Champions Classic Michigan State – Duke (NCAA Men's Division I Basketball), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T05:00:00+03:00",
-          "stop": "2026-11-11T05:30:00+03:00",
-          "title": "NBA Action (NBA Action), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T05:30:00+03:00",
-          "stop": "2026-11-11T07:30:00+03:00",
-          "title": "Basketball: NCAA. Champions Classic Kansas – Kentucky (NCAA Men's Division I Basketball), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T07:30:00+03:00",
-          "stop": "2026-11-11T08:00:00+03:00",
-          "title": "Motorsport: Fastzone Magazines (Fastzone Magazine), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T08:00:00+03:00",
-          "stop": "2026-11-11T10:00:00+03:00",
-          "title": "Football: Serie A. Roma – Sassuolo (Calcio: Campionato Italiano Serie A), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T10:00:00+03:00",
-          "stop": "2026-11-11T11:00:00+03:00",
-          "title": "FIA World Rally Championship (FIA World Rally Championship), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T11:00:00+03:00",
-          "stop": "2026-11-11T13:10:00+03:00",
-          "title": "BASKET: NBA. Celtics – 76ers (NBA Basketball), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T13:10:00+03:00",
-          "stop": "2026-11-11T15:20:00+03:00",
-          "title": "BASKET: NBA. Thunder – Trail Blazers (NBA Basketball), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T15:20:00+03:00",
-          "stop": "2026-11-11T17:20:00+03:00",
-          "title": "Ice Hockey: Deutschland Cup. Germany – Latvia (Ice hockey: European Cup of Nations), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T17:20:00+03:00",
-          "stop": "2026-11-11T19:20:00+03:00",
-          "title": "Ice Hockey: Deutschland Cup. Latvia – Austria (Ice hockey: European Cup of Nations), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T19:20:00+03:00",
-          "stop": "2026-11-11T21:40:00+03:00",
-          "title": "Basketball: Eurocup. Siauliai – Tenerife (Basketball: EuroCup), 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T21:40:00+03:00",
-          "stop": "2026-11-12T00:15:00+03:00",
-          "title": "Ice Hockey: Switzerland National League. Lugano – Bern (National League), 2026",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-12",
       "programs": [
@@ -288,6 +192,81 @@
           "start": "2026-11-13T22:15:00+03:00",
           "stop": "2026-11-14T00:30:00+03:00",
           "title": "Basketball: EuroLeague. ASVEL – Besiktas (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "programs": [
+        {
+          "start": "2026-11-14T00:30:00+03:00",
+          "stop": "2026-11-14T02:30:00+03:00",
+          "title": "Basketball: EuroLeague. Anadolu Efes – Virtus (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T02:30:00+03:00",
+          "stop": "2026-11-14T05:50:00+03:00",
+          "title": "BASKET: NBA. Thunder – Trail Blazers (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T05:50:00+03:00",
+          "stop": "2026-11-14T08:00:00+03:00",
+          "title": "BASKET: NBA. Cavaliers – Knicks (NBA Basketball), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T08:00:00+03:00",
+          "stop": "2026-11-14T10:00:00+03:00",
+          "title": "Basketball: EuroLeague. Olympiacos – Dubai (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T10:00:00+03:00",
+          "stop": "2026-11-14T12:50:00+03:00",
+          "title": "FIGHT SPORTS: One Championship. ONE Friday Fights 178 (ONE Championship), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T12:50:00+03:00",
+          "stop": "2026-11-14T15:00:00+03:00",
+          "title": "Rugby: Nations Championship. France – South Africa (Rugby: Nations Championship), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T15:00:00+03:00",
+          "stop": "2026-11-14T17:00:00+03:00",
+          "title": "Tennis: ATP 250 Stockholm. Singles Final (Tennis: ATP 250 Stockholm Open), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T17:00:00+03:00",
+          "stop": "2026-11-14T19:00:00+03:00",
+          "title": "Basketball: EuroLeague. Olimpia Milano – Zalgiris Kaunas (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T19:00:00+03:00",
+          "stop": "2026-11-14T21:05:00+03:00",
+          "title": "Basketball: EuroLeague. Panathinaikos – FC Barcelona (Basketball: EuroLeague), 2026",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T21:05:00+03:00",
+          "stop": "2026-11-15T00:00:00+03:00",
+          "title": "Ice Hockey: NHL. Kraken – Hurricanes (National Hockey League), 2026",
           "description": "L",
           "category": null
         }

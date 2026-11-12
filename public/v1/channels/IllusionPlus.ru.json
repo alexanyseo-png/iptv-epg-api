@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
+  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
   "available": true,
-  "programmeCount": 46,
+  "programmeCount": 45,
   "days": [
-    {
-      "date": "2026-11-11",
-      "programs": [
-        {
-          "start": "2026-11-11T01:00:00+03:00",
-          "stop": "2026-11-11T02:35:00+03:00",
-          "title": "Неудержимые.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T02:35:00+03:00",
-          "stop": "2026-11-11T05:05:00+03:00",
-          "title": "Цель номер один.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T05:05:00+03:00",
-          "stop": "2026-11-11T06:50:00+03:00",
-          "title": "Шаг вперёд 5: Всё или ничего.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T06:50:00+03:00",
-          "stop": "2026-11-11T08:15:00+03:00",
-          "title": "Девушка Миллера.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T08:15:00+03:00",
-          "stop": "2026-11-11T09:45:00+03:00",
-          "title": "Неудержимые 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T09:45:00+03:00",
-          "stop": "2026-11-11T11:40:00+03:00",
-          "title": "Боги Египта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T11:40:00+03:00",
-          "stop": "2026-11-11T13:10:00+03:00",
-          "title": "История семьи Блум.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T13:10:00+03:00",
-          "stop": "2026-11-11T14:40:00+03:00",
-          "title": "Пророк.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T14:40:00+03:00",
-          "stop": "2026-11-11T16:15:00+03:00",
-          "title": "Паранойя.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T16:15:00+03:00",
-          "stop": "2026-11-11T17:50:00+03:00",
-          "title": "Жасмин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T17:50:00+03:00",
-          "stop": "2026-11-11T19:15:00+03:00",
-          "title": "Любовный переплёт.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T19:15:00+03:00",
-          "stop": "2026-11-11T20:30:00+03:00",
-          "title": "Пошумим!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T20:30:00+03:00",
-          "stop": "2026-11-11T21:55:00+03:00",
-          "title": "Сапожник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T21:55:00+03:00",
-          "stop": "2026-11-11T23:10:00+03:00",
-          "title": "Жених напрокат.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T23:10:00+03:00",
-          "stop": "2026-11-12T00:35:00+03:00",
-          "title": "Киллер в отставке.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-12",
       "programs": [
@@ -344,6 +234,109 @@
           "start": "2026-11-13T23:40:00+03:00",
           "stop": "2026-11-14T01:15:00+03:00",
           "title": "Starперцы.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "programs": [
+        {
+          "start": "2026-11-14T01:15:00+03:00",
+          "stop": "2026-11-14T03:20:00+03:00",
+          "title": "Белый шквал.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T03:20:00+03:00",
+          "stop": "2026-11-14T05:20:00+03:00",
+          "title": "Гостья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T05:20:00+03:00",
+          "stop": "2026-11-14T06:50:00+03:00",
+          "title": "Неудержимые 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T06:50:00+03:00",
+          "stop": "2026-11-14T08:45:00+03:00",
+          "title": "Боги Египта.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T08:45:00+03:00",
+          "stop": "2026-11-14T10:10:00+03:00",
+          "title": "Сапожник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T10:10:00+03:00",
+          "stop": "2026-11-14T11:25:00+03:00",
+          "title": "Жених напрокат.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T11:25:00+03:00",
+          "stop": "2026-11-14T13:00:00+03:00",
+          "title": "Неудержимые.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T13:00:00+03:00",
+          "stop": "2026-11-14T14:40:00+03:00",
+          "title": "Тупой и ещё тупее 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T14:40:00+03:00",
+          "stop": "2026-11-14T16:00:00+03:00",
+          "title": "Любовный переплёт.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T16:00:00+03:00",
+          "stop": "2026-11-14T17:15:00+03:00",
+          "title": "Пошумим!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T17:15:00+03:00",
+          "stop": "2026-11-14T18:40:00+03:00",
+          "title": "Болельщицы со стажем.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T18:40:00+03:00",
+          "stop": "2026-11-14T20:30:00+03:00",
+          "title": "Спенсер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T20:30:00+03:00",
+          "stop": "2026-11-14T22:00:00+03:00",
+          "title": "Неудержимые 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T22:00:00+03:00",
+          "stop": "2026-11-15T00:00:00+03:00",
+          "title": "12 лет рабства.",
           "description": "L",
           "category": null
         }

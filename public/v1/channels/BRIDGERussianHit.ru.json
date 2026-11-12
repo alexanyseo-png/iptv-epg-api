@@ -8,50 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-11T19:38:48.472860+00:00",
+  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-11-11",
-      "programs": [
-        {
-          "start": "2026-11-11T00:00:00+03:00",
-          "stop": "2026-11-11T06:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T06:00:00+03:00",
-          "stop": "2026-11-11T09:00:00+03:00",
-          "title": "Wake Up Call.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T09:00:00+03:00",
-          "stop": "2026-11-11T22:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T22:00:00+03:00",
-          "stop": "2026-11-11T22:35:00+03:00",
-          "title": "Самый русский хит.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-11T22:35:00+03:00",
-          "stop": "2026-11-12T00:00:00+03:00",
-          "title": "Лучшие Песни.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-12",
       "programs": [
@@ -133,6 +93,53 @@
         {
           "start": "2026-11-13T23:00:00+03:00",
           "stop": "2026-11-14T00:00:00+03:00",
+          "title": "Retro dance.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "programs": [
+        {
+          "start": "2026-11-14T00:00:00+03:00",
+          "stop": "2026-11-14T16:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T16:00:00+03:00",
+          "stop": "2026-11-14T16:35:00+03:00",
+          "title": "Самый русский хит.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T16:35:00+03:00",
+          "stop": "2026-11-14T18:30:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T18:30:00+03:00",
+          "stop": "2026-11-14T20:00:00+03:00",
+          "title": "Bridge in time.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T20:00:00+03:00",
+          "stop": "2026-11-14T23:00:00+03:00",
+          "title": "Лучшие Песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T23:00:00+03:00",
+          "stop": "2026-11-15T00:00:00+03:00",
           "title": "Retro dance.",
           "description": "L",
           "category": null
