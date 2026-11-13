@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
+  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
   "available": true,
-  "programmeCount": 32,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-11-12",
-      "programs": [
-        {
-          "start": "2026-11-12T00:00:00+03:00",
-          "stop": "2026-11-12T01:00:00+03:00",
-          "title": "Zwischentöne.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T01:00:00+03:00",
-          "stop": "2026-11-12T03:00:00+03:00",
-          "title": "Schlager fürs Herz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T03:00:00+03:00",
-          "stop": "2026-11-12T06:00:00+03:00",
-          "title": "Melodien für Sie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T06:00:00+03:00",
-          "stop": "2026-11-12T07:00:00+03:00",
-          "title": "Schlager-Express.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T07:00:00+03:00",
-          "stop": "2026-11-12T12:00:00+03:00",
-          "title": "Ohrwürmer.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T12:00:00+03:00",
-          "stop": "2026-11-12T15:00:00+03:00",
-          "title": "Schlager aktuell!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T15:00:00+03:00",
-          "stop": "2026-11-12T18:00:00+03:00",
-          "title": "Melodien für Sie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T18:00:00+03:00",
-          "stop": "2026-11-12T21:00:00+03:00",
-          "title": "Schmankerl der Volksmusik.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T21:00:00+03:00",
-          "stop": "2026-11-12T23:00:00+03:00",
-          "title": "Schlager aktuell!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T23:00:00+03:00",
-          "stop": "2026-11-13T00:00:00+03:00",
-          "title": "Schlager-Express.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-13",
       "programs": [
@@ -245,6 +170,88 @@
         {
           "start": "2026-11-14T23:00:00+03:00",
           "stop": "2026-11-15T00:00:00+03:00",
+          "title": "Schlager-Express.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "programs": [
+        {
+          "start": "2026-11-15T00:00:00+03:00",
+          "stop": "2026-11-15T01:00:00+03:00",
+          "title": "Zwischentöne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T01:00:00+03:00",
+          "stop": "2026-11-15T03:00:00+03:00",
+          "title": "Schlager fürs Herz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T03:00:00+03:00",
+          "stop": "2026-11-15T06:00:00+03:00",
+          "title": "Melodien für Sie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T06:00:00+03:00",
+          "stop": "2026-11-15T07:00:00+03:00",
+          "title": "Schlager-Express.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T07:00:00+03:00",
+          "stop": "2026-11-15T12:00:00+03:00",
+          "title": "Ohrwürmer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T12:00:00+03:00",
+          "stop": "2026-11-15T15:00:00+03:00",
+          "title": "Schlager aktuell!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T15:00:00+03:00",
+          "stop": "2026-11-15T16:00:00+03:00",
+          "title": "Gute Laune TV Live.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T16:00:00+03:00",
+          "stop": "2026-11-15T18:00:00+03:00",
+          "title": "Melodien für Sie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T18:00:00+03:00",
+          "stop": "2026-11-15T21:00:00+03:00",
+          "title": "Schmankerl der Volksmusik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T21:00:00+03:00",
+          "stop": "2026-11-15T23:00:00+03:00",
+          "title": "Schlager aktuell!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T23:00:00+03:00",
+          "stop": "2026-11-16T00:00:00+03:00",
           "title": "Schlager-Express.",
           "description": "L",
           "category": null

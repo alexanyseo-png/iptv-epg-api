@@ -8,17 +8,50 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
+  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 5,
   "days": [
     {
-      "date": "2026-11-12",
+      "date": "2026-11-14",
       "programs": [
         {
-          "start": "2026-11-12T20:15:00+03:00",
-          "stop": "2026-11-12T21:15:00+03:00",
-          "title": "⋗ EuroLeague. Valencia Basket – Fc Bayern Munich",
+          "start": "2026-11-14T10:30:00+03:00",
+          "stop": "2026-11-14T14:00:00+03:00",
+          "title": "⋗ Rotax Grand Finals. Portimao Finals Part 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T14:00:00+03:00",
+          "stop": "2026-11-14T19:25:00+03:00",
+          "title": "⋗ Rotax Grand Finals. Portimao Finals Part 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-14T19:25:00+03:00",
+          "stop": "2026-11-15T03:00:00+03:00",
+          "title": "⋗ ACB League. MoraBanc Andorra – La Laguna Tenerife",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "programs": [
+        {
+          "start": "2026-11-15T03:00:00+03:00",
+          "stop": "2026-11-15T19:00:00+03:00",
+          "title": "⋗ UFC. Ciryl Gane – Josh Hokit (ENG)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T19:00:00+03:00",
+          "stop": "2026-11-15T20:00:00+03:00",
+          "title": "⋗ Red Zone Week 10. NFL",
           "description": "L",
           "category": null
         }

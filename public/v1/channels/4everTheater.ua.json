@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
+  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
   "available": true,
   "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-11-12",
-      "programs": [
-        {
-          "start": "2026-11-12T01:00:00+03:00",
-          "stop": "2026-11-12T13:00:00+03:00",
-          "title": "Програма відсутня",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T13:00:00+03:00",
-          "stop": "2026-11-13T01:00:00+03:00",
-          "title": "Програма відсутня",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-13",
       "programs": [
@@ -63,6 +44,25 @@
         {
           "start": "2026-11-14T13:00:00+03:00",
           "stop": "2026-11-15T01:00:00+03:00",
+          "title": "Програма відсутня",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "programs": [
+        {
+          "start": "2026-11-15T01:00:00+03:00",
+          "stop": "2026-11-15T13:00:00+03:00",
+          "title": "Програма відсутня",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T13:00:00+03:00",
+          "stop": "2026-11-15T14:00:00+03:00",
           "title": "Програма відсутня",
           "description": "L",
           "category": null

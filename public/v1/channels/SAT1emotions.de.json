@@ -8,281 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
+  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
   "available": true,
-  "programmeCount": 98,
+  "programmeCount": 89,
   "days": [
-    {
-      "date": "2026-11-12",
-      "programs": [
-        {
-          "start": "2026-11-12T00:25:00+03:00",
-          "stop": "2026-11-12T01:10:00+03:00",
-          "title": "FBI: Most Wanted | S20E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T01:10:00+03:00",
-          "stop": "2026-11-12T01:50:00+03:00",
-          "title": "Blue Bloods – Crime Scene New York | S01E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T01:50:00+03:00",
-          "stop": "2026-11-12T02:30:00+03:00",
-          "title": "Blue Bloods – Crime Scene New York | S02E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T02:30:00+03:00",
-          "stop": "2026-11-12T03:15:00+03:00",
-          "title": "Killing Eve | S03E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T03:15:00+03:00",
-          "stop": "2026-11-12T03:55:00+03:00",
-          "title": "Killing Eve | S04E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T03:55:00+03:00",
-          "stop": "2026-11-12T04:40:00+03:00",
-          "title": "FBI: Most Wanted | S19E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T04:40:00+03:00",
-          "stop": "2026-11-12T05:15:00+03:00",
-          "title": "FBI: Most Wanted | S20E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T05:15:00+03:00",
-          "stop": "2026-11-12T06:00:00+03:00",
-          "title": "Blue Bloods – Crime Scene New York | S01E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T06:00:00+03:00",
-          "stop": "2026-11-12T06:35:00+03:00",
-          "title": "Blue Bloods – Crime Scene New York | S02E07",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T06:35:00+03:00",
-          "stop": "2026-11-12T07:00:00+03:00",
-          "title": "Knallerfrauen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T07:00:00+03:00",
-          "stop": "2026-11-12T07:20:00+03:00",
-          "title": "Knallerfrauen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T07:20:00+03:00",
-          "stop": "2026-11-12T07:50:00+03:00",
-          "title": "Rabenmütter – Mütter dürfen Regeln brechen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T07:50:00+03:00",
-          "stop": "2026-11-12T08:15:00+03:00",
-          "title": "Was guckst du?!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T08:15:00+03:00",
-          "stop": "2026-11-12T08:40:00+03:00",
-          "title": "Was guckst du?!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T08:40:00+03:00",
-          "stop": "2026-11-12T09:20:00+03:00",
-          "title": "The Kelly Clarkson Show – Teddy Swims / Jessica Seinfeld",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T09:20:00+03:00",
-          "stop": "2026-11-12T10:00:00+03:00",
-          "title": "The Drew Barrymore Show",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T10:00:00+03:00",
-          "stop": "2026-11-12T10:25:00+03:00",
-          "title": "Verliebt in Berlin | S04E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T10:25:00+03:00",
-          "stop": "2026-11-12T10:50:00+03:00",
-          "title": "Verliebt in Berlin | S05E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T10:50:00+03:00",
-          "stop": "2026-11-12T11:20:00+03:00",
-          "title": "Alles oder Nichts | S102E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T11:20:00+03:00",
-          "stop": "2026-11-12T11:45:00+03:00",
-          "title": "Alles oder Nichts",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T11:45:00+03:00",
-          "stop": "2026-11-12T12:30:00+03:00",
-          "title": "SOKO Leipzig | S14E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T12:30:00+03:00",
-          "stop": "2026-11-12T14:05:00+03:00",
-          "title": "Die Mongolettes – Wir wollen rocken!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T14:05:00+03:00",
-          "stop": "2026-11-12T14:30:00+03:00",
-          "title": "Verliebt in Berlin | S06E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T14:30:00+03:00",
-          "stop": "2026-11-12T14:55:00+03:00",
-          "title": "Verliebt in Berlin | S07E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T14:55:00+03:00",
-          "stop": "2026-11-12T15:20:00+03:00",
-          "title": "Alles oder Nichts",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T15:20:00+03:00",
-          "stop": "2026-11-12T15:45:00+03:00",
-          "title": "Anna und die Liebe | S01E01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T15:45:00+03:00",
-          "stop": "2026-11-12T16:35:00+03:00",
-          "title": "Velvet | S01E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T16:35:00+03:00",
-          "stop": "2026-11-12T17:25:00+03:00",
-          "title": "In aller Freundschaft – Die jungen Ärzte | S41E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T17:25:00+03:00",
-          "stop": "2026-11-12T18:00:00+03:00",
-          "title": "Die Spreewaldklinik | S111E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T18:00:00+03:00",
-          "stop": "2026-11-12T18:35:00+03:00",
-          "title": "Die Spreewaldklinik | S112E02",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T18:35:00+03:00",
-          "stop": "2026-11-12T19:15:00+03:00",
-          "title": "Die Landarztpraxis | S111E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T19:15:00+03:00",
-          "stop": "2026-11-12T19:50:00+03:00",
-          "title": "Die Landarztpraxis | S112E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T19:50:00+03:00",
-          "stop": "2026-11-12T20:35:00+03:00",
-          "title": "Velvet | S02E03",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T20:35:00+03:00",
-          "stop": "2026-11-12T21:25:00+03:00",
-          "title": "In aller Freundschaft – Die jungen Ärzte | S42E04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T21:25:00+03:00",
-          "stop": "2026-11-12T22:15:00+03:00",
-          "title": "Soko Leipzig | S15E18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T22:15:00+03:00",
-          "stop": "2026-11-12T23:05:00+03:00",
-          "title": "Morden im Norden | S13E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T23:05:00+03:00",
-          "stop": "2026-11-12T23:55:00+03:00",
-          "title": "Morden im Norden | S14E06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T23:55:00+03:00",
-          "stop": "2026-11-13T00:45:00+03:00",
-          "title": "Danni Lowinski | S13E01",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-13",
       "programs": [
@@ -708,6 +437,214 @@
           "start": "2026-11-14T23:40:00+03:00",
           "stop": "2026-11-15T00:20:00+03:00",
           "title": "The Kelly Clarkson Show – Amy Schumer / Jillian Bell / Brianne Howey / David Kwong",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "programs": [
+        {
+          "start": "2026-11-15T00:20:00+03:00",
+          "stop": "2026-11-15T01:05:00+03:00",
+          "title": "The Kelly Clarkson Show – James Marsden / Laverne Cox",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T01:05:00+03:00",
+          "stop": "2026-11-15T01:45:00+03:00",
+          "title": "The Kelly Clarkson Show – Michael Fassbender / Aaron Pierre / Kelvin Harrison jr",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T01:45:00+03:00",
+          "stop": "2026-11-15T03:50:00+03:00",
+          "title": "99 – Wer schlägt sie alle?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T03:50:00+03:00",
+          "stop": "2026-11-15T04:30:00+03:00",
+          "title": "The Kelly Clarkson Show – Gabriel Basso / Ashley Tisdale",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T04:30:00+03:00",
+          "stop": "2026-11-15T05:10:00+03:00",
+          "title": "The Kelly Clarkson Show – Lauren Graham / Mason Gooding",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T05:10:00+03:00",
+          "stop": "2026-11-15T05:50:00+03:00",
+          "title": "The Kelly Clarkson Show – Amy Schumer / Jillian Bell / Brianne Howey / David Kwong",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T05:50:00+03:00",
+          "stop": "2026-11-15T06:30:00+03:00",
+          "title": "The Kelly Clarkson Show – James Marsden / Laverne Cox",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T06:30:00+03:00",
+          "stop": "2026-11-15T07:10:00+03:00",
+          "title": "The Kelly Clarkson Show – Michael Fassbender / Aaron Pierre / Kelvin Harrison jr",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T07:10:00+03:00",
+          "stop": "2026-11-15T07:35:00+03:00",
+          "title": "Die dreisten drei – Die Comedy WG",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T07:35:00+03:00",
+          "stop": "2026-11-15T07:55:00+03:00",
+          "title": "Die dreisten drei – Die Comedy WG",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T07:55:00+03:00",
+          "stop": "2026-11-15T08:35:00+03:00",
+          "title": "Knallerfrauen",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T08:35:00+03:00",
+          "stop": "2026-11-15T09:25:00+03:00",
+          "title": "Morden im Norden | S13E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T09:25:00+03:00",
+          "stop": "2026-11-15T10:15:00+03:00",
+          "title": "Morden im Norden | S14E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T10:15:00+03:00",
+          "stop": "2026-11-15T11:10:00+03:00",
+          "title": "Deadly Tropics | S01E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T11:10:00+03:00",
+          "stop": "2026-11-15T12:05:00+03:00",
+          "title": "Deadly Tropics | S02E05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T12:05:00+03:00",
+          "stop": "2026-11-15T12:45:00+03:00",
+          "title": "Revival | S05E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T12:45:00+03:00",
+          "stop": "2026-11-15T13:35:00+03:00",
+          "title": "Revival | S06E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T13:35:00+03:00",
+          "stop": "2026-11-15T14:20:00+03:00",
+          "title": "In Flight | S06E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T14:20:00+03:00",
+          "stop": "2026-11-15T15:05:00+03:00",
+          "title": "Navy CIS: Origins | S05E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T15:05:00+03:00",
+          "stop": "2026-11-15T15:50:00+03:00",
+          "title": "Navy CIS: Origins | S06E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T15:50:00+03:00",
+          "stop": "2026-11-15T16:45:00+03:00",
+          "title": "Fosse/Verdon | S07E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T16:45:00+03:00",
+          "stop": "2026-11-15T17:40:00+03:00",
+          "title": "Fosse/Verdon | S08E01",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T17:40:00+03:00",
+          "stop": "2026-11-15T19:20:00+03:00",
+          "title": "Gloria – Das Leben wartet nicht",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T19:20:00+03:00",
+          "stop": "2026-11-15T20:05:00+03:00",
+          "title": "Killing Eve | S03E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T20:05:00+03:00",
+          "stop": "2026-11-15T20:50:00+03:00",
+          "title": "Killing Eve | S04E03",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T20:50:00+03:00",
+          "stop": "2026-11-15T21:35:00+03:00",
+          "title": "FBI: Most Wanted | S19E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T21:35:00+03:00",
+          "stop": "2026-11-15T22:15:00+03:00",
+          "title": "FBI: Most Wanted | S20E06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T22:15:00+03:00",
+          "stop": "2026-11-15T23:45:00+03:00",
+          "title": "Alle Macht den Kindern",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T23:45:00+03:00",
+          "stop": "2026-11-16T01:20:00+03:00",
+          "title": "Lizzy und der Kommissar",
           "description": "L",
           "category": null
         }

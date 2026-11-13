@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-12T19:58:37.278802+00:00",
+  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
   "available": true,
   "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-11-12",
-      "programs": [
-        {
-          "start": "2026-11-12T12:00:00+03:00",
-          "stop": "2026-11-12T20:30:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T20:30:00+03:00",
-          "stop": "2026-11-12T23:00:00+03:00",
-          "title": "Valioliiga: Nottingham – Manchester City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-12T23:00:00+03:00",
-          "stop": "2026-11-13T12:00:00+03:00",
-          "title": "Formula 1: Meksikon GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-13",
       "programs": [
@@ -85,6 +59,32 @@
           "start": "2026-11-14T23:00:00+03:00",
           "stop": "2026-11-15T12:00:00+03:00",
           "title": "Formula 1: Brasilian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "programs": [
+        {
+          "start": "2026-11-15T12:00:00+03:00",
+          "stop": "2026-11-15T20:00:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T20:00:00+03:00",
+          "stop": "2026-11-15T23:00:00+03:00",
+          "title": "Formula 1: Brasilian GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-15T23:00:00+03:00",
+          "stop": "2026-11-16T12:00:00+03:00",
+          "title": "Valioliiga: Liverpool – Arsenal",
           "description": "L",
           "category": null
         }
