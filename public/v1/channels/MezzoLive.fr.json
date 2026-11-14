@@ -8,134 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
+  "generatedAt": "2026-11-14T18:09:17.274487+00:00",
   "available": true,
-  "programmeCount": 58,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-11-13",
-      "programs": [
-        {
-          "start": "2026-11-13T00:30:00+03:00",
-          "stop": "2026-11-13T02:10:00+03:00",
-          "title": "Classical. Duenas, Kozhukhin, Capucon, Ridout, Ma, Ax: Brahms – Rencontres Musicales d'Evian.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T02:10:00+03:00",
-          "stop": "2026-11-13T03:40:00+03:00",
-          "title": "Classical. Fantasymphony – A Concert of Magic and Fire.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T03:40:00+03:00",
-          "stop": "2026-11-13T04:00:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T04:00:00+03:00",
-          "stop": "2026-11-13T06:40:00+03:00",
-          "title": "Opera. Vivaldi: Juditha Triumphans – Greek National Opera.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T06:40:00+03:00",
-          "stop": "2026-11-13T08:00:00+03:00",
-          "title": "Classical. Jonathan Nott, Orchestre de la Suisse Romande – Debussy, Ellington, Strauss.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T08:00:00+03:00",
-          "stop": "2026-11-13T09:40:00+03:00",
-          "title": "Classical. London Symphony Orchestra, Sir Antonio Pappano: Tchaikovsky, Vaughan Williams.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T09:40:00+03:00",
-          "stop": "2026-11-13T11:20:00+03:00",
-          "title": "Classical. Vilde Frang, London Symphony Orchestra: I. Holst, Korngold, Shostakovich.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T11:20:00+03:00",
-          "stop": "2026-11-13T11:30:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T11:30:00+03:00",
-          "stop": "2026-11-13T13:55:00+03:00",
-          "title": "Opera. 'Eugene Onegin' by Tchaikovsky at la Monnaie.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T13:55:00+03:00",
-          "stop": "2026-11-13T15:00:00+03:00",
-          "title": "Classical. Martha Argerich – Saint-Saens: The Carnival of the Animals.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T15:00:00+03:00",
-          "stop": "2026-11-13T16:20:00+03:00",
-          "title": "Dance. La Grande Danza – Aterballetto in Milan.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T16:20:00+03:00",
-          "stop": "2026-11-13T18:00:00+03:00",
-          "title": "Classical. Orchestre de Paris, Esa-Pekka Salonen, Gautier Capucon: Shostakovich, Bruckner.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T18:00:00+03:00",
-          "stop": "2026-11-13T19:00:00+03:00",
-          "title": "Intermezzo.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T19:00:00+03:00",
-          "stop": "2026-11-13T20:30:00+03:00",
-          "title": "Classical. Oslo Philharmonic Orchestra, Klaus Makela, Antoine Tamestit: Mendelssohn, Berlioz.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T20:30:00+03:00",
-          "stop": "2026-11-13T21:40:00+03:00",
-          "title": "Classical. Jerusalem Chamber Music Festival – Lahav Shani, Yulianna Avdeeva – Rachmaninov, Weinberg.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T21:40:00+03:00",
-          "stop": "2026-11-13T23:00:00+03:00",
-          "title": "Classical. Duenas, Kozhukhin, Capucon, Ridout, Ma, Ax: Brahms – Rencontres Musicales d'Evian.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T23:00:00+03:00",
-          "stop": "2026-11-14T00:50:00+03:00",
-          "title": "Opera. Shostakovich: The Nose – La Monnaie in Brussels.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-14",
       "programs": [
@@ -428,6 +304,25 @@
           "start": "2026-11-15T23:00:00+03:00",
           "stop": "2026-11-16T06:25:00+03:00",
           "title": "Opera. Vivaldi: Juditha Triumphans – Greek National Opera.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "programs": [
+        {
+          "start": "2026-11-16T06:25:00+03:00",
+          "stop": "2026-11-16T06:45:00+03:00",
+          "title": "Classical. Bomsori Kim, Camerata Salzburg – Mozart: Violin Concerto no. 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T06:45:00+03:00",
+          "stop": "2026-11-16T07:45:00+03:00",
+          "title": "Classical. Bomsori Kim, Camerata Salzburg – Mozart: Violin Concerto No. 4.",
           "description": "L",
           "category": null
         }

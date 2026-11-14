@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-13T19:46:02.422971+00:00",
+  "generatedAt": "2026-11-14T18:09:17.274487+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-11-13",
-      "programs": [
-        {
-          "start": "2026-11-13T00:45:00+03:00",
-          "stop": "2026-11-13T02:35:00+03:00",
-          "title": "х/ф Дублікат",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T02:35:00+03:00",
-          "stop": "2026-11-13T03:35:00+03:00",
-          "title": "м/с Уроки тітоньки Сови",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T03:35:00+03:00",
-          "stop": "2026-11-13T04:35:00+03:00",
-          "title": "м/с Уроки тітоньки Сови",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T04:35:00+03:00",
-          "stop": "2026-11-13T05:35:00+03:00",
-          "title": "м/с Уроки тітоньки Сови",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T05:35:00+03:00",
-          "stop": "2026-11-13T08:00:00+03:00",
-          "title": "Нічне промо",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T08:00:00+03:00",
-          "stop": "2026-11-13T10:00:00+03:00",
-          "title": "Hit Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T10:00:00+03:00",
-          "stop": "2026-11-13T13:00:00+03:00",
-          "title": "Hit Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T13:00:00+03:00",
-          "stop": "2026-11-13T14:50:00+03:00",
-          "title": "х/ф Вальхалла: Тор Раґнарок",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T14:50:00+03:00",
-          "stop": "2026-11-13T15:20:00+03:00",
-          "title": "Hit Stories",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T15:20:00+03:00",
-          "stop": "2026-11-13T17:00:00+03:00",
-          "title": "х/ф Під гіпнозом",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T17:00:00+03:00",
-          "stop": "2026-11-13T18:45:00+03:00",
-          "title": "х/ф Знак пошани",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T18:45:00+03:00",
-          "stop": "2026-11-13T20:45:00+03:00",
-          "title": "х/ф Операція Колібрі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T20:45:00+03:00",
-          "stop": "2026-11-13T22:30:00+03:00",
-          "title": "х/ф Клінер",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-13T22:30:00+03:00",
-          "stop": "2026-11-14T00:10:00+03:00",
-          "title": "х/ф Поганці",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-14",
       "programs": [
@@ -316,6 +213,46 @@
           "start": "2026-11-15T22:25:00+03:00",
           "stop": "2026-11-16T00:30:00+03:00",
           "title": "х/ф Саван",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "programs": [
+        {
+          "start": "2026-11-16T00:30:00+03:00",
+          "stop": "2026-11-16T02:10:00+03:00",
+          "title": "х/ф Прокляття пожирача гріхів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T02:10:00+03:00",
+          "stop": "2026-11-16T03:10:00+03:00",
+          "title": "м/с Уроки тітоньки Сови",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T03:10:00+03:00",
+          "stop": "2026-11-16T04:10:00+03:00",
+          "title": "м/с Уроки тітоньки Сови",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T04:10:00+03:00",
+          "stop": "2026-11-16T05:10:00+03:00",
+          "title": "м/с Уроки тітоньки Сови",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T05:10:00+03:00",
+          "stop": "2026-11-16T07:10:00+03:00",
+          "title": "Нічне промо",
           "description": "L",
           "category": null
         }
