@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-14T18:09:17.274487+00:00",
+  "generatedAt": "2026-11-15T18:53:51.134312+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 17,
   "days": [
-    {
-      "date": "2026-11-14",
-      "programs": [
-        {
-          "start": "2026-11-14T02:55:00+03:00",
-          "stop": "2026-11-14T07:40:00+03:00",
-          "title": "Моё имя-Клоун.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T07:40:00+03:00",
-          "stop": "2026-11-14T10:40:00+03:00",
-          "title": "Шахматы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T10:40:00+03:00",
-          "stop": "2026-11-14T14:00:00+03:00",
-          "title": "Крриш.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T14:00:00+03:00",
-          "stop": "2026-11-14T16:55:00+03:00",
-          "title": "Обратный эффект.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T16:55:00+03:00",
-          "stop": "2026-11-14T20:00:00+03:00",
-          "title": "Плутовка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T20:00:00+03:00",
-          "stop": "2026-11-14T22:55:00+03:00",
-          "title": "Легкомысленная девчонка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T22:55:00+03:00",
-          "stop": "2026-11-15T01:50:00+03:00",
-          "title": "Аша и Джоти.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-15",
       "programs": [
@@ -120,8 +66,81 @@
         },
         {
           "start": "2026-11-15T23:30:00+03:00",
-          "stop": "2026-11-16T00:30:00+03:00",
+          "stop": "2026-11-16T02:55:00+03:00",
           "title": "Любовный недуг.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "programs": [
+        {
+          "start": "2026-11-16T02:55:00+03:00",
+          "stop": "2026-11-16T05:40:00+03:00",
+          "title": "Аша и Джоти.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T05:40:00+03:00",
+          "stop": "2026-11-16T07:55:00+03:00",
+          "title": "Коммандо 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T07:55:00+03:00",
+          "stop": "2026-11-16T11:15:00+03:00",
+          "title": "Крриш.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T11:15:00+03:00",
+          "stop": "2026-11-16T14:15:00+03:00",
+          "title": "В тисках предательства.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T14:15:00+03:00",
+          "stop": "2026-11-16T16:50:00+03:00",
+          "title": "По привычке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T16:50:00+03:00",
+          "stop": "2026-11-16T20:00:00+03:00",
+          "title": "Сын.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T20:00:00+03:00",
+          "stop": "2026-11-16T23:25:00+03:00",
+          "title": "Мятежная душа.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T23:25:00+03:00",
+          "stop": "2026-11-17T02:30:00+03:00",
+          "title": "Легкомысленная девчонка.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "programs": [
+        {
+          "start": "2026-11-17T02:30:00+03:00",
+          "stop": "2026-11-17T03:30:00+03:00",
+          "title": "Шахматы.",
           "description": "L",
           "category": null
         }

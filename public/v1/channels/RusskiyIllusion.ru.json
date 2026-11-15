@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-14T18:09:17.274487+00:00",
+  "generatedAt": "2026-11-15T18:53:51.134312+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-11-14",
-      "programs": [
-        {
-          "start": "2026-11-14T01:05:00+03:00",
-          "stop": "2026-11-14T02:40:00+03:00",
-          "title": "Я худею.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T02:40:00+03:00",
-          "stop": "2026-11-14T05:10:00+03:00",
-          "title": "Территория.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T05:10:00+03:00",
-          "stop": "2026-11-14T06:20:00+03:00",
-          "title": "Вечная зима.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T06:20:00+03:00",
-          "stop": "2026-11-14T07:50:00+03:00",
-          "title": "В небо за мечтой.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T07:50:00+03:00",
-          "stop": "2026-11-14T09:50:00+03:00",
-          "title": "Норвег.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T09:50:00+03:00",
-          "stop": "2026-11-14T11:15:00+03:00",
-          "title": "Дневник мамы первоклассника.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T11:15:00+03:00",
-          "stop": "2026-11-14T13:00:00+03:00",
-          "title": "Жги!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T13:00:00+03:00",
-          "stop": "2026-11-14T14:40:00+03:00",
-          "title": "Дорога без конца.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T14:40:00+03:00",
-          "stop": "2026-11-14T16:20:00+03:00",
-          "title": "2 дня.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T16:20:00+03:00",
-          "stop": "2026-11-14T18:25:00+03:00",
-          "title": "Смотри на меня!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T18:25:00+03:00",
-          "stop": "2026-11-14T20:00:00+03:00",
-          "title": "Однажды со мной.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T20:00:00+03:00",
-          "stop": "2026-11-14T21:30:00+03:00",
-          "title": "Воин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T21:30:00+03:00",
-          "stop": "2026-11-14T23:30:00+03:00",
-          "title": "На острие.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T23:30:00+03:00",
-          "stop": "2026-11-15T01:20:00+03:00",
-          "title": "Аритмия.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-15",
       "programs": [
@@ -211,8 +108,130 @@
         },
         {
           "start": "2026-11-15T23:20:00+03:00",
-          "stop": "2026-11-16T00:20:00+03:00",
+          "stop": "2026-11-16T01:05:00+03:00",
           "title": "О чём молчат французы.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-16",
+      "programs": [
+        {
+          "start": "2026-11-16T01:05:00+03:00",
+          "stop": "2026-11-16T03:00:00+03:00",
+          "title": "Петрополис.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T03:00:00+03:00",
+          "stop": "2026-11-16T04:25:00+03:00",
+          "title": "В небо за мечтой.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T04:25:00+03:00",
+          "stop": "2026-11-16T06:15:00+03:00",
+          "title": "Норвег.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T06:15:00+03:00",
+          "stop": "2026-11-16T07:50:00+03:00",
+          "title": "Дорога без конца.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T07:50:00+03:00",
+          "stop": "2026-11-16T09:30:00+03:00",
+          "title": "2 дня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T09:30:00+03:00",
+          "stop": "2026-11-16T11:35:00+03:00",
+          "title": "Смотри на меня!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T11:35:00+03:00",
+          "stop": "2026-11-16T12:25:00+03:00",
+          "title": "Однажды со мной.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T12:25:00+03:00",
+          "stop": "2026-11-16T13:05:00+03:00",
+          "title": "Однажды со мной.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T13:05:00+03:00",
+          "stop": "2026-11-16T14:35:00+03:00",
+          "title": "Воин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T14:35:00+03:00",
+          "stop": "2026-11-16T16:35:00+03:00",
+          "title": "На острие.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T16:35:00+03:00",
+          "stop": "2026-11-16T18:15:00+03:00",
+          "title": "Аквариум.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T18:15:00+03:00",
+          "stop": "2026-11-16T20:00:00+03:00",
+          "title": "Пассажирка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T20:00:00+03:00",
+          "stop": "2026-11-16T21:40:00+03:00",
+          "title": "Грешник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T21:40:00+03:00",
+          "stop": "2026-11-16T23:15:00+03:00",
+          "title": "За Палыча!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-16T23:15:00+03:00",
+          "stop": "2026-11-17T01:45:00+03:00",
+          "title": "1993.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "programs": [
+        {
+          "start": "2026-11-17T01:45:00+03:00",
+          "stop": "2026-11-17T02:45:00+03:00",
+          "title": "Миллиард.",
           "description": "L",
           "category": null
         }

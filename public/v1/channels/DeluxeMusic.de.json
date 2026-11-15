@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-14T18:09:17.274487+00:00",
+  "generatedAt": "2026-11-15T18:53:51.134312+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-11-14",
-      "programs": [
-        {
-          "start": "2026-11-14T00:00:00+03:00",
-          "stop": "2026-11-14T01:00:00+03:00",
-          "title": "DELUXE 2010.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T01:00:00+03:00",
-          "stop": "2026-11-14T02:00:00+03:00",
-          "title": "DANCE DELUXE.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T02:00:00+03:00",
-          "stop": "2026-11-14T03:00:00+03:00",
-          "title": "DANCE DELUXE.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T03:00:00+03:00",
-          "stop": "2026-11-14T05:00:00+03:00",
-          "title": "KONTOR DJ NIGHT x TEUFEL.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T05:00:00+03:00",
-          "stop": "2026-11-14T06:00:00+03:00",
-          "title": "SEXY HITS ONLY.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T06:00:00+03:00",
-          "stop": "2026-11-14T08:00:00+03:00",
-          "title": "GOOD NIGHT DELUXE.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T08:00:00+03:00",
-          "stop": "2026-11-14T13:00:00+03:00",
-          "title": "COFFEE & TV.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T13:00:00+03:00",
-          "stop": "2026-11-14T15:00:00+03:00",
-          "title": "MADE IN GERMANY.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T15:00:00+03:00",
-          "stop": "2026-11-14T17:00:00+03:00",
-          "title": "RETRO CHARTS.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T17:00:00+03:00",
-          "stop": "2026-11-14T20:00:00+03:00",
-          "title": "LIGATICKER.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T20:00:00+03:00",
-          "stop": "2026-11-14T22:00:00+03:00",
-          "title": "BEST OF YOU DELUXE.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-14T22:00:00+03:00",
-          "stop": "2026-11-15T01:00:00+03:00",
-          "title": "COUNTDOWN DELUXE XXL.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-15",
       "programs": [
@@ -267,6 +178,109 @@
           "start": "2026-11-16T22:00:00+03:00",
           "stop": "2026-11-17T00:00:00+03:00",
           "title": "ALBUM CHARTS TOP 25.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-17",
+      "programs": [
+        {
+          "start": "2026-11-17T00:00:00+03:00",
+          "stop": "2026-11-17T01:00:00+03:00",
+          "title": "DELUXE 2010.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T01:00:00+03:00",
+          "stop": "2026-11-17T02:00:00+03:00",
+          "title": "HIPHOP DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T02:00:00+03:00",
+          "stop": "2026-11-17T03:00:00+03:00",
+          "title": "HIPHOP DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T03:00:00+03:00",
+          "stop": "2026-11-17T05:00:00+03:00",
+          "title": "SEXY HITS ONLY.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T05:00:00+03:00",
+          "stop": "2026-11-17T08:00:00+03:00",
+          "title": "GOOD NIGHT DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T08:00:00+03:00",
+          "stop": "2026-11-17T10:00:00+03:00",
+          "title": "MORNING SHOW.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T10:00:00+03:00",
+          "stop": "2026-11-17T12:00:00+03:00",
+          "title": "YOU DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T12:00:00+03:00",
+          "stop": "2026-11-17T13:00:00+03:00",
+          "title": "COUNTDOWN DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T13:00:00+03:00",
+          "stop": "2026-11-17T16:00:00+03:00",
+          "title": "HITS ONLY.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T16:00:00+03:00",
+          "stop": "2026-11-17T18:00:00+03:00",
+          "title": "ALBUM CHARTS TOP 25.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T18:00:00+03:00",
+          "stop": "2026-11-17T19:00:00+03:00",
+          "title": "UPDATE DELUXE CLASSICS.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T19:00:00+03:00",
+          "stop": "2026-11-17T21:00:00+03:00",
+          "title": "YOU DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T21:00:00+03:00",
+          "stop": "2026-11-17T22:00:00+03:00",
+          "title": "COUNTDOWN DELUXE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T22:00:00+03:00",
+          "stop": "2026-11-18T00:00:00+03:00",
+          "title": "US TOP 25.",
           "description": "L",
           "category": null
         }
