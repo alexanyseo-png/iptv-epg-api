@@ -8,162 +8,237 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-15T18:53:51.134312+00:00",
+  "generatedAt": "2026-11-16T22:09:37.809071+00:00",
   "available": true,
-  "programmeCount": 21,
+  "programmeCount": 31,
   "days": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-17",
       "programs": [
         {
-          "start": "2026-11-15T01:30:00+03:00",
-          "stop": "2026-11-15T03:30:00+03:00",
-          "title": "Серия А: Рома – Сасуоло – Спорт",
+          "start": "2026-11-17T01:00:00+03:00",
+          "stop": "2026-11-17T05:00:00+03:00",
+          "title": "Голф: Genesis Scottish Open – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-15T03:30:00+03:00",
-          "stop": "2026-11-15T04:30:00+03:00",
+          "start": "2026-11-17T05:00:00+03:00",
+          "stop": "2026-11-17T07:00:00+03:00",
+          "title": "УЕФА Лига на нациите: България – Исландия – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T07:00:00+03:00",
+          "stop": "2026-11-17T09:00:00+03:00",
+          "title": "УЕФА Лига на нациите: Естония – България – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T09:00:00+03:00",
+          "stop": "2026-11-17T12:30:00+03:00",
+          "title": "Nascar Cup Series: DuraMax Grand Prix, Circuit Of The Americas – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T12:30:00+03:00",
+          "stop": "2026-11-17T16:30:00+03:00",
+          "title": "Nascar Cup Series: Shriners Children'Phoenix Raceway – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T16:30:00+03:00",
+          "stop": "2026-11-17T17:30:00+03:00",
           "title": "Серия А: Обзор 11 кръг – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-15T04:30:00+03:00",
-          "stop": "2026-11-15T05:45:00+03:00",
-          "title": "Moto3: Състезание за Голямата награда на Катар – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T05:45:00+03:00",
-          "stop": "2026-11-15T07:00:00+03:00",
-          "title": "Moto2: Състезание за Голямата награда на Катар – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T07:00:00+03:00",
-          "stop": "2026-11-15T09:00:00+03:00",
-          "title": "MotoGP: Състезание за Голямата награда на Катар – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T09:00:00+03:00",
-          "stop": "2026-11-15T12:00:00+03:00",
-          "title": "NFL – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T12:00:00+03:00",
-          "stop": "2026-11-15T14:00:00+03:00",
-          "title": "УЕФА Шампионска лига: Барселона – Астън Вила – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T14:00:00+03:00",
-          "stop": "2026-11-15T16:00:00+03:00",
-          "title": "Серия А: Интер – Комо – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T16:00:00+03:00",
-          "stop": "2026-11-15T17:00:00+03:00",
-          "title": "Калчо мания – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T17:00:00+03:00",
-          "stop": "2026-11-15T17:30:00+03:00",
-          "title": "УЕФА Шампионска лига – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T17:30:00+03:00",
-          "stop": "2026-11-15T20:30:00+03:00",
-          "title": "NFL – Спорт",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-15T20:30:00+03:00",
-          "stop": "2026-11-15T21:00:00+03:00",
+          "start": "2026-11-17T17:30:00+03:00",
+          "stop": "2026-11-17T18:00:00+03:00",
           "title": "Серия А: Екстра Калчо – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-15T21:00:00+03:00",
-          "stop": "2026-11-16T00:00:00+03:00",
-          "title": "NFL – Спорт",
+          "start": "2026-11-17T18:00:00+03:00",
+          "stop": "2026-11-17T19:00:00+03:00",
+          "title": "⋗ Калчо мания – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T19:00:00+03:00",
+          "stop": "2026-11-17T19:30:00+03:00",
+          "title": "⋗ Студио Волейбол – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T19:30:00+03:00",
+          "stop": "2026-11-17T21:30:00+03:00",
+          "title": "⋗ Волейбол: CEV Чалендж къп: ЦСКА – Епицентър Подоляни – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T21:30:00+03:00",
+          "stop": "2026-11-17T21:45:00+03:00",
+          "title": "⋗ Студио Волейбол – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T21:45:00+03:00",
+          "stop": "2026-11-17T22:45:00+03:00",
+          "title": "Зона волей – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-17T22:45:00+03:00",
+          "stop": "2026-11-18T00:45:00+03:00",
+          "title": "⋗ Евролига: Партизан – Валенсия – Спорт",
           "description": "L",
           "category": null
         }
       ]
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "programs": [
         {
-          "start": "2026-11-16T00:00:00+03:00",
-          "stop": "2026-11-16T01:00:00+03:00",
-          "title": "Серия А: Обзор 11 кръг – Спорт",
+          "start": "2026-11-18T00:45:00+03:00",
+          "stop": "2026-11-18T01:15:00+03:00",
+          "title": "УЕФА Шампионска лига – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T01:00:00+03:00",
-          "stop": "2026-11-16T03:00:00+03:00",
-          "title": "Серия А: Дженоа – Милан – Спорт",
+          "start": "2026-11-18T01:15:00+03:00",
+          "stop": "2026-11-18T09:00:00+03:00",
+          "title": "Голф: Thth Open – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T03:00:00+03:00",
-          "stop": "2026-11-16T05:00:00+03:00",
-          "title": "Серия А: Фиорентина – Ювентус – Спорт",
+          "start": "2026-11-18T09:00:00+03:00",
+          "stop": "2026-11-18T12:15:00+03:00",
+          "title": "Nascar Cup Series: Pennzoil 400, Las Vegas Motor Speedway – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T05:00:00+03:00",
-          "stop": "2026-11-16T07:00:00+03:00",
-          "title": "Серия А: Рома – Сасуоло – Спорт",
+          "start": "2026-11-18T12:15:00+03:00",
+          "stop": "2026-11-18T15:45:00+03:00",
+          "title": "Nascar Cup Series: Goodyear 400, Darlington Raceway – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T07:00:00+03:00",
-          "stop": "2026-11-16T09:00:00+03:00",
-          "title": "Серия А: Наполи – Лацио – Спорт",
+          "start": "2026-11-18T15:45:00+03:00",
+          "stop": "2026-11-18T19:00:00+03:00",
+          "title": "Nascar Cup Series: Cook Out 400, Martinsville Speedwayy – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T09:00:00+03:00",
-          "stop": "2026-11-16T12:45:00+03:00",
-          "title": "Nascar Cup Series: Cook Out Clash at Bowman Gray – Спорт",
+          "start": "2026-11-18T19:00:00+03:00",
+          "stop": "2026-11-18T19:30:00+03:00",
+          "title": "⋗ Студио Волейбол – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T12:45:00+03:00",
-          "stop": "2026-11-16T16:45:00+03:00",
-          "title": "Nascar Cup Series: Daytona 500, Daytona International Speedway – Спорт",
+          "start": "2026-11-18T19:30:00+03:00",
+          "stop": "2026-11-18T21:30:00+03:00",
+          "title": "⋗ Волейбол: CEV Чалендж къп: Епицентър Подоляни – ЦСКА – Спорт",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-16T16:45:00+03:00",
-          "stop": "2026-11-16T21:00:00+03:00",
-          "title": "Nascar Cup Series: Autotrader 400, Echopark Speedway – Спорт",
+          "start": "2026-11-18T21:30:00+03:00",
+          "stop": "2026-11-18T21:45:00+03:00",
+          "title": "⋗ Студио Волейбол – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T21:45:00+03:00",
+          "stop": "2026-11-18T23:30:00+03:00",
+          "title": "⋗ Еврокупа: Бург ан Брес – Наполи – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T23:30:00+03:00",
+          "stop": "2026-11-19T03:30:00+03:00",
+          "title": "Голф: ISPS Handa Senior Open – Спорт",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "programs": [
+        {
+          "start": "2026-11-19T03:30:00+03:00",
+          "stop": "2026-11-19T07:30:00+03:00",
+          "title": "Голф: Danish Golf Championship – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T07:30:00+03:00",
+          "stop": "2026-11-19T08:00:00+03:00",
+          "title": "УЕФА Шампионска лига – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:00:00+03:00",
+          "stop": "2026-11-19T09:00:00+03:00",
+          "title": "Калчо мания – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:00:00+03:00",
+          "stop": "2026-11-19T12:30:00+03:00",
+          "title": "Nascar Cup Series: Food City 500, Bristol Motor Speedway – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T12:30:00+03:00",
+          "stop": "2026-11-19T16:00:00+03:00",
+          "title": "Nascar Cup Series: AdventHealth 400, Kansas Speedway – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T16:00:00+03:00",
+          "stop": "2026-11-19T20:30:00+03:00",
+          "title": "Nascar Cup Series: Jack Link'Talladega Superspeedway – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:30:00+03:00",
+          "stop": "2026-11-19T22:45:00+03:00",
+          "title": "⋗ Евролига: Макаби Тел Авив – Дубай – Спорт",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T22:45:00+03:00",
+          "stop": "2026-11-20T00:30:00+03:00",
+          "title": "⋗ Евролига: Париж – Апоел тел Авив – Спорт",
           "description": "L",
           "category": null
         }

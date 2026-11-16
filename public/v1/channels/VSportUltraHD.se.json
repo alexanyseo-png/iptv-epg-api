@@ -8,43 +8,83 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-15T18:53:51.134312+00:00",
+  "generatedAt": "2026-11-16T22:09:37.809071+00:00",
   "available": true,
-  "programmeCount": 4,
+  "programmeCount": 9,
   "days": [
     {
-      "date": "2026-11-15",
+      "date": "2026-11-17",
       "programs": [
         {
-          "start": "2026-11-15T12:00:00+03:00",
-          "stop": "2026-11-15T20:00:00+03:00",
+          "start": "2026-11-17T12:00:00+03:00",
+          "stop": "2026-11-17T20:30:00+03:00",
           "title": "RedBull TV",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-15T20:00:00+03:00",
-          "stop": "2026-11-15T23:00:00+03:00",
-          "title": "Formula 1: Brasilian GP – Osakilpailu",
+          "start": "2026-11-17T20:30:00+03:00",
+          "stop": "2026-11-17T23:00:00+03:00",
+          "title": "Valioliiga: Liverpool – Arsenal",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-15T23:00:00+03:00",
-          "stop": "2026-11-16T12:00:00+03:00",
-          "title": "Valioliiga: Liverpool – Arsenal",
+          "start": "2026-11-17T23:00:00+03:00",
+          "stop": "2026-11-18T12:00:00+03:00",
+          "title": "Formula 1: Meksikon GP – Osakilpailu",
           "description": "L",
           "category": null
         }
       ]
     },
     {
-      "date": "2026-11-16",
+      "date": "2026-11-18",
       "programs": [
         {
-          "start": "2026-11-16T12:00:00+03:00",
-          "stop": "2026-11-16T20:00:00+03:00",
+          "start": "2026-11-18T12:00:00+03:00",
+          "stop": "2026-11-18T20:00:00+03:00",
           "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T20:00:00+03:00",
+          "stop": "2026-11-18T23:00:00+03:00",
+          "title": "Formula 1: Meksikon GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T23:00:00+03:00",
+          "stop": "2026-11-19T12:00:00+03:00",
+          "title": "Valioliiga: Nottingham – Manchester City",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "programs": [
+        {
+          "start": "2026-11-19T12:00:00+03:00",
+          "stop": "2026-11-19T20:30:00+03:00",
+          "title": "RedBull TV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:30:00+03:00",
+          "stop": "2026-11-19T23:00:00+03:00",
+          "title": "Valioliiga: Nottingham – Manchester City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T23:00:00+03:00",
+          "stop": "2026-11-20T12:00:00+03:00",
+          "title": "Formula 1: Brasilian GP – Osakilpailu",
           "description": "L",
           "category": null
         }
