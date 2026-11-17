@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-16T22:09:37.809071+00:00",
+  "generatedAt": "2026-11-17T20:58:44.657237+00:00",
   "available": true,
-  "programmeCount": 30,
+  "programmeCount": 43,
   "days": [
     {
       "date": "2026-11-17",
@@ -230,8 +230,99 @@
       "programs": [
         {
           "start": "2026-11-19T01:25:00+03:00",
-          "stop": "2026-11-19T02:25:00+03:00",
+          "stop": "2026-11-19T03:00:00+03:00",
           "title": "2 дня.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T03:00:00+03:00",
+          "stop": "2026-11-19T04:55:00+03:00",
+          "title": "Смотри на меня!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T04:55:00+03:00",
+          "stop": "2026-11-19T06:15:00+03:00",
+          "title": "Однажды со мной.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T06:15:00+03:00",
+          "stop": "2026-11-19T07:50:00+03:00",
+          "title": "Аквариум.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T07:50:00+03:00",
+          "stop": "2026-11-19T09:30:00+03:00",
+          "title": "Пассажирка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:30:00+03:00",
+          "stop": "2026-11-19T11:10:00+03:00",
+          "title": "Грешник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T11:10:00+03:00",
+          "stop": "2026-11-19T12:45:00+03:00",
+          "title": "За Палыча!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T12:45:00+03:00",
+          "stop": "2026-11-19T14:30:00+03:00",
+          "title": "Ненормальный.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T14:30:00+03:00",
+          "stop": "2026-11-19T16:05:00+03:00",
+          "title": "Эта любовь.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T16:05:00+03:00",
+          "stop": "2026-11-19T17:55:00+03:00",
+          "title": "Иван-врач.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:55:00+03:00",
+          "stop": "2026-11-19T20:00:00+03:00",
+          "title": "Между нами лето.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:00:00+03:00",
+          "stop": "2026-11-19T22:00:00+03:00",
+          "title": "Петрополис.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T22:00:00+03:00",
+          "stop": "2026-11-19T23:50:00+03:00",
+          "title": "Землетрясение.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T23:50:00+03:00",
+          "stop": "2026-11-20T01:15:00+03:00",
+          "title": "Смайлик.",
           "description": "L",
           "category": null
         }
