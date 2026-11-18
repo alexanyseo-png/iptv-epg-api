@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-17T20:58:44.657237+00:00",
+  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
   "available": true,
-  "programmeCount": 3,
+  "programmeCount": 6,
   "days": [
-    {
-      "date": "2026-11-17",
-      "programs": [
-        {
-          "start": "2026-11-17T08:00:00+03:00",
-          "stop": "2026-11-18T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-18",
       "programs": [
@@ -42,6 +30,39 @@
         {
           "start": "2026-11-19T08:00:00+03:00",
           "stop": "2026-11-20T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "programs": [
+        {
+          "start": "2026-11-20T08:00:00+03:00",
+          "stop": "2026-11-20T19:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T19:40:00+03:00",
+          "stop": "2026-11-20T20:00:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T20:00:00+03:00",
+          "stop": "2026-11-20T22:30:00+03:00",
+          "title": "Live 2. BL: Arminia Bielefeld – 1. FC Magdeburg, 12. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T22:30:00+03:00",
+          "stop": "2026-11-21T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

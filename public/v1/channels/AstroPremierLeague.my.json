@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-17T20:58:44.657237+00:00",
+  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
   "available": true,
-  "programmeCount": 42,
+  "programmeCount": 43,
   "days": [
-    {
-      "date": "2026-11-17",
-      "programs": [
-        {
-          "start": "2026-11-17T01:00:00+03:00",
-          "stop": "2026-11-17T03:10:00+03:00",
-          "title": "PL: Fulham vs Newcastle",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T03:10:00+03:00",
-          "stop": "2026-11-17T06:00:00+03:00",
-          "title": "PL: Leeds vs Tottenham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T06:00:00+03:00",
-          "stop": "2026-11-17T07:00:00+03:00",
-          "title": "PL Moments Ep.2: Ashley Young",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T07:00:00+03:00",
-          "stop": "2026-11-17T09:20:00+03:00",
-          "title": "PL: Man City vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T09:20:00+03:00",
-          "stop": "2026-11-17T12:40:00+03:00",
-          "title": "PL: Man Ud vs Tottenham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T12:40:00+03:00",
-          "stop": "2026-11-17T14:50:00+03:00",
-          "title": "PL: Crystal Palace vs Liverpool",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T14:50:00+03:00",
-          "stop": "2026-11-17T15:20:00+03:00",
-          "title": "Chelsea 1-3 Liverpool 2015/16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T15:20:00+03:00",
-          "stop": "2026-11-17T15:50:00+03:00",
-          "title": "Newcastle United 6-0 Aston Villa 2010/11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T15:50:00+03:00",
-          "stop": "2026-11-17T18:55:00+03:00",
-          "title": "PL: Man Utd vs Man City",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T18:55:00+03:00",
-          "stop": "2026-11-17T21:50:00+03:00",
-          "title": "PL: Arsenal vs Chelsea",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T21:50:00+03:00",
-          "stop": "2026-11-17T22:20:00+03:00",
-          "title": "Chelsea 1-3 Liverpool 2015/16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T22:20:00+03:00",
-          "stop": "2026-11-17T22:50:00+03:00",
-          "title": "Newcastle United 6-0 Aston Villa 2010/11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T22:50:00+03:00",
-          "stop": "2026-11-18T01:00:00+03:00",
-          "title": "PL: Crystal Palace vs Nottm Forest",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-18",
       "programs": [
@@ -316,6 +220,109 @@
           "start": "2026-11-19T22:50:00+03:00",
           "stop": "2026-11-20T01:00:00+03:00",
           "title": "PL: Hull City vs Everton",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "programs": [
+        {
+          "start": "2026-11-20T01:00:00+03:00",
+          "stop": "2026-11-20T03:10:00+03:00",
+          "title": "PL: Crystal Palace vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T03:10:00+03:00",
+          "stop": "2026-11-20T05:20:00+03:00",
+          "title": "PL: Ipswich vs Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T05:20:00+03:00",
+          "stop": "2026-11-20T05:50:00+03:00",
+          "title": "PL Stories 2026/27: Amad Diallo",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T05:50:00+03:00",
+          "stop": "2026-11-20T06:20:00+03:00",
+          "title": "PL Stories 2026/27: Nemanja Matic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T06:20:00+03:00",
+          "stop": "2026-11-20T08:40:00+03:00",
+          "title": "PL: Brentford vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:40:00+03:00",
+          "stop": "2026-11-20T12:20:00+03:00",
+          "title": "PL: Hull vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T12:20:00+03:00",
+          "stop": "2026-11-20T14:30:00+03:00",
+          "title": "PL: Arsenal vs Hull",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T14:30:00+03:00",
+          "stop": "2026-11-20T15:00:00+03:00",
+          "title": "PL Stories 2026/27: Nemanja Matic",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T15:00:00+03:00",
+          "stop": "2026-11-20T15:30:00+03:00",
+          "title": "PL Rewind: David James: My Premier League Years",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T15:30:00+03:00",
+          "stop": "2026-11-20T16:00:00+03:00",
+          "title": "Manchester City 3-1 Newcastle United 200",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T16:00:00+03:00",
+          "stop": "2026-11-20T19:10:00+03:00",
+          "title": "PL: Chelsea vs Man Utd",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T19:10:00+03:00",
+          "stop": "2026-11-20T22:00:00+03:00",
+          "title": "Legends Football Match: Game4Ricky",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T22:00:00+03:00",
+          "stop": "2026-11-20T23:00:00+03:00",
+          "title": "The Art of…: The Evolution Of The Premier League Goalkeeper",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T23:00:00+03:00",
+          "stop": "2026-11-21T01:10:00+03:00",
+          "title": "PL: Sunderland vs Brighton",
           "description": "L",
           "category": null
         }

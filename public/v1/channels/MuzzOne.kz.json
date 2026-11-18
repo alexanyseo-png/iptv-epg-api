@@ -8,118 +8,99 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-17T20:58:44.657237+00:00",
+  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 48,
   "days": [
-    {
-      "date": "2026-11-17",
-      "programs": [
-        {
-          "start": "2026-11-17T05:00:00+03:00",
-          "stop": "2026-11-17T16:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T16:00:00+03:00",
-          "stop": "2026-11-17T16:05:00+03:00",
-          "title": "По ту сторону знаков",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T16:05:00+03:00",
-          "stop": "2026-11-17T17:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T17:00:00+03:00",
-          "stop": "2026-11-17T17:05:00+03:00",
-          "title": "Анастасия Колемасованың қаржы империясы",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T17:05:00+03:00",
-          "stop": "2026-11-17T18:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T18:00:00+03:00",
-          "stop": "2026-11-17T18:30:00+03:00",
-          "title": "K-поп",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T18:30:00+03:00",
-          "stop": "2026-11-17T19:30:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T19:30:00+03:00",
-          "stop": "2026-11-17T19:35:00+03:00",
-          "title": "Kids star (Мария Шевкуновамен)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T19:35:00+03:00",
-          "stop": "2026-11-17T22:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-17T22:00:00+03:00",
-          "stop": "2026-11-18T05:00:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-18",
       "programs": [
         {
           "start": "2026-11-18T05:00:00+03:00",
-          "stop": "2026-11-18T08:00:00+03:00",
+          "stop": "2026-11-18T06:04:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T08:00:00+03:00",
+          "start": "2026-11-18T06:04:00+03:00",
+          "stop": "2026-11-18T06:30:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T06:30:00+03:00",
+          "stop": "2026-11-18T08:03:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T08:03:00+03:00",
           "stop": "2026-11-18T08:30:00+03:00",
-          "title": "Персона",
+          "title": "Персона (Александра Толмачева)",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-18T08:30:00+03:00",
-          "stop": "2026-11-18T11:30:00+03:00",
+          "stop": "2026-11-18T09:00:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T11:30:00+03:00",
-          "stop": "2026-11-18T11:35:00+03:00",
-          "title": "Jewelry zone",
+          "start": "2026-11-18T09:00:00+03:00",
+          "stop": "2026-11-18T09:30:00+03:00",
+          "title": "Gold",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T11:35:00+03:00",
+          "start": "2026-11-18T09:30:00+03:00",
+          "stop": "2026-11-18T10:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T10:30:00+03:00",
+          "stop": "2026-11-18T11:00:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T11:00:00+03:00",
+          "stop": "2026-11-18T11:31:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T11:31:00+03:00",
+          "stop": "2026-11-18T11:36:00+03:00",
+          "title": "Jewelry zone (Павел Ворошиловпен)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T11:36:00+03:00",
+          "stop": "2026-11-18T12:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T12:00:00+03:00",
+          "stop": "2026-11-18T12:30:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T12:30:00+03:00",
           "stop": "2026-11-18T14:30:00+03:00",
           "title": "Hit Zone",
           "description": "L",
@@ -127,13 +108,27 @@
         },
         {
           "start": "2026-11-18T14:30:00+03:00",
-          "stop": "2026-11-18T15:00:00+03:00",
-          "title": "Персона (Екатерина Ильясова)",
+          "stop": "2026-11-18T14:56:00+03:00",
+          "title": "Персона (Екатерина Ілиясова)",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T15:00:00+03:00",
+          "start": "2026-11-18T14:56:00+03:00",
+          "stop": "2026-11-18T17:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T17:00:00+03:00",
+          "stop": "2026-11-18T17:30:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T17:30:00+03:00",
           "stop": "2026-11-18T18:00:00+03:00",
           "title": "Hit Zone",
           "description": "L",
@@ -141,21 +136,70 @@
         },
         {
           "start": "2026-11-18T18:00:00+03:00",
-          "stop": "2026-11-18T18:30:00+03:00",
+          "stop": "2026-11-18T18:33:00+03:00",
           "title": "K-поп",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T18:30:00+03:00",
-          "stop": "2026-11-18T22:00:00+03:00",
+          "start": "2026-11-18T18:33:00+03:00",
+          "stop": "2026-11-18T18:35:00+03:00",
           "title": "Hit Zone",
           "description": "L",
           "category": null
         },
         {
+          "start": "2026-11-18T18:35:00+03:00",
+          "stop": "2026-11-18T18:53:00+03:00",
+          "title": "Білім ғылым 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T18:53:00+03:00",
+          "stop": "2026-11-18T19:02:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T19:02:00+03:00",
+          "stop": "2026-11-18T19:07:00+03:00",
+          "title": "Школа аудита",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T19:07:00+03:00",
+          "stop": "2026-11-18T19:33:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T19:33:00+03:00",
+          "stop": "2026-11-18T20:00:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T20:00:00+03:00",
+          "stop": "2026-11-18T21:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-18T21:30:00+03:00",
+          "stop": "2026-11-18T22:00:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-11-18T22:00:00+03:00",
-          "stop": "2026-11-19T05:00:00+03:00",
+          "stop": "2026-11-19T01:04:00+03:00",
           "title": "Түнгі тыныс",
           "description": "L",
           "category": null
@@ -166,6 +210,41 @@
       "date": "2026-11-19",
       "programs": [
         {
+          "start": "2026-11-19T01:04:00+03:00",
+          "stop": "2026-11-19T01:34:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T01:34:00+03:00",
+          "stop": "2026-11-19T03:03:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T03:03:00+03:00",
+          "stop": "2026-11-19T03:30:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T03:30:00+03:00",
+          "stop": "2026-11-19T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T05:00:00+03:00",
+          "stop": "2026-11-19T05:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
           "start": "2026-11-19T05:00:00+03:00",
           "stop": "2026-11-19T11:00:00+03:00",
           "title": "Hit Zone",
@@ -175,7 +254,7 @@
         {
           "start": "2026-11-19T11:00:00+03:00",
           "stop": "2026-11-19T11:30:00+03:00",
-          "title": "Персона",
+          "title": "Персона (Александра Толмачева)",
           "description": "L",
           "category": null
         },
@@ -203,7 +282,7 @@
         {
           "start": "2026-11-19T20:00:00+03:00",
           "stop": "2026-11-19T20:30:00+03:00",
-          "title": "Персона (Екатерина Ильясова)",
+          "title": "Персона (Екатерина Ілиясова)",
           "description": "L",
           "category": null
         },
@@ -217,6 +296,67 @@
         {
           "start": "2026-11-19T22:00:00+03:00",
           "stop": "2026-11-20T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-20",
+      "programs": [
+        {
+          "start": "2026-11-20T05:00:00+03:00",
+          "stop": "2026-11-20T08:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:30:00+03:00",
+          "stop": "2026-11-20T08:35:00+03:00",
+          "title": "Железная lady (Мария Спиридонова)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:35:00+03:00",
+          "stop": "2026-11-20T16:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T16:00:00+03:00",
+          "stop": "2026-11-20T16:30:00+03:00",
+          "title": "Персона (Екатерина Ілиясова)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T16:30:00+03:00",
+          "stop": "2026-11-20T18:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:00:00+03:00",
+          "stop": "2026-11-20T18:30:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:30:00+03:00",
+          "stop": "2026-11-20T22:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T22:00:00+03:00",
+          "stop": "2026-11-21T05:00:00+03:00",
           "title": "Түнгі тыныс",
           "description": "L",
           "category": null
