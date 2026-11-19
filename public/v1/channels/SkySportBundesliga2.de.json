@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
+  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 15,
   "days": [
-    {
-      "date": "2026-11-18",
-      "programs": [
-        {
-          "start": "2026-11-18T08:00:00+03:00",
-          "stop": "2026-11-19T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-19",
       "programs": [
@@ -71,6 +59,74 @@
           "start": "2026-11-20T23:15:00+03:00",
           "stop": "2026-11-21T08:00:00+03:00",
           "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "programs": [
+        {
+          "start": "2026-11-21T08:00:00+03:00",
+          "stop": "2026-11-21T14:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:10:00+03:00",
+          "stop": "2026-11-21T14:30:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:30:00+03:00",
+          "stop": "2026-11-21T17:00:00+03:00",
+          "title": "Live 2. BL: Samstags-Konferenz, 12. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:00:00+03:00",
+          "stop": "2026-11-21T17:15:00+03:00",
+          "title": "Live BL: B04 – SCP: NEO.bet Countdown, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:15:00+03:00",
+          "stop": "2026-11-21T19:30:00+03:00",
+          "title": "Live BL: Bayer Leverkusen – SC Paderborn 07, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T19:30:00+03:00",
+          "stop": "2026-11-21T20:45:00+03:00",
+          "title": "Live BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 10. Spieltag, Samstag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:45:00+03:00",
+          "stop": "2026-11-21T21:00:00+03:00",
+          "title": "BL: Highlights XXL: FCB – KOE, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T21:00:00+03:00",
+          "stop": "2026-11-21T22:00:00+03:00",
+          "title": "2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Samstag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T22:00:00+03:00",
+          "stop": "2026-11-22T01:00:00+03:00",
+          "title": "Live 2. BL: FC St. Pauli – VfL Bochum, tipico Topspiel der Woche, 12. Spieltag",
           "description": "L",
           "category": null
         }

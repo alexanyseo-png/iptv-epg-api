@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
+  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
   "available": true,
-  "programmeCount": 34,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-11-18",
-      "programs": [
-        {
-          "start": "2026-11-18T00:00:00+03:00",
-          "stop": "2026-11-18T08:00:00+03:00",
-          "title": "Бойові сили",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:00:00+03:00",
-          "stop": "2026-11-18T09:00:00+03:00",
-          "title": "Авто року 2026",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:00:00+03:00",
-          "stop": "2026-11-18T10:00:00+03:00",
-          "title": "Green Mobility News",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T10:00:00+03:00",
-          "stop": "2026-11-18T11:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T11:00:00+03:00",
-          "stop": "2026-11-18T12:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T12:00:00+03:00",
-          "stop": "2026-11-18T13:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T13:00:00+03:00",
-          "stop": "2026-11-18T15:00:00+03:00",
-          "title": "ByCar драйв",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T15:00:00+03:00",
-          "stop": "2026-11-18T17:30:00+03:00",
-          "title": "Мотоспорт. MotoGP. 2026 с-н",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:30:00+03:00",
-          "stop": "2026-11-18T20:00:00+03:00",
-          "title": "Як працюють машини",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T20:00:00+03:00",
-          "stop": "2026-11-18T21:00:00+03:00",
-          "title": "Електромобілі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T21:00:00+03:00",
-          "stop": "2026-11-18T22:00:00+03:00",
-          "title": "Перший тест",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T22:00:00+03:00",
-          "stop": "2026-11-19T00:00:00+03:00",
-          "title": "Сімейний тест-драйв",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-19",
       "programs": [
@@ -259,6 +170,88 @@
         {
           "start": "2026-11-20T22:00:00+03:00",
           "stop": "2026-11-21T00:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "programs": [
+        {
+          "start": "2026-11-21T00:00:00+03:00",
+          "stop": "2026-11-21T09:30:00+03:00",
+          "title": "Історії автомобілів",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:30:00+03:00",
+          "stop": "2026-11-21T10:00:00+03:00",
+          "title": "Green Mobility News",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T10:00:00+03:00",
+          "stop": "2026-11-21T11:00:00+03:00",
+          "title": "Сімейний тест-драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T11:00:00+03:00",
+          "stop": "2026-11-21T12:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T12:00:00+03:00",
+          "stop": "2026-11-21T14:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:00:00+03:00",
+          "stop": "2026-11-21T16:00:00+03:00",
+          "title": "Адреналін Драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T16:00:00+03:00",
+          "stop": "2026-11-21T18:00:00+03:00",
+          "title": "ByCar драйв",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T18:00:00+03:00",
+          "stop": "2026-11-21T20:00:00+03:00",
+          "title": "Як працюють машини",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:00:00+03:00",
+          "stop": "2026-11-21T21:00:00+03:00",
+          "title": "Електромобілі",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T21:00:00+03:00",
+          "stop": "2026-11-21T22:00:00+03:00",
+          "title": "Перший тест",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T22:00:00+03:00",
+          "stop": "2026-11-22T00:00:00+03:00",
           "title": "Сімейний тест-драйв",
           "description": "L",
           "category": null

@@ -8,22 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
+  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
   "available": true,
-  "programmeCount": 6,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-11-18",
-      "programs": [
-        {
-          "start": "2026-11-18T08:00:00+03:00",
-          "stop": "2026-11-19T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-19",
       "programs": [
@@ -64,6 +52,67 @@
           "start": "2026-11-20T22:30:00+03:00",
           "stop": "2026-11-21T00:30:00+03:00",
           "title": "Live BL: Sky Sport Fantasy: FCB – KOE, 10. Spieltag",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "programs": [
+        {
+          "start": "2026-11-21T00:30:00+03:00",
+          "stop": "2026-11-21T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:00:00+03:00",
+          "stop": "2026-11-21T14:10:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:10:00+03:00",
+          "stop": "2026-11-21T14:30:00+03:00",
+          "title": "Es folgt: Live 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:30:00+03:00",
+          "stop": "2026-11-21T17:00:00+03:00",
+          "title": "Live 2. BL: VfL Wolfsburg – Holstein Kiel, 12. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:00:00+03:00",
+          "stop": "2026-11-21T17:15:00+03:00",
+          "title": "Live BL: SGE – TSG: NEO.bet Countdown, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:15:00+03:00",
+          "stop": "2026-11-21T19:45:00+03:00",
+          "title": "Live BL: Eintracht Frankfurt – TSG Hoffenheim, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T19:45:00+03:00",
+          "stop": "2026-11-21T23:15:00+03:00",
+          "title": "Live BL: Tactical Feed: S04 – VFB, 10. Spieltag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T23:15:00+03:00",
+          "stop": "2026-11-22T08:00:00+03:00",
+          "title": "Sendepause",
           "description": "L",
           "category": null
         }

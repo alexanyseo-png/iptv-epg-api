@@ -8,358 +8,1049 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
+  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 147,
   "days": [
     {
-      "date": "2026-11-18",
+      "date": "2026-11-19",
       "programs": [
         {
-          "start": "2026-11-18T00:30:00+03:00",
-          "stop": "2026-11-18T02:05:00+03:00",
-          "title": "Jack Garfein: vastuvoolu.",
+          "start": "2026-11-19T00:15:00+03:00",
+          "stop": "2026-11-19T00:40:00+03:00",
+          "title": "Relvavennad.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T02:05:00+03:00",
-          "stop": "2026-11-18T02:30:00+03:00",
-          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: Desperate Doings in the Graveyard.",
+          "start": "2026-11-19T00:40:00+03:00",
+          "stop": "2026-11-19T02:15:00+03:00",
+          "title": "Joy teekond.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T02:30:00+03:00",
-          "stop": "2026-11-18T02:55:00+03:00",
-          "title": "Päeva püük.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T02:55:00+03:00",
-          "stop": "2026-11-18T03:59:00+03:00",
-          "title": "Vana Markku.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T03:59:00+03:00",
-          "stop": "2026-11-18T08:00:00+03:00",
-          "title": "ERR.ee uudised.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:00:00+03:00",
-          "stop": "2026-11-18T08:10:00+03:00",
-          "title": "Go Jetters: Kristallkoobas Mehhikos.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:10:00+03:00",
-          "stop": "2026-11-18T08:20:00+03:00",
-          "title": "Les trois Bricochons: Tublid abilised.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:20:00+03:00",
-          "stop": "2026-11-18T08:30:00+03:00",
-          "title": "Сказки домика на дереве: Le cerf-volant de Toshiro.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:30:00+03:00",
-          "stop": "2026-11-18T08:55:00+03:00",
-          "title": "Ella, Oscar & Hoo: Uurijad.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T08:55:00+03:00",
-          "stop": "2026-11-18T09:05:00+03:00",
-          "title": "De Regels van Floor: Emale appi!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:05:00+03:00",
-          "stop": "2026-11-18T09:15:00+03:00",
-          "title": "Pisid: Paharetid.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:15:00+03:00",
-          "stop": "2026-11-18T09:20:00+03:00",
-          "title": "Анна и друзья: Таинственный гость.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:20:00+03:00",
-          "stop": "2026-11-18T09:35:00+03:00",
-          "title": "The Brilliant World of Tom Gates: Vorstipirukas.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:35:00+03:00",
-          "stop": "2026-11-18T09:40:00+03:00",
-          "title": "The Happy Monster: Langevate tähtede öö.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:40:00+03:00",
-          "stop": "2026-11-18T09:45:00+03:00",
-          "title": "Пингвиненок Джаспер: Avis de recherche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T09:45:00+03:00",
-          "stop": "2026-11-18T10:00:00+03:00",
-          "title": "Проказник Энджело: Piiriala perekond.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T10:00:00+03:00",
-          "stop": "2026-11-18T11:00:00+03:00",
-          "title": "Ringvaade.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T11:00:00+03:00",
-          "stop": "2026-11-18T11:30:00+03:00",
-          "title": "Эстонская игра. Телеигра.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T11:30:00+03:00",
-          "stop": "2026-11-18T12:00:00+03:00",
-          "title": "Эх прокачу!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T12:00:00+03:00",
-          "stop": "2026-11-18T13:00:00+03:00",
-          "title": "Импульс.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T13:00:00+03:00",
-          "stop": "2026-11-18T15:00:00+03:00",
-          "title": "Riigikogu infotund.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T15:00:00+03:00",
-          "stop": "2026-11-18T15:25:00+03:00",
-          "title": "Первая студия.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T15:25:00+03:00",
-          "stop": "2026-11-18T15:55:00+03:00",
-          "title": "Killud: Kadri Voorand.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T15:55:00+03:00",
-          "stop": "2026-11-18T16:30:00+03:00",
-          "title": "Томми Кэш. Эспрессо Эстония.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T16:30:00+03:00",
-          "stop": "2026-11-18T17:00:00+03:00",
-          "title": "Operation Ouch!: Ask Us Anything!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:00:00+03:00",
-          "stop": "2026-11-18T17:10:00+03:00",
-          "title": "Семья Барсуковых: Les ennuis arrivent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:10:00+03:00",
-          "stop": "2026-11-18T17:20:00+03:00",
-          "title": "Проказник Энджело: Karate-lapsed.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:20:00+03:00",
-          "stop": "2026-11-18T17:30:00+03:00",
-          "title": "Анна и друзья: Скрипучие сапожки.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:30:00+03:00",
-          "stop": "2026-11-18T17:40:00+03:00",
-          "title": "Pisid: Põssa kunst.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:40:00+03:00",
-          "stop": "2026-11-18T17:45:00+03:00",
-          "title": "The Super Heroes of Nature: Lüürasaba. Ühelinnubänd.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:45:00+03:00",
-          "stop": "2026-11-18T17:55:00+03:00",
-          "title": "Hey Duggee: Mõistatusemärk.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:55:00+03:00",
-          "stop": "2026-11-18T18:00:00+03:00",
-          "title": "Gigglebug: Äärmusseiklus.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:00:00+03:00",
-          "stop": "2026-11-18T18:10:00+03:00",
-          "title": "Les trois Bricochons: Vaak-Vaak!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:10:00+03:00",
-          "stop": "2026-11-18T18:20:00+03:00",
-          "title": "Mojo Swoptops: Hävitaja hai.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:20:00+03:00",
-          "stop": "2026-11-18T18:30:00+03:00",
-          "title": "Pipo, Pepa & Pop: Lubadus on lubadus.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:30:00+03:00",
-          "stop": "2026-11-18T18:50:00+03:00",
-          "title": "Miraculous: Tales of Ladybug & Cat Noir: Tuvihärra 72.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:50:00+03:00",
-          "stop": "2026-11-18T18:55:00+03:00",
-          "title": "Muusikavideod ETV2: Laulupesa. Väikene soov.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:55:00+03:00",
-          "stop": "2026-11-18T19:05:00+03:00",
-          "title": "De Regels van Floor: Fitboy.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T19:05:00+03:00",
-          "stop": "2026-11-18T19:20:00+03:00",
-          "title": "The Brilliant World of Tom Gates: Päikseline päev.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T19:20:00+03:00",
-          "stop": "2026-11-18T19:45:00+03:00",
-          "title": "Ronja, the Robber's Daughter: Vilistaja kuulmine.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T19:45:00+03:00",
-          "stop": "2026-11-18T20:15:00+03:00",
-          "title": "Эстонская игра. Телеигра.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T20:15:00+03:00",
-          "stop": "2026-11-18T20:25:00+03:00",
-          "title": "Kultuuriuudised.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T20:25:00+03:00",
-          "stop": "2026-11-18T20:30:00+03:00",
-          "title": "Aktuaalne kaamera (viipekeeles).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T20:30:00+03:00",
-          "stop": "2026-11-18T21:00:00+03:00",
-          "title": "Эх прокачу!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T21:00:00+03:00",
-          "stop": "2026-11-18T22:00:00+03:00",
-          "title": "Земля: Атмосфера.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T22:00:00+03:00",
-          "stop": "2026-11-18T22:30:00+03:00",
+          "start": "2026-11-19T02:15:00+03:00",
+          "stop": "2026-11-19T02:40:00+03:00",
           "title": "Алло, алло! Комед. сериал. Англия 1982-1992: The Gestapo for the High Jump.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T22:30:00+03:00",
-          "stop": "2026-11-18T23:15:00+03:00",
+          "start": "2026-11-19T02:40:00+03:00",
+          "stop": "2026-11-19T03:10:00+03:00",
+          "title": "Projekts: šķiršanās.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T03:10:00+03:00",
+          "stop": "2026-11-19T04:07:00+03:00",
+          "title": "Новая роль Филиппин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T04:07:00+03:00",
+          "stop": "2026-11-19T08:00:00+03:00",
+          "title": "ERR.ee uudised.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:00:00+03:00",
+          "stop": "2026-11-19T08:10:00+03:00",
+          "title": "Mojo Swoptops: Hävitaja hai.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:10:00+03:00",
+          "stop": "2026-11-19T08:20:00+03:00",
+          "title": "Les trois Bricochons: Klaus mõtleb suurelt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:20:00+03:00",
+          "stop": "2026-11-19T08:30:00+03:00",
+          "title": "De Regels van Floor: Fitboy.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:30:00+03:00",
+          "stop": "2026-11-19T08:55:00+03:00",
+          "title": "Miraculous: Tales of Ladybug & Cat Noir: Tuvihärra 72.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T08:55:00+03:00",
+          "stop": "2026-11-19T09:05:00+03:00",
+          "title": "Pisid: Põssa kunst.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:05:00+03:00",
+          "stop": "2026-11-19T09:15:00+03:00",
+          "title": "The Brilliant World of Tom Gates: Päikseline päev.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:15:00+03:00",
+          "stop": "2026-11-19T09:25:00+03:00",
+          "title": "Пингвиненок Джаспер: L'épouvantail.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:25:00+03:00",
+          "stop": "2026-11-19T09:30:00+03:00",
+          "title": "Gigglebug: Äärmusseiklus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:30:00+03:00",
+          "stop": "2026-11-19T09:35:00+03:00",
+          "title": "Hey Duggee: Mõistatusemärk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:35:00+03:00",
+          "stop": "2026-11-19T09:45:00+03:00",
+          "title": "Les trois Bricochons: Vaak-Vaak!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T09:45:00+03:00",
+          "stop": "2026-11-19T10:00:00+03:00",
+          "title": "Проказник Энджело: Karate-lapsed.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T10:00:00+03:00",
+          "stop": "2026-11-19T11:00:00+03:00",
+          "title": "Ringvaade.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T11:00:00+03:00",
+          "stop": "2026-11-19T11:30:00+03:00",
+          "title": "Эстонская игра. Телеигра.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T11:30:00+03:00",
+          "stop": "2026-11-19T12:00:00+03:00",
+          "title": "На \"Жигулях\" по странам Балтии.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T12:00:00+03:00",
+          "stop": "2026-11-19T12:50:00+03:00",
+          "title": "Walking with Dinosaurs: Kari.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T12:50:00+03:00",
+          "stop": "2026-11-19T13:35:00+03:00",
+          "title": "Дунай с Джоанной Ламли: Danube Delta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T13:35:00+03:00",
+          "stop": "2026-11-19T14:20:00+03:00",
           "title": "Brian Johnson's A Life on the Road: Mark Knopfler.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-18T23:15:00+03:00",
-          "stop": "2026-11-19T00:15:00+03:00",
-          "title": "Вавилон-Берлин.",
+          "start": "2026-11-19T14:20:00+03:00",
+          "stop": "2026-11-19T14:45:00+03:00",
+          "title": "Первая студия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T14:45:00+03:00",
+          "stop": "2026-11-19T15:05:00+03:00",
+          "title": "Unistuste puu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T15:05:00+03:00",
+          "stop": "2026-11-19T15:10:00+03:00",
+          "title": "Üks koorilaul: Nokturn.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T15:10:00+03:00",
+          "stop": "2026-11-19T15:30:00+03:00",
+          "title": "Парламент: On peut plus rien dire.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T15:30:00+03:00",
+          "stop": "2026-11-19T16:00:00+03:00",
+          "title": "Парламент: Le background.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T16:00:00+03:00",
+          "stop": "2026-11-19T16:30:00+03:00",
+          "title": "Wikmani poisid.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T16:30:00+03:00",
+          "stop": "2026-11-19T16:55:00+03:00",
+          "title": "Prügihunt ja Superjänes: Ohtlik või ohutu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T16:55:00+03:00",
+          "stop": "2026-11-19T17:00:00+03:00",
+          "title": "Pipo, Pepa & Pop: Lubadus on lubadus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:00:00+03:00",
+          "stop": "2026-11-19T17:15:00+03:00",
+          "title": "Семья Барсуковых: Ex meilleures amies.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:15:00+03:00",
+          "stop": "2026-11-19T17:25:00+03:00",
+          "title": "Ziggy en de Zootram: Takistus teel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:25:00+03:00",
+          "stop": "2026-11-19T17:35:00+03:00",
+          "title": "Сэм и Джулия: La pétarade.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:35:00+03:00",
+          "stop": "2026-11-19T17:45:00+03:00",
+          "title": "Pisid: Igav linn.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:45:00+03:00",
+          "stop": "2026-11-19T17:50:00+03:00",
+          "title": "Oravametsä: Kirpe kantseldamas.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:50:00+03:00",
+          "stop": "2026-11-19T17:55:00+03:00",
+          "title": "Hey Duggee: Märulikangelasemärk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T17:55:00+03:00",
+          "stop": "2026-11-19T18:00:00+03:00",
+          "title": "Puu ja mesilane: Mängureeglid.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T18:00:00+03:00",
+          "stop": "2026-11-19T18:15:00+03:00",
+          "title": "Ella, Oscar & Hoo: Superkangelane.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T18:15:00+03:00",
+          "stop": "2026-11-19T18:25:00+03:00",
+          "title": "Mojo Swoptops: Köisraudtee kriis.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T18:25:00+03:00",
+          "stop": "2026-11-19T18:30:00+03:00",
+          "title": "Пингвиненок Джаспер: Jasper im Hotel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T18:30:00+03:00",
+          "stop": "2026-11-19T18:55:00+03:00",
+          "title": "Miraculous: Tales of Ladybug & Cat Noir: Psühhokoomik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T18:55:00+03:00",
+          "stop": "2026-11-19T19:00:00+03:00",
+          "title": "The Super Heroes of Nature: Meripura - kurjad nuudlid vürtsikas kastmes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T19:00:00+03:00",
+          "stop": "2026-11-19T19:20:00+03:00",
+          "title": "Драконы и всадники Олуха 2: Sulamängud.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T19:20:00+03:00",
+          "stop": "2026-11-19T19:45:00+03:00",
+          "title": "Муми-тролли: Hüvasti, Tusklikupreili.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T19:45:00+03:00",
+          "stop": "2026-11-19T20:15:00+03:00",
+          "title": "Эстонская игра. Телеигра.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:15:00+03:00",
+          "stop": "2026-11-19T20:25:00+03:00",
+          "title": "Kultuuriuudised.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:25:00+03:00",
+          "stop": "2026-11-19T20:30:00+03:00",
+          "title": "Aktuaalne kaamera (viipekeeles).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T20:30:00+03:00",
+          "stop": "2026-11-19T21:00:00+03:00",
+          "title": "На \"Жигулях\" по странам Балтии.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T21:00:00+03:00",
+          "stop": "2026-11-19T21:45:00+03:00",
+          "title": "Life Below Zero: Canada: Tulgu või veeuputus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T21:45:00+03:00",
+          "stop": "2026-11-19T21:55:00+03:00",
+          "title": "Мир в замедленном темпе: Новая Зеландия, часть 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T21:55:00+03:00",
+          "stop": "2026-11-19T22:05:00+03:00",
+          "title": "Мир в замедленном темпе: Новая Зеландия, часть 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T22:05:00+03:00",
+          "stop": "2026-11-19T22:30:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: The Nouvion Oars.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T22:30:00+03:00",
+          "stop": "2026-11-19T23:00:00+03:00",
+          "title": "Päeva püük.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-19T23:00:00+03:00",
+          "stop": "2026-11-20T00:40:00+03:00",
+          "title": "O2.",
           "description": "L",
           "category": null
         }
       ]
     },
     {
-      "date": "2026-11-19",
+      "date": "2026-11-20",
       "programs": [
         {
-          "start": "2026-11-19T00:15:00+03:00",
-          "stop": "2026-11-19T01:15:00+03:00",
-          "title": "Relvavennad.",
+          "start": "2026-11-20T00:40:00+03:00",
+          "stop": "2026-11-20T02:30:00+03:00",
+          "title": "Pet Shop Boys в Копенгагене.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T02:30:00+03:00",
+          "stop": "2026-11-20T02:55:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: The Nouvion Oars.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T02:55:00+03:00",
+          "stop": "2026-11-20T03:20:00+03:00",
+          "title": "Päeva püük.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T03:20:00+03:00",
+          "stop": "2026-11-20T04:14:00+03:00",
+          "title": "Secrets of the Superagers: Mõistus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T04:14:00+03:00",
+          "stop": "2026-11-20T08:00:00+03:00",
+          "title": "ERR.ee uudised.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:00:00+03:00",
+          "stop": "2026-11-20T08:10:00+03:00",
+          "title": "Mojo Swoptops: Köisraudtee kriis.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:10:00+03:00",
+          "stop": "2026-11-20T08:20:00+03:00",
+          "title": "Ella, Oscar & Hoo: Superkangelane.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:20:00+03:00",
+          "stop": "2026-11-20T08:25:00+03:00",
+          "title": "Пингвиненок Джаспер: Passage à volonté.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:25:00+03:00",
+          "stop": "2026-11-20T08:50:00+03:00",
+          "title": "Miraculous: Tales of Ladybug & Cat Noir: Psühhokoomik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T08:50:00+03:00",
+          "stop": "2026-11-20T09:00:00+03:00",
+          "title": "Pisid: Igav linn.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:00:00+03:00",
+          "stop": "2026-11-20T09:10:00+03:00",
+          "title": "Сэм и Джулия: La pétarade.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:10:00+03:00",
+          "stop": "2026-11-20T09:15:00+03:00",
+          "title": "Hey Duggee: Märulikangelasemärk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:15:00+03:00",
+          "stop": "2026-11-20T09:30:00+03:00",
+          "title": "Семья Барсуковых: Bien fait pour les chats.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:30:00+03:00",
+          "stop": "2026-11-20T09:35:00+03:00",
+          "title": "Анна и друзья: Скрипучие сапожки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:35:00+03:00",
+          "stop": "2026-11-20T09:50:00+03:00",
+          "title": "Семья Барсуковых: Blaireau ou renard.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T09:50:00+03:00",
+          "stop": "2026-11-20T10:00:00+03:00",
+          "title": "Ziggy en de Zootram: Takistus teel.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T10:00:00+03:00",
+          "stop": "2026-11-20T11:00:00+03:00",
+          "title": "Ringvaade.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T11:00:00+03:00",
+          "stop": "2026-11-20T11:30:00+03:00",
+          "title": "Эстонская игра. Телеигра.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T11:30:00+03:00",
+          "stop": "2026-11-20T11:55:00+03:00",
+          "title": "На \"Жигулях\" по странам Балтии.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T11:55:00+03:00",
+          "stop": "2026-11-20T12:50:00+03:00",
+          "title": "Арктика: неизвестная война: Spioonide külm mängumaa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T12:50:00+03:00",
+          "stop": "2026-11-20T13:45:00+03:00",
+          "title": "Kirjanduse aeg 2024: Chris Carter ja Aleksandr Popov.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T13:45:00+03:00",
+          "stop": "2026-11-20T14:25:00+03:00",
+          "title": "Полярный круг: Ensimmäinen uhri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T14:25:00+03:00",
+          "stop": "2026-11-20T14:50:00+03:00",
+          "title": "Первая студия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T14:50:00+03:00",
+          "stop": "2026-11-20T15:15:00+03:00",
+          "title": "Парламент: Ego te absolvo.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T15:15:00+03:00",
+          "stop": "2026-11-20T15:40:00+03:00",
+          "title": "Парламент: Le grand départ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T15:40:00+03:00",
+          "stop": "2026-11-20T16:30:00+03:00",
+          "title": "Wikmani poisid.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T16:30:00+03:00",
+          "stop": "2026-11-20T17:00:00+03:00",
+          "title": "Art Ninja: Teemantide päev.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:00:00+03:00",
+          "stop": "2026-11-20T17:10:00+03:00",
+          "title": "Семья Барсуковых: Le cerf-volant.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:10:00+03:00",
+          "stop": "2026-11-20T17:20:00+03:00",
+          "title": "Ziggy en de Zootram: Võidusõit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:20:00+03:00",
+          "stop": "2026-11-20T17:30:00+03:00",
+          "title": "Сэм и Джулия: 1,2,3 Gruyère !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:30:00+03:00",
+          "stop": "2026-11-20T17:40:00+03:00",
+          "title": "Pisid: Haisukott.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:40:00+03:00",
+          "stop": "2026-11-20T17:45:00+03:00",
+          "title": "Oravametsä: Kuhu miski kaob?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:45:00+03:00",
+          "stop": "2026-11-20T17:50:00+03:00",
+          "title": "Hey Duggee: Trennimärk.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T17:50:00+03:00",
+          "stop": "2026-11-20T18:00:00+03:00",
+          "title": "Puu ja mesilane: Loss.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:00:00+03:00",
+          "stop": "2026-11-20T18:10:00+03:00",
+          "title": "Ella, Oscar & Hoo: Maitsed ja värvid.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:10:00+03:00",
+          "stop": "2026-11-20T18:20:00+03:00",
+          "title": "Mojo Swoptops: Turbo Ted.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:20:00+03:00",
+          "stop": "2026-11-20T18:30:00+03:00",
+          "title": "Пингвиненок Джаспер: Le cerf-volant.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:30:00+03:00",
+          "stop": "2026-11-20T18:50:00+03:00",
+          "title": "Miraculous: Tales of Ladybug & Cat Noir: Vihane Fu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:50:00+03:00",
+          "stop": "2026-11-20T18:55:00+03:00",
+          "title": "The Super Heroes of Nature: Kõndiv kaktus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T18:55:00+03:00",
+          "stop": "2026-11-20T19:00:00+03:00",
+          "title": "Эстонская музыка: Süüta laternad. Birgit Tiismaa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T19:00:00+03:00",
+          "stop": "2026-11-20T19:20:00+03:00",
+          "title": "Драконы и всадники Олуха 2: Kui välk lööb sisse.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T19:20:00+03:00",
+          "stop": "2026-11-20T19:45:00+03:00",
+          "title": "Долина Муми-троллей: Muumipapan saari.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T19:45:00+03:00",
+          "stop": "2026-11-20T20:15:00+03:00",
+          "title": "Эстонская игра. Телеигра.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T20:15:00+03:00",
+          "stop": "2026-11-20T20:25:00+03:00",
+          "title": "Kultuuriuudised.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T20:25:00+03:00",
+          "stop": "2026-11-20T20:30:00+03:00",
+          "title": "Aktuaalne kaamera (viipekeeles).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T20:30:00+03:00",
+          "stop": "2026-11-20T21:00:00+03:00",
+          "title": "На \"Жигулях\" по странам Балтии.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T21:00:00+03:00",
+          "stop": "2026-11-20T21:50:00+03:00",
+          "title": "С высоты птичьего полета.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T21:50:00+03:00",
+          "stop": "2026-11-20T22:05:00+03:00",
+          "title": "Мир в замедленном темпе: Новая Зеландия.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T22:05:00+03:00",
+          "stop": "2026-11-20T22:30:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T22:30:00+03:00",
+          "stop": "2026-11-20T23:00:00+03:00",
+          "title": "Kadunud Sefari otsingul.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-20T23:00:00+03:00",
+          "stop": "2026-11-21T01:10:00+03:00",
+          "title": "Новый Человек-паук.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "programs": [
+        {
+          "start": "2026-11-21T01:10:00+03:00",
+          "stop": "2026-11-21T01:55:00+03:00",
+          "title": "After the Party.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T01:55:00+03:00",
+          "stop": "2026-11-21T02:55:00+03:00",
+          "title": "Вавилон-Берлин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T02:55:00+03:00",
+          "stop": "2026-11-21T03:20:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T03:20:00+03:00",
+          "stop": "2026-11-21T04:16:00+03:00",
+          "title": "Secrets of the Superagers: Keha.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T04:16:00+03:00",
+          "stop": "2026-11-21T08:00:00+03:00",
+          "title": "ERR.ee uudised.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:00:00+03:00",
+          "stop": "2026-11-21T08:05:00+03:00",
+          "title": "Puu ja mesilane: Mängureeglid.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:05:00+03:00",
+          "stop": "2026-11-21T08:10:00+03:00",
+          "title": "A very small Christmas: Kadunud klahv.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:10:00+03:00",
+          "stop": "2026-11-21T08:15:00+03:00",
+          "title": "Rookie Robot Explores the World: Ruudi ja jääkaru.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:15:00+03:00",
+          "stop": "2026-11-21T08:20:00+03:00",
+          "title": "Numberblocks: Ruuduklubi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:20:00+03:00",
+          "stop": "2026-11-21T08:25:00+03:00",
+          "title": "Colourblocks: Roosa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:25:00+03:00",
+          "stop": "2026-11-21T08:30:00+03:00",
+          "title": "Эдмон и Люси.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:30:00+03:00",
+          "stop": "2026-11-21T08:35:00+03:00",
+          "title": "Приключения Тимми: Timmu palub vabandust.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:35:00+03:00",
+          "stop": "2026-11-21T08:40:00+03:00",
+          "title": "Пингвиненок Джаспер: Joyeuses Pâques.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:40:00+03:00",
+          "stop": "2026-11-21T08:45:00+03:00",
+          "title": "Tuta asjad: Tuta valmistub karnevaliks.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:45:00+03:00",
+          "stop": "2026-11-21T08:50:00+03:00",
+          "title": "Pipo, Pepa & Pop: Kleepsuaare.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T08:50:00+03:00",
+          "stop": "2026-11-21T09:15:00+03:00",
+          "title": "Ronja, the Robber's Daughter: Hirm metsas.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:15:00+03:00",
+          "stop": "2026-11-21T09:25:00+03:00",
+          "title": "Сэм и Джулия: 1,2,3 Gruyère !",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:25:00+03:00",
+          "stop": "2026-11-21T09:45:00+03:00",
+          "title": "Муми-тролли: Hüvasti, Tusklikupreili.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:45:00+03:00",
+          "stop": "2026-11-21T09:55:00+03:00",
+          "title": "De Regels van Floor: Emale appi!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:55:00+03:00",
+          "stop": "2026-11-21T10:00:00+03:00",
+          "title": "The Super Heroes of Nature: Meripura - kurjad nuudlid vürtsikas kastmes.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T10:00:00+03:00",
+          "stop": "2026-11-21T11:25:00+03:00",
+          "title": "Поток.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T11:25:00+03:00",
+          "stop": "2026-11-21T11:30:00+03:00",
+          "title": "Pipo, Pepa & Pop: Pupsu hoiupõrsas.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T11:30:00+03:00",
+          "stop": "2026-11-21T11:35:00+03:00",
+          "title": "Пингвиненок Джаспер: Jasper und das Foto.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T11:35:00+03:00",
+          "stop": "2026-11-21T12:00:00+03:00",
+          "title": "Odd Squad: 1/3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T12:00:00+03:00",
+          "stop": "2026-11-21T13:00:00+03:00",
+          "title": "Земля: Атмосфера.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T13:00:00+03:00",
+          "stop": "2026-11-21T13:30:00+03:00",
+          "title": "Kadunud Sefari otsingul.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T13:30:00+03:00",
+          "stop": "2026-11-21T13:50:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: Desperate Doings in the Graveyard.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T13:50:00+03:00",
+          "stop": "2026-11-21T14:20:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: The Gestapo for the High Jump.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:20:00+03:00",
+          "stop": "2026-11-21T14:40:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992: The Nouvion Oars.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T14:40:00+03:00",
+          "stop": "2026-11-21T15:10:00+03:00",
+          "title": "Алло, алло! Комед. сериал. Англия 1982-1992.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T15:10:00+03:00",
+          "stop": "2026-11-21T15:55:00+03:00",
+          "title": "Убийства на севере: Гроб на двоих.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T15:55:00+03:00",
+          "stop": "2026-11-21T16:45:00+03:00",
+          "title": "Убийства на севере: Рог из Любека.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T16:45:00+03:00",
+          "stop": "2026-11-21T17:10:00+03:00",
+          "title": "Истории «Сельского утра»: Leesi küla pood.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:10:00+03:00",
+          "stop": "2026-11-21T18:00:00+03:00",
+          "title": "Walking with Dinosaurs: Kari.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T18:00:00+03:00",
+          "stop": "2026-11-21T19:35:00+03:00",
+          "title": "Пес Лампо. Невероятное путешествие.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T19:35:00+03:00",
+          "stop": "2026-11-21T20:00:00+03:00",
+          "title": "Драконы и всадники Олуха 2: Sulamängud.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:00:00+03:00",
+          "stop": "2026-11-21T20:25:00+03:00",
+          "title": "Odd Squad: 1/3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:25:00+03:00",
+          "stop": "2026-11-21T20:30:00+03:00",
+          "title": "Aktuaalne kaamera (viipekeeles).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:30:00+03:00",
+          "stop": "2026-11-21T22:15:00+03:00",
+          "title": "Скумон: Приносящий беду.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T22:15:00+03:00",
+          "stop": "2026-11-21T23:40:00+03:00",
+          "title": "Hullumeelsuse definitsioon.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T23:40:00+03:00",
+          "stop": "2026-11-22T00:35:00+03:00",
+          "title": "Disco: Sountrack of a Revolution: Me jääme ellu.",
           "description": "L",
           "category": null
         }

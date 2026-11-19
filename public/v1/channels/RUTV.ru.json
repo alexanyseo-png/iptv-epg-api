@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-18T20:36:29.194903+00:00",
+  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 38,
   "days": [
-    {
-      "date": "2026-11-18",
-      "programs": [
-        {
-          "start": "2026-11-18T05:00:00+03:00",
-          "stop": "2026-11-18T06:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T06:00:00+03:00",
-          "stop": "2026-11-18T07:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T07:00:00+03:00",
-          "stop": "2026-11-18T13:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T13:00:00+03:00",
-          "stop": "2026-11-18T15:00:00+03:00",
-          "title": "Статус: в сети.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T15:00:00+03:00",
-          "stop": "2026-11-18T16:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T16:00:00+03:00",
-          "stop": "2026-11-18T17:00:00+03:00",
-          "title": "Тема.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T17:00:00+03:00",
-          "stop": "2026-11-18T18:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T18:00:00+03:00",
-          "stop": "2026-11-18T20:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T20:00:00+03:00",
-          "stop": "2026-11-18T21:00:00+03:00",
-          "title": "Музыка поколений.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T21:00:00+03:00",
-          "stop": "2026-11-18T22:00:00+03:00",
-          "title": "Караоке.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-18T22:00:00+03:00",
-          "stop": "2026-11-19T05:00:00+03:00",
-          "title": "Хит за хитом.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-19",
       "programs": [
@@ -265,7 +183,110 @@
         },
         {
           "start": "2026-11-20T22:00:00+03:00",
-          "stop": "2026-11-20T23:00:00+03:00",
+          "stop": "2026-11-21T05:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-21",
+      "programs": [
+        {
+          "start": "2026-11-21T05:00:00+03:00",
+          "stop": "2026-11-21T06:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T06:00:00+03:00",
+          "stop": "2026-11-21T07:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T07:00:00+03:00",
+          "stop": "2026-11-21T09:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:00:00+03:00",
+          "stop": "2026-11-21T09:20:00+03:00",
+          "title": "Новости. Итоги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T09:20:00+03:00",
+          "stop": "2026-11-21T12:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T12:00:00+03:00",
+          "stop": "2026-11-21T13:20:00+03:00",
+          "title": "Русская 20-ка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T13:20:00+03:00",
+          "stop": "2026-11-21T15:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T15:00:00+03:00",
+          "stop": "2026-11-21T15:20:00+03:00",
+          "title": "Новости. Итоги.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T15:20:00+03:00",
+          "stop": "2026-11-21T17:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T17:00:00+03:00",
+          "stop": "2026-11-21T18:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T18:00:00+03:00",
+          "stop": "2026-11-21T20:00:00+03:00",
+          "title": "Хит за хитом.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T20:00:00+03:00",
+          "stop": "2026-11-21T21:00:00+03:00",
+          "title": "Музыка поколений.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T21:00:00+03:00",
+          "stop": "2026-11-21T22:00:00+03:00",
+          "title": "Караоке.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-21T22:00:00+03:00",
+          "stop": "2026-11-21T23:00:00+03:00",
           "title": "Хит за хитом.",
           "description": "L",
           "category": null
