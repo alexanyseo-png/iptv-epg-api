@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 31,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T01:04:00+03:00",
-          "stop": "2026-11-19T01:34:00+03:00",
-          "title": "Gold",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T01:34:00+03:00",
-          "stop": "2026-11-19T03:03:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:03:00+03:00",
-          "stop": "2026-11-19T03:30:00+03:00",
-          "title": "K-поп",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:30:00+03:00",
-          "stop": "2026-11-19T05:00:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:00:00+03:00",
-          "stop": "2026-11-19T05:01:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:01:00+03:00",
-          "stop": "2026-11-19T11:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:00:00+03:00",
-          "stop": "2026-11-19T11:30:00+03:00",
-          "title": "Персона (Александра Толмачева)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:30:00+03:00",
-          "stop": "2026-11-19T18:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:00:00+03:00",
-          "stop": "2026-11-19T18:30:00+03:00",
-          "title": "K-поп",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:30:00+03:00",
-          "stop": "2026-11-19T20:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:00:00+03:00",
-          "stop": "2026-11-19T20:30:00+03:00",
-          "title": "Персона (Екатерина Ілиясова)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:30:00+03:00",
-          "stop": "2026-11-19T22:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:00:00+03:00",
-          "stop": "2026-11-20T05:00:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -238,6 +142,67 @@
         {
           "start": "2026-11-21T22:00:00+03:00",
           "stop": "2026-11-22T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T05:00:00+03:00",
+          "stop": "2026-11-22T08:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:30:00+03:00",
+          "stop": "2026-11-22T08:35:00+03:00",
+          "title": "Kids star (Мария Шевкуновамен)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:35:00+03:00",
+          "stop": "2026-11-22T18:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:00:00+03:00",
+          "stop": "2026-11-22T18:30:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:30:00+03:00",
+          "stop": "2026-11-22T20:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T20:00:00+03:00",
+          "stop": "2026-11-22T20:30:00+03:00",
+          "title": "Персона (Василий Павлюченко)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T20:30:00+03:00",
+          "stop": "2026-11-22T22:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:00:00+03:00",
+          "stop": "2026-11-23T05:00:00+03:00",
           "title": "Түнгі тыныс",
           "description": "L",
           "category": null

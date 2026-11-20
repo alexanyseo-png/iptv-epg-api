@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 43,
+  "programmeCount": 46,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T00:30:00+03:00",
-          "stop": "2026-11-19T02:30:00+03:00",
-          "title": "Basketbols. ULEB Eirokauss. Tortonas «Derthona» – «Rīgas Zeļļi». Basketball: EuroCup",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T02:30:00+03:00",
-          "stop": "2026-11-19T05:30:00+03:00",
-          "title": "Basketbols: Eirolīga. Partizan – Valencia. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:30:00+03:00",
-          "stop": "2026-11-19T08:00:00+03:00",
-          "title": "Basketbols. NBA. Warriors – Mavericks. NBA Basketball",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T08:00:00+03:00",
-          "stop": "2026-11-19T10:00:00+03:00",
-          "title": "Basketbols. ULEB Eirokauss. Sarajevo – Lietkabelis. Basketball: EuroCup",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T10:00:00+03:00",
-          "stop": "2026-11-19T12:00:00+03:00",
-          "title": "Basketbols: Eirolīga. Dubai – Anadolu Efes. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T12:00:00+03:00",
-          "stop": "2026-11-19T14:00:00+03:00",
-          "title": "Basketbols: Eirolīga. Zalgiris Kaunas – Fc Bayern. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T14:00:00+03:00",
-          "stop": "2026-11-19T16:10:00+03:00",
-          "title": "Basketbols. NBA. Bucks – Heat. NBA Basketball",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T16:10:00+03:00",
-          "stop": "2026-11-19T18:10:00+03:00",
-          "title": "Basketball – NCAA. Players Era 8 – 1/2 fināls 1. NCAA Men's Division I Basketball",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:10:00+03:00",
-          "stop": "2026-11-19T20:00:00+03:00",
-          "title": "Basketball – NCAA. Players Era 8 – 1/2 fināls 2. NCAA Men's Division I Basketball",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:00:00+03:00",
-          "stop": "2026-11-19T22:45:00+03:00",
-          "title": "Basketbols: Eirolīga. Maccabi – Dubai. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:45:00+03:00",
-          "stop": "2026-11-20T01:00:00+03:00",
-          "title": "Basketbols: Eirolīga. Valencia – Virtus. Basketball: EuroLeague",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -323,6 +241,109 @@
           "start": "2026-11-21T21:00:00+03:00",
           "stop": "2026-11-22T01:00:00+03:00",
           "title": "Cīņu sports: UFC. Jiří Procházka – Navajo Stirling. UFC",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T01:00:00+03:00",
+          "stop": "2026-11-22T03:00:00+03:00",
+          "title": "Futbols – Itālijas līga. Parma – Roma. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:00:00+03:00",
+          "stop": "2026-11-22T03:30:00+03:00",
+          "title": "NBA deg. NBA on Fire",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:30:00+03:00",
+          "stop": "2026-11-22T06:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Olympiacos – Real Madrid. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T06:00:00+03:00",
+          "stop": "2026-11-22T08:00:00+03:00",
+          "title": "Basketbols: Eirolīga. FC Barcelona – Crvena Zvezda. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:00:00+03:00",
+          "stop": "2026-11-22T10:00:00+03:00",
+          "title": "Basketbols: Eirolīga. Anadolu Efes – ASVEL. Basketball: EuroLeague",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T10:00:00+03:00",
+          "stop": "2026-11-22T12:00:00+03:00",
+          "title": "Futbols: La Liga. Sevilla – Real Betis. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T12:00:00+03:00",
+          "stop": "2026-11-22T14:05:00+03:00",
+          "title": "Futbols: La Liga. Real Madrid – Celta. LaLiga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T14:05:00+03:00",
+          "stop": "2026-11-22T15:45:00+03:00",
+          "title": "Moto2: Portugāles GP. Sacīkstes. Moto 2 : Grand Prix of Portugal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:45:00+03:00",
+          "stop": "2026-11-22T17:20:00+03:00",
+          "title": "Motorsports: Moto GP Portugāles GP. Sacīkstes. MotoGP: Grand Prix of Portugal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T17:20:00+03:00",
+          "stop": "2026-11-22T18:35:00+03:00",
+          "title": "Moto 3: Portugāles GP. Sacīkstes. Moto3: Grande Prémio MEO de Portugal",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:35:00+03:00",
+          "stop": "2026-11-22T19:50:00+03:00",
+          "title": "Rodeo: Pro Bull Riders komandu sacensības. Rodeo: Pro Bull Riders Teams",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:50:00+03:00",
+          "stop": "2026-11-22T22:00:00+03:00",
+          "title": "Futbols – Itālijas līga. Milan – Frosinone. Calcio: Campionato Italiano Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:00:00+03:00",
+          "stop": "2026-11-22T22:50:00+03:00",
+          "title": "Teniss: Žurnāls. ATP Tour This Week. ATP Tour: This Week",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:50:00+03:00",
+          "stop": "2026-11-22T23:50:00+03:00",
+          "title": "Futbols: La Liga. Getafe – Atlético Madrid. LaLiga",
           "description": "L",
           "category": null
         }

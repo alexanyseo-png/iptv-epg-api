@@ -8,141 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 58,
+  "programmeCount": 59,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T01:20:00+03:00",
-          "stop": "2026-11-19T02:20:00+03:00",
-          "title": "Klangor ┊ 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T02:20:00+03:00",
-          "stop": "2026-11-19T03:10:00+03:00",
-          "title": "Klangor ┊ 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:10:00+03:00",
-          "stop": "2026-11-19T03:35:00+03:00",
-          "title": "Emigracja XD ┊ 5 – Riksze",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:35:00+03:00",
-          "stop": "2026-11-19T03:59:00+03:00",
-          "title": "Emigracja XD ┊ 6 – Krąg dialogu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:59:00+03:00",
-          "stop": "2026-11-19T09:00:00+03:00",
-          "title": "Zakończenie programu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T09:00:00+03:00",
-          "stop": "2026-11-19T11:15:00+03:00",
-          "title": "Piłka nożna: Ekstraklasa – mecz: Jagiellonia Białystok – Górnik Zabrze",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:15:00+03:00",
-          "stop": "2026-11-19T13:20:00+03:00",
-          "title": "Piłka nożna: Ekstraklasa – mecz: Legia Warszawa – Wisła Kraków",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T13:20:00+03:00",
-          "stop": "2026-11-19T14:15:00+03:00",
-          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 4 ┊ 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T14:15:00+03:00",
-          "stop": "2026-11-19T15:10:00+03:00",
-          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 4 ┊ 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:10:00+03:00",
-          "stop": "2026-11-19T16:10:00+03:00",
-          "title": "Hot Roads – Najniebezpieczniejsze drogi świata 4 ┊ 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T16:10:00+03:00",
-          "stop": "2026-11-19T17:40:00+03:00",
-          "title": "Wysoki Pressing",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T17:40:00+03:00",
-          "stop": "2026-11-19T19:10:00+03:00",
-          "title": "O psie, który jeździł koleją 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T19:10:00+03:00",
-          "stop": "2026-11-19T20:10:00+03:00",
-          "title": "An Evening With Elton John  Brandi Carlile",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:10:00+03:00",
-          "stop": "2026-11-19T21:00:00+03:00",
-          "title": "Siedem cudów świata z Bettany Hughes ┊ 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:00:00+03:00",
-          "stop": "2026-11-19T22:00:00+03:00",
-          "title": "Japonia. Mroźne królestwo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:00:00+03:00",
-          "stop": "2026-11-19T22:30:00+03:00",
-          "title": "The Office PL 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:30:00+03:00",
-          "stop": "2026-11-19T23:35:00+03:00",
-          "title": "Król 1 ┊ 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T23:35:00+03:00",
-          "stop": "2026-11-20T00:30:00+03:00",
-          "title": "Rodziny takie jak nasza ┊ 5",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -428,6 +297,144 @@
           "start": "2026-11-21T22:10:00+03:00",
           "stop": "2026-11-22T00:20:00+03:00",
           "title": "Piłka nożna: Ekstraklasa – mecz: Radomiak Radom – Wisła Kraków",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T00:20:00+03:00",
+          "stop": "2026-11-22T01:25:00+03:00",
+          "title": "Liga+",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T01:25:00+03:00",
+          "stop": "2026-11-22T02:20:00+03:00",
+          "title": "Sekretne życie lasów mangrowych 1 ┊ 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T02:20:00+03:00",
+          "stop": "2026-11-22T04:00:00+03:00",
+          "title": "LARP. Miłość, trolle i inne questy",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T04:00:00+03:00",
+          "stop": "2026-11-22T04:40:00+03:00",
+          "title": "Pętla 1 ┊ 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T04:40:00+03:00",
+          "stop": "2026-11-22T09:00:00+03:00",
+          "title": "Zakończenie programu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:00:00+03:00",
+          "stop": "2026-11-22T09:25:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa – wstęp do meczu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:25:00+03:00",
+          "stop": "2026-11-22T11:30:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T11:30:00+03:00",
+          "stop": "2026-11-22T12:30:00+03:00",
+          "title": "To nie jest zagadka kryminalna 1 ┊ 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T12:30:00+03:00",
+          "stop": "2026-11-22T13:25:00+03:00",
+          "title": "To nie jest zagadka kryminalna 1 ┊ 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T13:25:00+03:00",
+          "stop": "2026-11-22T14:35:00+03:00",
+          "title": "Arktyczna przyroda Laponii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T14:35:00+03:00",
+          "stop": "2026-11-22T15:25:00+03:00",
+          "title": "Australia: Dziki kontynent",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:25:00+03:00",
+          "stop": "2026-11-22T16:20:00+03:00",
+          "title": "Ash Dykes: Wyprawa wzdłuż Żółtej Rzeki ┊ 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:20:00+03:00",
+          "stop": "2026-11-22T17:15:00+03:00",
+          "title": "Salwador – kraj plaż i wulkanów",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T17:15:00+03:00",
+          "stop": "2026-11-22T18:05:00+03:00",
+          "title": "Lasy Atlantyckie Brazylii",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:05:00+03:00",
+          "stop": "2026-11-22T18:55:00+03:00",
+          "title": "Złombol ┊ 6",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:55:00+03:00",
+          "stop": "2026-11-22T19:25:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa – wstęp do meczu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:25:00+03:00",
+          "stop": "2026-11-22T21:35:00+03:00",
+          "title": "Piłka nożna: Ekstraklasa – mecz: Wisła Płock – Legia Warszawa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:35:00+03:00",
+          "stop": "2026-11-22T23:30:00+03:00",
+          "title": "Liga+ Extra",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T23:30:00+03:00",
+          "stop": "2026-11-23T00:25:00+03:00",
+          "title": "Turbokozak ┊ 8",
           "description": "L",
           "category": null
         }

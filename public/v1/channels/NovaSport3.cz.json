@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 35,
+  "programmeCount": 37,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T01:00:00+03:00",
-          "stop": "2026-11-19T03:00:00+03:00",
-          "title": "1. FC Köln – Bayer Leverkusen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:00:00+03:00",
-          "stop": "2026-11-19T09:00:00+03:00",
-          "title": "Real Valladolid – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T09:00:00+03:00",
-          "stop": "2026-11-19T11:00:00+03:00",
-          "title": "VfB Stuttgart – Werder Brémy",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:00:00+03:00",
-          "stop": "2026-11-19T13:00:00+03:00",
-          "title": "SC Freiburg – Union Berlín",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T13:00:00+03:00",
-          "stop": "2026-11-19T15:00:00+03:00",
-          "title": "TSG Hoffenheim – Schalke 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:00:00+03:00",
-          "stop": "2026-11-19T16:50:00+03:00",
-          "title": "Real Valladolid – CD Castellón",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T16:50:00+03:00",
-          "stop": "2026-11-19T18:40:00+03:00",
-          "title": "Energie Cottbus – 1. FC Norimberk",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:40:00+03:00",
-          "stop": "2026-11-19T19:10:00+03:00",
-          "title": "Magazín Ligy mistrů UEFA (11)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T19:10:00+03:00",
-          "stop": "2026-11-19T21:00:00+03:00",
-          "title": "VfL Osnabrück – Greuther Fürth",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:00:00+03:00",
-          "stop": "2026-11-19T23:00:00+03:00",
-          "title": "Fleetwood Town – Tranmere Rovers",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T23:00:00+03:00",
-          "stop": "2026-11-20T01:00:00+03:00",
-          "title": "Hamburger SV – Borussia Mönchengladbach",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -267,6 +185,102 @@
           "start": "2026-11-21T22:40:00+03:00",
           "stop": "2026-11-22T01:00:00+03:00",
           "title": "Lille OSC – Olympique Lyon",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T01:00:00+03:00",
+          "stop": "2026-11-22T03:00:00+03:00",
+          "title": "SK Slavia Praha – Arsenal FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:00:00+03:00",
+          "stop": "2026-11-22T09:00:00+03:00",
+          "title": "1. FC Norimberk – Eintracht Braunschweig",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:00:00+03:00",
+          "stop": "2026-11-22T11:00:00+03:00",
+          "title": "Lille OSC – Olympique Lyon",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T11:00:00+03:00",
+          "stop": "2026-11-22T13:00:00+03:00",
+          "title": "Schalke 04 – VfB Stuttgart",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T13:00:00+03:00",
+          "stop": "2026-11-22T14:50:00+03:00",
+          "title": "Borussia Mönchengladbach – Borussia Dortmund",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T14:50:00+03:00",
+          "stop": "2026-11-22T15:25:00+03:00",
+          "title": "Ve skluzu (140)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:25:00+03:00",
+          "stop": "2026-11-22T17:35:00+03:00",
+          "title": "Energie Cottbus – Hertha BSC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T17:35:00+03:00",
+          "stop": "2026-11-22T18:10:00+03:00",
+          "title": "Bundesliga speciál (7)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:10:00+03:00",
+          "stop": "2026-11-22T18:45:00+03:00",
+          "title": "Bundesliga speciál (8)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:45:00+03:00",
+          "stop": "2026-11-22T19:25:00+03:00",
+          "title": "Studio Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:25:00+03:00",
+          "stop": "2026-11-22T22:10:00+03:00",
+          "title": "Werder Brémy – Hamburger SV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:10:00+03:00",
+          "stop": "2026-11-22T22:40:00+03:00",
+          "title": "Magazín Ligy mistrů UEFA (12)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:40:00+03:00",
+          "stop": "2026-11-23T00:50:00+03:00",
+          "title": "Olympique Marseille – Le Mans FC",
           "description": "L",
           "category": null
         }

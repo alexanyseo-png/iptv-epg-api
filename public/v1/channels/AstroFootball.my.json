@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 41,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T00:00:00+03:00",
-          "stop": "2026-11-19T01:00:00+03:00",
-          "title": "Dutch League 2026/27: Highlights Rd9",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T01:00:00+03:00",
-          "stop": "2026-11-19T03:00:00+03:00",
-          "title": "Dutch: Cambuur vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:00:00+03:00",
-          "stop": "2026-11-19T05:00:00+03:00",
-          "title": "Dutch: Heerenveen vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:00:00+03:00",
-          "stop": "2026-11-19T07:00:00+03:00",
-          "title": "Dutch: Twente vs AFC Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T07:00:00+03:00",
-          "stop": "2026-11-19T09:00:00+03:00",
-          "title": "Serie A: Cagliari vs Frosinone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T09:00:00+03:00",
-          "stop": "2026-11-19T11:00:00+03:00",
-          "title": "Serie A: Parma vs Bologna",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:00:00+03:00",
-          "stop": "2026-11-19T13:00:00+03:00",
-          "title": "Serie A: Roma vs Sassuolo",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T13:00:00+03:00",
-          "stop": "2026-11-19T15:00:00+03:00",
-          "title": "Serie A: Venezia vs Udinese",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:00:00+03:00",
-          "stop": "2026-11-19T17:00:00+03:00",
-          "title": "Serie A: Napoli vs Lazio",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T17:00:00+03:00",
-          "stop": "2026-11-19T19:00:00+03:00",
-          "title": "Serie A: Torino vs Lecce",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T19:00:00+03:00",
-          "stop": "2026-11-19T21:00:00+03:00",
-          "title": "DFB: Dortmund vs Bremen",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:00:00+03:00",
-          "stop": "2026-11-19T23:00:00+03:00",
-          "title": "DFB: Sonnenhof vs Augsburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T23:00:00+03:00",
-          "stop": "2026-11-20T01:00:00+03:00",
-          "title": "AFC Elite: Shanghai vs Cong Ha",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -287,7 +191,7 @@
         {
           "start": "2026-11-21T19:30:00+03:00",
           "stop": "2026-11-21T19:50:00+03:00",
-          "title": "This Is Our Time: Ep02",
+          "title": "This Is Our Time. 2 с.",
           "description": "L",
           "category": null
         },
@@ -309,6 +213,123 @@
           "start": "2026-11-21T22:35:00+03:00",
           "stop": "2026-11-22T01:00:00+03:00",
           "title": "⋗ Serie A: Napoli vs Torino",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T01:00:00+03:00",
+          "stop": "2026-11-22T03:00:00+03:00",
+          "title": "Dutch: Twente vs AFC Ajax",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:00:00+03:00",
+          "stop": "2026-11-22T05:00:00+03:00",
+          "title": "Serie A: Como vs Cagliari",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T05:00:00+03:00",
+          "stop": "2026-11-22T07:00:00+03:00",
+          "title": "Serie A: Parma vs Roma",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T07:00:00+03:00",
+          "stop": "2026-11-22T09:00:00+03:00",
+          "title": "Serie A: Napoli vs Torino",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:00:00+03:00",
+          "stop": "2026-11-22T11:00:00+03:00",
+          "title": "Serie A: Lazio vs Lecce",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T11:00:00+03:00",
+          "stop": "2026-11-22T13:00:00+03:00",
+          "title": "Dutch: Heerenveen vs Feyenoord",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T13:00:00+03:00",
+          "stop": "2026-11-22T14:00:00+03:00",
+          "title": "Dutch League 2026/27: Highlights Rd12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T14:00:00+03:00",
+          "stop": "2026-11-22T14:20:00+03:00",
+          "title": "This Is Our Time. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T14:20:00+03:00",
+          "stop": "2026-11-22T16:30:00+03:00",
+          "title": "⋗ Serie A: Sassuolo vs Genoa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:30:00+03:00",
+          "stop": "2026-11-22T16:50:00+03:00",
+          "title": "This Is Our Time. 2 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:50:00+03:00",
+          "stop": "2026-11-22T19:00:00+03:00",
+          "title": "⋗ Serie A: Milan vs Frosinone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:00:00+03:00",
+          "stop": "2026-11-22T19:30:00+03:00",
+          "title": "Serie A 2026/27: Full Impact Rd11",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:30:00+03:00",
+          "stop": "2026-11-22T19:50:00+03:00",
+          "title": "This Is Our Time. 3 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:50:00+03:00",
+          "stop": "2026-11-22T22:00:00+03:00",
+          "title": "⋗ Serie A: Bologna vs Udinese",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:00:00+03:00",
+          "stop": "2026-11-22T22:35:00+03:00",
+          "title": "Inside Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:35:00+03:00",
+          "stop": "2026-11-23T01:00:00+03:00",
+          "title": "⋗ Serie A: Atalanta vs Inter",
           "description": "L",
           "category": null
         }

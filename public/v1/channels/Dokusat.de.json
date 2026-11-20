@@ -8,8 +8,77 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "available": true,
+  "programmeCount": 9,
+  "days": [
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T08:00:00+03:00",
+          "stop": "2026-11-22T18:15:00+03:00",
+          "title": "Teleshopping.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:15:00+03:00",
+          "stop": "2026-11-22T19:20:00+03:00",
+          "title": "Tödlicher Beschuss: Politische Extremisten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:20:00+03:00",
+          "stop": "2026-11-22T20:30:00+03:00",
+          "title": "Tödlicher Beschuss: Zerstörer des Friedens.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T20:30:00+03:00",
+          "stop": "2026-11-22T21:00:00+03:00",
+          "title": "Münzengalerie Reppa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:00:00+03:00",
+          "stop": "2026-11-22T21:40:00+03:00",
+          "title": "Tödlicher Beschuss: Verhängnisvolles Wissen.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:40:00+03:00",
+          "stop": "2026-11-22T22:15:00+03:00",
+          "title": "Teleshopping.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:15:00+03:00",
+          "stop": "2026-11-22T22:45:00+03:00",
+          "title": "Münzengalerie Reppa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:45:00+03:00",
+          "stop": "2026-11-22T23:30:00+03:00",
+          "title": "JFK: Mythos & Wahrheit.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T23:30:00+03:00",
+          "stop": "2026-11-23T00:05:00+03:00",
+          "title": "Münzengalerie Reppa.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

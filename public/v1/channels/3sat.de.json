@@ -8,356 +8,64 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 121,
+  "programmeCount": 111,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T00:00:00+03:00",
-          "stop": "2026-11-19T00:29:00+03:00",
-          "title": "ZIB 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T00:29:00+03:00",
-          "stop": "2026-11-19T01:59:00+03:00",
-          "title": "Du sollst hören.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T01:59:00+03:00",
-          "stop": "2026-11-19T02:25:00+03:00",
-          "title": "10 vor 10.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T02:25:00+03:00",
-          "stop": "2026-11-19T03:24:00+03:00",
-          "title": "STÖCKL.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:24:00+03:00",
-          "stop": "2026-11-19T03:50:00+03:00",
-          "title": "Echte Wienerinnen - Mit offenen Augen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T03:50:00+03:00",
-          "stop": "2026-11-19T05:20:00+03:00",
-          "title": "Mythos Wal.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:20:00+03:00",
-          "stop": "2026-11-19T06:05:00+03:00",
-          "title": "Die Weihnachtsinsel und der Palmendieb.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T06:05:00+03:00",
-          "stop": "2026-11-19T06:49:00+03:00",
-          "title": "Die verrückte Welt der Tintenfische.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T06:49:00+03:00",
-          "stop": "2026-11-19T07:32:00+03:00",
-          "title": "Faszination Südsee - Die Fidschi-Inseln.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T07:32:00+03:00",
-          "stop": "2026-11-19T07:48:00+03:00",
-          "title": "Erlebnisreisen - Australien - Mit dem Camper um den Kontinent.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T07:48:00+03:00",
-          "stop": "2026-11-19T08:15:00+03:00",
-          "title": "Bergauf-Bergab - Das Magazin für Bergsteiger.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T08:15:00+03:00",
-          "stop": "2026-11-19T08:20:00+03:00",
-          "title": "Sendepause.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T08:20:00+03:00",
-          "stop": "2026-11-19T09:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T09:00:00+03:00",
-          "stop": "2026-11-19T09:30:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T09:30:00+03:00",
-          "stop": "2026-11-19T10:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T10:00:00+03:00",
-          "stop": "2026-11-19T10:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T10:05:00+03:00",
-          "stop": "2026-11-19T10:30:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T10:30:00+03:00",
-          "stop": "2026-11-19T10:33:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T10:33:00+03:00",
-          "stop": "2026-11-19T11:00:00+03:00",
-          "title": "▶️ Alpenpanorama.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:00:00+03:00",
-          "stop": "2026-11-19T11:05:00+03:00",
-          "title": "ZIB.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:05:00+03:00",
-          "stop": "2026-11-19T11:45:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T11:45:00+03:00",
-          "stop": "2026-11-19T12:20:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T12:20:00+03:00",
-          "stop": "2026-11-19T13:05:00+03:00",
-          "title": "Das Herz von Hawaii - Die Insel Oahu.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T13:05:00+03:00",
-          "stop": "2026-11-19T13:50:00+03:00",
-          "title": "Waterwoman. S: 2 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T13:50:00+03:00",
-          "stop": "2026-11-19T14:15:00+03:00",
-          "title": "Traumjobs: Von der Lehre an die Spitze.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T14:15:00+03:00",
-          "stop": "2026-11-19T14:45:00+03:00",
-          "title": "Servicezeit.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T14:45:00+03:00",
-          "stop": "2026-11-19T15:15:00+03:00",
-          "title": "Querbeet - Adventsdeko aus dem Garten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:15:00+03:00",
-          "stop": "2026-11-19T15:55:00+03:00",
-          "title": "unterwegs - Schweden.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:55:00+03:00",
-          "stop": "2026-11-19T16:40:00+03:00",
-          "title": "Abenteuer Lappland - Die Husky-Tour des Lebens. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T16:40:00+03:00",
-          "stop": "2026-11-19T17:25:00+03:00",
-          "title": "Abenteuer Lappland - Die Husky-Tour des Lebens. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T17:25:00+03:00",
-          "stop": "2026-11-19T18:10:00+03:00",
-          "title": "Abenteuer Lappland - Die Husky-Tour des Lebens. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:10:00+03:00",
-          "stop": "2026-11-19T18:55:00+03:00",
-          "title": "Abenteuer Kilimandscharo - Auf Expedition in Tansania. S: 1 / Ep: 1.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T18:55:00+03:00",
-          "stop": "2026-11-19T19:40:00+03:00",
-          "title": "Abenteuer Kilimandscharo - Auf Expedition in Tansania. S: 1 / Ep: 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T19:40:00+03:00",
-          "stop": "2026-11-19T20:30:00+03:00",
-          "title": "Abenteuer Kilimandscharo - Auf Expedition in Tansania. S: 1 / Ep: 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:30:00+03:00",
-          "stop": "2026-11-19T21:00:00+03:00",
-          "title": "nano - Die Welt von morgen.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:00:00+03:00",
-          "stop": "2026-11-19T21:18:00+03:00",
-          "title": "heute.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:18:00+03:00",
-          "stop": "2026-11-19T21:20:00+03:00",
-          "title": "3sat-Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T21:20:00+03:00",
-          "stop": "2026-11-19T22:00:00+03:00",
-          "title": "Kulturzeit - Das 3sat-Kulturmagazin von ZDF, ORF, SRF und ARD.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:00:00+03:00",
-          "stop": "2026-11-19T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T22:15:00+03:00",
-          "stop": "2026-11-19T23:00:00+03:00",
-          "title": "Wie sozial sind Tiere: Strategie vs. Instinkt?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T23:00:00+03:00",
-          "stop": "2026-11-20T00:00:00+03:00",
-          "title": "NANO Talk - Eliten an der Macht - Mehr Schaden als Nutzen?",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
         {
           "start": "2026-11-20T00:00:00+03:00",
-          "stop": "2026-11-20T00:25:00+03:00",
+          "stop": "2026-11-20T00:29:00+03:00",
           "title": "ZIB 2.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T00:25:00+03:00",
-          "stop": "2026-11-20T00:55:00+03:00",
+          "start": "2026-11-20T00:29:00+03:00",
+          "stop": "2026-11-20T00:59:00+03:00",
           "title": "auslandsjournal - die doku. S: 1 / Ep: 180.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T00:55:00+03:00",
-          "stop": "2026-11-20T01:50:00+03:00",
+          "start": "2026-11-20T00:59:00+03:00",
+          "stop": "2026-11-20T01:51:00+03:00",
           "title": "Machtkampf im Pazifik - Ein Südseeparadies im Visier der Supermächte.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T01:50:00+03:00",
-          "stop": "2026-11-20T02:20:00+03:00",
+          "start": "2026-11-20T01:51:00+03:00",
+          "stop": "2026-11-20T02:22:00+03:00",
           "title": "Wegen Handy in die Klinik!? - Raus aus der Mediensucht.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T02:20:00+03:00",
-          "stop": "2026-11-20T02:45:00+03:00",
+          "start": "2026-11-20T02:22:00+03:00",
+          "stop": "2026-11-20T02:49:00+03:00",
           "title": "10 vor 10.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T02:45:00+03:00",
-          "stop": "2026-11-20T04:00:00+03:00",
+          "start": "2026-11-20T02:49:00+03:00",
+          "stop": "2026-11-20T04:04:00+03:00",
           "title": "Maischberger.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T04:00:00+03:00",
-          "stop": "2026-11-20T04:30:00+03:00",
+          "start": "2026-11-20T04:04:00+03:00",
+          "stop": "2026-11-20T04:33:00+03:00",
           "title": "Die Nordreportage: Ketchup made in Niedersachsen - Rot, regional und richtig lecker.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T04:30:00+03:00",
+          "start": "2026-11-20T04:33:00+03:00",
           "stop": "2026-11-20T05:25:00+03:00",
           "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 3.",
           "description": "L",
@@ -365,20 +73,20 @@
         },
         {
           "start": "2026-11-20T05:25:00+03:00",
-          "stop": "2026-11-20T06:15:00+03:00",
+          "stop": "2026-11-20T06:17:00+03:00",
           "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 4.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T06:15:00+03:00",
-          "stop": "2026-11-20T07:05:00+03:00",
+          "start": "2026-11-20T06:17:00+03:00",
+          "stop": "2026-11-20T07:09:00+03:00",
           "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 1.",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-20T07:05:00+03:00",
+          "start": "2026-11-20T07:09:00+03:00",
           "stop": "2026-11-20T08:00:00+03:00",
           "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 2.",
           "description": "L",
@@ -623,7 +331,7 @@
         {
           "start": "2026-11-21T03:10:00+03:00",
           "stop": "2026-11-21T03:40:00+03:00",
-          "title": "extra 3 Spezial Realer Irrsinn - Best of.",
+          "title": "extra 3: Realer Irrsinn - Best of.",
           "description": "L",
           "category": null
         },
@@ -869,6 +577,228 @@
           "start": "2026-11-21T23:45:00+03:00",
           "stop": "2026-11-22T01:15:00+03:00",
           "title": "Nürnberg '45 - Im Angesicht des Bösen.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T01:15:00+03:00",
+          "stop": "2026-11-22T03:20:00+03:00",
+          "title": "Offenes Geheimnis.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:20:00+03:00",
+          "stop": "2026-11-22T04:15:00+03:00",
+          "title": "lebensArt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T04:15:00+03:00",
+          "stop": "2026-11-22T05:40:00+03:00",
+          "title": "Das aktuelle Sportstudio.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T05:40:00+03:00",
+          "stop": "2026-11-22T06:25:00+03:00",
+          "title": "Expedition Anden - Gebirge in Bewegung.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T06:25:00+03:00",
+          "stop": "2026-11-22T07:10:00+03:00",
+          "title": "Expedition Anden - Die Kraft von Wind und Wasser.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T07:10:00+03:00",
+          "stop": "2026-11-22T07:40:00+03:00",
+          "title": "Süd-Vietnam - Naturparadies am Mekong. S: 1 / Ep: 47.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T07:40:00+03:00",
+          "stop": "2026-11-22T08:10:00+03:00",
+          "title": "Traumorte. S: 1 / Ep: 48.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:10:00+03:00",
+          "stop": "2026-11-22T08:40:00+03:00",
+          "title": "Hokkaido - Japans wilder Norden. S: 1 / Ep: 50.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:40:00+03:00",
+          "stop": "2026-11-22T09:15:00+03:00",
+          "title": "Die Kapverden - Unbekannte Inselwelt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:15:00+03:00",
+          "stop": "2026-11-22T09:30:00+03:00",
+          "title": "kinokino - Das Filmmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T09:30:00+03:00",
+          "stop": "2026-11-22T11:00:00+03:00",
+          "title": "▶️ Alpenpanorama.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T11:00:00+03:00",
+          "stop": "2026-11-22T11:05:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T11:05:00+03:00",
+          "stop": "2026-11-22T12:05:00+03:00",
+          "title": "Bequeme neue Welt: Verlernen wir das Menschsein? - Sibylle Anderl.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T12:05:00+03:00",
+          "stop": "2026-11-22T12:35:00+03:00",
+          "title": "Kultur Heute ErLesen Spezial - Zur Buch Wien.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T12:35:00+03:00",
+          "stop": "2026-11-22T13:50:00+03:00",
+          "title": "Literaturclub - Yvonne Eisenring zu Gast im \"Literaturclub\".",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T13:50:00+03:00",
+          "stop": "2026-11-22T15:00:00+03:00",
+          "title": "Lydia Welti-Escher - Aufzeichnungen aus dem Irrenhaus.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:00:00+03:00",
+          "stop": "2026-11-22T15:20:00+03:00",
+          "title": "ZIB.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:20:00+03:00",
+          "stop": "2026-11-22T16:05:00+03:00",
+          "title": "Almendro - Baum des Lebens.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:05:00+03:00",
+          "stop": "2026-11-22T16:25:00+03:00",
+          "title": "Spektakuläre Bergbahnen der Schweiz II. S: 1 / Ep: 8.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:25:00+03:00",
+          "stop": "2026-11-22T17:15:00+03:00",
+          "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 3.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T17:15:00+03:00",
+          "stop": "2026-11-22T18:10:00+03:00",
+          "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 4.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T18:10:00+03:00",
+          "stop": "2026-11-22T19:00:00+03:00",
+          "title": "Schweizer Hotelgeschichten. S: 1 / Ep: 1.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:00:00+03:00",
+          "stop": "2026-11-22T20:30:00+03:00",
+          "title": "Die Kinder des Monsieur Mathieu.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T20:30:00+03:00",
+          "stop": "2026-11-22T21:00:00+03:00",
+          "title": "Spurlos - Ein Rothschild-Krimi aus Wien.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:00:00+03:00",
+          "stop": "2026-11-22T21:08:00+03:00",
+          "title": "heute - Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:08:00+03:00",
+          "stop": "2026-11-22T21:10:00+03:00",
+          "title": "3sat-Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:10:00+03:00",
+          "stop": "2026-11-22T21:40:00+03:00",
+          "title": "Die Roboter kommen - Chinas Aufstieg zur Roboter-Supermacht.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T21:40:00+03:00",
+          "stop": "2026-11-22T22:00:00+03:00",
+          "title": "Das Geheimnis vom Untergang der Maya.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:00:00+03:00",
+          "stop": "2026-11-22T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T22:15:00+03:00",
+          "stop": "2026-11-22T23:45:00+03:00",
+          "title": "Tatort: Fackel. S: 1 / Ep: 1332.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T23:45:00+03:00",
+          "stop": "2026-11-23T01:15:00+03:00",
+          "title": "Neues Land.",
           "description": "L",
           "category": null
         }

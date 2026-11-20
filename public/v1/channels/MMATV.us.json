@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-19T20:41:21.413115+00:00",
+  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
   "available": true,
-  "programmeCount": 29,
+  "programmeCount": 30,
   "days": [
-    {
-      "date": "2026-11-19",
-      "programs": [
-        {
-          "start": "2026-11-19T00:00:00+03:00",
-          "stop": "2026-11-19T01:50:00+03:00",
-          "title": "MMA Series Classic.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T01:50:00+03:00",
-          "stop": "2026-11-19T04:00:00+03:00",
-          "title": "MMA Series Main Card.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T04:00:00+03:00",
-          "stop": "2026-11-19T05:25:00+03:00",
-          "title": "MMA Series Names (M.Колосов).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T05:25:00+03:00",
-          "stop": "2026-11-19T07:40:00+03:00",
-          "title": "MMA Series Names (Т.Кардосо).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T07:40:00+03:00",
-          "stop": "2026-11-19T08:00:00+03:00",
-          "title": "Территория MMA-TV.COM (173-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T08:00:00+03:00",
-          "stop": "2026-11-19T12:00:00+03:00",
-          "title": "ММА Серия - 94. Н.Бархатов - Д.Михайлиди.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T12:00:00+03:00",
-          "stop": "2026-11-19T15:55:00+03:00",
-          "title": "MMA Series. Сабмишен Party. Г.Мишин, В.Сукаленко, Р.Соуза.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T15:55:00+03:00",
-          "stop": "2026-11-19T17:50:00+03:00",
-          "title": "ММА Series Classic. М.Вологдин.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T17:50:00+03:00",
-          "stop": "2026-11-19T19:40:00+03:00",
-          "title": "MMA Series Classic. И.Фрейманов, В.Колесник.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T19:40:00+03:00",
-          "stop": "2026-11-19T20:05:00+03:00",
-          "title": "Территория MMA-TV.COM (173-я серия).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-19T20:05:00+03:00",
-          "stop": "2026-11-20T00:00:00+03:00",
-          "title": "MMA Series. Топ бойцов полулегкого веса. И.Варварский, Н.Бархатов, Л.Насименто.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-20",
       "programs": [
@@ -225,6 +143,95 @@
           "start": "2026-11-21T22:35:00+03:00",
           "stop": "2026-11-22T00:00:00+03:00",
           "title": "MMA Series Names (M.Колосов).",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-22",
+      "programs": [
+        {
+          "start": "2026-11-22T00:00:00+03:00",
+          "stop": "2026-11-22T03:45:00+03:00",
+          "title": "ММА Серия - 94. Н.Бархатов - Д.Михайлиди.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T03:45:00+03:00",
+          "stop": "2026-11-22T05:55:00+03:00",
+          "title": "ММА Series Classic. М.Вологдин.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T05:55:00+03:00",
+          "stop": "2026-11-22T07:45:00+03:00",
+          "title": "MMA Series Classic. И.Фрейманов, В.Колесник.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T07:45:00+03:00",
+          "stop": "2026-11-22T08:05:00+03:00",
+          "title": "Территория MMA-TV.COM (174-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T08:05:00+03:00",
+          "stop": "2026-11-22T12:05:00+03:00",
+          "title": "MMA Series. Топ бойцов легкого веса. С.Бурдастов, Д.Михайлиди, И.Мельников.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T12:05:00+03:00",
+          "stop": "2026-11-22T13:35:00+03:00",
+          "title": "MMA Series Names (А.Подмарев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T13:35:00+03:00",
+          "stop": "2026-11-22T15:40:00+03:00",
+          "title": "MMA Series Names (З. Гаджибабаев).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T15:40:00+03:00",
+          "stop": "2026-11-22T16:05:00+03:00",
+          "title": "Территория MMA-TV.COM (174-я серия).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T16:05:00+03:00",
+          "stop": "2026-11-22T19:40:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: ММА Серия - 33: Барвиха Luxury. О.Попов, А.Подмарев, С.Бобрышев.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T19:40:00+03:00",
+          "stop": "2026-11-22T20:30:00+03:00",
+          "title": "MMA Series Names (В. Уокер).",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T20:30:00+03:00",
+          "stop": "2026-11-22T23:40:00+03:00",
+          "title": "MMA Series Gold. Лучшие турниры: MMA Серия-67: Все звезды. С.Бобрышев, Д.Маркес, В.Уокер.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-22T23:40:00+03:00",
+          "stop": "2026-11-23T00:40:00+03:00",
+          "title": "Территория MMA-TV.COM (174-я серия).",
           "description": "L",
           "category": null
         }
