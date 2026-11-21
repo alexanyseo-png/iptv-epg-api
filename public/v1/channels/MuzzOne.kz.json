@@ -8,71 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 21,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T05:00:00+03:00",
-          "stop": "2026-11-20T08:30:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T08:30:00+03:00",
-          "stop": "2026-11-20T08:35:00+03:00",
-          "title": "Железная lady (Мария Спиридонова)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T08:35:00+03:00",
-          "stop": "2026-11-20T16:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T16:00:00+03:00",
-          "stop": "2026-11-20T16:30:00+03:00",
-          "title": "Персона (Екатерина Ілиясова)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T16:30:00+03:00",
-          "stop": "2026-11-20T18:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T18:00:00+03:00",
-          "stop": "2026-11-20T18:30:00+03:00",
-          "title": "K-поп",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T18:30:00+03:00",
-          "stop": "2026-11-20T22:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T22:00:00+03:00",
-          "stop": "2026-11-21T05:00:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -204,6 +143,32 @@
           "start": "2026-11-22T22:00:00+03:00",
           "stop": "2026-11-23T05:00:00+03:00",
           "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T05:00:00+03:00",
+          "stop": "2026-11-23T08:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T08:30:00+03:00",
+          "stop": "2026-11-23T08:35:00+03:00",
+          "title": "Юлия Лебедевадан қамқорлықпен жасалған массаж",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T08:35:00+03:00",
+          "stop": "2026-11-23T18:00:00+03:00",
+          "title": "Hit Zone",
           "description": "L",
           "category": null
         }

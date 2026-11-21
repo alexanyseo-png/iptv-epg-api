@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 7,
+  "programmeCount": 17,
   "days": [
     {
       "date": "2026-11-22",
@@ -60,6 +60,81 @@
         {
           "start": "2026-11-22T23:00:00+03:00",
           "stop": "2026-11-23T00:00:00+03:00",
+          "title": "Schlager-Express.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T00:00:00+03:00",
+          "stop": "2026-11-23T01:00:00+03:00",
+          "title": "Zwischentöne.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T01:00:00+03:00",
+          "stop": "2026-11-23T03:00:00+03:00",
+          "title": "Schlager fürs Herz.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T03:00:00+03:00",
+          "stop": "2026-11-23T06:00:00+03:00",
+          "title": "Melodien für Sie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T06:00:00+03:00",
+          "stop": "2026-11-23T07:00:00+03:00",
+          "title": "Schlager-Express.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T07:00:00+03:00",
+          "stop": "2026-11-23T12:00:00+03:00",
+          "title": "Ohrwürmer.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T12:00:00+03:00",
+          "stop": "2026-11-23T15:00:00+03:00",
+          "title": "Schlager aktuell!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T15:00:00+03:00",
+          "stop": "2026-11-23T18:00:00+03:00",
+          "title": "Melodien für Sie.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T18:00:00+03:00",
+          "stop": "2026-11-23T21:00:00+03:00",
+          "title": "Schmankerl der Volksmusik.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T21:00:00+03:00",
+          "stop": "2026-11-23T23:00:00+03:00",
+          "title": "Schlager aktuell!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T23:00:00+03:00",
+          "stop": "2026-11-24T00:00:00+03:00",
           "title": "Schlager-Express.",
           "description": "L",
           "category": null

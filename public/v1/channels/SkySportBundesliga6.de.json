@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 7,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T04:00:00+03:00",
-          "stop": "2026-11-20T08:00:00+03:00",
-          "title": "BL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T08:00:00+03:00",
-          "stop": "2026-11-21T08:00:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -44,21 +25,21 @@
         {
           "start": "2026-11-21T14:10:00+03:00",
           "stop": "2026-11-21T14:30:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "title": "⋗ 2. Bundesliga",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T14:30:00+03:00",
           "stop": "2026-11-21T17:00:00+03:00",
-          "title": "Live BL: Multiview, 12. Spieltag, Samstag",
+          "title": "⋗ 2. BL: Multiview, 12. Spieltag, Samstag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T17:00:00+03:00",
           "stop": "2026-11-21T19:30:00+03:00",
-          "title": "Live BL: Multiview, 10. Spieltag",
+          "title": "⋗ BL: Multiview, 10. Spieltag",
           "description": "L",
           "category": null
         },
@@ -76,7 +57,19 @@
       "programs": [
         {
           "start": "2026-11-22T08:00:00+03:00",
-          "stop": "2026-11-22T09:00:00+03:00",
+          "stop": "2026-11-23T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T08:00:00+03:00",
+          "stop": "2026-11-24T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

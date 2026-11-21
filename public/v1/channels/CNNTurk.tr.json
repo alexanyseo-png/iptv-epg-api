@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 8,
+  "programmeCount": 17,
   "days": [
     {
       "date": "2026-11-22",
@@ -68,6 +68,74 @@
           "start": "2026-11-22T20:45:00+03:00",
           "stop": "2026-11-23T01:00:00+03:00",
           "title": "Ne Oluyor?",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T01:00:00+03:00",
+          "stop": "2026-11-23T02:15:00+03:00",
+          "title": "Gece Haberleri.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T02:15:00+03:00",
+          "stop": "2026-11-23T06:00:00+03:00",
+          "title": "Ne Oluyor?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T06:00:00+03:00",
+          "stop": "2026-11-23T09:00:00+03:00",
+          "title": "A'dan Z'ye.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T09:00:00+03:00",
+          "stop": "2026-11-23T12:00:00+03:00",
+          "title": "Gündem.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T12:00:00+03:00",
+          "stop": "2026-11-23T14:00:00+03:00",
+          "title": "Gün Ortası.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T14:00:00+03:00",
+          "stop": "2026-11-23T16:00:00+03:00",
+          "title": "Bugün.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T16:00:00+03:00",
+          "stop": "2026-11-23T18:00:00+03:00",
+          "title": "Günlük.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T18:00:00+03:00",
+          "stop": "2026-11-23T20:30:00+03:00",
+          "title": "Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T20:30:00+03:00",
+          "stop": "2026-11-24T01:00:00+03:00",
+          "title": "Tarafsız Bölge.",
           "description": "L",
           "category": null
         }

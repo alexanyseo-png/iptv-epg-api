@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 11,
+  "programmeCount": 9,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T12:00:00+03:00",
-          "stop": "2026-11-20T20:00:00+03:00",
-          "title": "RedBull TV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T20:00:00+03:00",
-          "stop": "2026-11-20T23:00:00+03:00",
-          "title": "Formula 1: Brasilian GP – Osakilpailu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T23:00:00+03:00",
-          "stop": "2026-11-21T06:55:00+03:00",
-          "title": "Bundesliiga: Bayern München – Dortmund",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -99,6 +73,18 @@
           "start": "2026-11-22T23:00:00+03:00",
           "stop": "2026-11-23T12:00:00+03:00",
           "title": "Formula 1: Las Vegasin GP – Osakilpailu",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T12:00:00+03:00",
+          "stop": "2026-11-23T20:00:00+03:00",
+          "title": "RedBull TV",
           "description": "L",
           "category": null
         }

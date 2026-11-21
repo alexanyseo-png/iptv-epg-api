@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 44,
+  "programmeCount": 42,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T01:00:00+03:00",
-          "stop": "2026-11-20T03:00:00+03:00",
-          "title": "AFC Elite: Pakhtakor vs Al Nassr",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T03:00:00+03:00",
-          "stop": "2026-11-20T05:00:00+03:00",
-          "title": "AFC Elite: Al Hilal vs Al Ahli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T05:00:00+03:00",
-          "stop": "2026-11-20T07:00:00+03:00",
-          "title": "DFB: Bayern vs Magdeburg",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T07:00:00+03:00",
-          "stop": "2026-11-20T09:00:00+03:00",
-          "title": "Serie A: Genoa vs Milan",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T09:00:00+03:00",
-          "stop": "2026-11-20T11:00:00+03:00",
-          "title": "Serie A: Inter vs Como",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T11:00:00+03:00",
-          "stop": "2026-11-20T13:00:00+03:00",
-          "title": "Serie A: Fiorentina vs Juventus",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T13:00:00+03:00",
-          "stop": "2026-11-20T15:00:00+03:00",
-          "title": "Serie A: Monza vs Atalanta",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T15:00:00+03:00",
-          "stop": "2026-11-20T17:00:00+03:00",
-          "title": "Dutch: Cambuur vs PSV",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T17:00:00+03:00",
-          "stop": "2026-11-20T19:00:00+03:00",
-          "title": "Dutch: Heerenveen vs Feyenoord",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T19:00:00+03:00",
-          "stop": "2026-11-20T21:00:00+03:00",
-          "title": "Dutch: Twente vs AFC Ajax",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T21:00:00+03:00",
-          "stop": "2026-11-20T23:00:00+03:00",
-          "title": "AFC Elite: Al Sadd vs Al Ahli",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T23:00:00+03:00",
-          "stop": "2026-11-21T01:00:00+03:00",
-          "title": "AFC Elite: Al Ittihad vs Al Ain",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -330,6 +241,81 @@
           "start": "2026-11-22T22:35:00+03:00",
           "stop": "2026-11-23T01:00:00+03:00",
           "title": "⋗ Serie A: Atalanta vs Inter",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T01:00:00+03:00",
+          "stop": "2026-11-23T03:00:00+03:00",
+          "title": "Serie A: Sassuolo vs Genoa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T03:00:00+03:00",
+          "stop": "2026-11-23T03:30:00+03:00",
+          "title": "Emirates FA Cup: RD1 Preview",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T03:30:00+03:00",
+          "stop": "2026-11-23T03:50:00+03:00",
+          "title": "DFB: Round 1 Highlights Show",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T03:50:00+03:00",
+          "stop": "2026-11-23T06:00:00+03:00",
+          "title": "(D) Dutch: NEC vs PSV",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T06:00:00+03:00",
+          "stop": "2026-11-23T06:30:00+03:00",
+          "title": "Emirates FA Cup: RD1 Highlights",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T06:30:00+03:00",
+          "stop": "2026-11-23T06:50:00+03:00",
+          "title": "This Is Our Time. 1 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T06:50:00+03:00",
+          "stop": "2026-11-23T09:00:00+03:00",
+          "title": "(D) Dutch: Feyenoord vs Excelsior",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T09:00:00+03:00",
+          "stop": "2026-11-23T09:30:00+03:00",
+          "title": "Inside Serie A",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T09:30:00+03:00",
+          "stop": "2026-11-23T09:50:00+03:00",
+          "title": "This Is Our Time. 2 с.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T09:50:00+03:00",
+          "stop": "2026-11-23T12:00:00+03:00",
+          "title": "(D) Dutch: Ajax vs ADO Den Haag",
           "description": "L",
           "category": null
         }

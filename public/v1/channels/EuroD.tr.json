@@ -8,9 +8,9 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 10,
+  "programmeCount": 20,
   "days": [
     {
       "date": "2026-11-22",
@@ -82,6 +82,81 @@
           "start": "2026-11-22T20:00:00+03:00",
           "stop": "2026-11-23T00:30:00+03:00",
           "title": "Daha 17.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T00:30:00+03:00",
+          "stop": "2026-11-23T04:55:00+03:00",
+          "title": "Yerli Dizi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T04:55:00+03:00",
+          "stop": "2026-11-23T07:00:00+03:00",
+          "title": "Üç Kız Kardeş.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T07:00:00+03:00",
+          "stop": "2026-11-23T09:00:00+03:00",
+          "title": "Küçük Ağa.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T09:00:00+03:00",
+          "stop": "2026-11-23T11:00:00+03:00",
+          "title": "Neler Oluyor Hayatta?",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T11:00:00+03:00",
+          "stop": "2026-11-23T14:00:00+03:00",
+          "title": "Yaprak Dökümü.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T14:00:00+03:00",
+          "stop": "2026-11-23T16:30:00+03:00",
+          "title": "Gelinim Mutfakta.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T16:30:00+03:00",
+          "stop": "2026-11-23T18:15:00+03:00",
+          "title": "Yerli Dizi.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T18:15:00+03:00",
+          "stop": "2026-11-23T19:00:00+03:00",
+          "title": "Sıcak Gelişme.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T19:00:00+03:00",
+          "stop": "2026-11-23T20:00:00+03:00",
+          "title": "Kanal D Ana Haber.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T20:00:00+03:00",
+          "stop": "2026-11-24T00:30:00+03:00",
+          "title": "Uzak Şehir.",
           "description": "L",
           "category": null
         }

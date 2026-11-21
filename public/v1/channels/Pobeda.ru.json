@@ -8,57 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
   "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T00:10:00+03:00",
-          "stop": "2026-11-20T02:00:00+03:00",
-          "title": "х/ф Единичка",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T02:00:00+03:00",
-          "stop": "2026-11-20T03:40:00+03:00",
-          "title": "х/ф Живи и помни",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T03:40:00+03:00",
-          "stop": "2026-11-20T04:40:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T04:40:00+03:00",
-          "stop": "2026-11-20T07:10:00+03:00",
-          "title": "х/ф Перегон",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T07:10:00+03:00",
-          "stop": "2026-11-20T11:00:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T11:00:00+03:00",
-          "stop": "2026-11-21T01:30:00+03:00",
-          "title": "т/с Желтый глаз тигра",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -176,6 +129,53 @@
           "start": "2026-11-22T17:00:00+03:00",
           "stop": "2026-11-23T00:20:00+03:00",
           "title": "т/с Отрыв",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T00:20:00+03:00",
+          "stop": "2026-11-23T02:20:00+03:00",
+          "title": "х/ф Водитель для Веры",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T02:20:00+03:00",
+          "stop": "2026-11-23T04:30:00+03:00",
+          "title": "х/ф Благословите женщину",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T04:30:00+03:00",
+          "stop": "2026-11-23T05:30:00+03:00",
+          "title": "Путь к Победе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T05:30:00+03:00",
+          "stop": "2026-11-23T07:10:00+03:00",
+          "title": "х/ф Крик тишины",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T07:10:00+03:00",
+          "stop": "2026-11-23T11:00:00+03:00",
+          "title": "т/с Балабол",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-23T11:00:00+03:00",
+          "stop": "2026-11-23T14:40:00+03:00",
+          "title": "т/с Ялта-45",
           "description": "L",
           "category": null
         }

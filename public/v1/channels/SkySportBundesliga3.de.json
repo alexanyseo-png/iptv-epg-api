@@ -8,43 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 13,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T08:00:00+03:00",
-          "stop": "2026-11-20T19:40:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T19:40:00+03:00",
-          "stop": "2026-11-20T20:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T20:00:00+03:00",
-          "stop": "2026-11-20T22:30:00+03:00",
-          "title": "Live 2. BL: SV Darmstadt 98 – 1. FC Heidenheim, 12. Spieltag",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T22:30:00+03:00",
-          "stop": "2026-11-21T00:30:00+03:00",
-          "title": "Live BL: Sky Sport Fantasy: FCB – KOE, 10. Spieltag",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -65,35 +32,35 @@
         {
           "start": "2026-11-21T14:10:00+03:00",
           "stop": "2026-11-21T14:30:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "title": "⋗ 2. Bundesliga",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T14:30:00+03:00",
           "stop": "2026-11-21T17:00:00+03:00",
-          "title": "Live 2. BL: VfL Wolfsburg – Holstein Kiel, 12. Spieltag",
+          "title": "⋗ 2. BL: VfL Wolfsburg – Holstein Kiel, 12. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T17:00:00+03:00",
           "stop": "2026-11-21T17:15:00+03:00",
-          "title": "Live BL: SGE – TSG: NEO.bet Countdown, 10. Spieltag",
+          "title": "⋗ BL: SGE – TSG: NEO.bet Countdown, 10. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T17:15:00+03:00",
           "stop": "2026-11-21T19:45:00+03:00",
-          "title": "Live BL: Eintracht Frankfurt – TSG Hoffenheim, 10. Spieltag",
+          "title": "⋗ BL: Eintracht Frankfurt – TSG Hoffenheim, 10. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T19:45:00+03:00",
           "stop": "2026-11-21T23:15:00+03:00",
-          "title": "Live BL: Tactical Feed: S04 – VFB, 10. Spieltag",
+          "title": "⋗ BL: Tactical Feed: S04 – VFB, 10. Spieltag",
           "description": "L",
           "category": null
         },
@@ -119,20 +86,32 @@
         {
           "start": "2026-11-22T14:40:00+03:00",
           "stop": "2026-11-22T15:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "title": "⋗ 2. Bundesliga",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-22T15:00:00+03:00",
           "stop": "2026-11-22T17:30:00+03:00",
-          "title": "Live 2. BL: Karlsruher SC – VfL Osnabrück, 12. Spieltag",
+          "title": "⋗ 2. BL: Karlsruher SC – VfL Osnabrück, 12. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-22T17:30:00+03:00",
-          "stop": "2026-11-22T18:30:00+03:00",
+          "stop": "2026-11-23T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T08:00:00+03:00",
+          "stop": "2026-11-24T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

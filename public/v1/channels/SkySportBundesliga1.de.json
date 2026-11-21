@@ -8,36 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-20T20:25:51.215757+00:00",
+  "generatedAt": "2026-11-21T19:20:17.893426+00:00",
   "available": true,
-  "programmeCount": 16,
+  "programmeCount": 14,
   "days": [
-    {
-      "date": "2026-11-20",
-      "programs": [
-        {
-          "start": "2026-11-20T08:00:00+03:00",
-          "stop": "2026-11-20T21:10:00+03:00",
-          "title": "Sendepause",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T21:10:00+03:00",
-          "stop": "2026-11-20T21:30:00+03:00",
-          "title": "Es folgt: Live Bundesliga",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-20T21:30:00+03:00",
-          "stop": "2026-11-21T01:15:00+03:00",
-          "title": "Live BL: FC Bayern München – 1. FC Köln, Flutlicht-Freitag, 10. Spieltag",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-21",
       "programs": [
@@ -58,35 +32,35 @@
         {
           "start": "2026-11-21T15:40:00+03:00",
           "stop": "2026-11-21T16:00:00+03:00",
-          "title": "Es folgt: Live Bundesliga",
+          "title": "⋗ Bundesliga",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T16:00:00+03:00",
           "stop": "2026-11-21T17:00:00+03:00",
-          "title": "Live BL: NEO.bet Countdown, 10. Spieltag",
+          "title": "⋗ BL: NEO.bet Countdown, 10. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T17:00:00+03:00",
           "stop": "2026-11-21T17:15:00+03:00",
-          "title": "Live BL: BMG – BVB: NEO.bet Countdown, 10. Spieltag",
+          "title": "⋗ BL: BMG – BVB: NEO.bet Countdown, 10. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T17:15:00+03:00",
           "stop": "2026-11-21T19:45:00+03:00",
-          "title": "Live BL: Borussia M'gladbach – Borussia Dortmund, 10. Spieltag",
+          "title": "⋗ BL: Borussia M'gladbach – Borussia Dortmund, 10. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-21T19:45:00+03:00",
           "stop": "2026-11-21T23:15:00+03:00",
-          "title": "Live BL: FC Schalke 04 – VfB Stuttgart, tipico Topspiel der Woche, 10. Spieltag",
+          "title": "⋗ BL: FC Schalke 04 – VfB Stuttgart, tipico Topspiel der Woche, 10. Spieltag",
           "description": "L",
           "category": null
         },
@@ -112,27 +86,39 @@
         {
           "start": "2026-11-22T14:40:00+03:00",
           "stop": "2026-11-22T15:00:00+03:00",
-          "title": "Es folgt: Live 2. Bundesliga",
+          "title": "⋗ 2. Bundesliga",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-22T15:00:00+03:00",
           "stop": "2026-11-22T17:30:00+03:00",
-          "title": "Live 2. BL: Sonntags-Konferenz, 12. Spieltag",
+          "title": "⋗ 2. BL: Sonntags-Konferenz, 12. Spieltag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-22T17:30:00+03:00",
           "stop": "2026-11-22T18:45:00+03:00",
-          "title": "Live 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Sonntag",
+          "title": "⋗ 2. BL Alle Spiele, alle Tore: Die Vodafone Highlight-Show, 12. Spieltag, Sonntag",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-22T18:45:00+03:00",
-          "stop": "2026-11-22T19:45:00+03:00",
+          "stop": "2026-11-23T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-23",
+      "programs": [
+        {
+          "start": "2026-11-23T08:00:00+03:00",
+          "stop": "2026-11-24T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null
