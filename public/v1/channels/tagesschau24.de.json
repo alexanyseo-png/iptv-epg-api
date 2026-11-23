@@ -8,531 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-22T19:44:33.609906+00:00",
+  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
   "available": true,
-  "programmeCount": 102,
+  "programmeCount": 86,
   "days": [
-    {
-      "date": "2026-11-22",
-      "programs": [
-        {
-          "start": "2026-11-22T00:00:00+03:00",
-          "stop": "2026-11-22T00:30:00+03:00",
-          "title": "rbb24 Reportage: Häusliche Gewalt - Auf Streife mit der Polizei.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T00:30:00+03:00",
-          "stop": "2026-11-22T01:05:00+03:00",
-          "title": "Jüdisch sein. Bleiben oder gehen?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T01:05:00+03:00",
-          "stop": "2026-11-22T01:10:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T01:10:00+03:00",
-          "stop": "2026-11-22T01:30:00+03:00",
-          "title": "Tagesthemen - mit Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T01:30:00+03:00",
-          "stop": "2026-11-22T02:15:00+03:00",
-          "title": "Panorama 3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T02:15:00+03:00",
-          "stop": "2026-11-22T02:30:00+03:00",
-          "title": "Tagesschau vor 20 Jahren.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T02:30:00+03:00",
-          "stop": "2026-11-22T03:00:00+03:00",
-          "title": "Ulrich Timm im Gespräch mit Prof. Tom Mannewitz - Prof. für politischen Extremismus, Hochschule des Bundes.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T03:00:00+03:00",
-          "stop": "2026-11-22T03:45:00+03:00",
-          "title": "Wenn Rechtsextremisten freie Schulen unterwandern.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T03:45:00+03:00",
-          "stop": "2026-11-22T03:50:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T03:50:00+03:00",
-          "stop": "2026-11-22T04:20:00+03:00",
-          "title": "Rechtsextreme als Security. S: 1 / Ep: 151.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T04:20:00+03:00",
-          "stop": "2026-11-22T05:05:00+03:00",
-          "title": "Aktuelle Stunde.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T05:05:00+03:00",
-          "stop": "2026-11-22T05:15:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T05:15:00+03:00",
-          "stop": "2026-11-22T05:30:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T05:30:00+03:00",
-          "stop": "2026-11-22T06:00:00+03:00",
-          "title": "rbb24 Abendschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T06:00:00+03:00",
-          "stop": "2026-11-22T06:30:00+03:00",
-          "title": "rbb24 Brandenburg aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T06:30:00+03:00",
-          "stop": "2026-11-22T07:00:00+03:00",
-          "title": "buten un binnen | regionalmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T07:00:00+03:00",
-          "stop": "2026-11-22T07:02:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T07:02:00+03:00",
-          "stop": "2026-11-22T07:30:00+03:00",
-          "title": "hessenschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T07:30:00+03:00",
-          "stop": "2026-11-22T08:00:00+03:00",
-          "title": "daten der woche.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T08:00:00+03:00",
-          "stop": "2026-11-22T08:02:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T08:02:00+03:00",
-          "stop": "2026-11-22T08:47:00+03:00",
-          "title": "Trügerische Etiketten - Chinas Modemafia in Europa.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T08:47:00+03:00",
-          "stop": "2026-11-22T09:00:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T09:00:00+03:00",
-          "stop": "2026-11-22T09:30:00+03:00",
-          "title": "Sylt - nichts läuft ohne Pendler.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T09:30:00+03:00",
-          "stop": "2026-11-22T10:15:00+03:00",
-          "title": "1968 - Ostberlin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T10:15:00+03:00",
-          "stop": "2026-11-22T11:00:00+03:00",
-          "title": "Zur Sache Rheinland-Pfalz!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T11:00:00+03:00",
-          "stop": "2026-11-22T14:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T14:00:00+03:00",
-          "stop": "2026-11-22T14:15:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T14:15:00+03:00",
-          "stop": "2026-11-22T15:00:00+03:00",
-          "title": "Assad und die verschleppten Kinder.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T15:00:00+03:00",
-          "stop": "2026-11-22T15:15:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T15:15:00+03:00",
-          "stop": "2026-11-22T16:00:00+03:00",
-          "title": "#unsereKinder - Wie kinderfreundlich ist Deutschland?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T16:00:00+03:00",
-          "stop": "2026-11-22T16:15:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T16:15:00+03:00",
-          "stop": "2026-11-22T17:00:00+03:00",
-          "title": "Presseclub - Ukraine: Wie viel Unterstützung wollen wir leisten?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T17:00:00+03:00",
-          "stop": "2026-11-22T17:30:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T17:30:00+03:00",
-          "stop": "2026-11-22T18:00:00+03:00",
-          "title": "Europamagazin - Bericht aus Brüssel.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T18:00:00+03:00",
-          "stop": "2026-11-22T18:30:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T18:30:00+03:00",
-          "stop": "2026-11-22T19:00:00+03:00",
-          "title": "Quarks im Ersten - Mehr Wildnis wagen - wie viel Natur brauchen wir?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T19:00:00+03:00",
-          "stop": "2026-11-22T19:25:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T19:25:00+03:00",
-          "stop": "2026-11-22T20:00:00+03:00",
-          "title": "Jüdisch sein. Bleiben oder gehen?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T20:00:00+03:00",
-          "stop": "2026-11-22T20:30:00+03:00",
-          "title": "Bericht aus Berlin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T20:30:00+03:00",
-          "stop": "2026-11-22T21:15:00+03:00",
-          "title": "Social Media verboten - Das Australien-Experiment.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T21:15:00+03:00",
-          "stop": "2026-11-22T22:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T22:00:00+03:00",
-          "stop": "2026-11-22T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T22:15:00+03:00",
-          "stop": "2026-11-22T23:00:00+03:00",
-          "title": "Assad und die verschleppten Kinder.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T23:00:00+03:00",
-          "stop": "2026-11-22T23:02:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T23:02:00+03:00",
-          "stop": "2026-11-22T23:45:00+03:00",
-          "title": "Die Wahrheit hinter dem Schokohasen - Kinderarbeit in der Kakaoindustrie?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-22T23:45:00+03:00",
-          "stop": "2026-11-23T00:15:00+03:00",
-          "title": "Im Dauereinsatz gegen Kinderarmut.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
-    {
-      "date": "2026-11-23",
-      "programs": [
-        {
-          "start": "2026-11-23T00:15:00+03:00",
-          "stop": "2026-11-23T00:45:00+03:00",
-          "title": "Bericht aus Berlin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T00:45:00+03:00",
-          "stop": "2026-11-23T01:05:00+03:00",
-          "title": "Tagesthemen - mit Sport und Wetter.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T01:05:00+03:00",
-          "stop": "2026-11-23T01:50:00+03:00",
-          "title": "Social Media verboten - Das Australien-Experiment.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T01:50:00+03:00",
-          "stop": "2026-11-23T02:05:00+03:00",
-          "title": "Tagesschau vor 20 Jahren.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T02:05:00+03:00",
-          "stop": "2026-11-23T02:50:00+03:00",
-          "title": "Assad und die verschleppten Kinder.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T02:50:00+03:00",
-          "stop": "2026-11-23T03:35:00+03:00",
-          "title": "Die Wahrheit hinter dem Schokohasen - Kinderarbeit in der Kakaoindustrie?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T03:35:00+03:00",
-          "stop": "2026-11-23T04:05:00+03:00",
-          "title": "Im Dauereinsatz gegen Kinderarmut.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T04:05:00+03:00",
-          "stop": "2026-11-23T04:07:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T04:07:00+03:00",
-          "stop": "2026-11-23T04:50:00+03:00",
-          "title": "Presseclub - Ukraine: Wie viel Unterstützung wollen wir leisten?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T04:50:00+03:00",
-          "stop": "2026-11-23T05:35:00+03:00",
-          "title": "Aktuelle Stunde.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T05:35:00+03:00",
-          "stop": "2026-11-23T05:45:00+03:00",
-          "title": "Extra.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T05:45:00+03:00",
-          "stop": "2026-11-23T06:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T06:00:00+03:00",
-          "stop": "2026-11-23T06:30:00+03:00",
-          "title": "rbb24 Brandenburg aktuell.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T06:30:00+03:00",
-          "stop": "2026-11-23T07:00:00+03:00",
-          "title": "buten un binnen | regionalmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T07:00:00+03:00",
-          "stop": "2026-11-23T07:02:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T07:02:00+03:00",
-          "stop": "2026-11-23T07:30:00+03:00",
-          "title": "hessenschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T07:30:00+03:00",
-          "stop": "2026-11-23T11:00:00+03:00",
-          "title": "▶️ ZDF-Morgenmagazin.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T11:00:00+03:00",
-          "stop": "2026-11-23T14:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T14:00:00+03:00",
-          "stop": "2026-11-23T16:00:00+03:00",
-          "title": "ARD-Mittagsmagazin - Mit Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T16:00:00+03:00",
-          "stop": "2026-11-23T21:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T21:00:00+03:00",
-          "stop": "2026-11-23T21:08:00+03:00",
-          "title": "Tagesschau in Einfacher Sprache.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T21:08:00+03:00",
-          "stop": "2026-11-23T22:00:00+03:00",
-          "title": "Tagesschau-Nachrichten.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T22:00:00+03:00",
-          "stop": "2026-11-23T22:15:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T22:15:00+03:00",
-          "stop": "2026-11-23T22:30:00+03:00",
-          "title": "tagesschau24 TOP-THEMA.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T22:30:00+03:00",
-          "stop": "2026-11-23T23:30:00+03:00",
-          "title": "Caren Miosga - Ein Krieg, zwei Gipfel - hat die Ukraine eine Chance auf Frieden?",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T23:30:00+03:00",
-          "stop": "2026-11-23T23:32:00+03:00",
-          "title": "Tagesschau.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-23T23:32:00+03:00",
-          "stop": "2026-11-24T00:02:00+03:00",
-          "title": "Ulrich Timm im Gespräch mit Prof. Tom Mannewitz - Prof. für politischen Extremismus, Hochschule des Bundes.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-24",
       "programs": [
@@ -736,6 +215,415 @@
           "start": "2026-11-24T23:32:00+03:00",
           "stop": "2026-11-25T00:00:00+03:00",
           "title": "Das Gipfeltreffen - Schubert, Sträter und König retten die Welt.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-25",
+      "programs": [
+        {
+          "start": "2026-11-25T00:00:00+03:00",
+          "stop": "2026-11-25T00:15:00+03:00",
+          "title": "AKW in Gefahr.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T00:15:00+03:00",
+          "stop": "2026-11-25T00:50:00+03:00",
+          "title": "Tagesthemen - mit Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T00:50:00+03:00",
+          "stop": "2026-11-25T02:05:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T02:05:00+03:00",
+          "stop": "2026-11-25T02:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T02:15:00+03:00",
+          "stop": "2026-11-25T02:30:00+03:00",
+          "title": "Tagesschau vor 20 Jahren.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T02:30:00+03:00",
+          "stop": "2026-11-25T03:00:00+03:00",
+          "title": "Report München.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T03:00:00+03:00",
+          "stop": "2026-11-25T03:45:00+03:00",
+          "title": "Marktcheck.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T03:45:00+03:00",
+          "stop": "2026-11-25T04:00:00+03:00",
+          "title": "Shift.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T04:00:00+03:00",
+          "stop": "2026-11-25T04:03:00+03:00",
+          "title": "Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T04:03:00+03:00",
+          "stop": "2026-11-25T04:30:00+03:00",
+          "title": "rbb24 Abendschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T04:30:00+03:00",
+          "stop": "2026-11-25T05:00:00+03:00",
+          "title": "MDR SACHSEN-ANHALT HEUTE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T05:00:00+03:00",
+          "stop": "2026-11-25T05:03:00+03:00",
+          "title": "Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T05:03:00+03:00",
+          "stop": "2026-11-25T05:48:00+03:00",
+          "title": "Aktuelle Stunde.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T05:48:00+03:00",
+          "stop": "2026-11-25T06:00:00+03:00",
+          "title": "Extra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T06:00:00+03:00",
+          "stop": "2026-11-25T06:03:00+03:00",
+          "title": "Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T06:03:00+03:00",
+          "stop": "2026-11-25T06:30:00+03:00",
+          "title": "rbb24 Brandenburg aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T06:30:00+03:00",
+          "stop": "2026-11-25T07:00:00+03:00",
+          "title": "buten un binnen | regionalmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T07:00:00+03:00",
+          "stop": "2026-11-25T07:30:00+03:00",
+          "title": "hessenschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T07:30:00+03:00",
+          "stop": "2026-11-25T11:00:00+03:00",
+          "title": "▶️ ZDF-Morgenmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T11:00:00+03:00",
+          "stop": "2026-11-25T14:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T14:00:00+03:00",
+          "stop": "2026-11-25T16:00:00+03:00",
+          "title": "ARD-Mittagsmagazin - Mit Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T16:00:00+03:00",
+          "stop": "2026-11-25T21:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T21:00:00+03:00",
+          "stop": "2026-11-25T21:08:00+03:00",
+          "title": "Tagesschau in Einfacher Sprache.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T21:08:00+03:00",
+          "stop": "2026-11-25T22:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T22:00:00+03:00",
+          "stop": "2026-11-25T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T22:15:00+03:00",
+          "stop": "2026-11-25T22:30:00+03:00",
+          "title": "tagesschau24 TOP-THEMA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T22:30:00+03:00",
+          "stop": "2026-11-25T23:45:00+03:00",
+          "title": "maischberger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T23:45:00+03:00",
+          "stop": "2026-11-25T23:47:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T23:47:00+03:00",
+          "stop": "2026-11-26T00:15:00+03:00",
+          "title": "Report München.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "programs": [
+        {
+          "start": "2026-11-26T00:15:00+03:00",
+          "stop": "2026-11-26T00:50:00+03:00",
+          "title": "Tagesthemen - mit Wetter.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T00:50:00+03:00",
+          "stop": "2026-11-26T02:05:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T02:05:00+03:00",
+          "stop": "2026-11-26T02:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T02:15:00+03:00",
+          "stop": "2026-11-26T02:30:00+03:00",
+          "title": "Tagesschau vor 20 Jahren.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T02:30:00+03:00",
+          "stop": "2026-11-26T03:00:00+03:00",
+          "title": "Kontrovers.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T03:00:00+03:00",
+          "stop": "2026-11-26T03:45:00+03:00",
+          "title": "Markt.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T03:45:00+03:00",
+          "stop": "2026-11-26T04:00:00+03:00",
+          "title": "Extra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T04:00:00+03:00",
+          "stop": "2026-11-26T04:03:00+03:00",
+          "title": "Nachrichten - um 2.00 Uhr.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T04:03:00+03:00",
+          "stop": "2026-11-26T04:30:00+03:00",
+          "title": "rbb24 Abendschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T04:30:00+03:00",
+          "stop": "2026-11-26T05:00:00+03:00",
+          "title": "MDR SACHSEN-ANHALT HEUTE.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T05:00:00+03:00",
+          "stop": "2026-11-26T05:03:00+03:00",
+          "title": "Nachrichten - um 3.00 Uhr.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T05:03:00+03:00",
+          "stop": "2026-11-26T05:48:00+03:00",
+          "title": "Aktuelle Stunde.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T05:48:00+03:00",
+          "stop": "2026-11-26T06:00:00+03:00",
+          "title": "Extra.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T06:00:00+03:00",
+          "stop": "2026-11-26T06:03:00+03:00",
+          "title": "Nachrichten - um 4.00 Uhr.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T06:03:00+03:00",
+          "stop": "2026-11-26T06:30:00+03:00",
+          "title": "rbb24 Brandenburg aktuell.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T06:30:00+03:00",
+          "stop": "2026-11-26T07:00:00+03:00",
+          "title": "buten un binnen | regionalmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T07:00:00+03:00",
+          "stop": "2026-11-26T07:30:00+03:00",
+          "title": "hessenschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T07:30:00+03:00",
+          "stop": "2026-11-26T11:00:00+03:00",
+          "title": "▶️ ZDF-Morgenmagazin.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T11:00:00+03:00",
+          "stop": "2026-11-26T14:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T14:00:00+03:00",
+          "stop": "2026-11-26T16:00:00+03:00",
+          "title": "ARD-Mittagsmagazin - Mit Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T16:00:00+03:00",
+          "stop": "2026-11-26T21:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T21:00:00+03:00",
+          "stop": "2026-11-26T21:08:00+03:00",
+          "title": "Tagesschau in Einfacher Sprache.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T21:08:00+03:00",
+          "stop": "2026-11-26T22:00:00+03:00",
+          "title": "Tagesschau-Nachrichten.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T22:00:00+03:00",
+          "stop": "2026-11-26T22:15:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T22:15:00+03:00",
+          "stop": "2026-11-26T22:30:00+03:00",
+          "title": "tagesschau24 TOP-THEMA.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T22:30:00+03:00",
+          "stop": "2026-11-26T23:45:00+03:00",
+          "title": "maischberger.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T23:45:00+03:00",
+          "stop": "2026-11-26T23:47:00+03:00",
+          "title": "Tagesschau.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T23:47:00+03:00",
+          "stop": "2026-11-27T00:15:00+03:00",
+          "title": "Plusminus - Das ARD-Wirtschaftsmagazin.",
           "description": "L",
           "category": null
         }
