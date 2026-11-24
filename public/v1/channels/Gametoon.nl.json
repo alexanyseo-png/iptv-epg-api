@@ -8,246 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 99,
+  "programmeCount": 100,
   "days": [
-    {
-      "date": "2026-11-24",
-      "programs": [
-        {
-          "start": "2026-11-24T00:25:00+03:00",
-          "stop": "2026-11-24T00:45:00+03:00",
-          "title": "Autospeed 2020 Ep 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T00:45:00+03:00",
-          "stop": "2026-11-24T01:10:00+03:00",
-          "title": "Autospeed 2020 Ep 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T01:10:00+03:00",
-          "stop": "2026-11-24T01:35:00+03:00",
-          "title": "Autospeed 2020 Ep 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T01:35:00+03:00",
-          "stop": "2026-11-24T01:55:00+03:00",
-          "title": "Zoomin – 10Up Ep 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T01:55:00+03:00",
-          "stop": "2026-11-24T02:20:00+03:00",
-          "title": "Zoomin – 10Up Ep 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T02:20:00+03:00",
-          "stop": "2026-11-24T03:10:00+03:00",
-          "title": "Stream Nation: Blair Witch Ep 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T03:10:00+03:00",
-          "stop": "2026-11-24T04:10:00+03:00",
-          "title": "Stream Nation: Blair Witch Ep 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:10:00+03:00",
-          "stop": "2026-11-24T05:05:00+03:00",
-          "title": "Stream Nation: Doom Eternal Ep 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T05:05:00+03:00",
-          "stop": "2026-11-24T06:15:00+03:00",
-          "title": "Stream Nation: Doom Eternal Ep 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T06:15:00+03:00",
-          "stop": "2026-11-24T06:35:00+03:00",
-          "title": "Rip Files Season 1. Shadows of The Past",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T06:35:00+03:00",
-          "stop": "2026-11-24T07:00:00+03:00",
-          "title": "Rip Files Season 1. The Last Witch",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:00:00+03:00",
-          "stop": "2026-11-24T07:25:00+03:00",
-          "title": "Rip Files Season 1. The Mad Major",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:25:00+03:00",
-          "stop": "2026-11-24T09:00:00+03:00",
-          "title": "Night Board",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T09:00:00+03:00",
-          "stop": "2026-11-24T10:00:00+03:00",
-          "title": "Stream Nation: Journey to the Savage Planet Ep 2",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T10:00:00+03:00",
-          "stop": "2026-11-24T11:00:00+03:00",
-          "title": "Stream Nation: Journey to the Savage Planet Ep 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T11:00:00+03:00",
-          "stop": "2026-11-24T12:00:00+03:00",
-          "title": "Stream Nation: Spyro Ep 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T12:00:00+03:00",
-          "stop": "2026-11-24T12:55:00+03:00",
-          "title": "Stream Nation: Spyro Ep 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T12:55:00+03:00",
-          "stop": "2026-11-24T13:15:00+03:00",
-          "title": "Wild Spirit Ep 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T13:15:00+03:00",
-          "stop": "2026-11-24T13:40:00+03:00",
-          "title": "Wild Spirit Ep 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T13:40:00+03:00",
-          "stop": "2026-11-24T14:00:00+03:00",
-          "title": "Wild Spirit Ep 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:00:00+03:00",
-          "stop": "2026-11-24T15:10:00+03:00",
-          "title": "Stream Nation: Ori and the Will of the Wisps Ep 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T15:10:00+03:00",
-          "stop": "2026-11-24T16:10:00+03:00",
-          "title": "Stream Nation: Ori and the Will of the Wisps Ep 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T16:10:00+03:00",
-          "stop": "2026-11-24T17:05:00+03:00",
-          "title": "Stream Nation: Journey to the Savage Planet Ep 1",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:05:00+03:00",
-          "stop": "2026-11-24T17:30:00+03:00",
-          "title": "GP Racing 2021 Ep 38",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:30:00+03:00",
-          "stop": "2026-11-24T17:55:00+03:00",
-          "title": "GP Racing 2021 Ep 39",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:55:00+03:00",
-          "stop": "2026-11-24T18:15:00+03:00",
-          "title": "Autospeed 2020 Ep 20",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T18:15:00+03:00",
-          "stop": "2026-11-24T18:40:00+03:00",
-          "title": "Autospeed 2020 Ep 21",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T18:40:00+03:00",
-          "stop": "2026-11-24T19:40:00+03:00",
-          "title": "Stream Nation: Spyro Ep 3",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T19:40:00+03:00",
-          "stop": "2026-11-24T20:35:00+03:00",
-          "title": "Stream Nation: Spyro Ep 4",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T20:35:00+03:00",
-          "stop": "2026-11-24T21:25:00+03:00",
-          "title": "Drone Wars Ep 5",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T21:25:00+03:00",
-          "stop": "2026-11-24T22:15:00+03:00",
-          "title": "Drone Wars Ep 6",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:15:00+03:00",
-          "stop": "2026-11-24T23:05:00+03:00",
-          "title": "Drone Wars Ep 7",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T23:05:00+03:00",
-          "stop": "2026-11-25T00:05:00+03:00",
-          "title": "Stream Nation: The Last of Us 2 Ep 4",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-25",
       "programs": [
@@ -715,6 +479,249 @@
           "start": "2026-11-26T23:10:00+03:00",
           "stop": "2026-11-27T00:20:00+03:00",
           "title": "Stream Nation: The Last of Us 2 Ep 1",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T00:20:00+03:00",
+          "stop": "2026-11-27T00:40:00+03:00",
+          "title": "Autospeed 2020 Ep 13",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T00:40:00+03:00",
+          "stop": "2026-11-27T01:05:00+03:00",
+          "title": "Autospeed 2020 Ep 14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:05:00+03:00",
+          "stop": "2026-11-27T01:30:00+03:00",
+          "title": "Autospeed 2020 Ep 15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:30:00+03:00",
+          "stop": "2026-11-27T01:50:00+03:00",
+          "title": "Zoomin – 10Up Ep 7",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:50:00+03:00",
+          "stop": "2026-11-27T02:15:00+03:00",
+          "title": "Zoomin – 10Up Ep 8",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T02:15:00+03:00",
+          "stop": "2026-11-27T03:15:00+03:00",
+          "title": "Stream Nation: Blair Witch Ep 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T03:15:00+03:00",
+          "stop": "2026-11-27T04:05:00+03:00",
+          "title": "Stream Nation: Blair Witch Ep 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T04:05:00+03:00",
+          "stop": "2026-11-27T05:10:00+03:00",
+          "title": "Stream Nation: Doom Eternal Ep 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T05:10:00+03:00",
+          "stop": "2026-11-27T06:05:00+03:00",
+          "title": "Stream Nation: Doom Eternal Ep 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T06:05:00+03:00",
+          "stop": "2026-11-27T06:30:00+03:00",
+          "title": "Rip Files Season 1. Into the Light",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T06:30:00+03:00",
+          "stop": "2026-11-27T06:50:00+03:00",
+          "title": "Rip Files Season 1. Haunting Memories",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T06:50:00+03:00",
+          "stop": "2026-11-27T07:20:00+03:00",
+          "title": "Rip Files Season 1. Shadows of The Past",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T07:20:00+03:00",
+          "stop": "2026-11-27T09:00:00+03:00",
+          "title": "Night Board",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T09:00:00+03:00",
+          "stop": "2026-11-27T10:00:00+03:00",
+          "title": "Stream Nation: Journey to the Savage Planet Ep 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T10:00:00+03:00",
+          "stop": "2026-11-27T11:00:00+03:00",
+          "title": "Stream Nation: Journey to the Savage Planet Ep 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T11:00:00+03:00",
+          "stop": "2026-11-27T11:55:00+03:00",
+          "title": "Stream Nation: Spyro Ep 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T11:55:00+03:00",
+          "stop": "2026-11-27T12:50:00+03:00",
+          "title": "Stream Nation: Spyro Ep 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T12:50:00+03:00",
+          "stop": "2026-11-27T13:15:00+03:00",
+          "title": "Wild Spirit Ep 14",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T13:15:00+03:00",
+          "stop": "2026-11-27T13:40:00+03:00",
+          "title": "Wild Spirit Ep 15",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T13:40:00+03:00",
+          "stop": "2026-11-27T14:00:00+03:00",
+          "title": "Wild Spirit Ep 16",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T14:00:00+03:00",
+          "stop": "2026-11-27T15:00:00+03:00",
+          "title": "Stream Nation: Ori and the Will of the Wisps Ep 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T15:00:00+03:00",
+          "stop": "2026-11-27T16:00:00+03:00",
+          "title": "Stream Nation: Ori and the Will of the Wisps Ep 5",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T16:00:00+03:00",
+          "stop": "2026-11-27T17:00:00+03:00",
+          "title": "Stream Nation: Journey to the Savage Planet Ep 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:00:00+03:00",
+          "stop": "2026-11-27T17:25:00+03:00",
+          "title": "GP Racing 2021 Ep 44",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:25:00+03:00",
+          "stop": "2026-11-27T17:50:00+03:00",
+          "title": "GP Racing 2021 Ep 45",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:50:00+03:00",
+          "stop": "2026-11-27T18:10:00+03:00",
+          "title": "Autospeed 2020 Ep 26",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T18:10:00+03:00",
+          "stop": "2026-11-27T18:35:00+03:00",
+          "title": "Autospeed 2020 Ep 27",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T18:35:00+03:00",
+          "stop": "2026-11-27T19:30:00+03:00",
+          "title": "Stream Nation: Spyro Ep 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T19:30:00+03:00",
+          "stop": "2026-11-27T20:30:00+03:00",
+          "title": "Stream Nation: Spyro Ep 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:30:00+03:00",
+          "stop": "2026-11-27T21:20:00+03:00",
+          "title": "Drone Wars Ep 1",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T21:20:00+03:00",
+          "stop": "2026-11-27T22:15:00+03:00",
+          "title": "Drone Wars Ep 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T22:15:00+03:00",
+          "stop": "2026-11-27T23:05:00+03:00",
+          "title": "Drone Wars Ep 3",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T23:05:00+03:00",
+          "stop": "2026-11-27T23:55:00+03:00",
+          "title": "Stream Nation: The Last of Us 2 Ep 2",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T23:55:00+03:00",
+          "stop": "2026-11-28T00:20:00+03:00",
+          "title": "Autospeed 2020 Ep 16",
           "description": "L",
           "category": null
         }

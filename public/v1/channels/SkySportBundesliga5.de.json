@@ -8,16 +8,61 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 1,
+  "programmeCount": 6,
   "days": [
     {
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "programs": [
         {
-          "start": "2026-11-24T08:00:00+03:00",
-          "stop": "2026-11-25T08:00:00+03:00",
+          "start": "2026-11-25T08:00:00+03:00",
+          "stop": "2026-11-26T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-26",
+      "programs": [
+        {
+          "start": "2026-11-26T08:00:00+03:00",
+          "stop": "2026-11-27T08:00:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T08:00:00+03:00",
+          "stop": "2026-11-27T19:40:00+03:00",
+          "title": "Sendepause",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T19:40:00+03:00",
+          "stop": "2026-11-27T20:00:00+03:00",
+          "title": "⋗ 2. Bundesliga",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:00:00+03:00",
+          "stop": "2026-11-27T22:30:00+03:00",
+          "title": "⋗ 2. BL: Multiview, 13. Spieltag, Freitag",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T22:30:00+03:00",
+          "stop": "2026-11-28T08:00:00+03:00",
           "title": "Sendepause",
           "description": "L",
           "category": null

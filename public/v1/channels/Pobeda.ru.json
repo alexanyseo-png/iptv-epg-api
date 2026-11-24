@@ -8,85 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 22,
   "days": [
-    {
-      "date": "2026-11-24",
-      "programs": [
-        {
-          "start": "2026-11-24T00:30:00+03:00",
-          "stop": "2026-11-24T02:25:00+03:00",
-          "title": "х/ф Судьба диверсанта",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T02:25:00+03:00",
-          "stop": "2026-11-24T04:30:00+03:00",
-          "title": "х/ф Батальонъ",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:30:00+03:00",
-          "stop": "2026-11-24T05:30:00+03:00",
-          "title": "Путь к Победе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T05:30:00+03:00",
-          "stop": "2026-11-24T07:10:00+03:00",
-          "title": "х/ф Стрельцов",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:10:00+03:00",
-          "stop": "2026-11-24T10:50:00+03:00",
-          "title": "т/с Балабол",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T10:50:00+03:00",
-          "stop": "2026-11-24T14:30:00+03:00",
-          "title": "х/ф Позывной Альфа",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:30:00+03:00",
-          "stop": "2026-11-24T18:10:00+03:00",
-          "title": "х/ф Кремень",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T18:10:00+03:00",
-          "stop": "2026-11-24T22:00:00+03:00",
-          "title": "х/ф Кремень. Освобождение",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:00:00+03:00",
-          "stop": "2026-11-24T23:40:00+03:00",
-          "title": "х/ф Брат",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T23:40:00+03:00",
-          "stop": "2026-11-25T01:50:00+03:00",
-          "title": "х/ф Брат 2",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-25",
       "programs": [
@@ -204,6 +129,53 @@
           "start": "2026-11-26T21:50:00+03:00",
           "stop": "2026-11-27T00:10:00+03:00",
           "title": "х/ф Подольские курсанты",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T00:10:00+03:00",
+          "stop": "2026-11-27T02:00:00+03:00",
+          "title": "х/ф Единичка",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T02:00:00+03:00",
+          "stop": "2026-11-27T03:40:00+03:00",
+          "title": "х/ф Живи и помни",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T03:40:00+03:00",
+          "stop": "2026-11-27T04:40:00+03:00",
+          "title": "Путь к Победе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T04:40:00+03:00",
+          "stop": "2026-11-27T07:10:00+03:00",
+          "title": "х/ф Перегон",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T07:10:00+03:00",
+          "stop": "2026-11-27T11:00:00+03:00",
+          "title": "т/с Балабол",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T11:00:00+03:00",
+          "stop": "2026-11-28T01:30:00+03:00",
+          "title": "т/с Желтый глаз тигра",
           "description": "L",
           "category": null
         }

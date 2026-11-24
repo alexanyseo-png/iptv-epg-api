@@ -8,162 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 64,
+  "programmeCount": 63,
   "days": [
-    {
-      "date": "2026-11-24",
-      "programs": [
-        {
-          "start": "2026-11-24T01:00:00+03:00",
-          "stop": "2026-11-24T01:45:00+03:00",
-          "title": "т/с Корона слез.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T01:45:00+03:00",
-          "stop": "2026-11-24T02:20:00+03:00",
-          "title": "Мультфильм.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T02:20:00+03:00",
-          "stop": "2026-11-24T03:00:00+03:00",
-          "title": "д/с Достояние планеты.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T03:00:00+03:00",
-          "stop": "2026-11-24T04:45:00+03:00",
-          "title": "х/ф Она носила желтую ленту.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:45:00+03:00",
-          "stop": "2026-11-24T04:55:00+03:00",
-          "title": "История одной вещи (Бернардино Фунгаи).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:55:00+03:00",
-          "stop": "2026-11-24T05:00:00+03:00",
-          "title": "Страницы истории России.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T05:00:00+03:00",
-          "stop": "2026-11-24T07:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:00:00+03:00",
-          "stop": "2026-11-24T09:00:00+03:00",
-          "title": "Ювелиртрейд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T09:00:00+03:00",
-          "stop": "2026-11-24T11:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T11:00:00+03:00",
-          "stop": "2026-11-24T12:00:00+03:00",
-          "title": "Ювелиртрейд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T12:00:00+03:00",
-          "stop": "2026-11-24T14:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:00:00+03:00",
-          "stop": "2026-11-24T15:00:00+03:00",
-          "title": "Ювелиртрейд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T15:00:00+03:00",
-          "stop": "2026-11-24T17:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:00:00+03:00",
-          "stop": "2026-11-24T18:00:00+03:00",
-          "title": "Ювелиртрейд.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T18:00:00+03:00",
-          "stop": "2026-11-24T20:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T20:00:00+03:00",
-          "stop": "2026-11-24T20:45:00+03:00",
-          "title": "т/с Медики, линия жизни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T20:45:00+03:00",
-          "stop": "2026-11-24T22:35:00+03:00",
-          "title": "х/ф Она носила желтую ленту.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:35:00+03:00",
-          "stop": "2026-11-24T22:45:00+03:00",
-          "title": "д/с Коллекция заблуждений (Запасная жена Сергея Есенина Галина Бениславская).",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:45:00+03:00",
-          "stop": "2026-11-24T22:55:00+03:00",
-          "title": "Разговор по душам.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:55:00+03:00",
-          "stop": "2026-11-24T23:00:00+03:00",
-          "title": "Страницы истории России.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T23:00:00+03:00",
-          "stop": "2026-11-25T01:00:00+03:00",
-          "title": "⋗ Torre Ricca.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-25",
       "programs": [
@@ -469,6 +317,151 @@
         {
           "start": "2026-11-26T23:00:00+03:00",
           "stop": "2026-11-27T01:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T01:00:00+03:00",
+          "stop": "2026-11-27T01:45:00+03:00",
+          "title": "т/с Корона слез.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:45:00+03:00",
+          "stop": "2026-11-27T01:55:00+03:00",
+          "title": "Мультфильм.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:55:00+03:00",
+          "stop": "2026-11-27T02:10:00+03:00",
+          "title": "д/с Достояние планеты.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T02:10:00+03:00",
+          "stop": "2026-11-27T04:55:00+03:00",
+          "title": "х/ф Великий Зигфилд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T04:55:00+03:00",
+          "stop": "2026-11-27T05:00:00+03:00",
+          "title": "Страницы истории России.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T05:00:00+03:00",
+          "stop": "2026-11-27T07:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T07:00:00+03:00",
+          "stop": "2026-11-27T09:00:00+03:00",
+          "title": "Ювелиртрейд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T09:00:00+03:00",
+          "stop": "2026-11-27T11:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T11:00:00+03:00",
+          "stop": "2026-11-27T12:00:00+03:00",
+          "title": "Ювелиртрейд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T12:00:00+03:00",
+          "stop": "2026-11-27T14:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T14:00:00+03:00",
+          "stop": "2026-11-27T15:00:00+03:00",
+          "title": "Ювелиртрейд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T15:00:00+03:00",
+          "stop": "2026-11-27T17:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:00:00+03:00",
+          "stop": "2026-11-27T18:00:00+03:00",
+          "title": "Ювелиртрейд.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T18:00:00+03:00",
+          "stop": "2026-11-27T20:00:00+03:00",
+          "title": "⋗ Torre Ricca.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:00:00+03:00",
+          "stop": "2026-11-27T20:15:00+03:00",
+          "title": "Новости.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:15:00+03:00",
+          "stop": "2026-11-27T22:05:00+03:00",
+          "title": "Экранизация литературных произведений на Точке ТВ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T22:05:00+03:00",
+          "stop": "2026-11-27T22:35:00+03:00",
+          "title": "Гиганты и Звездные войны средневековья.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T22:35:00+03:00",
+          "stop": "2026-11-27T22:55:00+03:00",
+          "title": "Художник, который жил с бандитами. Сальватор Роза. И немножко про Караваджистов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T22:55:00+03:00",
+          "stop": "2026-11-27T23:00:00+03:00",
+          "title": "Страницы истории России.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T23:00:00+03:00",
+          "stop": "2026-11-28T01:00:00+03:00",
           "title": "⋗ Torre Ricca.",
           "description": "L",
           "category": null

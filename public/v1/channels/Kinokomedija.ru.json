@@ -8,113 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 28,
+  "programmeCount": 27,
   "days": [
-    {
-      "date": "2026-11-24",
-      "programs": [
-        {
-          "start": "2026-11-24T00:40:00+03:00",
-          "stop": "2026-11-24T02:10:00+03:00",
-          "title": "Тайный Санта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T02:10:00+03:00",
-          "stop": "2026-11-24T03:50:00+03:00",
-          "title": "Римские свидания.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T03:50:00+03:00",
-          "stop": "2026-11-24T05:30:00+03:00",
-          "title": "Отдохнуть по-людски.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T05:30:00+03:00",
-          "stop": "2026-11-24T07:10:00+03:00",
-          "title": "Девушки бывают разные.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:10:00+03:00",
-          "stop": "2026-11-24T09:00:00+03:00",
-          "title": "Конец славы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T09:00:00+03:00",
-          "stop": "2026-11-24T10:40:00+03:00",
-          "title": "Батя 2. Дед.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T10:40:00+03:00",
-          "stop": "2026-11-24T12:35:00+03:00",
-          "title": "Свадебный переполох.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T12:35:00+03:00",
-          "stop": "2026-11-24T14:15:00+03:00",
-          "title": "ДМБ.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:15:00+03:00",
-          "stop": "2026-11-24T16:00:00+03:00",
-          "title": "Крокодил Данди.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T16:00:00+03:00",
-          "stop": "2026-11-24T17:40:00+03:00",
-          "title": "Уволить Жору.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:40:00+03:00",
-          "stop": "2026-11-24T19:30:00+03:00",
-          "title": "За Палыча! 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T19:30:00+03:00",
-          "stop": "2026-11-24T21:35:00+03:00",
-          "title": "Крокодил Данди 2.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T21:35:00+03:00",
-          "stop": "2026-11-24T23:20:00+03:00",
-          "title": "Горыныч.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T23:20:00+03:00",
-          "stop": "2026-11-25T01:05:00+03:00",
-          "title": "Без тормозов.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-25",
       "programs": [
@@ -216,8 +113,104 @@
       "programs": [
         {
           "start": "2026-11-26T00:50:00+03:00",
-          "stop": "2026-11-26T01:50:00+03:00",
+          "stop": "2026-11-26T03:15:00+03:00",
           "title": "Семейный переполох.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T03:15:00+03:00",
+          "stop": "2026-11-26T05:10:00+03:00",
+          "title": "В баню!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T05:10:00+03:00",
+          "stop": "2026-11-26T06:45:00+03:00",
+          "title": "ДМБ.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T06:45:00+03:00",
+          "stop": "2026-11-26T08:35:00+03:00",
+          "title": "Горыныч.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T08:35:00+03:00",
+          "stop": "2026-11-26T10:45:00+03:00",
+          "title": "Каникулы строгого режима.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T10:45:00+03:00",
+          "stop": "2026-11-26T12:35:00+03:00",
+          "title": "Крокодил Данди.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T12:35:00+03:00",
+          "stop": "2026-11-26T14:20:00+03:00",
+          "title": "За Палыча! 2.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T14:20:00+03:00",
+          "stop": "2026-11-26T16:00:00+03:00",
+          "title": "Петрушка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T16:00:00+03:00",
+          "stop": "2026-11-26T17:40:00+03:00",
+          "title": "Батя 2. Дед.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T17:40:00+03:00",
+          "stop": "2026-11-26T19:30:00+03:00",
+          "title": "Няньки.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T19:30:00+03:00",
+          "stop": "2026-11-26T21:05:00+03:00",
+          "title": "Сокровища джунглей.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T21:05:00+03:00",
+          "stop": "2026-11-26T22:55:00+03:00",
+          "title": "Конец славы.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-26T22:55:00+03:00",
+          "stop": "2026-11-27T00:30:00+03:00",
+          "title": "Большая свадьба.",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T00:30:00+03:00",
+          "stop": "2026-11-27T01:30:00+03:00",
+          "title": "Свидетели.",
           "description": "L",
           "category": null
         }

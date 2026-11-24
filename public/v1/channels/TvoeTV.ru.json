@@ -8,8 +8,56 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
-  "available": false,
-  "programmeCount": 0,
-  "days": []
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
+  "available": true,
+  "programmeCount": 6,
+  "days": [
+    {
+      "date": "2026-11-25",
+      "programs": [
+        {
+          "start": "2026-11-25T00:00:00+03:00",
+          "stop": "2026-11-25T01:00:00+03:00",
+          "title": "Comedy Club",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T01:00:00+03:00",
+          "stop": "2026-11-25T02:00:00+03:00",
+          "title": "Уральские пельмени",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T02:00:00+03:00",
+          "stop": "2026-11-25T03:30:00+03:00",
+          "title": "х/ф Родня",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T03:30:00+03:00",
+          "stop": "2026-11-25T04:00:00+03:00",
+          "title": "т/с Профессиональный сосед ┊ 4",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T04:00:00+03:00",
+          "stop": "2026-11-25T06:00:00+03:00",
+          "title": "х/ф Случайный шпион",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T06:00:00+03:00",
+          "stop": "2026-11-25T07:00:00+03:00",
+          "title": "Трэвэл-Шоу Орел и решка",
+          "description": "L",
+          "category": null
+        }
+      ]
+    }
+  ]
 }

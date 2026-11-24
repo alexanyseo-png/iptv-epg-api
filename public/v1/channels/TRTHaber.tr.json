@@ -8,190 +8,17 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-23T23:57:10.116907+00:00",
+  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
   "available": true,
-  "programmeCount": 79,
+  "programmeCount": 72,
   "days": [
-    {
-      "date": "2026-11-24",
-      "programs": [
-        {
-          "start": "2026-11-24T00:55:00+03:00",
-          "stop": "2026-11-24T01:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T01:00:00+03:00",
-          "stop": "2026-11-24T04:00:00+03:00",
-          "title": "Gün Sonu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:00:00+03:00",
-          "stop": "2026-11-24T04:55:00+03:00",
-          "title": "Haber 04",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T04:55:00+03:00",
-          "stop": "2026-11-24T05:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T05:00:00+03:00",
-          "stop": "2026-11-24T06:00:00+03:00",
-          "title": "Haber 05",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T06:00:00+03:00",
-          "stop": "2026-11-24T07:00:00+03:00",
-          "title": "Haber 06",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T07:00:00+03:00",
-          "stop": "2026-11-24T09:55:00+03:00",
-          "title": "Günaydın Hafta Sonu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T09:55:00+03:00",
-          "stop": "2026-11-24T10:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T10:00:00+03:00",
-          "stop": "2026-11-24T11:00:00+03:00",
-          "title": "Haber 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T11:00:00+03:00",
-          "stop": "2026-11-24T12:00:00+03:00",
-          "title": "Haber 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T12:00:00+03:00",
-          "stop": "2026-11-24T13:00:00+03:00",
-          "title": "Haber 12",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T13:00:00+03:00",
-          "stop": "2026-11-24T13:55:00+03:00",
-          "title": "Haber 13",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T13:55:00+03:00",
-          "stop": "2026-11-24T14:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:00:00+03:00",
-          "stop": "2026-11-24T14:30:00+03:00",
-          "title": "Haber 14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T14:30:00+03:00",
-          "stop": "2026-11-24T15:00:00+03:00",
-          "title": "Kültür Sanat Saati",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T15:00:00+03:00",
-          "stop": "2026-11-24T16:00:00+03:00",
-          "title": "Haber 15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T16:00:00+03:00",
-          "stop": "2026-11-24T17:00:00+03:00",
-          "title": "Haber 16",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:00:00+03:00",
-          "stop": "2026-11-24T17:55:00+03:00",
-          "title": "Haber 17",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T17:55:00+03:00",
-          "stop": "2026-11-24T18:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T18:00:00+03:00",
-          "stop": "2026-11-24T19:00:00+03:00",
-          "title": "Haber 18",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T19:00:00+03:00",
-          "stop": "2026-11-24T20:00:00+03:00",
-          "title": "Haber 19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T20:00:00+03:00",
-          "stop": "2026-11-24T21:00:00+03:00",
-          "title": "Ana Haber",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T21:00:00+03:00",
-          "stop": "2026-11-24T22:00:00+03:00",
-          "title": "Ömür Dediğin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-24T22:00:00+03:00",
-          "stop": "2026-11-24T23:30:00+03:00",
-          "title": "Odak Gündem",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-25",
       "programs": [
         {
           "start": "2026-11-25T00:00:00+03:00",
           "stop": "2026-11-25T00:55:00+03:00",
-          "title": "Haber 24",
+          "title": "Gece Bakışı",
           "description": "L",
           "category": null
         },
@@ -204,29 +31,8 @@
         },
         {
           "start": "2026-11-25T01:00:00+03:00",
-          "stop": "2026-11-25T02:00:00+03:00",
-          "title": "Haber 01",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T02:00:00+03:00",
-          "stop": "2026-11-25T02:55:00+03:00",
-          "title": "Ömür Dediğin",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T02:55:00+03:00",
-          "stop": "2026-11-25T03:00:00+03:00",
-          "title": "Hava Durumu",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T03:00:00+03:00",
           "stop": "2026-11-25T04:00:00+03:00",
-          "title": "Haber 03",
+          "title": "Gün Sonu",
           "description": "L",
           "category": null
         },
@@ -261,7 +67,7 @@
         {
           "start": "2026-11-25T07:00:00+03:00",
           "stop": "2026-11-25T09:55:00+03:00",
-          "title": "Günaydın Hafta Sonu",
+          "title": "Dün Bugün",
           "description": "L",
           "category": null
         },
@@ -274,29 +80,22 @@
         },
         {
           "start": "2026-11-25T10:00:00+03:00",
-          "stop": "2026-11-25T11:00:00+03:00",
-          "title": "Haber 10",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T11:00:00+03:00",
-          "stop": "2026-11-25T12:00:00+03:00",
-          "title": "Haber 11",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T12:00:00+03:00",
           "stop": "2026-11-25T13:00:00+03:00",
-          "title": "Haber 12",
+          "title": "Satır Başı",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T13:00:00+03:00",
+          "stop": "2026-11-25T13:50:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T13:50:00+03:00",
           "stop": "2026-11-25T13:55:00+03:00",
-          "title": "Haber 13",
+          "title": "Piyasa Raporu",
           "description": "L",
           "category": null
         },
@@ -309,36 +108,22 @@
         },
         {
           "start": "2026-11-25T14:00:00+03:00",
-          "stop": "2026-11-25T14:40:00+03:00",
-          "title": "Haber 14",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T14:40:00+03:00",
           "stop": "2026-11-25T15:00:00+03:00",
-          "title": "İşte Bu Benim Hikayem",
+          "title": "Öğle Ana Haber",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T15:00:00+03:00",
-          "stop": "2026-11-25T16:00:00+03:00",
-          "title": "Haber 15",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T16:00:00+03:00",
           "stop": "2026-11-25T17:00:00+03:00",
-          "title": "Haber 16",
+          "title": "Haber Ajandası",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T17:00:00+03:00",
           "stop": "2026-11-25T17:55:00+03:00",
-          "title": "Haber 17",
+          "title": "Günün İçinden",
           "description": "L",
           "category": null
         },
@@ -351,36 +136,43 @@
         },
         {
           "start": "2026-11-25T18:00:00+03:00",
+          "stop": "2026-11-25T18:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-25T18:55:00+03:00",
           "stop": "2026-11-25T19:00:00+03:00",
-          "title": "Haber 18",
+          "title": "Piyasa Raporu",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T19:00:00+03:00",
           "stop": "2026-11-25T20:00:00+03:00",
-          "title": "Haber 19",
+          "title": "Sıcak Haber",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T20:00:00+03:00",
-          "stop": "2026-11-25T21:00:00+03:00",
+          "stop": "2026-11-25T20:45:00+03:00",
           "title": "Ana Haber",
           "description": "L",
           "category": null
         },
         {
-          "start": "2026-11-25T21:00:00+03:00",
+          "start": "2026-11-25T20:45:00+03:00",
           "stop": "2026-11-25T23:00:00+03:00",
-          "title": "Odak Gündem",
+          "title": "Birinci Sayfa",
           "description": "L",
           "category": null
         },
         {
           "start": "2026-11-25T23:00:00+03:00",
           "stop": "2026-11-26T00:00:00+03:00",
-          "title": "Dünya Hali",
+          "title": "Gece Bakışı",
           "description": "L",
           "category": null
         }
@@ -574,6 +366,165 @@
         {
           "start": "2026-11-26T23:00:00+03:00",
           "stop": "2026-11-27T00:30:00+03:00",
+          "title": "Gece Bakışı",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "programs": [
+        {
+          "start": "2026-11-27T00:55:00+03:00",
+          "stop": "2026-11-27T01:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T01:00:00+03:00",
+          "stop": "2026-11-27T04:00:00+03:00",
+          "title": "Gün Sonu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T04:00:00+03:00",
+          "stop": "2026-11-27T04:55:00+03:00",
+          "title": "Haber 04",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T04:55:00+03:00",
+          "stop": "2026-11-27T05:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T05:00:00+03:00",
+          "stop": "2026-11-27T06:00:00+03:00",
+          "title": "Haber 05",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T06:00:00+03:00",
+          "stop": "2026-11-27T07:00:00+03:00",
+          "title": "Haber 06",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T07:00:00+03:00",
+          "stop": "2026-11-27T09:55:00+03:00",
+          "title": "Dün Bugün",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T09:55:00+03:00",
+          "stop": "2026-11-27T10:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T10:00:00+03:00",
+          "stop": "2026-11-27T13:00:00+03:00",
+          "title": "Satır Başı",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T13:00:00+03:00",
+          "stop": "2026-11-27T13:50:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T13:50:00+03:00",
+          "stop": "2026-11-27T13:55:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T13:55:00+03:00",
+          "stop": "2026-11-27T14:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T14:00:00+03:00",
+          "stop": "2026-11-27T15:00:00+03:00",
+          "title": "Öğle Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T15:00:00+03:00",
+          "stop": "2026-11-27T17:00:00+03:00",
+          "title": "Haber Ajandası",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:00:00+03:00",
+          "stop": "2026-11-27T17:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T17:55:00+03:00",
+          "stop": "2026-11-27T18:00:00+03:00",
+          "title": "Hava Durumu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T18:00:00+03:00",
+          "stop": "2026-11-27T18:55:00+03:00",
+          "title": "Günün İçinden",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T18:55:00+03:00",
+          "stop": "2026-11-27T19:00:00+03:00",
+          "title": "Piyasa Raporu",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T19:00:00+03:00",
+          "stop": "2026-11-27T20:00:00+03:00",
+          "title": "Sıcak Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:00:00+03:00",
+          "stop": "2026-11-27T20:45:00+03:00",
+          "title": "Ana Haber",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T20:45:00+03:00",
+          "stop": "2026-11-27T23:00:00+03:00",
+          "title": "Birinci Sayfa",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-27T23:00:00+03:00",
+          "stop": "2026-11-28T00:30:00+03:00",
           "title": "Gece Bakışı",
           "description": "L",
           "category": null
