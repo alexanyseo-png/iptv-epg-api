@@ -8,92 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
+  "generatedAt": "2026-11-25T21:44:47.410303+00:00",
   "available": true,
-  "programmeCount": 36,
+  "programmeCount": 35,
   "days": [
-    {
-      "date": "2026-11-25",
-      "programs": [
-        {
-          "start": "2026-11-25T01:05:00+03:00",
-          "stop": "2026-11-25T02:55:00+03:00",
-          "title": "Racing Santander – Real Sociedad",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T02:55:00+03:00",
-          "stop": "2026-11-25T04:45:00+03:00",
-          "title": "ES Troyes – Le Havre AC",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T04:45:00+03:00",
-          "stop": "2026-11-25T09:00:00+03:00",
-          "title": "Ve skluzu (141)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T09:00:00+03:00",
-          "stop": "2026-11-25T11:00:00+03:00",
-          "title": "Real Madrid – PSV Eindhoven",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T11:00:00+03:00",
-          "stop": "2026-11-25T13:00:00+03:00",
-          "title": "FK Bod?/Glimt – LASK Linz",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T13:00:00+03:00",
-          "stop": "2026-11-25T15:00:00+03:00",
-          "title": "Bayern Mnichov U19 – SK Slavia Praha U19",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T15:00:00+03:00",
-          "stop": "2026-11-25T16:50:00+03:00",
-          "title": "Borussia Mönchengladbach – Borussia Dortmund",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T16:50:00+03:00",
-          "stop": "2026-11-25T18:40:00+03:00",
-          "title": "Schalke 04 – VfB Stuttgart",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T18:40:00+03:00",
-          "stop": "2026-11-25T20:30:00+03:00",
-          "title": "Levante UD – Elche CF",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T20:30:00+03:00",
-          "stop": "2026-11-25T22:45:00+03:00",
-          "title": "Sabah FK – FC Barcelona",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T22:45:00+03:00",
-          "stop": "2026-11-26T01:05:00+03:00",
-          "title": "Lille OSC – Bayern Mnichov",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-26",
       "programs": [
@@ -274,6 +192,81 @@
           "start": "2026-11-27T22:55:00+03:00",
           "stop": "2026-11-28T01:05:00+03:00",
           "title": "Levante UD – Racing Santander",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "programs": [
+        {
+          "start": "2026-11-28T01:05:00+03:00",
+          "stop": "2026-11-28T03:00:00+03:00",
+          "title": "Lille OSC – Bayern Mnichov",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T03:00:00+03:00",
+          "stop": "2026-11-28T09:00:00+03:00",
+          "title": "Sabah FK – FC Barcelona",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T09:00:00+03:00",
+          "stop": "2026-11-28T11:00:00+03:00",
+          "title": "Levante UD – Racing Santander",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T11:00:00+03:00",
+          "stop": "2026-11-28T13:00:00+03:00",
+          "title": "1. FC Heidenheim – 1. FC Norimberk",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T13:00:00+03:00",
+          "stop": "2026-11-28T15:00:00+03:00",
+          "title": "Club Bruggy – Liverpool FC",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T15:00:00+03:00",
+          "stop": "2026-11-28T15:55:00+03:00",
+          "title": "La Liga Highlights (13)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T15:55:00+03:00",
+          "stop": "2026-11-28T18:10:00+03:00",
+          "title": "Real Betis – Rayo Vallecano",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T18:10:00+03:00",
+          "stop": "2026-11-28T20:25:00+03:00",
+          "title": "Málaga CF – Athletic Bilbao",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T20:25:00+03:00",
+          "stop": "2026-11-28T22:40:00+03:00",
+          "title": "Elche CF – Atlético Madrid",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T22:40:00+03:00",
+          "stop": "2026-11-29T01:00:00+03:00",
+          "title": "PSG – FC Lorient",
           "description": "L",
           "category": null
         }

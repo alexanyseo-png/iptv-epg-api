@@ -8,29 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-24T22:29:37.968980+00:00",
+  "generatedAt": "2026-11-25T21:44:47.410303+00:00",
   "available": true,
-  "programmeCount": 15,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-11-25",
-      "programs": [
-        {
-          "start": "2026-11-25T00:15:00+03:00",
-          "stop": "2026-11-25T22:30:00+03:00",
-          "title": "Перерыв в программе",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-25T22:30:00+03:00",
-          "stop": "2026-11-26T00:30:00+03:00",
-          "title": "Basketbols: NCAA. Maui Invitational | Championship",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-26",
       "programs": [
@@ -127,6 +108,95 @@
           "start": "2026-11-27T23:00:00+03:00",
           "stop": "2026-11-28T01:10:00+03:00",
           "title": "Regbijs: Nāciju kauss. Fināls",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-28",
+      "programs": [
+        {
+          "start": "2026-11-28T01:10:00+03:00",
+          "stop": "2026-11-28T12:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T12:00:00+03:00",
+          "stop": "2026-11-28T13:10:00+03:00",
+          "title": "Bobslejs un Skeletons. Altenberga. Skeletons. 1. brauciens (S)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T13:10:00+03:00",
+          "stop": "2026-11-28T13:45:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T13:45:00+03:00",
+          "stop": "2026-11-28T14:35:00+03:00",
+          "title": "Bobslejs un Skeletons. Altenberga. Skeletons. 2. brauciens (S)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T14:35:00+03:00",
+          "stop": "2026-11-28T16:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T16:00:00+03:00",
+          "stop": "2026-11-28T16:50:00+03:00",
+          "title": "Bobslejs un Skeletons. Altenberga. Bobslejs. Divnieki. 1. brauciens (V)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T16:50:00+03:00",
+          "stop": "2026-11-28T17:30:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T17:30:00+03:00",
+          "stop": "2026-11-28T18:20:00+03:00",
+          "title": "Bobslejs un Skeletons. Altenberga. Bobslejs. Divnieki. 2. brauciens (V)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T18:20:00+03:00",
+          "stop": "2026-11-28T20:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T20:00:00+03:00",
+          "stop": "2026-11-28T21:10:00+03:00",
+          "title": "Bobslejs un Skeletons. Altenberga. Skeletons. Komandas sacīkstes",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T21:10:00+03:00",
+          "stop": "2026-11-28T22:00:00+03:00",
+          "title": "Перерыв в программе",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-28T22:00:00+03:00",
+          "stop": "2026-11-29T01:15:00+03:00",
+          "title": "Cīņu sports: Glory Kickboxing 2025. Tayfun Ozcan-Anouar Afakir",
           "description": "L",
           "category": null
         }
