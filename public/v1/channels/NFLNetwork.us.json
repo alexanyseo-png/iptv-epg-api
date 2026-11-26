@@ -8,106 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-25T21:44:47.410303+00:00",
+  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
   "available": true,
-  "programmeCount": 37,
+  "programmeCount": 33,
   "days": [
-    {
-      "date": "2026-11-26",
-      "programs": [
-        {
-          "start": "2026-11-26T01:00:00+03:00",
-          "stop": "2026-11-26T02:00:00+03:00",
-          "title": "⋗ NFL Fantasy Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T02:00:00+03:00",
-          "stop": "2026-11-26T03:00:00+03:00",
-          "title": "NFL Live",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T03:00:00+03:00",
-          "stop": "2026-11-26T04:00:00+03:00",
-          "title": "⋗ NFL Gameday Kickoff",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T04:00:00+03:00",
-          "stop": "2026-11-26T07:00:00+03:00",
-          "title": "NFL Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T07:00:00+03:00",
-          "stop": "2026-11-26T07:30:00+03:00",
-          "title": "ESPN Films",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T07:30:00+03:00",
-          "stop": "2026-11-26T08:30:00+03:00",
-          "title": "⋗ NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T08:30:00+03:00",
-          "stop": "2026-11-26T11:00:00+03:00",
-          "title": "NFL Football Green Bay Packers at Los Angeles Rams (SoFi Stadium, Inglewood, California, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T11:00:00+03:00",
-          "stop": "2026-11-26T12:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T12:00:00+03:00",
-          "stop": "2026-11-26T13:00:00+03:00",
-          "title": "NFL GameDay Final",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T13:00:00+03:00",
-          "stop": "2026-11-26T16:00:00+03:00",
-          "title": "NFL Football Green Bay Packers at Los Angeles Rams (SoFi Stadium, Inglewood, California, USA)",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T16:00:00+03:00",
-          "stop": "2026-11-26T18:00:00+03:00",
-          "title": "⋗ Good Morning Football",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T18:00:00+03:00",
-          "stop": "2026-11-26T21:00:00+03:00",
-          "title": "NFL Network",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T21:00:00+03:00",
-          "stop": "2026-11-27T00:00:00+03:00",
-          "title": "NFL Football Teams TBA",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-27",
       "programs": [
@@ -281,6 +185,74 @@
           "start": "2026-11-28T22:30:00+03:00",
           "stop": "2026-11-29T01:30:00+03:00",
           "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "programs": [
+        {
+          "start": "2026-11-29T01:30:00+03:00",
+          "stop": "2026-11-29T04:30:00+03:00",
+          "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T04:30:00+03:00",
+          "stop": "2026-11-29T07:30:00+03:00",
+          "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T07:30:00+03:00",
+          "stop": "2026-11-29T08:00:00+03:00",
+          "title": "NFL Matchup Week 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T08:00:00+03:00",
+          "stop": "2026-11-29T11:00:00+03:00",
+          "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T11:00:00+03:00",
+          "stop": "2026-11-29T14:00:00+03:00",
+          "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T14:00:00+03:00",
+          "stop": "2026-11-29T16:30:00+03:00",
+          "title": "NFL Football Teams TBA",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T16:30:00+03:00",
+          "stop": "2026-11-29T17:00:00+03:00",
+          "title": "NFL Matchup Week 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T17:00:00+03:00",
+          "stop": "2026-11-29T21:00:00+03:00",
+          "title": "⋗ NFL GameDay Morning",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T21:00:00+03:00",
+          "stop": "2026-11-30T00:30:00+03:00",
+          "title": "⋗ NFL GameDay Live",
           "description": "L",
           "category": null
         }

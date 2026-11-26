@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-25T21:44:47.410303+00:00",
+  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
   "available": true,
-  "programmeCount": 49,
+  "programmeCount": 55,
   "days": [
-    {
-      "date": "2026-11-26",
-      "programs": [
-        {
-          "start": "2026-11-26T05:00:00+03:00",
-          "stop": "2026-11-26T08:30:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T08:30:00+03:00",
-          "stop": "2026-11-26T08:35:00+03:00",
-          "title": "Давлеталиев әдісі",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T08:35:00+03:00",
-          "stop": "2026-11-26T18:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T18:00:00+03:00",
-          "stop": "2026-11-26T18:30:00+03:00",
-          "title": "K-поп",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T18:30:00+03:00",
-          "stop": "2026-11-26T18:35:00+03:00",
-          "title": "ШОУ ЖАҢАЛЫҚТАРЫ Лаура Нұрқасымовамен",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T18:35:00+03:00",
-          "stop": "2026-11-26T22:00:00+03:00",
-          "title": "Hit Zone",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-26T22:00:00+03:00",
-          "stop": "2026-11-27T05:00:00+03:00",
-          "title": "Түнгі тыныс",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-27",
       "programs": [
@@ -365,6 +311,102 @@
           "start": "2026-11-28T22:00:00+03:00",
           "stop": "2026-11-29T01:00:00+03:00",
           "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "programs": [
+        {
+          "start": "2026-11-29T01:00:00+03:00",
+          "stop": "2026-11-29T01:30:00+03:00",
+          "title": "Gold",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T01:30:00+03:00",
+          "stop": "2026-11-29T03:05:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T03:05:00+03:00",
+          "stop": "2026-11-29T03:30:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T03:30:00+03:00",
+          "stop": "2026-11-29T05:00:00+03:00",
+          "title": "Түнгі тыныс",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T05:00:00+03:00",
+          "stop": "2026-11-29T08:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T08:30:00+03:00",
+          "stop": "2026-11-29T08:35:00+03:00",
+          "title": "Kids star (Мария Шевкуновамен)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T08:35:00+03:00",
+          "stop": "2026-11-29T10:30:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T10:30:00+03:00",
+          "stop": "2026-11-29T11:00:00+03:00",
+          "title": "Персона (Бекжан Конурбаев)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T11:00:00+03:00",
+          "stop": "2026-11-29T18:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T18:00:00+03:00",
+          "stop": "2026-11-29T18:30:00+03:00",
+          "title": "K-поп",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T18:30:00+03:00",
+          "stop": "2026-11-29T20:00:00+03:00",
+          "title": "Hit Zone",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T20:00:00+03:00",
+          "stop": "2026-11-29T20:30:00+03:00",
+          "title": "Персона (Василий Павлюченко)",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T20:30:00+03:00",
+          "stop": "2026-11-29T21:30:00+03:00",
+          "title": "Hit Zone",
           "description": "L",
           "category": null
         }
