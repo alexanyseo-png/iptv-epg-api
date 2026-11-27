@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
+  "generatedAt": "2026-11-27T21:21:45.141032+00:00",
   "available": true,
-  "programmeCount": 27,
+  "programmeCount": 26,
   "days": [
-    {
-      "date": "2026-11-27",
-      "programs": [
-        {
-          "start": "2026-11-27T00:05:00+03:00",
-          "stop": "2026-11-27T01:35:00+03:00",
-          "title": "Выжившие.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T01:35:00+03:00",
-          "stop": "2026-11-27T04:15:00+03:00",
-          "title": "Призраки квартиры 203.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T04:15:00+03:00",
-          "stop": "2026-11-27T06:00:00+03:00",
-          "title": "В тумане.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T06:00:00+03:00",
-          "stop": "2026-11-27T08:00:00+03:00",
-          "title": "Обитель теней.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T08:00:00+03:00",
-          "stop": "2026-11-27T09:35:00+03:00",
-          "title": "Остров хищника.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T09:35:00+03:00",
-          "stop": "2026-11-27T11:40:00+03:00",
-          "title": "Тело.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T11:40:00+03:00",
-          "stop": "2026-11-27T13:50:00+03:00",
-          "title": "Саван.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T13:50:00+03:00",
-          "stop": "2026-11-27T16:05:00+03:00",
-          "title": "Город тайн.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T16:05:00+03:00",
-          "stop": "2026-11-27T17:40:00+03:00",
-          "title": "Мёртвая зона.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T17:40:00+03:00",
-          "stop": "2026-11-27T20:15:00+03:00",
-          "title": "Субстанция.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T20:15:00+03:00",
-          "stop": "2026-11-27T22:20:00+03:00",
-          "title": "Город тайн: Исчезнувшая.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T22:20:00+03:00",
-          "stop": "2026-11-28T00:25:00+03:00",
-          "title": "Еретик.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-28",
       "programs": [
@@ -209,8 +120,85 @@
       "programs": [
         {
           "start": "2026-11-29T01:30:00+03:00",
-          "stop": "2026-11-29T02:30:00+03:00",
+          "stop": "2026-11-29T03:45:00+03:00",
           "title": "На глубине 6 футов.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T03:45:00+03:00",
+          "stop": "2026-11-29T05:20:00+03:00",
+          "title": "В пасти океана.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T05:20:00+03:00",
+          "stop": "2026-11-29T06:55:00+03:00",
+          "title": "На краю.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T06:55:00+03:00",
+          "stop": "2026-11-29T08:55:00+03:00",
+          "title": "Обитель теней.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T08:55:00+03:00",
+          "stop": "2026-11-29T10:35:00+03:00",
+          "title": "Открытое море: Игра на выживание.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T10:35:00+03:00",
+          "stop": "2026-11-29T12:05:00+03:00",
+          "title": "Остров хищника.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T12:05:00+03:00",
+          "stop": "2026-11-29T14:10:00+03:00",
+          "title": "Тело.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T14:10:00+03:00",
+          "stop": "2026-11-29T16:25:00+03:00",
+          "title": "Город тайн.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T16:25:00+03:00",
+          "stop": "2026-11-29T19:00:00+03:00",
+          "title": "Субстанция.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T19:00:00+03:00",
+          "stop": "2026-11-29T21:10:00+03:00",
+          "title": "Саван.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T21:10:00+03:00",
+          "stop": "2026-11-29T23:20:00+03:00",
+          "title": "Город тайн: Исчезнувшая.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T23:20:00+03:00",
+          "stop": "2026-11-30T00:20:00+03:00",
+          "title": "Мёртвая зона.",
           "description": "L",
           "category": null
         }

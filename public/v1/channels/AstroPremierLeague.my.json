@@ -8,120 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
+  "generatedAt": "2026-11-27T21:21:45.141032+00:00",
   "available": true,
-  "programmeCount": 53,
+  "programmeCount": 44,
   "days": [
-    {
-      "date": "2026-11-27",
-      "programs": [
-        {
-          "start": "2026-11-27T01:00:00+03:00",
-          "stop": "2026-11-27T03:10:00+03:00",
-          "title": "PL: Bournemouth vs Nottm Forest",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T03:10:00+03:00",
-          "stop": "2026-11-27T05:20:00+03:00",
-          "title": "PL: Chelsea vs Leeds",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T05:20:00+03:00",
-          "stop": "2026-11-27T05:50:00+03:00",
-          "title": "The Final Word",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T05:50:00+03:00",
-          "stop": "2026-11-27T06:20:00+03:00",
-          "title": "PL Rewind: David James: My Premier League Years",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T06:20:00+03:00",
-          "stop": "2026-11-27T08:30:00+03:00",
-          "title": "PL: Brentford vs Everton",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T08:30:00+03:00",
-          "stop": "2026-11-27T09:00:00+03:00",
-          "title": "APL Stories 2026/27: Frank Lampard",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T09:00:00+03:00",
-          "stop": "2026-11-27T09:30:00+03:00",
-          "title": "Match HL 2026/27: WK11: CHE vs LEE",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T09:30:00+03:00",
-          "stop": "2026-11-27T10:00:00+03:00",
-          "title": "Match HL 2026/27: WK11: MCI vs FUL",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T10:00:00+03:00",
-          "stop": "2026-11-27T12:10:00+03:00",
-          "title": "PL: Aston Villa vs Sunderland",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T12:10:00+03:00",
-          "stop": "2026-11-27T14:20:00+03:00",
-          "title": "PL: Tottenham vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T14:20:00+03:00",
-          "stop": "2026-11-27T15:20:00+03:00",
-          "title": "The Art of…: The Evolution Of The Premier League Goalkeeper",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T15:20:00+03:00",
-          "stop": "2026-11-27T17:30:00+03:00",
-          "title": "PL: Man City vs Fulham",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T17:30:00+03:00",
-          "stop": "2026-11-27T20:40:00+03:00",
-          "title": "PL: Liverpool vs Man Utd",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T20:40:00+03:00",
-          "stop": "2026-11-27T22:50:00+03:00",
-          "title": "PL: Tottenham vs Ipswich",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T22:50:00+03:00",
-          "stop": "2026-11-28T01:00:00+03:00",
-          "title": "⋗ PL: Nottm Forest vs Chelsea",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-28",
       "programs": [
@@ -393,6 +283,53 @@
           "start": "2026-11-29T22:50:00+03:00",
           "stop": "2026-11-30T01:00:00+03:00",
           "title": "PL: Ipswich vs Aston Villa",
+          "description": "L",
+          "category": null
+        }
+      ]
+    },
+    {
+      "date": "2026-11-30",
+      "programs": [
+        {
+          "start": "2026-11-30T01:00:00+03:00",
+          "stop": "2026-11-30T02:00:00+03:00",
+          "title": "The Art of…: The Evolution Of The Premier League Goalkeeper",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-30T02:00:00+03:00",
+          "stop": "2026-11-30T04:10:00+03:00",
+          "title": "(D) PL: Fulham vs Bournemouth",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-30T04:10:00+03:00",
+          "stop": "2026-11-30T06:20:00+03:00",
+          "title": "PL: Everton vs Liverpool",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-30T06:20:00+03:00",
+          "stop": "2026-11-30T09:40:00+03:00",
+          "title": "PL: Arsenal vs Man City",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-30T09:40:00+03:00",
+          "stop": "2026-11-30T10:40:00+03:00",
+          "title": "The Weekend Wrap 2026/27 – Week 12",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-30T10:40:00+03:00",
+          "stop": "2026-11-30T12:50:00+03:00",
+          "title": "(D) PL: Crystal Palace vs Hull",
           "description": "L",
           "category": null
         }

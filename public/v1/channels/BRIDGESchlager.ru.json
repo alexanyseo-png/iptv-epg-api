@@ -8,64 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
+  "generatedAt": "2026-11-27T21:21:45.141032+00:00",
   "available": true,
-  "programmeCount": 13,
+  "programmeCount": 10,
   "days": [
-    {
-      "date": "2026-11-27",
-      "programs": [
-        {
-          "start": "2026-11-27T00:00:00+03:00",
-          "stop": "2026-11-27T07:00:00+03:00",
-          "title": "Хорошие песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T07:00:00+03:00",
-          "stop": "2026-11-27T14:00:00+03:00",
-          "title": "Хорошие песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T14:00:00+03:00",
-          "stop": "2026-11-27T19:00:00+03:00",
-          "title": "Хорошие песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T19:00:00+03:00",
-          "stop": "2026-11-27T19:30:00+03:00",
-          "title": "Movie time.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T19:30:00+03:00",
-          "stop": "2026-11-27T21:00:00+03:00",
-          "title": "Хорошие песни.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T21:00:00+03:00",
-          "stop": "2026-11-27T23:00:00+03:00",
-          "title": "Ээхх, разгуляй!!!",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T23:00:00+03:00",
-          "stop": "2026-11-28T00:00:00+03:00",
-          "title": "Хорошие песни.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-28",
       "programs": [
@@ -111,7 +57,35 @@
       "programs": [
         {
           "start": "2026-11-29T00:00:00+03:00",
-          "stop": "2026-11-29T01:00:00+03:00",
+          "stop": "2026-11-29T07:00:00+03:00",
+          "title": "Хорошие песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T07:00:00+03:00",
+          "stop": "2026-11-29T14:00:00+03:00",
+          "title": "Хорошие песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T14:00:00+03:00",
+          "stop": "2026-11-29T21:00:00+03:00",
+          "title": "Хорошие песни.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T21:00:00+03:00",
+          "stop": "2026-11-29T23:00:00+03:00",
+          "title": "Ээхх, разгуляй!!!",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T23:00:00+03:00",
+          "stop": "2026-11-30T00:00:00+03:00",
           "title": "Хорошие песни.",
           "description": "L",
           "category": null

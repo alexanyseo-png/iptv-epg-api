@@ -8,99 +8,10 @@
   },
   "timezone": "Europe/Moscow",
   "source": "RapidNAS XMLTV",
-  "generatedAt": "2026-11-26T21:37:47.845547+00:00",
+  "generatedAt": "2026-11-27T21:21:45.141032+00:00",
   "available": true,
-  "programmeCount": 26,
+  "programmeCount": 25,
   "days": [
-    {
-      "date": "2026-11-27",
-      "programs": [
-        {
-          "start": "2026-11-27T00:10:00+03:00",
-          "stop": "2026-11-27T01:50:00+03:00",
-          "title": "Достать стволы.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T01:50:00+03:00",
-          "stop": "2026-11-27T04:00:00+03:00",
-          "title": "Неоспоримый-3.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T04:00:00+03:00",
-          "stop": "2026-11-27T06:20:00+03:00",
-          "title": "Империя волков.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T06:20:00+03:00",
-          "stop": "2026-11-27T08:10:00+03:00",
-          "title": "Поцелуй дракона.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T08:10:00+03:00",
-          "stop": "2026-11-27T10:05:00+03:00",
-          "title": "Самоволка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T10:05:00+03:00",
-          "stop": "2026-11-27T11:50:00+03:00",
-          "title": "Чёрная метка.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T11:50:00+03:00",
-          "stop": "2026-11-27T14:00:00+03:00",
-          "title": "Вспомнить всё.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T14:00:00+03:00",
-          "stop": "2026-11-27T15:50:00+03:00",
-          "title": "Рейс навылет.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T15:50:00+03:00",
-          "stop": "2026-11-27T17:50:00+03:00",
-          "title": "Закон доблести.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T17:50:00+03:00",
-          "stop": "2026-11-27T20:00:00+03:00",
-          "title": "Боги Египта.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T20:00:00+03:00",
-          "stop": "2026-11-27T22:40:00+03:00",
-          "title": "Балканский рубеж.",
-          "description": "L",
-          "category": null
-        },
-        {
-          "start": "2026-11-27T22:40:00+03:00",
-          "stop": "2026-11-28T00:30:00+03:00",
-          "title": "Рыцари неба.",
-          "description": "L",
-          "category": null
-        }
-      ]
-    },
     {
       "date": "2026-11-28",
       "programs": [
@@ -202,8 +113,85 @@
       "programs": [
         {
           "start": "2026-11-29T00:50:00+03:00",
-          "stop": "2026-11-29T01:50:00+03:00",
+          "stop": "2026-11-29T03:10:00+03:00",
           "title": "Империя волков.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T03:10:00+03:00",
+          "stop": "2026-11-29T05:30:00+03:00",
+          "title": "Грабитель с крыши.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T05:30:00+03:00",
+          "stop": "2026-11-29T07:20:00+03:00",
+          "title": "Кровь и вино.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T07:20:00+03:00",
+          "stop": "2026-11-29T09:15:00+03:00",
+          "title": "Рыцари неба.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T09:15:00+03:00",
+          "stop": "2026-11-29T11:30:00+03:00",
+          "title": "Боги Египта.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T11:30:00+03:00",
+          "stop": "2026-11-29T13:40:00+03:00",
+          "title": "Вспомнить всё.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T13:40:00+03:00",
+          "stop": "2026-11-29T15:30:00+03:00",
+          "title": "Поцелуй дракона.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T15:30:00+03:00",
+          "stop": "2026-11-29T17:15:00+03:00",
+          "title": "Самоволка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T17:15:00+03:00",
+          "stop": "2026-11-29T20:00:00+03:00",
+          "title": "Балканский рубеж.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T20:00:00+03:00",
+          "stop": "2026-11-29T21:35:00+03:00",
+          "title": "Чёрная метка.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T21:35:00+03:00",
+          "stop": "2026-11-29T23:30:00+03:00",
+          "title": "Рейс навылет.",
+          "description": "L",
+          "category": null
+        },
+        {
+          "start": "2026-11-29T23:30:00+03:00",
+          "stop": "2026-11-30T00:30:00+03:00",
+          "title": "Матадор.",
           "description": "L",
           "category": null
         }
